@@ -1,5 +1,6 @@
 ﻿key,0,1
 #,Min,Max
+offset,0,1
 int32,byte,byte
 0,0,0
 1,1,5

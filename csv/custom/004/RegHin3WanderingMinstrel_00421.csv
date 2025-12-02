@@ -1,265 +1,113 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MINSTREL_GREETING_000","안녕, 최근에 한 경험 중에 재밌는 거 없었어?
-내가 노래로 만들어 부를 만한 모험담이 있다면
-꼭 들려줬으면 좋겠는데 말이야."
-1,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MENU_CONTENT","<If(Equal(IntegerParameter(1),20047))>스사노오<Else/><If(Equal(IntegerParameter(1),20049))>락슈미<Else/><If(Equal(IntegerParameter(1),20050))>신룡<Else/><If(Equal(IntegerParameter(1),30057))>바하무트<Else/><If(Equal(IntegerParameter(1),20052))>백호<Else/><If(Equal(IntegerParameter(1),20056))>츠쿠요미<Else/><If(Equal(IntegerParameter(1),30067))>알테마 웨폰<Else/><If(Equal(IntegerParameter(1),20058))>주작<Else/><If(Equal(IntegerParameter(1),20061))>청룡<Else/><If(Equal(IntegerParameter(1),30086))>알렉산더<Else/></If></If></If></If></If></If></If></If></If></If>에 대해 이야기한다"
-2,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MENU_CANCEL","취소"
-3,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MINSTREL_NOSELECT_000","……지금은 과거를 회상하는 것보다 더 소중한 일이 있나 보지?
-후후후, 미래의 모험을 향해 달려가는 너의 눈동자는 아주 멋져.
-과거의 격전을 얘기하고 싶어지면 언제든지 또 찾아오도록 해."
-4,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MINSTREL_NOCONTENT_000","……아 그렇지, 지난번에 네가 얘기해 준 모험담 기억하지?
-거기서 영감을 얻어 만든 희곡이 '무지코 극장'에서 호평 일색이야!
-관객들의 미소는 우리 창작자들에겐 활력의 원천이지."
+0,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MINSTREL_GREETING_000","呀，最近有什麼新奇的事情嗎？<hex:02100103>如果有能讓我寫成詩歌的冒險故事，請務必講給我聽。"
+1,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MENU_CONTENT","講述「<hex:0208F0FCE4E802F24E4FFF13>豪神須佐之男<hex:FFF0DF><hex:0208F0DAE4E802F24E51FF13>美神吉祥天女<hex:FFBF><hex:0208BBE4E802F24E52FF07>神龍<hex:FFAB><hex:0208A7E4E802F27569FF13>龍神巴哈姆特<hex:FF8B><hex:020887E4E802F27573FF0D>究極武器<hex:FF71><hex:02086DE4E802F24E54FF07>白虎<hex:FF5D><hex:020859E4E802F24E58FF0D>夜神月讀<hex:FF43><hex:02083FE4E802F24E5AFF07>朱雀<hex:FF2F><hex:02082BE4E802F24E5DFF07>青龍<hex:FF1B><hex:020817E4E802F27586FF0D>亞歷山大<hex:FF01><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03>」的故事"
+2,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MENU_CANCEL","取消"
+3,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MINSTREL_NOSELECT_000","……現在有比回顧過去更加重要的事情要做？<hex:02100103>哈哈哈，每次迎來新的冒險時，你的雙眼都會閃閃發光。<hex:02100103>好吧，那等有心情時，再來將過去的戰鬥講給我聽吧。"
+4,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MINSTREL_NOCONTENT_000","……對了，最近我將從你那聽來的冒險故事改編成了戲劇，<hex:02100103>結果在無地鼓座取得了空前成功！<hex:02100103>觀眾們的笑容就是我們創作者的源動力！"
 5,"TEXT_REGHIN3WANDERINGMINSTREL_00421_SYSTEM_OPENCONTENT_000","（★未使用／削除予定★）"
-6,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_000","자, 오늘은 어떤 이야기를 들려주려나?"
-7,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_001","……죽은 딸을 부활시키기 위해
-치유를 관장하는 야만신, 락슈미에 의지했던 어머니…….
-그리고 영혼 없는 인형이 된 딸…… 이리도 슬픈 이야기가 있나."
-8,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_002","치유의 힘으로 부활하려 한들 영혼은 이미 육체 밖에 있고
-사라진 영혼을 기리고 슬픔에 고뇌하는 마음을 치유하기 위해
-계속 마음을 바친다……."
-9,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_003","……내가 먼저 물어봐 놓고 미안한데,
-이 이야기를 희곡으로 만들어 사람들에게 들려줄 순 없겠어…….
-그저, 죽은 딸의 영혼에 바치기 위해서만 시를 지을게……."
-10,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_004","""어머니의 기도는 딸의 부활
- 미의 신이 치유한 건 딸의 육신, 흩어진 혼은 돌아오지 않나니"""
-11,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_005","""어머니의 소망은 딸의 미소
- 미의 신이 보여준 건 거짓된 꿈, 옅은 잠 속에 진실은 없나니"""
-12,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_006","……어때?
-괜히 슬픈 기억을 떠올리게 했는지도 모르겠네.
-들어줘서 고맙다……."
-13,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_007","노래를 어떻게 각색하든,
-한번 마음에 스며든 슬픔을 지울 순 없겠지…….
-아무리 꿈꿔도 현실은 바꿀 수 없듯이 말이야."
-14,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_008","그렇지만 슬픔으로 생긴 상처가 치유되길 빌 순 있겠지.
-너와 칼리아나파 사람들의 마음에 새겨진 슬픔이
-언젠가 꼭 치유되길 나도 바랄게……."
-15,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_020","오, 새로운 이야기를 들려주려고?
-고마워!"
-16,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_021","스사노오라…… 응, 멋진 시상이 떠올랐어……!
-이걸 희곡으로 각색해서 무대에 올려도 괜찮겠어.
-쿠가네에 드나드는 코우진족들이 보러 와줄지도 몰라."
-17,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_022","그래도 첫 번째 관객은 너여야겠지.
-스사노오와의 거친 전투를 그린 시를 꼭 들어줘!"
-18,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_023","""동쪽 바다에 전해지는 신기, 삼종이 모이면 신이 될지니
- 호걸신이 신검을 치켜들면 마음이 들뜨고 바다를 가르리"""
-19,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_024","""서쪽 바다에서 찾아온 영웅, 바다에 모여 신과 대치하나니
- 용사가 하얀 검을 치켜들면 마음이 들끓고 신마저 쓰러뜨리리"""
-20,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_025","어때, 스사노오의 호방함과 거친 모습이 잘 표현된 것 같아?
-내 나름대로 상상력을 발휘해서 각색해 봤는데…….
-괜찮다면 너도 당시의 치열했던 싸움을 회상했으면 해."
-21,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_026","……어? 실제보다 너무 호방하지 않냐고?
-뭐, 훨씬 놀라운 모습으로 연출할수록
-관객들은 더 좋아하니까!"
-22,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_027","틀림없이 네 모험담은 관객들로부터
-박수 갈채를 받을 거야!"
-23,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_30","그럼, 들려줄래?"
-24,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_031","신룡…… 신이라 이름지어진 용이라…….
-알라미고를 걱정하며 죽어간 이들의 절망이 실체화된 야만신…….
-그들이 바라던 갈레말 제국을 멸망시키기 위한 힘……. "
-25,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_032","하지만 그 힘은 적장에게 넘어가 최강의 적이 되어 앞을 막아섰지.
-목숨 건 싸움을 통하지 않고는 타인을 느낄 수 없는 슬픈 남자,
-제노스 예 갈부스와 함께……."
-26,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_033","""남자는 바라네 조국을 구할 힘과 원수에게 죽음을 안길 힘을
-육신을 버리고 주검과 맞바꿔 신의 용은 나타나리"""
-27,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_034","""남자는 갈구하네 자신을 드높일 힘과 호적수라는 힘을
-육신을 초월하여 목숨과 맞바꿔 신의 용과 융합하리"""
-28,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_035","나라를 구하기 위해 희생도 마다하지 않고 오직 힘을 추구한 남자,
-남을 이해하지 못하고 고고하게 끝까지 힘을 추구한 남자……
-비록 힘을 얻었다 한들, 두 사람에게 행복은 찾아올 것인가……."
-29,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_036","하지만 넌 앞으로도 계속 싸우겠지?
-그렇다면 이렇게 또 이야기를 들려줬으면 해."
-30,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_037","영웅담 뒤에 드리워진 슬픈 진실…….
-그걸 후세에 전하기 위해서 나도 계속 시를 짓고 싶어."
-31,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_040","흠…… 제7재해 때, 하늘에서 날아온
-고대의 야만신 '바하무트'에 관해서 이야기하려고?"
-32,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_041","하지만 그 야만신은 홀연히 자취를 감췄고
-재해 후유증으로 사람들 기억 속에서도…….
-잠깐………… 혹시 그 후에 이어지는 이야기가 있는 건가?"
-33,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_042","아니, 지금은 아무 말도 하지 말아줘.
-네가 뭘 알고 있든, 혹은 아무것도 모르고 있든 간에 상관없이
-이건 제7재해의 진실…… 내가 알아서는 안 될 비밀이라 생각해."
-34,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_043","후후…… 뜻밖의 반응이지?
-때로는 진상을 덮어둔 채 자유롭게 몽상의 나래를 펴는 편이
-시상을 더 풍요롭게 만들어주기도 하지."
-35,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_044","만약 용신 바하무트가 아무도 모르게 부활에 성공했다면?
-아아, 대중들이 좋아할 만한 용맹스러운 시상이 바로 떠오르는군!"
-36,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_045","""달에서 강림한 재앙의 용신, 신생을 이룬 대지에 잠들도다
- 진실을 쫓는 자들은 용의 사도와 해후하리라"""
-37,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_046","""별에 이끌려 빛의 전사는 지하의 미궁으로 침공하네
- 진실을 손에 쥔 자들은 진정한 위협을 멸하리라"""
-38,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_047","한때 세계를 위험에 몰아넣은 별의 위협과
-남몰래 싸우는 영웅의 사투…….
-이 주제라면 이곳 쿠가네 사람들도 좋아할 것 같아."
-39,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_048","후후…… 엄숙한 진실보다 가슴 벅찬 환상을 좋아하는
-사람들의 마음은 동서양을 가리지 않아.
- 네 덕분에 새로운 영웅 서사시를 만들어낼 수 있었어!"
-40,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_050","사성수라면 무지코 극장의 3대 희극이라 불리는 극 중 하나인
-'요괴 잡는 텐젠'에 나오는 네 마리 짐승 말이지?"
-41,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_051","후후…… 잘 알지?
-예술의 길을 걷는 자로서 하루라도 공부를 소홀히 할 순 없지."
-42,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_052","자, 사성수에 대해서는 어떤 이야기를 들려줄 거야?"
-43,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_053","인간의 언어를 다루는 짐승들이 지키는 레이센 신사라…….
-그곳에서 넌 사성수 가운데 하나인 현무와 만났구나?
-굉장해, 마치 동화 같은 이야기잖아! "
-44,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_054","섣불리 믿긴 힘든 내용이지만 네 모험담을 들어온 나로서는
-그 이야기가 거짓이 아니란 것쯤은 잘 알아."
-45,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_055","자, 이번에 네가 아라미타마를 진정시켰다는
-사성수에 대한 이야기를…… 들려주겠어?"
-46,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_056","백호…… 은백색으로 빛나는 털로 뒤덮인 서방을 지키는 짐승이군.
-좋아, 멋진 단가를 지을 수 있겠어!"
-47,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_057","아, 단가란 동쪽 나라의 전통적인 노래 형식이야.
-무지코 극장 사람들에게 배웠는데
-아직 미숙하니 부디 웃지 않고 들어줘."
-48,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_058","""발길이 닿은 / 산하 끝에서 / 친구를 얻어
- 눈물에 녹는 / 눈꽃 호랑이"""
-49,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_059","옛이야기에 등장하는 백호는
-무한한 신통력으로 수많은 악을 쫓는 전쟁신으로 숭배되고 있지."
-50,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_060","하지만 네 이야기를 듣고 나니
-옛이야기에 적혀 있지 않은 진실이 보였어.
-바로 곁에서 온기를 느낄 수 있는 존재였다는 사실을 말이야."
-51,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_061","특별한 힘을 가지고 태어난 건 결코 행운이라고만 할 순 없지.
-하지만 자신을 진심으로 특별하다고 생각하는 존재와
-만날 수만 있다면, 백호처럼 앞으로 나아갈 수 있을 거야."
-52,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_062","또 신기한 경험을 하면 이야기를 들려줘.
-앞으로도 난 네가 말하는 진실을 소재로 시를 짓고 싶어."
-53,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_070","오, '알테마 웨폰'에 대한 이야기를?
-아주 오랜만에 듣는 이야기군……"
-54,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_071","아니 하지만 지금 들으면
-당시와는 다른 새로운 시상이 떠오를지도 모르지.
-꼭 이야기를 들려주길 바라."
-55,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_072","역시 ""궁극의 환상""이라 칭송받던 병기와의 격전은
-듣기만 해도 마음이 떨리는군.
-귀중한 이야기를 들려줘서 고마워."
-56,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_073","덕분에 궁극의 이름에 부끄럽지 않은 장대한 시가 떠올랐어.
-들어줄래?"
-57,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_074"," ""지금 깨어난 칠흑의 검
-세 기둥의 힘을 거두어들여 광명 없는 세상을 압도할지니"""
-58,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_075"," ""자, 지배하라, 하얀 검을
-세 도시의 힘을 모아 자신이 내건 광휘로 연결하라"""
-59,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_076"," ""신을 정복할 것인가, 신을 사냥할 것인가
-시작은 하나에 불과하나 미래는 두 개의 길.
-무엇을 남길지 결정의 순간이 왔느니라"""
-60,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_077","……어때?
-세월이 흘러 각색된 부분이 많을지 모르겠지만
-넓은 아량으로 창작의 세계를 이해해주길 바라."
-61,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_078","관객들에게 알기 쉽게 모험담을 전달하는 것도 내 역할이거든.
-세계의 운명을 내건 싸움의 현장감이
-잘 전달되면 좋겠어."
-62,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_080","자, 오늘은 어떤 이야기를 들려주려나?"
-63,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_081","츠쿠요미……
-양부모가 내놓은 자식이라는 낙인이 찍혀 복수를 위해 살았던 여성,
-요츠유가 그 몸에 내린 야만신이라니……."
-64,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_082","과거의 도마 대리 총독, 요츠유의 탄압에 대해서는 익히 들었지만
-설마 그녀에게 그런 슬픈 배경이 있었을 줄은 몰랐어.
-역사의 드러난 사실만으로는 몰랐던 사실이지."
-65,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_083","……그럼 들어줄래.
-도마의 백성으로 거듭날 기회를 얻었지만 잡지 못한,
- 악의 꽃으로 진 여자를 노래한 슬픈 단가를."
-66,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_100_083","아, 단가란 동쪽 나라의 전통적인 노래 형식이야.
-무지코 극장 사람들에게 배웠는데
-아직 미숙하니 부디 웃지 말고 들어줘."
-67,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_084","""이지러진 달 / 그 달 아래 피어난 / 하이얀 꽃은
- 그림자에 삼켜져 / 황천에 지는구나""
-"
-68,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_085","그녀가 꽂고 다니던 월하미인은
-딱 하루만 피었다 지는 슬픈 운명을 지닌 꽃이야…….
-그것은 자신에게 바친 피안화 대신이었을지도 모르지."
-69,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_086","물론 요츠유의 행동은 결코 용서받을 수 없을 거야.
-하지만 그녀가 처음부터 악인으로 태어난 것은 아니야.
-시대가 그녀를 악으로 바꾼 거야."
-70,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_087","적어도 지금은 복수심에서 해방된 요츠유의 영혼이
-편안하기를 바라자."
-71,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_091","사성수라면 무지코 극장의 3대 희극이라 불리는 극 중 하나인
-'요괴 잡는 텐젠'에 나오는 네 마리 짐승 말이지?"
-72,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_092","후후…… 잘 알지?
-예술의 길을 걷는 자로서 하루라도 공부를 소홀히 할 순 없지."
-73,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_093","자, 사성수에 대해서는 어떤 이야기를 들려줄 거야?"
-74,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_094","인간의 언어를 다루는 짐승들이 지키는 레이센 신사라…….
-그곳에서 넌 사성수 가운데 하나인 현무와 만났구나?
-굉장해, 마치 동화 같은 이야기잖아!"
-75,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_095","섣불리 믿긴 힘든 내용이지만 네 모험담을 들어온 나로서는
-그 이야기가 거짓이 아니란 것쯤은 잘 알아."
-76,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_096","자, 이번에 네가 아라미타마를 진정시켰다는
-사성수에 대한 이야기를…… 들려주겠어?"
-77,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_097","짐승의 몸으로 인간을 사랑한 서수, 주작이라…….
-좋아, 멋진 단가를 지을 수 있겠어!"
-78,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_098","아, 단가란 동쪽 나라의 전통적인 노래 형식이야.
-무지코 극장 사람들에게 배웠는데
-아직 미숙하니 부디 웃지 말고 들어줘."
-79,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_099"," ""저녁놀 무렵 / 스스로 피운 불에 / 그림자 보네
- 천년의 세월 동안 / 그리움 더하였네""
-"
-80,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_100","신화와 전설은 사람들 사이에 전해 내려오는 과정에서
-종종 형태가 바뀐다고 해."
-81,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_101","원래는 다른 존재이지만 형태나 성질이 닮아
-혼동되어 동일시되는 경우도 적지 않거든.
-그래서 주작의 탄식은 더해졌겠지."
-82,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_102","만약 정말 봉황이었다면
-사랑하는 사람의 생명을 구할 수도 있었을 거야……
-슬픔으로 지새운 천년을 생각하면 마음이 아파."
-83,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_103","또 신기한 경험을 하면 이야기를 들려줘.
-앞으로도 난 네가 말하는 진실을 소재로 시를 짓고 싶어."
-84,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_110","사성수라면 무지코 극장의 3대 희극이라 불리는 극 중 하나인
-'요괴 잡는 텐젠'에 나오는 네 마리 짐승 말이지?"
-85,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_111","후후…… 잘 알지?
-예술의 길을 걷는 자로서 하루라도 공부를 소홀히 할 순 없지."
-86,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_112","자, 사성수에 대해서는 어떤 이야기를 들려줄 거야?"
-87,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_113","인간의 언어를 다루는 짐승들이 지키는 레이센 신사라…….
-그곳에서 넌 사성수 가운데 하나인 현무와 만났구나?
-굉장해, 마치 동화 같은 이야기잖아!"
-88,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_114","섣불리 믿긴 힘든 내용이지만 네 모험담을 들어온 나로서는
-그 이야기가 거짓이 아니란 것쯤은 잘 알아."
-89,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_115","자, 이번에 네가 아라미타마를 진정시켰다는
-사성수에 대한 이야기를…… 들려주겠어?"
-90,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_116","아라미타마에 혼을 팔아넘기면서까지
-텐젠과의 맹세를 지키려고 한 서수, 청룡이라…….
-좋아, 멋진 단가를 지을 수 있겠어!"
-91,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_117","아, 단가란 동쪽 나라의 전통적인 노래 형식이야.
-무지코 극장 사람들에게 배웠는데
-아직 미숙하니 부디 웃지 말고 들어줘."
-92,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_118","""때묻은 마음 / 속절없이 흐르네 / 파란 물 위를
- 이 한몸 버리어도 / 그 약속 지키리라""
-"
-93,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_119","청룡에 관한 일화는 몇 가지가 있는데,
-다른 사성수에 비해 그 실태는 베일에 싸여 있어."
-94,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_120","동방의 일부 점술 주문에 청룡 명칭이 들어가 있는 걸 봐서
-아주 오래 전부터 음양사들한텐 신앙의 대상이었던 듯해."
-95,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_121","넌 청룡이 행운을 관장하는 신으로 추앙받았다고 했지만……
-토지신이란 건, 사람들이 자기 멋대로 소원을 빌어놓고
-이루어지지 않으면 거짓 신이라며 낙인을 찍는 경우도 있어."
-96,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_122","어쩌면 청룡은 맹세를 지키지 않으면
-텐젠도 떠나가버리지 않을까 생각했을지도 몰라.
-물론 지금은 그럴 리 없다는 걸 알게 됐겠지."
-97,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_123","또 신기한 경험을 하면 이야기를 들려줘.
-앞으로도 난 네가 말하는 진실을 소재로 시를 짓고 싶어."
-98,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_130","호오, '알렉산더'에 대한 얘기?
-저지 드라바니아 지방에 나타난,
-기계로 된 성 말이지?"
-99,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_131","……아니, 어딘가의 먼 세계의 빛나는 탑 깊숙한 곳에서
-그 모습을 본 것 같기도 한데…… 그건 꿈이었던가?
-아무튼 이야기를 들려줘."
-100,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_132","드라바니아 지방은 살리아크 강변에 있어서
-쿠가네 사람들에게는 시간의 끝 만큼이나
-멀게 느껴질지도 모르겠어."
-101,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_133","그런데 초원에 사는 아우라 젤라 중에, 이것과 아주 비슷한
-'금속 거인'이 구전으로 전해지는 부족도 있지 않았나…….
-아, 이미 사라진 부족이었던가……?"
-102,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_134","아무튼 그 구전을 중심으로 이야기를 풀어나가면
-동방의 관객들도 큰 흥미를 갖게 될 거야."
-103,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_135","""수많은 꿈 / 다 끌어안아 / 탐구하는 자 / 그릇을 채우네
-많고 많은 길 / 내다본 끝에 / 흐린 은거울 / 빛과 만나니"""
-104,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_136","""선조를 이끌어 / 잠들 수 있을까 / 흑철의 거짓에 깃든 신은
-이치를 넘고 / 시간을 건너 / 흰 칼날의 현인된 그대를 원하네……"""
-105,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_137","네가 간단히 설명한, 기계로 만들어진 성 이야기를
-상상의 날개를 펼쳐서 기괴한 야만신에 비유해 보았어.
-그리고 그 이야기를 장식하는 건 아우라 젤라의 남녀……."
-106,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_138","즉 이건 연인들의 이야기이자,
-기계신이 단 한 '사람'에게 희망을 맡기는 이야기이기도 해.
-어때, 마음에 들어?"
-107,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_139","서쪽 끝의 잃어버린 도시에서 펼쳐진, 시공을 초월한 결전……
-최종장에선 심판자의 계차기관이 낳은 찰나의 기쁨을 묘사할 거야.
-무지코 극장의 관객들도 손에 땀을 쥐며 결말을 지켜볼 거라고!"
-108,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MINSTREL_CANCEL_000",""
+6,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_000","那麼，今天你要給我講個什麼樣的故事呢？"
+7,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_001","……一位母親為了復活自己死去的女兒，<hex:02100103>依靠了司掌治癒的蠻神「吉祥天女」的力量……<hex:02100103>而女兒卻化為了沒有靈魂的人偶……這真是個悲傷的故事。"
+8,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_002","就算使用治癒的力量復活了肉體，靈魂卻已不在肉體當中。<hex:02100103>為了治癒因緬懷逝去的靈魂而充滿了悲傷的心靈，<hex:02100103>母親選擇了將自己的心獻給蠻神……"
+9,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_003","……對不起，雖然是我要求聽故事的，<hex:02100103>但這個故事太過悲傷，我可不能將它寫成戲劇向世人傳唱……<hex:02100103>就讓我在此寫一首詩，獻給那逝去的女孩吧……"
+10,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_004","「慈母盼女睜開眼，請神顯靈許下願。<hex:02100103>美神治好女兒身，逝去之魂卻難還。」"
+11,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_005","「慈母想念女笑容，祈求神靈來實現。<hex:02100103>美神令母墜夢間，沉淪虛幻度餘年。」"
+12,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_006","……就是這種感覺吧。<hex:02100103>不知它是否喚醒了你心中悲傷的回憶。<hex:02100103>感謝你的聆聽……"
+13,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_007","一首詩歌就算再怎麼修飾，<hex:02100103>也無法將曾一度滲入心扉的悲傷徹底抹消……<hex:02100103>就像再怎麼在夢中逃避，也無法改變現實一樣。"
+14,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_008","不過我們可以祈禱產生悲傷的創口，能迎來癒合的一天。<hex:02100103>我在此，願你與伽黎亞派之人心中的傷早日癒合。"
+15,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_020","你有新的故事要講給我聽？<hex:02100103>太好了，非常感謝！"
+16,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_021","豪神須佐之男……嗯，這故事讓我想出了一首很棒的詩歌！<hex:02100103>也許還能改編成戲劇進行公演！<hex:02100103>到時候可能進出黃金港的甲人族都會前來觀看。"
+17,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_022","不過首先還是讓你來當第一位聽眾吧。<hex:02100103>請聽，讚頌你與豪神須佐之男間激烈戰鬥的詩歌！"
+18,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_023","「東海神器有三件，聚之一處神靈現。<hex:02100103>神靈勇猛又嗜戰，神劍過處海也斷。」"
+19,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_024","「西海英雄受挑戰，齊聚東海來應戰。<hex:02100103>白劍高舉臨陣前，管你神佛一樣撼。」"
+20,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_025","如何，是不是把須佐之男的悍勇表現得淋漓盡致？<hex:02100103>我還透過自己的想像將其修飾了一番，<hex:02100103>你有時間的話可以再去回顧一下當時的激戰。"
+21,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_026","……啥？我改的有點太誇張了？<hex:02100103>沒事沒事，誇張點演出來觀眾才高興！"
+22,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_027","你的冒險故事絕對能迎來觀眾們的熱烈掌聲和高聲喝彩！"
+23,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_30","那麼，請講述你的故事吧，我洗耳恭聽。"
+24,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_031","神龍……被冠以「神」字為名的龍嗎……<hex:02100103>為阿拉米格捐軀的有志之士們臨終時的絕望化作了這一蠻神，<hex:02100103>他們渴望著能夠毀滅加雷馬帝國的強大力量……"
+25,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_032","但這份力量卻最終落入敵手，和那個只有透過性命相搏才能<hex:02100103>理解他人的可悲男人——芝諾斯·耶·加爾烏斯一起，<hex:02100103>以最強敵人的身份阻擋了你收復阿拉米格的腳步。"
+26,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_033","「一男一心念救國，多年尋覓終得果。<hex:02100103>大好頭顱剜下來，只換神龍戮敵國。」"
+27,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_034","「一男武道高似山，山巔再覓對手難。<hex:02100103>為能盡興得一戰，奪舍神龍飛上天。」"
+28,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_035","為救祖國而不計犧牲追求力量的男人，<hex:02100103>還有無法理解他人而孤高地不斷追求力量的男人……<hex:02100103>他們雖然最終獲得了力量，但這樣真的會幸福嗎……"
+29,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_036","無論如何，我知道你今後都還會繼續戰鬥下去。<hex:02100103>所以等以後有了新的故事，請你再來講給我聽吧。"
+30,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_037","為了不讓英雄傳奇背後所隱藏的悲傷真相被歷史掩埋，<hex:02100103>我得將詩歌不斷傳唱下去。"
+31,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_040","咦……你想跟我講講第七靈災時從天而降的古代蠻神巴哈姆特？"
+32,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_041","但那個蠻神突然消失了軌跡，<hex:02100103>人們又因為靈災的後遺症而記憶模糊……<hex:02100103>啊！莫非是這之後還有後續？"
+33,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_042","等等，你還是不要回答我了。<hex:02100103>無論你是知道些什麼還是什麼都不知道，<hex:02100103>第七靈災的真相都不是我應該去探究的。"
+34,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_043","哈哈，很意外？<hex:02100103>其實有時候不去觸及真相，而是去自由構想，<hex:02100103>反而更加能醞釀心中的詩意。"
+35,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_044","比如說，如果龍神巴哈姆特在不為人知的地方<hex:02100103>復活了的話會怎麼樣呢？<hex:02100103>啊！我想出了一個符合大眾口味的英勇詩篇！"
+36,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_045","「破月而出的災禍之龍，為獲新生而沉眠地底。<hex:02100103>追尋真相的勇敢之士，與龍之使者不期邂逅。」"
+37,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_046","「光之戰士被星球指引，甘冒大風險入侵地底。<hex:02100103>獲知真相了解真源後，英勇行下屠龍壯舉矣。」"
+38,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_047","曾經威脅到整個星球的恐怖龍神與無名英雄在暗中殊死搏鬥……<hex:02100103>這個題材在黃金港一定備受歡迎。"
+39,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_048","哈哈，比起沉悶的真相，人們總是更喜歡從幻想中尋找震撼。<hex:02100103>這點不管是在西方還是在東方都一樣。<hex:02100103>謝謝，托你的福，我又想出了新的英雄敘事詩！"
+40,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_050","所謂四聖獸是指無地鼓座演出的三大戲劇之一，<hex:02100103>「典膳驅鬼」中登場的4隻獸吧。"
+41,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_051","呵呵……你很奇怪我為什麼知道嗎？<hex:02100103>畢竟我也是做這行的，每天都在學習啊。"
+42,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_052","那麼，你要告訴我有關四聖獸的什麼呢？"
+43,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_053","能通人語的獸們守護的神社，醴泉神社……<hex:02100103>你就是在那裡和四聖獸之一的玄武相遇的？<hex:02100103>好厲害啊，簡直像童話故事一樣！"
+44,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_054","雖然有點不敢相信，但我聽你講了這麼多冒險故事，<hex:02100103>這應該不是胡說。"
+45,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_055","那麼，能告訴我你這次進行鎮魂的四聖獸的故事嗎？"
+46,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_056","白虎……是全身覆蓋著白銀的皮毛，守護西方的瑞獸。<hex:02100103>好，我感覺可以寫出很好的短歌了！"
+47,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_057","啊，所謂短歌就是遠東之國傳統的詩句。<hex:02100103>這是無地鼓座的人們教我的，<hex:02100103>我還不是很熟練，你聽了別笑我哦？"
+48,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_058","「窮途末路時 在那山河盡頭處 終得一友人<hex:02100103>結情義涕零不已 孤傲的雪花之虎」"
+49,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_059","在傳說中登場的白虎擁有無限的神通力，<hex:02100103>作為懲惡揚善的戰神被人敬仰。"
+50,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_060","但是聽了你的話，我得知了傳說中沒有提到的真相。<hex:02100103>白虎渴望的不光是強大的力量，還有溫暖的、能陪伴自己的同伴。"
+51,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_061","與生俱來的特別的力量並不一定會帶來幸福。<hex:02100103>但是，如果能遇到對自己來說特別的人，<hex:02100103>就能像白虎一樣向未來前進了。"
+52,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_062","要是你又經歷了什麼不可思議的事情，一定要告訴我。<hex:02100103>從今以後我也會繼續傳唱你的故事。"
+53,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_070","你要講究極武器的故事？<hex:02100103>這可真是令人懷念的名字……"
+54,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_071","不過時隔這麼久再回過頭來聽它的故事，<hex:02100103>也許能獲得一些與從前不同的靈感。<hex:02100103>所以就請你再講一次給我聽吧。"
+55,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_072","……不愧是被譽為究極幻想的最終兵器，<hex:02100103>你與它的曠世激戰每次聽聞都讓我心神激盪。<hex:02100103>感謝你為我帶來如此美妙的故事。"
+56,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_073","托你的福，我腦中浮現出了不負究極之名的壯麗詩篇，<hex:02100103>你願意當我的聽眾嗎？"
+57,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_074","「漆黑之劍甦醒，噬三神之力蔽日遮天。」"
+58,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_075","「光之白刃阻攔，匯三國之力開創明天。」"
+59,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_076","「征神黑劍、鎮神白刃，同一初衷卻走向兩端。<hex:02100103>今日究竟誰能勝，是非高下在此斷！」"
+60,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_077","……怎麼樣？<hex:02100103>時間過了這麼久，細節部分可能有些失真，<hex:02100103>不過創作都是這樣的，多多包涵啦。"
+61,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_078","將故事改編成簡單易懂的版本呈現給觀眾們也是我的工作。<hex:02100103>若能讓觀眾們體驗到你賭上世界的命運決戰時的臨場感，<hex:02100103>那我就真是再欣慰不過了。"
+62,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_080","今天你要給我講什麼故事？"
+63,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_081","夜神月讀……<hex:02100103>被養父母打上不祥的烙印，<hex:02100103>只為復仇而活的夜露請到自己身上的蠻神嗎……"
+64,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_082","我倒是聽說過從前多瑪代理總督夜露的種種暴政、惡行，<hex:02100103>卻沒想到她有著如此悲傷的背景。<hex:02100103>只看歷史表面可真是無法了解這些背後的東西。"
+65,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_083","她未選擇重獲新生在多瑪做一個普通人，<hex:02100103>而是決定背負自己的罪孽片片凋零。<hex:02100103>……那麼，請你聆聽吧，這就是我為她創作的哀傷短歌。"
+66,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_100_083","啊，所謂短歌就是遠東之國傳統的詩句。<hex:02100103>這是無地鼓座的人們教我的，<hex:02100103>我還不是很熟練，你聽了別笑我哦？"
+67,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_084","「弦月懸夜空 潔白花朵綻月下 靜謐放芳華<hex:02100103>奈何幽怨噬人心 凋零墜入黃泉下」"
+68,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_085","她戴在頭上的月下美人，<hex:02100103>是一種注定只能綻放一夜就會凋零的哀傷之花……<hex:02100103>也許她是用它替代彼岸花為自己送行吧。"
+69,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_086","夜露的屢屢罪行確實無法被寬恕，<hex:02100103>但誰都不是天生就是惡人，<hex:02100103>是時代扭曲了她。"
+70,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_087","希望現在夜露從復仇中解放出來的靈魂能夠得到安息吧。"
+71,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_091","所謂四聖獸是指無地鼓座演出的三大戲劇之一，<hex:02100103>「典膳驅鬼」中登場的4隻獸吧。"
+72,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_092","呵呵……你很奇怪我為什麼知道嗎？<hex:02100103>畢竟我也是做這行的，每天都在學習啊。"
+73,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_093","那麼，你要告訴我有關四聖獸的什麼呢？"
+74,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_094","能通人語的獸們守護的神社，醴泉神社……<hex:02100103>你就是在那裡和四聖獸之一的玄武相遇的？<hex:02100103>好厲害啊，簡直像童話故事一樣！"
+75,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_095","雖然有點不敢相信，但我聽你講了這麼多冒險故事，<hex:02100103>這應該不是胡說。"
+76,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_096","那麼，能告訴我你這次進行鎮魂的四聖獸的故事嗎？"
+77,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_097","是朱雀啊……雖為獸身卻愛上了人類的瑞獸……<hex:02100103>好，我感覺可以寫出很好的短歌了！"
+78,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_098","啊，所謂短歌就是遠東之國傳統的詩句。<hex:02100103>這是無地鼓座的人們教我的，<hex:02100103>我還不是很熟練，你聽了別笑我哦？"
+79,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_099","「紅日落西山 心念未眠夢已斷 君影火中殘<hex:02100103>徹夜思慕為哪般 旭光一現已千年」"
+80,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_100","神話傳說什麼的，總會在人們口耳相傳的過程中，<hex:02100103>漸漸失去其本來面目。"
+81,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_101","原本是不同的東西，只是因為外形或性質相似，<hex:02100103>就被人們混淆的情況也有不少。<hex:02100103>正因如此，朱雀的哀痛才會那麼強烈吧。"
+82,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_102","如果它當真是鳳凰之身，<hex:02100103>就應該能救下所愛之人的生命……<hex:02100103>它就這麼忍著悲傷活了一千年，想想可真是太痛苦了。"
+83,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_103","要是你又經歷了什麼不可思議的事情，一定要告訴我。<hex:02100103>從今以後我也會繼續傳唱你的故事。"
+84,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_110","所謂四聖獸是指無地鼓座演出的三大戲劇之一，<hex:02100103>「典膳驅鬼」中登場的4隻獸吧。"
+85,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_111","呵呵……你很奇怪我為什麼知道嗎？<hex:02100103>畢竟我也是做這行的，每天都在學習啊。"
+86,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_112","那麼，你要告訴我有關四聖獸的什麼呢？"
+87,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_113","能通人語的獸們守護的神社，醴泉神社……<hex:02100103>你就是在那裡和四聖獸之一的玄武相遇的？<hex:02100103>好厲害啊，簡直像童話故事一樣！"
+88,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_114","雖然有點不敢相信，但我聽你講了這麼多冒險故事，<hex:02100103>這應該不是胡說。"
+89,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_115","那麼，能告訴我你這次進行鎮魂的四聖獸的故事嗎？"
+90,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_116","哪怕是將自己的靈魂交給荒魂，<hex:02100103>也要達成跟典膳立下誓言的瑞獸——青龍啊……<hex:02100103>好，我感覺可以寫出很好的短歌了！"
+91,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_117","啊，所謂短歌就是遠東之國傳統的詩句。<hex:02100103>這是無地鼓座的人們教我的，<hex:02100103>我還不是很熟練，你聽了別笑我哦？"
+92,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_118","「縱魂已不淨 心中魂河仍長青 奔流未曾停<hex:02100103>此身化鬼亦無畏 唯有誓言留我心」"
+93,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_119","世上雖然留存著有關青龍的傳說，<hex:02100103>但和其他四聖獸相比，其真實面目依然充滿謎團。"
+94,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_120","在東方這邊，一部分的占卜之術會用到青龍的名字。<hex:02100103>由此看來，青龍從古代就成為了陰陽師們所信仰的對象。"
+95,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_121","聽了你的敘說，青龍好像被看成是幸運之神而受到供奉……<hex:02100103>所謂的土地神就是人們擅自祈願的對象，<hex:02100103>而當願望沒有實現的話，就可能會被烙下偽神的印記。"
+96,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_122","說不定青龍認為如果自己沒辦法達成誓言，<hex:02100103>典膳也會離他而去吧。<hex:02100103>不過他現在應該已經明白，典膳絕對不會這麼做的。"
+97,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_123","要是你又經歷了什麼不可思議的事情，一定要告訴我。<hex:02100103>從今以後我也會繼續傳唱你的故事。"
+98,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_130","哦？你要跟我講述「亞歷山大」的事情嗎？<hex:02100103>它好像是德拉瓦尼亞河谷地地區的一座機械城堡啊？"
+99,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_131","等等……在某個遙遠世界光輝高塔的最深處，<hex:02100103>我彷彿也朦朧地見過它的身影……那是夢境嗎？<hex:02100103>總之你講給我聽聽吧。"
+100,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_132","德拉瓦尼亞之地位於沙利亞克河的河畔，<hex:02100103>這對於黃金港的人們來說恐怕就如同時光的彼岸般遙遠吧。"
+101,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_133","但居住在草原的暮暉之民當中，<hex:02100103>有的部族好像也流傳著有關「金屬的巨人」的傳說……<hex:02100103>不對，那個部族好像早已消逝在歷史的長河之中了？"
+102,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_134","總之以草原的這個傳說為基礎編織出的故事，<hex:02100103>對東方的觀眾來說應該更有親切感。"
+103,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_135","「天才技師靈光閃，萬千心願使其現。<hex:02100103>算盡來日條條路，昏暗重重光一線。」"
+104,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_136","「鐵軀之神超凡間，光陰盡頭待沉眠。<hex:02100103>白刃了斷此間事，璧人重生久遠前。」"
+105,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_137","我放飛想像，<hex:02100103>將你在簡短言語中訴說的機械城堡包裝成了異形的蠻神。<hex:02100103>而映襯故事的則是那對暮輝之民的男女……"
+106,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_138","也就是說這既是那對戀人的故事，<hex:02100103>也是機械之神將希望託付給一個「人」的故事。<hex:02100103>怎麼樣，你喜歡嗎？"
+107,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_139","在遙遠西方廢都中展開的超時空決戰……<hex:02100103>落幕時審判者的電腦中卻是迸發出了剎那的喜悅之情。<hex:02100103>無地鼓座的觀眾們也一定會以無比緊張的心情看完最終的結局吧！"
+108,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MINSTREL_CANCEL_000","（★未使用／削除予定★）"

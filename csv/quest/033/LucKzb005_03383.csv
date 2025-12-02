@@ -1,8 +1,8 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_LUCKZB005_03383_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-좁 요새에 있는 뵤른은 신병 교육을 도와줄 사람을 찾고 있는 듯하다."
+0,"TEXT_LUCKZB005_03383_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整<hex:0249020103><hex:0248020103><hex:02100103>喬布要塞的比約恩好像在尋找教育新兵的幫手。"
 1,"TEXT_LUCKZB005_03383_SEQ_01",""
 2,"TEXT_LUCKZB005_03383_SEQ_02",""
 3,"TEXT_LUCKZB005_03383_SEQ_03",""
@@ -26,8 +26,8 @@ int32,str,str
 21,"TEXT_LUCKZB005_03383_SEQ_21",""
 22,"TEXT_LUCKZB005_03383_SEQ_22",""
 23,"TEXT_LUCKZB005_03383_SEQ_23",""
-24,"TEXT_LUCKZB005_03383_TODO_00","<Sheet(BNpcName,8502,0)/><14>FF1302280FFF09424E70634E616D65F221360103FF04EBA19CFF07EC9CBCEBA19C</14>부터 <Sheet(EventItem,2002851,0)/> 입수"
-25,"TEXT_LUCKZB005_03383_TODO_01","크리스타리움에서 더크스에게 <Sheet(EventItem,2002851,0)/> 전달"
+24,"TEXT_LUCKZB005_03383_TODO_00","從<hex:02280FFF09>BNpcName<hex:F221360103>身上獲取<hex:022811FF0A>EventItem<hex:F61E8FA30103>"
+25,"TEXT_LUCKZB005_03383_TODO_01","將<hex:022811FF0A>EventItem<hex:F61E8FA30103>交給水晶都的達克斯"
 26,"TEXT_LUCKZB005_03383_TODO_02",""
 27,"TEXT_LUCKZB005_03383_TODO_03",""
 28,"TEXT_LUCKZB005_03383_TODO_04",""
@@ -50,29 +50,12 @@ int32,str,str
 45,"TEXT_LUCKZB005_03383_TODO_21",""
 46,"TEXT_LUCKZB005_03383_TODO_22",""
 47,"TEXT_LUCKZB005_03383_TODO_23",""
-48,"TEXT_LUCKZB005_03383_BJORN_000_000","오오, <Highlight>ObjectParameter(1)</Highlight> 공이 아닌가!
-홀민스터에서의 활약은 많이 들었어.
-실은 자네에게 부탁할 일이 있다."
-49,"TEXT_LUCKZB005_03383_BJORN_000_001","신병이 자네의 활약에 자극을 받아서
-의욕적으로 훈련에 나서고 있지만, 아직 실력이 부족해.
-그 신병들에게 자네의 힘을 보여줬으면 한다."
-50,"TEXT_LUCKZB005_03383_BJORN_000_002","싸워서 이기란 소리는 아니야.
-신병들과 같은 임무를 수행해서
-속도를 겨뤘으면 하는데…… 어떤가?"
-51,"TEXT_LUCKZB005_03383_BJORN_000_003","오오, 도와주겠다고!
-그럼 헤매는 양치기의 숲에서 '<Sheet(BNpcName,8502,0)/>'<13>FF1302280FFF09424E70634E616D65F221360103FF04EBA5BCFF04EC9D84</13> 쓰러뜨리고
-'<Sheet(EventItem,2002851,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8FA30103FF04EBA5BCFF04EC9D84</13> 손에 넣도록."
-52,"TEXT_LUCKZB005_03383_BJORN_100_003","'<Sheet(EventItem,2002851,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8FA30103FF04EBA5BCFF04EC9D84</13> 무사히 손에 넣으면
-크리스타리움에 있는 '더크스'에게 갖다주면 돼!
-잘 부탁한다!"
-53,"TEXT_LUCKZB005_03383_BJORN_000_004","'<Sheet(EventItem,2002851,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8FA30103FF04EBA5BCFF04EC9D84</13> 손에 넣으면
-크리스타리움에 있는 '더크스'에게 갖다주면 돼!
-잘 부탁한다!"
-54,"TEXT_LUCKZB005_03383_DAWKES_000_010","오, 당신이 <Highlight>ObjectParameter(1)</Highlight> 공인가?
-'<Sheet(EventItem,2002851,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8FA30103FF04EB8A94FF04EC9D80</13> 가져왔나?"
-55,"TEXT_LUCKZB005_03383_DAWKES_000_011","음, 확실해! 역시 당신이 가장 빨랐군.
-신병들의 사기가 높아진 건 좋은 일이지만, 마음이 앞서서
-행여 예기치 못한 부상이나 사고로 이어질 수도 있어."
-56,"TEXT_LUCKZB005_03383_DAWKES_000_012","이로써 착실하게 훈련을 반복하는 게 먼저라는 걸 깨달았을 테지.
-고맙다. 당신 덕분에
-신병들도 스스로를 돌아볼 수 있었을 거야."
+48,"TEXT_LUCKZB005_03383_BJORN_000_000","哦，這不是<hex:022903EB0203>嗎！<hex:02100103>聽說你在水灘村做了不少工作。<hex:02100103>其實我也有點事想讓你幫忙。"
+49,"TEXT_LUCKZB005_03383_BJORN_000_001","新兵們被你的活躍表現所鼓舞，<hex:02100103>一個個都鬥志高昂，可是他們的實力都還不夠。<hex:02100103>所以想讓他們先見識一下你的力量。"
+50,"TEXT_LUCKZB005_03383_BJORN_000_002","但也不是說讓他們跟你打一場。<hex:02100103>你就跟新兵們進行同一項任務，<hex:02100103>在速度上跟他們進行一次競賽……你看怎麼樣？"
+51,"TEXT_LUCKZB005_03383_BJORN_000_003","哦，你能幫忙那真是太好了！<hex:02100103>那就去迷途牧羊人之森打倒<hex:02280FFF09>BNpcName<hex:F221360103>，<hex:02100103>獲取<hex:022811FF0A>EventItem<hex:F61E8FA30103>吧。"
+52,"TEXT_LUCKZB005_03383_BJORN_100_003","請平安獲取<hex:022811FF0A>EventItem<hex:F61E8FA30103>，<hex:02100103>然後交給水晶都的達克斯吧！<hex:02100103>拜託你了！"
+53,"TEXT_LUCKZB005_03383_BJORN_000_004","請平安獲取<hex:022811FF0A>EventItem<hex:F61E8FA30103>，<hex:02100103>然後交給水晶都的達克斯吧！<hex:02100103>拜託你了！"
+54,"TEXT_LUCKZB005_03383_DAWKES_000_010","嗯，你是<hex:022903EB0203>嗎？<hex:02100103>拿到<hex:022811FF0A>EventItem<hex:F61E8FA30103>了嗎？"
+55,"TEXT_LUCKZB005_03383_DAWKES_000_011","嗯，就是這個！你果然是最快的啊。<hex:02100103>新兵們士氣高昂是很好，但僅憑士氣貿然行事，<hex:02100103>肯定會受傷或者引起事故。"
+56,"TEXT_LUCKZB005_03383_DAWKES_000_012","必須先在實際訓練中累積充實自己，他們應該也認識到這點了吧。<hex:02100103>謝謝你了，多虧了你，<hex:02100103>新兵們現在應該能重新審視自己了。"

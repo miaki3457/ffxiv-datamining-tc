@@ -1,7 +1,8 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_STMBDZ703_02806_SEQ_00","열사암에 있는 하나메는 모험가에게 부탁하고 싶은 것이 있는 듯하다."
+0,"TEXT_STMBDZ703_02806_SEQ_00","烈士庵的花芽有事想委託冒險者。"
 1,"TEXT_STMBDZ703_02806_SEQ_01",""
 2,"TEXT_STMBDZ703_02806_SEQ_02",""
 3,"TEXT_STMBDZ703_02806_SEQ_03",""
@@ -25,8 +26,8 @@ int32,str,str
 21,"TEXT_STMBDZ703_02806_SEQ_21",""
 22,"TEXT_STMBDZ703_02806_SEQ_22",""
 23,"TEXT_STMBDZ703_02806_SEQ_23",""
-24,"TEXT_STMBDZ703_02806_TODO_00","<Sheet(BNpcName,5771,0)/> 처치하고 드물게 획득 가능한 <Sheet(EventItem,2002266,0)/> 입수"
-25,"TEXT_STMBDZ703_02806_TODO_01","하나메에게 <Sheet(EventItem,2002266,0)/> 전달"
+24,"TEXT_STMBDZ703_02806_TODO_00","討伐<hex:02280FFF09>BNpcName<hex:F2168B0103>獲取其身上可能會掉落的<hex:022811FF0A>EventItem<hex:F61E8D5A0103>"
+25,"TEXT_STMBDZ703_02806_TODO_01","將<hex:022811FF0A>EventItem<hex:F61E8D5A0103>交給花芽"
 26,"TEXT_STMBDZ703_02806_TODO_02",""
 27,"TEXT_STMBDZ703_02806_TODO_03",""
 28,"TEXT_STMBDZ703_02806_TODO_04",""
@@ -49,30 +50,16 @@ int32,str,str
 45,"TEXT_STMBDZ703_02806_TODO_21",""
 46,"TEXT_STMBDZ703_02806_TODO_22",""
 47,"TEXT_STMBDZ703_02806_TODO_23",""
-48,"TEXT_STMBDZ703_02806_HANAME_000_000","<Highlight>ObjectParameter(1)</Highlight> 공 아니십니까.
-이거 참 때마침 잘 오셨습니다.
-죄송하지만, 부탁 하나만 들어주시겠습니까?"
-49,"TEXT_STMBDZ703_02806_HANAME_000_001","이곳 열사암에는 직접 전투에 참여하진 않지만
-여러모로 지원을 해주시는 분이 계십니다. "
-50,"TEXT_STMBDZ703_02806_HANAME_000_002","그 분의 은혜를 갚기……에는 좀 부족하긴 합니다만,
-적어도 감사 표시만이라도 하고 싶습니다. "
-51,"TEXT_STMBDZ703_02806_HANAME_000_003","그래서 서쪽의 몬젠 무사마을에 있는 '<Sheet(BNpcName,5771,0)/>'한테서
-'<Sheet(EventItem,2002266,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8D5A0103FF04EBA5BCFF04EC9D84</13> 구해다 주시겠습니까?"
-52,"TEXT_STMBDZ703_02806_HANAME_000_004","원래는 제가 가지러 가야 하지만, 요즘 정세가 말이 아니라
-언제 위에서 명령이 떨어질지 모르기 때문에
-전 지금 이 자리를 이탈할 수가 없습니다."
-53,"TEXT_STMBDZ703_02806_HANAME_000_005","일반 위석은 가치가 없지만,
-<Sheet(EventItem,2002266,0)/><13>FF15022811FF0A4576656E744974656DF61E8D5A0103FF04EB8A94FF04EC9D80</13> 기운이 좋아서 아주 귀하답니다.
-모쪼록 잘 부탁드립니다. "
+48,"TEXT_STMBDZ703_02806_HANAME_000_000","這不是<hex:022903EB0203>嗎？<hex:02100103>你來得正是時候，<hex:02100103>非常抱歉，能不能請你幫我一個忙？"
+49,"TEXT_STMBDZ703_02806_HANAME_000_001","就算這烈士庵不直接參與到戰鬥，<hex:02100103>也會有很多支持我們的人來這裡幫忙。"
+50,"TEXT_STMBDZ703_02806_HANAME_000_002","為了報答他的恩情……可能有些不足，<hex:02100103>但至少想向他傳達一下感激之情。"
+51,"TEXT_STMBDZ703_02806_HANAME_000_003","所以，我希望你能從西邊的門前衛街的<hex:02280FFF09>BNpcName<hex:F2168B0103>身上<hex:02100103>取回<hex:022811FF0A>EventItem<hex:F61E8D5A0103>。"
+52,"TEXT_STMBDZ703_02806_HANAME_000_004","本來應該由我去取才對，<hex:02100103>不過現在這情況，上頭隨時可能會下發命令。<hex:02100103>所以，我不能離開崗位……"
+53,"TEXT_STMBDZ703_02806_HANAME_000_005","普通的胃石沒有價值，<hex:02100103>不過<hex:022811FF0A>EventItem<hex:F61E8D5A0103>則被當做一種吉利的東西，受人喜愛。<hex:02100103>務必拜託你了。"
 54,"TEXT_STMBDZ703_02806_HANAME_000_006","（★未使用／削除予定★）"
-55,"TEXT_STMBDZ703_02806_HANAME_000_010","<Highlight>ObjectParameter(1)</Highlight> 공, '<Sheet(EventItem,2002266,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8D5A0103FF04EB8A94FF04EC9D80</13> 구하셨습니까?"
-56,"TEXT_STMBDZ703_02806_HANAME_000_011","오오…… 정말 아름다운 황금색으로 빛나는군요.
-협력해주셔서 감사합니다!"
-57,"TEXT_STMBDZ703_02806_HANAME_000_012","신원은 밝힐 수 없지만, 이 위석은 오랜 세월 동지들에게
-자금을 제공해주시는 어떤 노인분에게 보내려고 합니다."
-58,"TEXT_STMBDZ703_02806_HANAME_000_013","심신이 건강하신 분이긴 하지만 고령이라서요.
-소원을 들어준다는 좋은 기운이 있는
-이 위석을 보내고 싶었습니다. "
-59,"TEXT_STMBDZ703_02806_HANAME_000_014","<Highlight>ObjectParameter(1)</Highlight> 공, 도와주셔서
-다시 한번 감사드립니다. "
+55,"TEXT_STMBDZ703_02806_HANAME_000_010","<hex:022903EB0203>，你拿到<hex:022811FF0A>EventItem<hex:F61E8D5A0103>了嗎？"
+56,"TEXT_STMBDZ703_02806_HANAME_000_011","哦哦……這黃金般的光輝，真是太美了。<hex:02100103>非常感謝你的幫忙！"
+57,"TEXT_STMBDZ703_02806_HANAME_000_012","我要贈送胃石的是長年為同伴們提供資金的一位老人，<hex:02100103>具體的身份我就不能說了。"
+58,"TEXT_STMBDZ703_02806_HANAME_000_013","雖然他身心都很健康，不過畢竟年齡已大，<hex:02100103>所以我才會想將這個吉利的胃石當做護身符送給他，<hex:02100103>祝願他永遠健康下去。"
+59,"TEXT_STMBDZ703_02806_HANAME_000_014","再次感謝<hex:022903EB0203>的幫忙，<hex:02100103>真是非常感謝！"
 60,"TEXT_STMBDZ703_02806_HANAME_000_015","（★未使用／削除予定★）"

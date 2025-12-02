@@ -1,104 +1,47 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
 0,"TEXT_CTSFCKMASTER_00453_TALK_ACTOR","0"
-1,"TEXT_CTSFCKMASTER_00453_TOPMENU_000_000","이번 주 최고 득점: <Value>IntegerParameter(1)</Value>점[남은 횟수 <Value>IntegerParameter(2)</Value>회]"
-2,"TEXT_CTSFCKMASTER_00453_TOPMENU_000_001","패션 체크 도전하기"
-3,"TEXT_CTSFCKMASTER_00453_TOPMENU_000_002","이번 주 테마 물어보기"
-4,"TEXT_CTSFCKMASTER_00453_TOPMENU_000_004","자기 최고 득점 시의 장비 확인하기"
-5,"TEXT_CTSFCKMASTER_00453_TOPMENU_000_003","취소"
-6,"TEXT_CTSFCKMASTER_00453_DEFAULT_ROSE_000_000","나를 깜짝 놀라게 해줄 만한
-미래의 패션리더, 어디 없으려나……."
-7,"TEXT_CTSFCKMASTER_00453_DEFAULT_ROSE_001_000","어머, 패션 체크에 참가하려고?
-아니면 이번 테마를 확인하고 싶은 거니?"
-8,"TEXT_CTSFCKMASTER_00453_DEFAULT_ROSE_002_000","패션에 대해서 생각하느라 정신이 없어.
-패션 센스를 기르면서 기다려줄래?"
-9,"TEXT_CTSFCKMASTER_00453_THEME_ROSE_000_000","이번 패션 체크 테마는……
-바로 '<Sheet(FashionCheckWeeklyTheme,IntegerParameter(1),0)/>'<13>FF2102281DFF1846617368696F6E436865636B5765656B6C795468656D65E8020103FF04EC95BCFF07EC9DB4EC95BC</13>!"
-10,"TEXT_CTSFCKMASTER_00453_CHECK_REQUEST_ROSE_000_000","어머…… 성격이 참 급하네?
-네 뜨거운 열의는 잘 알겠는데, 아까도 말했다시피
-아직 준비 중이니까 조금만 더 기다려주렴!"
-11,"TEXT_CTSFCKMASTER_00453_CHECK_REQUEST_SYSTEM_000_001","패션 체크의 채점은 현실 시간으로
-매주 <ResetTime>1206</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시 이후부터 이루어집니다."
-12,"TEXT_CTSFCKMASTER_00453_CHECK_REQUEST_ROSE_001_000","이번 테마로 체크하는 건 이미 끝났어.
-다음 체크 때까지 센스를 기르면서 기다려줄래?"
-13,"TEXT_CTSFCKMASTER_00453_REWARD_ROSE_000_000","자, 참가상으로 주는 MGP야.
-이번 패션 체크에서 새로운 의상을 만나거나
-발견하는 일은 없었니?"
-14,"TEXT_CTSFCKMASTER_00453_REWARD_ROSE_001_000","날 즐겁게 해줘서 고마워…….
-이건 내가 주는 특별상이야!"
-15,"TEXT_CTSFCKMASTER_00453_REWARD_ROSE_004_000","자, 내가 주는 특별상과 참가상인 MGP야!
-당신의 끝내주는 센스에 현기증이 날 것 같아!"
-16,"TEXT_CTSFCKMASTER_00453_REWARD_ROSE_002_000","말하는 도중에 어디 갔었니!?"
-17,"TEXT_CTSFCKMASTER_00453_REWARD_ROSE_003_000","이것도 참가상이랑 같이 주고 싶었던 거야.
-날 즐겁게 해줬으니 내가 특별상을 줄게!"
-18,"TEXT_CTSFCKMASTER_00453_COME_AGAIN_ROSE_000_000","체크 결과는 만족스럽니?
-혹시라도 결과가 마음에 안 든다면
-아직 도전할 기회는 남아 있으니까 다시 도전해보렴."
-19,"TEXT_CTSFCKMASTER_00453_COME_AGAIN_ROSE_001_000","체크 결과는 만족스럽니?
-이번 테마로 하는 체크는 이제 끝이야.
-다음번에 또 도전해줘. 기다리고 있을게."
-20,"TEXT_CTSFCKMASTER_00453_SCORE_REACTION_ROSE_000_000","…………지금 장난하니?
-몸매 체크는 내 전문 분야가 아니거든?"
-21,"TEXT_CTSFCKMASTER_00453_SCORE_REACTION_ROSE_001_000","아아, 너무 엉망이야. 도저히 못 봐주겠어.
-당신은 자신의 센스를 표현하기 전에
-우선 이번 테마에 대해서 곰곰이 다시 생각해보렴."
-22,"TEXT_CTSFCKMASTER_00453_SCORE_REACTION_ROSE_002_000","뭐랄까……. 이게 아니거든.
-노력은 인정하지만 방향성을 좀 잘못 잡은 느낌이야.
-기발한 옷차림만이 개성이 아니라는 걸 명심하길 바라."
-23,"TEXT_CTSFCKMASTER_00453_SCORE_REACTION_ROSE_003_000","아쉽게도 합격점엔 조금 못 미치는구나.
-방향성은 괜찮은데, 조잡하고 섬세함이 부족해.
-당신 생김새가 괜찮다 보니 좀 좋아 보일 뿐이야."
-24,"TEXT_CTSFCKMASTER_00453_SCORE_REACTION_ROSE_004_000","흠, 그럭저럭 괜찮은 것 같은데?
-하지만 이렇게 센스가 있다는 걸 보여줬으니
-조금 더 욕심을 내서 멋을 부려도 좋을 것 같아."
-25,"TEXT_CTSFCKMASTER_00453_SCORE_REACTION_ROSE_005_000","어머, 괜찮은걸!
-하지만 전체적으로 너무 차분한 느낌이 드니까
-포인트가 되는 요소를 넣어서 강조해주면 더 좋아질 거야."
-26,"TEXT_CTSFCKMASTER_00453_SCORE_REACTION_ROSE_006_000","아주 훌륭한 센스를 가졌어!
-패션을 자신의 것으로 완벽하게 소화하고 있구나!
-더 목표를 높이 잡았으면 좋겠어!"
-27,"TEXT_CTSFCKMASTER_00453_SCORE_REACTION_ROSE_007_000","완벽해……. 완벽 그 자체야!
-당신이라는 숭고한 작품을 만났다는 사실에 감사할 따름이야!
-네 패션 센스를 부정하는 사람이 있다면, 내가 용서하지 않을 거야!"
-28,"TEXT_CTSFCKMASTER_00453_BESTSCORE_REACTION_ROSE_000_000","이번 테마에서 자기 최고 기록을 갱신했네!
-지금까지 보여준 것 중에서
-가장 내 마음을 사로잡은 패션이었어……!"
-29,"TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_000_000","이 가면, 실은 새로 장만했는데, 혹시 눈치챘니?
-이런 섬세한 차이를 잡아내지 못한다면
-내 마음은 절대 사로잡을 수 없을 거야."
-30,"TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_001_000","패션은 끊임없는 공부야…….
-그걸 머리에 새겼으면 좋겠어."
-31,"TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_002_000","전쟁터에도 패션 요소는 존재해.
-화려한 이슈가르드의 기사나, 동방풍 도마 사무라이를 봐…….
-장소가 바뀌면 복장도 바뀐다는 거, 기억해두렴!"
-32,"TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_003_000","얼마 전 카스미가 나한테 꽃을 주더라고.
-꽃말이 '아름다움'이라서 그걸 골랐대.
-무슨 꽃이냐고? 그거야 당연히…… 새빨간 장미지!"
-33,"TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_004_000","카스미한테 잘 보이려고 노력하는 남성들이 많은 것 같은데,
-우리 카스미가 저래 봬도 얼마나 패션 지식이 풍부한데.
-어설픈 옷차림으로 다가가면, 거들떠보지도 않을걸."
-34,"TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_005_000","세련된 모험가들 중에는 자기 자신뿐 아니라
-집사의 패션에도 신경을 쓰는 사람이 있대.
-넌 어떠니?"
-35,"TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_006_000","울다하의 경제지 '미스릴 아이'의 기자가
-내 정체를 파헤치고 있는 모양이야…….
-비밀을 밝히려고 하다니, 너무 멋없지 않니?"
-36,"TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_007_000","그리다니아의 모피에 울다하의 견직물……
-림사 로민사의 양모에 알라미고의 전통 직물…….
-소재의 차이도 신경 써야 해."
-37,"TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_008_000","골드 소서에는 각지에서 손님들이 오잖니?
-그래서 여러 지역의 패션을 볼 수 있는
-최고의 장소라구!"
-38,"TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_009_000","자신만만하게 패션 체크하러 온 분이 있었는데,
-자기 자랑만 계속 늘어놓고…… 아니나 다를까 복장도 별로였어.
-내면이 아름답지 않으면 아무리 겉모습을 가꿔도 의미가 없지."
-39,"TEXT_CTSFCKMASTER_00453_CHECK_START_ROSE_000_000","자, 그럼 채점을 해볼까.
-내 예상을 좋은 쪽으로 뒤집어주려나……?"
-40,"TEXT_CTSFCKMASTER_00453_CHECK_BEST_EQUIP_000_000","너, 이번 주는 아직 채점 받지 않았잖아!
-도전을 기다리고 있을 테니 준비하고 오렴! "
-41,"TEXT_CTSFCKMASTER_00453_CHECK_RESULT_ROSE_000_000","음…… 이제 됐어…….
-각오는 되어 있겠지? 채점 결과를 발표할게!"
-42,"TEXT_CTSFCKMASTER_00453_CHECK_DIALOG_000_000","패션 체크에 도전합니다.
-준비 중인 아이템은 귀속됩니다.
-진행하시겠습니까?"
+1,"TEXT_CTSFCKMASTER_00453_TOPMENU_000_000","本週最高分：<hex:022003E80203>分[剩餘<hex:022003E80303>次]"
+2,"TEXT_CTSFCKMASTER_00453_TOPMENU_000_001","挑戰時尚品鑑"
+3,"TEXT_CTSFCKMASTER_00453_TOPMENU_000_002","詢問本週的主題"
+4,"TEXT_CTSFCKMASTER_00453_TOPMENU_000_004","確認最高分時的裝備"
+5,"TEXT_CTSFCKMASTER_00453_TOPMENU_000_003","取消"
+6,"TEXT_CTSFCKMASTER_00453_DEFAULT_ROSE_000_000","到底有沒有能讓我大吃一驚的未來的時尚引領者呢……"
+7,"TEXT_CTSFCKMASTER_00453_DEFAULT_ROSE_001_000","你想要挑戰時尚品鑑？<hex:02100103>還是想確認這次的主題？"
+8,"TEXT_CTSFCKMASTER_00453_DEFAULT_ROSE_002_000","我在考慮流行時尚，現在很忙。<hex:02100103>請你先磨練自己的審美、做好準備工作吧。"
+9,"TEXT_CTSFCKMASTER_00453_THEME_ROSE_000_000","這次時尚品鑑的主題是……<hex:02100103><hex:02281DFF18>FashionCheckWeeklyTheme<hex:E8020103>！"
+10,"TEXT_CTSFCKMASTER_00453_CHECK_REQUEST_ROSE_000_000","真是性急呢。<hex:02100103>我已經感受到你的熱情了。不過我剛才也說過，<hex:02100103>現在還在準備，你再等等吧！"
+11,"TEXT_CTSFCKMASTER_00453_CHECK_REQUEST_SYSTEM_000_001","時尚品鑑在每週<hex:020603120603><hex:02093ADDFF07>週日<hex:FF07>週一<hex:FF07>週二<hex:FF07>週三<hex:FF07>週四<hex:FF07>週五<hex:FF07>週六<hex:03>的<hex:020821DBFF1D><hex:020919DB02030405060708090A0B0C0D0E0F10111213141516171803><hex:0103>點（地球時間）後可以開始接受評分。"
+12,"TEXT_CTSFCKMASTER_00453_CHECK_REQUEST_ROSE_001_000","本期的評分次數已經用完。<hex:02100103>請你磨練自己的審美、為下期的時尚品鑑做準備吧。"
+13,"TEXT_CTSFCKMASTER_00453_REWARD_ROSE_000_000","來，這是參加獎勵的金碟幣。<hex:02100103>在這次時尚品鑑中，你有發現了什麼新衣服和靈感嗎？"
+14,"TEXT_CTSFCKMASTER_00453_REWARD_ROSE_001_000","為你打分真是一件令人享受的事……<hex:02100103>這是我給你的特別獎勵！"
+15,"TEXT_CTSFCKMASTER_00453_REWARD_ROSE_004_000","來，這是作為特別獎勵和參加獎勵的金碟幣！<hex:02100103>你那出眾的審美真是令人陶醉！"
+16,"TEXT_CTSFCKMASTER_00453_REWARD_ROSE_002_000","我話才說到一半呢，你去哪了？！"
+17,"TEXT_CTSFCKMASTER_00453_REWARD_ROSE_003_000","這是我剛剛想和參加獎勵一起交給你的。<hex:02100103>為你打分真是令我十分享受，所以我要給你一份特別獎勵！"
+18,"TEXT_CTSFCKMASTER_00453_COME_AGAIN_ROSE_000_000","對這次的得分滿意嗎？<hex:02100103>要是不滿意的話，還有機會，<hex:02100103>可以再次挑戰。"
+19,"TEXT_CTSFCKMASTER_00453_COME_AGAIN_ROSE_001_000","對這次的得分滿意嗎？<hex:02100103>本期的評分次數已經用完，<hex:02100103>我等著你下期再來哦。"
+20,"TEXT_CTSFCKMASTER_00453_SCORE_REACTION_ROSE_000_000","……你在開玩笑嗎？<hex:02100103>我可不是什麼健美節目的評審。"
+21,"TEXT_CTSFCKMASTER_00453_SCORE_REACTION_ROSE_001_000","不行不行，看不下去了。<hex:02100103>比起自己的審美觀，你還是先好好考慮一下這次的主題吧。"
+22,"TEXT_CTSFCKMASTER_00453_SCORE_REACTION_ROSE_002_000","怎麼說呢……感覺不對。<hex:02100103>我認同你的努力，不過努力的方向錯了。<hex:02100103>並不是穿得怪異就是個性，你一定要記住。"
+23,"TEXT_CTSFCKMASTER_00453_SCORE_REACTION_ROSE_003_000","離合格還差一點了。<hex:02100103>方向對了，不過過於粗糙欠缺打磨。<hex:02100103>你是一塊很好的原石，我覺得你把握住竅門了。"
+24,"TEXT_CTSFCKMASTER_00453_SCORE_REACTION_ROSE_004_000","還可以。<hex:02100103>不過，既然已經到了這一步，<hex:02100103>我希望你能再加一把勁，讓我看看更加時髦的你。"
+25,"TEXT_CTSFCKMASTER_00453_SCORE_REACTION_ROSE_005_000","真不錯！<hex:02100103>你已經抓住了整體基調，美中不足的是稍顯平淡。<hex:02100103>加入一些更貼題的元素、再下一番苦功的話效果會更好。"
+26,"TEXT_CTSFCKMASTER_00453_SCORE_REACTION_ROSE_006_000","太棒了！<hex:02100103>你已經完全掌握了什麼叫時尚！<hex:02100103>希望你能向著更高的目標前進！"
+27,"TEXT_CTSFCKMASTER_00453_SCORE_REACTION_ROSE_007_000","完美……太完美了！<hex:02100103>感謝眾神讓我遇到這麼完美的作品！<hex:02100103>我不會原諒任何貶低你審美的人！"
+28,"TEXT_CTSFCKMASTER_00453_BESTSCORE_REACTION_ROSE_000_000","重新整理了這次主題的得分記錄呢。<hex:02100103>這是你給我展示的服裝中最讓我心動的搭配！"
+29,"TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_000_000","你注意到我換了新的面具嗎？<hex:02100103>如果不注意細節，<hex:02100103>可是無法打動我羅斯的心哦？"
+30,"TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_001_000","所謂時尚就是不斷學習……<hex:02100103>可不要忘記了哦？"
+31,"TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_002_000","就算是在戰場上也可以找到美的種子。<hex:02100103>華麗的伊修加爾德騎士、東方風情的多瑪武士……<hex:02100103>要根據所在地改變自己的時尚風格，記住了嗎？"
+32,"TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_003_000","之前霞送了我花。<hex:02100103>她說之所以選那種花是因為花語是美麗。<hex:02100103>你問我是什麼花？還用問嗎……當然是火紅的薔薇！"
+33,"TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_004_000","似乎有很多男士對霞垂涎欲滴。<hex:02100103>不過她可是個時尚達人，<hex:02100103>如果穿著一般，可是入不了她的法眼的呢。"
+34,"TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_005_000","聽說在注重時尚的冒險者當中，有不光是打扮自己，<hex:02100103>還要把僱員也打扮得漂漂亮亮的人。<hex:02100103>你是哪種人呢？"
+35,"TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_006_000","烏爾達哈經濟雜誌«秘銀之眼»的記者似乎正試圖查明我的真身……<hex:02100103>你不覺得揭露謎底這種行為一點都不浪漫嗎？"
+36,"TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_007_000","格里達尼亞的毛皮、烏爾達哈的絲綢……<hex:02100103>利姆薩·羅敏薩的呢絨、阿拉米格的傳統紡織品……<hex:02100103>希望你能靈活運用不同的素材。"
+37,"TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_008_000","金碟遊樂園匯集了世界各地的客人，<hex:02100103>在這裡能看到各地的時尚風格，真是太棒了！"
+38,"TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_009_000","有個人自信滿滿地來讓我給他打分，<hex:02100103>還一直在炫耀自己……結果他的裝扮根本拿不到高分。<hex:02100103>內心不夠美麗，再怎麼下表面工夫也沒用。"
+39,"TEXT_CTSFCKMASTER_00453_CHECK_START_ROSE_000_000","那就開始打分吧。<hex:02100103>你能不能給我帶來驚喜呢？"
+40,"TEXT_CTSFCKMASTER_00453_CHECK_BEST_EQUIP_000_000","你這周不是還沒來評過分嗎！<hex:02100103>我會等著你來挑戰的，準備好就來找我吧！"
+41,"TEXT_CTSFCKMASTER_00453_CHECK_RESULT_ROSE_000_000","嗯……我考慮好了……<hex:02100103>做好準備了嗎？公佈結果的時間到了！"
+42,"TEXT_CTSFCKMASTER_00453_CHECK_DIALOG_000_000","準備挑戰時尚品鑑。<hex:02100103>穿著中的裝備會被繫結。<hex:02100103>確定挑戰嗎？"

@@ -1,5 +1,6 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
 0,"TEXT_MANWIL202_00529_SEQ_00",""
 1,"TEXT_MANWIL202_00529_SEQ_01",""
@@ -49,5 +50,4 @@ int32,str,str
 45,"TEXT_MANWIL202_00529_TODO_21",""
 46,"TEXT_MANWIL202_00529_TODO_22",""
 47,"TEXT_MANWIL202_00529_TODO_23",""
-48,"TEXT_MANWIL202_00529_HECATONCHEIR_000_1","……으으으으…… 머리가 아프다…….
-누구냐…… 나를 부르는 자가……."
+48,"TEXT_MANWIL202_00529_HECATONCHEIR_000_1","……嗷嗷嗷嗷……頭好痛……<hex:02100103>是誰……在召喚我……"

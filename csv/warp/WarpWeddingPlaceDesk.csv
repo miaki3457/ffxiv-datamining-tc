@@ -1,97 +1,45 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_000","이 건물은 '영원의 성당'이라 불리는 의식의 장입니다.
-운명으로 맺어진 두 사람이 서약을 나누는 신성한 장소지요.
-무슨 일로 찾아오셨나요……?"
-1,"TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_001","<Highlight>ObjectParameter(1)</Highlight> 님이시군요.
-'레모'와 '언약식 설정'을 상담하러 오셨다면
-제가 아니라 '식순 안내인'에게 말씀해주세요."
-2,"TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_002","<Highlight>ObjectParameter(1)</Highlight> 님이시군요.
-무슨 일로 저를 찾아오셨나요……?"
-3,"TEXT_WARPWEDDINGPLACEDESK_Q1_000_020","무슨 일로 왔습니까?"
-4,"TEXT_WARPWEDDINGPLACEDESK_A1_000_021","다른 사람의 언약식에 참석하러"
-5,"TEXT_WARPWEDDINGPLACEDESK_A1_000_022","하객용 안내: '영원한 언약식'이란?"
-6,"TEXT_WARPWEDDINGPLACEDESK_A1_000_023","하객용 안내: 언약식 참석자가 주의할 점"
-7,"TEXT_WARPWEDDINGPLACEDESK_A1_000_024","하객용 안내: 언약식 일정이 미뤄진 경우"
-8,"TEXT_WARPWEDDINGPLACEDESK_A1_000_025","취소"
-9,"TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_100","'영원한 언약식'이란 특별한 인연을 맺고자 하는
-두 사람이 신들 앞에서 영원을 맹세하는 의식입니다…….
-이곳에서는 초대 손님을 위한 안내를 해드리고 있습니다."
-10,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_101","'영원한 언약식'은 특별한 인연을 맺고자 하는
-두 사람을 위한 행사입니다.
-자세한 사항은 공식 홈페이지를 참조하시기 바랍니다."
-11,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_102","언약식을 올리려면 사전에 신청해야 합니다.
-주최자에게 초대받은 사람은 따로 신청하지 않아도
-지정된 시간에 '에투아넬'에게 말하면 입장할 수 있습니다."
-12,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_103","하객은 식장에 들어올 때 주최자에게 받은
-<Sheet(Item,8699,0)/><13>FF0F02280BFF054974656DF221FB0103FF04EBA5BCFF04EC9D84</13> 반드시 가지고 있어야 합니다.
-파기한 경우 입장할 수 없으며, 주최자에게 다시 받아야 합니다."
-13,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_104","식장은 (현실 시간) 2시간 단위로 끊어서 빌릴 수 있으며
-개장 시각보다 일찍 도착하더라도 미리 입장할 수는 없습니다.
-이 점 양해해주시기 바랍니다."
-14,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_105","입장은 청첩장의 아이템 상세 정보에 적힌 시간부터
-현실 시간 최대 1시간 30분 후까지 가능합니다.
-단, 언약식이 끝난 이후에는 입장할 수 없습니다."
-15,"TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_120","'영원한 언약식'에 초대받은 분들이
-당일에 주의하실 점에 대해 알려드리겠습니다……."
-16,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_121","개장 직후, 손님 여러분은 모두 같은 객실에서 대기합니다.
-주최자 측 준비가 끝날 때까지 현실 시간으로 최대 20분,
-준비가 끝난 후 최대 20분 동안 기다리게 됩니다. "
-17,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_122","즉 언약식은 개장 후 (현실 시간) 최대 40분 뒤에 시작됩니다.
-하지만 주최자의 결정에 따라 시간을 앞당길 수 있으니
-당일에는 개장 시각에 맞추어 오시는 것이 좋습니다."
-18,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_123","주최자가 준비를 마치면 하객들은
-객실에서 식장으로 자동으로 이동합니다.
-식장 안에서는 안내 담당자에게 설명을 들을 수 있습니다."
-19,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_124","또한 '영원한 언약식'이 시작되면
-하객 여러분의 모습도 동영상에 반영되므로
-장비(의상) 변경은 언약식 시작 전에 미리 마치십시오."
-20,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_125","혹시 빠진 손님은 없는지, 옷은 모두 갈아입었는지……
-주최 측 두 분과 대화하여 이러한 정보를 주고받으면
-언약식도 좀 더 원활하게 진행될 수 있습니다."
-21,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_126","언약식은 주최 측 두 분의 '입장', '인사', '서약의 의식',
-'내빈 환담(자유 시간)', '폐막' 순으로 진행되며
-기념 스크린샷 촬영도 자유롭게 하실 수 있습니다."
-22,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_127","언약식에 걸리는 시간은 현실 시간으로 최대 1시간 30분입니다.
-하객 여러분은 식장 안을 자유롭게 이동할 수 있으며
-도중에 나가거나 들어올 수도 있습니다."
-23,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_140","주최 측 사정으로
-언약식이 중지되고 다른 날로 미뤄질 수도 있습니다."
-24,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_141","이럴 때는 주최자 두 사람이 다시 한번 예약을 하고
-손님들에게 청첩장을 새로 보내게 됩니다."
-25,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_142","언약식이 중지되면 하객들이 가지고 있는
-<Sheet(Item,8699,0)/><13>FF0F02280BFF054974656DF221FB0103FF04EB8A94FF04EC9D80</13> 사용할 수 없게 되므로
-파기하셔도 상관없습니다."
-26,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_143","단, 주최자가 새로 보내는 청첩장을 받아서 가지고 계셔야
-후일에 다시 열리는 언약식에 참가할 수 있습니다."
-27,"TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_160","안내는 따로 필요 없으신가요?
-당신에게 신의 가호가 함께하기를……."
-28,"TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_200","지금 열리고 있는
-'영원한 언약식' 청첩장을 가지고 계시네요.
-지금부터 '영원의 성당'으로 안내하겠습니다."
-29,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_201","하객 여러분의 모습도 동영상에 반영되므로
-장비(의상) 변경은 언약식 시작 전에 미리 마치십시오."
-30,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_202","언약식은 개장 후 현실 시간 최대 40분 뒤에 시작됩니다.
-언약식 진행 순서나 입장 및 퇴장 방법 등 자세한 정보는
-식장 안에 있는 '예식 안내인'에게 물어보실 수 있습니다."
-31,"TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_230","이 <Sheet(Item,8699,0)/><14>FF0F02280BFF054974656DF221FB0103FF04EBA19CFF07EC9CBCEBA19C</14>는
-지금 진행되는 언약식에 들어가실 수 없습니다…….
-다시 한번 시간을 확인해주시겠습니까?"
-32,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_231","소지하신 <Sheet(Item,8699,0)/><13>FF0F02280BFF054974656DF221FB0103FF04EBA5BCFF04EC9D84</13> 사용할 수 있는 일시는
-아이템 상세 정보에서 확인할 수 있습니다."
-33,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_232","식장은 현실 시간 2시간 단위로 끊어서 대여됩니다.
-따라서 <Sheet(Item,8699,0)/>에 적힌
-개장 시각이 되기 전에는 입장하실 수 없습니다."
-34,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_233","청첩장에 적힌 개장 시각이 되면 입장하실 수 있습니다.
-이 점 양해해주시기 바랍니다."
-35,"TEXT_WARPWEDDINGPLACEDESK_Q2_250","예식장 '영원의 성당' 안으로 들어가시겠습니까?"
-36,"TEXT_WARPWEDDINGPLACEDESK_A2_251","예"
-37,"TEXT_WARPWEDDINGPLACEDESK_A2_252","아니요"
-38,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_260","예식장에 입장하지 못했습니다.
-해당 시간에 예약되었던 언약식은
-이미 종료되었습니다."
-39,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_270","예기치 못한 문제로 인해 이동하지 못했습니다."
-40,"TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_290","개장 시각이 지났으니 서둘러 입장해주세요.
-다른 용건이 생기시면 식 도중에
-밖으로 나올 수도 있습니다."
+0,"TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_000","這裡是久遠聖堂……<hex:02100103>是個供命中注定的二人許下永結同心誓言的神聖場所。<hex:02100103>請問您來這裡有什麼事嗎？"
+1,"TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_001","<hex:022903EB0203>，<hex:02100103>如果想和雷莫商量典禮方案，<hex:02100103>請去找儀式迎賓員，由他領您進聖堂。"
+2,"TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_002","<hex:022903EB0203>，<hex:02100103>請問您找我有什麼事嗎？"
+3,"TEXT_WARPWEDDINGPLACEDESK_Q1_000_020","您有什麼事？"
+4,"TEXT_WARPWEDDINGPLACEDESK_A1_000_021","參加朋友的永結同心典禮"
+5,"TEXT_WARPWEDDINGPLACEDESK_A1_000_022","來賓指南：什麼是「永結同心典禮」？"
+6,"TEXT_WARPWEDDINGPLACEDESK_A1_000_023","來賓指南：參加典禮的注意事項"
+7,"TEXT_WARPWEDDINGPLACEDESK_A1_000_024","來賓指南：典禮延期了怎麼辦？"
+8,"TEXT_WARPWEDDINGPLACEDESK_A1_000_025","取消"
+9,"TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_100","所謂永結同心典禮，<hex:02100103>就是供希望結下良緣的二人在眾神面前許下諾言的儀式。<hex:02100103>就讓我來向您介紹一下典禮的具體情況吧。"
+10,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_101","永結同心典禮是「永結同心」的相關內容。<hex:02100103>詳情請參見官方網站。"
+11,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_102","欲舉辦典禮，需要事先進行預約。<hex:02100103>持有新人請帖的來賓無需事先預約，<hex:02100103>只要在請帖上指定的時間和艾圖瓦妮勒對話，便可入場。"
+12,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_103","在入場時，請攜帶從新人那裡收到的<hex:02280BFF05>Item<hex:F221FB0103>。<hex:02100103>如丟失則無法入場，需再從新人手中領取。"
+13,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_104","會場每隔2小時（地球時間）可供包場一次，<hex:02100103>因此無法提前入場，<hex:02100103>敬請諒解。"
+14,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_105","入場時間記載在請帖的道具說明中，<hex:02100103>最遲可在請帖內指定時間後約1個半小時（地球時間）內入場。<hex:02100103>典禮結束後則無法入場。"
+15,"TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_120","參加永結同心典禮需注意以下事項。"
+16,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_121","開場後，來賓們需在休息室稍作等待，<hex:02100103>新人最長會花20分鐘（地球時間）進行梳妝打扮，<hex:02100103>完成準備後，最多需再等待20分鐘。"
+17,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_122","典禮最遲會在開場40分鐘（地球時間）後舉行。<hex:02100103>時間完全由新人控制，有可能開場後馬上舉行典禮，<hex:02100103>因此建議按時到達，參加典禮。"
+18,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_123","新人準備好後，<hex:02100103>來賓們將自動從休息室前往會場。<hex:02100103>在會場內有不明白的地方，可以詢問典禮接待員。"
+19,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_124","另外，永結同心典禮開始後，<hex:02100103>來賓也會出現在過場動畫中，<hex:02100103>因此請提前換好參加典禮所穿的服裝。"
+20,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_125","善用聊天等手段將來賓到齊、服裝換好等資訊告知新人，<hex:02100103>以便新人順利開始舉辦典禮。"
+21,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_126","典禮分為「入場」、「問候」、「誓約儀式」、「暢談（自由時間）」、<hex:02100103>「結束」這幾個步驟，可以盡情按下快門截圖，記錄這一美好時光。"
+22,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_127","典禮最長將舉行約1個半小時（地球時間）。<hex:02100103>在會場內基本上可以自由行動，也可以中途入場或提前退場。"
+23,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_140","新人有可能會中止或延期典禮。"
+24,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_141","屆時新人將重新進行預約，<hex:02100103>並再發放新的請帖。"
+25,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_142","典禮延期後，來賓們所持的<hex:02280BFF05>Item<hex:F221FB0103>將無法再使用，<hex:02100103>可以將其捨棄。"
+26,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_143","持有新人發放的新請帖，<hex:02100103>方可參加重新舉辦的典禮。"
+27,"TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_160","好的，願眾神保佑您。"
+28,"TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_200","您持有該永結同心典禮的請帖，<hex:02100103>可以進入久遠聖堂。"
+29,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_201","來賓也會出現在過場動畫中，<hex:02100103>因此請提前換好參加典禮所穿的服裝。"
+30,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_202","典禮最遲會在開場40分鐘（地球時間）後舉行。<hex:02100103>關於典禮的程式和入場、退場的方法，<hex:02100103>請詢問會場內的典禮接待員。"
+31,"TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_230","您手中的請帖不是這場典禮的……<hex:02100103>請再確認一下時間。"
+32,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_231","可以在道具說明中檢視<hex:02280BFF05>Item<hex:F221FB0103>的有效日期。"
+33,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_232","會場每隔2小時（地球時間）可供包場一次，<hex:02100103>因此無法提前入場。"
+34,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_233","到了請帖上記載的開場時間後才能入場，<hex:02100103>敬請諒解。"
+35,"TEXT_WARPWEDDINGPLACEDESK_Q2_250","要進入久遠聖堂嗎？"
+36,"TEXT_WARPWEDDINGPLACEDESK_A2_251","是"
+37,"TEXT_WARPWEDDINGPLACEDESK_A2_252","否"
+38,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_260","無法進入會場。<hex:02100103>永結同心典禮已結束。"
+39,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_270","發生意外錯誤，無法進行移動。"
+40,"TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_290","開場時間已過，請把握時間入場。<hex:02100103>如有急事，可在典禮中途退場……"

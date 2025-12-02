@@ -1,55 +1,24 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_000","응? 넌 뭐야?
-난 보다시피 하늘을 감시하느라 바빠.
-용건은 되도록 간단히 끝내줬으면 좋겠군."
-1,"TEXT_REGROC2CONVICTORY_00282_Q1_000_000","무엇을 물어보시겠습니까?"
-2,"TEXT_REGROC2CONVICTORY_00282_A1_000_001","당신의 이야기를 들려달라고 한다"
-3,"TEXT_REGROC2CONVICTORY_00282_A1_000_002","여기는 어떤 곳인지 물어본다"
-4,"TEXT_REGROC2CONVICTORY_00282_A1_000_003","취소"
-5,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_010","난 성 피네아 연대에 소속된 기병이야.
-드래곤족을 찾아내서 죽이는 게 내 임무지……
-하지만 아쉽게도 아직 기회를 잡지 못했어."
-6,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_011","이슈가르드에서 성공하고 싶으면
-드래곤족을 때려잡아 공을 세우는 게 최고지.
-거물만 잡으면 귀족이 되는 것도 꿈이 아니라니까?"
-7,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_012","그런데 그게 말이 쉽지…… 작위와 영지를 받는 녀석보다
-무덤 속으로 기어들어가는 녀석이 훨씬 많아.
-그래도 우리 같은 밑바닥 인생은 도박에 나설 수밖에."
-8,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_100","난 성 피네아 연대에 소속된 기병이야.
-인간을 해치는 드래곤족을 처치하는 게 내 임무지……
-아직 이렇다 할 기회는 얻지 못했지만."
-9,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_101","최근에는 용과의 화합이 어쩌고 떠들썩하던데,
-아직도 사나운 용들의 습격을 받는 일은 자주 있다고.
-난 그런 놈들을 잡아서 이름을 날릴 심산이야."
-10,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_102","다른 녀석들도 같은 생각이지.
-5년, 10년 뒤에는 용을 잡아서 출세할 수 없을지도 모르니까.
-이른 시일 안에 굵직한 놈을 하나 잡고 싶군."
-11,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_200","난 성 피네아 연대에 소속된 기병이야.
-인간을 해치는 드래곤족을 잡는 게 내 임무지……
-아직 이렇다 할 기회는 얻지 못했지만."
-12,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_201","사룡 니드호그가 쓰러졌다고 들었지만,
-사나운 용들의 습격을 받는 일은 아직도 빈번하다고.
-그래서 일거리는 아직 그럭저럭 있는 편이야."
-13,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_202","다른 녀석들도 이 일이 아니면 먹고살 방법을 모르니
-장텔로 님이 연대를 해산하지 않는 한
-계속 여기 남아서 일하지 않을까 싶어."
-14,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_020","이곳은 '성 피네아 연대 야영지'다.
-이름은 연대지만 교황청 소속의 정규 부대는 아니야.
-실상은 하급 귀족과 평민이 뒤죽박죽된 집단이지."
-15,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_021","후계자가 되지 못한 귀족 자제와 그들에게 고용된 평민들,
-먹고살 길이 막막하거나 인생역전을 노리는 겁 없는 놈들이
-드래곤족을 사냥하기 위해 만든 게 우리 부대야."
-16,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_022","참고로 '성 피네아'라는 이름은
-드래곤족의 공격으로부터 요새를 지켜낸 공을
-인정받아 성녀가 된 여기사님 이름에서 딴 거야."
-17,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_110","이곳은 '성 피네아 연대 야영지'다.
-이름은 연대지만 교황청 소속의 정규 부대는 아니야.
-실상은 하급 귀족과 평민이 뒤죽박죽된 집단이지."
-18,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_111","후계자가 되지 못한 귀족 자제와 그들에게 고용된 평민들,
-먹고살 길이 막막하거나 인생역전을 노리는 겁 없는 놈들이
-인간을 해치는 드래곤족을 사냥하기 위해 만든 게 우리 부대야."
-19,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_112","참고로 '성 피네아'라는 이름은
-드래곤족의 공격으로부터 요새를 지켜낸 공을
-인정받아 성녀가 된 여기사님 이름에서 딴 거야."
+0,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_000","你是幹什麼的？<hex:02100103>我正在對上空進行監視，有什麼事趕快說。"
+1,"TEXT_REGROC2CONVICTORY_00282_Q1_000_000","想了解什麼？"
+2,"TEXT_REGROC2CONVICTORY_00282_A1_000_001","你是做什麼的？"
+3,"TEXT_REGROC2CONVICTORY_00282_A1_000_002","這裡是什麼地方？"
+4,"TEXT_REGROC2CONVICTORY_00282_A1_000_003","取消"
+5,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_010","我是隸屬於聖菲內雅連隊的騎兵。<hex:02100103>我的工作就是找出龍族，然後消滅它們……<hex:02100103>雖然話是這麼說，但一直都沒有機會。"
+6,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_011","在伊修加爾德，討伐龍族、建立功勛是飛黃騰達的捷徑。<hex:02100103>如果能斬下一頭大傢伙，那麼成為貴族也不是不可能。"
+7,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_012","但是，很少有人能成功……<hex:02100103>進入墳墓的傢伙要遠遠比獲得爵位和封地的人多。<hex:02100103>但即便如此，為了改變命運，還是會有人不得不賭一把。"
+8,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_100","我是隸屬於聖菲內雅連隊的騎兵。<hex:02100103>雖然工作是消滅與人類敵對的龍族……<hex:02100103>不過一直都沒得到機會。"
+9,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_101","雖然最近到處在說什麼與龍族融合什麼的，<hex:02100103>但還是會有很多凶暴的龍族襲擊過來。<hex:02100103>我的目標就是拿下它們，出人頭地。"
+10,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_102","其他人也和我抱有同樣的目的。<hex:02100103>可能在5年後、10年後，這種出人頭地的方式將會消失。<hex:02100103>所以我們想要趁早斬下一頭大傢伙。"
+11,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_200","我是隸屬於聖菲內雅連隊的騎兵。<hex:02100103>雖然工作是消滅與人類敵對的龍族……<hex:02100103>不過一直都沒得到機會。"
+12,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_201","雖然聽說邪龍尼德霍格被消滅了，<hex:02100103>但還是經常會有凶暴的龍族來襲。<hex:02100103>因此還是有事可做的。"
+13,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_202","其他人也一樣，都是一些除此之外不知該怎麼生存的傢伙。<hex:02100103>只要讓泰洛隊長不解散連隊，<hex:02100103>那我們就會留在這裡，繼續工作。"
+14,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_020","這裡是聖菲內雅連隊露營地。<hex:02100103>雖說是連隊，但其實並不是隸屬教皇廳的正規部隊。<hex:02100103>確切地說，是集合了下級貴族和平民的雜牌軍。"
+15,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_021","有無法繼承家業的貴族子弟和被這些人僱傭的平民，<hex:02100103>還有一些無業遊民和想要孤注一擲的賭徒，<hex:02100103>大家都是為了狩獵龍族而聚在一起的。"
+16,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_022","順帶一提，聖菲內雅是一位女騎士的名字，<hex:02100103>她從龍族的襲擊中守護了要塞，<hex:02100103>最後因立下功績而被奉為聖女。"
+17,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_110","這裡是聖菲內雅連隊露營地。<hex:02100103>雖說是連隊，但其實並不是隸屬教皇廳的正規部隊。<hex:02100103>確切地說，是集合了下級貴族和平民的雜牌軍。"
+18,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_111","有無法繼承家業的貴族子弟和被這些人僱傭的平民，<hex:02100103>還有一些無業遊民和想要孤注一擲的賭徒，<hex:02100103>大家都是為了狩獵對人類有害的龍族而聚在一起的。"
+19,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_112","順帶一提，聖菲內雅是一位女騎士的名字，<hex:02100103>她從龍族的襲擊中守護了要塞，<hex:02100103>最後因立下功績而被奉為聖女。"

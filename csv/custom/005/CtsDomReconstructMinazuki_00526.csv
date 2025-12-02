@@ -1,169 +1,72 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_000","（★未使用／削除予定★）"
-1,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_005","덕분에 수업을 할 수 있는 시설이 모두 갖추어졌어요.
-아이들은 이곳에서 열심히 공부를 하고 있답니다."
-2,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_010","어머, <Highlight>ObjectParameter(1)</Highlight> 님.
-덕분에 비바람을 피해서 수업을 할 수 있게 되었어요."
-3,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_011","하지만 책은 쉽게 구할 수가 없어서……
-이렇게 책 없이 말로만 강의를 하고 있어요."
-4,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_012","지금은 아이들에게 율재 님에 대해서 가르치고 있었답니다.
-당신은 율재 님을 아시나요?"
-5,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_YOUZAN_000_013","<If(PlayerParameter(4))>누나<Else/>형아</If>도 모르는 게 있나 보네!
-그럼 우리랑 같이 선생님 수업을 들으면 되겠다!"
-6,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOHARU_000_014","맞아!
-모르는 건 그냥 넘어가면 안 된다고
-어른들이 맨날 말하잖아!"
-7,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_015","그래요, 그게 좋겠어요.
-괜찮다면 같이 들어주세요."
-8,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_016","자, 그럼 얘들아, 수업을 시작할게.
-율재 님은 말이지
-과거 도마의 명성 높은 무사였단다."
-9,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_017","주군에게 충성을 다하고 포술 및 병법에 능했을 뿐 아니라
-학문에도 정통했던 박식한 분이었다고 전해지고 있어."
-10,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_018","후에 나이가 들어서는 공직에서 물러나시고
-사유 재산을 투자해서 사립 학교 '율재학당'을 세우셨지."
-11,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_019","율재학당은 당시 무사의 자녀들뿐 아니라
-서민의 아이들한테도 문호를 개방했단다.
-원하면 누구든지 수준 높은 교육을 받을 수 있도록 말이야."
-12,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_020","그분의 그런 자세에 감명을 받은 자들이
-율재 님이 세상을 떠난 후에도 그 뜻을 이어받아
-계속해서 '율재학당'을 운영했어."
-13,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_ROKKA_000_021","그럼 옛날에도 여기랑 똑같은 이름의 학교가 있었던 거네요……?"
-14,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOHARU_000_022","…………아, 그렇구나!
-선생님도 율재 님의 뜻을 이어받은 거군요!"
-15,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_023","그래, 맞아.
-제국 침략 후엔 교육도 제국식으로 바꾸도록 강요를 받아,
-그 학교는 폐쇄되었지만……."
-16,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_024","그래도 나이 많은 어르신들은 몰래 아이들에게
-도마의 글을 읽고 쓰는 법과 역사를 가르쳤단다.
-이건 너희들도………… 기억하고 있지?"
-17,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_025","하지만 이젠 더 이상 숨어서 공부할 필요가 없단다.
-도마는 해방되었고 율재학당도 재건되었으니 말이야."
-18,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_026","제국에 지배를 당해도 굴하지 않았던 도마의 정신이
-20년이라는 세월을 거쳐 다시 꽃을 피운 거야.
-너희들은 바로 그 역사적인 제1기생이란다."
-19,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_YOUZAN_000_027","대단해!
-뭔가 엄청 멋져!"
-20,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_028","우리 함께 이 율재학당을 발전시켜 나가자꾸나."
-21,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_YOUZAN_000_029","(-아이들-)네에!!"
-22,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_SYSTEM_000_030","'율재학당'이 개설되었습니다!
-앞으로 아이들은 열심히 공부할 것입니다."
-23,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_SYSTEM_000_031","앞으로도 <Sheet(EObj,2009567,0)/>에 물자를 기부하여
-도마 도읍지를 더욱 부흥시킵시다!"
-24,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_SYSTEM_000_032","또한 마을 내 부흥 계획이 완료되었기 때문에
-물자의 거래 예산액이 더 인상되었습니다.
-앞으로는 더 많은 물자를 기부할 수 있습니다."
-25,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_035","덕분에 수업을 할 수 있는 시설이 모두 갖추어졌어요.
-아이들은 상당히 열심히 강의를 들어주고 있답니다."
-26,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_040","<Highlight>ObjectParameter(1)</Highlight> 님, 어서 오세요.
-덕분에 학교는 나날이 발전하고 있어요."
-27,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_041","책도 기증을 받아서
-외부 모습뿐 아니라 내부도 제법 모양새가 갖춰졌답니다."
-28,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_042","그뿐만이 아니에요.
-필기구 같은 건 애들이 직접 조달해왔다니까요.
-장인 거리의 장인분들한테 가서요."
-29,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_YOUZAN_000_043","맞아!
-츠라누키 아저씨한테 숯을 받아서 먹을 만들었어!"
-30,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_SHIUN_000_044","손이 시커멓게 됐지만,
-먹 가는 거 엄청 재미있었어.
-<If(PlayerParameter(4))>누나<Else/>형</If>도 같이 하자!"
-31,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOHARU_000_045","우리는 아라라기 아저씨한테 갔다왔어!
-찢어져서 장에 내다 팔 수 없는 종이를
-엄청 많이 받아왔어!"
-32,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_ROKKA_000_046","그리고 선물로 작은 바람개비도 주셨어."
-33,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_YOUZAN_000_047","뭐야! 나도 갖고 싶어!"
-34,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_048","예전부터 활발한 아이들이었지만……
-잠시 떨어져 있던 동안에 많이 컸더군요.
-스스로 생각해서 실천하고…… 어른도 무색해질 정도예요."
-35,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_049","익숙지 않은 난민 생활로 고생하느라
-저렇게 야무지게 큰 건가 하는 생각도 들었지만……
-그것도 아닌 것 같아요."
-36,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_050","저 아이들은 그저 언제 어디서나 최선을 다해
-자신들에게 닥친 상황을 즐기고 있는 거였어요.
-아이들의 웃는 얼굴을 보면 정말로 힘이 난답니다."
-37,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_051","이렇게 생각하는 건 저뿐만이 아니에요.
-질경이 자치회나 목수분들도 같은 생각인가봐요."
-38,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_052","그래서……
-다음엔 아이들이 좋아하는 부분을 채워주려고
-어른들끼리 몰래 준비 중이랍니다."
-39,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_053","후훗.
-아이들한테는 아직 비밀이에요."
-40,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_SYSTEM_000_054","'율재학당'은 순조롭게 발전하고 있습니다.
-아이들의 노력도 더해져서
-시설은 더욱더 내실을 갖춰가게 될 것입니다."
-41,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_SYSTEM_000_055","앞으로도 <Sheet(EObj,2009567,0)/>에 물자를 기부하여
-도마 도읍지를 더욱 부흥시킵시다!"
-42,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_060","아이들은 필기구 조달뿐 아니라
-여러 가지를 도와주고 있답니다.
-목수분들도 귀여워해주고 계세요."
-43,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOZAKURA_000_065","미나즈키 씨, 안녕하세요.
-호우잔 씨가 이쪽으로 가보라고 하셔서
-이렇게 찾아왔어요."
-44,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_066","어서 오세요. 잘 오셨어요.
-꼭 보여드리고 싶은 게 있다고
-아이들이 하도 성화라서요……."
-45,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_YOUZAN_000_067","<If(PlayerParameter(4))>누나<Else/>형아</If>, 이쪽이야 이쪽!
-여길 봐!"
-46,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_YOUZAN_000_068","이거, 망자의 종소리에서 떠나올 때
-프라민 아줌마가 준 거야!
-'도마에 돌아가도 에오르제아를 잊지 말렴'이라면서."
-47,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_ROKKA_000_069","언제든지 에오르제아를 떠올리고 싶어서…….
-목수 아저씨한테 부탁해서 이쪽에 걸었어.
-미나즈키 선생님도 마음에 들면 좋겠는데……."
-48,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_070","어머 세상에, 너무나도 멋진 지도구나.
-이곳은 너희들의 학교니까
-공부에 도움이 될 만한 건 뭐든 대환영이란다."
-49,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_071","서방에서도 너희들을 지켜보고
-신경 써주신 분이 있었나 보구나."
-50,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_072","그나저나 상당히 멋진 서방의 물품들이네.
-제법 비쌀 것 같은데?
-다시 돌려드리지 않아도 괜찮겠니……?"
-51,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_SHIUN_000_073","받았을 때 우리가 엄청 고맙다고 했어요.
-하지만 프라민 아줌마는
-어차피 물려받은 거니 괜찮다고 했고요."
-52,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_SHIUN_000_074","선생님은 이런 거 별로 본 적 없어요?
-망자의 종소리에서 친해진 친구도
-이거 갖고 있었는데요?"
-53,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_075","그래, 지금까지 도마와 서방 사이엔
-거의 교류가 없었거든……."
-54,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOHARU_000_076","그럼 우리가 가르쳐 줄게요!
-점성술에 쓰이는 거랑 확대경이랑
-엄청 많이 갖고 왔거든요!"
-55,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOHARU_000_077","초코보라는 동물 인형도 있어요!
-거기는 초코보가 진짜 많이 있어 가지구
-소나 말처럼 짐도 막 끌어줘요!"
-56,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_YOUZAN_000_078","선생님, 여기 지도도 보세요!
-사막에 있는 게 울다하고, 산 쪽에 있는 게 망자의 종소리예요.
-그거 말고도 이렇게나 많은 나라들이 있어요!"
-57,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_YOUZAN_000_079","언젠가 우리들은
-<If(PlayerParameter(4))>누나<Else/>형아</If>도 가본 적이 없는 곳을
-모험할 거예요!"
-58,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_080","어머나…….
-서방에 관해서는
-내가 너희들에게 배워야겠구나."
-59,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_081","지금 도마에서
-너희들만큼 서방에 대해서 잘 알고 있는 사람은 없을 거야.
-서방 얘기를 좀 더 들려주겠니?"
-60,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOZAKURA_000_081","후훗, 아이들의 웃는 얼굴은
-정말로 맑은 것 같아요.
-저까지 힘이 나는 것 같네요!"
-61,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOZAKURA_000_082","저 아이들을 위해서라도
-마을의 치안에 좀 더 힘을 쏟아야 한다는 의견이
-질경이 자치회에서도 나왔었어요."
-62,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOZAKURA_000_083","마침 좋은 얘기가 있어요.
-징병으로 끌려갔다가 돌아온 유지 분들이 자경대를 결성해서
-귀연관 옆에 자경본부를 설치할 예정이래요."
-63,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOZAKURA_000_084","앞으로는 그 본부를 지원해나갈 예정이에요.
-계속해서 협력 부탁드립니다!"
-64,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_SYSTEM_000_085","율재학당이 완성되어
-새롭게 '자경본부' 건설이 시작되었습니다.
-앞으로도 물자를 기부하여 완성해나갑시다!"
-65,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOZAKURA_000_090","앞으로 이 아이들은 자유롭게 살았으면 해요……
-그래서 이렇게 공부를 가르치면서
-최대한 지원하고 있는 거랍니다."
-66,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOZAKURA_000_095","이 아이들이 무럭무럭 커서
-새로운 시대의 일꾼으로 성장해나갈 날이 기대되네요."
-67,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOZAKURA_000_096","먼저 하늘로 간 남편도 분명 어딘가에서
-아이들을 따뜻하게 지켜보고 있을 거예요."
+0,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_000",""
+1,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_005","多虧了你的援助，湊齊了授課需要的物品。<hex:02100103>孩子們真的是很熱心在學習呢。"
+2,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_010","哎呀，<hex:022903EB0203>。<hex:02100103>托你的福，<hex:02100103>現在授課的時候再也不用擔心風吹雨打了。"
+3,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_011","只不過教科書沒有我想像中的那麼齊全……<hex:02100103>目前只能靠著我口頭講課。"
+4,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_012","現在我正在教給孩子們有關栗齋大人的事蹟。<hex:02100103>你知道栗齋大人的事情嗎？"
+5,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_YOUZAN_000_013","即便是<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>你也有不知道的事情啊。<hex:02100103>那就和我們一起聽聽老師講課吧！"
+6,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOHARU_000_014","是啊是啊！<hex:02100103>把不知道的事情放著不問的話是很不好的！<hex:02100103>大人們總是這樣說！"
+7,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_015","你們說得很好。<hex:02100103>你如果願意的話，請聽我講解一下。"
+8,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_016","那麼我們開始吧。<hex:02100103>栗齋大人是一名以前侍奉過多瑪的著名武士。"
+9,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_017","傳說他對當時的主公十分忠誠，不僅精通炮術和兵法，<hex:02100103>而且還是一位飽讀詩書非常博識的人。"
+10,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_018","他因年事已高辭去公務以後，<hex:02100103>用自己攢下來的財富開設了私塾「栗齋學堂」。"
+11,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_019","這個學堂不僅招收武士的子弟，<hex:02100103>也向市井的孩子們敞開了大門。<hex:02100103>只要願意的話，不論是誰都能接受高等的教育。"
+12,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_020","後來有些人被栗齋大人的精神所打動，<hex:02100103>在他去世後繼承了他的遺志，<hex:02100103>繼續將栗齋學堂營運了下來。"
+13,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_ROKKA_000_021","那就是說，在很久以前有一座和這裡同名的私塾嗎？"
+14,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOHARU_000_022","……啊，是這樣啊！<hex:02100103>老師也是同樣繼承了栗齋大人遺志的人啊！"
+15,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_023","是的，沒錯。<hex:02100103>在帝國入侵後，就連教育方式都被強制改成帝國式，<hex:02100103>所以學堂才被迫關門了……"
+16,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_024","但是就算是這樣，<hex:02100103>長輩們還是會偷偷地教孩子們一些讀寫或者多瑪的歷史。<hex:02100103>我想……大家應該都還記憶猶新吧？"
+17,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_025","可是現在已經不用再躲躲藏藏了。<hex:02100103>多瑪已經得到解放，栗齋學堂也已經重建完成了。"
+18,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_026","多瑪人就算被帝國統治也未曾屈服的精神，<hex:02100103>在經過了20年的歲月後，將再次開花結果。<hex:02100103>你們將成為學堂重生後的第一屆學生。"
+19,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_YOUZAN_000_027","好厲害！<hex:02100103>感覺好帥啊！"
+20,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_028","那就讓我們一起將這座栗齋學堂建設得更厲害，你們說好不好？"
+21,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_YOUZAN_000_029","(-孩子們-)好——"
+22,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_SYSTEM_000_030","開辦了栗齋學堂！<hex:02100103>孩子們將在這裡熱心地學習。"
+23,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_SYSTEM_000_031","今後也請將物資放進<hex:02280CFF05>EObj<hex:F61EA9DF0103>，<hex:02100103>為了進一步的發展而努力吧！"
+24,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_SYSTEM_000_032","另外因為城市再次得到發展，<hex:02100103>車前會買入出讓物品時的預算額進一步提升了。<hex:02100103>今後可以出讓更多的物資！"
+25,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_035","多虧了你的援助，湊齊了授課需要的物品。<hex:02100103>孩子們非常熱心地聽我講課呢。"
+26,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_040","<hex:022903EB0203>，歡迎你過來。<hex:02100103>托你的福，<hex:02100103>學舍轉眼間變得如此壯觀了。"
+27,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_041","我們也收到了許多捐贈的書籍，<hex:02100103>不僅是外觀就連內部都充實起來了。"
+28,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_042","而且不僅是這些，<hex:02100103>文具筆墨什麼的，<hex:02100103>都是孩子們自己去匠人街那裡弄來的哦。"
+29,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_YOUZAN_000_043","對啊！<hex:02100103>我向貫師傅要了煤炭，自己做出了墨水哦！"
+30,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_SHIUN_000_044","雖然弄得兩手黑黑的，<hex:02100103>但是研墨真的是很有意思呢。<hex:02100103><hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>，下回也一起來吧？"
+31,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOHARU_000_045","我們去了趟蘭師傅那裡！<hex:02100103>拿回來了許多稍微有些殘破無法作為商品的紙張！"
+32,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_ROKKA_000_046","蘭師傅還順便給了我一個小風車。"
+33,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_YOUZAN_000_047","啊！這太不公平了！"
+34,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_048","從前他們就是很活潑的孩子們……<hex:02100103>一段時間未見，成長了好多啊。<hex:02100103>學會了自主思考，並付之行動……連大人們都不如他們啊。"
+35,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_049","我本以為他們是在不適應的難民生活中迫於艱苦，<hex:02100103>才會學會這些……<hex:02100103>不過看來還不全是呢。"
+36,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_050","那些孩子們總是在全力地享受著眼前的事情。<hex:02100103>他們的笑容對我來說真的是一種救贖。"
+37,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_051","有著這種想法的人可不只是我。<hex:02100103>車前會和工匠們也都是同樣的想法。"
+38,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_052","所以呢……<hex:02100103>大人們就悄悄地策劃著<hex:02100103>建造下一個讓孩子們感到快樂的地方。"
+39,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_053","呵呵。<hex:02100103>還請你先對孩子們保密哦。"
+40,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_SYSTEM_000_054","栗齋學堂看來發展得很順利。<hex:02100103>有了孩子們的努力，<hex:02100103>設施也會逐漸變得更加充實。"
+41,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_SYSTEM_000_055","今後也請將物資放進<hex:02280CFF05>EObj<hex:F61EA9DF0103>，<hex:02100103>為了進一步的發展而努力吧！"
+42,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_060","孩子們不僅自己準備好了學習用品，<hex:02100103>好像還在幫忙干各種事情。<hex:02100103>工匠團的人們也很喜歡他們。"
+43,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOZAKURA_000_065","水無月老師，打擾一下。<hex:02100103>我聽寶山說大家想讓我來這裡一趟，<hex:02100103>所以就過來了。"
+44,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_066","歡迎來到栗齋學堂。<hex:02100103>孩子們說有樣東西不管怎樣都想讓你們看看……"
+45,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_YOUZAN_000_067","<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>，你們快來這邊！<hex:02100103>來看看這個！"
+46,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_YOUZAN_000_068","這些是在離開喪靈鐘的時候，<hex:02100103>芙·拉敏阿姨給我們的。<hex:02100103>她跟我說過「即使回到多瑪，也不要忘記在艾奧傑亞的事情哦」。"
+47,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_ROKKA_000_069","我們想不論在何時都能想起艾奧傑亞的事情，<hex:02100103>所以就拜託工匠先生幫忙給掛起來了。<hex:02100103>水無月老師要是也能喜歡就好了……"
+48,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_070","真是不錯的地圖啊。<hex:02100103>記住這裡是你們的學舍，<hex:02100103>只要是有益於學習的東西，不論什麼我都很歡迎。"
+49,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_071","即使是在西方，<hex:02100103>也有守護並照顧你們的人啊。"
+50,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_072","話說回來，來自這些西方的物品真是精緻……<hex:02100103>是不是很貴重啊？<hex:02100103>不還禮合適嗎……"
+51,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_SHIUN_000_073","我們在收下東西的時候已經跟芙·拉敏阿姨說了好多聲謝謝。<hex:02100103>可是芙·拉敏阿姨卻說<hex:02100103>這些都是已經不用的東西不用在意。"
+52,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_SHIUN_000_074","老師沒有見過這些東西嗎？<hex:02100103>在喪靈鐘和我成為朋友的小孩也有這些。"
+53,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_075","是啊，到現在為止多瑪與西方基本上是沒有交流的……"
+54,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOHARU_000_076","那就讓我們來給老師解說一下吧！<hex:02100103>比如用來占星的東西，還有放大鏡什麼的，<hex:02100103>總之我們拿了很多回來！"
+55,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOHARU_000_077","還有叫做陸行鳥的動物的玩偶呢！<hex:02100103>艾奧傑亞那邊有著很多的陸行鳥，<hex:02100103>還能像牛或馬那樣拉貨車呢！"
+56,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_YOUZAN_000_078","老師看看這個地圖！<hex:02100103>有沙漠的地方是烏爾達哈，喪靈鐘在山脈的北邊……<hex:02100103>除此之外還有好多的國家呢！"
+57,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_YOUZAN_000_079","總有一天，<hex:02100103>我們要去<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>都沒去過的地方進行冒險！"
+58,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_080","哎呀哎呀……<hex:02100103>到了有關西方的事情上，<hex:02100103>倒是輪到老師我該向你們學習了呢。"
+59,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_081","現在的多瑪國內，<hex:02100103>應該沒有比你們更熟悉西方情況的人了。<hex:02100103>請再告訴老師一些你們遇到的事情吧。"
+60,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOZAKURA_000_081","呵呵，孩子們的笑容真是燦爛啊。<hex:02100103>就連我都感覺有精神了！"
+61,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOZAKURA_000_082","為了這些孩子們，<hex:02100103>車前會已經開始討論<hex:02100103>進一步加強城內治安的事情了。"
+62,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOZAKURA_000_083","我這裡正好有一個好消息。<hex:02100103>我們打算召集被徵兵後歸來的有志之士成立一個巡邏隊，<hex:02100103>然後在歸燕館的旁邊建立一個巡邏隊駐所。"
+63,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOZAKURA_000_084","今後車前會將會援助巡邏隊駐所。<hex:02100103>請你繼續協助我們！"
+64,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_SYSTEM_000_085","栗齋學堂建設完成！<hex:02100103>開始進行新的巡邏隊駐所的重建工作。<hex:02100103>今後請繼續提供物資，為了完成重建工作而努力吧！"
+65,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOZAKURA_000_090","我希望今後孩子們能夠自由地活下去……<hex:02100103>所以我在這裡授業解惑，<hex:02100103>做自己力所能及的事情。"
+66,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOZAKURA_000_095","我很期待這些孩子們能夠健康成長，<hex:02100103>將來成為新時代的繼承人呢。"
+67,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOZAKURA_000_096","先走一步的丈夫也肯定在守望著孩子們吧。"

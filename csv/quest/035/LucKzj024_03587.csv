@@ -1,8 +1,8 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_LUCKZJ024_03587_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-온도 바다웅덩이에 있는 네므쉬 온은 성가신 존재를 몰아내고 싶은 모양이다."
+0,"TEXT_LUCKZJ024_03587_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整<hex:0249020103><hex:0248020103><hex:02100103>鰭人潮池的涅姆嘶·澳恩好像想要剷除麻煩的傢伙。"
 1,"TEXT_LUCKZJ024_03587_SEQ_01",""
 2,"TEXT_LUCKZJ024_03587_SEQ_02",""
 3,"TEXT_LUCKZJ024_03587_SEQ_03",""
@@ -26,8 +26,8 @@ int32,str,str
 21,"TEXT_LUCKZJ024_03587_SEQ_21",""
 22,"TEXT_LUCKZJ024_03587_SEQ_22",""
 23,"TEXT_LUCKZJ024_03587_SEQ_23",""
-24,"TEXT_LUCKZJ024_03587_TODO_00","<Sheet(BNpcName,8619,0)/> 처치"
-25,"TEXT_LUCKZJ024_03587_TODO_01","네므쉬 온과 대화"
+24,"TEXT_LUCKZJ024_03587_TODO_00","討伐<hex:02280FFF09>BNpcName<hex:F221AB0103>"
+25,"TEXT_LUCKZJ024_03587_TODO_01","和涅姆嘶·澳恩對話"
 26,"TEXT_LUCKZJ024_03587_TODO_02",""
 27,"TEXT_LUCKZJ024_03587_TODO_03",""
 28,"TEXT_LUCKZJ024_03587_TODO_04",""
@@ -50,21 +50,10 @@ int32,str,str
 45,"TEXT_LUCKZJ024_03587_TODO_21",""
 46,"TEXT_LUCKZJ024_03587_TODO_22",""
 47,"TEXT_LUCKZJ024_03587_TODO_23",""
-48,"TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_000","인간, 혹시 시간 있나?
-그럼 우리 사냥, 지원해줄 수, 있을까?"
-49,"TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_001","'<Sheet(BNpcName,8619,0)/>', 바위인 척 있다가, 공격한다.
-게다가 번식 빨라서, 조금이라도, 줄이고 싶지만,
-우리만으로는, 도저히, 몰아낼 수 없어."
-50,"TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_002","그러니까, 바다웅덩이 주변에 잔뜩 있는,
-'<Sheet(BNpcName,8619,0)/>', 해치워줬으면 좋겠다.
-3마리쯤 해치우고, 보고해줘."
-51,"TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_005","바다웅덩이 주변에 잔뜩 있는,
-'<Sheet(BNpcName,8619,0)/>', 해치워줬으면 좋겠다.
-3마리쯤 해치우고, 보고해줘."
-52,"TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_010","오오, 해치우고 왔구나, 고맙다.
-다 알아, <Sheet(BNpcName,8619,0)/> 냄새, 나니까."
-53,"TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_011","놈들, 고대인의 건물, 눌러 살려고 해.
-우리가 만든, 제단과 공물도, 엉망이 된다.
-얄밉지만, 꾸준히, 없애 나가는 수밖에."
-54,"TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_012","바닷물, 돌아오면, 쉽게 몰아낼 수 있을 텐데………… 앗.
-아냐, 다른 뜻, 없어."
+48,"TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_000","人類啊，能搭把鰭嗎？<hex:02100103>支援一下，我們的狩獵吧。"
+49,"TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_001","<hex:02280FFF09>BNpcName<hex:F221AB0103>，會假裝成岩石，襲擊我們。<hex:02100103>而且它們，繁殖很快，我想盡快，削減它們的數量，<hex:02100103>但是只靠我們，很難，將它們驅逐。"
+50,"TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_002","我想請你，在潮池周圍，<hex:02100103>打倒<hex:02280FFF09>BNpcName<hex:F221AB0103>。<hex:02100103>打倒3隻，然後，向我報告。"
+51,"TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_005","我想請你，在潮池周圍，<hex:02100103>打倒<hex:02280FFF09>BNpcName<hex:F221AB0103>。<hex:02100103>打倒3隻，然後，向我報告。"
+52,"TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_010","哦，已經打倒了嗎？感謝你。<hex:02100103>我能猜到，因為你散發著，<hex:02280FFF09>BNpcName<hex:F221AB0103>的味道。"
+53,"TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_011","那些傢伙，佔據著古老的建築物，當做自己的住處。<hex:02100103>我們建起來的祭壇，供奉的供品，全被它們破壞了。<hex:02100103>這些可恨的傢伙，必須根除。"
+54,"TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_012","要是潮水，能回來的話，驅除它們，會更輕鬆一些的……啊。<hex:02100103>沒什麼，請你，不要介意。"

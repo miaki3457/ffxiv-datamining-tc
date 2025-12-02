@@ -1,99 +1,43 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_000","쉿, 조용히…….
-이곳은 '성 앙달림 신학원'입니다.
-성직자를 꿈꾸는 신학생들이 학업에 전념하는 장소이지요."
-1,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_001","아무쪼록 조심하시기 바랍니다…….
-이슈가르드 정교의 기만이 밝혀진 지금, 사람들의 분노는
-이곳 '성 앙달림 신학원'에도 향하고 있으니까요……."
-2,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_002","<Highlight>ObjectParameter(1)</Highlight> 님, 잘 오셨습니다.
-괜찮으시면 신학생들에게도 말 한마디씩 걸어주시지요.
-대단히 기뻐할 겁니다."
-3,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_Q1_000_000","무엇을 물어보시겠습니까?"
-4,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_A1_000_001","당신의 이야기를 들려달라고 한다"
-5,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_A1_000_002","여기는 어떤 곳인지 물어본다"
-6,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_A2_000_002","떠난 이들의 근황에 대해서 물어본다"
-7,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_A1_000_003","취소"
-8,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_010","저는 본 학원의 부학장인 브뤼바뇽입니다.
-엘비안 학원장님을 보좌하며 신학생들을 지도하고 있지요.
-말하자면 중간에서 소통을 돕는 존재라고 할 수 있겠습니다."
-9,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_011","학원장님은 현 교황 성하께서 선출되시기 전부터
-성직자 육성에 인생을 바친 위대한 분이십니다.
-하지만 연로하신 탓에 최근에는 건강이 걱정되는군요……."
-10,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_012","이로 인해 제가 원장 업무를 대신하는 시간이 늘어서
-신학생을 관리할 여유가 점차 부족해지고 있습니다.
-성도를 떠난 조카를 불러 일을 돕게 할지 고민이군요."
-11,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_050","저는 본 학원의 부학장인 브뤼바뇽입니다.
-엘비안 학원장님을 보좌하며 신학생들을 지도하고 있지요.
-말하자면 중간에서 소통을 돕는 존재라고 할 수 있겠습니다."
-12,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_051","학원장님은 현 교황 성하께서 선출되시기 전부터
-성직자 육성에 인생을 바친 위대한 분이십니다.
-하지만 연로하신 탓에 최근에는 건강이 걱정되는군요……."
-13,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_052","현재 역사의 진실을 알고 혼란에 빠진 민중에게
-신학원 관계자가 습격당해 많은 희생자가 나왔습니다.
-성도를 떠난 조카를 불러 사태를 수습해야 할 것 같군요……."
-14,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_053","저 브뤼바뇽은 본 학원의 부학장으로서
-엘비안 학원장님을 보좌하며 신학생들을 지도하고 있지요.
-말하자면 양자의 소통을 돕는 존재라고 할 수 있겠습니다."
-15,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_054","학원장님은 현 교황 성하께서 선출되시기 전부터
-성직자 육성에 인생을 바친 위대한 분이십니다.
-하지만 연로하신 탓에 최근에는 건강이 걱정되는군요……."
-16,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_055","현재 신학원이 처한 상황은 너무나도 어렵습니다…….
-이 크나큰 근심을 제 조카 브리아르디앙과 영웅님이
-해결해주실 거라고 기대합니다."
-17,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_056","저, 브뤼바뇽은 본 학원의 부학장으로서
-엘비안 학원장님을 보좌하며 신학생들을 지도하고 있지요.
-말하자면 중간에서 소통을 돕는 역할이라고 할 수 있겠습니다."
-18,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_057","……그러나, 영웅님의 도움으로 신학원이 평온을 되찾은 뒤로는
-학원장님과 함께 대외 활동에 힘을 쏟고 있습니다."
-19,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_058","영웅님 덕분에 신학생들의 자립심과 협동심이 강해져서
-신학원 운영을 신학생들에게 일임할 수 있게 되었거든요."
-20,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_020","민중을 위해 봉사하는 성직자를 길러내기 위해
-이슈가르드 정교가 설립하고 운영하는 신학원입니다."
-21,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_021","이곳 '성 앙달림 신학원'에는 귀족 자제분은 물론
-성직자의 추천을 받은 평민 자제들도 재학 중입니다.
-귀족과 평민이 함께 교육받는 환경은 매우 이례적인 것이지요."
-22,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_022","우리 신학원에서는 이슈가르드 정교의 기초 교리부터
-복잡하고 난해한 교회법까지 다양한 내용을 가르치고 있지요."
-23,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_023","그리고 이것들을 이해하기 위한 문법, 수사학, 논리학은 물론
-산술, 기하학, 천문학, 음악까지도 가르치고 있습니다.
-마법 과목도 있어서, 졸업 후에 치유사가 되는 신학생도 있지요."
-24,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_060","민중을 위해 봉사하는 성직자를 길러내기 위해
-이슈가르드 정교가 설립하고 운영하는 신학원입니다."
-25,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_061","이슈가르드 정교의 기만을 알게 된 시민들의 분노가
-가까운 교회와 본 학원을 향하고 있습니다."
-26,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_062","성직자와 신학생 중에서도 많은 희생자가 나왔습니다.
-서둘러 대책을 세워야 하는데……
-그 방침을 두고 학내에서도 내분이 일어난 상황입니다."
-27,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_063","성직자의 임무는 사람들에게 평화를 선사하고
-올바른 길로 이끄는 것인바…… 현재 학원장님과 함께
-불안에 떠는 사람들을 위한 타개책을 검토하는 중입니다."
-28,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_070","민중을 위해 봉사하는 성직자를 길러내기 위해
-이슈가르드 정교가 설립하고 운영하는 신학원입니다."
-29,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_071","성도의 진실이 밝혀지고 한때는 신학원에도 혼란이 닥쳤지만,
-제 조카와 영웅님의 활약으로 다시 평온을 되찾았습니다."
-30,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_072","참 어려운 시기였지만, 지금 돌이켜보니
-신학원이 다시 태어나기 위해
-필요한 과정이 아니었나 싶습니다."
-31,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_073","최근에는 신학생의 제안을 받아들여
-올바른 역사를 전하는 공개 수업을 여는 등,
-신학원이 앞장서서 정교 개혁에 힘쓰고 있답니다."
-32,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_080","우리 학원의 문제를 해결하는 데 도움을 주셔서 감사합니다.
-일련의 사건을 통해 죄가 밝혀진 이들은 모두 수감되어
-제각기 속죄의 시간을 보내고 있습니다."
-33,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_081","사튀르누아는 고아들의 목숨을 앗아가던 제도에 증오를 품고,
-이에 가담해온 신학원에 복수하려 했던 모양입니다."
-34,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_082","물론 그 동기의 정당성을 떠나서,
-그가 공문서를 위조해 본 학원의 교사로 잠입하고
-르브라주아를 이용해 울라를 납치한 것은 명백한 사실입니다."
-35,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_083","그뿐만 아니라, 유폐된 곳에서 도망치기 위해
-경비원에게 해를 가한 사실도 추가로 밝혀졌습니다."
-36,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_084","물론 그는 희생자이기도 하지요.
-교황청이 조작된 역사를 지키기 위해
-자유를 빼앗기고 뒤틀린 인생을 살아야 했으니……."
-37,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_085","형기가 얼마나 될지는 재판이 끝나야 알겠지만,
-처벌이 가벼워질 여지는 있을 것입니다."
-38,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_086","테오모상은 사튀르누아가 석방되면
-슈와조 사제의 이상을 실현하기 위해 그와 협력하고 싶다고 합니다.
-저 역시 그런 날이 오기를 바라 마지않습니다."
+0,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_000","請你保持安靜……<hex:02100103>這裡是聖恩達利姆神學院。<hex:02100103>以成為聖職者為目標的學生們在這裡勤學苦讀。"
+1,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_001","請你小心……<hex:02100103>伊修加爾德正教的欺瞞行為被曝光後，<hex:02100103>人們的怒火直指這座聖恩達利姆神學院……"
+2,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_002","<hex:022903EB0203>閣下，你來了。<hex:02100103>去跟神學生們打個招呼吧，大家見到你一定很高興。"
+3,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_Q1_000_000","想了解什麼？"
+4,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_A1_000_001","你是做什麼的？"
+5,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_A1_000_002","這裡是什麼地方？"
+6,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_A2_000_002","關於離開者的近況"
+7,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_A1_000_003","取消"
+8,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_010","我是本學院的副院長布呂瓦尼翁。<hex:02100103>在輔佐艾爾維阿娜院長的同時，也對學生們進行指導。<hex:02100103>可以說是兩者之間的協調者。"
+9,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_011","院長在被教皇陛下選中之前，<hex:02100103>就是一位為了聖職者教育而無私奉獻的偉大的人……<hex:02100103>但是，院長年事已高，最近有些擔心她的身體……"
+10,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_012","因此，我代替院長處理的工作有所增加，<hex:02100103>而管理學生這塊就有點忙不過來了。<hex:02100103>我正在想著要不要把離開皇都的侄子叫回來。"
+11,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_050","我是本學院的副院長布呂瓦尼翁。<hex:02100103>在輔佐艾爾維阿娜院長的同時，也對學生們進行指導。<hex:02100103>可以說是兩者之間的協調者。"
+12,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_051","院長在被教皇陛下選中之前，<hex:02100103>就是一位為了聖職者教育而無私奉獻的偉大的人……<hex:02100103>但是，院長年事已高，最近有些擔心她的身體……"
+13,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_052","現在，得知歷史真相的民眾們有些激進，<hex:02100103>接二連三襲擊和神學院有關的人，導致很多人犧牲。<hex:02100103>為了處理當前的事態，必須得把離開皇都的侄子叫回來了……"
+14,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_053","我布呂瓦尼翁作為本學院的副院長，<hex:02100103>在輔佐艾爾維阿娜院長的同時，也對學生們進行指導。<hex:02100103>可以說是兩者之間的協調者。"
+15,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_054","院長在被教皇陛下選中之前，<hex:02100103>就是一位為了聖職者教育而無私奉獻的偉大的人……<hex:02100103>但是，院長年事已高，最近有些擔心她的身體……"
+16,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_055","雖說如此，但神學院目前陷入了困境……<hex:02100103>這也是我最擔憂的事情。<hex:02100103>我期待著我的侄子布里亞迪安和英雄閣下可以早日消除我的擔憂。"
+17,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_056","我布呂瓦尼翁作為本學院的副院長，<hex:02100103>在輔佐艾爾維阿娜院長的同時，也對學生們進行指導。<hex:02100103>可以說是兩者之間的協調者。"
+18,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_057","不過，多虧了英雄閣下，神學院現在已經恢復了和平，<hex:02100103>我最近正全力協助院長面向外界展開活動。"
+19,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_058","被英雄閣下感化了的神學生們都提高了自主性與協調性，<hex:02100103>學院內部的營運已經可以完全交給他們了。"
+20,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_020","這是由伊修加爾德正教建設並營運的神學院，<hex:02100103>目的是培養服務於人民的聖職者。"
+21,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_021","就讀於聖恩達利姆神學院的學生，<hex:02100103>除了貴族子弟之外，也有聖職者推薦的平民之子。<hex:02100103>這種貴族和平民一起學習的環境可以說十分少有。"
+22,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_022","在這裡要學習的內容很多，從基本的伊修加爾德正教的教誨開始，<hex:02100103>到極為複雜的教會法都有涉及。"
+23,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_023","為了理解這些內容，需要習得文法、修辭學、理論學，<hex:02100103>還要學習算數、幾何學、天文學、音樂。<hex:02100103>另外也可以學習魔法，也有學生因此成為了一名醫師。"
+24,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_060","這是由伊修加爾德正教建設並營運的神學院，<hex:02100103>目的是培養服務於人民的聖職者。"
+25,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_061","伊修加爾德正教長年的欺瞞行為被曝光，<hex:02100103>人們的怒火直指身邊的教會和我們學院……"
+26,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_062","很多聖職者和學生因此犧牲，<hex:02100103>雖然需要及早採取對策……<hex:02100103>但圍繞著這個方針，學院內部產生了分裂。"
+27,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_063","原本聖職者是給予、引導人們內心寧靜的人。<hex:02100103>拯救陷於不安的人們是我們的使命……<hex:02100103>目前我正在和院長一起商討解決辦法。"
+28,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_070","這是由伊修加爾德正教建設並營運的神學院，<hex:02100103>目的是培養服務於人民的聖職者。"
+29,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_071","皇都的真相被揭露出來之後，神學院也陷入了混亂的局勢之中，<hex:02100103>但在英雄閣下與我侄子的幫助下，一切又恢復了和平。"
+30,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_072","雖然那是一段艱難的時期，但當我們克服了困難再重新回顧的時候，<hex:02100103>就會發現那其實也是神學院重生所必須經過的一個過程。"
+31,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_073","在神學生們的提議下，<hex:02100103>神學院開辦了針對外界的公開課，旨在向大眾傳播真實的歷史。<hex:02100103>現在的神學院已經走在了正教改革的前沿。"
+32,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_080","感謝你幫忙解決了發生在本學院的一系列問題。<hex:02100103>在事件中被揭發了罪行的人全部都已下獄，<hex:02100103>正在牢裡贖罪。"
+33,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_081","薩圖努瓦憎恨那個不斷剝奪孤兒自由的制度，<hex:02100103>這才試圖報復制度的幫凶——神學院。"
+34,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_082","無論他的動機是對是錯，<hex:02100103>他犯下的偽造公文、以教員的身份潛入本學院、<hex:02100103>利用勒布拉蘇瓦爾、綁架烏拉這一系列罪行都是不容質疑的事實。"
+35,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_083","除此之外，<hex:02100103>在事後的調查中還發現他從前為了從幽禁中脫身，<hex:02100103>曾殺死過負責看守的警衛人員。"
+36,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_084","當然，他本身也是一個受害者。<hex:02100103>畢竟是教皇廳為了保守虛假的歷史將他幽禁起來，<hex:02100103>才使得他的整個人生都扭曲了……"
+37,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_085","至於他具體會被判多久就要看審判結果了，<hex:02100103>不過，有可能會酌情考慮減輕他的刑罰吧。"
+38,"TEXT_REGROC2SAINTREYMANAUDSCHOOL_00279_BRUVAGNON_000_086","特奧莫桑說，等薩圖努瓦被釋放之後，<hex:02100103>他會幫助他一起實現肖瓦索祭司的理想。<hex:02100103>我也不禁期待那一天能早日到來。"

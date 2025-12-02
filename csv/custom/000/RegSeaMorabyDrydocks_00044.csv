@@ -1,40 +1,21 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_1","'승리호' 건조 작업은 차질 없이 진행되고 있다.
-이대로만 가면 진수식까진 무난할 거야.
-다시 못 볼 광경이니 지금 이 모습을 눈에 잘 새겨둬."
-1,"TEXT_REGSEAMORABYDRYDOCKS_00044_Q1_000_1","무엇을 물어보시겠습니까?"
-2,"TEXT_REGSEAMORABYDRYDOCKS_00044_A1_000_1","당신의 이야기를 들려달라고 한다"
-3,"TEXT_REGSEAMORABYDRYDOCKS_00044_A1_000_2","여기는 어떤 곳인지 물어본다"
-4,"TEXT_REGSEAMORABYDRYDOCKS_00044_A1_000_3","취소"
-5,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_10","나는 날디크와 비멜리 사의 수석 조선공이다.
-재해 이후로 처음 만드는 함선인
-'승리호' 건조 작업을 지휘하고 있지."
-6,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_11","이 배를 설계하는 데 내가 가진 지식을
-남김없이 쏟아부었다."
-7,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_12","이제 내게 남은 역할은 흑와단 최강의 군함이자
-림사 로민사의 부활을 상징하는 이 배를
-계획대로 무사히 완성하는 것뿐이야."
-8,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_13","그러려면 한 성깔 하는 조선공들을
-어떻게든 잘 다루어서 이끌어나가야 하지.
-말로 해서 안 되면 힘으로라도 말이야."
-9,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_20","이곳 모라비 조선소에서는
-날디크와 비멜리 사가 수주한
-다양한 선박을 건조하고 수리한다."
-10,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_21","물론 흑와단 군함도 우리가 작업하고 있지…….
-그래서 예전에는 군사 기밀을 유지하는 차원에서
-관계자 이외에는 출입이 금지되어 있었다."
-11,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_22","하지만 제7재해 복구 사업으로 인해 모든 일터에서
-서로 일할 사람을 데려가려는 상황이 되고 말았지."
-12,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_23","여기도 일손이 부족해지는 바람에
-결국 모험가들의 출입을 허락할 수밖에 없게 된 거다."
-13,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_030","음…… 너로군.
-지난번에는 신세 많이 졌다……."
-14,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_100","나 말이야? 글쎄…….
-……아버지가 벌인 사건에 대해
-아직 내 마음속에서 정리가 안 끝났어."
-15,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_101","하지만 나는 수석 조선공이라는 책임이 있다.
-개인적인 일 때문에 방황할 시간은 없다고."
-16,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_102","어떻게든 극복해봐야지.
-네가 살려준 승리호도 꼭 완성하고 싶으니까 말이야."
+0,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_1","「勝利號」的建造正在穩步進行。<hex:02100103>再過不久，應該就可以迎來下水典禮了。<hex:02100103>機會難得，你就把它現在的樣子印在腦海裡吧。"
+1,"TEXT_REGSEAMORABYDRYDOCKS_00044_Q1_000_1","想了解什麼？"
+2,"TEXT_REGSEAMORABYDRYDOCKS_00044_A1_000_1","你是做什麼的？"
+3,"TEXT_REGSEAMORABYDRYDOCKS_00044_A1_000_2","這裡是做什麼的？"
+4,"TEXT_REGSEAMORABYDRYDOCKS_00044_A1_000_3","取消"
+5,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_10","我是納爾迪克&威米利工坊的首席造船師，<hex:02100103>目前負責指揮「勝利號」的建造工作。<hex:02100103>那是靈災後建造的第一艘新船。"
+6,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_11","我將畢生的造船知識投入到了這艘船的設計工作中。<hex:02100103>"
+7,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_12","剩下的任務就是按計劃將這艘象徵著<hex:02100103>利姆薩·羅敏薩復興的黑渦團最強軍艦建造出來。"
+8,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_13","為此，我必須得憑我的實力，<hex:02100103>想辦法管理好這些脾氣古怪的造船師們。"
+9,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_20","這家莫拉比造船廠是負責建造或維修<hex:02100103>納爾迪克&威米利工坊接到訂單的船隻。"
+10,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_21","當然，黑渦團的軍艦也由我們參與建造……<hex:02100103>曾經，為防止軍事機密洩漏，<hex:02100103>這裡是嚴禁非相關人員入內的。"
+11,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_22","不過因為第七靈災的復興工作，<hex:02100103>各地都在爭搶勞動力。"
+12,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_23","我們這裡也陷入人手不足的情況，<hex:02100103>所以才允許冒險者進入的。"
+13,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_030","嗯……是你啊。<hex:02100103>之前那件事給你添麻煩了……"
+14,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_100","我啊……<hex:02100103>因為之前老爹引起的那件事，<hex:02100103>我心裡還是有點亂。"
+15,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_101","不過，我身為首席造船師，有必須要履行的職責。<hex:02100103>不能因為個人的事情停滯不前。"
+16,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_102","我會努力的。<hex:02100103>因為我也想完成那艘你拯救下來的勝利號。"

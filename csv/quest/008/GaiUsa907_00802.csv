@@ -1,9 +1,10 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_GAIUSA907_00802_SEQ_00","쌍사당 병장 툐 모이는 하얀 늑대 관문 사용을 허락해주려는 듯하다."
-1,"TEXT_GAIUSA907_00802_SEQ_01","쌍사당 병장 툐 모이는 모험가의 활약상을 듣고 하얀 늑대 관문 통행 허가를 내주었다. 하얀 늑대 관문에 있는 '프랑슈몽티오'에게 <Sheet(EventItem,2000791,0)/><13>FF15022811FF0A4576656E744974656DF61E87970103FF04EBA5BCFF04EC9D84</13> 건네자."
-2,"TEXT_GAIUSA907_00802_SEQ_02","하얀 늑대 관문을 지나다닐 수 있게 되었다. 앞으로 하얀 늑대 관문을 지나가고 싶으면 프랑슈몽티오에게 말하자."
+0,"TEXT_GAIUSA907_00802_SEQ_00","奇約·莫伊牙兵長可以提供白狼門的通行許可證。"
+1,"TEXT_GAIUSA907_00802_SEQ_01","聽說了冒險者的活躍事蹟，奇約·莫伊願意給冒險者提供白狼門的通行許可。將<hex:022811FF0A>EventItem<hex:F61E87970103>交給白狼門的弗朗舍蒙蒂奧。"
+2,"TEXT_GAIUSA907_00802_SEQ_02","可以通過白狼門了。要通過白狼門時就和弗朗舍蒙蒂奧打聲招呼。"
 3,"TEXT_GAIUSA907_00802_SEQ_03",""
 4,"TEXT_GAIUSA907_00802_SEQ_04",""
 5,"TEXT_GAIUSA907_00802_SEQ_05",""
@@ -25,7 +26,7 @@ int32,str,str
 21,"TEXT_GAIUSA907_00802_SEQ_21",""
 22,"TEXT_GAIUSA907_00802_SEQ_22",""
 23,"TEXT_GAIUSA907_00802_SEQ_23",""
-24,"TEXT_GAIUSA907_00802_TODO_00","프랑슈몽티오와 대화"
+24,"TEXT_GAIUSA907_00802_TODO_00","和弗朗舍蒙蒂奧對話"
 25,"TEXT_GAIUSA907_00802_TODO_01",""
 26,"TEXT_GAIUSA907_00802_TODO_02",""
 27,"TEXT_GAIUSA907_00802_TODO_03",""
@@ -49,17 +50,9 @@ int32,str,str
 45,"TEXT_GAIUSA907_00802_TODO_21",""
 46,"TEXT_GAIUSA907_00802_TODO_22",""
 47,"TEXT_GAIUSA907_00802_TODO_23",""
-48,"TEXT_GAIUSA907_00802_TYOHMOUI_000_000","당신이 모험가 <Highlight>ObjectParameter(1)</Highlight> 맞습니까?
-요즘 당신의 활약상이 심심치 않게 들리더군요."
-49,"TEXT_GAIUSA907_00802_TYOHMOUI_000_001","앞으로도 그리다니아에서 활약해주시라는 의미로
-하얀 늑대 관문 통행 허가를 내드리겠습니다."
-50,"TEXT_GAIUSA907_00802_TYOHMOUI_000_002","이 <Sheet(EventItem,2000791,0)/><13>FF15022811FF0A4576656E744974656DF61E87970103FF04EBA5BCFF04EC9D84</13> 받으세요.
-하얀 늑대 관문에 있는 '프랑슈몽티오'에게 주면
-앞으로 관문을 지나다닐 수 있을 겁니다."
-51,"TEXT_GAIUSA907_00802_FRANCHEMONTIAUX_000_020","하얀 늑대 관문 너머에는 위험한 마물이 많다.
-이 문으로 나가고 싶다면
-<Sheet(EventItem,2000791,0)/><13>FF15022811FF0A4576656E744974656DF61E87970103FF04EBA5BCFF04EC9D84</13> 가지고 와라."
-52,"TEXT_GAIUSA907_00802_FRANCHEMONTIAUX_000_021","이건 <Sheet(EventItem,2000791,0)/>…….
-쌍사당이 통행을 허락한 모양이군. 좋다."
-53,"TEXT_GAIUSA907_00802_FRANCHEMONTIAUX_000_022","모험가 <Highlight>ObjectParameter(1)</Highlight>.
-앞으로 하얀 늑대 관문을 통과하려면 나에게 말하도록."
+48,"TEXT_GAIUSA907_00802_TYOHMOUI_000_000","你就是冒險者<hex:022903EB0203>吧？<hex:02100103>到處都能聽到你的事蹟呢。"
+49,"TEXT_GAIUSA907_00802_TYOHMOUI_000_001","為了今後你能在格里達尼亞建立更多的功績，<hex:02100103>特此准許你可以在白狼門自由通行。"
+50,"TEXT_GAIUSA907_00802_TYOHMOUI_000_002","請你拿上這個<hex:022811FF0A>EventItem<hex:F61E87970103>，<hex:02100103>將其交給白狼門的弗朗舍蒙蒂奧，<hex:02100103>就能獲許通過白狼門了。"
+51,"TEXT_GAIUSA907_00802_FRANCHEMONTIAUX_000_020","白狼門的外面有很多危險的魔物。<hex:02100103>如果你想通過這道門的話，<hex:02100103>就請拿<hex:022811FF0A>EventItem<hex:F61E87970103>來。"
+52,"TEXT_GAIUSA907_00802_FRANCHEMONTIAUX_000_021","這是<hex:022811FF0A>EventItem<hex:F61E87970103>……<hex:02100103>是雙蛇黨下了許可啊，沒問題。"
+53,"TEXT_GAIUSA907_00802_FRANCHEMONTIAUX_000_022","冒險者<hex:022903EB0203>，以後你要通過白狼門的話，和我說一下就行。"

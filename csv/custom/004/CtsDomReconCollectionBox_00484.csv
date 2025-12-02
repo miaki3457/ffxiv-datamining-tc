@@ -1,497 +1,221 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_000","무언가를 넣는 상자인 듯하다……."
-1,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_001","물자를 기부해주셔서 감사합니다!
-이번 사례금을 받아가세요."
-2,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_002","물자를 기부해주셔서 감사합니다!
-덕분에 이번 주 예산 한도까지 거래할 수 있었습니다.
-앞으로도 잘 부탁드리겠습니다!"
-3,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_003","질경이 자치회의 예산은
-현실 시간으로 매주 <ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시에 초기화됩니다.
-초기화된 이후에 다시 기부하십시오."
-4,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_004","죄송합니다.
-다음 예산을 편성하고 있는 중입니다…….
-준비가 다 되면 잘 부탁드립니다!"
-5,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_010","<Highlight>ObjectParameter(1)</Highlight> 님…….
-오늘도 협력해 주셔서 감사합니다."
-6,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_011","덕분에 필요한 곳, 필요한 사람에게 물품이 돌아가
-도읍지 재건이 진행되고 있답니다."
-7,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_012","'만물시장' 건설에도 조금 진전이 있었습니다.
-부디 '미츠바' 씨를 찾아가셔서
-얼마나 발전했는지 확인해 주세요!"
-8,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_013","'만물시장' 건설에도 조금 진전이 있었습니다.
-부디 '미츠바' 씨를 찾아가셔서
-얼마나 발전했는지 확인해 주세요!"
-9,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_018","<Highlight>ObjectParameter(1)</Highlight> 님…….
-다시 방문해 주셔서 감사합니다."
-10,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_019","당신께서 마음을 써주신 덕분에
-부흥이 한층 더 진행되었음을 알려드리고자 합니다!"
-11,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_020","물자를 기부하여
-'만물시장'이 발전하였습니다."
-12,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_021","앞으로도 <Sheet(EObj,2009567,0)/>에 물자를 기부하여
-도마 도읍지를 더욱 부흥시킵시다!"
-13,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_030","<Highlight>ObjectParameter(1)</Highlight> 님…….
-오늘도 협력해 주셔서 감사합니다."
-14,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_031","덕분에 '만물시장'은 더욱 발전했답니다.
-아짐 대초원에 있는 아우라족과 정식으로 교역을 시작하여
-손에 넣기 어려웠던 식재료나 자재가 들어오기 시작했어요!"
-15,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_032","부디 '미츠바' 씨를 방문하셔서
-시장의 모습을 봐주세요!"
-16,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_033","부디 '미츠바' 씨를 방문하셔서
-시장의 모습을 봐주세요!"
-17,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_038","<Highlight>ObjectParameter(1)</Highlight> 님…….
-다시 방문해 주셔서 감사합니다."
-18,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_039","당신께서 마음을 써주신 덕분에
-부흥이 한층 더 진행되었음을 알려드리고자 합니다!"
-19,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_040","물자를 기부하여
-'만물시장'이 발전하였습니다."
-20,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_041","앞으로도 <Sheet(EObj,2009567,0)/>에 물자를 기부하여
-도마 도읍지를 더욱 부흥시킵시다!"
-21,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_050","<Highlight>ObjectParameter(1)</Highlight> 님……
-거듭 협력해 주셔서 진심으로 감사드립니다!"
-22,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_051","드디어 '만물시장'에 대해 계획했던 모든 일들이
-무사히 완료되었습니다.
-요즘 시장은 북새통을 이뤄, 도읍지의 식생활을 지탱하고 있답니다!"
-23,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_052","자, 저와 함께 '미츠바' 씨에게 가시지요!
-꼭 당신을 모셔오라고 신신당부하셨거든요!"
-24,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_053","자, 저와 함께 '미츠바' 씨에게 가시지요!
-꼭 당신을 모셔오라고 신신당부하셨거든요!"
-25,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_060","<Highlight>ObjectParameter(1)</Highlight> 님…….
-계속해서 협력해 주셔서 정말로 감사합니다."
-26,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_061","덕분에 새로운 장소를 정비하기 시작했어요.
-이 자치회 뒤편에…… 제작 공방이 들어설 '장인 거리'가
-생길 예정이랍니다."
-27,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_062","앞으로 도읍지가 발전하려면 '장인 거리'가 반드시 갖춰져야 하죠.
-그래서 만물시장보다 큰 규모로 계획을 세우고 있습니다만……."
-28,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_063","그게…… 동시에 이것저것 진행할 수 없어서……
-우선 나무와 철로 생활용품을 만드는 공방부터
-짓기 시작했답니다."
-29,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_064","그랬더니 '츠라누키' 씨가 엄청 기뻐하셔서…….
-괜찮으시다면 <Highlight>ObjectParameter(1)</Highlight> 님도
-이야기를 들어주시지 않으시겠어요?"
-30,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_065","괜찮으시다면 <Highlight>ObjectParameter(1)</Highlight> 님도
-'장인 거리'에 있는 '츠라누키' 씨의
-이야기를 들어주시지 않으시겠어요?"
-31,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_068","<Highlight>ObjectParameter(1)</Highlight> 님…….
-다시 방문해 주셔서 감사합니다."
-32,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_069","당신께서 마음을 써주신 덕분에
-부흥이 한층 더 진행되었음을 알려드리고자 합니다!"
-33,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_070","물자를 기부하여
-'장인 거리'가 발전하였습니다."
-34,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_071","앞으로도 <Sheet(EObj,2009567,0)/>에 물자를 기부하여
-도마 도읍지를 더욱 부흥시킵시다!"
-35,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_080","<Highlight>ObjectParameter(1)</Highlight> 님…….
-오늘도 협력해 주셔서 감사합니다."
-36,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_081","덕분에 '장인 거리'는 순조롭게 건설되고 있습니다.
-우선 대장간과 목공소를 지었습니다만,
-이번에는 새로운 공방을 짓기 시작했지요."
-37,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_082","도마의 전통 공예 중 하나인 제지 공방이랍니다.
-이전에 소개해드린 '아라라기' 씨가 통솔하고 계세요."
-38,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_083","……괜찮으시다면, 함께 보러 가지 않으시겠어요?
-저도 오늘 진척 상황을 확인하러 가려던 참이었거든요."
-39,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_084","'장인 거리'에 제지 공방을 만들기 시작했답니다!
-공방 건설을 지휘하는 '아라라기' 씨를 만나러
-함께 가지 않으시겠어요?"
-40,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_090","<Highlight>ObjectParameter(1)</Highlight> 님…….
-오늘도 협력해 주셔서 감사합니다."
-41,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_091","계속해서 도와주신 덕분에
-'장인 거리'는 순조롭게 발전하고 있답니다.
-부디 '츠라누키' 씨에게 이야기를 들어 보세요."
-42,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_092","그리고 송구스럽지만……
-여기서 잠시만 기다려 주실 수 있을까요?
-곧 좋은 소식을 들려드릴 수 있을 것 같거든요……!"
-43,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_093","계속해서 도와주신 덕분에
-'장인 거리'는 순조롭게 발전하고 있답니다.
-부디 '츠라누키' 씨에게 이야기를 들어 보세요."
-44,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_098","<Highlight>ObjectParameter(1)</Highlight> 님…….
-다시 방문해 주셔서 감사합니다."
-45,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_099","당신께서 마음을 써주신 덕분에
-부흥이 한층 더 진행되었음을 알려드리고자 합니다!"
-46,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_100","물자를 기부하여
-'장인 거리'가 발전하였습니다."
-47,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_101","앞으로도 <Sheet(EObj,2009567,0)/>에 물자를 기부하여
-도마 도읍지를 더욱 부흥시킵시다!"
-48,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_110","<Highlight>ObjectParameter(1)</Highlight> 님…….
-동포들을 대신해 감사드립니다."
-49,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_111","'장인 거리'의 발전은 물론
-에오르제아에서 귀향한 분들을 위한 집도
-순조롭게 만들어지고 있답니다!"
-50,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_112","아직 모든 게 완벽하다고는 할 수 없는 마을이지만,
-귀향하신 분들이 감개무량한 표정으로 바라보는 모습을 보니
-왠지…… 마음 한 구석이 따뜻해진답니다."
-51,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_113","자, 지난번보다 나아진 곳을 보러 가보시지요!
-뒤편에 '아라라기' 씨가 계실 거예요!"
-52,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_114","자, 지난번보다 나아진 곳을 보러 가보시지요!
-뒤편에 '아라라기' 씨가 계실 거예요!"
-53,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_118","<Highlight>ObjectParameter(1)</Highlight> 님…….
-다시 방문해 주셔서 감사합니다."
-54,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_119","당신께서 마음을 써주신 덕분에
-부흥이 한층 더 진행되었음을 알려드리고자 합니다!"
-55,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_120","물자를 기부하여
-'장인 거리'가 더욱 발전하였습니다."
-56,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_121","앞으로도 <Sheet(EObj,2009567,0)/>에 물자를 기부하여
-도마 도읍지를 더욱 부흥시킵시다!"
-57,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_128","<Highlight>ObjectParameter(1)</Highlight> 님…….
-다시 방문해 주셔서 감사합니다."
-58,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_129","당신께서 마음을 써주신 덕분에
-부흥이 한층 더 진행되었음을 알려드리고자 합니다!"
-59,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_130","물자를 기부하여
-'장인 거리'가 발전하였습니다."
-60,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_131","앞으로도 <Sheet(EObj,2009567,0)/>에 물자를 기부하여
-도마 도읍지를 더욱 부흥시킵시다!"
-61,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_140","<Highlight>ObjectParameter(1)</Highlight> 님!
-오늘도 정말로 감사드립니다!"
-62,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_141","드디어, 드디어 대장간이 완성되었답니다!
-이제 철과 목재를 다루는 공방은
-모두 돌아가기 시작한 것이지요."
-63,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_142","지금 '츠라누키' 씨를 중심으로 장인 여러분들께서
-엄청난 기세로 생활용품을 만들거나 고치고 계세요…….
-일하는 모습을 보러 가보시면 어떨까요?"
-64,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_143","'장인 거리'에서 '츠라누키' 씨와 장인 여러분이 일하는 모습을
-보러 가보시면 어떨까요?"
-65,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_150","<Highlight>ObjectParameter(1)</Highlight> 님……!
-지금까지 힘써주셔서 정말로 감사합니다."
-66,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_151","일전에 츠라누키 씨의 공방이 완성된 데 이어
-제지 공방과 상점이 완성되었습니다."
-67,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_152","이것으로 질경이 자치회의 '장인 거리' 발전 계획이
-드디어 완수되었습니다!"
-68,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_153","제대로 감사 인사를 드려야 하겠지만
-먼저 완성된 거리를 보여드리고 싶습니다…….
-부디 '아라라기' 씨를 찾아가 주시기 바랍니다!"
-69,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_154","완성된 '장인 거리'를 보여드리고 싶습니다.
-부디 '아라라기' 씨를 찾아가 주시기 바랍니다!"
-70,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_160","이, 이, 이것은……!"
-71,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_TSURANUKI_000_161","어떠냐, 마음에 드냐?
-만물시장과 장인 거리가 완성된 기념으로
-질경이 자치회도 조금 손을 봤지!"
-72,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_162","마음은 정말 감사합니다만
-저, 저희들 때문에 귀중한 자재를 낭비할 수는……!"
-73,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_ARARAGI_000_163","무슨 소리냐. 넌 그렇게 귀중한 자재를
-계속 허름한 곳에 처박아둘 셈이냐?"
-74,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_ARARAGI_000_164","게다가 이곳은 도읍지의 얼굴이라고도 할 수 있는 곳이다.
-궁상맞은 꼴로는 잡을 수 있는 손님도 못 잡을 테고,
-<Highlight>ObjectParameter(1)</Highlight> 님도 납품하기 불안하지 않겠느냐."
-75,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_165","그…… 그래서는 안 되지요……."
-76,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_MITSUBA_000_166","그리고 코자쿠라, 잠깐 이리 와 봐.
-너랑 질경이 자치회에 줄 게 있어."
-77,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_MITSUBA_000_167","자, 오래 기다렸지!
-새로워진 질경이 자치회를 보여줄게!"
-78,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_168","너…… 너무 화려하지…… 않나요……?"
-79,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_MITSUBA_000_169","무슨 소리야, 눈에 팍팍 띄어줘야지!"
-80,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_MITSUBA_000_170","질경이 자치회를 통해 거래하는 상인들도 많은데,
-너희 차림새가 너무 수수한 바람에
-익숙하지 않은 녀석들은 찾기 어려운 모양이더라고……."
-81,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_MITSUBA_000_171","앞으로 도읍지를 더더욱 발전시킬 생각이라면
-누구보다도 눈에 띌 각오를 해!"
-82,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_172","아, 알겠습니다……!
-도읍지를, 도마를 위해서라면
-초롱불처럼 눈에 띄어 보겠어요!"
-83,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_173","우리가 히엔 님과 나눈 약속…….
-여기에 다시 도마라는 나라를 만들겠다는 꿈……!
-그 약속을 위해서 이 한 몸 아끼지 않겠습니다!"
-84,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_174","<Highlight>ObjectParameter(1)</Highlight> 님…….
-저희는 아직 많이 미숙하지만
-베풀어주신 온정을 양식으로 삼아 한층 정진하겠습니다."
-85,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_175","도읍지 부흥 계획은 아직 끝나지 않았습니다…….
-다음 계획안도 곧 결의되겠죠."
-86,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_176","그때는 부디 당신의 힘과 지혜를 빌려주시기 바랍니다……!
-모쪼록 도마 도읍지를 잘 부탁드립니다!"
-87,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_177","도마 도읍지 부흥이 일단락되었습니다!
-아이템 기부는 계속할 수 있지만,
-다음 계획이 정해질 때까지 도읍지는 더 발전하지 않습니다."
-88,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_178","지금은 부흥 계획을 세우는 중입니다.
-다음 계획이 세워지면 다시 부탁드립니다……!"
-89,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_180","<Highlight>ObjectParameter(1)</Highlight> 님……
-여기까지 와주셔서 감사합니다.
-그런데 바쁘진 않으신가요?"
-90,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_181","당신을 기다리고 있는 분들이 계실지도 모릅니다.
-그분들을 만나러 가주세요.
-그동안 저희들 나름대로 마을을 꾸려나가고 있겠습니다!"
-91,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_182","앞으로 도마 도읍지를 부흥시키려면
-주요 퀘스트 ''새벽'의 소년'을
-완료해야 합니다."
-92,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_183","<Highlight>ObjectParameter(1)</Highlight> 님……
-와주셔서 감사합니다.
-괜찮으시다면 제 얘기를 좀 들어주시겠어요?"
-93,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_185","'이하세' 씨가 기다리고 계신다고 하니
-꼭 한 번 '농경지'를 시찰해주세요!"
-94,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_190","<Highlight>ObjectParameter(1)</Highlight>……
-오늘도 협력해주셔서 감사합니다."
-95,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_191","덕분에 농기구와 인력을 마련할 수 있어서
-농경지 개간에 진척이 있었어요."
-96,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_192","시장이나 장인 거리와는 필요한 물자가 달라서
-구하는 데 고생은 좀 했지만……
-그만큼 보람이 있었어요!"
-97,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_193","<Highlight>ObjectParameter(1)</Highlight> 님도 꼭
-'이하세' 씨를 찾아가셔서
-'농경지'를 보셨으면 좋겠어요!"
-98,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_194","<Highlight>ObjectParameter(1)</Highlight> 님도 꼭
-'이하세' 씨를 찾아가셔서
-'농경지'를 보셨으면 좋겠어요!"
-99,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_200","<Highlight>ObjectParameter(1)</Highlight> 님…….
-다시 방문해 주셔서 감사합니다."
-100,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_201","당신께서 마음을 써주신 덕분에
-부흥이 한층 더 진행되었음을 알려드리고자 합니다!"
-101,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_202","물자를 기부하여
-'농경지'가 발전하였습니다."
-102,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_203","앞으로도 <Sheet(EObj,2009567,0)/>에 물자를 기부하여
-도마 도읍지를 더욱 부흥시킵시다!"
-103,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_208","<Highlight>ObjectParameter(1)</Highlight> 님…….
-다시 방문해 주셔서 감사합니다."
-104,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_209","당신께서 마음을 써주신 덕분에
-부흥이 한층 더 진행되었음을 알려드리고자 합니다!"
-105,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_210","물자를 기부하여
-'농경지'가 발전하였습니다."
-106,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_211","앞으로도 <Sheet(EObj,2009567,0)/>에 물자를 기부하여
-도마 도읍지를 더욱 부흥시킵시다!"
-107,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_215","<Highlight>ObjectParameter(1)</Highlight> 님……
-거듭 협력해 주셔서 진심으로 감사드립니다!"
-108,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_216","필요한 시설과 물자가 모두 마련되었다고
-이하세 씨가 질경이 자치회로 연락을 주셨어요."
-109,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_217","벼도 잘 자라고 있답니다!
-<Highlight>ObjectParameter(1)</Highlight> 님께도 보여드리고 싶다고 하셨어요."
-110,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_218","'이하세' 씨가 '농경지'에서 기다리고 계신다고 하니
-꼭 찾아가셔서 논을 한 번 보셨으면 해요!"
-111,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_219","'이하세' 씨가 '농경지'에서 기다리고 계신다고 하니
-꼭 찾아가셔서 논을 한 번 보셨으면 해요!"
-112,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_225","<Highlight>ObjectParameter(1)</Highlight> 님…….
-오늘도 협력해 주셔서 감사합니다."
-113,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_226","덕분에 학당 건설이 진행 중이에요.
-설비는 아직 충분하다고는 할 수 없으나……
-이미 수업은 시작했다고 하네요!"
-114,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_227","아이들도 굉장히 기뻐하고 있다고 하니,
-'율재학당'에 있는 '미나즈키' 씨를 찾아가셔서
-꼭 한 번 직접 보셨으면 해요!"
-115,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_228","아이들도 굉장히 기뻐하고 있다고 하니,
-'율재학당'에 있는 '미나즈키' 씨를 찾아가셔서
-꼭 한 번 직접 보셨으면 해요!"
-116,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_235","<Highlight>ObjectParameter(1)</Highlight> 님…….
-오늘도 협력해 주셔서 감사합니다."
-117,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_236","지원해주신 덕분에
-율재학당의 설비도 서서히 구색을 갖춰가고 있답니다!"
-118,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_237","백문이 불여일견이죠!
-꼭 한 번 '율재학당'을 직접 보셨으면 해요.
-'미나즈키' 씨가 기다리고 계신답니다!"
-119,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_238","꼭 한 번 '율재학당'을 직접 보셨으면 해요.
-'미나즈키' 씨가 기다리고 계신답니다!"
-120,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_245","<Highlight>ObjectParameter(1)</Highlight> 님…….
-다시 방문해 주셔서 감사합니다."
-121,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_246","당신께서 마음을 써주신 덕분에
-부흥이 한층 더 진행되었음을 알려드리고자 합니다!"
-122,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_247","물자를 기부하여
-'율재학당'이 발전하였습니다."
-123,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_248","앞으로도 <Sheet(EObj,2009567,0)/>에 물자를 기부하여
-도마 도읍지를 더욱 부흥시킵시다!"
-124,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_255","<Highlight>ObjectParameter(1)</Highlight> 님……
-거듭 협력해 주셔서 진심으로 감사드립니다!"
-125,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_256","덕분에 율재학당에 충분한 자재를 보낼 수 있었답니다.
-미나즈키 씨가 시설이 다 완성되었다고 연락을 주셨어요.
-지금 저와 함께 시설을 보러 가지 않으시겠어요?"
-126,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_HOZAN_100_256","오오, 두 사람 모두 율재학당에 가려던 참인가?
-그럼 내가 굳이 올 필요가 없었겠군."
-127,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_257","어머나, 호우잔 씨!
-그 옷은……."
-128,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_HOZAN_100_257","그래, 이제 생활이 어느 정도 안정돼서 옷을 갈아입었어.
-역시 도마의 옷이 익숙해서 그런지 편한 것 같아.
-아버지도 히기리도 다들 이 옷을 다시 입게 돼서 기뻐하고 있어."
-129,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_HOZAN_110_257","아직 아이들은
-에오르제아 옷을 입고 있지만 말이야.
-자기네들이 그게 좋다는데 말릴 이유가 없지."
-130,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_HOZAN_120_257","아, 그래. 사실은 아이들이
-자네들을 데려와 달라고 부탁하더라고.
-뭐 보여주고 싶은 게 있다나 봐."
-131,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_258","어머, 그렇군요. 그럼 <Highlight>ObjectParameter(1)</Highlight> 님,
-'율재학당'의 '미나즈키' 씨한테 가도록 해요.
-아이들을 오래 기다리게 하면 안 되니까요!"
-132,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_259","자, 그럼 함께 '율재학당'에 가도록 해요!
-아이들과 '미나즈키' 씨가
-기다리고 있다고 하니까요!"
-133,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_265","<Highlight>ObjectParameter(1)</Highlight> 님…….
-오늘도 협력해 주셔서 감사합니다."
-134,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_266","현재 자경대는 본부 건설에 착수했답니다.
-질경이 자치회에서도
-우선적으로 물자를 배당하고 있어요!"
-135,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_267","자경대는 '마우토우' 오라버……
-아, 아니 '마우토우' 씨가 총괄하고 있어요."
-136,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_268","'자경본부'에 계신다고 하니
-가셔서 이야기를 들어주세요!"
-137,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_269","'자경본부'에 계시는 '마우토우' 씨한테서
-이야기를 들어주세요!"
-138,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_275","<Highlight>ObjectParameter(1)</Highlight> 님…….
-다시 방문해 주셔서 감사합니다."
-139,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_276","당신께서 마음을 써주신 덕분에
-부흥이 한층 더 진행되었음을 알려드리고자 합니다!"
-140,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_277","물자를 기부하여
-'자경본부'가 발전하였습니다."
-141,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_278","앞으로도 <Sheet(EObj,2009567,0)/>에 물자를 기부하여
-도마 도읍지를 더욱 부흥시킵시다!"
-142,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_285","<Highlight>ObjectParameter(1)</Highlight> 님……
-거듭 협력해 주셔서 진심으로 감사드립니다!"
-143,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_286","조금 전에 마우토우 오라버니가
-본부가 완성되었다는 연락을 주셨어요!"
-144,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_287","앗…………!
-제가 혹시
-마우토우 씨를 오라버니라고 하던가요……!?"
-145,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_288","이, 이걸 어쩌죠,
-부끄러운 모습을 보여드리고 말았네요……."
-146,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_289","마우토우 씨하고는 고향이 같아서
-어릴 때부터 친오빠처럼 믿고 따랐답니다.
-그래서 그런지 저도 모르게 자꾸 옛날 습관대로……."
-147,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_290","아, 아무튼 어찌 됐든
-'마우토우' 오라버니가 기다리고 계세요.
-<Highlight>ObjectParameter(1)</Highlight> 님을 만나고 싶으시대요!"
-148,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_291","저도 오라버니한테 전할 말이 있으니
-저와 함께 '자경본부'로 가도록 해요!"
-149,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_292","'마우토우' 오라버니가 기다리고 계세요.
-저와 함께 '자경본부'로 가도록 해요!"
-150,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_295","오늘도 협력해 주셔서 감사합니다."
-151,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_296","덕분에
-무사히 제국군의 '망루'를 철거했다고 합니다!"
-152,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_297","목수분들은 늘 열심히 일해주고 계시는데요,
-이 건에 관해서는 특히 더 의미를 두고 계신지……
-평소보다 훨씬 더 열심히 작업을 하셨답니다!"
-153,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_298","'망루'에는 목수 '이시부시' 님이 계세요.
-작업의 진척 상황을 꼭 한 번 보러 가주세요!"
-154,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_299","'망루'에는 목수 '이시부시' 님이 계세요.
-작업의 진척 상황을 꼭 한 번 보러 가주세요!"
-155,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_305","<Highlight>ObjectParameter(1)</Highlight> 님…….
-다시 방문해 주셔서 감사합니다."
-156,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_306","당신께서 마음을 써주신 덕분에
-부흥이 한층 더 진행되었음을 알려드리고자 합니다!"
-157,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_307","물자를 기부하여
-'망루'가 개조되었습니다."
-158,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_308","앞으로도 '<Sheet(EObj,2009567,0)/>'에 물자를 기부하여
-더욱 발전시킵시다!"
-159,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_315","<Highlight>ObjectParameter(1)</Highlight> 님……
-거듭 협력해 주셔서 진심으로 감사드립니다!"
-160,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_316","망루 말인데요,
-건설 작업이 드디어 끝났다고 합니다."
-161,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_317","새로운 망루가 하늘을 향해 뻗어 있는 모습을 보면
-마음속까지 시원해지는 기분이 든답니다!"
-162,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_318","발판도 철거되었다고 하니,
-한 번 가까이서 '망루'를 보러 가보세요!
-'이시부시' 님한테서도 자세한 얘기를 들으실 수 있을 거예요!"
-163,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_319","'망루'가 완성되었다고 하니,
-한 번 가까이서 보러 가보세요!
-'이시부시' 님한테서도 자세한 얘길 들으실 수 있을 거예요!"
-164,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_322","날마다 협력해주셔서 감사합니다.
-<Highlight>ObjectParameter(1)</Highlight> 님 덕분에
-목수님들께 부탁받은 자재를 구할 수 있었어요."
-165,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_ISHIBUSHI_000_323","갑자기 미안한데……
-두 사람 다…… 바깥으로 나와주지…… 않겠나……."
-166,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_324","…………?
-네, 마침 접수처에 사람도 적을 때라
-괜찮긴 한데요……."
-167,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_325","세, 세상에나 너무나 멋져요!
-나중으로 미뤄뒀다던 시설이
-질경이 자치회였군요!"
-168,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_ISHIBUSHI_000_326","이곳도…… 마을의 상징이지………….
-계속 말끔한 모습으로…… 있어야 하지…… 않겠나……."
-169,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_327","그, 그렇게 말씀해주시니 몸 둘 바를 모르겠습니다!
-한 번으로도 족한데 두 번이나 개조해주시다니……
-이렇게나 사치를 부리면 벌, 벌을 받진 않을까요……!"
-170,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_ISHIBUSHI_000_328","자치회를 정비하는 것도……
-중요한 일이라네…………."
-171,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_HACHISUBA_000_329","맞아, 벌을 받긴 왜 받아!
-이런 건 사치가 아니라고!"
-172,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_HACHISUBA_000_330","아니 왜, 교역품이랑 지원 물자가 늘어나서
-일시적으로 둘 곳이 부족했잖아?"
-173,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_HACHISUBA_000_331","우리 목수들은 늘 고생하면서
-자재를 계속 구해다준 노력가 코자쿠라한테
-조금이나마 보답하고 싶었어."
-174,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_332","노력가라니요, 그런……!
-전 그저 저한테 주어진 일을
-그저 열심히 했을 뿐인걸요."
-175,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_333","하지만, 하지만 정말 너무 기뻐요……!!
-정말로 감사드립니다……!"
-176,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_ISHIBUSHI_000_334","…………흠.
-기쁘면……그냥 기쁘다고 해도 된다네………….
-우리도……그게 더 기쁘니까…………."
-177,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_HACHISUBA_000_335","그래, 맞아!
-그래야 우리도 보람을 느끼지!"
-178,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_336","그렇다면 이제 목수님들은
-더 이상 미련이 남는 일은 없으신 건가요?"
-179,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_ISHIBUSHI_000_337","…………충분하다."
-180,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_338","그렇다면 질경이 자치회에서도
-부흥 계획은 이제 완수한 걸로…………"
-181,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_TAUYAKU_000_339","(-???-)찬물을 끼얹어서 미안.
-지금 좀 괜찮아?"
-182,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_340","타우야쿠 씨 아니세요!?
-물론 괜찮습니다.
-무슨 일이시죠?"
-183,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_TAUYAKU_000_341","질경이 자치회에 부탁하고 싶은 게 있어서.
-내 개인적인 부탁이라 미안하긴 하지만……"
-184,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_TAUYAKU_000_342","그 뭐랄까…………
-정원을 만들 수 있도록 지원을 해줬으면 해."
-185,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_343","정원 말씀이세요?"
-186,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_TAUYAKU_000_344","응, 만물시장 뒤쪽에 연못이 있잖아?
-지금은 간이로 동방 궤짝 의자가 놓여 있는데……."
-187,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_TAUYAKU_000_345","거기에 꽃나무를 심거나 난간에 옻칠도 하고,
-이것저것 손 좀 보고 싶어서 말이야."
-188,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_TAUYAKU_000_346","생활하는 데 반드시 필요하지 않다는 건 나도 알고 있어.
-하지만 그곳을 마을 사람들을 위한 휴식 공간으로 만들고 싶어.
-그러니 힘을 좀 빌려주지 않겠어?"
-189,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_347","사람들을 위한 휴식 공간이라면,
-생활하는 데 반드시 필요한 곳 아니겠어요?
-질경이 자치회는 찬성하는 바입니다."
-190,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_348","물자를 기부해주시는
-<Highlight>ObjectParameter(1)</Highlight> 님만 괜찮으시다면……."
-191,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_TAUYAKU_000_349","고마워, 은혜는 잊지 않을게. "
-192,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_ISHIBUSHI_000_350","그럼 바로…… 시작해볼까…………."
-193,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_HACHISUBA_000_351","앗, 잠깐만요, 사부님!
-이 정원은 저한테 맡겨주시지 않겠어요?"
-194,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_HACHISUBA_000_353","사부님은 아무래도 목수들을 통솔하시는 역할이니
-건물 보수 같은 일도 많이 하셔야 해서 바쁘시잖아요?"
-195,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_HACHISUBA_000_354","사부님과 달리, 지금 전 좀 여유가 있어요.
-그리고 사부님한테 목수 일을 배우기 전엔 토목 일을 했었고요.
-정원 일을 돕는 건 저한테 딱 맞을 것 같거든요!"
-196,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_ISHIBUSHI_000_355","…………그렇군.
-그렇다면 맡기도록 하지………………."
-197,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_TAUYAKU_000_356","믿음직스러운걸, 그럼 잘 부탁해."
-198,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_360","<Highlight>ObjectParameter(1)</Highlight> 님…….
-다시 방문해 주셔서 감사합니다."
-199,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_361","당신께서 마음을 써주신 덕분에
-부흥이 한층 더 진행되었음을 알려드리고자 합니다!"
-200,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_362","물자를 기부하여
-'무이정원' 조성이 본격적으로 시작되었습니다."
-201,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_363","앞으로도 <Sheet(EObj,2009567,0)/>에 물자를 기부하여
-도마 도읍지를 더욱 부흥시킵시다!"
-202,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_370","<Highlight>ObjectParameter(1)</Highlight> 님……
-거듭 협력해 주셔서 진심으로 감사드립니다!"
-203,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_371","기부해주신 물자들은
-정원을 조성할 때뿐 아니라,
-주민분들의 일상에서도 유용하게 쓰이고 있답니다!"
-204,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_372","마을의 부흥은 새로 짓기만 한다고 해서
-끝나는 게 아니라서요.
-건물의 보수, 부서진 금속품 수리 등……."
-205,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_HACHISUBA_000_373","<Highlight>ObjectParameter(1)</Highlight> 씨, 왔구나!
-두 사람 모두 '무이정원'에 가보겠어?"
-206,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_HACHISUBA_000_374","'타우야쿠' 씨가 정원을 다 만들었으니
-두 사람을 불러와 달래."
-207,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_375","벌써 완성하셨군요!
-그렇다면 가봐야지요."
-208,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_376","<Highlight>ObjectParameter(1)</Highlight> 님, 함께 가시죠!
-어떻게 되었을지 기대가 되네요!"
-209,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_HACHISUBA_100_376","완성된 정원을 본다면 얼굴에 환한 웃음이 퍼질걸!?
-일단 난 사부님한테 보고하고 그쪽으로 갈게.
-그럼 먼저 실례할게!"
-210,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_377","<Highlight>ObjectParameter(1)</Highlight> 님,
-같이 '무이정원'으로 가시죠!
-'타우야쿠' 씨께서 기다리고 계시대요!"
-211,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_380","위령 의식…….
-누구…… 좀 자세히 아시는 분이………….
-흐음…………."
-212,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_381","아무래도 코자쿠라는
-무언가를 골똘히 생각하느라 이쪽을 못 본 모양이다…….
-일단 그녀에게 말을 걸어보자."
-213,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_385","저도 접수처 일이 마무리되는 대로
-다른 분들께 말씀을 드리러 갈 생각이에요.
-<Highlight>ObjectParameter(1)</Highlight> 님도 어서 천등 날리기 준비를 부탁드려요!"
-214,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_390","<Highlight>ObjectParameter(1)</Highlight> 님……!
-계속해서 물자 기부를 해주시는 그 배려,
-진심으로 감사드려요."
-215,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_391","그렇지만
-일단 좀 전의 천등 날리기에 대해서
-감사 인사를 드릴게요!"
-216,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_ISHIBUSHI_000_352","（★未使用／削除予定★）"
+0,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_000","好像是用來放置物品的地方……"
+1,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_001","感謝你提供物資！<hex:02100103>這是這回的謝禮，請你拿好。"
+2,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_002","感謝你提供物資！<hex:02100103>多虧了你的幫助，這周的預算已經全部用光了。<hex:02100103>請你過些日子再來吧！"
+3,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_003","車前會的預算金額會在每週<hex:020603120303><hex:02093ADDFF07>週日<hex:FF07>週一<hex:FF07>週二<hex:FF07>週三<hex:FF07>週四<hex:FF07>週五<hex:FF07>週六<hex:03>的<hex:020821DBFF1D><hex:020919DB02030405060708090A0B0C0D0E0F10111213141516171803><hex:0103>點（地球時間）被重置。<hex:02100103>請在重置後再次進行出讓。"
+4,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_004","非常抱歉。<hex:02100103>現在正在準備下一週的預算金額……<hex:02100103>請你過些日子再來吧！"
+5,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_010","<hex:022903EB0203>……<hex:02100103>今天也非常感謝你的協助。"
+6,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_011","多虧了你的幫助，物資到達了預定的地方，送到了需要的人們手中，<hex:02100103>多瑪飛地的重建正在順利進行中。"
+7,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_012","百貨市場的建設工作也有了一定的進展，<hex:02100103>請你去拜訪三葉，<hex:02100103>確認一下發展進度！"
+8,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_013","百貨市場的建設工作也有了一定的進展，<hex:02100103>請你去拜訪三葉，<hex:02100103>確認一下發展進度！"
+9,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_018","<hex:022903EB0203>……<hex:02100103>感謝你再次來訪。"
+10,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_019","多虧了你的心意，<hex:02100103>重建工作有了新的進展，在此向你報告一下！"
+11,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_020","提供的物資使百貨市場得到了進一步的發展。"
+12,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_021","今後也請將物資放進<hex:02280CFF05>EObj<hex:F61EA9DF0103>，<hex:02100103>為了進一步的發展而努力吧！"
+13,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_030","<hex:022903EB0203>……<hex:02100103>今天也非常感謝你的協助。"
+14,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_031","多虧了你的幫助，百貨市場得到了更進一步的發展，<hex:02100103>開始與太陽神草原的敖龍族進行正式的貿易了，<hex:02100103>原本不易得到的食材和資材現在都能買到了！"
+15,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_032","請你去拜訪三葉，<hex:02100103>看看市場現在的樣子吧！"
+16,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_033","請你去拜訪三葉，<hex:02100103>看看市場現在的樣子吧！"
+17,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_038","<hex:022903EB0203>……<hex:02100103>感謝你再次來訪。"
+18,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_039","多虧了你的心意，<hex:02100103>重建工作有了更多的進展，在此向你報告一下！"
+19,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_040","提供的物資使百貨市場得到了進一步的發展。"
+20,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_041","今後也請將物資放進<hex:02280CFF05>EObj<hex:F61EA9DF0103>，<hex:02100103>為了進一步的發展而努力吧！"
+21,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_050","<hex:022903EB0203>……十分感謝你的多次協助！"
+22,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_051","此次關於百貨市場的全部建設計劃都已經順利完成了。<hex:02100103>現在的市場熱鬧至極，並且支撐著整個多瑪飛地的飲食！"
+23,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_052","來吧，趕快跟我一起去三葉那裡！<hex:02100103>她囑咐過我一定要帶你過去的！"
+24,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_053","來吧，趕快跟我一起去三葉那裡！<hex:02100103>她囑咐過我一定要帶你過去的！"
+25,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_060","<hex:022903EB0203>……<hex:02100103>十分感謝你能夠繼續協助我們。"
+26,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_061","多虧你的幫助，我們才能開始著手建設新的場所。<hex:02100103>就在這個會所的後面……<hex:02100103>預定建設一條工坊林立的匠人街，讓其中的工坊負責製作物品。"
+27,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_062","建設匠人街對多瑪飛地今後的發展是必不可缺的。<hex:02100103>因此設計的建設計劃也會比百貨市場的規模要大很多……"
+28,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_063","那個……畢竟不能同時開工建設……<hex:02100103>所以首先我們要用木材和鋼鐵從日用品工坊開始建設。"
+29,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_064","貫師傅聽到這訊息以後非常高興……<hex:02100103>如果<hex:022903EB0203>你有空的話，<hex:02100103>能不能去找貫師傅聊聊？"
+30,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_065","如果<hex:022903EB0203>你有空的話，<hex:02100103>能不能去找貫師傅聊聊？"
+31,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_068","<hex:022903EB0203>……<hex:02100103>感謝你再次來訪。"
+32,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_069","多虧了你的心意，<hex:02100103>重建工作有了更多的進展，在此向你報告一下！"
+33,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_070","提供的物資使匠人街得到了進一步的發展。"
+34,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_071","今後也請將物資放進<hex:02280CFF05>EObj<hex:F61EA9DF0103>，<hex:02100103>為了進一步的發展而努力吧！"
+35,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_080","<hex:022903EB0203>……<hex:02100103>今天也非常感謝你的協助。"
+36,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_081","多虧了你的幫助，匠人街的建設工作十分順利。<hex:02100103>我們之前先為鍛造師和木工師建設了工坊，<hex:02100103>而這次我們準備開始建設新的工坊。"
+37,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_082","新建設的工坊主要負責撈紙，那是一種多瑪的傳統工藝。<hex:02100103>工坊的負責人是之前介紹過的蘭師傅。"
+38,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_083","……如果可以的話，要不要跟我一起去看看情況？<hex:02100103>我正好也想確認一下今天的進展！"
+39,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_084","我們開始在匠人街建設撈紙工坊了！<hex:02100103>你要不要跟我一起去看看工坊負責人蘭師傅那裡的情況啊？"
+40,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_090","<hex:022903EB0203>……<hex:02100103>今天也非常感謝你的協助。"
+41,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_091","多虧了你繼續協助我們，<hex:02100103>匠人街正在穩步發展著。<hex:02100103>請你去跟貫師傅聊聊吧。"
+42,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_092","還有不好意思……<hex:02100103>麻煩你能在貫師傅那裡稍等片刻嗎？<hex:02100103>馬上就會有好消息傳達給你！"
+43,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_093","多虧了你繼續協助我們，<hex:02100103>匠人街正在穩步發展著。<hex:02100103>請你去跟貫師傅聊聊吧。"
+44,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_098","<hex:022903EB0203>……<hex:02100103>感謝你再次來訪。"
+45,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_099","多虧了你的心意，<hex:02100103>重建工作有了更多的進展，在此向你報告一下！"
+46,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_100","提供的物資使匠人街得到了進一步的發展。"
+47,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_101","今後也請將物資放進<hex:02280CFF05>EObj<hex:F61EA9DF0103>，<hex:02100103>為了進一步的發展而努力吧！"
+48,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_110","<hex:022903EB0203>……<hex:02100103>請允許我替同胞們向你表示感謝。"
+49,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_111","匠人街的發展很順利，<hex:02100103>而且為從艾奧傑亞歸來的同胞們準備的房屋也在逐步建設中！"
+50,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_112","雖然這裡還談不上是一個完美的城市，<hex:02100103>但是看著歸來的人們感慨地欣賞著的樣子，<hex:02100103>我感到……心裡感到很溫暖。"
+51,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_113","來吧，你也來看看發展後的樣子吧！<hex:02100103>蘭師傅應該就在會所後面，<hex:02100103>你就去跟他聊聊吧！"
+52,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_114","來吧，你也來看看發展後的樣子吧！<hex:02100103>蘭師傅應該就在會所後面，<hex:02100103>你就去跟他聊聊吧！"
+53,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_118","<hex:022903EB0203>……<hex:02100103>感謝你再次來訪。"
+54,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_119","多虧了你的心意，<hex:02100103>重建工作有了更多的進展，在此向你報告一下！"
+55,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_120","提供的物資使匠人街得到了進一步的發展。"
+56,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_121","今後也請將物資放進<hex:02280CFF05>EObj<hex:F61EA9DF0103>，<hex:02100103>為了進一步的發展而努力吧！"
+57,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_128","<hex:022903EB0203>……<hex:02100103>感謝你再次來訪。"
+58,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_129","多虧了你的心意，<hex:02100103>重建工作有了更多的進展，在此向你報告一下！"
+59,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_130","提供的物資使匠人街得到了進一步的發展。"
+60,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_131","今後也請將物資放進<hex:02280CFF05>EObj<hex:F61EA9DF0103>，<hex:02100103>為了進一步的發展而努力吧！"
+61,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_140","<hex:022903EB0203>！<hex:02100103>今天也十分感謝你的協助！"
+62,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_141","鍛造場終於建設完成了！<hex:02100103>這樣一來，負責加工鋼鐵和木材的工坊就都能開工了。"
+63,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_142","現在以貫師傅為中心的工匠們，<hex:02100103>正在氣勢洶洶地拼命生產和修繕日用品……<hex:02100103>你要不要去看看他們的工作情況？"
+64,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_143","你要不要去看看貫師傅他們在匠人街的工作情況？"
+65,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_150","<hex:022903EB0203>！<hex:02100103>十分感謝你一直以來的協助。"
+66,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_151","繼前幾天完成了貫師傅他們工坊的建設以後，<hex:02100103>現在我們又建成了撈紙工坊和商店。"
+67,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_152","這樣一來車前會設計的匠人街發展計劃就全部達成了！"
+68,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_153","我雖然現在想向你重新表達感謝，<hex:02100103>但還是先去找蘭師傅吧！<hex:02100103>我們邊欣賞建設完成後城市風景邊聊。"
+69,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_154","難道你不想看看完成後的匠人街嗎？<hex:02100103>請你去拜訪蘭師傅吧！"
+70,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_160","這、這、這是……"
+71,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_TSURANUKI_000_161","怎麼樣，滿意不滿意啊！<hex:02100103>為了紀念百貨市場和匠人街竣工，<hex:02100103>我們把車前會所也稍微改造了一下！"
+72,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_162","真是非常感謝你們的心意，<hex:02100103>但是為了我們使用這麼貴重的資材，<hex:02100103>實在是過意不去啊……"
+73,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_ARARAGI_000_163","幹嘛？<hex:02100103>你把那些貴重的資材放在破落的會所裡<hex:02100103>要保管到什麼時候啊？"
+74,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_ARARAGI_000_164","而且這裡相當於多瑪飛地的門面。<hex:02100103>太過寒酸的話，是沒有辦法吸引客人的，<hex:02100103>前來貢獻物資的<hex:022903EB0203>也會感到擔心不是嗎？"
+75,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_165","這、這……我沒這麼想過……"
+76,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_MITSUBA_000_166","還有小櫻你跟我到這邊來，<hex:02100103>我有東西要交給你和車前會。"
+77,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_MITSUBA_000_167","讓你久等了！<hex:02100103>這就是煥然一新的車前會！"
+78,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_168","是……是不是……有些……太過華麗了啊？"
+79,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_MITSUBA_000_169","你說什麼呢，這樣才正好嘛！"
+80,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_MITSUBA_000_170","明明透過車前會進行交易的客戶那麼多，<hex:02100103>你們卻總是穿著那樣樸素的服裝，<hex:02100103>不習慣的人，想找到你們都費力……"
+81,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_MITSUBA_000_171","所以今後若想讓多瑪飛地更加發展起來，<hex:02100103>你們就必須比任何人都要引人矚目才行！"
+82,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_172","知、知道了！<hex:02100103>既然是為了多瑪、為了多瑪飛地的話，<hex:02100103>哪怕是打扮成燈籠一樣，我也願意！"
+83,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_173","我們與飛燕大人定下的約定……<hex:02100103>在這裡重新建立名為多瑪的國家的夢想……<hex:02100103>為此就算粉身碎骨也在所不惜！"
+84,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_174","<hex:022903EB0203>……<hex:02100103>雖然我們還很不成熟，<hex:02100103>但我們會將你給予的溫暖化為動力更進一步地努力前進。"
+85,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_175","多瑪飛地的重建計劃仍然還在進行中……<hex:02100103>下一個改造計劃也會馬上通過決議的吧。"
+86,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_176","到時候還需要借用你的力量與智慧……<hex:02100103>請你為多瑪飛地做出貢獻吧！"
+87,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_177","多瑪飛地的重建工作暫時告一段落！<hex:02100103>玩家可以繼續出讓道具，<hex:02100103>但是在下一階段的重建計劃發表之前，城市不會有進一步的發展。"
+88,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_178","我們正在制定下一期重建計劃。<hex:02100103>到時候依舊要麻煩你了。"
+89,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_180","<hex:022903EB0203>……<hex:02100103>感謝你能過來。<hex:02100103>不過你應該很忙的吧？"
+90,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_181","我想肯定有人在等著你。<hex:02100103>請你先去找那個人吧。<hex:02100103>在此期間，這裡就先由我們想辦法管理多瑪飛地了。"
+91,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_182","想要推進今後的多瑪飛地重建任務，<hex:02100103>需要先完成主線任務「拂曉的少年」。"
+92,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_183","<hex:022903EB0203>……<hex:02100103>感謝你能過來。<hex:02100103>如果你有空的話，能不能聽我說一下？"
+93,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_185","岩瀨好像在等你過去，<hex:02100103>請你去趟農耕地視察一下吧！"
+94,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_190","<hex:022903EB0203>……<hex:02100103>今天也感謝你的支援。"
+95,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_191","多虧了你，我們想辦法湊齊了農具和人手。<hex:02100103>現在正在進行農耕地的開墾工作。"
+96,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_192","因為開墾農耕地跟重建市場和匠人街時需要的物資完全不同，<hex:02100103>所以為了籌集工作，我們想盡了辦法……<hex:02100103>不過越是困難我們就越有幹勁！"
+97,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_193","<hex:022903EB0203>，請你去找岩瀨，<hex:02100103>看看農耕地的情況吧！"
+98,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_194","<hex:022903EB0203>，請你去找岩瀨，<hex:02100103>看看農耕地的情況吧！"
+99,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_200","<hex:022903EB0203>……<hex:02100103>感謝你再次來訪。"
+100,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_201","多虧了你的心意，<hex:02100103>重建工作有了更多的進展，在此向你報告一下！"
+101,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_202","提供的物資使農耕地得到了進一步的發展。"
+102,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_203","今後也請將物資放進<hex:02280CFF05>EObj<hex:F61EA9DF0103>，<hex:02100103>為了進一步的發展而努力吧！"
+103,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_208","<hex:022903EB0203>……<hex:02100103>感謝你再次來訪。"
+104,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_209","多虧了你的心意，<hex:02100103>重建工作有了更多的進展，在此向你報告一下！"
+105,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_210","提供的物資使農耕地得到了進一步的發展。"
+106,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_211","今後也請將物資放進<hex:02280CFF05>EObj<hex:F61EA9DF0103>，<hex:02100103>為了進一步的發展而努力吧！"
+107,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_215","<hex:022903EB0203>……<hex:02100103>十分感謝你的多次協助！"
+108,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_216","岩瀨通知了我們車前會，<hex:02100103>說是需要的設施和物資已經全部準備完了。"
+109,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_217","而且水稻也在順利地生長著！<hex:02100103>岩瀨還說想請<hex:022903EB0203>去看看。"
+110,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_218","岩瀨在農耕地等著你呢，<hex:02100103>請你去看一眼水田的情況。"
+111,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_219","岩瀨在農耕地等著你呢，<hex:02100103>請你去看一眼水田的情況。"
+112,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_225","<hex:022903EB0203>……<hex:02100103>今天也非常感謝你的協助。"
+113,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_226","多虧了你，學舍的建設工作進行得很順利。<hex:02100103>雖然說不上裝置齊全……<hex:02100103>但是據說已經開課了！"
+114,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_227","請你去栗齋學堂的水無月老師那裡看看吧，<hex:02100103>孩子們肯定會很高興的。"
+115,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_228","請你去栗齋學堂的水無月老師那裡看看吧，<hex:02100103>孩子們肯定會很高興的。"
+116,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_235","<hex:022903EB0203>……<hex:02100103>今天也非常感謝你的協助。"
+117,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_236","多虧了你的支援，<hex:02100103>栗齋學堂的裝置也逐漸變得充實了！"
+118,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_237","百聞不如一見。<hex:02100103>請你去看看栗齋學堂吧。<hex:02100103>水無月老師在等著你呢。"
+119,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_238","請你去看看栗齋學堂吧。<hex:02100103>水無月老師在等著你呢。"
+120,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_245","<hex:022903EB0203>……<hex:02100103>感謝你再次來訪。"
+121,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_246","多虧了你的心意，<hex:02100103>重建工作有了更多的進展，在此向你報告一下！"
+122,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_247","提供的物資使栗齋學堂得到了進一步的發展。"
+123,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_248","今後也請將物資放進<hex:02280CFF05>EObj<hex:F61EA9DF0103>，<hex:02100103>為了進一步的發展而努力吧！"
+124,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_255","<hex:022903EB0203>……<hex:02100103>十分感謝你的多次協助！"
+125,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_256","多虧了你，栗齋學堂才有了充足的資材。<hex:02100103>剛才我們接到了水無月老師的聯絡，<hex:02100103>說是設施已經建設完成了，請跟我一起去看看吧！"
+126,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_HOZAN_100_256","哎呀，你們這是要去栗齋學堂嗎？<hex:02100103>看來我沒必要專門來一趟啊。"
+127,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_257","啊，寶山！<hex:02100103>你這身衣服……"
+128,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_HOZAN_100_257","嗯，因為事情告一段落了，我就換上了多瑪的衣服。<hex:02100103>果然還是這身穿著最舒服。<hex:02100103>父親和緋桐他們也很高興能夠重新穿上以前的衣服呢。"
+129,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_HOZAN_110_257","不過孩子們還是願意穿著艾奧傑亞的服裝。<hex:02100103>既然他們喜歡，那我也就沒理由攔著他們。"
+130,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_HOZAN_120_257","對了，孩子們還讓我叫你們過去呢。<hex:02100103>好像是有什麼東西要給你們看。"
+131,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_258","哎呀，那<hex:022903EB0203>，<hex:02100103>我們就一起去栗齋學堂的水無月老師那裡吧。<hex:02100103>可不能讓孩子們久等啊！"
+132,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_259","我們就一起去栗齋學堂吧。<hex:02100103>孩子們和水無月老師都在等著呢！"
+133,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_265","<hex:022903EB0203>……<hex:02100103>今天也非常感謝你的協助。"
+134,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_266","現在巡邏隊正在著手建設駐所。<hex:02100103>我們車前會已經為他們優先安排了物資，<hex:02100103>正在全力支援他們！"
+135,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_267","巡邏隊是由孟冬哥……<hex:02100103>啊……是由孟冬負責管理的。"
+136,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_268","請你去巡邏隊駐所找他聊聊吧！"
+137,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_269","請你去找巡邏隊駐所的孟冬聊聊吧！"
+138,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_275","<hex:022903EB0203>……<hex:02100103>感謝你再次來訪。"
+139,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_276","多虧了你的心意，<hex:02100103>重建工作有了更多的進展，在此向你報告一下！"
+140,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_277","提供的物資使巡邏隊駐所得到了進一步的發展。"
+141,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_278","今後也請將物資放進<hex:02280CFF05>EObj<hex:F61EA9DF0103>，<hex:02100103>為了進一步的發展而努力吧！"
+142,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_285","<hex:022903EB0203>……<hex:02100103>十分感謝你的多次協助！"
+143,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_286","剛才孟冬哥通知我們駐所已經建設完成了！"
+144,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_287","啊……<hex:02100103>莫非我剛才說成孟冬哥了……"
+145,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_288","這、這真是不好意思……"
+146,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_289","我和孟冬是同鄉，在小時候一直把孟冬看成哥哥看待。<hex:02100103>所以一不留神，就用上了以前的稱呼……"
+147,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_290","總、總之，孟冬哥在等著你過去呢。"
+148,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_291","正好我也有事情想跟孟冬哥談談，<hex:02100103>我們一起前往巡邏隊駐所吧！"
+149,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_292","孟冬哥在等著我們呢。<hex:02100103>我們一起去趟巡邏隊駐所吧！"
+150,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_295","今天也非常感謝你的協助。"
+151,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_296","多虧了你，帝國軍的瞭望塔順利地拆除完了！"
+152,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_297","平時工匠團的人們就已經很努力幹活了，<hex:02100103>但在這件事情上他們看起來要比平常更賣力，<hex:02100103>肯定是因為有特殊的情感吧……"
+153,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_298","工匠石伏在瞭望塔那裡。<hex:02100103>請你去觀看一下拆除作業吧！"
+154,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_299","工匠石伏在瞭望塔那裡。<hex:02100103>請你去觀看一下拆除作業吧！"
+155,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_305","<hex:022903EB0203>……<hex:02100103>感謝你再次來訪。"
+156,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_306","多虧了你的心意，<hex:02100103>重建工作有了更多的進展，在此向你報告一下！"
+157,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_307","提供的物資使瞭望塔得到了進一步的改建。"
+158,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_308","今後也請將物資放進<hex:02280CFF05>EObj<hex:F61EA9DF0103>，<hex:02100103>為了進一步的發展而努力吧！"
+159,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_315","<hex:022903EB0203>……<hex:02100103>十分感謝你的多次協助！"
+160,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_316","瞭望塔的建設作業好像已經完成了！"
+161,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_317","看著新的瞭望塔那朝天聳立的樣子，<hex:02100103>真是讓人感覺心曠神怡呢！"
+162,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_318","建設用的架臺也已經撤掉了，<hex:02100103>請你近距離欣賞一下吧！<hex:02100103>我想你還可以從石伏那裡聽取一下詳情！"
+163,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_319","瞭望塔已經完工了。<hex:02100103>請你近距離欣賞一下吧！<hex:02100103>我想你還可以從石伏那裡聽取一下詳情！"
+164,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_322","感謝你每日的協助。<hex:02100103>多虧了<hex:022903EB0203>，<hex:02100103>我們總算想辦法湊齊了工匠團委托的資材。"
+165,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_ISHIBUSHI_000_323","抱歉，突然打擾一下……<hex:02100103>二位……能不能……來大道一趟……"
+166,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_324","嗯？<hex:02100103>啊，當然沒問題。<hex:02100103>現在這個時段基本沒有人來訪問這裡……"
+167,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_325","多、多麼壯觀的會所啊！<hex:02100103>之前說過的還有要建設的設施，<hex:02100103>原來指的是車前會所啊！"
+168,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_ISHIBUSHI_000_326","這裡……也算得上是……城市的門面……<hex:02100103>所以……得保持美觀……才行……"
+169,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_327","你說的話真是讓我受寵若驚！<hex:02100103>而且兩次都為我們進行了改裝……<hex:02100103>這麼奢侈真的沒問題嗎……"
+170,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_ISHIBUSHI_000_328","會所的整備……<hex:02100103>也是重要的事情……"
+171,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_HACHISUBA_000_329","對對，肯定沒問題啦！<hex:02100103>這樣還算不上奢侈啊！"
+172,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_HACHISUBA_000_330","你看，交易商品和支援物資也變得多了起來，<hex:02100103>要是沒個放東西的地方，不是會很麻煩的嗎？"
+173,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_HACHISUBA_000_331","而且我們工匠團在籌集資材等方面，都受到了車前會的特別照顧。<hex:02100103>這就算是我們工匠團為了努力的小櫻，<hex:02100103>做出的一點感謝的心意而已。"
+174,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_332","努力什麼的，太過獎了……<hex:02100103>我只是一直專注地完成眼前的工作而已。"
+175,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_333","不過、不過、我真的是感到很高興！<hex:02100103>謝謝你們！"
+176,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_ISHIBUSHI_000_334","……嗯。<hex:02100103>痛快地……高興一下吧……<hex:02100103>這樣……我們也覺得……開心……"
+177,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_HACHISUBA_000_335","對啊對啊！<hex:02100103>而且還能感到一種終於把工作全乾完之後的成就感呢！"
+178,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_336","那對於工匠團的各位來說，<hex:02100103>已經沒有剩下的工作了吧？"
+179,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_ISHIBUSHI_000_337","……我已經滿足了。"
+180,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_338","那麼我代表車前會，在此宣告多瑪的重建計劃完成……"
+181,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_TAUYAKU_000_339","(-？？？？-)抱歉打擾一下。<hex:02100103>能讓我說幾句嗎？"
+182,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_340","這不是當藥嗎！<hex:02100103>當然沒問題，請問你有什麼事情嗎？"
+183,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_TAUYAKU_000_341","很抱歉，我有一個小小心願……<hex:02100103>想拜託車前會。"
+184,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_TAUYAKU_000_342","那個……<hex:02100103>我想請你們支援我建設庭園。"
+185,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_343","庭園……嗎？"
+186,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_TAUYAKU_000_344","嗯，在百貨市場的後面不是有一個池塘嗎？<hex:02100103>現在只是剛設定了一個簡易的休息臺而已……"
+187,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_TAUYAKU_000_345","我想在那裡種一些花草樹木，<hex:02100103>給欄桿上個漆打理一下。"
+188,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_TAUYAKU_000_346","我當然明白這不是生活必須有的東西。<hex:02100103>但是我想將那個地方建成城裡所有人都能來休憩的場所。<hex:02100103>請幫幫我吧。"
+189,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_347","既然是要建成大家都能休憩的場所，<hex:02100103>那就是生活中所需要的東西。<hex:02100103>我們車前會，當然不會反對。"
+190,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_348","如果給我們支援物資的<hex:022903EB0203>也願意的話……"
+191,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_TAUYAKU_000_349","非常感謝，算我欠你一個人情。"
+192,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_ISHIBUSHI_000_350","那就趕快……開工吧……"
+193,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_HACHISUBA_000_351","等等，師父！<hex:02100103>這個庭園的建造能不能交給我來幹！"
+194,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_HACHISUBA_000_353","師父你畢竟是我們工匠團裡挑大樑的，<hex:02100103>總是到處忙著幫人修補建築吧？"
+195,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_HACHISUBA_000_354","跟師父比，我這邊還是很空閒的。<hex:02100103>而且我跟師父學藝之前，幹過土木工作。<hex:02100103>協助建造庭園的工作，由我來干最合適！"
+196,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_ISHIBUSHI_000_355","……是嗎。<hex:02100103>那就交給你了……"
+197,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_TAUYAKU_000_356","真是可靠啊，那就拜託了。"
+198,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_360","<hex:022903EB0203>……<hex:02100103>感謝你再次來訪。"
+199,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_361","多虧了你的心意，<hex:02100103>重建工作有了更多的進展，在此向你報告一下！"
+200,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_362","提供的物資使無二庭園的建造工作進入了正軌。"
+201,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_363","今後也請將物資放進<hex:02280CFF05>EObj<hex:F61EA9DF0103>，<hex:02100103>為了進一步的發展而努力吧！"
+202,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_370","<hex:022903EB0203>……<hex:02100103>十分感謝你的多次協助！"
+203,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_371","你提供的物資不僅用於開發庭園，<hex:02100103>也為大家的日常生活提供了便利！"
+204,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_372","飛地的重建計劃並不只是建完就完了，<hex:02100103>還要修復建築物和損壞的金屬製品之類的……"
+205,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_HACHISUBA_000_373","<hex:022903EB0203>你來了啊！<hex:02100103>你們倆來趟無二庭園吧！"
+206,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_HACHISUBA_000_374","庭院已經建造完了，<hex:02100103>所以當藥讓我叫你們過去看看。"
+207,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_375","已經完成了嗎！<hex:02100103>我們一定過去。"
+208,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_376","<hex:022903EB0203>我們一起去看看吧！<hex:02100103>現在變成什麼樣子了，真是讓人興奮呢！"
+209,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_HACHISUBA_100_376","我想你們看見那個庭園，肯定會笑容滿面的！<hex:02100103>那我先去向師父報告一聲了！"
+210,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_377","<hex:022903EB0203>，<hex:02100103>我們一起前往無二庭園吧！<hex:02100103>當藥在等著我們呢！"
+211,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_380","祭奠的儀式……<hex:02100103>有誰……對這個比較清楚呢……<hex:02100103>唔……"
+212,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_381","看樣子小櫻在專心思考著什麼，完全沒有察覺到這邊……<hex:02100103>先和她打聲招呼吧。"
+213,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_385","等我把手頭的接待工作弄完，<hex:02100103>就去跟飛地的人們打招呼！<hex:02100103><hex:022903EB0203>也請你快去為放天燈做準備！"
+214,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_390","<hex:022903EB0203>！<hex:02100103>感謝你繼續支援我們的這份心意。"
+215,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_391","剛才還幫助我們舉行了放天燈的儀式，<hex:02100103>真是十分感謝！"
+216,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_ISHIBUSHI_000_352",""

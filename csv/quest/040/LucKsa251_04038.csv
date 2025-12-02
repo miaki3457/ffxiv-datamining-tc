@@ -1,15 +1,10 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_LUCKSA251_04038_SEQ_00","<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>특수 규칙:  직업 고정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-강고스에 있는 즐라탄은 다시금 '기억 덩어리'를 모아서 와주었으면 하는 듯하다."
-1,"TEXT_LUCKSA251_04038_SEQ_01","※ 이 퀘스트에는 <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow> 직업 고정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 적용됩니다.
-   퀘스트 수락 시의 직업으로만 진행할 수 있습니다.
-
-대규모 전투를 통해 '기억 덩어리'를 모아서 오기로 했다. '<Sheet(Item,32956,0)/>'<13>FF0F02280BFF054974656DF280BC0103FF04EBA5BCFF04EC9D84</13> 15개 모아서 '레지스탕스 웨폰'을 소지한 상태로 강고스에 있는 '즐라탄'에게 건네자.
-
-※ '<Sheet(Item,32956,0)/>'<13>FF0F02280BFF054974656DF280BC0103FF04EB8A94FF04EC9D80</13> '남부 보즈야 전선'에서 비상 교전 및 연합 레이드 '크리스탈 타워' 관련 임무를 공략하면 획득할 수 있습니다."
-2,"TEXT_LUCKSA251_04038_SEQ_02","즐라탄에게 '<Sheet(Item,32956,0)/>'<13>FF0F02280BFF054974656DF280BC0103FF04EBA5BCFF04EC9D84</13> 건네자 게롤트가 무기 개량을 해주었다. 다음 개량을 하게 되면 모험가에게 맞춰서 조정할 수 있게 된다고 한다."
+0,"TEXT_LUCKSA251_04038_SEQ_00","<hex:024804F201F603><hex:024904F201F703>特殊規則： 職業固定<hex:0249020103><hex:0248020103><hex:02100103>甘戈斯的茲拉坦希望冒險者再次收集記憶晶塊。"
+1,"TEXT_LUCKSA251_04038_SEQ_01","※本任務設定有<hex:024804F201F603><hex:024904F201F703>特殊規則：職業固定<hex:0249020103><hex:0248020103>。<hex:02100103>　需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>需要透過大規模戰鬥收集記憶晶塊。收集15個<hex:02280BFF05>Item<hex:F280BC0103>，並在攜帶義軍武器的狀態下，交給甘戈斯的茲拉坦。<hex:02100103><hex:02100103>※<hex:02280BFF05>Item<hex:F280BC0103>可以透過完成南方博茲雅戰線的緊急遭遇戰，以及攻略團隊任務「水晶塔」的相關迷宮獲得。"
+2,"TEXT_LUCKSA251_04038_SEQ_02","將<hex:02280BFF05>Item<hex:F280BC0103>交給茲拉坦，由蓋羅爾特改良了武器。再進行一次改良，似乎就可以根據冒險者來調整義軍武器了。"
 3,"TEXT_LUCKSA251_04038_SEQ_03",""
 4,"TEXT_LUCKSA251_04038_SEQ_04",""
 5,"TEXT_LUCKSA251_04038_SEQ_05",""
@@ -31,8 +26,7 @@ int32,str,str
 21,"TEXT_LUCKSA251_04038_SEQ_21",""
 22,"TEXT_LUCKSA251_04038_SEQ_22",""
 23,"TEXT_LUCKSA251_04038_SEQ_23",""
-24,"TEXT_LUCKSA251_04038_TODO_00","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))><Sheet(Item,32956,0)/><13>FF0F02280BFF054974656DF280BC0103FF04EBA5BCFF04EC9D84</13> 획득<Else/><If(Equal(IntegerParameter(4),19))><Sheet(Item,30785,0)/><13>FF0F02280BFF054974656DF278410103FF04EC9980FF04EAB3BC</13> <Sheet(Item,30802,0)/><13>FF0F02280BFF054974656DF278520103FF04EBA5BCFF04EC9D84</13><Else/> <If(Equal(IntegerParameter(4),20))><Sheet(Item,30786,0)/><13>FF0F02280BFF054974656DF278420103FF04EBA5BCFF04EC9D84</13><Else/> <If(Equal(IntegerParameter(4),21))><Sheet(Item,30787,0)/><13>FF0F02280BFF054974656DF278430103FF04EBA5BCFF04EC9D84</13><Else/> <If(Equal(IntegerParameter(4),22))><Sheet(Item,30788,0)/><13>FF0F02280BFF054974656DF278440103FF04EBA5BCFF04EC9D84</13><Else/> <If(Equal(IntegerParameter(4),23))><Sheet(Item,30789,0)/><13>FF0F02280BFF054974656DF278450103FF04EBA5BCFF04EC9D84</13><Else/> <If(Equal(IntegerParameter(4),24))><Sheet(Item,30793,0)/><13>FF0F02280BFF054974656DF278490103FF04EBA5BCFF04EC9D84</13><Else/> <If(Equal(IntegerParameter(4),25))><Sheet(Item,30794,0)/><13>FF0F02280BFF054974656DF2784A0103FF04EBA5BCFF04EC9D84</13><Else/> <If(Equal(IntegerParameter(4),27))><Sheet(Item,30795,0)/><13>FF0F02280BFF054974656DF2784B0103FF04EBA5BCFF04EC9D84</13><Else/> <If(Equal(IntegerParameter(4),28))><Sheet(Item,30796,0)/><13>FF0F02280BFF054974656DF2784C0103FF04EBA5BCFF04EC9D84</13><Else/> <If(Equal(IntegerParameter(4),30))><Sheet(Item,30790,0)/><13>FF0F02280BFF054974656DF278460103FF04EBA5BCFF04EC9D84</13><Else/> <If(Equal(IntegerParameter(4),31))><Sheet(Item,30792,0)/><13>FF0F02280BFF054974656DF278480103FF04EBA5BCFF04EC9D84</13><Else/> <If(Equal(IntegerParameter(4),32))><Sheet(Item,30791,0)/><13>FF0F02280BFF054974656DF278470103FF04EBA5BCFF04EC9D84</13><Else/> <If(Equal(IntegerParameter(4),33))><Sheet(Item,30797,0)/><13>FF0F02280BFF054974656DF2784D0103FF04EBA5BCFF04EC9D84</13><Else/> <If(Equal(IntegerParameter(4),34))><Sheet(Item,30798,0)/><13>FF0F02280BFF054974656DF2784E0103FF04EBA5BCFF04EC9D84</13><Else/> <If(Equal(IntegerParameter(4),35))><Sheet(Item,30799,0)/><13>FF0F02280BFF054974656DF2784F0103FF04EBA5BCFF04EC9D84</13><Else/> <If(Equal(IntegerParameter(4),37))><Sheet(Item,30800,0)/><13>FF0F02280BFF054974656DF278500103FF04EBA5BCFF04EC9D84</13><Else/> <If(Equal(IntegerParameter(4),38))><Sheet(Item,30801,0)/><13>FF0F02280BFF054974656DF278510103FF04EBA5BCFF04EC9D84</13><Else/> </If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If> 장비에서 해제하고 소지품에 보유한 상태로
-강고스에 있는 즐라탄에게 <Sheet(Item,32956,0)/> 전달</If>"
+24,"TEXT_LUCKSA251_04038_TODO_00","<hex:0208F20259E3E802E803FF15>獲取<hex:02280BFF05>Item<hex:F280BC0103><hex:FFF2023A>卸下<hex:0208F201E6E4E80514FF20><hex:02280BFF05>Item<hex:F278410103>與<hex:02280BFF05>Item<hex:F278520103><hex:FFF201BD><hex:0208F201B7E4E80515FF0F><hex:02280BFF05>Item<hex:F278420103><hex:FFF2019F><hex:0208F20199E4E80516FF0F><hex:02280BFF05>Item<hex:F278430103><hex:FFF20181><hex:0208F2017BE4E80517FF0F><hex:02280BFF05>Item<hex:F278440103><hex:FFF20163><hex:0208F2015DE4E80518FF0F><hex:02280BFF05>Item<hex:F278450103><hex:FFF20145><hex:0208F2013FE4E80519FF0F><hex:02280BFF05>Item<hex:F278490103><hex:FFF20127><hex:0208F20121E4E8051AFF0F><hex:02280BFF05>Item<hex:F2784A0103><hex:FFF20109><hex:0208F20103E4E8051CFF0F><hex:02280BFF05>Item<hex:F2784B0103><hex:FFF0EC><hex:0208F0E7E4E8051DFF0F><hex:02280BFF05>Item<hex:F2784C0103><hex:FFF0D0><hex:0208CDE4E8051FFF0F><hex:02280BFF05>Item<hex:F278460103><hex:FFB7><hex:0208B3E4E80520FF0F><hex:02280BFF05>Item<hex:F278480103><hex:FF9D><hex:020899E4E80521FF0F><hex:02280BFF05>Item<hex:F278470103><hex:FF83><hex:02087FE4E80522FF0F><hex:02280BFF05>Item<hex:F2784D0103><hex:FF69><hex:020865E4E80523FF0F><hex:02280BFF05>Item<hex:F2784E0103><hex:FF4F><hex:02084BE4E80524FF0F><hex:02280BFF05>Item<hex:F2784F0103><hex:FF35><hex:020831E4E80526FF0F><hex:02280BFF05>Item<hex:F278500103><hex:FF1B><hex:020817E4E80527FF0F><hex:02280BFF05>Item<hex:F278510103><hex:FF01><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03>放入兵裝庫或背包<hex:02100103>將<hex:02280BFF05>Item<hex:F280BC0103>交給甘戈斯的茲拉坦<hex:03>"
 25,"TEXT_LUCKSA251_04038_TODO_01",""
 26,"TEXT_LUCKSA251_04038_TODO_02",""
 27,"TEXT_LUCKSA251_04038_TODO_03",""
@@ -56,103 +50,44 @@ int32,str,str
 45,"TEXT_LUCKSA251_04038_TODO_21",""
 46,"TEXT_LUCKSA251_04038_TODO_22",""
 47,"TEXT_LUCKSA251_04038_TODO_23",""
-48,"TEXT_LUCKSA251_04038_SYSTEM_800_000","퀘스트 '모습을 바꾼 레지스탕스 웨폰'에서
-획득할 수 있는 무기는
-현재 직업인 '<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>' 전용 레지스탕스 웨폰입니다."
-49,"TEXT_LUCKSA251_04038_SYSTEM_801_000","'모습을 바꾼 레지스탕스 웨폰'을
-'<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>'<14>FF3B020837E3E94509FF1202280EFF09436C6173734A6F62E9450103FF1E02081AE1E94513FF1202280EFF09436C6173734A6F62E9450103FF010303FF04EBA19CFF07EC9CBCEBA19C</14> 수락하시겠습니까?"
-50,"TEXT_LUCKSA251_04038_Q1_800_000","<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If> 전용 레지스탕스 웨폰을 만드시겠습니까?"
-51,"TEXT_LUCKSA251_04038_A1_800_000","조금 더 생각한다"
-52,"TEXT_LUCKSA251_04038_A2_800_000","<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If> 전용 레지스탕스 웨폰을 만든다"
-53,"TEXT_LUCKSA251_04038_SYSTEM_800_001","레지스탕스 웨폰을 만들고 싶은 직업으로 변경한 후
-다시 즐라탄에게 말을 거십시오."
-54,"TEXT_LUCKSA251_04038_SYSTEM_800_005","이미 '<Sheet(Item,IntegerParameter(1),0)/>' 및
-'<Sheet(Item,IntegerParameter(2),0)/>'<13>FF0E02280AFF054974656DE8030103FF04EBA5BCFF04EC9D84</13> 획득했습니다.
-다른 직업으로 변경한 후 다시 즐라탄에게 말을 거십시오."
-55,"TEXT_LUCKSA251_04038_SYSTEM_800_006","이미 '<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 획득했습니다.
-다른 직업으로 변경한 후 다시 즐라탄에게 말을 거십시오."
-56,"TEXT_LUCKSA251_04038_SYSTEM_800_008","'<Sheet(Item,IntegerParameter(1),0)/>' 및
-'<Sheet(Item,IntegerParameter(2),0)/>'<13>FF0E02280AFF054974656DE8030103FF04EBA5BCFF04EC9D84</13> 소지하거나 장비하지 않으면
-'모습을 바꾼 레지스탕스 웨폰'을 수락할 수 없습니다."
-57,"TEXT_LUCKSA251_04038_SYSTEM_800_009","'<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 소지하거나 장비하지 않으면
-'모습을 바꾼 레지스탕스 웨폰'을 수락할 수 없습니다."
-58,"TEXT_LUCKSA251_04038_ZLATAN_000_000","자, 그럼 이번에 모아주실 '기억 덩어리'말입니다만……."
-59,"TEXT_LUCKSA251_04038_ZLATAN_000_001","……그래요.
-그냥 전투가 아니라 여러 명이 참가하는 전장에서 생기는
-'기억 덩어리'를 모아서 와주시겠습니까?"
-60,"TEXT_LUCKSA251_04038_ZLATAN_000_002","남부 보즈야에서의 전투도 해당될 테고 그것 말고도…….
-대규모 전투에서 나오는 '<Sheet(Item,32956,0)/>'<13>FF0F02280BFF054974656DF280BC0103FF04EBA5BCFF04EC9D84</13>
-15개 가져다 주시길 부탁드립니다!"
-61,"TEXT_LUCKSA251_04038_ZLATAN_000_010","무기에 담겨 있는 기억의 총량을 늘리고 싶습니까?
-그렇다면 게롤트 님에게 준비를 부탁드릴 테니
-'기억 덩어리'를 가져와 주시기 바랍니다."
-62,"TEXT_LUCKSA251_04038_ZLATAN_000_011","남부 보즈야 전선 등에서 대규모 전투를 치르고
-'<Sheet(Item,32956,0)/>'<13>FF0F02280BFF054974656DF280BC0103FF04EBA5BCFF04EC9D84</13> 15개, 가지고 와주십시오!"
-63,"TEXT_LUCKSA251_04038_SYSTEM_000_020","'<Sheet(Item,32956,0)/>'<13>FF0F02280BFF054974656DF280BC0103FF04EB8A94FF04EC9D80</13>
-'남부 보즈야 전선'에서의 비상 교전을
-공략하면 획득할 수 있습니다."
-64,"TEXT_LUCKSA251_04038_SYSTEM_000_021","또 24인용 연합 레이드
-'크리스탈 타워'와 관련된 임무를 공략해도
-획득할 수 있습니다."
-65,"TEXT_LUCKSA251_04038_ZLATAN_000_025","이번에 필요한 것은 <Sheet(Item,32956,0)/> 15개입니다.
-매번 번거롭게 해드려서 죄송하지만…… 잘 부탁드립니다!"
-66,"TEXT_LUCKSA251_04038_SYSTEM_000_026","'<Sheet(Item,32956,0)/>'<13>FF0F02280BFF054974656DF280BC0103FF04EB8A94FF04EC9D80</13>
-'남부 보즈야 전선'에서의 비상 교전을
-공략하면 획득할 수 있습니다."
-67,"TEXT_LUCKSA251_04038_SYSTEM_000_027","또 연합 레이드 '크리스탈 타워'와 관련된
-임무를 공략해도 획득할 수 있습니다."
-68,"TEXT_LUCKSA251_04038_ZLATAN_000_050","'기억 덩어리'를 가지고 오셨습니까?
-그럼 개량을 하기 위해 '레지스탕스 웨폰'을
-장비에서 해제해 주십시오!"
-69,"TEXT_LUCKSA251_04038_ZLATAN_000_055","게롤트 님도 준비가 다 끝났다고 합니다.
-가공에 필요한 재료가 다 있으니 언제든 시작할 수 있습니다!
-자, '<Sheet(Item,32956,0)/>'<13>FF0F02280BFF054974656DF280BC0103FF04EBA5BCFF04EC9D84</13> 주시겠습니까?"
-70,"TEXT_LUCKSA251_04038_ZLATAN_000_060","네, 맞습니다…… 수고하셨습니다!
-그럼 개량을 하기 위해 레지스탕스 웨폰을
-건네주시겠습니까?"
-71,"TEXT_LUCKSA251_04038_ZLATAN_000_061","이제 필요한 것이 다 모였군요……!
-그럼 게롤트 님께 개량을 부탁드리도록 합시다!"
-72,"TEXT_LUCKSA251_04038_GEROLT_000_065","좋았어, 내 개량안도 완벽하게 정리됐어.
-그럼 레지스탕스 웨폰에 더 많은 기억을
-넣어주지!"
-73,"TEXT_LUCKSA251_04038_GEROLT_000_070","참나 매번 필요한 재료를 완벽하게 구해온단 말이지.
-무기의 형태를 바꾸는 건 엄청나게 큰 작업이지만,
-이렇게 나오면 거절할 이유를 생각해내기도 어려워."
-74,"TEXT_LUCKSA251_04038_GEROLT_000_071","……투덜댄다고 뭐 달라지나, 빨리 시작하도록 하지.
-레지스탕스 웨폰에 더 많은 기억을 담겠다!"
-75,"TEXT_LUCKSA251_04038_GEROLT_000_080","좋아, 무사히 기억이 정착되었어!
-새로운 모습이 된 레지스탕스 웨폰……
-그 이름도 바로 <Sheet(Item,IntegerParameter(1),0)/>!"
-76,"TEXT_LUCKSA251_04038_GEROLT_000_081","좋아, 무사히 기억이 정착되었어!
-새로운 모습이 된 레지스탕스 웨폰……
-그 이름도 바로 <Sheet(Item,IntegerParameter(1),0)/>!"
-77,"TEXT_LUCKSA251_04038_GEROLT_000_082","그리고 '<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EB8BA4FF07EC9DB4EB8BA4</13>!"
-78,"TEXT_LUCKSA251_04038_GEROLT_000_090","내 계산대로 여왕의 명문은 더 많은 힘을 발휘할 거야.
-이로써 무기로써의 성능은 한 단계 더 올라갔을 거라고."
-79,"TEXT_LUCKSA251_04038_ZLATAN_000_091","성검의 구조조차 자신의 방식대로 해석해 개량을 해내시다니
-평소 행실은 그렇다 치더라도 역시 실력 하나는 일류십니다.
-혹시 이 기세를 몰아 한 번 더 개량안을……?"
-80,"TEXT_LUCKSA251_04038_GEROLT_000_092","아…… 그건 조금 더 기다려 봐.
-일단 기분 전환도 할 겸 산책이라도 하고 오면
-좋은 안이 떠오를 것 같거든."
-81,"TEXT_LUCKSA251_04038_ZLATAN_000_093","……이상하군요.
-해방자님이 '기억 덩어리'를 모으러 가신 동안에도
-그렇게 말하고 마음대로 창고의 술을 갖고 가지 않으셨나요?"
-82,"TEXT_LUCKSA251_04038_ZLATAN_000_094","지금 게롤트 님에게 필요한 건 기분 전환이 아닌 것 같습니다.
-한 번 다 같이 상황을 공유하도록 하죠!"
-83,"TEXT_LUCKSA251_04038_GEROLT_000_095","…………쳇."
-84,"TEXT_LUCKSA251_04038_GEROLT_000_096","아무튼 이번 개량은 성공했어.
-일단은 그 사실을 기뻐하고 사용하기에 어떤지 써보고 와!
-개량을 더 하고 싶어지면 그때 돼서 상황을 설명해 줄게."
-85,"TEXT_LUCKSA251_04038_ZLATAN_000_100","역시 게롤트 님, 이번에도 멋지게 완성하셨군요!
-일개 정비병이지만 당신의 작업을 도와드리는 건
-상당히 공부가 됩니다."
-86,"TEXT_LUCKSA251_04038_GEROLT_000_101","그렇게 날 존경하는 마음이 있다면 말이야.
-나한테 술 좀 줘도 되지 않아?
-아니면 기분 전환으로 오래된 주전자 수리라도……."
-87,"TEXT_LUCKSA251_04038_ZLATAN_000_102","저항군에게 필요한 건 주전자보다 무기입니다.
-지금은 레지스탕스 웨폰 개량에
-시간을 쓰셔야 합니다."
-88,"TEXT_LUCKSA251_04038_ZLATAN_000_103","어쨌든 이번 개량은 무사히 성공했습니다!
-모험가님의 준비가 끝나면
-반드시 다음 개량에도 도전해 보도록 합시다!"
+48,"TEXT_LUCKSA251_04038_SYSTEM_800_000","「義軍武器，變形」任務中獲得的武器<hex:02100103>將是目前職業<hex:020837E3E94509FF12><hex:02280EFF09>ClassJob<hex:E9450103><hex:FF1E><hex:02081AE1E94513FF12><hex:02280EFF09>ClassJob<hex:E9450103><hex:FF01><hex:03><hex:03>的義軍武器。"
+49,"TEXT_LUCKSA251_04038_SYSTEM_801_000","確定要以<hex:020837E3E94509FF12><hex:02280EFF09>ClassJob<hex:E9450103><hex:FF1E><hex:02081AE1E94513FF12><hex:02280EFF09>ClassJob<hex:E9450103><hex:FF01><hex:03><hex:03>接受「義軍武器，變形」任務嗎？"
+50,"TEXT_LUCKSA251_04038_Q1_800_000","要製作<hex:020837E3E94509FF12><hex:02280EFF09>ClassJob<hex:E9450103><hex:FF1E><hex:02081AE1E94513FF12><hex:02280EFF09>ClassJob<hex:E9450103><hex:FF01><hex:03><hex:03>的義軍武器嗎？"
+51,"TEXT_LUCKSA251_04038_A1_800_000","再考慮一下"
+52,"TEXT_LUCKSA251_04038_A2_800_000","製作<hex:020837E3E94509FF12><hex:02280EFF09>ClassJob<hex:E9450103><hex:FF1E><hex:02081AE1E94513FF12><hex:02280EFF09>ClassJob<hex:E9450103><hex:FF01><hex:03><hex:03>的義軍武器"
+53,"TEXT_LUCKSA251_04038_SYSTEM_800_001","請切換成想製作義軍武器的職業，<hex:02100103>再次與茲拉坦對話。"
+54,"TEXT_LUCKSA251_04038_SYSTEM_800_005","已擁有<hex:02280AFF05>Item<hex:E8020103>和<hex:02280AFF05>Item<hex:E8030103>。<hex:02100103>請切換成其他職業再次與茲拉坦對話。"
+55,"TEXT_LUCKSA251_04038_SYSTEM_800_006","已擁有<hex:02280AFF05>Item<hex:E8020103>，<hex:02100103>請切換成其他職業再次與茲拉坦對話。"
+56,"TEXT_LUCKSA251_04038_SYSTEM_800_008","要接受任務「義軍武器，變形」，<hex:02100103>需持有或裝備上<hex:02280AFF05>Item<hex:E8020103>與<hex:02280AFF05>Item<hex:E8030103>。"
+57,"TEXT_LUCKSA251_04038_SYSTEM_800_009","要接受任務「義軍武器，變形」，<hex:02100103>需持有或裝備上<hex:02280AFF05>Item<hex:E8020103>。"
+58,"TEXT_LUCKSA251_04038_ZLATAN_000_000","那麼，關於這次要收集的記憶晶塊……"
+59,"TEXT_LUCKSA251_04038_ZLATAN_000_001","嗯……<hex:02100103>需要你去人數眾多的戰場，<hex:02100103>透過進行團隊作戰來收集記憶晶塊。"
+60,"TEXT_LUCKSA251_04038_ZLATAN_000_002","那麼，就拜託你參加<hex:02100103>南方博茲雅戰線和其他地方的大規模戰鬥，<hex:02100103>收集15個<hex:02280BFF05>Item<hex:F280BC0103>了！"
+61,"TEXT_LUCKSA251_04038_ZLATAN_000_010","你想要增加武器中的記憶總量嗎？<hex:02100103>蓋羅爾特閣下正在為此做準備，<hex:02100103>所以就拜託你去收集記憶晶塊了。"
+62,"TEXT_LUCKSA251_04038_ZLATAN_000_011","那麼，就拜託你參加南方博茲雅戰線等地的大規模戰鬥，<hex:02100103>收集15個<hex:02280BFF05>Item<hex:F280BC0103>了！"
+63,"TEXT_LUCKSA251_04038_SYSTEM_000_020","<hex:02280BFF05>Item<hex:F280BC0103>可以透過<hex:02100103>完成南方博茲雅戰線的緊急遭遇戰獲得。"
+64,"TEXT_LUCKSA251_04038_SYSTEM_000_021","另外，還可以透過<hex:02100103>攻略24人團隊任務「水晶塔」的相關迷宮獲得。"
+65,"TEXT_LUCKSA251_04038_ZLATAN_000_025","這次需要15個<hex:02280BFF05>Item<hex:F280BC0103>，<hex:02100103>真是不好意思，每次都需要你幫忙，<hex:02100103>但是就拜託你了！"
+66,"TEXT_LUCKSA251_04038_SYSTEM_000_026","<hex:02280BFF05>Item<hex:F280BC0103>可以透過<hex:02100103>完成南方博茲雅戰線的緊急遭遇戰獲得。"
+67,"TEXT_LUCKSA251_04038_SYSTEM_000_027","另外，還可以透過<hex:02100103>攻略團隊任務「水晶塔」的相關迷宮獲得。"
+68,"TEXT_LUCKSA251_04038_ZLATAN_000_050","你帶來記憶晶塊了嗎？<hex:02100103>那麼，為了改良義軍武器，請先把武器卸下來。"
+69,"TEXT_LUCKSA251_04038_ZLATAN_000_055","蓋羅爾特閣下已經準備好了。<hex:02100103>加工材料也湊齊了，改良隨時都可以開始！<hex:02100103>那麼，請把<hex:02280BFF05>Item<hex:F280BC0103>給我。"
+70,"TEXT_LUCKSA251_04038_ZLATAN_000_060","好的……辛苦了！<hex:02100103>把需要改良的義軍武器也交給我吧。"
+71,"TEXT_LUCKSA251_04038_ZLATAN_000_061","好的，需要的東西都湊齊了。<hex:02100103>接下來就交給蓋羅爾特閣下進行改良吧！"
+72,"TEXT_LUCKSA251_04038_GEROLT_000_065","好了，我的改良方法也已經萬無一失了。<hex:02100103>現在，該把更多的戰鬥記憶固定在義軍武器之上了！"
+73,"TEXT_LUCKSA251_04038_GEROLT_000_070","你也真是厲害，每次都能把材料湊齊。<hex:02100103>改變武器的形狀可是件大工程，<hex:02100103>但是你都努力到這個份上了，我也不好意思拒絕啊。"
+74,"TEXT_LUCKSA251_04038_GEROLT_000_071","算啦，再怎麼抱怨也無濟於事，<hex:02100103>還是早點做完早點收工為好！<hex:02100103>那麼，就在義軍武器之上固定更多的戰鬥記憶吧！"
+75,"TEXT_LUCKSA251_04038_GEROLT_000_080","很好！順利固定了記憶！<hex:02100103>變為新形態的義軍武器……<hex:02100103>其名為<hex:02280AFF05>Item<hex:E8020103>！"
+76,"TEXT_LUCKSA251_04038_GEROLT_000_081","很好！順利固定了記憶！<hex:02100103>變為新形態的義軍武器……<hex:02100103>其名為<hex:02280AFF05>Item<hex:E8020103>！"
+77,"TEXT_LUCKSA251_04038_GEROLT_000_082","以及<hex:02280AFF05>Item<hex:E8020103>！"
+78,"TEXT_LUCKSA251_04038_GEROLT_000_090","正如我所想，女王的銘文效果增強了，<hex:02100103>武器的性能也加強了不少。"
+79,"TEXT_LUCKSA251_04038_ZLATAN_000_091","雖然平日是個臭酒鬼，但蓋羅爾特閣下透過獨自分析聖劍的構造，<hex:02100103>成功改良了義軍武器，果然是超一流的名匠！<hex:02100103>是不是……後續的改良方法也已經順勢想出來了？"
+80,"TEXT_LUCKSA251_04038_GEROLT_000_092","啊……嗯，就差一點了。<hex:02100103>我有種預感，只要在這一帶散散步，<hex:02100103>轉換一下心情，就能突破瓶頸了。"
+81,"TEXT_LUCKSA251_04038_ZLATAN_000_093","好奇怪啊……<hex:02100103>在解放者閣下收集記憶晶塊的時候，<hex:02100103>你也說著同樣的話，然後擅自去倉庫拿了不少酒吧？"
+82,"TEXT_LUCKSA251_04038_ZLATAN_000_094","我認為蓋羅爾特閣下現在並不需要轉換心情，<hex:02100103>而是要和我們分享一下進度才對。"
+83,"TEXT_LUCKSA251_04038_GEROLT_000_095","嘖……"
+84,"TEXT_LUCKSA251_04038_GEROLT_000_096","咳，總之這次的改良很成功，真是可喜可賀！<hex:02100103>你先試試武器順不順手吧！<hex:02100103>等你想要再次改良的時候，我再跟你說說現況。"
+85,"TEXT_LUCKSA251_04038_ZLATAN_000_100","真不愧是蓋羅爾特閣下，這次的改良也順利完成了！<hex:02100103>透過幫忙改良武器，我學到了很多，真是感激不盡。"
+86,"TEXT_LUCKSA251_04038_GEROLT_000_101","既然你這麼敬重我，<hex:02100103>那就多給我點酒怎麼樣？<hex:02100103>不然的話，讓我修理那個舊水壺轉換一下心情也行……"
+87,"TEXT_LUCKSA251_04038_ZLATAN_000_102","義軍需要的是武器，不是水壺。<hex:02100103>現在，我們應該把寶貴的時間用在改良義軍武器上。"
+88,"TEXT_LUCKSA251_04038_ZLATAN_000_103","總之，這次的改良也順利完成了！<hex:02100103>等解放者閣下做好準備之後，<hex:02100103>一定要試著繼續改良啊！"

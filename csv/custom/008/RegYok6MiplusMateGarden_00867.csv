@@ -1,25 +1,15 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGYOK6MIPLUSMATEGARDEN_00867_BAPLI_000_000","무슨 일이니?
-마테차밭에 관해서라면 뭐든지 물어보렴."
-1,"TEXT_REGYOK6MIPLUSMATEGARDEN_00867_BAPLI_000_001","우크라마트 님 일행이 발리가르만다를 쓰러뜨렸다면서?
-요카후이족과도 교류하는 상인이
-흥분해서 가르쳐 주더라!"
-2,"TEXT_REGYOK6MIPLUSMATEGARDEN_00867_BAPLI_000_002","툴라이욜라가 새로운 나라로 변해 갈 거야…….
-곳곳에 알려야겠어, 차밭에 대해."
-3,"TEXT_REGYOK6MIPLUSMATEGARDEN_00867_Q1_000_000","무엇을 물어보시겠습니까?"
-4,"TEXT_REGYOK6MIPLUSMATEGARDEN_00867_A1_000_001","당신의 이야기를 들려달라고 한다"
-5,"TEXT_REGYOK6MIPLUSMATEGARDEN_00867_A1_000_002","여기는 어떤 곳인지 물어본다"
-6,"TEXT_REGYOK6MIPLUSMATEGARDEN_00867_A1_000_003","취소"
-7,"TEXT_REGYOK6MIPLUSMATEGARDEN_00867_BAPLI_000_010","이 차밭에서 일하는 평범한 펠루펠루족이야.
-찻잎을 따는 계절 이외에는 비교적 시간에 여유가 있어서
-견학이나 거래를 하러 온 사람들을 안내하는 역할을 맡고 있단다."
-8,"TEXT_REGYOK6MIPLUSMATEGARDEN_00867_BAPLI_000_011","펠루펠루족은 다른 부족보다 수명이 짧지만
-나 같은 노인이 기운차게 일할 수 있는 것도 다 마테차 덕분이야."
-9,"TEXT_REGYOK6MIPLUSMATEGARDEN_00867_BAPLI_000_020","여기는 미플루 마테차밭이란다.
-너처럼 관심을 가진 사람에게는 자세히 설명해 주라는
-지시를 받았어, 주인인 미플루 씨에게."
-10,"TEXT_REGYOK6MIPLUSMATEGARDEN_00867_BAPLI_000_021","마테차는 채소를 대체할 수 있을 정도로 영양이 풍부해.
-처음에는 펠루펠루족이 즐기기 위해 생산됐지만
-지금은 투랄 대륙 전역에서 사랑받고 있지."
+0,"TEXT_REGYOK6MIPLUSMATEGARDEN_00867_BAPLI_000_000","有什麼事嗎？<hex:02100103>關於茶園的事可以儘管問我。"
+1,"TEXT_REGYOK6MIPLUSMATEGARDEN_00867_BAPLI_000_001","聽說烏克·拉瑪特大人他們把艷翼蛇鳥討伐了。<hex:02100103>是與尤卡巨人族有所來往的商人一臉興奮地告訴我的！"
+2,"TEXT_REGYOK6MIPLUSMATEGARDEN_00867_BAPLI_000_002","圖萊尤拉今後將會變成一個嶄新的國家……<hex:02100103>所以也得讓茶園煥然一新才行。"
+3,"TEXT_REGYOK6MIPLUSMATEGARDEN_00867_Q1_000_000","想了解什麼？"
+4,"TEXT_REGYOK6MIPLUSMATEGARDEN_00867_A1_000_001","你是做什麼的？"
+5,"TEXT_REGYOK6MIPLUSMATEGARDEN_00867_A1_000_002","這裡是什麼地方？"
+6,"TEXT_REGYOK6MIPLUSMATEGARDEN_00867_A1_000_003","取消"
+7,"TEXT_REGYOK6MIPLUSMATEGARDEN_00867_BAPLI_000_010","我只是在這片茶園工作的一位普普通通的佩魯佩魯族而已。<hex:02100103>除了摘茶葉的季節以外，我平常都比較清閒，<hex:02100103>還會負責為前來參觀和做交易的人做導覽。"
+8,"TEXT_REGYOK6MIPLUSMATEGARDEN_00867_BAPLI_000_011","雖然佩魯佩魯族跟其他種族相比壽命較短，<hex:02100103>但像我這樣的老人之所以能這麼健康，都是多虧了馬黛茶。"
+9,"TEXT_REGYOK6MIPLUSMATEGARDEN_00867_BAPLI_000_020","這裡是米普露馬黛茶園。<hex:02100103>茶園的主人米普露會為像你這樣對這裡感興趣的人進行耐心講解。"
+10,"TEXT_REGYOK6MIPLUSMATEGARDEN_00867_BAPLI_000_021","馬黛茶營養豐富，甚至可以作為蔬菜的替代品。<hex:02100103>起初是因為佩魯佩魯族喜歡所以才進行生產，<hex:02100103>如今它已經受到了整個圖拉爾大陸的青睞。"

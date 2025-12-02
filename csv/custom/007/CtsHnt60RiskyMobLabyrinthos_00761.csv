@@ -1,63 +1,29 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_000_001","라비린토스엔 다양한 연구 시설이 있다 보니
-조달꾼에게 의뢰하는 물품도 까다로운 것들뿐이랍니다…….
-의뢰를 정리하는 것만 해도 참 힘드네요."
-1,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_000_002","조달꾼 조합의 실력 있는 조달꾼이시군요.
-라비린토스 각 부문에서 들어온 마물 사냥과 관련해
-질문이 있으시면 뭐든 물어보세요!"
-2,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_Q1_000_000","무엇을 물어보시겠습니까?"
-3,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_A1_000_001","B급: 탈주한 고기소 '우후우후'"
-4,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_A1_000_002","B급: 폭식 산울타리 '풀현인'"
-5,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_A1_000_003","A급: 매혹적인 나무정령 '훌드라'"
-6,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_A1_000_004","A급: 극형의 물뱀 '스토르시에'"
-7,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_A1_000_005","S급: 교활한 흉한 '부푸루'"
-8,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_A1_000_006","취소"
-9,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_000_010","라비린토스에서는 축산 기술도 연구하고 있어요.
-그 연구 대상 중 하나가 원산지가 아짐 대초원인 야카우……
-현지에선 긴털들소라고 불리는 가축입니다."
-10,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_000_011","이걸 사육해서 식량 생산에도 보탬을 주고 있습니다만
-어느 날, 고기소로 출하할 예정이던 한 마리가 도망가 버렸어요.
-그게 바로 '우후우후'입니다."
-11,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_000_012","이름이 기묘하지 않나요?
-사실 이건 아우라족 유목민이 소를 부를 때 내는 소리랍니다.
-그런데 어떤 조달꾼이 이걸 개체명으로 착각했던 거죠."
-12,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_000_020","이동성 식물인 게노모스는
-조그만 산울타리처럼 귀여운 모습을 했지만, 사실은 육식성이죠.
-그늘에 숨으려고 다가온 작은 동물을 포식하거든요."
-13,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_000_021","이번에 처치해서 표본을 채취해 줬으면 하는 건
-게노모스 중에서도 특히나 크게 성장한 '풀현인'…….
-설치류 같은 거론 식욕을 충족하지 못하는 녀석이죠."
-14,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_000_022","방심했다간 당신도 잡아먹힐 수 있을걸요?
-설마 농담이라고 생각하셨나요?
-그렇다면 왜 '풀현인'이란 이름으로 불리는지 한번 생각해 보세요."
-15,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_000_030","라비린토스는 천연 지하 동굴을 이용해 구축했습니다만
-건설 시에 대규모로 조성되었죠.
-그때 오래된 지층을 파다가 기묘한 씨앗이 발견됐답니다."
-16,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_000_031","수천 년이나 잠들어 있던 그 씨앗을
-비옥한 토양에 심어 물을 줬더니 놀랍게도 발아하더군요.
-연구자들은 그걸 보고 환호성을 질렀답니다."
-17,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_000_032","그런데 북해 전승에서 인용해 '훌드라'라고 명명한 그것이
-사람을 매료하는 마력이 깃든 노래를 불렀을 때 모두 후회했죠.
-자기 의지와는 상관없이 종일 춤을 추고 또 춰야 했거든요……."
-18,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_000_040","라비린토스 하층 속둘레에
-기후 조절의 핵심인 속성 증식로라는 시설이 있습니다만……
-이 시설에 장난을 친 트롤이 2마리 있었어요."
-19,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_000_041","어디서 어린 해룡을 잡아와서는
-속성 증식로 안으로 집어던졌답니다."
-20,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_000_042","그후 몇 주 후, 속성의 힘을 잔뜩 흡수해서
-터무니없이 거대한 몸과 난폭성을 얻게 된 존재가 기어나왔어요.
-네, 그게 바로 '스토르시에'입니다."
-21,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_000_050","북해 제도에 예부터 서식해 온 거대 야수 트롤은
-생태계 정점에 서는 포식자로서 이곳에 데리고 왔습니다.
-실제로 그들의 존재는 라비린토스의 환경에 매우 중요해요."
-22,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_000_051","그렇지만 사람을 공격하면 얘기가 달라지죠…….
-'부푸루'라고 불리는 무리의 대장은 늙으면서 지혜를 갖춘 데다
-나무껍질을 갑옷처럼 만들어 무장하는 수준까지 이르렀거든요."
-23,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_000_052","그래서 조달꾼 조합 쪽에
-트롤의 지성 연구에 필요한 자료 확보라는 명목으로
-토벌 의뢰가 들어온 거랍니다."
-24,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_000_053","문제는 그런 잔꾀를 부리는 존재를 어떻게 유인하느냐인데……
-날씨 맑을 때, 어린 개체가 즐겁게 노는 모습을 보여줘서
-방심하게 하는 방법을 써 보면 어떨까요?"
+0,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_000_001","畢竟迷津當中有著各種各樣的研究設施，<hex:02100103>對拾穗人發出的委託也是千奇百怪……<hex:02100103>光是整理委託就已經是一件令人費心的工作了。"
+1,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_000_002","你是拾穗人總會中精明能幹的拾穗人吧。<hex:02100103>如果對於迷津各部門發出的狩獵任務的委託有任何疑問，<hex:02100103>請儘管詢問。"
+2,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_Q1_000_000","想了解什麼？"
+3,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_A1_000_001","關於B級怪物：逃走的肉牛——哞哞"
+4,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_A1_000_002","關於B級怪物：暴食的草牆——草賢人"
+5,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_A1_000_003","關於A級怪物：魅惑的木精——胡睹"
+6,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_A1_000_004","關於A級怪物：釜煮的水蛇——斯圖希"
+7,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_A1_000_005","關於S級怪物：狡猾的凶漢——布弗魯"
+8,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_A1_000_006","取消"
+9,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_000_010","在迷津中也進行著畜產技術相關的研究。<hex:02100103>其中一種研究對象就是原產於太陽神草原的亞考牛……<hex:02100103>在當地則被稱呼為犏牛的牲畜。"
+10,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_000_011","本來我們正在餵養這種牛以便今後用於生產肉類，<hex:02100103>可其中有一頭本應該送去屠宰的牛在途中逃跑了。<hex:02100103>這頭牛便是哞哞。"
+11,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_000_012","你是不是覺得這個名字很奇怪？<hex:02100103>其實這本來是敖龍族的遊牧民呼喚牛時會用到的呼聲。<hex:02100103>參與採辦的拾穗人誤把這種呼聲當做是個體名稱了。"
+12,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_000_020","移動性的植物格諾莫斯雖然有著一副類似小草牆的可愛外表，<hex:02100103>但其實是肉食性的哦。<hex:02100103>經常會捕食想要躲藏在背陰處而靠近過來的小動物。"
+13,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_000_021","這回我希望你幫忙討伐並採集<hex:02100103>格諾莫斯中最能成長的草賢人的樣本。<hex:02100103>普通的老鼠之類的根本無法滿足它的食慾呢。"
+14,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_000_022","要是粗心大意的話，弄不好你也會被吃掉哦？<hex:02100103>啊，你是不是認為我在開玩笑？<hex:02100103>那我還是勸你想想它為什麼會被人稱為草賢人比較好。"
+15,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_000_030","迷津雖然是利用天然的地下空洞構建起來的，<hex:02100103>但其實在建設的時候也進行了大規模的人為改造。<hex:02100103>那時候從掘出的古代地層中發現了奇妙的種子。"
+16,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_000_031","我們將那顆有可能沉睡了數千年的種子埋在了沃土中並精心照料。<hex:02100103>令人驚訝的是它竟然發芽了，研究者們為此倍感高興。"
+17,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_000_032","可是當聽到那個根據北洋傳說命名為胡睹的植物<hex:02100103>發出含有魅惑魔力的歌聲時，大家都後悔了。<hex:02100103>大家在那歌聲的驅使下不情願地跳了一整天舞……"
+18,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_000_040","迷津下層的內環那裡有用於調整氣候的屬性增殖爐，<hex:02100103>之前有2隻巨怪就對著屬性增殖爐做了惡作劇。"
+19,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_000_041","不知道它們從哪裡抓來了大海蛇的幼體，<hex:02100103>並將其扔進了屬性增殖爐裡。"
+20,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_000_042","之後經過了好幾周的時間，那個幼體吸夠了屬性之力，<hex:02100103>獲得了巨大的身軀並變得無比狂暴。<hex:02100103>沒錯，它就是斯圖希。"
+21,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_000_050","自古就棲息在北洋群島的巨怪是為了維持迷津的生態環境，<hex:02100103>使其作為生態系中的頂級捕食者而被引進過來的。<hex:02100103>它們對於迷津的環境起著重要的作用。"
+22,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_000_051","可它們要是開始襲擊人類的話，那就得另說了。<hex:02100103>一個被稱為布弗魯的族群之長在時間的累積下擁有了智慧，<hex:02100103>甚至用樹皮製作出了類似鎧甲的武裝。"
+23,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_000_052","為此，我們以研究巨怪智力需要樣本的名義，<hex:02100103>對拾穗人總會發出了討伐委託。"
+24,"TEXT_CTSHNT60RISKYMOBLABYRINTHOS_00761_EDITHE_000_053","問題是要如何引誘出那個會使小聰明的生物。<hex:02100103>比如讓它看到幼體在外面開心地玩耍，<hex:02100103>誘使它喪失警覺怎麼樣？"

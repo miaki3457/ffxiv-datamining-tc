@@ -1,10 +1,8 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_BANPIX108_03696_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-※ 이 퀘스트는 수락 시점의 직업으로만 진행할 수 있습니다.
-
-리다 란에 있는 윈 니에게는 꿈이 있는 듯하다."
+0,"TEXT_BANPIX108_03696_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整（限定職業）<hex:0249020103><hex:0248020103><hex:02100103>※本任務需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>群花館的烏因·尼伊有一個願望。"
 1,"TEXT_BANPIX108_03696_SEQ_01",""
 2,"TEXT_BANPIX108_03696_SEQ_02",""
 3,"TEXT_BANPIX108_03696_SEQ_03",""
@@ -28,8 +26,8 @@ int32,str,str
 21,"TEXT_BANPIX108_03696_SEQ_21",""
 22,"TEXT_BANPIX108_03696_SEQ_22",""
 23,"TEXT_BANPIX108_03696_SEQ_23",""
-24,"TEXT_BANPIX108_03696_TODO_00","리예 기아 성 부근에서 <Sheet(EventItem,2002931,0)/> 입수"
-25,"TEXT_BANPIX108_03696_TODO_01","윈 니에게 <Sheet(EventItem,2002931,0)/> 전달"
+24,"TEXT_BANPIX108_03696_TODO_00","獲取夢羽城附近的<hex:022811FF0A>EventItem<hex:F61E8FF30103>"
+25,"TEXT_BANPIX108_03696_TODO_01","將<hex:022811FF0A>EventItem<hex:F61E8FF30103>交給烏因·尼伊"
 26,"TEXT_BANPIX108_03696_TODO_02",""
 27,"TEXT_BANPIX108_03696_TODO_03",""
 28,"TEXT_BANPIX108_03696_TODO_04",""
@@ -52,19 +50,9 @@ int32,str,str
 45,"TEXT_BANPIX108_03696_TODO_21",""
 46,"TEXT_BANPIX108_03696_TODO_22",""
 47,"TEXT_BANPIX108_03696_TODO_23",""
-48,"TEXT_BANPIX108_03696_UINNEE_000_000","<Highlight>ObjectParameter(1)</Highlight>, 리예 기아 성 주변에
-둥실둥실 솜풀이 떠다니는 걸 알고 있어?
-바람에 날려 오르내리며 빙글빙글 돌기도 하는 풀 말이야."
-49,"TEXT_BANPIX108_03696_UINNEE_000_001","나 말이야, 그 솜풀을 꿈속에서도
-공중에 많이 띄워보고 싶어!
-틀림없이 보기만 해도 즐거울 거야!"
-50,"TEXT_BANPIX108_03696_UINNEE_000_002","그래서 부탁이 있는데, 주변에 자라고 있는
-'<Sheet(EventItem,2002931,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8FF30103FF04EBA5BCFF04EC9D84</13> 꺾어다 주지 않을래?
-꺾을 때에는 찌그러지지 않도록 사~알살 조심스럽게 해야 돼!"
-51,"TEXT_BANPIX108_03696_UINNEE_000_010","'<Sheet(EventItem,2002931,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8FF30103FF04EB8A94FF04EC9D80</13> 무사히 구했어?"
-52,"TEXT_BANPIX108_03696_UINNEE_000_011","맞아, 이거야! 수고했어!
-지금은 아직 모종이지만, 아주 잘 자란 솜털의 솜은
-양털처럼 푹신푹신해서 정말 기분 좋다니까♪"
-53,"TEXT_BANPIX108_03696_UINNEE_000_012","날개로 나는 기분도 좋지만 이걸 타고
-꿈 세계에서 느긋하게 떠다니는 것도 분명 신날 거야!
-정말 고마워!"
+48,"TEXT_BANPIX108_03696_UINNEE_000_000","<hex:022903EB0203>，你知道嗎？<hex:02100103>在夢羽城周圍，有一種輕飄飄地浮在空中的草。<hex:02100103>有風吹過時，那些草就會上下襬動，或是旋轉起舞。"
+49,"TEXT_BANPIX108_03696_UINNEE_000_001","我希望在夢裡，也能有那種草浮在空中。<hex:02100103>我敢肯定，光是看著它們，心情就能變得輕鬆愉悅！"
+50,"TEXT_BANPIX108_03696_UINNEE_000_002","因此我想要拜託你，<hex:02100103>能否採集一些<hex:022811FF0A>EventItem<hex:F61E8FF30103>來呢？<hex:02100103>它們十分脆弱，所以採集的時候一定要小心一些哦！"
+51,"TEXT_BANPIX108_03696_UINNEE_000_010","成功採到<hex:022811FF0A>EventItem<hex:F61E8FF30103>了嗎？"
+52,"TEXT_BANPIX108_03696_UINNEE_000_011","就是這個，辛苦你了！<hex:02100103>雖然現在還只是幼苗，但等它們長大之後，<hex:02100103>絨毛就會變得像羊毛一樣柔軟，摸起來非常舒服呢！"
+53,"TEXT_BANPIX108_03696_UINNEE_000_012","雖然用翅膀飛行也不錯，但坐在浮草上，<hex:02100103>在夢世界裡慢悠悠地飄著，肯定另有一番風趣！<hex:02100103>謝謝你！"

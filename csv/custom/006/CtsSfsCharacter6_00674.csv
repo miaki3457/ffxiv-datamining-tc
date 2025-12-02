@@ -1,501 +1,218 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_CTSSFSCHARACTER6_00674_GREETING_EHLLTOU_000_000","영웅! 와줘서 고마워!
-드래곤용 채집 도구 준비를 도와줄 꺼야?"
-1,"TEXT_CTSSFSCHARACTER6_00674_GREETING_EHLLTOU_000_001","영웅, 또 와줬꾸나!
-드래곤용 재봉 용품을 준비해 준 거야?"
-2,"TEXT_CTSSFSCHARACTER6_00674_GREETING_EHLLTOU_000_002","영웅!
-나도 다룰 수 있는 드래곤용 장인 도구 준비를 도와줄 꺼야?"
-3,"TEXT_CTSSFSCHARACTER6_00674_GREETING_EHLLTOU_000_003","영웅! 기다리고 있었쪄!
-모두가 깜짝 놀랄 만한
-드래곤 진수성찬 필수품 준비를 도와줘!"
-4,"TEXT_CTSSFSCHARACTER6_00674_GREETING_EHLLTOU_000_004","영웅, 마침 잘 왔쪄!
-지금, 창천 거리에 온 용들에게
-재미있는 일을 잔뜩 알려주고 있쪄!"
-5,"TEXT_CTSSFSCHARACTER6_00674_TOPMENU_000_000","무엇을 하시겠습니까?"
-6,"TEXT_CTSSFSCHARACTER6_00674_TOPMENU_000_001","의뢰물 건네주기(<Sheet(ENpcResident,IntegerParameter(1),0)/>: 남은 횟수 <Value>IntegerParameter(2)</Value>회)"
-7,"TEXT_CTSSFSCHARACTER6_00674_TOPMENU_000_002","'단골 거래'에 대해 물어보기"
-8,"TEXT_CTSSFSCHARACTER6_00674_TOPMENU_000_003","취소"
-9,"TEXT_CTSSFSCHARACTER6_00674_GUIDEMENU_000_000","무엇을 물어보시겠습니까?"
-10,"TEXT_CTSSFSCHARACTER6_00674_GUIDEMENU_001_000","엘 투의 신뢰도에 대하여"
-11,"TEXT_CTSSFSCHARACTER6_00674_GUIDEMENU_007_000","납품 조건과 보상에 대해서"
-12,"TEXT_CTSSFSCHARACTER6_00674_GUIDEMENU_002_000","의뢰물 입수 방법"
-13,"TEXT_CTSSFSCHARACTER6_00674_GUIDEMENU_003_000","제작 재료 입수 방법"
-14,"TEXT_CTSSFSCHARACTER6_00674_GUIDEMENU_004_000","제작 소장품의 가치를 올리는 방법"
-15,"TEXT_CTSSFSCHARACTER6_00674_GUIDEMENU_005_000","채집 소장품의 가치를 올리는 방법(광부 및 원예가)"
-16,"TEXT_CTSSFSCHARACTER6_00674_GUIDEMENU_006_000","채집 소장품의 가치를 올리는 방법(어부)"
-17,"TEXT_CTSSFSCHARACTER6_00674_GUIDEMENU_CANCEL","취소"
-18,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_001_000","의뢰물을 납품하면
-<Sheet(ENpcResident,IntegerParameter(1),0)/>의 당신에 대한 신뢰도가
-조금씩 상승합니다."
-19,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_001_001","현재 신뢰도는 의뢰물 목록 상단에 표시되며
-최대치까지 차면 '신뢰 단계'가 상승합니다.
-신뢰 단계는 하트 수로 표시됩니다."
-20,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_001_002","신뢰 단계가 상승할 때마다
-<Sheet(ENpcResident,IntegerParameter(1),0)/>에 대한
-새로운 이야기를 볼 수 있습니다."
-21,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_007_000","납품은 아이템의 종류에 맞는 클래스가 된 상태에서
-해당 클래스 레벨이 70 이상일 때 가능합니다."
-22,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_007_001","납품 시 클래스 레벨이 99 이하인 경우는
-레벨 100이 되면 받을 수 있는 화폐 보상 대신
-경험치 보상을 얻을 수 있습니다."
-23,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_002_000","의뢰물 목록에 있는 아이템 획득 방법을 알아보려면
-세부 메뉴 또는 아이템 툴팁을 활용하십시오."
-24,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_002_001","제작 소장품은 의뢰 목록의 세부 메뉴에서
-'제작법 검색'을 선택하면
-제작수첩에서 제작법이 표시됩니다."
-25,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_002_002","광부 및 원예가의 채집 소장품은 의뢰 목록에서
-세부 메뉴 '채집 방법 검색'을 선택하면
-채집수첩에서 채집 장소가 표시됩니다."
-26,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_002_003","'어부'의 채집 소장품은 목록에서 세부 메뉴를 열어
-'획득 장소 표시'를 선택하면
-해당 물고기를 잡을 수 있는 낚시터 또는 어장이 표시됩니다."
-27,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_102_003","또한, 낚시를 할 때는
-미끼로 '<Sheet(Item,28634,0)/>' 사용을 추천합니다."
-28,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_002_004","<Sheet(ENpcResident,IntegerParameter(1),0)/>에게 납품할 수 있는 아이템은
-'제작자'와 '광부 및 원예가', '어부' 세 종류로 나뉘며,
-모두 '소장품'이어야 합니다."
-29,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_003_000","의뢰물 제작에 필요한 재료는
-이곳 창천 거리의 '새보금자리 거주구'에 있는
-'안나'에게서 구입할 수 있습니다."
-30,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_004_000","제작 물품의 '소장 가치'는
-제작 시에 '품질'을 높이면 상승합니다.
-최대한 품질을 높여서 완성시키는 것이 중요합니다."
-31,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_004_002","품질이 높아지는 기술에 성공하면
-자신에게 '정신 집중'이 부여됩니다."
-32,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_004_003","（★未使用／削除予定★）"
-33,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_004_004","최대한 수많은 정신 집중을 축적해 놓고
-마지막에 '비레고의 축복' 등으로
-단숨에 품질을 올려 완성해 보세요."
-34,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_004_005","그 외에도 품질을 높이는 기술이 여럿 존재합니다.
-익숙해지면 다양하게 시도하여 자기만의 제작법을 찾아봅시다."
-35,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_005_000","소장품 채집 아이템을 선택하면 특수 창이 표시됩니다.
-소장품 채집용 기술을 사용해
-'소장 가치'를 올린 다음 아이템을 채집합니다."
-36,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_005_001","'광부'와 '원예가'로 소장 가치를 올리려면
-기술 '집중 검사'를 사용한 다음 '순화'를 사용합니다.
-이를 반복하여 소장품을 채집해보세요."
-37,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_005_002","소장 가치를 더 높이고 싶은 경우에는
-장비를 갖추고 '획득력'과 '기술력'을 높여보세요.
-소장품 채집용 기술의 효과가 높아집니다."
-38,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_005_003","'GP'가 부족하다면 장비를 갖추고
-'최대 GP'를 높여보세요."
-39,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_006_000","수산물은 낚은 '물고기의 크기'가
-그대로 '소장 가치'가 됩니다."
-40,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_006_001","소장품 목록에 있는 물고기가 낚이는 낚시터로 가서
-기술 '소장품 채집'을 사용하고 낚시를 시작하세요."
-41,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_006_002","기술 '인내 2'를 사용한 뒤
-적절한 낚아채기 기술을 사용하면
-큰 물고기를 낚을 수 있습니다."
-42,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_006_003","크기가 생각만큼 크지 않을 때에는 '기술력'이 올라가는
-장비를 갖추어 봅시다."
-43,"TEXT_CTSSFSCHARACTER6_00674_TUTORIAL_000_000","<Sheet(ENpcResident,IntegerParameter(1),0)/>에게 납품할 수 있는 아이템은
-'제작자'와 '광부 및 원예가', '어부' 세 종류로 나뉘며,
-모두 '소장품'이어야 합니다."
-44,"TEXT_CTSSFSCHARACTER6_00674_TUTORIAL_000_008","납품은 아이템의 종류에 맞는 클래스가 된 상태에서
-해당 클래스 레벨이 70 이상일 때 가능합니다."
-45,"TEXT_CTSSFSCHARACTER6_00674_TUTORIAL_000_009","납품 시 클래스 레벨이 99 이하인 경우는
-레벨 100이 되면 받을 수 있는 화폐 보상 대신
-경험치 보상을 얻을 수 있습니다."
-46,"TEXT_CTSSFSCHARACTER6_00674_TUTORIAL_000_001","각 소장품의 입수 방법은
-다음과 같이 확인하실 수 있습니다."
-47,"TEXT_CTSSFSCHARACTER6_00674_TUTORIAL_000_002","제작 소장품은 의뢰 목록의 세부 메뉴에서
-'제작법 검색'을 선택하면
-제작수첩에서 제작법이 표시됩니다."
-48,"TEXT_CTSSFSCHARACTER6_00674_TUTORIAL_000_003","의뢰물 제작에 필요한 재료는
-이곳 창천 거리의 '새보금자리 거주구'에 있는
-'안나'에게서 구입할 수 있습니다."
-49,"TEXT_CTSSFSCHARACTER6_00674_TUTORIAL_000_004","광부 및 원예가의 채집 소장품은 의뢰 목록에서
-세부 메뉴 '채집 방법 검색'을 선택하면
-채집수첩에서 채집 장소가 표시됩니다."
-50,"TEXT_CTSSFSCHARACTER6_00674_TUTORIAL_000_005","'어부'의 채집 소장품은 목록에서 세부 메뉴를 열어
-'획득 장소 표시'를 선택하면
-해당 물고기를 잡을 수 있는 낚시터 또는 어장이 표시됩니다."
-51,"TEXT_CTSSFSCHARACTER6_00674_TUTORIAL_100_005","또한, 낚시를 할 때는
-미끼로 '<Sheet(Item,28634,0)/>' 사용을 추천합니다."
-52,"TEXT_CTSSFSCHARACTER6_00674_TUTORIAL_000_006","'소장 가치'가 높을수록
-납품 시에 더 많은 보상을 받을 수 있습니다."
-53,"TEXT_CTSSFSCHARACTER6_00674_TUTORIAL_000_007","소장 가치를 올리는 방법이 궁금하면
-<Sheet(ENpcResident,IntegerParameter(1),0)/>에게 말을 걸어
-'단골 거래에 대해 물어보기'를 선택하세요."
-54,"TEXT_CTSSFSCHARACTER6_00674_TUTORIAL_001_000","의뢰물을 납품함으로써
-<Sheet(ENpcResident,IntegerParameter(1),0)/><13>FF16022812FF0D454E70635265736964656E74E8020103FF04EAB080FF04EC9DB4</13> 당신을 신뢰하게 되었습니다."
-55,"TEXT_CTSSFSCHARACTER6_00674_TUTORIAL_001_001","납품 시마다 쌓이는 '신뢰도'가 최대치에 도달하면
-'신뢰 단계'가 상승하며, <Sheet(ENpcResident,IntegerParameter(1),0)/>의
-새로운 이야기를 볼 수 있습니다."
-56,"TEXT_CTSSFSCHARACTER6_00674_TUTORIAL_001_002","납품은 일주일에 최대 6번까지 가능합니다.
-적극적으로 소장품을 납품하여 신뢰도를 올리세요!"
-57,"TEXT_CTSSFSCHARACTER6_00674_WEEKLYLIMIT_000_000","이번 주에는 더 납품할 수 없습니다.
-현실 시간으로 매주 <ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시부터
-다시 납품할 수 있습니다."
-58,"TEXT_CTSSFSCHARACTER6_00674_KNOWLEDGE_EHLLTOU_001_000","이게 '채집'을 할 때 쓰는 도구가 되다니, 신기해!
-이렇게 재료와 부품을 몇 개 모아서 물건을 제작한다……
-용에게는 없는 낭만이야!!"
-59,"TEXT_CTSSFSCHARACTER6_00674_KNOWLEDGE_EHLLTOU_001_001","용은 딱딱한 비늘로 뒤덮여 있쓰니까
-손가락이 바늘에 찔릴 위험이 없따고, 아르비데 스승님이 말했쪄!
-손재주는 필요하지만 재봉은 용한테 잘 맞는 제작 같찌 않아?"
-60,"TEXT_CTSSFSCHARACTER6_00674_KNOWLEDGE_EHLLTOU_001_002","이게 맛있는 밥을 '제작'하는
-멋찐 도구가 된다고 했찌?
-소중하게 소중하게 다뤄야겠쪄……!"
-61,"TEXT_CTSSFSCHARACTER6_00674_KNOWLEDGE_EHLLTOU_001_003","흐흐흥, 흐흐흥!
-이게 진수성찬이 되다니, 정말 기대된다!
-앗, 몰래 집어먹지 않을 꺼라니까!?"
-62,"TEXT_CTSSFSCHARACTER6_00674_KNOWLEDGE_EHLLTOU_001_004","인간은 대단해.
-이렇게 만든 도구와 종이와 문자로
-자기가 그 자리에 없어도 이야기를 전할 수 있짜나!"
-63,"TEXT_CTSSFSCHARACTER6_00674_KNOWLEDGE_EHLLTOU_002_000","이게 채집 도구 재료가 되는 거구나!
-그럼, 지금 영웅이 가지고 있는 건
-채집 도구를 만들기 위한 재료를 채집하기 위한 도구야?"
-64,"TEXT_CTSSFSCHARACTER6_00674_KNOWLEDGE_EHLLTOU_002_001","재봉 재료는 정말로 신기해.
-풀로 실을 만들고, 실로 옷감을 만들고, 그 옷감을 실로 꿰매고……
-듣기만 해도 멍해질 것 같은 작업이야."
-65,"TEXT_CTSSFSCHARACTER6_00674_KNOWLEDGE_EHLLTOU_002_002","나 같은 아기 용도 다룰 수 있는 조리도구를 만들려면
-가볍고 작게 가공할 수 있는 재료가 필요해.
-영웅이 가져다 줘서 정말로 다행이야!"
-66,"TEXT_CTSSFSCHARACTER6_00674_KNOWLEDGE_EHLLTOU_002_003","이런 재료를 몇 개씩 모아서
-맛있는 밥을 '제작'하다니……
-인간은 대단해! 부럽따!"
-67,"TEXT_CTSSFSCHARACTER6_00674_KNOWLEDGE_EHLLTOU_002_004","그림책 소재 고마워!
-소재가 마니 있으면, 그림책을 마니 만들어서
-마는 용과 인간에게 용시를 전해줄 수 있쪄!"
-68,"TEXT_CTSSFSCHARACTER6_00674_KNOWLEDGE_EHLLTOU_003_000","이게 채집 도구의 재료가 되는 거구나!
-껍데기가 이렇게 울퉁불퉁하면
-조개로도 바위를 부술 수 있겠쪄!"
-69,"TEXT_CTSSFSCHARACTER6_00674_KNOWLEDGE_EHLLTOU_003_001","이 물고기 뼈로 바늘을 만든다고
-아르비데 선생님이 가르쳐줬쪄.
-쓸 수 있는 건 뭐든지 쓰다니, 인간은 참 억척스럽꾸나! "
-70,"TEXT_CTSSFSCHARACTER6_00674_KNOWLEDGE_EHLLTOU_003_002","물속에서 자라는 이 풀은 좋은 조미료가 되는 모양이야.
-맛의 근원인 '감칠맛'이 가득하다고
-아르비데 선생님이 가르쳐줬쪄!"
-71,"TEXT_CTSSFSCHARACTER6_00674_KNOWLEDGE_EHLLTOU_003_003","용은 간이 된 음식이 익숙하지 않으니까
-오들롱의 말대로 담백한 물고기가 조아.
-나도 이 물고기를 정말 조아해!"
-72,"TEXT_CTSSFSCHARACTER6_00674_KNOWLEDGE_EHLLTOU_003_004","이 조개를 안료로 사용해서 그림책을 만드는 거구나!
-나도 오들롱이 생각한 용시가
-이렇게 모양을 갖춰가는 게 정말로 기뻐!"
-73,"TEXT_CTSSFSCHARACTER6_00674_JUDGEMENT_EHLLTOU_000_000","그럼 영웅이 준비한 물건을 보여줘.
-……이게 바로 튼튼하고 조은 물건이라는 거지?
-분명 아르비데 선생님도 인정해 줄 꺼야!"
-74,"TEXT_CTSSFSCHARACTER6_00674_JUDGEMENT_EHLLTOU_000_001","그럼 영웅이 준비한 물건을 보여줘.
-……나도 알 수 있을 정도로 훌륭한 물건이야!
-분명 아르비데 선생님도 감동할 꺼야!"
-75,"TEXT_CTSSFSCHARACTER6_00674_JUDGEMENT_EHLLTOU_000_002","그럼 영웅이 준비한 물건을 보여줘.
-……우와, 홀딱 반할 정도의 명품을 준비했꾸나!
-분명 아르비데 선생님도 울면서 기뻐할 꺼야!"
-76,"TEXT_CTSSFSCHARACTER6_00674_JUDGEMENT_EHLLTOU_000_003","그럼 영웅이 준비한 물건을 보여줘.
-……이 멋찐 물건이 용들의 진수성찬이 된다는 거지?
-두근두근해!"
-77,"TEXT_CTSSFSCHARACTER6_00674_JUDGEMENT_EHLLTOU_000_004","그럼 영웅이 준비한 물건을 보여줘.
-……흠흠, 정말로 멋찐 물건이야!
-이걸로 그림책을 만들다니 꿈만 같아!"
-78,"TEXT_CTSSFSCHARACTER6_00674_FULLBAG_000_000","소지품에 공간이 부족하여
-신뢰도 상승 보상을 받을 수 없습니다."
-79,"TEXT_CTSSFSCHARACTER6_00674_FULLBAG_000_001","소지품을 정리한 뒤,
-<Sheet(ENpcResident,IntegerParameter(1),0)/>에게 다시 말을 거십시오."
-80,"TEXT_CTSSFSCHARACTER6_00674_BEFRANKUP_EHLLTOU_000_000","영웅! 많이 납품해줘서 고마워!
-'채집' 공부를 하기 위한 양은 충분히 모았쯔니까
-아르비데 선생님을 불러오께!"
-81,"TEXT_CTSSFSCHARACTER6_00674_BEFRANKUP_EHLLTOU_001_000","영웅! 많이 납품해줘서 고마워!
-나 이걸로 '재봉'을 해볼래!
-지켜봐 줄 꺼지?"
-82,"TEXT_CTSSFSCHARACTER6_00674_BEFRANKUP_EHLLTOU_002_000","영웅! 많이 납품해줘서 고마워!
-이걸로 더 멋있게 먹기 위한 도구를 만드는 거지?
-그럼 어서 아르비데 선생님을 불러와야겠따!"
-83,"TEXT_CTSSFSCHARACTER6_00674_BEFRANKUP_EHLLTOU_003_000","영웅! 많이 납품해줘서 고마워!
-이거라면 진수성찬을 마니마니 만들 수 있겠쪄!
-나도 도울께!"
-84,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_001_000","안녕, 영웅님!
-꼬맹이를 도와줘서 고마워!"
-85,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_001_001","마자 마자!
-제작의 뿌리가 되는 '채집' 공부,
-영웅 덕분에 꽤 마니 배웠쪄!"
-86,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_001_002","제작하기 위한 도구를 만들기 위해
-재료를 채집하기 위한 도구를 만들고 재료를 채집해서
-그 재료로 도구를 만들어 제작해서…………?"
-87,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_001_003","으앙! 머리가 복잡해!
-용이 먼저냐 알이 먼저냐, 잖아!"
-88,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_001_004","하지만 그건 즉……
-제작과 채집은 떼려야 뗄 수 없는 관계라는 말이죠?"
-89,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_001_005","그래 맞아, 똑똑하구나.
-서로 협력하는 관계라고 할 수 있겠지.
-둘 다 할 수 있는 건 팔방미인이야."
-90,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_001_006","맞다, 너에게 받은 재료로 특별 주문품을 만들었어.
-엘 투도 들 수 있도록 고안한
-아기 용에게 딱 맞는 크기의 곡괭이다!"
-91,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_001_007","자, 엘 투.
-어서 들어 봐."
-92,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_001_008","우와, 씬난다!"
-93,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_001_009","잘 어울려, 엘 투!
-굉장해! 인간의 도구를 들고 있는 드래곤이라니
-처음 봤어!"
-94,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_001_010","흐흥, 이게 인간에게는 발톱 같은 거구나!
-인간의 부드러운 손으로도 쉽게 바위를 깎아낼 수 있는
-획기적인 도구야!"
-95,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_001_011","게다가 튼튼한데도 가볍고 작아서……
-나 같은 아기 용도 쉽게 들고 다닐 수 있겠쪄!
-단단한 바위를 부수느라 고생하는 작은 동료에게도 딱이야!"
-96,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_001_012","흐흥! 흐흥!
-정말로 멋찌다!!"
-97,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_001_013","아, 영웅님께서 재료를 많이 납품해주신 덕분에
-여분이 좀 있어.
-꼬맹아, '친구들'한테도 갖다주지 그러니?"
-98,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_001_014","응, 그렇게 할께!
-그럼, 다녀오겠쯥니다!!"
-99,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_002_000","안녕, 영웅님.
-드래곤용 재봉 용품 준비를 도와줘서 고마워.
-부족한 물건은 내가 준비했어."
-100,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_002_001","자, 꼬맹아.
-도구를 다 마련했으니까 당장 재봉을 해보자."
-101,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_002","응!
-영웅, 아르비데 선생님,
-친절하게 가르쳐줘!"
-102,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_002_003","힘내, 엘 투!"
-103,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_004","됐따!
-후후후, 귀엽찌!!
-아르비데 선생님의 모자를 참고로 했쪄!"
-104,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_002_005","오오, 꽤 잘 만들었잖아!
-처음 만든 물건 같지 않아."
-105,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_002_006","굉장해, 엘 투!
-자기 손으로 직접 '제작'하는 드래곤이라니
-혹시 드래곤 사상 최초 아니야……?"
-106,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_007","꼼지락꼼지락 작업하려니 눈이 뱅글뱅글 돌지만
-완성했을 때의 달성감이 짜릿해!
-이게 '제작'하는 즐거움이구나!"
-107,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_008","이 즐거움을 꼭 다른 용들도 알게 되었으면 좋겠쪄!
-새로운 걸 좋아하는 용이라면 분명 푹 빠질 꺼야!"
-108,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_009","그러니까 난 지금부터 드라바니아 구름바다로 가서
-이 모습을 용들에게 보여주고 올께!
-흥미를 갖는 용이 있을지도 모르니까!"
-109,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_002_010","응, 조심해서 다녀와!"
-110,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_003_000","자, 영웅님이 납품해준 물건으로
-요리도구를 만들어 봤어.
-엘 투, 들어봐."
-111,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_003_001","우와, 두 개나!
-고마워!"
-112,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_003_002","요리할 때 꼭 필요한 주물 프라이팬과
-식재료를 조달할 때 빠질 수 없는 손도끼야.
-소중히 사용해야 해."
-113,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_003_003","그외에도 그릇이나 조미료 같은 것들을 준비했어.
-이것으로 모든 준비가 끝났다."
-114,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_003_004","이제 나도 '요리'를 할 수 있게 됐쪄!
-그럼 어서 용들이 흥미를 가질 만한 요리를……."
-115,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_003_005","어이쿠, 꼬맹아. 서두르지 마.
-요리는 기초가 중요한 제작이니까
-제대로 특훈해야 해."
-116,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_003_006","흐흥, 조아!
-제작 연습, 나 정말 조아해!"
-117,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_003_007","그럼 안나 씨한테 가서
-자작나무 수액을 준비해 달라고 하자.
-수액에서 시럽을 정제하는 게 요리사의 기초야."
-118,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_003_008","이 나라의 높으신 분들도 좋아하는 시럽이야.
-잘 만들면 오들롱과 나눠 먹어도 돼."
-119,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_003_009","저……
-영웅님도 역시 엘 투처럼
-기초부터 차근차근 특훈했어요……?"
-120,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_003_010","그렇구나……!
-다행이다, 영웅님도 그랬군요.
-엘 투와 저처럼."
-121,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_003_011","저도 엘 투와 많은 이야기를 나누며 알게 된 드래곤의 생태를
-조금씩 차근차근 적고 있어요.
-언젠가 책으로 엮으면 좋겠다고 생각하면서……!"
-122,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_004_000","안녕, 영웅님.
-드래곤 진수성찬 필수품을 마련해줘서 고마워."
-123,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_004_001","제왕빵에 네가 준 것과 내가 준비한 재료를 끼워넣어
-샌드위치를 만들었어!"
-124,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_004_002","자, 따끈따끈한 샌드위치를 드래곤들에게 갖다 줘."
-125,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_004_003","…………."
-126,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_004_004","이봐, 꼬맹아?
-왜 그래?"
-127,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_004_005","…………앗!"
-128,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_004_006","아니, 아무것도 아니야!
-샌드위치, 빨리 갖다줘야겠따!"
-129,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_001_100","어서 와, 엘 투!
-다른 용들의 반응은 어땠어?"
-130,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_001_101","그게 말이지…… 완전 실패였쪄……."
-131,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_001_102","아기 용들은 받아줬찌만……
-어른 용들은 '도구를 사용하다니 본래의 삶의 방식을 거스른다'며
-화를 냈쪄."
-132,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_001_103","너무해…………."
-133,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_001_104","하지만…………
-새로운 시대가 다가오는데 사고 방식을 바꾸지 않으면
-뒤처지게 될 뿐이야!"
-134,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_001_105","샌드위치를 받아준 아기 용 중에는
-분명 나와 같은 생각을 하는 용도 있을 꺼야!
-그러니까 난 포기하지 않겠쪄!"
-135,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_001_106","그래 맞아, 쉽게 포기하면 안 돼!"
-136,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_001_107","그럼 이번에는 드래곤의 눈길을 끌 만한 것을
-마련해보면 어떨까?"
-137,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_001_108","좋은 생각이야!
-그리고 나도 '제작'을 해 보고 싶어!
-직접 만들어야 매력을 충분히 전할 수 있짜나!"
-138,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_001_109","그렇지, 그렇다면……"
-139,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_001_110","재료와 도구가 가벼워서 꼬맹이도 들 수 있는
-'재봉'을 해보는 건 어때?
-옷은 눈에 띄기도 하잖니."
-140,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_001_111","응응, 해 볼께!"
-141,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_001_112","그럼 영웅님은
-'드래곤용 재봉 용품' 조달을 도와주지 않겠어?
-부족한 물건은 내가 준비할게."
-142,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_001_113","잘 부탁해!"
-143,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_002_100","어서 와, 꼬맹아.
-그 모자와 스카프는 반응이 어땠어?"
-144,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_101","내가 직접 만들었다니까
-또래의 아기 용들은 흥미를 보였쪄!
-""붙였다 뗄 수 있는 볏이라니 멋지다!""라고 말해주던걸."
-145,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_102","그래서 창천 거리로 놀러오라고 했는데……
-인간이 많은 곳에 가는 건 무섭다고
-거절당했쪄."
-146,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_103","우리처럼 연약한 아기 용은
-영웅처럼 강한 인간에게 걸리면 너덜너덜해지거든.
-무서운 마음은 알아."
-147,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_Q1_002_000","뭐라고 말씀하시겠습니까?"
-148,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_A1_002_001","무섭지 않아"
-149,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_A1_002_002","무서워해서만은 앞으로 나아갈 수 없어"
-150,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_A1_002_003","엘 투도 무서워?"
-151,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_104","그럼, 그럼, 물론이지!
-영웅이 무섭찌 않은 건 알아!
-하지만 다른 용은 잘 모르니까……."
-152,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_105","그야 나도…… 그렇게 생각하지만……."
-153,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_106","아니, 아니!
-나는 영웅도 오들롱도 아르비데 선생님도
-재미있고 착한 인간이라는 걸 알고 있찌만……."
-154,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_002_107","그럼 그런 불안도 날려버릴 정도로……
-이곳 인간은 무섭지 않고 제작은 즐겁다는 걸
-꼬맹이가 알려주면 되겠네."
-155,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_108","…………!
-그렇네, 그렇네!
-내가 어울리지도 않게 풀이 죽었었쪄!"
-156,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_109","그렇다면 모자나 스카프보다는
-용이 더 흥미를 가질 만한 '제작'을
-소개하면 되겠따!"
-157,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_002_110","드래곤이 흥미를 가질 만한 '제작'이라니……?"
-158,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_111","흐흥!
-나 알아……."
-159,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_112","인간이 언제나 음식까지 '제작'하는 걸!"
-160,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_113","근처를 지나가다가
-음식들이 잔뜩 섞인, 복잡하고도 매력적인 냄새……
-나 놀랐따니까!"
-161,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_114","（★未使用／削除予定★）"
-162,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_002_114","'요리'를 말하는 거지?
-분명 그거라면 드래곤들의 흥미를 끌 수 있겠어……!
-식사는 드래곤에게도 중요한 일이니까!"
-163,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_002_115","그렇게 정했으면
-나와 영웅님이 요리 도구를 만들어야겠군.
-영웅님 '드래곤용 장인 도구 부재'를 준비해주겠어?"
-164,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_002_116","그럼 저와 엘 투는
-용도 먹을 만한 걸 알아볼게요!"
-165,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_117","우리한테 맡껴!"
-166,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_003_100","오들롱! 내 말 좀 들어봐!
-지금까지 먹어본 어떤 나무열매보다도 달달한
-자작나무 시럽을 만들었쪄!"
-167,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_003_101","우와, 굉장해!
-엘 투 대단하다!"
-168,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_003_102","그래그래, 시럽은 나중에 천천히 음미해.
-하지만 항아리에 손을 넣거나 머리를 집어넣어서 핥는
-품위없는 짓을 하면 안 된다?"
-169,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_003_103","자, 오들롱.
-드래곤이 좋아할 만한 먹을거리를 알아봤니?"
-170,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_003_104","네, 제왕 샌드위치 같은 게 좋을 것 같아요.
-엘 투 같은 아기 용이라면 손에 쥐고 먹을 수도 있고
-빵만 먹는 것보다는 포만감이 드니까요……!"
-171,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_003_105","하지만 드래곤은 향신료에 익숙하지 않으니까
-다진 고기는 조금 역할지도……."
-172,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_003_106","그래서 더 담백한 물고기와 제왕빵을 사용한
-맛있는 샌드위치를 만들면 어떨까 싶어요!"
-173,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_003_107","그래, 좋은 생각이다. 오들롱.
-기특하네."
-174,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_003_108","그럼, 그걸로 하자.
-어서 재료를 모아야겠어."
-175,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_003_109","그럼, 영웅!
-드래곤 진수성찬 필수품 모으는 거 잘 부탁해!"
-176,"TEXT_CTSSFSCHARACTER6_00674_RANKUPINFO_000_000","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
-당신을 '제작도 잘하는 영웅'이라고 여기게 되었습니다!"
-177,"TEXT_CTSSFSCHARACTER6_00674_RANKUPINFO_000_001","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
-당신을 '제작 선생님'이라고 여기게 되었습니다!"
-178,"TEXT_CTSSFSCHARACTER6_00674_RANKUPINFO_000_002","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
-당신을 '제작 감독'이라고 여기게 되었습니다!"
-179,"TEXT_CTSSFSCHARACTER6_00674_RANKUPINFO_000_003","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
-당신을 '제작의 은사'라고 여기게 되었습니다!"
-180,"TEXT_CTSSFSCHARACTER6_00674_RANKUPINFO_001_001","<Sheet(ENpcResident,IntegerParameter(1),0)/><13>FF16022812FF0D454E70635265736964656E74E8020103FF04EB8A94FF04EC9D80</13>
-'제작'에 대해 더 깊게 배운 듯합니다.
-돌아오거든 어떤 성과를 거두었는지 물어봅시다."
-181,"TEXT_CTSSFSCHARACTER6_00674_RANKUPINFO_001_002","<Sheet(ENpcResident,IntegerParameter(1),0)/><13>FF16022812FF0D454E70635265736964656E74E8020103FF04EB8A94FF04EC9D80</13>
-당신에게 새로운 의뢰를 부탁하고 싶은 듯합니다."
-182,"TEXT_CTSSFSCHARACTER6_00674_AFTRANKUP_000_001","새로운 의뢰를 받아 납품 목록이 갱신되었습니다.
-<Sheet(ENpcResident,IntegerParameter(1),0)/>에게 말을 건 후
-'의뢰물 건네주기'를 선택해 확인하세요."
-183,"TEXT_CTSSFSCHARACTER6_00674_AFTRANKUP_001_001","단골 거래 이야기 퀘스트를 진행할 수 있게 되었습니다.
-'성 로엘 광장'의 '엘 투'에게서 퀘스트를 받을 수 있습니다.
-퀘스트를 완료하면 납품 목록이 갱신됩니다."
-184,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_001_000","영웅!
-많이 납품해줘서 고마워!"
-185,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_001_001","덕분에 나
-'제작' 공부 많이 할 수 있었쪄!
-오들롱도 도와줬쪄!"
-186,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_002_000","영웅!
-이번 주에도 많이 납품해줘서 고마워!"
-187,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_002_001","용들은 아직 '제작'에 흥미가 없는 것 같찌만
-나 이제 기 죽지 않아!"
-188,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_002_002","왜냐면……
-이렇게 도와주는 영웅과 친구들이 있쯔니까!"
-189,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_003_000","영웅, 도와줘서 고마워!
-영웅에게 받은 물건을 다른 용들에게 줬더니
-제작과 인간에 흥미를 가지는 용이 늘어났쪄!"
-190,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_003_001","이렇게 용과 인간이 교류하다 보면
-새로운 용시가 써지겠찌."
-191,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_003_002","나와 오들롱이 한 일도
-어디까지나 새로운 용시를 쓰는 첫걸음에 지나지 않아!"
-192,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_003_003","앞으로도 많이 교류하고, 보고, 들어서
-멋진 용시를 써내려갈 테니
-영웅도 지켜봐줘!"
-193,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_004_000","영웅, 오늘도 도와줘서 고마워!"
-194,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_004_001","그러고 보니 아르비데 선생님이
-영웅의 솜씨를 늘 칭찬했쪄.
-사실은 영웅이 선생님에 더 어울린대."
-195,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_004_002","하지만 나
-영웅이 바쁜 거 아주 자알 알고 있쪄!"
-196,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_004_003","그래도 항상 도와주니까
-나도 오들롱도
-영웅이 정말 좋아!"
-197,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_HAUTDLONG_004_004","자, 잠깐 엘 투……!
-부끄러우니까 말하지 마……!"
-198,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_004_005","흐흥!
-인간은 말을 나누며 서로 이해하는 종족이니까
-좋을수록 말을 해야 하는 법이야!"
-199,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_005_000","영웅, 오늘도 도와줘서 고마워!"
-200,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_005_001","그림책 재료도 모이고 있쪄서
-우리끼리 조금씩 만들고 있쪄!"
-201,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_HAUTDLONG_005_002","드래곤에 대한 책을 만들고 싶다는 제 꿈이
-이렇게 빨리 이루어질 줄은 몰랐습니다!
-영웅님, 감사합니다!"
-202,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_005_003","잎으로도 그림책을 잔뜩 만들어서……
-많은 용과 인간, 어쩌면 또 다른 종에게도……
-우리의 용시를 알려줄 꺼야!"
-203,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_006_000","영웅, 항상 고마워!
-언제나 마니마니 도움을 받아서 정말 감사하고 있쪄."
-204,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_006_001","나 인간의 문화에 대해 많이 알게 되었꼬,
-인간 친구도 생겼꼬, 용도 창천 거리에 오게 되었쪄.
-내가 진화했을 때에는 깜짝 놀랐찌만! "
-205,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_006_002","게다가 영웅과 친구들 덕분에
-새로운 용시를 널릴 알릴 수 있었쪄.
-인간과 용이 교류하는 새로운 시대의 용시야."
-206,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_006_003","마르셀루아 아저씨와 함께 인간의 마을에 왔을 때……
-프란셀과 영웅의 도움을 받은 건
-정말로 행운이었찌 뭐야!"
-207,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_006_004","나 이 은혜를 평생 잊지 않을 꺼야!
-용시전쟁을 끝낸 영웅의 이야기는 물론이고
-우리를 도와준 것도 전할 꺼야!"
-208,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_HAUTDLONG_006_005","저, 저도……!
-'용과 인간의 한 걸음'에 영웅님의 이야기를 잔뜩 썼어요!
-많은 용과 인간이 읽을 수 있게 노력할게요!"
-209,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_006_007","그러니까 앞으로도 우리의 활약을 지켜봐줘!"
-210,"TEXT_CTSSFSCHARACTER6_00674_AFTWEEKLY_000_000","이번 주에는 더 납품할 수 없습니다.
-현실 시간으로 매주 <ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시부터
-다시 납품할 수 있습니다."
-211,"TEXT_CTSSFSCHARACTER6_00674_EHLLTOU_000_000","어머, 영웅!
-전투복을 입은 영웅도 정말로 멋쪄!"
-212,"TEXT_CTSSFSCHARACTER6_00674_EHLLTOU_000_001","하지만 '제작'을 가르쳐주려면
-'제작'에 적합한 옷을 입어야지!"
-213,"TEXT_CTSSFSCHARACTER6_00674_QUEST_SYSTEM_000_002","단골 거래 이야기 퀘스트를 진행하기 위해서는
-현재 클래스가 채집가 또는 제작자여야 합니다."
+0,"TEXT_CTSSFSCHARACTER6_00674_GREETING_EHLLTOU_000_000","英雄！感謝你能來！<hex:02100103>是來幫忙準備龍族用採集工具組件的嗎？"
+1,"TEXT_CTSSFSCHARACTER6_00674_GREETING_EHLLTOU_000_001","英雄，你又來了呀！<hex:02100103>是來幫忙準備龍族用縫紉工具的嗎？"
+2,"TEXT_CTSSFSCHARACTER6_00674_GREETING_EHLLTOU_000_002","英雄！<hex:02100103>可以拜託你幫忙準備我們也能使用的<hex:02100103>龍族用工匠工具嗎？"
+3,"TEXT_CTSSFSCHARACTER6_00674_GREETING_EHLLTOU_000_003","英雄！我一直在等你呢！<hex:02100103>就拜託你準備大家吃過後會交口稱讚的<hex:02100103>招待龍族用的菜餚必需品了！"
+4,"TEXT_CTSSFSCHARACTER6_00674_GREETING_EHLLTOU_000_004","英雄，你終於來啦！<hex:02100103>剛剛我跟來到蒼天街的龍族們<hex:02100103>說了很多有趣的事情呢！"
+5,"TEXT_CTSSFSCHARACTER6_00674_TOPMENU_000_000","要做什麼？"
+6,"TEXT_CTSSFSCHARACTER6_00674_TOPMENU_000_001","交納委託品（<hex:022812FF0D>ENpcResident<hex:E8020103>：剩餘<hex:022003E80303>次）"
+7,"TEXT_CTSSFSCHARACTER6_00674_TOPMENU_000_002","詢問有關老顧客交易"
+8,"TEXT_CTSSFSCHARACTER6_00674_TOPMENU_000_003","取消"
+9,"TEXT_CTSSFSCHARACTER6_00674_GUIDEMENU_000_000","想了解什麼？"
+10,"TEXT_CTSSFSCHARACTER6_00674_GUIDEMENU_001_000","關於艾爾·圖的信賴度"
+11,"TEXT_CTSSFSCHARACTER6_00674_GUIDEMENU_007_000","關於交納委託品的條件和報酬"
+12,"TEXT_CTSSFSCHARACTER6_00674_GUIDEMENU_002_000","委託品的獲得方法"
+13,"TEXT_CTSSFSCHARACTER6_00674_GUIDEMENU_003_000","製作材料的獲得方法"
+14,"TEXT_CTSSFSCHARACTER6_00674_GUIDEMENU_004_000","提高收藏價值的方法（製作篇）"
+15,"TEXT_CTSSFSCHARACTER6_00674_GUIDEMENU_005_000","提高收藏價值的方法（採掘/園藝篇）"
+16,"TEXT_CTSSFSCHARACTER6_00674_GUIDEMENU_006_000","提高收藏價值的方法（捕魚篇）"
+17,"TEXT_CTSSFSCHARACTER6_00674_GUIDEMENU_CANCEL","取消"
+18,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_001_000","透過交納委託品，<hex:02100103><hex:022812FF0D>ENpcResident<hex:E8020103>對你的信賴度會漸漸提高。"
+19,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_001_001","目前的信賴度會顯示在委託品列表上方的信賴槽中，<hex:02100103>如果信賴槽積滿，信賴等級就會提高。<hex:02100103>另外，信賴等級會用心形圖案來表示。"
+20,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_001_002","每當信賴等級提高，<hex:02100103>就可以看到與<hex:022812FF0D>ENpcResident<hex:E8020103>有關的新故事。"
+21,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_007_000","交納收藏品需要收藏品對應的職業在70級以上才能進行。"
+22,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_007_001","交納時，若收藏品所對應的職業等級為100級，<hex:02100103>將會得到工票作為報酬，<hex:02100103>若對應職業未滿100級，將會得到經驗作為報酬。"
+23,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_002_000","如果想要調查委託品列表中的道具的獲得方法，<hex:02100103>就請活用子選單與道具說明吧。"
+24,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_002_001","能工巧匠分類的委託品，只需要在打開列表的狀態下，<hex:02100103>執行子選單「搜索製作道具的配方」，<hex:02100103>就可以打開製作筆記，看到製作配方。"
+25,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_002_002","採掘師或園藝師分類的委託品，只需要在打開列表的狀態下，<hex:02100103>執行子選單「搜索採集方法」，<hex:02100103>就可以打開採集筆記，看到採集地點。"
+26,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_002_003","漁師分類的委託品，<hex:02100103>在打開列表的狀態下執行子選單「顯示入手場所」，<hex:02100103>就會顯示出可以獲得該種魚類的釣場或漁場。"
+27,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_102_003","另外釣魚時推薦使用<hex:02280BFF05>Item<hex:F26FDA0103>作為釣餌。"
+28,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_002_004","可以交給<hex:022812FF0D>ENpcResident<hex:E8020103>的道具<hex:02100103>分為能工巧匠、採掘師與園藝師、漁師三種，<hex:02100103>並且需要所有物品均為「收藏品」。"
+29,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_003_000","製作委託品的必要材料，<hex:02100103>可以在蒼天街的新巢居住區的安娜處購買。"
+30,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_004_000","能工巧匠製作出來的產品的「收藏價值」<hex:02100103>會隨製作時物品品質的提高而上升。<hex:02100103>因此，儘量提高品質後做出成品是尤為重要的。"
+31,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_004_002","提高品質成功時，<hex:02100103>自身便會附加「內靜」。"
+32,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_004_003",""
+33,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_004_004","盡可能地多累積內靜，<hex:02100103>最後用「比爾格的祝福」等技能<hex:02100103>一口氣提高品質後，就可以完成製作了。"
+34,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_004_005","除了上述技能之外，還有很多技能可以有效提高品質，<hex:02100103>習慣製作之後，可以進行多種嘗試，<hex:02100103>摸索出適合自己的製作節奏。"
+35,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_005_000","採集收藏品時，會出現專用的介面。<hex:02100103>這時可以使用各種收藏品採集技能<hex:02100103>提高採集品的收藏價值。"
+36,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_005_001","採掘師和園藝師想要提高收藏價值的話，<hex:02100103>可以先使用技能「集中檢查」，然後再使用「純化」。<hex:02100103>以上技能循環幾次後，再進行採集。"
+37,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_005_002","如果想得到較高的收藏價值，<hex:02100103>可以透過調整裝備，提高「獲得力」和「鑑別力」，<hex:02100103>這樣收藏品採集技能帶來的效果也會事半功倍。"
+38,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_005_003","要是「GP」不足的話，<hex:02100103>也可以透過調整裝備提高GP上限。"
+39,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_006_000","水產品的「收藏價值」透過釣上來的魚的大小來體現。"
+40,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_006_001","如果想把魚作為收藏品儲存起來，就先前往魚所在的釣場，<hex:02100103>使用技能「收藏品採集」，開始釣魚。"
+41,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_006_002","在使用了技能「耐心II」之後，<hex:02100103>選擇合適的提鉤技能，<hex:02100103>就可以釣到大魚。"
+42,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_006_003","如果魚的大小無法順利提高的話，<hex:02100103>可以調整裝備提高「鑑別力」。"
+43,"TEXT_CTSSFSCHARACTER6_00674_TUTORIAL_000_000","可以交給<hex:022812FF0D>ENpcResident<hex:E8020103>的道具<hex:02100103>分為能工巧匠、採掘師與園藝師、漁師三種，<hex:02100103>並且需要所有物品均為「收藏品」。"
+44,"TEXT_CTSSFSCHARACTER6_00674_TUTORIAL_000_008","交納收藏品需要收藏品對應的職業在70級以上才能進行。"
+45,"TEXT_CTSSFSCHARACTER6_00674_TUTORIAL_000_009","交納時，若收藏品所對應的職業等級為100級，<hex:02100103>將會得到工票作為報酬，<hex:02100103>若對應職業未滿100級，將會得到經驗作為報酬。"
+46,"TEXT_CTSSFSCHARACTER6_00674_TUTORIAL_000_001","關於交納用的收藏品的獲取方法，<hex:02100103>可以分別透過以下方式調查。"
+47,"TEXT_CTSSFSCHARACTER6_00674_TUTORIAL_000_002","能工巧匠分類的委託品，只需要在打開列表的狀態下，<hex:02100103>執行子選單「搜索製作道具的配方」，<hex:02100103>就可以打開製作筆記，看到製作配方。"
+48,"TEXT_CTSSFSCHARACTER6_00674_TUTORIAL_000_003","製作委託品的必要材料，<hex:02100103>可以在蒼天街的新巢居住區的安娜處購買。"
+49,"TEXT_CTSSFSCHARACTER6_00674_TUTORIAL_000_004","採掘師或園藝師分類的委託品，只需要在打開列表的狀態下，<hex:02100103>執行子選單「搜索採集方法」，<hex:02100103>就可以打開採集筆記，看到採集地點。"
+50,"TEXT_CTSSFSCHARACTER6_00674_TUTORIAL_000_005","漁師分類的委託品，<hex:02100103>在打開列表的狀態下執行子選單「顯示入手場所」，<hex:02100103>就會顯示出可以獲得該種魚類的釣場或漁場。"
+51,"TEXT_CTSSFSCHARACTER6_00674_TUTORIAL_100_005","另外釣魚時推薦使用<hex:02280BFF05>Item<hex:F26FDA0103>作為釣餌。"
+52,"TEXT_CTSSFSCHARACTER6_00674_TUTORIAL_000_006","所交道具的收藏價值越高，交納時獲得的報酬就越豐厚。"
+53,"TEXT_CTSSFSCHARACTER6_00674_TUTORIAL_000_007","如果想知道「提高收藏價值的方法」，<hex:02100103>可以去找<hex:022812FF0D>ENpcResident<hex:E8020103>對話，<hex:02100103>選擇「詢問有關老顧客交易」，就可以查看了！"
+54,"TEXT_CTSSFSCHARACTER6_00674_TUTORIAL_001_000","交納委託品後，<hex:02100103><hex:022812FF0D>ENpcResident<hex:E8020103>開始對你產生信賴。"
+55,"TEXT_CTSSFSCHARACTER6_00674_TUTORIAL_001_001","交貨時獲得的「信賴度」透過信賴槽來顯示，<hex:02100103>當信賴槽積滿，「信賴等級」就會提高，<hex:02100103>同時可以看到<hex:022812FF0D>ENpcResident<hex:E8020103>的新故事。"
+56,"TEXT_CTSSFSCHARACTER6_00674_TUTORIAL_001_002","另外，每週最多可以交貨6次。<hex:02100103>積極地交納收藏品，提高信賴等級吧！"
+57,"TEXT_CTSSFSCHARACTER6_00674_WEEKLYLIMIT_000_000","本週的交貨次數已經全部消耗。<hex:02100103>交貨次數會在每週<hex:020603120303><hex:02093ADDFF07>週日<hex:FF07>週一<hex:FF07>週二<hex:FF07>週三<hex:FF07>週四<hex:FF07>週五<hex:FF07>週六<hex:03>的<hex:020821DBFF1D><hex:020919DB02030405060708090A0B0C0D0E0F10111213141516171803><hex:0103>點（地球時間）被重置。"
+58,"TEXT_CTSSFSCHARACTER6_00674_KNOWLEDGE_EHLLTOU_001_000","這就是「採集」要使用的工具嗎，真是不可思議呀！<hex:02100103>就這樣收集各種素材和組件，製作東西……<hex:02100103>這可是龍族不具有的浪漫呢！！"
+59,"TEXT_CTSSFSCHARACTER6_00674_KNOWLEDGE_EHLLTOU_001_001","阿爾韋迪師父說，因為龍族身上覆蓋著堅硬的鱗片，<hex:02100103>所以不會有被針刺破手指的危險！<hex:02100103>雖然也需要靈巧度，但總的來說縫紉還是很適合龍族的吧？"
+60,"TEXT_CTSSFSCHARACTER6_00674_KNOWLEDGE_EHLLTOU_001_002","這就是可以做出美味飯菜的奇妙工具吧？<hex:02100103>要好好珍惜使用才行！"
+61,"TEXT_CTSSFSCHARACTER6_00674_KNOWLEDGE_EHLLTOU_001_003","嘿嘿嘿，嘿嘿嘿！好期待啊！<hex:02100103>這樣就可以製作招待龍族的料理了吧……<hex:02100103>啊，我、我可沒想偷吃哦？！"
+62,"TEXT_CTSSFSCHARACTER6_00674_KNOWLEDGE_EHLLTOU_001_004","人類真是厲害呀。<hex:02100103>像這樣製作出工具，在紙張上留下文字之後，<hex:02100103>就算本人不在場也可以傳話了！"
+63,"TEXT_CTSSFSCHARACTER6_00674_KNOWLEDGE_EHLLTOU_002_000","這個就是製作採集工具的素材吧！<hex:02100103>也就是說，英雄你現在拿的東西就是<hex:02100103>用來採集素材的工具？"
+64,"TEXT_CTSSFSCHARACTER6_00674_KNOWLEDGE_EHLLTOU_002_001","縫紉用的素材真是不可思議呀。<hex:02100103>把草捻成絲，然後織成布，最後再用絲線縫起來……<hex:02100103>感覺製作起來很難呢。"
+65,"TEXT_CTSSFSCHARACTER6_00674_KNOWLEDGE_EHLLTOU_002_002","要製作像我們這種幼龍也能使用的烹飪工具的話，<hex:02100103>必須使用小而輕的加工素材。<hex:02100103>英雄為我們採集了這些素材，真是幫大忙啦！"
+66,"TEXT_CTSSFSCHARACTER6_00674_KNOWLEDGE_EHLLTOU_002_003","使用這樣幾種素材就可以做出美味的飯菜……<hex:02100103>人類真是太厲害啦！好羨慕呀！"
+67,"TEXT_CTSSFSCHARACTER6_00674_KNOWLEDGE_EHLLTOU_002_004","謝謝你帶來製作繪本的素材！<hex:02100103>只要收集更多這種素材，就可以製作更多的繪本，<hex:02100103>向更多的龍和人類傳遞龍詩啦！"
+68,"TEXT_CTSSFSCHARACTER6_00674_KNOWLEDGE_EHLLTOU_003_000","這就是製作採集工具的素材呀！<hex:02100103>這種貝殼這麼堅硬，難怪用它就能敲碎岩石呢！"
+69,"TEXT_CTSSFSCHARACTER6_00674_KNOWLEDGE_EHLLTOU_003_001","是要用這種魚的骨頭做針吧，<hex:02100103>阿爾韋迪師父已經教過我了。<hex:02100103>人類會使用一切可以使用的東西呢！"
+70,"TEXT_CTSSFSCHARACTER6_00674_KNOWLEDGE_EHLLTOU_003_002","在這片水域中生長的海草，可以製成很棒的調味料呢。<hex:02100103>阿爾韋迪師父教過我，美味的食物是用很多味道調合而成的！"
+71,"TEXT_CTSSFSCHARACTER6_00674_KNOWLEDGE_EHLLTOU_003_003","龍族不太習慣調味的食物，<hex:02100103>所以就聽奧迪隆的，先來點清淡的魚類比較好。<hex:02100103>我也很喜歡這種魚哦！"
+72,"TEXT_CTSSFSCHARACTER6_00674_KNOWLEDGE_EHLLTOU_003_004","把這個貝做成顏料之後就可以製作繪本了吧！<hex:02100103>我和奧迪隆想出來的龍詩就這樣變成有形之物了，好開心呀！"
+73,"TEXT_CTSSFSCHARACTER6_00674_JUDGEMENT_EHLLTOU_000_000","那麼就讓我來確認一下英雄準備的貨品吧。<hex:02100103>……這應該就是所謂的高水準、高品質的貨品吧？<hex:02100103>阿爾韋迪師父一定也能認同的！"
+74,"TEXT_CTSSFSCHARACTER6_00674_JUDGEMENT_EHLLTOU_000_001","那麼就讓我來確認一下英雄準備的貨品吧。<hex:02100103>……連我都能看出來這個是品質超棒的貨品呢！<hex:02100103>阿爾韋迪師父一定也會很感動的！"
+75,"TEXT_CTSSFSCHARACTER6_00674_JUDGEMENT_EHLLTOU_000_002","那麼就讓我來確認一下英雄準備的貨品吧。<hex:02100103>……哇，真是讓人沉醉其中的極品呀，不愧是你準備的呢！<hex:02100103>阿爾韋迪師父看到之後一定會喜極而泣的！"
+76,"TEXT_CTSSFSCHARACTER6_00674_JUDGEMENT_EHLLTOU_000_003","那麼就讓我來確認一下英雄準備的貨品吧。<hex:02100103>……好完美的品質呀，這個應該可以成為受龍族歡迎的菜餚吧？<hex:02100103>好激動呀！"
+77,"TEXT_CTSSFSCHARACTER6_00674_JUDGEMENT_EHLLTOU_000_004","那麼就讓我來確認一下英雄準備的貨品吧。<hex:02100103>……嗯嗯，真是很棒的貨品呢！<hex:02100103>這樣就可以製作繪本了吧，簡直像做夢一樣呢！"
+78,"TEXT_CTSSFSCHARACTER6_00674_FULLBAG_000_000","背包已滿，<hex:02100103>無法獲取信賴等級提高的報酬。"
+79,"TEXT_CTSSFSCHARACTER6_00674_FULLBAG_000_001","請整理背包後再找<hex:022812FF0D>ENpcResident<hex:E8020103>。"
+80,"TEXT_CTSSFSCHARACTER6_00674_BEFRANKUP_EHLLTOU_000_000","英雄！謝謝你交了這麼多物品！<hex:02100103>這個數量就應該足夠用來學習「採集」了，<hex:02100103>我這就去叫阿爾韋迪師父過來！"
+81,"TEXT_CTSSFSCHARACTER6_00674_BEFRANKUP_EHLLTOU_001_000","英雄！謝謝你交了這麼多物品！<hex:02100103>這樣我就可以學習「縫紉」了！<hex:02100103>你會在旁邊守護我吧？"
+82,"TEXT_CTSSFSCHARACTER6_00674_BEFRANKUP_EHLLTOU_002_000","英雄！謝謝你交了這麼多物品！<hex:02100103>有了這個就可以製作讓食物變得更美味的工具了吧？<hex:02100103>我現在就去喊阿爾韋迪師父過來！"
+83,"TEXT_CTSSFSCHARACTER6_00674_BEFRANKUP_EHLLTOU_003_000","英雄！謝謝你交了這麼多物品！<hex:02100103>這樣就可以做很多招待用的菜餚了吧！<hex:02100103>我也來幫忙！"
+84,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_001_000","喲，英雄閣下！<hex:02100103>多謝你給小不點幫忙了！"
+85,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_001_001","是呀是呀！<hex:02100103>多虧有英雄在，我在學習「採集」的路上邁出了一大步呢！"
+86,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_001_002","製作的過程是……先採集素材，<hex:02100103>用素材製作採集工具，再用採集工具採集素材製作工具，<hex:02100103>有了工具才能製作物品……？"
+87,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_001_003","哇——！腦袋都變成一團漿糊了！<hex:02100103>這就是先有龍還是先有蛋的問題嗎！"
+88,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_001_004","總之就是……<hex:02100103>製作和採集的關係是密不可分的吧？"
+89,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_001_005","沒錯，就是這樣。<hex:02100103>換句話說，兩者就是互相支援互相協作的關係。<hex:02100103>只有靈活運用，才能變成優秀的全才。"
+90,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_001_006","說起來，我用之前你交納的素材製作了特製的工具。<hex:02100103>特意設計成了艾爾·圖也能夠使用的幼龍尺寸的鎬子！"
+91,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_001_007","來，艾爾·圖。<hex:02100103>拿上試試看吧。"
+92,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_001_008","哇——好激動啊！"
+93,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_001_009","很適合你哦，艾爾·圖！<hex:02100103>好厲害呀，我還是第一次見到拿著人類工具的龍呢！"
+94,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_001_010","嘿嘿，這就是人類代替爪子的工具啊！<hex:02100103>就算是人類的柔軟的手，也可以輕鬆地粉碎岩石，<hex:02100103>真是個劃時代的工具呢！"
+95,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_001_011","堅硬又不失小巧輕便，<hex:02100103>像我們這樣的幼龍也可以輕鬆使用！<hex:02100103>很適合我們那些正煩惱怎麼敲碎堅硬岩石的小夥伴呢！"
+96,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_001_012","嘿嘿！嘿嘿！<hex:02100103>簡直太棒啦！"
+97,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_001_013","啊，多虧了英雄閣下交納了這麼多的素材，<hex:02100103>做出來的工具富餘出來了好多呢。<hex:02100103>把這些送給小不點的「朋友們」吧？"
+98,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_001_014","嗯，我知道了！<hex:02100103>我現在就去！！"
+99,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_002_000","喲，英雄閣下。<hex:02100103>多謝你幫忙準備龍族用縫紉工具了，剩下的部分就交給我吧。"
+100,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_002_001","來，小不點。<hex:02100103>工具已經準備好了，來試試學習縫紉吧。"
+101,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_002","好的！<hex:02100103>英雄、阿爾韋迪師父，教我的時候溫柔一點哦！"
+102,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_002_003","加油呀，艾爾·圖！"
+103,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_004","做好了！<hex:02100103>嘿嘿嘿，很可愛吧！<hex:02100103>我參考了阿爾韋迪師父的帽子樣式呢！"
+104,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_002_005","噢噢，這不是做得很棒嗎！<hex:02100103>完全看不出來是第一次做呢。"
+105,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_002_006","艾爾·圖好厲害啊！<hex:02100103>說不定你是歷史上第一條自己「製作」的龍呢！"
+106,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_007","雖然被各種各樣的步驟累得眼睛都睜不開了，<hex:02100103>但是完成時的成就感真是太棒了！<hex:02100103>這就是「製作」的樂趣吧！"
+107,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_008","我想讓更多龍族體驗這份樂趣呢！<hex:02100103>喜歡新鮮事物的龍族們一定會愛上這種感覺的！"
+108,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_009","所以我現在打算去德拉瓦尼亞雲海，<hex:02100103>讓更多的龍看一看我現在的樣子！<hex:02100103>也許會有對這些感興趣的龍呢！"
+109,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_002_010","嗯！一路順風！<hex:02100103>路上小心一些啊！"
+110,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_003_000","好了，我用英雄閣下帶來的貨品，<hex:02100103>試著做了烹調工具。<hex:02100103>艾爾·圖，你來試試看吧。"
+111,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_003_001","哇，你做了兩個工具嗎！太感謝啦！"
+112,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_003_002","這是烹調的必需品平底鍋還有收集食材時不可缺少的手斧，<hex:02100103>你可要好好使用啊。"
+113,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_003_003","我還準備了其他的器皿、調味料之類的，<hex:02100103>現在所有東西都備全了。"
+114,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_003_004","這樣一來，我也能開始做「菜餚」了吧！<hex:02100103>我這就做些龍族們可能感興趣的菜餚。"
+115,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_003_005","等一下小不點，別太著急了。<hex:02100103>學習烹調得先打好基礎才行，先來做個特訓吧。"
+116,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_003_006","嘿嘿嘿，我知道啦！<hex:02100103>我很喜歡練習製作物品呢！"
+117,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_003_007","那就先去安娜小姐那邊拿些樺木樹汁吧。<hex:02100103>從樹汁中提取糖漿可是烹調師的基礎。"
+118,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_003_008","連這個國家的大人物都很喜歡那個糖漿哦。<hex:02100103>等你做好了之後，和奧迪隆分享一下吧。"
+119,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_003_009","那個……<hex:02100103>英雄閣下果然也和艾爾·圖一樣，<hex:02100103>從基礎開始一步一步接受特訓的嗎……？"
+120,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_003_010","是這樣啊！<hex:02100103>太好了，原來英雄閣下也跟我和艾爾·圖一樣呢！"
+121,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_003_011","我和艾爾·圖聊過很多次，<hex:02100103>現在正一點一滴地將它講述的龍族生態記錄下來。<hex:02100103>要是哪一天能彙編完成的書就好了！"
+122,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_004_000","喲，英雄閣下。<hex:02100103>多謝你幫忙準備招待龍族用的菜餚必需品。"
+123,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_004_001","我用你帶來的東西和我準備好的素材，<hex:02100103>再搭配上凱撒麵包，<hex:02100103>做出了美味的三明治！"
+124,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_004_002","好了，快點把剛做好的三明治給龍族們送去吧。"
+125,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_004_003","……"
+126,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_004_004","喂，小不點？<hex:02100103>怎麼了？"
+127,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_004_005","……啊！"
+128,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_004_006","不，什麼事都沒有！<hex:02100103>我這就去送三明治！"
+129,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_001_100","歡迎回來，艾爾·圖！<hex:02100103>其他的龍族們反響如何呀？"
+130,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_001_101","那個……好像完全不行呢……"
+131,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_001_102","幼龍們倒是都接受了……<hex:02100103>但是成年的龍族都說使用道具違反了龍族原本的生存方式，<hex:02100103>發了好大的火呢。"
+132,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_001_103","怎麼會這樣……"
+133,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_001_104","但是……<hex:02100103>既然新時代都來臨了，龍族的想法也應該變一變才對！<hex:02100103>要不然會被時代所拋棄的！"
+134,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_001_105","接受了工具的幼龍中，一定也有同樣想法的龍！<hex:02100103>所以我是不會放棄的！"
+135,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_001_106","對呀，不能馬上就放棄！"
+136,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_001_107","那下次就做一些能引起龍族興趣的東西吧？"
+137,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_001_108","說的是呢！<hex:02100103>我也會試試自己「製作」的！<hex:02100103>看來只有自己動手才能充分展示製作的魅力啊！"
+138,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_001_109","是啊，這樣的話……"
+139,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_001_110","試著學一下素材和工具都很輕便，<hex:02100103>小不點也能做的「縫紉」怎麼樣？<hex:02100103>服裝很容易引人注意哦。"
+140,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_001_111","嗯嗯，我要試試看！"
+141,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_001_112","那麼，英雄閣下，<hex:02100103>能麻煩你準備一下「龍族用縫紉工具」嗎？<hex:02100103>其他部分就交給我來準備吧。"
+142,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_001_113","拜託你了——！"
+143,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_002_100","歡迎回來，小不點。<hex:02100103>帽子和圍巾的評價如何啊？"
+144,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_101","因為是我自己做的，所以年紀相近的幼龍們都很感興趣呢！<hex:02100103>還說可以取下來的頭冠很帥氣呢！"
+145,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_102","雖然我邀請它們一起來蒼天街玩……<hex:02100103>但是大家都害怕去人類聚集的地方，所以拒絕了。"
+146,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_103","像我們這樣的弱小的幼龍，被英雄這樣的人類抓住的話，<hex:02100103>一定會被打得落花流水的，所以我能理解它們的恐懼。"
+147,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_Q1_002_000","要說什麼？"
+148,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_A1_002_001","我不可怕啊"
+149,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_A1_002_002","一味地害怕就無法前進了"
+150,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_A1_002_003","艾爾·圖也害怕我嗎？"
+151,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_104","嗯嗯，我當然知道英雄不可怕啦！<hex:02100103>但是其他的龍族們可不知道呀……"
+152,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_105","我當然……<hex:02100103>也明白這個道理……"
+153,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_106","沒有、沒有！<hex:02100103>我當然知道英雄、奧迪隆和阿爾韋迪師父都是<hex:02100103>很有趣很溫柔的人類，可是……"
+154,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_002_107","那麼，為了消除這種恐懼……<hex:02100103>小不點你就用實際行動來告訴它們吧，這裡的人類並不可怕，<hex:02100103>而且製作東西也是非常有趣的一件事。"
+155,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_108","……<hex:02100103>對啊對啊！這種沮喪的性格完全不適合我嘛！！"
+156,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_109","既然是這樣的話，<hex:02100103>那就介紹些比帽子和圍巾更能吸引龍族興趣的「製作」吧。"
+157,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_002_110","讓龍族感興趣的「製作」……？"
+158,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_111","嘿嘿！<hex:02100103>這個我知道哦！"
+159,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_112","那就是人類一直以來所「製作」的食物！"
+160,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_113","從附近路過的時候，<hex:02100103>總是能聞到許多食物混在一起的、複雜而有魅力的香味……<hex:02100103>每次我都覺得很不可思議呢！"
+161,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_114",""
+162,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_002_114","你是在說「菜餚」吧？<hex:02100103>確實，這個應該可以引起龍族的興趣！<hex:02100103>進食對龍族也是很重要的事呢！"
+163,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_002_115","那就這麼定了，<hex:02100103>我和英雄閣下就負責製作烹調工具吧。<hex:02100103>英雄閣下，能拜託你準備「龍族用工匠工具組件」嗎？"
+164,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_002_116","那我和艾爾·圖就去調查一下龍族也能吃的食材！"
+165,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_117","交給我吧！"
+166,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_003_100","奧迪隆！你聽我說！<hex:02100103>我做出了比至今吃過的所有果實都要香甜的樺木糖漿哦！"
+167,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_003_101","哇，好厲害！<hex:02100103>不愧是艾爾·圖！"
+168,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_003_102","好了好了，糖漿就等一下再慢慢享受吧。<hex:02100103>可不能把頭跟手伸進壺裡舔哦？<hex:02100103>這樣是非常沒禮貌的！"
+169,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_003_103","說起來，奧迪隆，<hex:02100103>你想到有什麼龍族可能會感興趣的食物了嗎？"
+170,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_003_104","我認為像伊修加爾德三明治一類的食物會比較好。<hex:02100103>像艾爾·圖這樣的幼龍們也可以抓著吃，應該比只吃麵包要好！"
+171,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_003_105","但是龍族們還不太習慣香料吧，伊修加爾德三明治會不會太刺激了？"
+172,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_003_106","那麼，使用味道清淡的魚類和凱撒麵包製作三明治怎麼樣？<hex:02100103>應該可以做出很美味的三明治吧……"
+173,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_003_107","這樣啊，你考慮了很多呢，奧迪隆。<hex:02100103>幹得漂亮。"
+174,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_ARVIDE_003_108","那就決定做這個吧，得趕快湊齊素材才行。"
+175,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_003_109","那招待龍族用的菜餚必需品就拜託英雄啦！"
+176,"TEXT_CTSSFSCHARACTER6_00674_RANKUPINFO_000_000","<hex:022812FF0D>ENpcResident<hex:E8020103>的信賴等級提高了！<hex:02100103>你在<hex:022812FF0D>ENpcResident<hex:E8020103>心中的形象變為了精通製作的英雄！"
+177,"TEXT_CTSSFSCHARACTER6_00674_RANKUPINFO_000_001","<hex:022812FF0D>ENpcResident<hex:E8020103>的信賴等級提高了！<hex:02100103>你在<hex:022812FF0D>ENpcResident<hex:E8020103>心中的形象變為了製作的老師！"
+178,"TEXT_CTSSFSCHARACTER6_00674_RANKUPINFO_000_002","<hex:022812FF0D>ENpcResident<hex:E8020103>的信賴等級提高了！<hex:02100103>你在<hex:022812FF0D>ENpcResident<hex:E8020103>心中的形象變為了製作的總監！"
+179,"TEXT_CTSSFSCHARACTER6_00674_RANKUPINFO_000_003","<hex:022812FF0D>ENpcResident<hex:E8020103>的信賴等級提高了！<hex:02100103>你在<hex:022812FF0D>ENpcResident<hex:E8020103>心中的形象變為了製作的恩師！"
+180,"TEXT_CTSSFSCHARACTER6_00674_RANKUPINFO_001_001","<hex:022812FF0D>ENpcResident<hex:E8020103>似乎進一步加深了對於「製作」的理解。<hex:02100103>等它回來，確認一下它的成果吧。"
+181,"TEXT_CTSSFSCHARACTER6_00674_RANKUPINFO_001_002","<hex:022812FF0D>ENpcResident<hex:E8020103><hex:02100103>有新的委託想要給你。"
+182,"TEXT_CTSSFSCHARACTER6_00674_AFTRANKUP_000_001","接到了新的委託，交貨列表已經更新。<hex:02100103>和<hex:022812FF0D>ENpcResident<hex:E8020103>對話，<hex:02100103>選擇交納委託品，查看交貨列表。"
+183,"TEXT_CTSSFSCHARACTER6_00674_AFTRANKUP_001_001","可以領取老顧客交易的劇情任務了。<hex:02100103>和聖羅艾勒廣場的艾爾·圖對話即可接受任務。<hex:02100103>完成任務後，交貨列表將會更新。"
+184,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_001_000","英雄！<hex:02100103>謝謝你交了這麼多貨品！"
+185,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_001_001","多虧有你，我可以學習更多的「製作」了，<hex:02100103>奧迪隆也在幫我呢！"
+186,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_002_000","英雄！<hex:02100103>謝謝你這周交了這麼多物品！"
+187,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_002_001","雖然龍族們還沒有對「製作」產生興趣，不過我不會再氣餒了！"
+188,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_002_002","因為……<hex:02100103>有英雄一直在幫助我！"
+189,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_003_000","英雄，謝謝你幫忙！<hex:02100103>我會把拿到的東西分給其他龍的，<hex:02100103>這樣一來，對製作和人類感興趣的龍也會增加了吧！"
+190,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_003_001","只要龍族與人類能一直像這樣繼續交流下去，<hex:02100103>就會不斷地締造出新的龍詩吧。"
+191,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_003_002","我和奧迪隆所做的事只不過是新龍詩的序章而已！"
+192,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_003_003","今後我們也會去交流、見證、傾聽，<hex:02100103>繼續編織美妙的龍詩，<hex:02100103>所以英雄也要一直守護著我們哦！"
+193,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_004_000","英雄，謝謝你一直來幫忙！"
+194,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_004_001","阿爾韋迪師父總是在誇獎英雄的技術呢！<hex:02100103>他說其實英雄才是最適合做師父的。"
+195,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_004_002","但是我明白，<hex:02100103>英雄是很忙很忙的！"
+196,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_004_003","不過即便如此，英雄也一直幫助著我，<hex:02100103>所以我和奧迪隆都最喜歡英雄了！"
+197,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_HAUTDLONG_004_004","等、等一下，艾爾·圖！<hex:02100103>別說出來啊，太羞恥了……"
+198,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_004_005","嘿嘿！<hex:02100103>人類是只要交流就能互通心意的種族，<hex:02100103>所以表達一下自己的好意也沒什麼啦！"
+199,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_005_000","英雄，謝謝你一直幫忙！"
+200,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_005_001","收集好了繪本的材料，我們就可以準備製作啦！"
+201,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_HAUTDLONG_005_002","我一直夢想著製作關於龍的書，沒想到這麼快就能實現了！<hex:02100103>英雄閣下，真是太感謝你了！"
+202,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_005_003","今後我們也會繼續製作繪本……<hex:02100103>讓更多的人和龍看到我們的龍詩！<hex:02100103>啊，說不定還會流傳到其他種族那裡也說不定！"
+203,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_006_000","英雄，謝謝你！<hex:02100103>你真的幫了我許多忙呢，太感謝啦！"
+204,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_006_001","我在這裡瞭解了許多人類的文化，<hex:02100103>交到了人類的朋友，還讓其他龍族也來到了蒼天街。<hex:02100103>不過進化這件事真是嚇了我自己一跳呢！"
+205,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_006_002","而且，多虧了英雄，新的龍詩也流傳了開來。<hex:02100103>這一定能成為加深人類和龍族友誼的、新時代的龍詩。"
+206,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_006_003","我和馬爾塞盧瓦叔叔一起來人類的城市時……<hex:02100103>能被弗朗塞爾和英雄所救，真的太幸運了！"
+207,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_006_004","我會永遠記住這份恩情的！<hex:02100103>我會將英雄終結了龍詩戰爭的故事，還有英雄幫助我的事情，<hex:02100103>編成龍詩流傳下去！"
+208,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_HAUTDLONG_006_005","我、我也是！<hex:02100103>我在«龍與人的第一步»中寫了很多英雄閣下的故事！<hex:02100103>我會努力讓更多的人和龍看到它的！"
+209,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_006_007","就是這樣，今後也請你繼續見證我們的活躍吧！"
+210,"TEXT_CTSSFSCHARACTER6_00674_AFTWEEKLY_000_000","本週向<hex:022812FF0D>ENpcResident<hex:E8020103>交貨的次數已經全部消耗。<hex:02100103>交貨次數會在每週<hex:020603120303><hex:02093ADDFF07>週日<hex:FF07>週一<hex:FF07>週二<hex:FF07>週三<hex:FF07>週四<hex:FF07>週五<hex:FF07>週六<hex:03>的<hex:020821DBFF1D><hex:020919DB02030405060708090A0B0C0D0E0F10111213141516171803><hex:0103>點（地球時間）被重置。"
+211,"TEXT_CTSSFSCHARACTER6_00674_EHLLTOU_000_000","哇，英雄！<hex:02100103>你戰鬥時的英姿也很帥氣呢！"
+212,"TEXT_CTSSFSCHARACTER6_00674_EHLLTOU_000_001","但是要指導「製作」的話，得穿上適合「製作」的衣服才行！"
+213,"TEXT_CTSSFSCHARACTER6_00674_QUEST_SYSTEM_000_002","若要繼續推進老顧客的劇情任務，<hex:02100103>需要目前職業為大地使者或能工巧匠。"

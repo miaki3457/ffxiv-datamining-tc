@@ -1,28 +1,15 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_001","……윽, 모험가군.
-이런 곳까지 와 있을 줄이야.
-프로토 에테라이트를 사용한 조사는 어떻게 진행되고 있나?"
-1,"TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_002","그렇군…… 그래…….
-흐름을 역전…… 그렇다면 마지막에는……."
-2,"TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_003","아, 미안하다.
-정보를 제공해줘서 고맙다.
-덕분에 희망이 보이는군."
-3,"TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_004","아니지, 언제나 자네의 정보에 도움을 받고 있어.
-과연 소문난 해방자야."
-4,"TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_005","답례로 나도 마정석 회수를 돕도록 하지.
-더 이상 조사할 필요가 없을 것 같거든.
-뭐, 나한테 맡겨."
-5,"TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_006","그렇지, 자네에게 전할 정보가 하나 있다.
-갈러프 님이 본부탑에 봉인한 존재…….
-쿠루루가 예상한 옛 야만신의 이름을 알아냈다."
-6,"TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_007","……그 이름은 바로 '에우레카'."
-7,"TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_008","맞아, 이 섬의 가명과 똑같지.
-창조신 '에우레카'가 녀석의 이름이다.
-참으로 얄궂은 운명이야……. 아니, 필연이라고 해야 할까."
-8,"TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_009","어쨌든 지금 말해줄 수 있는 건 이름 뿐이야.
-그럼, 또 보자……."
-9,"TEXT_CTSERKEUREKA3SPHERE2_00521_SYSTEM_000_000","에테르의 흐름 속에서 번쩍거리는 마정석을 회수했다.
-지금까지 생긴 일을 '쿠루루'에게 보고하자."
-10,"TEXT_CTSERKEUREKA3SPHERE2_00521_TALK_ACTOR","（★未使用／削除予定★）"
+0,"TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_001","……嗯，是你啊。<hex:02100103>沒想到你都來到了這種地方，<hex:02100103>利用原型乙太之光進行的調查有進展了嗎？"
+1,"TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_002","原來如此……原來如此啊。<hex:02100103>讓流向逆轉……那最後……"
+2,"TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_003","啊，抱歉。<hex:02100103>感謝你提供的情報，<hex:02100103>這樣我就有些頭緒了。"
+3,"TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_004","沒什麼，我就是想著你提供的情報總能幫上我的忙，<hex:02100103>不愧是大名鼎鼎的解放者。"
+4,"TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_005","為了報答你，我也來幫忙回收魔素石吧，<hex:02100103>反正我這邊也沒有什麼調查的必要了，<hex:02100103>之後交給我就行了。"
+5,"TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_006","對了，有一件事得跟你說一下。<hex:02100103>關於加拉夫大人封印在總部塔的東西……<hex:02100103>就是可露兒預想中的那個古代蠻神，我弄清了它的名字。"
+6,"TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_007","……其名為「優雷卡」。"
+7,"TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_008","對，就是跟這座島嶼的暫定名稱一樣，<hex:02100103>它的名字就叫創神「優雷卡」。<hex:02100103>這種偶然真是讓人感到諷刺……不對，不如說這才是必然的吧。"
+8,"TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_009","總之現在能告訴你的就只有這個名字。<hex:02100103>那再見了……"
+9,"TEXT_CTSERKEUREKA3SPHERE2_00521_SYSTEM_000_000","從乙太的奔流中回收了璀璨的魔素石。<hex:02100103>快點向可露兒報告吧。"
+10,"TEXT_CTSERKEUREKA3SPHERE2_00521_TALK_ACTOR",""

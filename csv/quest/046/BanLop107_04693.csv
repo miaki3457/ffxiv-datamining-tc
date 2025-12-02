@@ -1,12 +1,10 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_BANLOP107_04693_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
-
-희망찬 화물실에 있는 매니징웨이는 당근 모양 휴대용 전등을 조달하고 싶은 듯하다."
-1,"TEXT_BANLOP107_04693_SEQ_01","키핑웨이와 대화"
-2,"TEXT_BANLOP107_04693_SEQ_02","매니징웨이에게 의뢰받은 물품 납품"
+0,"TEXT_BANLOP107_04693_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整（限定職業）<hex:0249020103><hex:0248020103><hex:02100103>※本任務需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>希望的貨艙的營運威打算準備胡蘿蔔形狀的攜帶式螢光棒。"
+1,"TEXT_BANLOP107_04693_SEQ_01","和存領威對話"
+2,"TEXT_BANLOP107_04693_SEQ_02","將委託的物品交給營運威"
 3,"TEXT_BANLOP107_04693_SEQ_03",""
 4,"TEXT_BANLOP107_04693_SEQ_04",""
 5,"TEXT_BANLOP107_04693_SEQ_05",""
@@ -28,8 +26,8 @@ int32,str,str
 21,"TEXT_BANLOP107_04693_SEQ_21",""
 22,"TEXT_BANLOP107_04693_SEQ_22",""
 23,"TEXT_BANLOP107_04693_SEQ_23",""
-24,"TEXT_BANLOP107_04693_TODO_00","키핑웨이와 대화"
-25,"TEXT_BANLOP107_04693_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If>"
+24,"TEXT_BANLOP107_04693_TODO_00","和存領威對話"
+25,"TEXT_BANLOP107_04693_TODO_01","<hex:0208F2037AE4E8050AFF62><hex:02085EE3E802E803FF36>製作筆記 友好部族任務：製作<hex:02280AFF05>Item<hex:E8060103><hex:FF20>將<hex:02280AFF05>Item<hex:E8060103>交給營運威<hex:03><hex:FFF2030F><hex:0208F20309E4E8050BFF62><hex:02085EE3E802E803FF36>製作筆記 友好部族任務：製作<hex:02280AFF05>Item<hex:E8060103><hex:FF20>將<hex:02280AFF05>Item<hex:E8060103>交給營運威<hex:03><hex:FFF2029E><hex:0208F20298E4E8050CFF62><hex:02085EE3E802E803FF36>製作筆記 友好部族任務：製作<hex:02280AFF05>Item<hex:E8060103><hex:FF20>將<hex:02280AFF05>Item<hex:E8060103>交給營運威<hex:03><hex:FFF2022D><hex:0208F20227E4E80509FF62><hex:02085EE3E802E803FF36>製作筆記 友好部族任務：製作<hex:02280AFF05>Item<hex:E8060103><hex:FF20>將<hex:02280AFF05>Item<hex:E8060103>交給營運威<hex:03><hex:FFF201BC><hex:0208F201B6E4E8050DFF62><hex:02085EE3E802E803FF36>製作筆記 友好部族任務：製作<hex:02280AFF05>Item<hex:E8060103><hex:FF20>將<hex:02280AFF05>Item<hex:E8060103>交給營運威<hex:03><hex:FFF2014B><hex:0208F20145E4E8050EFF62><hex:02085EE3E802E803FF36>製作筆記 友好部族任務：製作<hex:02280AFF05>Item<hex:E8060103><hex:FF20>將<hex:02280AFF05>Item<hex:E8060103>交給營運威<hex:03><hex:FFF0DB><hex:0208F0D6E4E8050FFF62><hex:02085EE3E802E803FF36>製作筆記 友好部族任務：製作<hex:02280AFF05>Item<hex:E8060103><hex:FF20>將<hex:02280AFF05>Item<hex:E8060103>交給營運威<hex:03><hex:FF6E><hex:02086AE4E80510FF62><hex:02085EE3E802E803FF36>製作筆記 友好部族任務：製作<hex:02280AFF05>Item<hex:E8060103><hex:FF20>將<hex:02280AFF05>Item<hex:E8060103>交給營運威<hex:03><hex:FF01><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03>"
 26,"TEXT_BANLOP107_04693_TODO_02",""
 27,"TEXT_BANLOP107_04693_TODO_03",""
 28,"TEXT_BANLOP107_04693_TODO_04",""
@@ -52,49 +50,22 @@ int32,str,str
 45,"TEXT_BANLOP107_04693_TODO_21",""
 46,"TEXT_BANLOP107_04693_TODO_22",""
 47,"TEXT_BANLOP107_04693_TODO_23",""
-48,"TEXT_BANLOP107_04693_MANAGINGWAY_000_000","음악 체험관을 좀 더 신나게 즐길 수 있도록
-당근 모양의 휴대용 전등을 제작했는데 생각보다 인기가 많아요!
-즉, 생산 계획을 수정해야 하는 상황인 거죠!"
-49,"TEXT_BANLOP107_04693_MANAGINGWAY_000_001","관객 동원수와 휴대용 전등의 소모율을 분석해
-최근 3분기 재고 동향을 예측해 봤는데요……
-생산율이 6%나 부족하다는 결과가 나왔어요~!"
-50,"TEXT_BANLOP107_04693_MANAGINGWAY_000_002","그래서 자재 관리를 하는 '키핑웨이'가
-서둘러 추가 생산을 알아보고 있어요.
-모쪼록 휴대용 전등의 생산을 도와주세요!"
-51,"TEXT_BANLOP107_04693_KEEPINGWAY_000_010","앗, 매니징웨이에게 이야기를 듣고 와주셨나요!?
-새로운 생산 계획을 세웠는데 혼자서는 도저히
-달성하지 못할 것 같아서 눈물이 날 지경이에요……!"
-52,"TEXT_BANLOP107_04693_KEEPINGWAY_000_011","장식 부분의 부품이 될
-'<Sheet(Item,38863,0)/>'<13>FF0F02280BFF054974656DF297CF0103FF04EAB080FF04EC9DB4</13> 필요해요.
-재료가 부족할 때는 체험 도우미에게 말을 걸어주세요!"
-53,"TEXT_BANLOP107_04693_KEEPINGWAY_000_012","손잡이에 쓰일
-'<Sheet(Item,38863,0)/>'<13>FF0F02280BFF054974656DF297CF0103FF04EAB080FF04EC9DB4</13> 필요해요.
-재료가 부족할 때는 체험 도우미에게 말을 걸어주세요!"
-54,"TEXT_BANLOP107_04693_KEEPINGWAY_000_013","조명의 발광제가 될
-'<Sheet(Item,38863,0)/>'<13>FF0F02280BFF054974656DF297CF0103FF04EAB080FF04EC9DB4</13> 필요해요.
-재료가 부족할 때는 체험 도우미에게 말을 걸어주세요!"
-55,"TEXT_BANLOP107_04693_KEEPINGWAY_000_014","완성된 재료는 '매니징웨이'에게 건네주세요.
-재료가 다 모인 부분부터 조립을 지시하려고요!
-즐거운 음악 체험을 위해 열심히 해볼게요~!"
-56,"TEXT_BANLOP107_04693_SUPPORTER04693_000_015","삐삐…… 추가 재료 말입니까?
-현재 갖고 있는 것을, 우선적으로, 소비해주십시오!"
-57,"TEXT_BANLOP107_04693_SUPPORTER04693_000_016","삐삐…… 추가 재료 말입니까?
-현재 갖고 있는 것을, 우선적으로, 소비해주십시오!"
-58,"TEXT_BANLOP107_04693_SUPPORTER04693_000_017","삐삐…… 추가 재료 말입니까?
-현재 갖고 있는 것을, 우선적으로, 소비해주십시오!"
-59,"TEXT_BANLOP107_04693_SUPPORTER04693_000_018","삐삐…… 추가 재료 말이군요!
-알겠습니다, 이것을 제공하겠습니다."
-60,"TEXT_BANLOP107_04693_SUPPORTER04693_000_019","삐삐…… 추가 재료 말이군요!
-알겠습니다, 이것을 제공하겠습니다."
-61,"TEXT_BANLOP107_04693_SUPPORTER04693_000_020","삐삐…… 추가 재료 말이군요!
-알겠습니다, 이것을 제공하겠습니다."
-62,"TEXT_BANLOP107_04693_MANAGINGWAY_000_030","휴대용 전등의 추가 생산은 어떻게 되었나요?"
-63,"TEXT_BANLOP107_04693_MANAGINGWAY_000_031","오오, 감사합니다!
-이제 당분간 휴대용 전등의 재고를 걱정하지 않고
-음악 체험관에서 신나게 즐길 수 있겠군요!"
-64,"TEXT_BANLOP107_04693_MANAGINGWAY_000_032","실은 좀 더 다양한 색상이 있었으면 좋겠다는
-의견이 있어서 제품 개량도 검토하고 있어요!
-제가 조정해야 하는 일이 늘고 있어서 정말 기뻐요!"
-65,"TEXT_BANLOP107_04693_MANAGINGWAY_000_033","그럼 <Highlight>ObjectParameter(1)</Highlight> 님,
-다음에 또 재고가 부족해지면 잘 부탁드려요!"
-66,"TEXT_BANLOP107_04693_MANAGINGWAY_000_003","（★未使用／削除予定★）"
+48,"TEXT_BANLOP107_04693_MANAGINGWAY_000_000","為了進一步炒熱音樂臺，<hex:02100103>我們試做了胡蘿蔔形狀的攜帶式螢光棒，結果反響超乎我們想像！<hex:02100103>也就是說我們需要重新制定生產計劃了！"
+49,"TEXT_BANLOP107_04693_MANAGINGWAY_000_001","因此我們透過觀眾的動員數以及攜帶式螢光棒的消耗率<hex:02100103>對近三期的庫存變動進行了預測……以現在的生產效率來看，<hex:02100103>大約還有6%的庫存缺口！"
+50,"TEXT_BANLOP107_04693_MANAGINGWAY_000_002","所以負責物資管理的存領威應該正在加急安排生產。<hex:02100103>請你也去幫忙生產攜帶式螢光棒吧！"
+51,"TEXT_BANLOP107_04693_KEEPINGWAY_000_010","哇——是營運威叫你來的吧？！<hex:02100103>新的生產計劃只靠我一個人是絕對完成不了的，<hex:02100103>急得我都要快哭出來了！"
+52,"TEXT_BANLOP107_04693_KEEPINGWAY_000_011","需要的是裝飾部分的零件<hex:02280BFF05>Item<hex:F297CF0103>。<hex:02100103>材料不夠的時候請去找工作協助機索要！"
+53,"TEXT_BANLOP107_04693_KEEPINGWAY_000_012","需要的是用在握柄的<hex:02280BFF05>Item<hex:F297CF0103>。<hex:02100103>材料不夠的時候請去找工作協助機索要！"
+54,"TEXT_BANLOP107_04693_KEEPINGWAY_000_013","需要的是充當螢光棒發光劑的<hex:02280BFF05>Item<hex:F297CF0103>。<hex:02100103>材料不夠的時候請去找工作協助機索要！"
+55,"TEXT_BANLOP107_04693_KEEPINGWAY_000_014","完成之後請將成品交給營運威。<hex:02100103>我會根據湊齊的材料種類給出相對的組裝指示！<hex:02100103>為了大家享受音樂的體驗，努力加油吧！"
+56,"TEXT_BANLOP107_04693_SUPPORTER04693_000_015","嗶嗶……追加的材料？<hex:02100103>請優先使用現在持有的材料！"
+57,"TEXT_BANLOP107_04693_SUPPORTER04693_000_016","嗶嗶……追加的材料？<hex:02100103>請優先使用現在持有的材料！"
+58,"TEXT_BANLOP107_04693_SUPPORTER04693_000_017","嗶嗶……追加的材料？<hex:02100103>請優先使用現在持有的材料！"
+59,"TEXT_BANLOP107_04693_SUPPORTER04693_000_018","嗶嗶……需要追加的材料！<hex:02100103>好的，請收下。"
+60,"TEXT_BANLOP107_04693_SUPPORTER04693_000_019","嗶嗶……需要追加的材料！<hex:02100103>好的，請收下。"
+61,"TEXT_BANLOP107_04693_SUPPORTER04693_000_020","嗶嗶……需要追加的材料！<hex:02100103>好的，請收下。"
+62,"TEXT_BANLOP107_04693_MANAGINGWAY_000_030","攜帶式螢光棒的追加生產進行得怎麼樣了？"
+63,"TEXT_BANLOP107_04693_MANAGINGWAY_000_031","哦！真是幫大忙了！<hex:02100103>這樣暫時就不用擔心攜帶式螢光棒的庫存問題，<hex:02100103>可以盡情炒熱音樂臺了！"
+64,"TEXT_BANLOP107_04693_MANAGINGWAY_000_032","其實我們還收到了希望增加顏色種類的請求，<hex:02100103>目前正在商討改良方案！<hex:02100103>哎呀，要營運的工作越來越多真是令人高興！"
+65,"TEXT_BANLOP107_04693_MANAGINGWAY_000_033","那<hex:022903EB0203>大人，<hex:02100103>等庫存不夠的時候，還請你再次幫忙吧！"
+66,"TEXT_BANLOP107_04693_MANAGINGWAY_000_003",""

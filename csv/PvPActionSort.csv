@@ -1,5 +1,6 @@
 ﻿key,0,1,2,3,4
 #,Action{Type},Action,,,
+offset,6,4,7,7,0
 int32,byte,Row,bit&01,bit&02,int32
 0.0,0,0,True,True,0
 1.0,2,50,True,True,0

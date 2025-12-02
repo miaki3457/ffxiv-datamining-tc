@@ -1,5 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7
 #,StartEmote,EndEmote,Move,Camera,EndOnRotate,EndOnEmote,ConditionMode,
+offset,0,2,5,5,5,5,4,5
 int32,Emote,Emote,bit&01,bit&02,bit&04,bit&08,byte,bit&10
 0,0,0,True,True,False,False,0,False
 1,52,53,False,True,True,False,11,False
@@ -84,8 +85,3 @@ int32,Emote,Emote,bit&01,bit&02,bit&04,bit&08,byte,bit&10
 80,294,0,True,False,False,False,3,False
 81,295,0,True,False,False,False,3,False
 82,296,0,True,False,False,False,3,False
-83,301,0,True,False,False,False,3,False
-84,302,0,True,False,False,False,3,False
-85,303,0,True,False,False,False,3,False
-86,306,0,True,False,False,False,3,False
-87,307,0,True,False,False,False,3,False

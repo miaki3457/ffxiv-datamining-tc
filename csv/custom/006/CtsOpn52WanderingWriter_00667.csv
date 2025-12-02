@@ -1,96 +1,40 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_CTSOPN52WANDERINGWRITER_00667_CFC_TO_INSTANCE_CONTENT","<Sheet(ContentFinderCondition,IntegerParameter(1),3)/>"
-1,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_000_000","오, 이런~ 심부름의 달인…… 아, 아니,
-해방자군, 오랜만, 오랜만이야!
-이발리스 탐색 때는 제노미스도 포함해서 정말 신세 많이 졌어!"
-2,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_000_001","여기가 강고스…… 보즈야 저항군의 거점이구나!
-무지코 극장에는 비밀인데, 사실 희곡 소재가 떨어졌거든…….
-여기라면 새로운 자극을 받을 수 있지 않을까 싶어서 와 본 거야."
-3,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_100_000","뭐 재미있는 모험담이 있으면 꼭 좀 들려줬음 좋겠어.
-널 주연으로 한 희곡을 써줄 테니까!
-……어랏? 뭔가 있는 표정인데?"
-4,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_100_050","묻고 싶은 것이 있어?"
-5,"TEXT_CTSOPN52WANDERINGWRITER_00667_Q1_000_000","무슨 이야기를 하시겠습니까?"
-6,"TEXT_CTSOPN52WANDERINGWRITER_00667_A100_000_000","이국의 극작가의 이야기가 듣고 싶다"
-7,"TEXT_CTSOPN52WANDERINGWRITER_00667_A1_000_000","취소"
-8,"TEXT_CTSOPN52WANDERINGWRITER_00667_Q2_000_100","무엇을 물어보시겠습니까?"
-9,"TEXT_CTSOPN52WANDERINGWRITER_00667_A1_000_100","성검 세이브 더 퀸에 대해서"
-10,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_500_000","기억 속에서의 전투……?
-그것 참 흥미로운 이야기군…….
-괜찮다면 좀 더 자세히 얘기해주지 않겠어?"
-11,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_500_001","호오~ 시드의 기억 속에서 싸운 바리스 황제라……
-허구의 기억이라고는 해도 바리스 황제의 강인함,
-그 전투력을 알기에는 충분했다는 뜻이군……."
-12,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_500_002","바리스 황제의 존안을 뵌 적은 몇 번 있지만,
-그분의 전투 모습을 가까이서 본 적은 없어…….
-하지만 그 뛰어난 솜씨와 대담무쌍한 기개는 익히 들은 바 있지."
-13,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_500_003","좋았어, 방금 구상이 떠올랐어.
-기억 속의 바리스 황제와 처음으로 칼로 대결한 해방자……
-그래, 직전에는 이런 대사를 주고받겠지, 한번 들어봐줘!"
-14,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_500_004","""그대는 어째서 내 검이 향하는 곳을 막는단 말이냐.
- 그것은 스스로의 결점을 모르는 어린아이처럼 어느새
- 모든 행위가 자신에게 되돌아와 무구한 손을 피로 물들이게 할 뿐"""
-15,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_500_005","""방자함이 이토록 추악한 색을 띠고 있단 말이더냐.
- 겁을 모르는 자일수록 거만하고 타인을 비웃는 법.
- 마음의 상처를 얕보는 자는 자신의 마음을 모르는 자일지니!"""
-16,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_500_006","으음, 좀 더 퇴고를 거쳐야겠어.
-역시 그 자리에 없으면 진실에서 멀어지는 법이지.
-네가 경험하고 느낀 것과는 아주 다를 것 같다는 생각이 들어……."
-17,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_500_007","미안하지만 조금 더 자세히 들려줄 수 있을까?
-의성어만 계속 말해도 상관없으니까
-상황을 극명하게 묘사해 주면 고맙겠어……."
-18,"TEXT_CTSOPN52WANDERINGWRITER_00667_SYSTEM_500_008","'극 보즈야 추억전'에서 입수 가능한 <Sheet(Item,30227,0)/><13>FF0F02280BFF054974656DF276130103FF04EBA5BCFF04EC9D84</13>
-망자의 종소리에 있는 '카인타나'에게 건네면
-아이템과 교환할 수 있습니다."
-19,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_600_000","군힐드의 검을 복각했다고?
-우와, 역시 해방자는 다르구나! 훌륭해!
-이제 보즈야 저항군도 하나로 단결할 수 있겠어!"
-20,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_600_001","군힐드의 검은 보즈야에 전해 내려오는 전설의 보물이지.
-나에게도 자세한 얘기를 해주면 좋겠어.
-나중에 희곡을 집필할 때 참고로 할 테니."
-21,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_600_002","어이쿠…… 그러고 보니 여왕 군힐드만 대검할 수 있었던,
-여왕의 증표라고도 할 수 있는 성스러운 검이 있다고 하더군.
-이름이 뭐더라 '세이브 더 퀸'이라 했던가."
-22,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_600_003","난 그 정도밖에 모르니 보즈야 사람들에게 물어서 이야기를 모아볼게.
-정보가 어느 정도 모이면 물론 너한테도 알려줄 테니까
-기대하고 기다리고 있어!"
-23,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_600_010","성검 세이브 더 퀸에 대해서 조사해봤어.
-들어주겠어?"
-24,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_600_011","대대로 여왕 군힐드만 장비할 수 있었던 성검을 말해.
-그 성검에는 신의 힘이 봉인되어 있다는 믿음이 있어서
-고대 보즈야에서는 여왕의 증표로 성스럽게 여겼다고 하더군."
-25,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_600_012","여기서부터는 사실 좀 믿기 어려운 얘기지만, 들어줄래?
-보즈야에 살던 사람들에게는 굉장히 유명한 옛날이야기인데,
-……음, 어딘가 비슷한 이야기가 있었던 것 같기도 하거든?"
-26,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_600_013","제3성력 말, 이 땅이 제4재해를 입었을 때의 일이야.
-알라그 제국을 멸망시킨 그 전대미문의 대지진……
-그 '재해'는 고대 보즈야도 집어삼키려 했었어."
-27,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_600_014","화마는 삼림을 모두 태우고 천지를 붉게 물들였지.
-수많은 고대 보즈야인이 목숨을 잃은 가운데,
-살아남은 몇몇 사람들이 보즈야 성으로 도망쳤어."
-28,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_600_015","여왕 군힐드는 선언했어…… 지금이 성검의 힘을 사용할 때라고.
-그 말을 들은 주민들은 쓰러져 흐느끼며 여왕에게 매달렸지.
-그것은 여왕이 스스로의 목숨을 제물로 바치겠다는 걸 의미했거든."
-29,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_600_016","여왕은 자신의 심장을 성검으로 찔러 목숨을 끊었어.
-하지만 그 자리에서 바로 성검의 힘이 발동되더니
-수호신 세이브 더 퀸으로 부활했다고 해."
-30,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_600_017","수호신 세이브 더 퀸은 처음이자 마지막으로 마력을 내뿜어서
-보즈야 성을, 아니 그 아주 극히 일부분이었을지도 몰라.
-아무튼 성으로 피난 온 보즈야 국민을 강력한 장벽으로 보호했어."
-31,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_600_018","사람들이 의식을 되찾았을 때 그곳은 이미 황폐해진 조국……
-과거의 흔적이 하나도 남김없이 사라진 불모지가 되었던 거야.
-제4재해는 이미 끝났고, 대지는 고요함을 되찾은 뒤였지."
-32,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_600_019","아주 조금이었지만 대지에는 초록빛이 돌아오고 있었고,
-그곳에는 그들처럼 간신히 살아남은 새와 동물, 곤충들이 있었어.
-맑은 빗물은 강을 이루었고 그곳엔 물고기들이 살았지."
-33,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_600_020","눈앞에는 금방이라도 부서질 것 같지만, 사람들을 굳건히 지켜낸
-과거의 보즈야 성이 하늘 높이 솟아 있었다고 해.
-사람들은 깨달았어…… 여왕이 마지막 임무를 완수했다는 사실을……."
-34,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_600_021","이렇게 보즈야는 제4성력을 맞이했어.
-여왕 군힐드도, 성검 세이브 더 퀸도 잃었지만,
-그 피를 물려받은 보즈야인은 살아남은 거야."
-35,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_600_022","이야~ 참 낭만적이야~.
-아주 좋은 자극을 받았어~.
-이것만으로도 희곡 한 편을 쓸 수 있을 것 같아~."
+0,"TEXT_CTSOPN52WANDERINGWRITER_00667_CFC_TO_INSTANCE_CONTENT","<hex:02281CFF17>ContentFinderCondition<hex:E8020403>"
+1,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_000_000","哎呀，這不是愛跑腿的尋物高手……啊，不，是解放者嗎？<hex:02100103>好久不見、好久不見！<hex:02100103>探索伊瓦利斯的時候，團員們和傑諾米都承蒙你的照顧了！"
+2,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_000_001","這裡就是甘戈斯——博茲雅義軍的據點啊！<hex:02100103>有件事要對無地鼓座保密，其實我正在為劇本創作煩惱呢……<hex:02100103>不過在這裡的話說不定能獲得新的靈感，所以我就過來了。"
+3,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_100_000","最近有什麼新奇的冒險故事嗎？請務必講給我聽聽吧。<hex:02100103>我會以你為主角寫成戲劇的！<hex:02100103>啊，你是不是正好有故事想要講給我聽呢？"
+4,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_100_050","你有什麼想要詢問的事情嗎？"
+5,"TEXT_CTSOPN52WANDERINGWRITER_00667_Q1_000_000","談點什麼？"
+6,"TEXT_CTSOPN52WANDERINGWRITER_00667_A100_000_000","想聽聽異國的劇作家有什麼故事"
+7,"TEXT_CTSOPN52WANDERINGWRITER_00667_A1_000_000","取消"
+8,"TEXT_CTSOPN52WANDERINGWRITER_00667_Q2_000_100","想了解什麼？"
+9,"TEXT_CTSOPN52WANDERINGWRITER_00667_A1_000_100","關於聖劍天佑女王"
+10,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_500_000","記憶中的戰鬥？<hex:02100103>這還真是很有意思的故事……<hex:02100103>如果可以的話，能跟我詳細講講嗎？"
+11,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_500_001","嚯嚯——在希德的記憶中與瓦厲斯皇帝大戰了一番嗎……<hex:02100103>雖說只是記憶中的幻象，<hex:02100103>卻也足以窺探瓦厲斯皇帝究竟有多強大了。"
+12,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_500_002","雖然我曾經有幸見過幾次瓦厲斯皇帝，<hex:02100103>不過我可沒在近距離見識過他戰鬥時的風采……<hex:02100103>但是他力大無窮、勇猛無比的傳聞我早有耳聞。"
+13,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_500_003","不錯，雖然只是一閃而過，不過我已經有了靈感。<hex:02100103>你在記憶中與瓦厲斯皇帝交手前，<hex:02100103>瓦厲斯皇帝如此說道："
+14,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_500_004","「汝攔於吾之劍前，所謂何故？<hex:02100103>莫學初生牛犢不怕虎，待到悔時已無路。」"
+15,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_500_005","「傲慢使人醜陋，無知使人狂妄。<hex:02100103>唯勘不破自己本心之人，才會小覷他人心中傷痛！」"
+16,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_500_006","嗯——感覺還是欠缺推敲呢。<hex:02100103>果然沒有在現場的話，還是會與現實有所差距。<hex:02100103>我感覺這與你經歷的東西差得有點遠啊……"
+17,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_500_007","抱歉，能再給我詳細講講嗎？<hex:02100103>就算全是擬音詞也無妨，<hex:02100103>只要能鮮明地描述一下當時的狀況就好……"
+18,"TEXT_CTSOPN52WANDERINGWRITER_00667_SYSTEM_500_008","極 博茲雅堡壘追憶戰中獲得的「<hex:02280BFF05>Item<hex:F276130103>」，<hex:02100103>可以交給喪靈鐘的卡·因塔娜交換道具。"
+19,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_600_000","聽說你重現了女王之刃？<hex:02100103>哎呀，不愧是解放者，真厲害！<hex:02100103>這樣一來，博茲雅義軍的凝聚力應該能變得更強了！"
+20,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_600_001","女王之刃可是存在於博茲雅傳說中的秘寶，<hex:02100103>我也很想詳細了解一番呢。<hex:02100103>它的故事一定能為我今後撰寫劇本提供很多參考。"
+21,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_600_002","啊，說起來，好像有一把只有女王貢希爾德才能佩帶的，<hex:02100103>可以說是女王之證的聖劍。<hex:02100103>名字好像是——「天佑女王」的樣子。"
+22,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_600_003","目前我知道的只有這些。<hex:02100103>我會從博茲雅人口中收集相關的傳說，等情報湊齊之後，<hex:02100103>一定也向你回報。敬請期待吧！"
+23,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_600_010","我調查了一下有關聖劍天佑女王的事。<hex:02100103>你要聽聽看嗎？"
+24,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_600_011","那是只有每代女王貢希爾德才能佩戴的聖劍。<hex:02100103>古代博茲雅人相信聖劍中封印著神明的力量，<hex:02100103>因此把它作為女王的證明供奉了起來。"
+25,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_600_012","後面的內容可信度不高，不過還是給你講講吧。<hex:02100103>怎麼說這也是在博茲雅人盡皆知的故事。<hex:02100103>嗯……感覺在哪聽過類似的故事……"
+26,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_600_013","在第三星曆的末期，第四靈災降臨這裡的時候，<hex:02100103>一場前所未有的巨大地震毀滅了亞拉戈帝國。<hex:02100103>這一災難也席捲了古代博茲雅。"
+27,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_600_014","森林被熊熊烈火吞噬，天空被火光染成了紅色。<hex:02100103>許多古代博茲雅人因此喪命，<hex:02100103>只有一小部分倖存者逃進了博茲雅城中。"
+28,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_600_015","女王貢希爾德告訴他們，如今正是使用聖劍之力的時刻。<hex:02100103>人們聽聞，皆為女王伏地痛哭。<hex:02100103>因為他們知道，使用聖劍之力就意味著女王要獻出自己的生命。"
+29,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_600_016","女王將聖劍刺入自己的心臟，就這樣死去了。<hex:02100103>但聖劍之力瞬間發動，<hex:02100103>女王變成了守護神天佑女王，再度復活。"
+30,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_600_017","守護神天佑女王第一次也是最後一次放出了魔力。<hex:02100103>那魔力形成了一道屏障，保護了博茲雅城……<hex:02100103>不，應該是只保護了那一小部分逃入城內的倖存者吧。"
+31,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_600_018","人們恢復意識之後，發現自己的祖國<hex:02100103>早已沒有了曾經的繁榮，變成了一片不毛之地。<hex:02100103>但是，第四靈災結束了，世界再度安靜了下來。"
+32,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_600_019","大地慢慢地恢復了綠色，<hex:02100103>那裡生活著和人們一同倖存下來的飛禽走獸。<hex:02100103>清澈的雨水化作河川，養育了肥美的魚類。"
+33,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_600_020","矗立在人們眼前的是一座隨時可能坍塌的廢墟，<hex:02100103>那正是曾經保護了他們的博茲雅城。<hex:02100103>人們明白了，女王完成了最後的使命，拯救了他們……"
+34,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_600_021","就這樣，博茲雅迎來了第四星曆。<hex:02100103>儘管女王貢希爾德和聖劍天佑女王都消失了，<hex:02100103>但繼承了這份血脈的博茲雅人卻倖存了下來。"
+35,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_600_022","哎呀，好浪漫啊。<hex:02100103>不錯不錯，真是讓我大受啟發呢。<hex:02100103>感覺光靠這個就能寫出一齣好戲了。"

@@ -1,50 +1,32 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGFSTINNINFO_00022_ANTOINAUT_000_1","여기는 여관 '둥지나무'야.
-……미안하지만 초보 모험가는 객실을 이용할 수 없어."
-1,"TEXT_REGFSTINNINFO_00022_ANTOINAUT_000_2","네 활약이 알려져서 사람들의 신뢰를 얻으면
-뮨이 여길 쓸 수 있게 해줄 거야.
-그러니까 포기하지 말고 열심히 하라고."
-2,"TEXT_REGFSTINNINFO_00022_Q1_000_1","무엇을 물어보시겠습니까?"
-3,"TEXT_REGFSTINNINFO_00022_A1_000_1","여관 '둥지나무'에 대해서 물어본다"
-4,"TEXT_REGFSTINNINFO_00022_A1_000_2","취소"
-5,"TEXT_REGFSTINNINFO_00022_ANTOINAUT_000_3","여관 '둥지나무'는
-그리다니아를 찾는 여행자들이 묵는 숙소야."
-6,"TEXT_REGFSTINNINFO_00022_ANTOINAUT_000_4","철새처럼 정처 없는 너희 모험가도
-날개를 접고 잠시 쉬어가는 곳이지."
-7,"TEXT_REGFSTINNINFO_00022_ANTOINAUT_000_5","하지만 재해 후로 워낙 흉흉한 일이 많아서 말이야.
-신뢰할 수 있는 모험가한테만 방을 빌려주고 있어."
-8,"TEXT_REGFSTINNINFO_00022_ANTOINAUT_000_6","네가 이 나라에서 착실히 사람들을 도우며
-믿음직한 모험가로 거듭나길 기다릴게."
-9,"TEXT_REGFSTINNINFO_00022_ANTOINAUT_000_10","여기는 여관 '둥지나무' 접수처야.
-무슨 용건이지?"
-10,"TEXT_REGFSTINNINFO_00022_Q2_000_1","무엇을 하시겠습니까?"
-11,"TEXT_REGFSTINNINFO_00022_A2_000_1","객실로 이동한다"
-12,"TEXT_REGFSTINNINFO_00022_A2_000_2","여관 휴식 효과에 대해서 물어본다"
-13,"TEXT_REGFSTINNINFO_00022_A2_000_3","객실 내 금지사항에 대해서 물어본다"
-14,"TEXT_REGFSTINNINFO_00022_A2_000_4","여관 '둥지나무'에 대해서 물어본다"
-15,"TEXT_REGFSTINNINFO_00022_A2_000_5","취소"
-16,"TEXT_REGFSTINNINFO_00022_ANTOINAUT_000_11","천천히 푹 쉬어."
-17,"TEXT_REGFSTINNINFO_00022_ANTOINAUT_000_12","여관에서 휴식을 취하면 피로가 풀리지.
-혹시 근처에서 모험이 끝나면 우리 여관으로 오도록 해."
-18,"TEXT_REGFSTINNINFO_00022_SYSTEM_000_13","여관 객실에 있으면 '휴식 보너스'가 쌓입니다.
-여관 안에서 접속을 종료한 경우에도
-휴식 보너스는 계속 쌓입니다."
-19,"TEXT_REGFSTINNINFO_00022_SYSTEM_000_14","휴식 보너스가 쌓인 상태로 전투, 제작, 채집을 하면
-획득 경험치가 1.5배 상승합니다."
-20,"TEXT_REGFSTINNINFO_00022_SYSTEM_000_15","휴식 보너스를 이용해 경험치를 획득하면
-그만큼 휴식 보너스가 소비됩니다."
-21,"TEXT_REGFSTINNINFO_00022_SYSTEM_000_16","쌓인 휴식 보너스를 전부 사용하면
-휴식 보너스 효과가 사라집니다."
-22,"TEXT_REGFSTINNINFO_00022_ANTOINAUT_000_17","미안하지만 객실 안에서 '제작'은 금지야.
-소음 때문에 다른 손님들이 피해를 보거든."
-23,"TEXT_REGFSTINNINFO_00022_SYSTEM_000_18","여관 안에서는 '제작'과 '수리'를 할 수 없습니다."
-24,"TEXT_REGFSTINNINFO_00022_ANTOINAUT_000_19","여관 '둥지나무'는
-그리다니아를 찾는 여행자들이 묵는 숙소야."
-25,"TEXT_REGFSTINNINFO_00022_ANTOINAUT_000_20","철새처럼 정처 없는 너희 모험가도
-날개를 접고 잠시 쉬어가는 곳이지."
-26,"TEXT_REGFSTINNINFO_00022_ANTOINAUT_000_21","혼자 조용히 추억에 잠겨도 되고
-깨끗한 침대에서 푹 잘 수도 있어."
-27,"TEXT_REGFSTINNINFO_00022_ANTOINAUT_000_22","언제나 정신없이 바쁜 너희한테도
-가끔은 혼자 조용히 쉴 수 있는 시간이 필요하잖아?"
+0,"TEXT_REGFSTINNINFO_00022_ANTOINAUT_000_1","這裡是「棲木旅店」。<hex:02100103>……不過我們不向新手冒險者開放。"
+1,"TEXT_REGFSTINNINFO_00022_ANTOINAUT_000_2","如果你能以出色的表現得到人們的信賴，<hex:02100103>那麼繆恩或許就會允許你使用客房。<hex:02100103>所以不要灰心，繼續努力吧。"
+2,"TEXT_REGFSTINNINFO_00022_Q1_000_1","想了解什麼？"
+3,"TEXT_REGFSTINNINFO_00022_A1_000_1","什麼是「棲木旅店」？"
+4,"TEXT_REGFSTINNINFO_00022_A1_000_2","取消"
+5,"TEXT_REGFSTINNINFO_00022_ANTOINAUT_000_3","「棲木旅店」是為來到格里達尼亞的旅行者準備的客房。"
+6,"TEXT_REGFSTINNINFO_00022_ANTOINAUT_000_4","是讓你們這些如候鳥般漂泊的冒險者暫時歇腳的地方。"
+7,"TEXT_REGFSTINNINFO_00022_ANTOINAUT_000_5","話雖如此，但在靈災之後，世間稍微有些動盪不安。<hex:02100103>所以我們現在只把房間借給信得過的冒險者。"
+8,"TEXT_REGFSTINNINFO_00022_ANTOINAUT_000_6","你就先在這個國家，試著去幫助他人，<hex:02100103>等成為一名出色的冒險者之後再來吧。"
+9,"TEXT_REGFSTINNINFO_00022_ANTOINAUT_000_10","這裡是「棲木旅店」的接待處。<hex:02100103>有什麼需要幫忙的嗎？"
+10,"TEXT_REGFSTINNINFO_00022_Q2_000_1","要做什麼？"
+11,"TEXT_REGFSTINNINFO_00022_A2_000_1","去客房"
+12,"TEXT_REGFSTINNINFO_00022_A2_000_2","詢問有關在客房內的休息效果"
+13,"TEXT_REGFSTINNINFO_00022_A2_000_3","詢問有關客房內的禁止事項"
+14,"TEXT_REGFSTINNINFO_00022_A2_000_4","詢問有關「棲木旅店」的事情"
+15,"TEXT_REGFSTINNINFO_00022_A2_000_5","取消"
+16,"TEXT_REGFSTINNINFO_00022_ANTOINAUT_000_11","你就好好休息一下吧。"
+17,"TEXT_REGFSTINNINFO_00022_ANTOINAUT_000_12","在「棲木旅店」休息可以消除疲勞。<hex:02100103>在這附近進行冒險之後，可以返回到這裡。"
+18,"TEXT_REGFSTINNINFO_00022_SYSTEM_000_13","當你在旅店客房休息的時候可以累積「休息獎勵」。<hex:02100103>在客房內登出遊戲後也可以繼續累積「休息獎勵」。"
+19,"TEXT_REGFSTINNINFO_00022_SYSTEM_000_14","在累積「休息獎勵」的狀態下<hex:02100103>進行「戰鬥」「製作」「採集」時，<hex:02100103>獲得的經驗值將提高到1.5倍。"
+20,"TEXT_REGFSTINNINFO_00022_SYSTEM_000_15","在累積「休息獎勵」的狀態下獲得的經驗值，<hex:02100103>會消耗相對應的「休息獎勵」。"
+21,"TEXT_REGFSTINNINFO_00022_SYSTEM_000_16","當累積的「休息獎勵」全部被消耗後，<hex:02100103>「休息獎勵」的效果將會結束。"
+22,"TEXT_REGFSTINNINFO_00022_ANTOINAUT_000_17","抱歉，客房內是禁止「製作」的。<hex:02100103>因為噪音會影響到其他的客人。"
+23,"TEXT_REGFSTINNINFO_00022_SYSTEM_000_18","在旅店客房內，<hex:02100103>是不能進行「製作」和「修理」的。"
+24,"TEXT_REGFSTINNINFO_00022_ANTOINAUT_000_19","「棲木旅店」是為來到格里達尼亞的旅行者準備的客房。"
+25,"TEXT_REGFSTINNINFO_00022_ANTOINAUT_000_20","是讓你們這些如候鳥般漂泊的冒險者暫時歇腳的地方。"
+26,"TEXT_REGFSTINNINFO_00022_ANTOINAUT_000_21","你可以沉浸在自己的回憶中，<hex:02100103>也可以在乾淨的床上好好睡一覺。"
+27,"TEXT_REGFSTINNINFO_00022_ANTOINAUT_000_22","你們平時熱熱鬧鬧、東奔西跑的，<hex:02100103>偶爾也需要安靜地休息一下。"

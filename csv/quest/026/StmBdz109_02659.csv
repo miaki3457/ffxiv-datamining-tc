@@ -1,7 +1,8 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_STMBDZ109_02659_SEQ_00","카스트룸 오리엔스에 있는 쌍사당 대장 스웨스릭은 실전 경험이 풍부한 모험가를 찾고 있는 것 같다."
+0,"TEXT_STMBDZ109_02659_SEQ_00","帝國東方堡的斯威斯里克大牙將正在尋找實戰經驗豐富的冒險者。"
 1,"TEXT_STMBDZ109_02659_SEQ_01",""
 2,"TEXT_STMBDZ109_02659_SEQ_02",""
 3,"TEXT_STMBDZ109_02659_SEQ_03",""
@@ -25,9 +26,9 @@ int32,str,str
 21,"TEXT_STMBDZ109_02659_SEQ_21",""
 22,"TEXT_STMBDZ109_02659_SEQ_22",""
 23,"TEXT_STMBDZ109_02659_SEQ_23",""
-24,"TEXT_STMBDZ109_02659_TODO_00","<Sheet(BNpcName,5681,0)/> 처치"
-25,"TEXT_STMBDZ109_02659_TODO_01","쌍사당 신병과 대화"
-26,"TEXT_STMBDZ109_02659_TODO_02","쌍사당 대장 스웨스릭과 대화"
+24,"TEXT_STMBDZ109_02659_TODO_00","討伐<hex:02280FFF09>BNpcName<hex:F216310103>"
+25,"TEXT_STMBDZ109_02659_TODO_01","和雙蛇黨新兵對話"
+26,"TEXT_STMBDZ109_02659_TODO_02","和斯威斯里克大牙將對話"
 27,"TEXT_STMBDZ109_02659_TODO_03",""
 28,"TEXT_STMBDZ109_02659_TODO_04",""
 29,"TEXT_STMBDZ109_02659_TODO_05",""
@@ -49,55 +50,28 @@ int32,str,str
 45,"TEXT_STMBDZ109_02659_TODO_21",""
 46,"TEXT_STMBDZ109_02659_TODO_22",""
 47,"TEXT_STMBDZ109_02659_TODO_23",""
-48,"TEXT_STMBDZ109_02659_SWETHRYKBROOKSTONE_000_000","오오, <If(GreaterThan(PlayerParameter(52),0))><If(GreaterThan(PlayerParameter(52),0))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(GreaterThan(PlayerParameter(53),0))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(GreaterThan(PlayerParameter(54),0))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If> 아닌가.
-자네는 모험가 부대 내에서도 경험과 실력이 특출한 인물이지."
-49,"TEXT_STMBDZ109_02659_SWETHRYKBROOKSTONE_000_001","우리는 숲에서 싸우는 것에야 익숙하지만,
-기라바니아처럼 탁 트인 곳에서의 실전 경험은 부족하거든."
-50,"TEXT_STMBDZ109_02659_SWETHRYKBROOKSTONE_000_002","주변의 마물들이 예상외로 강해서
-최전선에 배치된 신병들이 감당하질 못하는 모양이다.
-자네의 실력을 믿고 부탁 좀 하지."
-51,"TEXT_STMBDZ109_02659_SWETHRYKBROOKSTONE_000_003","장창 폭포에 있는 '<Sheet(BNpcName,5681,0)/>'<13>FF1302280FFF09424E70634E616D65F216310103FF04EBA5BCFF04EC9D84</13> 3마리 해치워보고
-신병들한테 황야에서 싸우는 법을 가르쳐줄 수 있겠나?"
-52,"TEXT_STMBDZ109_02659_SWETHRYKBROOKSTONE_000_004","장창 폭포에 있는 '<Sheet(BNpcName,5681,0)/>'<13>FF1302280FFF09424E70634E616D65F216310103FF04EBA5BCFF04EC9D84</13> 3마리 해치워보고
-신병들한테 황야에서 싸우는 법을 가르쳐줄 수 있겠나?"
-53,"TEXT_STMBDZ109_02659_SOLDIERMAN02659_000_005","허억…… 허억…….
-저런 마물 한 마리도 못 잡으면서 무슨 숲을 지키겠다고……!"
-54,"TEXT_STMBDZ109_02659_SOLDIERWOMAN02659_000_006","'<Sheet(BNpcName,5681,0)/>'<13>FF1302280FFF09424E70634E616D65F216310103FF04EAB080FF04EC9DB4</13>
-저렇게나 강했다니……."
-55,"TEXT_STMBDZ109_02659_SOLDIERMAN02659_000_010","<If(GreaterThan(PlayerParameter(52),0))><If(GreaterThan(PlayerParameter(52),0))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(GreaterThan(PlayerParameter(53),0))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(GreaterThan(PlayerParameter(54),0))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If> 공이군요.
-만나뵙게 되어 영광입니다.
-<Sheet(BNpcName,5681,0)/><13>FF1302280FFF09424E70634E616D65F216310103FF04EC9980FF04EAB3BC</13>의 전투담을 꼭 들려주십시오."
-56,"TEXT_STMBDZ109_02659_CHOICE1Q1_000_011","뭐라고 하시겠습니까?"
-57,"TEXT_STMBDZ109_02659_CHOICE1A1_000_012","딱딱한 등딱지의 틈새를 노려라"
-58,"TEXT_STMBDZ109_02659_CHOICE1A2_000_013","대충 싸워도 이긴다"
-59,"TEXT_STMBDZ109_02659_SOLDIERMAN02659_000_014","딱딱한 등딱지의 틈새를 노리라는 말씀입니까…….
-싸우는 중에 해낼 자신은 없지만, 약한 소리만 해서는 안 되겠죠.
-방금 해주신 말씀을 살려서 훈련에 임하도록 하겠습니다."
-60,"TEXT_STMBDZ109_02659_SOLDIERMAN02659_000_015","여……역시 수많은 전투를 경험하신 모험가님다운 말씀…….
-그렇게 되기까지는 엄청난 노력이 필요하셨겠죠.
-조금이라도 따라갈 수 있도록 곧장 훈련에 임하겠습니다."
-61,"TEXT_STMBDZ109_02659_SOLDIERWOMAN02659_000_016","……<If(GreaterThan(PlayerParameter(52),0))><If(GreaterThan(PlayerParameter(52),0))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(GreaterThan(PlayerParameter(53),0))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(GreaterThan(PlayerParameter(54),0))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If> 님!
-소문은 익히…… 아니, 말씀 많이 들었습니다!
-오늘은 운이 좋군요. 하, 한 수…… 가르쳐주십시오!"
-62,"TEXT_STMBDZ109_02659_CHOICE1Q1_000_017","뭐라고 하시겠습니까?"
-63,"TEXT_STMBDZ109_02659_CHOICE1A1_000_018","공격을 피하면서 맞혀라"
-64,"TEXT_STMBDZ109_02659_CHOICE1A2_000_019","별것도 안 했는데 이겼다"
-65,"TEXT_STMBDZ109_02659_SOLDIERWOMAN02659_000_020","역시 모험가님, 참고가 하나도…… 아니, 많이 됩니다.
-마물의 맹공을 피하면서 끊임없이 공격하라니,
-아무것도 아니라는 듯 말씀하시니 감동이 느껴집니다……!"
-66,"TEXT_STMBDZ109_02659_SOLDIERWOMAN02659_000_021","역시 모험가님, 참고가 하나도…… 아니, 많이 됩니다.
-의식하지도 않았는데 몸이 저절로 움직였다는 뜻이겠죠.
-아무것도 아니라는 듯 말씀하시니 감동이 느껴집니다……!"
-67,"TEXT_STMBDZ109_02659_SOLDIERWOMAN02659_000_022","그, 그럼 훈련하러 돌아가 보겠습니다!"
-68,"TEXT_STMBDZ109_02659_SWETHRYKBROOKSTONE_000_030","실력 차이가 너무 커서 참고가 되지 않은 모양이군.
-하지만 아무 쓸모가 없지는 않았을 거다.
-영웅과 대화를 나눠서 신병의 사기도 높아졌으니까."
-69,"TEXT_STMBDZ109_02659_SWETHRYKBROOKSTONE_000_031","나는 그게 안 되거든.
-상관은 동경의 대상도 아니고, 또 그래서도 안 된다."
-70,"TEXT_STMBDZ109_02659_SWETHRYKBROOKSTONE_000_032","우리는 때로 병사들을 사지로 내모는 명령을 할 때도 있어.
-하지만 그럴 때조차 살아있기를 바라 마지않는다.
-그렇기 때문에 병사들이 조금이나마 강인해졌으면 하는 것이고."
-71,"TEXT_STMBDZ109_02659_SWETHRYKBROOKSTONE_000_033","자네 같은 모험가들한테서는 배울 점도 많아.
-예전에는 나도 모험가 부대 설립에 회의적이었지만,
-지금은 그 누구보다 중요성을 인식하고 있지."
-72,"TEXT_STMBDZ109_02659_SWETHRYKBROOKSTONE_000_034","고맙네, <If(GreaterThan(PlayerParameter(52),0))><If(GreaterThan(PlayerParameter(52),0))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(GreaterThan(PlayerParameter(53),0))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(GreaterThan(PlayerParameter(54),0))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If>."
+48,"TEXT_STMBDZ109_02659_SWETHRYKBROOKSTONE_000_000","這不是<hex:02084FE1E93501FF47><hex:020843E3E93580FF3B><hex:022903EB0203><hex:020831E1E93501FF29><hex:020825E3E93580FF1D><hex:022819FF14>GCRankLimsaMaleText<hex:E9350103><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03><hex:020852E1E93601FF4A><hex:020846E3E93680FF3E><hex:022903EB0203><hex:020834E1E93601FF2C><hex:020828E3E93680FF20><hex:02281CFF17>GCRankGridaniaMaleText<hex:E9360103><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03><hex:02084FE1E93701FF47><hex:020843E3E93780FF3B><hex:022903EB0203><hex:020831E1E93701FF29><hex:020825E3E93780FF1D><hex:022819FF14>GCRankUldahMaleText<hex:E9370103><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03>嘛。<hex:02100103>你不管是實力還是經驗在冒險者部隊裡都是數一數二的。"
+49,"TEXT_STMBDZ109_02659_SWETHRYKBROOKSTONE_000_001","我們雖然很熟悉在森林中的戰鬥方法，<hex:02100103>但在像基拉巴尼亞這樣開闊的土地上的實戰經驗很少。"
+50,"TEXT_STMBDZ109_02659_SWETHRYKBROOKSTONE_000_002","這附近的魔物意外的不好對付，<hex:02100103>對剛被發配到最前線的新兵們來說，強的有點過了。<hex:02100103>所以就想委託實力矚目的你。"
+51,"TEXT_STMBDZ109_02659_SWETHRYKBROOKSTONE_000_003","能請你打倒3頭生活在尖槍瀑布的<hex:02280FFF09>BNpcName<hex:F216310103>，<hex:02100103>向他們說明一下在荒野之中的戰鬥方式嗎？"
+52,"TEXT_STMBDZ109_02659_SWETHRYKBROOKSTONE_000_004","能請你打倒3頭生活在尖槍瀑布的<hex:02280FFF09>BNpcName<hex:F216310103>，<hex:02100103>向新兵們說明一下在荒野之中的戰鬥方式嗎？"
+53,"TEXT_STMBDZ109_02659_SOLDIERMAN02659_000_005","哈啊……哈啊……<hex:02100103>就連一頭魔物都打不倒，要怎麼守護森林！"
+54,"TEXT_STMBDZ109_02659_SOLDIERWOMAN02659_000_006","怎麼能那麼強……"
+55,"TEXT_STMBDZ109_02659_SOLDIERMAN02659_000_010","你是<hex:02084FE1E93501FF47><hex:020843E3E93580FF3B><hex:022903EB0203><hex:020831E1E93501FF29><hex:020825E3E93580FF1D><hex:022819FF14>GCRankLimsaMaleText<hex:E9350103><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03><hex:020852E1E93601FF4A><hex:020846E3E93680FF3E><hex:022903EB0203><hex:020834E1E93601FF2C><hex:020828E3E93680FF20><hex:02281CFF17>GCRankGridaniaMaleText<hex:E9360103><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03><hex:02084FE1E93701FF47><hex:020843E3E93780FF3B><hex:022903EB0203><hex:020831E1E93701FF29><hex:020825E3E93780FF1D><hex:022819FF14>GCRankUldahMaleText<hex:E9370103><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03>嗎？<hex:02100103>很榮幸見到你。"
+56,"TEXT_STMBDZ109_02659_CHOICE1Q1_000_011","對新兵說什麼？"
+57,"TEXT_STMBDZ109_02659_CHOICE1A1_000_012","瞄準魔物堅硬外殼的縫隙"
+58,"TEXT_STMBDZ109_02659_CHOICE1A2_000_013","隨便打打就能獲勝"
+59,"TEXT_STMBDZ109_02659_SOLDIERMAN02659_000_014","瞄準魔物堅硬外殼的縫隙……嗎？<hex:02100103>雖然沒有在戰鬥中使用的自信，但我絕不會說洩氣的話。<hex:02100103>我想立刻回到訓練中去，把你剛才告訴我的技巧活用起來。"
+60,"TEXT_STMBDZ109_02659_SOLDIERMAN02659_000_015","真……真不愧是戰鬥經驗豐富的冒險者說出來的……<hex:02100103>能達到這個水準，一定也是付出過很大的努力的吧。<hex:02100103>我現在就回去訓練，爭取早日追上你的腳步。"
+61,"TEXT_STMBDZ109_02659_SOLDIERWOMAN02659_000_016","……<hex:02084FE1E93501FF47><hex:020843E3E93580FF3B><hex:022903EB0203><hex:020831E1E93501FF29><hex:020825E3E93580FF1D><hex:022819FF14>GCRankLimsaMaleText<hex:E9350103><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03><hex:020852E1E93601FF4A><hex:020846E3E93680FF3E><hex:022903EB0203><hex:020834E1E93601FF2C><hex:020828E3E93680FF20><hex:02281CFF17>GCRankGridaniaMaleText<hex:E9360103><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03><hex:02084FE1E93701FF47><hex:020843E3E93780FF3B><hex:022903EB0203><hex:020831E1E93701FF29><hex:020825E3E93780FF1D><hex:022819FF14>GCRankUldahMaleText<hex:E9370103><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03>大人！<hex:02100103>早就聽說過……啊不對、久仰大名！<hex:02100103>擇日不如撞日，請、請你……教教我吧！"
+62,"TEXT_STMBDZ109_02659_CHOICE1Q1_000_017","對新兵說什麼？"
+63,"TEXT_STMBDZ109_02659_CHOICE1A1_000_018","要一邊迴避一邊攻擊"
+64,"TEXT_STMBDZ109_02659_CHOICE1A2_000_019","反應過來的時候就已經贏了"
+65,"TEXT_STMBDZ109_02659_SOLDIERWOMAN02659_000_020","真不愧是冒險者大人，完全不能……不說是個很好的建議。<hex:02100103>把一邊避開魔物的猛攻，一邊毫無間隙的持續攻擊這種絕技<hex:02100103>說得這麼輕巧，真是令人感慨！"
+66,"TEXT_STMBDZ109_02659_SOLDIERWOMAN02659_000_021","真不愧是冒險者大人，完全不能……不說是個很好的建議。<hex:02100103>就算不刻意去做什麼，身體也會自動攻擊呢。<hex:02100103>把這種事說的這麼輕巧，真是令人感慨！"
+67,"TEXT_STMBDZ109_02659_SOLDIERWOMAN02659_000_022","那、那麼我就回去訓練了，再見！"
+68,"TEXT_STMBDZ109_02659_SWETHRYKBROOKSTONE_000_030","你和新兵們的實力相差太多，經驗沒辦法派上用場啊。<hex:02100103>不過也不是白費功夫。<hex:02100103>能和被稱為英雄的冒險者說上話，也能鼓舞到新兵們的士氣。"
+69,"TEXT_STMBDZ109_02659_SWETHRYKBROOKSTONE_000_031","我就沒有這種作用。<hex:02100103>長官不是部下憧憬的對象，也不能成為那樣的對象。"
+70,"TEXT_STMBDZ109_02659_SWETHRYKBROOKSTONE_000_032","畢竟我們有時候要命令士兵們拼死衝鋒陷陣。<hex:02100103>但即便是那種時候，我們也一直祈禱他們能夠活下來。<hex:02100103>所以才要讓士兵們變得更加頑強。"
+71,"TEXT_STMBDZ109_02659_SWETHRYKBROOKSTONE_000_033","我們能從你們這些冒險者身上學習的東西有很多。<hex:02100103>之前我也對設立冒險者部隊表示懷疑，<hex:02100103>但現在我已經比任何人都更能認識到其重要性了。"
+72,"TEXT_STMBDZ109_02659_SWETHRYKBROOKSTONE_000_034","<hex:02084FE1E93501FF47><hex:020843E3E93580FF3B><hex:022903EB0203><hex:020831E1E93501FF29><hex:020825E3E93580FF1D><hex:022819FF14>GCRankLimsaMaleText<hex:E9350103><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03><hex:020852E1E93601FF4A><hex:020846E3E93680FF3E><hex:022903EB0203><hex:020834E1E93601FF2C><hex:020828E3E93680FF20><hex:02281CFF17>GCRankGridaniaMaleText<hex:E9360103><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03><hex:02084FE1E93701FF47><hex:020843E3E93780FF3B><hex:022903EB0203><hex:020831E1E93701FF29><hex:020825E3E93780FF1D><hex:022819FF14>GCRankUldahMaleText<hex:E9370103><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03>，我對你表示感謝。"

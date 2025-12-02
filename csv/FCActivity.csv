@@ -1,111 +1,112 @@
 ﻿key,0,1,2,3,4,5
 #,Text,SelfKind,TargetKind,NumParam,FCActivityCategory,IconType
+offset,0,4,5,6,7,8
 int32,str,byte,byte,byte,FCActivityCategory,sbyte
 0,"",0,0,0,0,-1
-1,"자유부대를 결성했습니다.",0,0,0,1,0
-2,"부대 랭크가 <Value>IntegerParameter(1)</Value>랭크로 올랐습니다.",0,0,1,1,0
-3,"<Sheet(GrandCompany,IntegerParameter(1),0)/><13>FF16022812FF0D4772616E64436F6D70616E79E8020103FF04EC9980FF04EAB3BC</13>의 우호 관계가 <Sheet(FCReputation,IntegerParameter(2),4)/> 단계로 올랐습니다.",1,0,1,1,5
-4,"<Sheet(GrandCompany,IntegerParameter(1),0)/><13>FF16022812FF0D4772616E64436F6D70616E79E8020103FF04EC9980FF04EAB3BC</13>의 우호 관계가 <Sheet(FCReputation,IntegerParameter(2),4)/> 단계로 올랐습니다.",1,0,1,1,6
-5,"<Sheet(GrandCompany,IntegerParameter(1),0)/><13>FF16022812FF0D4772616E64436F6D70616E79E8020103FF04EC9980FF04EAB3BC</13>의 우호 관계가 <Sheet(FCReputation,IntegerParameter(2),4)/> 단계로 올랐습니다.",1,0,1,1,7
-6,"<Sheet(FCRights,IntegerParameter(1),0)/> 권한을 획득했습니다.",0,0,1,1,0
-7,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 가입했습니다.",4,0,0,2,1
-8,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 가입했습니다.",4,0,0,2,1
-9,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 탈퇴했습니다.",4,0,0,2,2
-10,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 탈퇴했습니다.",4,0,0,2,2
-11,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If><14>FF1A020816E909FF1002280CFF074F626A537472E9090103EB0403FF04EBA19CFF07EC9CBCEBA19C</14> 임명되었습니다.",4,5,0,2,3
-12,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If><14>FF1A020816E909FF1002280CFF074F626A537472E9090103EB0403FF04EBA19CFF07EC9CBCEBA19C</14> 임명되었습니다.",4,5,0,2,3
-13,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If><14>FF1A020816E909FF1002280CFF074F626A537472E9090103EB0403FF04EBA19CFF07EC9CBCEBA19C</14> 임명되었습니다.",4,5,0,2,3
-14,"<Sheet(GrandCompany,IntegerParameter(1),0)/><14>FF16022812FF0D4772616E64436F6D70616E79E8020103FF04EBA19CFF07EC9CBCEBA19C</14> 이적했습니다.",0,1,0,1,5
-15,"<Sheet(GrandCompany,IntegerParameter(1),0)/><14>FF16022812FF0D4772616E64436F6D70616E79E8020103FF04EBA19CFF07EC9CBCEBA19C</14> 이적했습니다.",0,1,0,1,6
-16,"<Sheet(GrandCompany,IntegerParameter(1),0)/><14>FF16022812FF0D4772616E64436F6D70616E79E8020103FF04EBA19CFF07EC9CBCEBA19C</14> 이적했습니다.",0,1,0,1,7
-17,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 계급 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>의 설정을 변경했습니다.",4,5,0,3,3
-18,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 계급 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If><13>FF1A020816E909FF1002280CFF074F626A537472E9090103EB0403FF04EBA5BCFF04EC9D84</13> 추가했습니다.",4,5,0,3,3
-19,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 계급 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If><13>FF1A020816E909FF1002280CFF074F626A537472E9090103EB0403FF04EBA5BCFF04EC9D84</13> 삭제했습니다.",4,5,0,3,3
-20,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 계급 서열을 변경했습니다.",4,0,0,3,3
+1,"組建成了新公會！",0,0,0,1,0
+2,"公會等級提升為<hex:022003E80203>級！",0,0,1,1,0
+3,"與“<hex:022812FF0D>GrandCompany<hex:E8020103>”的友好關係提升為“<hex:022812FF0D>FCReputation<hex:E8030503>”！",1,0,1,1,5
+4,"與“<hex:022812FF0D>GrandCompany<hex:E8020103>”的友好關係提升為“<hex:022812FF0D>FCReputation<hex:E8030503>”！",1,0,1,1,6
+5,"與“<hex:022812FF0D>GrandCompany<hex:E8020103>”的友好關係提升為“<hex:022812FF0D>FCReputation<hex:E8030503>”！",1,0,1,1,7
+6,"獲得了“<hex:02280EFF09>FCRights<hex:E8020103>”的權利！",0,0,1,1,0
+7,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>加入了公會。",4,0,0,2,1
+8,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>加入了公會。",4,0,0,2,1
+9,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>退出了公會。",4,0,0,2,2
+10,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>退出了公會。",4,0,0,2,2
+11,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>就任為<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>。",4,5,0,2,3
+12,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>就任為<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>。",4,5,0,2,3
+13,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>就任為<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>。",4,5,0,2,3
+14,"公會轉到了“<hex:022812FF0D>GrandCompany<hex:E8020103>”屬下。",0,1,0,1,5
+15,"公會轉到了“<hex:022812FF0D>GrandCompany<hex:E8020103>”屬下。",0,1,0,1,6
+16,"公會轉到了“<hex:022812FF0D>GrandCompany<hex:E8020103>”屬下。",0,1,0,1,7
+17,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>修改了“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”階級的設置。",4,5,0,3,3
+18,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>添加了“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”階級。",4,5,0,3,3
+19,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>刪除了“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”階級。",4,5,0,3,3
+20,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>修改了階級的排序。",4,0,0,3,3
 21,"",4,6,1,0,-1
 22,"",4,0,0,0,-1
 23,"",4,0,0,0,-1
-24,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 부대 게시판을 수정했습니다.",4,0,0,3,4
-25,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 부대 정보를 수정했습니다.",4,0,0,3,4
-26,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 부대 문장 디자인을 변경했습니다.",4,0,0,3,8
-27,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <Sheet(CompanyAction,IntegerParameter(1),0)/><13>FF17022813FF0E436F6D70616E79416374696F6EE8020103FF04EBA5BCFF04EC9D84</13> 획득했습니다.",4,0,1,4,9
-28,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <Sheet(CompanyAction,IntegerParameter(1),0)/><13>FF17022813FF0E436F6D70616E79416374696F6EE8020103FF04EBA5BCFF04EC9D84</13> 사용했습니다.",4,0,1,4,9
-29,"이 활동은 삭제되었습니다.",0,0,0,0,4
-30,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 계급명을 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If><14>FF1A020816E909FF1002280CFF074F626A537472E9090103EB0403FF04EBA19CFF07EC9CBCEBA19C</14> 변경했습니다.",4,5,0,3,3
-31,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <Sheet(CompanyAction,IntegerParameter(1),0)/><13>FF17022813FF0E436F6D70616E79416374696F6EE8020103FF04EBA5BCFF04EC9D84</13> 취소했습니다.",4,0,1,4,9
-32,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <Sheet(CompanyAction,IntegerParameter(1),0)/><13>FF17022813FF0E436F6D70616E79416374696F6EE8020103FF04EBA5BCFF04EC9D84</13> 포기했습니다.",4,0,1,4,9
-33,"부대 약칭이 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If><14>FF1A020816E909FF1002280CFF074F626A537472E9090103EB0403FF04EBA19CFF07EC9CBCEBA19C</14> 변경되었습니다.",0,3,0,3,4
-34,"부대명이 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If><14>FF1A020816E909FF1002280CFF074F626A537472E9090103EB0403FF04EBA19CFF07EC9CBCEBA19C</14> 변경되었습니다.",0,2,0,3,4
-35,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <Sheet(PlaceName,IntegerParameter(1),0)/> <Value>IntegerParameter(2)</Value>구 <Value>IntegerParameter(3)</Value>번지에 있는 주택의 이름을 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If><14>FF1A020816E909FF1002280CFF074F626A537472E9090103EB0403FF04EBA19CFF07EC9CBCEBA19C</14> 변경했습니다.",4,9,0,5,11
-36,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>의 인사말을 변경했습니다.",4,8,0,5,11
-37,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <Sheet(PlaceName,IntegerParameter(1),0)/> <Value>IntegerParameter(2)</Value>구 <Value>IntegerParameter(3)</Value>번지의 토지를 구매했습니다.",4,7,0,5,11
-38,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <Sheet(PlaceName,IntegerParameter(1),0)/> <Value>IntegerParameter(2)</Value>구 <Value>IntegerParameter(3)</Value>번지의 토지를 포기했습니다.",4,7,0,5,11
-39,"<Sheet(PlaceName,IntegerParameter(1),0)/> <Value>IntegerParameter(2)</Value>구 <Value>IntegerParameter(3)</Value>번지의 토지가 자동으로 포기되었습니다.",0,7,0,5,11
-40,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <Sheet(PlaceName,IntegerParameter(1),0)/> <Value>IntegerParameter(2)</Value>구 <Value>IntegerParameter(3)</Value>번지에 <Sheet(HousingPreset,IntegerParameter(4),0)/><13>FF17022813FF0E486F7573696E67507265736574E8050103FF04EBA5BCFF04EC9D84</13> 건축했습니다.",4,7,1,5,11
-41,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If><13>FF1A020816E909FF1002280CFF074F626A537472E9090103EB0403FF04EBA5BCFF04EC9D84</13> 철거했습니다.",4,8,0,5,11
-42,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>의 외장을 변경했습니다.",4,8,0,5,11
-43,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>의 내장을 변경했습니다.",4,8,0,5,11
-44,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>의 소품 배치를 변경했습니다.",4,8,0,5,11
-45,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>의 조경물 배치를 변경했습니다.",4,8,0,5,11
-46,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>의 방명록 메시지를 삭제했습니다.",4,8,0,5,11
-47,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 가입 신청을 보냈습니다.",4,0,0,2,12
-48,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 보낸 가입 신청이 취소되었습니다.",4,0,0,2,12
-49,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님의 캐릭터가 삭제되었습니다.",4,0,0,2,12
-50,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 보낸 가입 신청을 거절했습니다.",4,0,0,2,12
-51,"가입 신청 한도에 도달하여 신청을 받을 수 없습니다.",0,0,0,2,12
-52,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>에 <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 심었습니다.",4,10,1,6,13
-53,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>의 작물에 <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 주었습니다.",4,10,1,6,13
-54,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>의 작물을 돌봐주었습니다.",4,10,0,6,13
-55,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>의 작물에서 <Sheet(Item,IntegerParameter(2),0)/><13>FF0E02280AFF054974656DE8030103FF04EBA5BCFF04EC9D84</13> <Value>IntegerParameter(1)</Value>개 수확했습니다.",4,11,1,6,13
-56,"또한 교잡에 성공하여 <Sheet(Item,IntegerParameter(2),0)/><13>FF0E02280AFF054974656DE8030103FF04EBA5BCFF04EC9D84</13> <Value>IntegerParameter(1)</Value>개 획득했습니다.",0,11,1,6,13
-57,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 장기간 접속하지 않아 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If><13>FF1A020816E909FF1002280CFF074F626A537472E9090103EB0403FF04EAB080FF04EC9DB4</13> 양도되었습니다.",4,5,0,2,3
-58,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>의 작물을 처분했습니다.",4,10,0,6,13
-59,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 개인실 <Value>IntegerParameter(1)</Value>호실을 증축했습니다.",4,0,1,5,11
-60,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 개인실 <Value>IntegerParameter(1)</Value>호실을 철거했습니다.",4,0,1,5,11
-61,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 축사를 청소했습니다.",4,0,0,7,11
-62,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If><13>FF1A020816E909FF1002280CFF074F626A537472E9090103EB0403FF04EBA5BCFF04EC9D84</13> 훈련했습니다.",4,12,0,7,11
-63,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 에테르석 충전대 <Value>IntegerParameter(1)</Value>번 홈에 <Sheet(Item,IntegerParameter(2),0)/><13>FF0E02280AFF054974656DE8030103FF04EBA5BCFF04EC9D84</13> 설치했습니다.",16,14,1,5,11
-64,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 에테르석 충전대 <Value>IntegerParameter(1)</Value>번 홈에서 <Sheet(Item,IntegerParameter(2),0)/><13>FF0E02280AFF054974656DE8030103FF04EBA5BCFF04EC9D84</13> 제거했습니다.",16,14,1,5,11
-65,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 에테르석 충전대 <Value>IntegerParameter(1)</Value>번 홈에서 <Sheet(Item,IntegerParameter(2),0)/><13>FF0E02280AFF054974656DE8030103FF04EBA5BCFF04EC9D84</13> 획득했습니다.",16,14,1,5,11
-66,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 변환하여 <Sheet(CompanyAction,IntegerParameter(2),0)/><13>FF17022813FF0E436F6D70616E79416374696F6EE8030103FF04EBA5BCFF04EC9D84</13> 예약했습니다.",16,14,1,4,9
-67,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 지하공방을 증축했습니다.",16,0,0,8,15
-68,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 지하공방을 철거했습니다.",16,0,0,8,15
-69,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 부대 제작설비로 <Sheet(Item,IntegerParameter(1),0)/> 제작을 시작했습니다.",16,14,0,8,15
-70,"<Sheet(Item,IntegerParameter(1),0)/>의 작업 공정 진행에 필요한 재료가 모두 납품되었습니다.",0,14,0,8,15
-71,"<Sheet(Item,IntegerParameter(1),0)/>의 <Switch(IntegerParameter(2))><Case(1)>작업 공정이 진행되었습니다.</Case><Case(2)>작업 공정이 성공적으로 진행되어 제작설비 상태가 '양호'로 변경되었습니다.</Case><Case(3)>작업 공정이 완벽하게 진행되어 제작설비 상태가 '우수'로 변경되었습니다.</Case></Switch>",0,14,1,8,15
-72,"<Switch(IntegerParameter(2))><Case(1)>작업 공정이 진행되어</Case><Case(2)>작업 공정이 성공적으로 진행되어</Case><Case(3)>작업 공정이 완벽하게 진행되어</Case></Switch> <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EAB080FF04EC9DB4</13> 완성되었습니다.",0,14,1,8,15
-73,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 부대 제작설비에서 <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 회수했습니다.",16,14,0,8,15
-74,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 부대 제작설비에서 제작을 중단했습니다.",16,0,0,8,15
-75,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <Sheet(CompanyCraftDraft,IntegerParameter(1),0)/><13>FF1B022817FF12436F6D70616E7943726166744472616674E8020103FF04EBA5BCFF04EC9D84</13> 제작했습니다.",16,0,1,8,15
-76,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <Value>IntegerParameter(1)</Value>호 비공정 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If><13>FF1A020816E909FF1002280CFF074F626A537472E9090103EB0403FF04EBA5BCFF04EC9D84</13> 등록했습니다.",16,15,1,9,14
-77,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <Value>IntegerParameter(1)</Value>호 비공정의 이름을 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If><14>FF1A020816E909FF1002280CFF074F626A537472E9090103EB0403FF04EBA19CFF07EC9CBCEBA19C</14> 변경했습니다.",16,15,1,9,14
-78,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <Value>IntegerParameter(1)</Value>호 비공정 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If><13>FF1A020816E909FF1002280CFF074F626A537472E9090103EB0403FF04EBA5BCFF04EC9D84</13> 해체했습니다.",16,15,1,9,14
-79,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 비공정 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If><14>FF1A020816E909FF1002280CFF074F626A537472E9090103EB0403FF04EBA19CFF07EC9CBCEBA19C</14> 탐사를 보냈습니다.",16,15,0,9,14
-80,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 비공정 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>의 탐사를 중단했습니다.",16,15,0,9,14
-81,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 비공정 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>의 탐사 결과를 확인했습니다.",16,15,0,9,14
-82,"비공정 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>의 랭크가 <Value>IntegerParameter(1)</Value><13>FF07022003E80203FF04EAB080FF04EC9DB4</13> 되었습니다.",16,15,1,9,14
-83,"비공정 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>의 탐사에 힘입어 <Value>IntegerParameter(1)</Value>번째 비공정을 등록할 수 있게 되었습니다.",16,15,1,9,14
-84,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 부대 명성을 <Format(IntegerParameter(1),FF022C)/> 소비하여 <Sheet(Item,IntegerParameter(2),0)/><13>FF0E02280AFF054974656DE8030103FF04EBA5BCFF04EC9D84</13> <Value>IntegerParameter(3)</Value>개 얻었습니다.",16,22,1,1,0
-85,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <Sheet(Item,IntegerParameter(1),0)/>의 재료 <Sheet(Item,IntegerParameter(2),0)/><13>FF0E02280AFF054974656DE8030103FF04EBA5BCFF04EC9D84</13> 필요한 양의 60% 이상(<Value>IntegerParameter(3)</Value>회) 납품했습니다.",16,22,1,8,15
-86,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 '디아뎀 제도(어려움)'로 가는 항로를 발견했습니다!",16,0,0,9,14
-87,"장기간 이용되지 않아 <Sheet(PlaceName,IntegerParameter(1),,0)/> <Value>IntegerParameter(2)</Value>구 <Value>IntegerParameter(3)</Value>번지의 토지가 철거되었습니다. 일부 자산은 거주구 담당관이 보관하고 있습니다.",0,7,0,5,11
-88,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 주택에 입실하여 자동 철거 준비가 취소되었습니다.",16,0,0,5,11
-89,"자산 회수 기한이 만료되어 <Sheet(PlaceName,IntegerParameter(1),,0)/> <Value>IntegerParameter(2)</Value>구 <Value>IntegerParameter(3)</Value>번지의 토지에서 회수된 자산이 소멸하였습니다.",0,7,0,5,11
-90,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 화분에 <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 심었습니다.",16,14,0,6,13
-91,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 화분의 작물을 돌봐주었습니다.",16,0,0,6,13
-92,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 화분의 작물에서 <Sheet(Item,IntegerParameter(2),0)/><13>FF0E02280AFF054974656DE8030103FF04EBA5BCFF04EC9D84</13> <Value>IntegerParameter(1)</Value>개 수확했습니다.",16,14,1,6,13
-93,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 화분의 작물을 처분했습니다.",16,0,0,6,13
-94,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <Sheet(PlaceName,IntegerParameter(1),0)/> <Value>IntegerParameter(2)</Value>구 <Value>IntegerParameter(3)</Value>번지로 이사했습니다.",4,7,0,5,11
-95,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <Value>IntegerParameter(1)</Value>호 잠수함 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If><13>FF1A020816E909FF1002280CFF074F626A537472E9090103EB0403FF04EBA5BCFF04EC9D84</13> 등록했습니다.",16,15,1,9,14
-96,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <Value>IntegerParameter(1)</Value>호 잠수함의 이름을 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If><14>FF1A020816E909FF1002280CFF074F626A537472E9090103EB0403FF04EBA19CFF07EC9CBCEBA19C</14> 변경했습니다.",16,15,1,9,14
-97,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <Value>IntegerParameter(1)</Value>호 잠수함 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If><13>FF1A020816E909FF1002280CFF074F626A537472E9090103EB0403FF04EBA5BCFF04EC9D84</13> 해체했습니다.",16,15,1,9,14
-98,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 잠수함 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If><14>FF1A020816E909FF1002280CFF074F626A537472E9090103EB0403FF04EBA19CFF07EC9CBCEBA19C</14> 탐사를 보냈습니다.",16,15,0,9,14
-99,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 잠수함 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>의 탐사를 중단했습니다.",16,15,0,9,14
-100,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 잠수함 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>의 탐사 결과를 확인했습니다.",16,15,0,9,14
-101,"잠수함 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>의 랭크가 <Value>IntegerParameter(1)</Value><13>FF07022003E80203FF04EAB080FF04EC9DB4</13> 되었습니다.",16,15,1,9,14
-102,"잠수함 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>의 탐사에 힘입어 <Value>IntegerParameter(1)</Value>번째 비공정을 등록할 수 있게 되었습니다.",16,15,1,9,14
-103,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If> 님의 메시지를 삭제했습니다.",16,23,0,5,11
-104,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 방명록 설정을 변경했습니다.",16,0,0,5,11
-105,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 주택 활동 목적을 설정했습니다.",16,0,0,5,11
-106,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>의 내장 스타일을 변경했습니다.",16,15,0,5,11
+24,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>更新了公會公告。",4,0,0,3,4
+25,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>更新了公會資訊。",4,0,0,3,4
+26,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>更新了公會徽章。",4,0,0,3,8
+27,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>獲得了“<hex:022813FF0E>CompanyAction<hex:E8020103>”的特效。",4,0,1,4,9
+28,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>使用了“<hex:022813FF0E>CompanyAction<hex:E8020103>”的特效。",4,0,1,4,9
+29,"該動態已被刪除",0,0,0,0,4
+30,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>將階級名稱更改為“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”。",4,5,0,3,3
+31,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>取消了“<hex:022813FF0E>CompanyAction<hex:E8020103>”的特效。",4,0,1,4,9
+32,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>放棄了“<hex:022813FF0E>CompanyAction<hex:E8020103>”的特效。",4,0,1,4,9
+33,"公會的簡稱已被修改為“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”。",0,3,0,3,4
+34,"公會名已被修改為“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”。",0,2,0,3,4
+35,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>將<hex:02280FFF0A>PlaceName<hex:E8020103>第<hex:022003E80303>區<hex:022003E80403>號住房名稱改成了“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”。",4,9,0,5,11
+36,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>修改了“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”的問候語。",4,8,0,5,11
+37,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>購買了<hex:02280FFF0A>PlaceName<hex:E8020103>第<hex:022003E80303>區<hex:022003E80403>號土地。",4,7,0,5,11
+38,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>廢棄了<hex:02280FFF0A>PlaceName<hex:E8020103>第<hex:022003E80303>區<hex:022003E80403>號土地。",4,7,0,5,11
+39,"<hex:02280FFF0A>PlaceName<hex:E8020103> 第<hex:022003E80303>區<hex:022003E80403>號土地被廢棄了。",0,7,0,5,11
+40,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>在<hex:02280FFF0A>PlaceName<hex:E8020103>第<hex:022003E80303>區<hex:022003E80403>號土地上搭建起了“<hex:022813FF0E>HousingPreset<hex:E8050103>”。",4,7,1,5,11
+41,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>拆除了“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”。",4,8,0,5,11
+42,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>更換了“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”的外部裝潢。",4,8,0,5,11
+43,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>更換了“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”的內部裝潢。",4,8,0,5,11
+44,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>更換了“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”的傢俱配置。",4,8,0,5,11
+45,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>更換了“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”的庭具配置。",4,8,0,5,11
+46,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>刪除了寫在“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”的訪客留言薄上的留言。",4,8,0,5,11
+47,"收到了<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>發來的加入申請。",4,0,0,2,12
+48,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>撤銷了發來的加入申請。",4,0,0,2,12
+49,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>的角色已被刪除。",4,0,0,2,12
+50,"拒絕了<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>發來的加入申請。",4,0,0,2,12
+51,"申請數量已經到達上限。",0,0,0,2,12
+52,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>在“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”裡種下了<hex:02280AFF05>Item<hex:E8020103>。",4,10,1,6,13
+53,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>對“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”裡的作物施加了<hex:02280AFF05>Item<hex:E8020103>。",4,10,1,6,13
+54,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>對“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”裡的作物澆了些水。",4,10,0,6,13
+55,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>從“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”裡的作物中收穫了<hex:022003E80203>個<hex:02280AFF05>Item<hex:E8030103>。",4,11,1,6,13
+56,"並且由於雜交成功，還收穫了<hex:022003E80203>個<hex:02280AFF05>Item<hex:E8030103>。",0,11,1,6,13
+57,"由於<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>不在，“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”已被轉讓。",4,5,0,2,3
+58,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>將“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”的作物處理掉了。",4,10,0,6,13
+59,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>增設了個人用<hex:022003E80203>號房間。",4,0,1,5,11
+60,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>撤除了個人用<hex:022003E80203>號房間。",4,0,1,5,11
+61,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>照顧了鳥欄中的陸行鳥。",4,0,0,7,11
+62,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>對<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>進行了訓練。",4,12,0,7,11
+63,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>將“<hex:02280AFF05>Item<hex:E8030103>”設置到了<hex:022003E80203>號轉軸上。",16,14,1,5,11
+64,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>將<hex:022003E80203>號轉軸上的“<hex:02280AFF05>Item<hex:E8030103>”撤了下來。",16,14,1,5,11
+65,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>從<hex:022003E80203>號轉軸上獲取了“<hex:02280AFF05>Item<hex:E8030103>”。",16,14,1,5,11
+66,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>轉換了“<hex:02280AFF05>Item<hex:E8020103>”，將“<hex:022813FF0E>CompanyAction<hex:E8030103>”儲備了下來。",16,14,1,4,9
+67,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>增建了公會工坊。",16,0,0,8,15
+68,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>拆除了公會工坊。",16,0,0,8,15
+69,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>使用公會合建設備啟動了“<hex:02280AFF05>Item<hex:E8020103>”的製作工程。",16,14,0,8,15
+70,"推進“<hex:02280AFF05>Item<hex:E8020103>”工程所必須的素材已經全部準備就緒。",0,14,0,8,15
+71,"“<hex:02280AFF05>Item<hex:E8020103>”<hex:0209B1E803FF19>的工程有所進展。<hex:FF49>的工程取得很大進展，合建設備的狀態變為“良好”。<hex:FF49>的工程取得極大進展，合建設備的狀態變為“最佳”。<hex:03>",0,14,1,8,15
+72,"<hex:02094BE803FF13>工程有所進展<hex:FF19>工程取得很大進展<hex:FF19>工程取得極大進展<hex:03>，<hex:02280AFF05>Item<hex:E8020103>製作完成。",0,14,1,8,15
+73,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>從公會合建設備中回收了“<hex:02280AFF05>Item<hex:E8020103>”。",16,14,0,8,15
+74,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>中斷了公會合建設備中的製作工程。",16,0,0,8,15
+75,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>繪製出了“<hex:022817FF12>CompanyCraftDraft<hex:E8020103>”。",16,0,1,8,15
+76,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>將第<hex:022003E80203>架飛空艇登記為“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”。",16,15,1,9,14
+77,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>將第<hex:022003E80203>架飛空艇的名字更改為“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”。",16,15,1,9,14
+78,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>拆解了登記為“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”的第<hex:022003E80203>架飛空艇。",16,15,1,9,14
+79,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>派出了飛空艇“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”去進行探索。",16,15,0,9,14
+80,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>中止了飛空艇“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”的探索。",16,15,0,9,14
+81,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>接受了“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”探索完成的報告。",16,15,0,9,14
+82,"飛空艇“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”升為<hex:022003E80203>級。",16,15,1,9,14
+83,"通過飛空艇“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”的探索，工坊可以登記第<hex:022003E80203>架飛空艇了。",16,15,1,9,14
+84,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>消耗<hex:022206E802FF022C03>點公會戰績換取了<hex:022003E80403>個“<hex:02280AFF05>Item<hex:E8030103>”。",16,22,1,1,0
+85,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>提供了<hex:020812E4E80402FF01><hex:FF0A><hex:022003E80403>次<hex:03>必需素材“<hex:02280AFF05>Item<hex:E8030103>”，貢獻了60%以上的該素材以製作“<hex:02280AFF05>Item<hex:E8020103>”。",16,22,1,8,15
+86,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>發現了“雲冠群島夜晚探索”的航線！",16,0,0,9,14
+87,"因為長時間沒有使用，<hex:022811FF0A>PlaceName<hex:E802FF01><hex:0103>第<hex:022003E80303>區<hex:022003E80403>號土地已被回收，部分資產由住宅區管理員代為保管。",0,7,0,5,11
+88,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>回到了房屋中，自動拆除準備已經取消。",16,0,0,5,11
+89,"因為資產回收期限已過，從<hex:022811FF0A>PlaceName<hex:E802FF01><hex:0103>第<hex:022003E80303>區<hex:022003E80403>號土地回收的資產已全部銷毀。",0,7,0,5,11
+90,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>在花盆中播下了<hex:02280AFF05>Item<hex:E8020103>。",16,14,0,6,13
+91,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>對花盆裡的作物澆了些水。",16,0,0,6,13
+92,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>從花盆裡的作物中收穫了<hex:022003E80203>個<hex:02280AFF05>Item<hex:E8030103>。",16,14,1,6,13
+93,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>將花盆裡的作物處理掉了。",16,0,0,6,13
+94,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>將房屋搬遷到了<hex:02280FFF0A>PlaceName<hex:E8020103>第<hex:022003E80303>區<hex:022003E80403>號土地。",4,7,0,5,11
+95,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>將第<hex:022003E80203>艘潛水艇登記為“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”。",16,15,1,9,14
+96,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>將第<hex:022003E80203>艘潛水艇的名字更改為“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”。",16,15,1,9,14
+97,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>拆解了登記為“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”的第<hex:022003E80203>艘潛水艇。",16,15,1,9,14
+98,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>派出了潛水艇“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”去進行探索。",16,15,0,9,14
+99,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>中止了潛水艇“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”的探索。",16,15,0,9,14
+100,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>接受了“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”探索完成的報告。",16,15,0,9,14
+101,"潛水艇“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”升為<hex:022003E80203>級。",16,15,1,9,14
+102,"通過潛水艇“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”的探索，工坊可以登記第<hex:022003E80203>艘潛水艇了。",16,15,1,9,14
+103,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>刪除了<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>的留言。",16,23,0,5,11
+104,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>修改了交流簿的設置。",16,0,0,5,11
+105,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>設定了房屋宣傳標籤。",16,0,0,5,11
+106,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>改建了“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”的內部。",16,15,0,5,11
 107,"",0,0,0,0,0

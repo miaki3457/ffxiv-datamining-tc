@@ -1,42 +1,22 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_CTSMJIWORKSHOPMANAGEMENT_00780_SALE_SUCCESS","주인! 주인!
-지시대로 특산품을 완성해서 출하까지 끝냈어!
-제도 무역의 매출을 확인해 봐!"
-1,"TEXT_CTSMJIWORKSHOPMANAGEMENT_00780_OWNER_OTHER","미안!
-이 섬의 개척공방 관리 정보는
-우리 주인이 아니면 보여줄 수 없어!"
-2,"TEXT_CTSMJIWORKSHOPMANAGEMENT_00780_CHECK_OVER_GILLS","시엘달레 화폐: 청선화가 최대 보유 수를
-초과하므로 일부를 받을 수 없습니다.
-계속하시겠습니까?"
-3,"TEXT_CTSMJIWORKSHOPMANAGEMENT_00780_MENU_00","어떻게 하시겠습니까?"
-4,"TEXT_CTSMJIWORKSHOPMANAGEMENT_00780_MENU_01","개척공방 일정 설정"
-5,"TEXT_CTSMJIWORKSHOPMANAGEMENT_00780_MENU_02","제도 무역의 매출 확인"
-6,"TEXT_CTSMJIWORKSHOPMANAGEMENT_00780_MENU_03","개척공방과 제도 무역에 대해 묻기"
-7,"TEXT_CTSMJIWORKSHOPMANAGEMENT_00780_MENU_04","매상을 올리는 비결 묻기"
-8,"TEXT_CTSMJIWORKSHOPMANAGEMENT_00780_MENU_05","취소"
-9,"TEXT_CTSMJIWORKSHOPMANAGEMENT_00780_INTRODUCTION_TALK_01","'개척공방'에서는 무인도에서 구한 재료를 가지고
-'특산품'을 생산할 수 있어!"
-10,"TEXT_CTSMJIWORKSHOPMANAGEMENT_00780_INTRODUCTION_TALK_02","나에게 일정을 지시하면
-지시대로 특산품을 생산해서
-림사 로민사로 출하한다는 말씀!"
-11,"TEXT_CTSMJIWORKSHOPMANAGEMENT_00780_INTRODUCTION_TALK_03","그런데 특산품을 생산하고 출하하는 데에는
-시간이 좀 걸리니, 일정 지시를 내린 다음에는
-어디 가서 낮잠이라도 자면서 매상이 나오길 기다려줘."
+0,"TEXT_CTSMJIWORKSHOPMANAGEMENT_00780_SALE_SUCCESS","主人！主人！<hex:02100103>按照你的指示！我們做成的海島產品都賣出去啦！<hex:02100103>快來看看群島貿易的收益吧！"
+1,"TEXT_CTSMJIWORKSHOPMANAGEMENT_00780_OWNER_OTHER","抱歉啦！<hex:02100103>這座小島的開拓工坊的管理情報，<hex:02100103>除了我家主人以外誰都不許看！"
+2,"TEXT_CTSMJIWORKSHOPMANAGEMENT_00780_CHECK_OVER_GILLS","謝爾達萊青船幣數量已達到上限，無法獲得全額報酬。<hex:02100103>確定要領取報酬嗎？"
+3,"TEXT_CTSMJIWORKSHOPMANAGEMENT_00780_MENU_00","要做什麼？"
+4,"TEXT_CTSMJIWORKSHOPMANAGEMENT_00780_MENU_01","制定開拓工坊的生產計劃"
+5,"TEXT_CTSMJIWORKSHOPMANAGEMENT_00780_MENU_02","查看群島貿易的收益"
+6,"TEXT_CTSMJIWORKSHOPMANAGEMENT_00780_MENU_03","關於開拓工坊和群島貿易"
+7,"TEXT_CTSMJIWORKSHOPMANAGEMENT_00780_MENU_04","關於增加收益的訣竅"
+8,"TEXT_CTSMJIWORKSHOPMANAGEMENT_00780_MENU_05","取消"
+9,"TEXT_CTSMJIWORKSHOPMANAGEMENT_00780_INTRODUCTION_TALK_01","開拓工坊是將你在無人島上收集到的素材<hex:02100103>加工成海島產品的地方。"
+10,"TEXT_CTSMJIWORKSHOPMANAGEMENT_00780_INTRODUCTION_TALK_02","我會按照你給出的生產計劃進行工作，<hex:02100103>生產你要求的海島產品，<hex:02100103>賣去利姆薩·羅敏薩賺大錢！"
+11,"TEXT_CTSMJIWORKSHOPMANAGEMENT_00780_INTRODUCTION_TALK_03","不過，海島產品從生產到出貨要花費一定的時間。<hex:02100103>你制定好生產計劃之後就可以悠閒地打個盹，<hex:02100103>等著東西賣出去收錢啦。"
 12,"TEXT_CTSMJIWORKSHOPMANAGEMENT_00780_INTRODUCTION_TALK_04","（★未使用／削除予定★）"
-13,"TEXT_CTSMJIWORKSHOPMANAGEMENT_00780_ADVICE_TALK_01","제도 무역의 매출을 올리는 비결?
-물론 있고말고!
-바로 '효율 생산'을 발동하면 돼!"
-14,"TEXT_CTSMJIWORKSHOPMANAGEMENT_00780_ADVICE_TALK_02","특산품에는 '조미료'나 '일용품' 같이 분류하는 범주가 있어.
-분류가 같은 특산품을 계속해서 생산하면
-공방의 의욕도 쭉쭉 올라가…… 이게 바로 '효율 생산'이란 말씀!"
-15,"TEXT_CTSMJIWORKSHOPMANAGEMENT_00780_ADVICE_TALK_03","'효율 생산'을 하게 되면 엄청나게 생산 효율이 올라서
-같은 비용으로 무려 2배나 많은 특산품을 만들 수 있다고!
-생산량이 2배니 출하량도 2배, 매출도 2배란 말씀!"
-16,"TEXT_CTSMJIWORKSHOPMANAGEMENT_00780_ADVICE_TALK_04","하지만…… 똑같은 특산품끼리는 '효율 생산'이 발동하지 않아.
-연달아서 똑같은 작업을 하면 우리도 좀 지겹거든.
-일정을 설정할 때 그 점을 주의해줘."
-17,"TEXT_CTSMJIWORKSHOPMANAGEMENT_00780_ADVICE_TALK_05","림사 로민사에서 인기 있는 물건이나
-희귀 재료는 평소보다 높은 값으로 팔리기도 하는 모양이야.
-특산품의 수요를 조사한 다음 일정을 설정해 봐!"
+13,"TEXT_CTSMJIWORKSHOPMANAGEMENT_00780_ADVICE_TALK_01","想要增加群島貿易的收益，有什麼訣竅？<hex:02100103>那當然是有訣竅的啦！<hex:02100103>那就是要組合生產！"
+14,"TEXT_CTSMJIWORKSHOPMANAGEMENT_00780_ADVICE_TALK_02","海島產品有著調味料、日用品等等不同分類。<hex:02100103>如果一直持續生產同一分類的海島產品，<hex:02100103>工坊的大家就會變得更有幹勁……這種情況是我所說的組合生產啦！"
+15,"TEXT_CTSMJIWORKSHOPMANAGEMENT_00780_ADVICE_TALK_03","如果成功發動了組合生產，工坊的效率就會獲得極大提升，<hex:02100103>消耗和平常一樣的材料，將會獲得2倍的海島產品！<hex:02100103>生產了2倍，就能賣出去2倍！得到的收益也是2倍！可不就賺翻啦！"
+16,"TEXT_CTSMJIWORKSHOPMANAGEMENT_00780_ADVICE_TALK_04","不過……一直生產同一樣的海島產品，並不會引發組合生產。<hex:02100103>如果一直埋頭做完全一樣的重複工作，我們也是會膩的。<hex:02100103>所以你制定生產計劃的時候一定要注意哦！"
+17,"TEXT_CTSMJIWORKSHOPMANAGEMENT_00780_ADVICE_TALK_05","除此以外，賺錢的方法還有生產在利姆薩·羅敏薩出名的東西，<hex:02100103>或者將原料便宜的產品用比平常更高的價格賣出去等等。<hex:02100103>你制定生產計劃之前，得調查對海島產品的需求才行！"

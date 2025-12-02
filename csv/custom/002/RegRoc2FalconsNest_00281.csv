@@ -1,41 +1,21 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGROC2FALCONSNEST_00281_FALCONSNESTGUIDE_000_000","오늘도 이상 무…….
-음? 나한테 볼일이 있나?"
-1,"TEXT_REGROC2FALCONSNEST_00281_FALCONSNESTGUIDE_000_001","이런 시국에 무슨 일이냐……?
-폭동에 관한 질문이라면 다른 사람을 알아봐라."
-2,"TEXT_REGROC2FALCONSNEST_00281_FALCONSNESTGUIDE_000_002","매의 보금자리에 대해 미리 몇 가지 알아두는 건 어떤가?
-이번 행사를 더 깊이 이해할 수 있을 거다!"
-3,"TEXT_REGROC2FALCONSNEST_00281_FALCONSNESTGUIDE_000_003","여기는 이상 무!
-앞으로 더 바짝 정신 차려야겠어.
-그런데…… 내게 무슨 볼일이 있나?"
-4,"TEXT_REGROC2FALCONSNEST_00281_Q1_000_000","무엇을 물어보시겠습니까?"
-5,"TEXT_REGROC2FALCONSNEST_00281_A1_000_001","당신의 이야기를 들려달라고 한다"
-6,"TEXT_REGROC2FALCONSNEST_00281_A1_000_002","여기는 어떤 곳인지 물어본다"
-7,"TEXT_REGROC2FALCONSNEST_00281_A1_000_003","취소"
-8,"TEXT_REGROC2FALCONSNEST_00281_FALCONSNESTGUIDE_000_010","나는 이슈가르드 사대 명가 중 하나인
-뒤랑데르 가에 소속된 기사다."
-9,"TEXT_REGROC2FALCONSNEST_00281_FALCONSNESTGUIDE_000_011","현재 뒤랑데르 가는 제멜 가와 합동하여
-이 땅을 군사기지로 조성하는 사업을 추진하고 있지.
-나는 그 현장을 지키는 역할을 담당하고 있다."
-10,"TEXT_REGROC2FALCONSNEST_00281_FALCONSNESTGUIDE_000_012","드래곤족과 이단자, 그리고 사나운 마물들…….
-이곳은 위험이 도사리고 있어서 한순간도 방심할 수 없다.
-귀공도 항상 경계를 늦추지 않도록 해."
-11,"TEXT_REGROC2FALCONSNEST_00281_FALCONSNESTGUIDE_000_100","나는 이슈가르드 사대 명가 중 하나인
-뒤랑데르 가에 소속된 기사다."
-12,"TEXT_REGROC2FALCONSNEST_00281_FALCONSNESTGUIDE_000_101","현재 뒤랑데르 가는 제멜 가와 합동하여
-이 땅을 군사기지로 조성하는 사업을 추진하고 있지.
-나는 그 현장을 지키는 역할을 담당하고 있다."
-13,"TEXT_REGROC2FALCONSNEST_00281_FALCONSNESTGUIDE_000_102","하지만 꼭 인간의 안전만을 지키는 건 아니야.
-성룡의 일족과 함께 맹세한 인간과 용의 평화……
-그리고 그 상징인 조각에 부끄럽지 않게 살아가겠다!"
-14,"TEXT_REGROC2FALCONSNEST_00281_FALCONSNESTGUIDE_000_020","이곳은 '매의 보금자리'라고 한다.
-드래곤족을 신속히 발견하기 위해 상주했던 매부리가
-흰 매를 많이 길렀던 것이 이름의 유래가 되었지."
-15,"TEXT_REGROC2FALCONSNEST_00281_FALCONSNESTGUIDE_000_021","하지만 그것도 지금은 옛날이야기가 되었다.
-제7재해로 인해 한파가 몰아친 이 땅은
-눈과 얼음에 갇혀 버려진 곳이 되었으니까."
-16,"TEXT_REGROC2FALCONSNEST_00281_FALCONSNESTGUIDE_000_022","재해로부터 5년이 지난 지금이 되어서야
-서부고지를 견제하기 위한 거점으로서 재건이 시작되었지.
-이 땅에 또다시 매가 둥지를 트는 날도 그리 머지않았다."
+0,"TEXT_REGROC2FALCONSNEST_00281_FALCONSNESTGUIDE_000_000","並無異常情況……<hex:02100103>嗯，你找我有什麼事嗎？"
+1,"TEXT_REGROC2FALCONSNEST_00281_FALCONSNESTGUIDE_000_001","你這個時候來找我是有什麼事嗎？<hex:02100103>如果想要問關於暴動的事，那還是找別人吧。"
+2,"TEXT_REGROC2FALCONSNEST_00281_FALCONSNESTGUIDE_000_002","你想要趁現在學習一下有關隼巢的事情嗎？<hex:02100103>或許可以加深你對慶典的理解！"
+3,"TEXT_REGROC2FALCONSNEST_00281_FALCONSNESTGUIDE_000_003","這邊並無異常情況！<hex:02100103>之後必須要更加提高警惕才行。<hex:02100103>……話說你找我有什麼事嗎？"
+4,"TEXT_REGROC2FALCONSNEST_00281_Q1_000_000","想了解什麼？"
+5,"TEXT_REGROC2FALCONSNEST_00281_A1_000_001","你是做什麼的？"
+6,"TEXT_REGROC2FALCONSNEST_00281_A1_000_002","這裡是什麼地方？"
+7,"TEXT_REGROC2FALCONSNEST_00281_A1_000_003","取消"
+8,"TEXT_REGROC2FALCONSNEST_00281_FALCONSNESTGUIDE_000_010","我是隸屬於伊修加爾德四大名門之一的狄蘭達爾家的騎士。"
+9,"TEXT_REGROC2FALCONSNEST_00281_FALCONSNESTGUIDE_000_011","目前狄蘭達爾家和澤梅爾家合作在這裡建立據點，<hex:02100103>而我的任務就是負責守衛。"
+10,"TEXT_REGROC2FALCONSNEST_00281_FALCONSNESTGUIDE_000_012","這週遭充滿了危險……<hex:02100103>龍族、異端者、殘暴的魔物，就算是巡邏也一刻都不能大意。<hex:02100103>你也一樣，千萬不要疏於防範。"
+11,"TEXT_REGROC2FALCONSNEST_00281_FALCONSNESTGUIDE_000_100","我是隸屬於伊修加爾德四大名門之一的狄蘭達爾家的騎士。"
+12,"TEXT_REGROC2FALCONSNEST_00281_FALCONSNESTGUIDE_000_101","目前狄蘭達爾家和澤梅爾家合作在這裡建立據點，<hex:02100103>而我的任務就是負責守衛。"
+13,"TEXT_REGROC2FALCONSNEST_00281_FALCONSNESTGUIDE_000_102","不過，我要守衛的並不單單是人身上的安全。<hex:02100103>和聖龍的眷屬立下的誓約，人和龍的和平……<hex:02100103>這些也是我要誓死守衛的，我是不會讓象徵著這些的浮雕蒙羞的！"
+14,"TEXT_REGROC2FALCONSNEST_00281_FALCONSNESTGUIDE_000_020","這裡是隼巢。<hex:02100103>為了提早發現龍族動向，常駐在這裡的馴鷹人飼養了許多白鷹。<hex:02100103>這裡也因此而得名。"
+15,"TEXT_REGROC2FALCONSNEST_00281_FALCONSNESTGUIDE_000_021","但是，今非昔比。<hex:02100103>自第七靈災以來，受氣候急遽變冷的影響，<hex:02100103>這裡被廢棄，進而被冰雪封住了。"
+16,"TEXT_REGROC2FALCONSNEST_00281_FALCONSNESTGUIDE_000_022","現在，靈災過去5年了，<hex:02100103>這裡作為監視西部高地的據點正在進行重建，<hex:02100103>看來要不了多久，就可以重現昔日的景象了。"

@@ -1,26 +1,15 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGFSTFALLGOURDFLOAT_00130_THIERRAND_000_000","오, 모험가시군요.
-제게 무슨 용건이라도?"
-1,"TEXT_REGFSTFALLGOURDFLOAT_00130_THIERRAND_000_010","저는 도사님이 내리는 지시에 따라
-정령과 인간을 이어주는 다리 역할을 하고 있습니다."
-2,"TEXT_REGFSTFALLGOURDFLOAT_00130_THIERRAND_000_011","숲 속에 마을을 만들려면
-나무를 베어내고 숲을 다치게 해야 하죠.
-그럴 바에야, 탁 트인 호수 위에 만들면 어떨까……."
-3,"TEXT_REGFSTFALLGOURDFLOAT_00130_THIERRAND_000_012","그렇게 숲을 사랑하는 마음에서 태어난 것이 이 마을입니다.
-주민들이 평온한 삶을 누리고 숲과 조화를 이룰 수 있도록
-최선을 다하려고 합니다."
-4,"TEXT_REGFSTFALLGOURDFLOAT_00130_THIERRAND_000_020","가을박 호수 위에 세워진 마을, '가을박 마을'입니다.
-마치 호수 위에 떠 있는 것처럼 보이기 때문에
-'물에 뜬 마을'이라고 부르는 사람도 있고요."
-5,"TEXT_REGFSTFALLGOURDFLOAT_00130_THIERRAND_000_021","커르다스 지방으로 통하는 길목에 있기에
-북쪽으로 향하는 상인들이 주로 머무는 곳이기도 하죠.
-특히 '둥둥 뜬 코르크 여관'은 아주 유명하답니다."
-6,"TEXT_REGFSTFALLGOURDFLOAT_00130_THIERRAND_000_022","하지만 요즘은 오가는 상인이 점점 줄고 있습니다.
-재해로 인해 막혀버린 길이나 다리가 많아
-커르다스를 향한 여정이 한층 더 험난해졌으니까요."
-7,"TEXT_REGFSTFALLGOURDFLOAT_00130_Q1_000_000","무엇을 물어보시겠습니까?"
-8,"TEXT_REGFSTFALLGOURDFLOAT_00130_A1_000_001","당신의 이야기를 들려달라고 한다"
-9,"TEXT_REGFSTFALLGOURDFLOAT_00130_A1_000_002","여기는 어떤 곳인지 물어본다"
-10,"TEXT_REGFSTFALLGOURDFLOAT_00130_A1_000_003","취소"
+0,"TEXT_REGFSTFALLGOURDFLOAT_00130_THIERRAND_000_000","哎呀，你是冒險者吧。<hex:02100103>找我有什麼事啊？"
+1,"TEXT_REGFSTFALLGOURDFLOAT_00130_THIERRAND_000_010","我是一名幻術士，遵從法師大人的指示，<hex:02100103>為聖靈和人類之間的溝通架起橋樑。"
+2,"TEXT_REGFSTFALLGOURDFLOAT_00130_THIERRAND_000_011","原本，人們想要在森林中建立村落，<hex:02100103>但那樣的話，就必定要砍伐樹木，對森林造成傷害。<hex:02100103>因此，人們就考慮，在開放的湖面上建造不就好了？"
+3,"TEXT_REGFSTFALLGOURDFLOAT_00130_THIERRAND_000_012","所以，正是這種為森林著想的想法，才誕生了這座村落。<hex:02100103>為了能讓村民們安居樂業，也為了維持人類與森林之間的和諧，<hex:02100103>我會全力以赴，全心全意為人民服務的。"
+4,"TEXT_REGFSTFALLGOURDFLOAT_00130_THIERRAND_000_020","這裡是秋瓜浮村，是一座建立在秋瓜湖湖面上的村落。<hex:02100103>有的人也因這座村落的形態，直接稱這裡是「浮村」。"
+5,"TEXT_REGFSTFALLGOURDFLOAT_00130_THIERRAND_000_021","因為這座村落位於通往庫爾札斯地區的道路沿線上，<hex:02100103>所以也是北上商人們的驛站。<hex:02100103>「浮栓亭」就是家有名的旅店，我們都引以為傲呢。"
+6,"TEXT_REGFSTFALLGOURDFLOAT_00130_THIERRAND_000_022","不過現在，來往的商人在逐漸減少。<hex:02100103>因為之前的靈災，許多橋樑和道路都塌陷了。<hex:02100103>通往庫爾札斯的路也越來越險惡了。"
+7,"TEXT_REGFSTFALLGOURDFLOAT_00130_Q1_000_000","想了解什麼？"
+8,"TEXT_REGFSTFALLGOURDFLOAT_00130_A1_000_001","你是做什麼的？"
+9,"TEXT_REGFSTFALLGOURDFLOAT_00130_A1_000_002","這裡是什麼地方？"
+10,"TEXT_REGFSTFALLGOURDFLOAT_00130_A1_000_003","取消"

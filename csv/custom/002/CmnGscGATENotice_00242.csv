@@ -1,18 +1,11 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_CMNGSCGATENOTICE_00242_TALK_ACTOR","'<Switch(IntegerParameter(3))><Case(1)>신비의 광장 동쪽</Case><Case(2)>이벤트 광장</Case><Case(3)>원형 광장</Case><Case(4)>복권 추첨소</Case></Switch>'에서 골드 소서가 주최하는
-<Switch(IntegerParameter(2))><Case(1)>'구해라! 꼬마 친구 구조대'가</Case><Case(2)>'달려라! 랍토르 운수'가</Case><Case(3)>'찾아라! 변신 능력자'가</Case><Case(4)>'춤춰라! 댄스 마스터'가</Case><Case(5)>'버텨라! 콧바람 폭풍'이</Case><Case(6)>'뛰어라! 점핑 운동회'가</Case><Case(7)>'출격! 에어포스 조종사'가</Case><Case(8)>'피해라! 참마 삼매경'이</Case></Switch> 개최될 예정입니다.
-많은 참가 부탁드립니다!"
-1,"TEXT_CMNGSCGATENOTICE_00242_TALK_SYSTEM","다음 '돌발 게임'은 (현실 시간) <Time(IntegerParameter(1))/><If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시 <TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>분에
-'<Switch(IntegerParameter(3))><Case(1)>신비의 광장 동쪽</Case><Case(2)>이벤트 광장</Case><Case(3)>원형 광장</Case><Case(4)>복권 추첨소</Case></Switch>'에서 개최됩니다.
-현장에 나타난 인물에게 말을 걸어 참가하세요!"
-2,"TEXT_CMNGSCGATENOTICE_00242_GATE_IN_SESSION","현재 <Switch(IntegerParameter(1))><Case(1)>'구해라! 꼬마 친구 구조대'가</Case><Case(2)>'달려라! 랍토르 운수'가</Case><Case(3)>'찾아라! 변신 능력자'가</Case><Case(4)>'춤춰라! 댄스 마스터'가</Case><Case(5)>'버텨라! 콧바람 폭풍'이</Case><Case(6)>'뛰어라! 점핑 운동회'가</Case><Case(7)>'출격! 에어포스 조종사'가</Case><Case(8)>'피해라! 참마 삼매경'이</Case></Switch>
-'<Switch(IntegerParameter(2))><Case(1)>신비의 광장 동쪽</Case><Case(2)>이벤트 광장</Case><Case(3)>원형 광장</Case><Case(4)>복권 추첨소</Case></Switch>'에서 참가 접수 중입니다.
-많은 참가 부탁드립니다!"
-3,"TEXT_CMNGSCGATENOTICE_00242_WARP_QUERY","개최 장소로 안내해 드릴까요?"
-4,"TEXT_CMNGSCGATENOTICE_00242_WARP_GO","예"
-5,"TEXT_CMNGSCGATENOTICE_00242_WARP_CANCEL","아니요"
-6,"TEXT_CMNGSCGATENOTICE_00242_GATE_CLOSE_SESSION","현재 <Switch(IntegerParameter(1))><Case(1)>'구해라! 꼬마 친구 구조대'가</Case><Case(2)>'달려라! 랍토르 운수'가</Case><Case(3)>'찾아라! 변신 능력자'가</Case><Case(4)>'춤춰라! 댄스 마스터'가</Case><Case(5)>'버텨라! 콧바람 폭풍'이</Case><Case(6)>'뛰어라! 점핑 운동회'가</Case><Case(7)>'출격! 에어포스 조종사'가</Case><Case(8)>'피해라! 참마 삼매경'이</Case></Switch>
-'<Switch(IntegerParameter(2))><Case(1)>신비의 광장 동쪽</Case><Case(2)>이벤트 광장</Case><Case(3)>원형 광장</Case><Case(4)>복권 추첨소</Case></Switch>'에서 진행되고 있습니다.
-많은 관람 부탁드립니다!"
+0,"TEXT_CMNGSCGATENOTICE_00242_TALK_ACTOR","接下來我們將在<hex:020938E804FF0D>奇妙廣場<hex:FF0D>演出廣場<hex:FF0D>圓形廣場<hex:FF0A>仙人彩<hex:03>開展<hex:02100103>「<hex:0209C4E803FF19>搶救小雛鳥大作戰<hex:FF19>從天而降的送貨人<hex:FF19>火眼金睛的追蹤者<hex:FF16>舞蹈大師的特訓<hex:FF10>暴風倖存者<hex:FF19>登高跳跳樂大挑戰<hex:FF16>空軍裝甲駕駛員<hex:FF19>必中一閃快刀斬魔<hex:03>」活動。<hex:02100103>客人您也請踴躍參加吧！"
+1,"TEXT_CMNGSCGATENOTICE_00242_TALK_SYSTEM","下一次G.A.T.E.事件將於<hex:020703E80203><hex:020821DBFF1D><hex:020919DB02030405060708090A0B0C0D0E0F10111213141516171803><hex:0103>點<hex:022402DA03>分（地球時間）<hex:02100103>在<hex:020938E804FF0D>奇妙廣場<hex:FF0D>演出廣場<hex:FF0D>圓形廣場<hex:FF0A>仙人彩<hex:03>出現。<hex:02100103>屆時可以透過和現場的人物對話來參加活動。"
+2,"TEXT_CMNGSCGATENOTICE_00242_GATE_IN_SESSION","現在<hex:020938E803FF0D>奇妙廣場<hex:FF0D>演出廣場<hex:FF0D>圓形廣場<hex:FF0A>仙人彩<hex:03>正在開展<hex:02100103>「<hex:0209C4E802FF19>搶救小雛鳥大作戰<hex:FF19>從天而降的送貨人<hex:FF19>火眼金睛的追蹤者<hex:FF16>舞蹈大師的特訓<hex:FF10>暴風倖存者<hex:FF19>登高跳跳樂大挑戰<hex:FF16>空軍裝甲駕駛員<hex:FF19>必中一閃快刀斬魔<hex:03>」活動！<hex:02100103>客人您也請踴躍參加吧！"
+3,"TEXT_CMNGSCGATENOTICE_00242_WARP_QUERY","要前往活動的舉辦地點嗎？"
+4,"TEXT_CMNGSCGATENOTICE_00242_WARP_GO","是"
+5,"TEXT_CMNGSCGATENOTICE_00242_WARP_CANCEL","否"
+6,"TEXT_CMNGSCGATENOTICE_00242_GATE_CLOSE_SESSION","現在<hex:020938E803FF0D>奇妙廣場<hex:FF0D>演出廣場<hex:FF0D>圓形廣場<hex:FF0A>仙人彩<hex:03>正在開展<hex:02100103>「<hex:0209C4E802FF19>搶救小雛鳥大作戰<hex:FF19>從天而降的送貨人<hex:FF19>火眼金睛的追蹤者<hex:FF16>舞蹈大師的特訓<hex:FF10>暴風倖存者<hex:FF19>登高跳跳樂大挑戰<hex:FF16>空軍裝甲駕駛員<hex:FF19>必中一閃快刀斬魔<hex:03>」活動！<hex:02100103>現在報名已經結束，客人您可以前去參觀活動！"

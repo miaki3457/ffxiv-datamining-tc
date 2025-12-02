@@ -1,5 +1,6 @@
 ﻿key,0,1,2,3
 #,,,LogMessage,
+offset,6,4,0,5
 int32,bit&01,byte,LogMessage,byte
 0,False,0,0,0
 1,False,0,7701,200

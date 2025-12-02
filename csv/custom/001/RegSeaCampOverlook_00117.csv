@@ -1,33 +1,18 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_000","모험가가 나한테 무슨 볼일이야?
-너무 어려운 건 물어보지 마."
-1,"TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_010","나는 흑와단에서 제일 미친 부대로 유명한
-타격함대 소속 상륙부대, 일명 '붉은 제비 상륙부대'의 일원이야."
-2,"TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_011","우리 부대원은 죄다 해적 출신이라
-거칠긴 해도 하나같이 믿음직스러운 녀석들이지."
-3,"TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_012","싸움터가 배 위에서 절벽 위로 바뀌긴 했지만
-코볼드족을 상대로 한바탕 날뛰는 것도 나쁘지 않지.
-적어도 난 그렇게 생각해."
-4,"TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_100_012","싸움터가 배 위에서 절벽 위로 바뀌긴 했지만
-림사 로민사를 지키기 위해서 한바탕 날뛰는 것도 나쁘지 않지.
-적어도 난 그렇게 생각해."
-5,"TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_020","여긴 코볼드족과 싸우기 위한 전초 기지야.
-절벽 위에서 놈들의 무장광산을 감시하는 곳이니까
-'감시대 야영지'라고 불러. 참 알기 쉽지?"
-6,"TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_021","놈들은 마구잡이로 수를 불리더니
-모자란 식량과 광맥을 찾아 남쪽으로 내려오려 하고 있어.
-여길 경비하면서 한시도 마음 놓을 수가 없다니까."
-7,"TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_030","여긴 코볼드족과 싸우기 위한 전초 기지야.
-절벽 위에서 놈들의 무장광산을 감시하는 곳이니까
-'감시대 야영지'라고 불러. 참 알기 쉽지?"
-8,"TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_031","하지만 제2땅굴단과 평화조약을 맺은 지금,
-이 기지의 목적도 크게 변했어."
-9,"TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_032","제2땅굴단 녀석들과 협력하면서
-신도화된 코볼드족들을 감시하고 치료도 조금씩 할 거야.
-이곳은 그 활동을 위한 거점이 되었어."
-10,"TEXT_REGSEACAMPOVERLOOK_00117_Q1_000_000","무엇을 물어보시겠습니까?"
-11,"TEXT_REGSEACAMPOVERLOOK_00117_A1_000_001","당신의 이야기를 들려달라고 한다"
-12,"TEXT_REGSEACAMPOVERLOOK_00117_A1_000_002","여기는 어떤 곳인지 물어본다"
-13,"TEXT_REGSEACAMPOVERLOOK_00117_A1_000_003","취소"
+0,"TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_000","冒險者找我有什麼事啊？<hex:02100103>你要是問我太難的問題我也答不上來的。"
+1,"TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_010","我是「紅燕陸戰隊」的一員，<hex:02100103>那可是被稱作黑渦團裡「最狂」的打擊艦隊所屬陸戰隊。"
+2,"TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_011","我們部隊裡都是一些當過海盜的人。<hex:02100103>雖然粗魯狂野了些，不過都是些靠得住的傢伙。"
+3,"TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_012","雖然我們的戰場從船上變成了懸崖上，<hex:02100103>不過和地靈族幹仗的生活也不錯。<hex:02100103>我就是這麼認為的。"
+4,"TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_100_012","雖然我們的戰場從船上變成了懸崖上，<hex:02100103>不過為了保護利姆薩·羅敏薩的生活也不錯。<hex:02100103>我就是這麼認為的。"
+5,"TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_020","這裡是和地靈族對抗的前線基地。<hex:02100103>在懸崖上可以很好地監控他們的武裝礦山……<hex:02100103>所以才叫瞭望陣營地，怎麼樣，很好懂吧？"
+6,"TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_021","地靈族那些傢伙增殖太快了，<hex:02100103>為了尋找食物和礦脈，想要南下。<hex:02100103>所以這裡的警備一點都不能疏忽。"
+7,"TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_030","這裡是和地靈族對抗的前線基地。<hex:02100103>在懸崖上可以很清楚地看到他們的武裝礦山……<hex:02100103>所以才叫瞭望陣營地，怎麼樣，很好懂吧？"
+8,"TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_031","不過，現在我們已經與第2洞穴團和解了，<hex:02100103>所以，這基地的作用也有了很大的改變。"
+9,"TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_032","主要是與第2洞穴團的傢伙們<hex:02100103>一起監視被精煉的地靈族，<hex:02100103>同時再一點一點對他們進行治療。"
+10,"TEXT_REGSEACAMPOVERLOOK_00117_Q1_000_000","想了解什麼？"
+11,"TEXT_REGSEACAMPOVERLOOK_00117_A1_000_001","你是做什麼的？"
+12,"TEXT_REGSEACAMPOVERLOOK_00117_A1_000_002","這裡是什麼地方？"
+13,"TEXT_REGSEACAMPOVERLOOK_00117_A1_000_003","取消"

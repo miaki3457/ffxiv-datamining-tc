@@ -1,17 +1,11 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_FESSUM302_02957_SEQ_00","※ 이 퀘스트는 기간 한정 퀘스트입니다.
-
-늘여름 섬의 불꽃축제 실행위원 페오뱌노는 모험가에게 해상 불꽃놀이 준비를 도와주길 바라는 듯하다. "
-1,"TEXT_FESSUM302_02957_SEQ_01","※ 이 퀘스트는 기간 한정 이벤트 개최 기간에만
-   진행하실 수 있습니다.
-   개최 기간이 끝나면 진행하실 수 없으니 주의하십시오.
-   자세한 사항은 공식 홈페이지를 참조하시기 바랍니다.
-
-페오뱌노한테서 불꽃놀이 점화를 부탁받았다. 늘여름 섬 부근에 3군데 있는 '<Sheet(EObj,2009015,0)/>'에 '<Sheet(EventItem,2002395,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8DDB0103FF04EBA5BCFF04EC9D84</13> 사용하자."
-2,"TEXT_FESSUM302_02957_SEQ_02","'<Sheet(EObj,2009015,0)/>'에 '<Sheet(EventItem,2002395,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8DDB0103FF04EBA5BCFF04EC9D84</13> 사용하여 점화했다. 늘여름 섬의 '불꽃축제 실행위원 페오뱌노'에게 보고하자. "
-3,"TEXT_FESSUM302_02957_SEQ_03","페오뱌노에게 보고했다. 생각이 있으면 다시 그녀에게 말을 걸어서 해상 불꽃놀이 준비를 도와주는 것도 괜찮을 것 같다. "
+0,"TEXT_FESSUM302_02957_SEQ_00","※本任務是特定期間內的任務。<hex:02100103><hex:02100103>永夏島的紅蓮祭執行委員佩·歐碧雅諾希望冒險者能幫忙點燃海上煙火。"
+1,"TEXT_FESSUM302_02957_SEQ_01","※本任務只有在季節活動開放期間才能接受和進行。<hex:02100103>　季節活動結束後無法進行，敬請注意。<hex:02100103>　詳情請參閱官方網站。<hex:02100103><hex:02100103>佩·歐碧雅諾委託冒險者點燃煙火。對永夏島附近的3處<hex:02280CFF05>EObj<hex:F61EA7B70103>使用<hex:022811FF0A>EventItem<hex:F61E8DDB0103>。"
+2,"TEXT_FESSUM302_02957_SEQ_02","對<hex:02280CFF05>EObj<hex:F61EA7B70103>使用了<hex:022811FF0A>EventItem<hex:F61E8DDB0103>，點燃了煙火。向永夏島的紅蓮祭執行委員佩·歐碧雅諾報告。"
+3,"TEXT_FESSUM302_02957_SEQ_03","向佩·歐碧雅諾進行了報告。如果有興趣的話，再來幫她放煙火似乎也是個不錯的選擇。"
 4,"TEXT_FESSUM302_02957_SEQ_04",""
 5,"TEXT_FESSUM302_02957_SEQ_05",""
 6,"TEXT_FESSUM302_02957_SEQ_06",""
@@ -32,8 +26,8 @@ int32,str,str
 21,"TEXT_FESSUM302_02957_SEQ_21",""
 22,"TEXT_FESSUM302_02957_SEQ_22",""
 23,"TEXT_FESSUM302_02957_SEQ_23",""
-24,"TEXT_FESSUM302_02957_TODO_00","<Sheet(EObj,2009015,0)/>에 <Sheet(EventItem,2002395,0)/> 사용"
-25,"TEXT_FESSUM302_02957_TODO_01","불꽃축제 실행위원 페오뱌노에게 보고 "
+24,"TEXT_FESSUM302_02957_TODO_00","對<hex:02280CFF05>EObj<hex:F61EA7B70103>使用<hex:022811FF0A>EventItem<hex:F61E8DDB0103>"
+25,"TEXT_FESSUM302_02957_TODO_01","向佩·歐碧雅諾報告"
 26,"TEXT_FESSUM302_02957_TODO_02",""
 27,"TEXT_FESSUM302_02957_TODO_03",""
 28,"TEXT_FESSUM302_02957_TODO_04",""
@@ -56,21 +50,10 @@ int32,str,str
 45,"TEXT_FESSUM302_02957_TODO_21",""
 46,"TEXT_FESSUM302_02957_TODO_22",""
 47,"TEXT_FESSUM302_02957_TODO_23",""
-48,"TEXT_FESSUM302_02957_POBYANO_000_000","어머, <Highlight>ObjectParameter(1)</Highlight>!
-그럼 이번에도 불꽃놀이 점화를 부탁해도 될까?"
-49,"TEXT_FESSUM302_02957_POBYANO_000_001","방법은 이미 알고 있겠지만, 혹시 모르니 한 번 더 설명할게.
-손님들이 모여 있는 장소 부근에 있는 '<Sheet(EObj,2009015,0)/>'에
-이 '<Sheet(EventItem,2002395,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8DDB0103FF04EBA5BCFF04EC9D84</13> 넣어주면 돼."
-50,"TEXT_FESSUM302_02957_POBYANO_000_002","이번에는 지리리 님한테 들리지 않아도 되는데,
-대신 3군데에 있는 '<Sheet(EObj,2009015,0)/>'에 점화해줘.
-잘 부탁해!"
-51,"TEXT_FESSUM302_02957_POBYANO_000_010","어머, <Highlight>ObjectParameter(1)</Highlight>!
-나한테 말을 걸었다는 건, 또 도와주겠다는 뜻이지?"
-52,"TEXT_FESSUM302_02957_POBYANO_000_011","그럼 지난 번과 마찬가지로
-'<Sheet(EventItem,2002395,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8DDB0103FF04EBA5BCFF04EC9D84</13> 3군데에 있는 '<Sheet(EObj,2009015,0)/>에 넣어줘.
-잘 부탁해!"
-53,"TEXT_FESSUM302_02957_POBYANO_000_020","'<Sheet(EventItem,2002395,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8DDB0103FF04EBA5BCFF04EC9D84</13> 3군데에 있는 '<Sheet(EObj,2009015,0)/>에 넣어줘.
-잘 부탁해!"
-54,"TEXT_FESSUM302_02957_POBYANO_000_030","불꽃놀이 점화 작업, 수고했어!
-정말 고마워.
-다음에 기회가 되면 또 도와줘."
+48,"TEXT_FESSUM302_02957_POBYANO_000_000","呀，<hex:022903EB0203>！<hex:02100103>你要來幫忙嗎？<hex:02100103>那這次也麻煩你去點燃煙火吧。"
+49,"TEXT_FESSUM302_02957_POBYANO_000_001","想必你已經知道該怎麼做了，不過以防萬一我還是再說一下好了。<hex:02100103>你就到客人聚集的地方附近，向<hex:02280CFF05>EObj<hex:F61EA7B70103>投放<hex:022811FF0A>EventItem<hex:F61E8DDB0103>吧。"
+50,"TEXT_FESSUM302_02957_POBYANO_000_002","這次就不用去吉麗麗那裡了，<hex:02100103>不過要點燃的<hex:02280CFF05>EObj<hex:F61EA7B70103>有3處。<hex:02100103>拜託了。"
+51,"TEXT_FESSUM302_02957_POBYANO_000_010","呀，<hex:022903EB0203>！<hex:02100103>你要繼續來幫忙嗎？<hex:02100103>"
+52,"TEXT_FESSUM302_02957_POBYANO_000_011","那麼就按照上次那樣，<hex:02100103>向3處<hex:02280CFF05>EObj<hex:F61EA7B70103>投放<hex:022811FF0A>EventItem<hex:F61E8DDB0103>吧。<hex:02100103>拜託了！"
+53,"TEXT_FESSUM302_02957_POBYANO_000_020","向3處<hex:02280CFF05>EObj<hex:F61EA7B70103>投放<hex:022811FF0A>EventItem<hex:F61E8DDB0103>吧。<hex:02100103>拜託了！"
+54,"TEXT_FESSUM302_02957_POBYANO_000_030","辛苦了！<hex:02100103>謝謝你。<hex:02100103>如果方便的話，就再來幫幫我們吧。"

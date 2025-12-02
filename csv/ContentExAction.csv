@@ -1,5 +1,6 @@
 ﻿key,0,1,2,3
 #,Name,,Charges,
+offset,0,4,8,9
 int32,Action,uint32,byte,byte
 0,0,0,0,0
 1,7816,0,9,0
@@ -26,4 +27,3 @@ int32,Action,uint32,byte,byte
 22,29734,0,1,0
 23,33997,34790,0,0
 24,0,0,0,0
-25,0,0,0,0

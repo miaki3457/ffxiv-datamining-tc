@@ -1,5 +1,6 @@
 ﻿key,0,1,2,3
 #,Image,StartTime,EndTime,
+offset,8,0,4,12
 int32,Image,single,single,sbyte
 0,0,1000,0,0
 1,71451,53,57.5,1

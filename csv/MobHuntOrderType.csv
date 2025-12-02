@@ -1,5 +1,6 @@
 ﻿key,0,1,2,3,4
 #,Type,Quest,EventItem,Order{Start},Order{Amount}
+offset,10,0,4,8,11
 int32,byte,Quest,EventItem,MobHuntOrder,byte
 0,1,0,2001361,1,50
 1,1,67655,2001700,68,10

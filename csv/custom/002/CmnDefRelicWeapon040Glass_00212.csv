@@ -1,13 +1,8 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_CMNDEFRELICWEAPON040GLASS_00212_DRAKE_000_000","어? '조디악 글래스'를 이미 가지고 계신데요?
-혹시라도 잃어버리시면 저한테 말씀하십시오."
-1,"TEXT_CMNDEFRELICWEAPON040GLASS_00212_DRAKE_000_010","'조디악 글래스'를 잃어버리셨다고요?
-그렇지 않아도 스승님께서 여벌을 챙겨주셨지요.
-평소에도 이렇게 세심하시면 얼마나 좋아……."
-2,"TEXT_CMNDEFRELICWEAPON040GLASS_00212_DRAKE_000_011","……아차, 방금 한 말은 못 들은 걸로 해주세요.
-자, '조디악 글래스'를 드릴게요.
-이번에는 잃어버리지 않게 조심하시고요."
-3,"TEXT_CMNDEFRELICWEAPON040GLASS_00212_DRAKE_000_020","아이고, 짐이 가득 찬 모양이네요.
-가방을 정리하고 나서 다시 오세요."
+0,"TEXT_CMNDEFRELICWEAPON040GLASS_00212_DRAKE_000_000","哦？你好像有黃道透鏡呀！<hex:02100103>如果遺失了的話，請來找我。"
+1,"TEXT_CMNDEFRELICWEAPON040GLASS_00212_DRAKE_000_010","什麼？！黃道透鏡丟了？<hex:02100103>師父大人提前給了我備用的透鏡以備這種情況發生。<hex:02100103>真是搞不懂師父大人究竟是細心還是粗心……"
+2,"TEXT_CMNDEFRELICWEAPON040GLASS_00212_DRAKE_000_011","……嗚哇，剛才的話請務必當做我沒說過。<hex:02100103>這個黃道透鏡給你。<hex:02100103>這次要小心，別再弄丟了。"
+3,"TEXT_CMNDEFRELICWEAPON040GLASS_00212_DRAKE_000_020","呃，你的背包滿了……<hex:02100103>請整理一下再來吧。"

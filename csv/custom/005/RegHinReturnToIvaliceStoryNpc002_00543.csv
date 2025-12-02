@@ -1,116 +1,56 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_LINA_000_000","……보시다시피 알마는 건강이 안 좋아졌어요.
-씩씩하게 지내고는 있지만, 잘 낫질 않네요…….
-그냥 감기 같은 병에 걸린 걸까요……?"
-1,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_LINA_000_040","어서 돌아오세요!
-……그런데 어디에 다녀오셨어요?
-어머…… 몽블랑군은 함께 있었군요…… 세상에나!"
+0,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_LINA_000_000","如你所見，阿魯瑪的身體狀況相當不好。她一直硬撐著<hex:02100103>跟大家說自己沒什麼事，但實際上病情一直沒有好轉。<hex:02100103>我感覺她這不是普通的發燒感冒……"
+1,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_LINA_000_040","歡迎回來！<hex:02100103>咦，你剛才去了哪嗎？<hex:02100103>居然帶著蒙布朗一起……真是的，怎麼不找我呢！"
 2,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_LINA_000_080","（★未使用／削除予定★）"
-3,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_LINA_000_090","이번에는 람자가 끌려가다니…….
-겨우 알마를 구출했는데……."
-4,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_LINA_000_100","에오르제아를 구하고 도마를 해방시킨 모험가님이 있잖아요!
-지금처럼 모험가님이 든든하게 느껴졌던 적이 없는 것 같아요…!
-……괜찮겠……지요?"
+3,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_LINA_000_090","好不容易才把阿魯瑪救出來，<hex:02100103>沒想到拉姆札卻被抓走了……"
+4,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_LINA_000_100","一定沒問題的！有你這個拯救了艾奧傑亞、<hex:02100103>解放了多瑪的勇者在，我完全沒必要擔心什麼才對！<hex:02100103>你說是這樣的……吧？"
 5,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_LINA_000_110","（★未使用／削除予定★）"
 6,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_LINA_000_130","（★未使用／削除予定★）"
 7,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_LINA_000_131","（★未使用／削除予定★）"
 8,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_LINA_000_132","（★未使用／削除予定★）"
 9,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_LINA_000_133","（★未使用／削除予定★）"
-10,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_000","몽블랑과 허디 덕분에
-달마스카에 관한 정보를 많이 알게 되었어요.
-정말로 감사하고 있어요."
-11,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_001","네? 몽블랑과 허디 말인가요?
-맞아요, 부끄럽지만 처음엔 모그리족이 
-뭘 할 수 있겠냐고 생각했던 것도 사실입니다."
-12,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_002","그동안 저도 모르게 갈레안족이 최고라는……
-어리석은 교만과 우쭐함, 자만심에 
-사로잡혀 있었다는 것을……깨달았어요."
-13,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_003","왜 그랬을까요…….
-제국에서 쫓겨나면서 생긴 자존심의 상처가
-다른 민족을 무시하면 회복이 된다고 생각했던 걸까요……."
-14,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_050","저는 아무런 도움이 되질 못하는군요…… 원통합니다…….
-오본느 수도원까지 갈 수 있다면…… 반드시…….
-죄송해요, 당신에게 모든 걸 맡기게 돼서……!"
+10,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_000","蒙布朗和賀迪告訴了我們很多有關達瑪斯卡的知識。<hex:02100103>真是非常感謝他們。"
+11,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_001","唉？我對蒙布朗和賀迪的態度？<hex:02100103>是的，最初我確實有過「區區莫古利族能派上什麼用場」<hex:02100103>這種令人羞愧的想法……"
+12,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_002","但後來我醒悟了，<hex:02100103>之前的自己一直都被「加雷馬族天下第一」<hex:02100103>這種妄自尊大的思想綁架了。"
+13,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_003","究竟為什麼會這樣呢……<hex:02100103>也許是我在不經意間想透過藐視其他民族<hex:02100103>來維持自己因逃離帝國而受傷的自尊心……"
+14,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_050","可惡……為什麼我如此無力……<hex:02100103>抵達甌博訥修道院的話，一定能……<hex:02100103>對不起，將負擔都壓在了你的肩上……"
 15,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_110","（★未使用／削除予定★）"
-16,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_120","아버지의 새로운 희곡은 어땠나요?
-아직 연습 중이라 대사와 구성이 바뀔 수도 있는데,
-저는 재미있다고 생각해요…… 반응도 좋을 것 같고요."
-17,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_121","……저는 아버지를 존경해요.
-아버지에께선 확고한 신념을 갖고 있거든요.
-제국에서 쫓겨난 지금도 아버지가 틀렸다곤 생각 안 해요."
-18,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_122","하지만 이국땅에서 뭘 할 수 있을지……
-쫓겨난 우리들이 할 수 있는 것이 과연 있을지…….
-지금까지의 노력은 뭐였는지……."
-19,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_123","뭔가를 한다 해도 인정을 못 받는 건 아닐지……
-문화가 다른 머나먼 이국땅에서 우리들의 재능과 노력,
-우리 극단의 힘을 인정해주는 사람은 있을지……."
-20,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_124","……정말 저는 어린애네요.
-계속 불안했어요, 제국을 떠난 뒤로 계속…….
-그 불안에서 벗어나려고 여러분께 무례하게 굴었습니다."
-21,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_125","나중에 들었는데, 어머니의 유물이었던 목걸이……
-성석 비르고에 담긴 용사 람자의 혼을 접한 순간,
-저를 지배하던 '공포'와 '분노'가 녹아내린 것 같아요……."
-22,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_126","지금은 진심으로 제국 수도를 떠나온 걸 후회하지 않아요.
-좁고 폐쇄된 세계밖에 모르던 저는
-오만하고 건방진 인간으로 성장했을 거예요."
-23,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_127","몽블랑, 허디, 미코토 씨, 리나 씨, 시드 아저씨,
-브와기 님과 프란 님, 그리고 당신…….
-모두에게 감사 인사를 드리고 싶습니다."
-24,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_128","……언젠가 당신의 이야기를 쓰고 싶어요.
-당신이 지금까지 경험해온 수많은 만남과 이별, 전쟁……
-아마도 멋진 이야기를 쓸 수 있을 것 같습니다……."
-25,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_129","또 이곳에 와 주세요.
-그리고 당신의 모험담을 저한테 들려주세요.
-당신은 저를 성장시켜주신 스승님이니까요!"
+16,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_120","父親的新劇怎麼樣？<hex:02100103>雖然還在排練階段，臺詞和情節都在不斷修改，<hex:02100103>但目前的劇本我就覺得已經相當有意思了……演起來很有感覺。"
+17,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_121","……我很尊敬父親。<hex:02100103>不論是從前遵守著帝國明暗各種規則的父親，<hex:02100103>還是現在被帝國趕出來的父親，我都不認為他有做錯……"
+18,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_122","但我們在這異國他鄉又能做得了什麼……<hex:02100103>被帝國驅逐出境的我們能做得了什麼……<hex:02100103>至今為止的努力究竟是為了什麼……"
+19,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_123","在帝國，我們至今的努力都沒能得到認同……<hex:02100103>那在這文化迥異的異國，就更不可能有人認同<hex:02100103>我們的才能和努力，認同我們的劇團了吧……"
+20,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_124","我可真是個小孩子……<hex:02100103>自從離開帝國後，我的心中一直充滿著不安……<hex:02100103>為了逃避不安，我才對大家擺出了一副臭架子。"
+21,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_125","後來我聽別人說，我在觸到母親的項鍊……<hex:02100103>觸到勇者拉姆札先生灌注在處女座聖石中的靈魂時，<hex:02100103>纏繞在身上的名為恐懼與憤怒的裝甲如雪一般融化了……"
+22,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_126","現在的我真的很慶幸自己能離開帝都。<hex:02100103>如果一直留在那狹小封閉的世界裡、心中永遠充滿自高自大，<hex:02100103>那恐怕在為人處世方面我至今也不會有所成長吧。"
+23,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_127","蒙布朗、賀迪、水琴小姐、莉娜小姐、希德叔叔、<hex:02100103>布瓦吉先生、芙蘭小姐，還有你，冒險者……<hex:02100103>真的非常感謝你們。"
+24,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_128","今後我也想寫一寫你的故事。<hex:02100103>你所經歷的相識、離別與戰鬥……<hex:02100103>一定能寫出非常精彩的故事來……"
+25,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_129","歡迎你隨時回劇場艇看我們。<hex:02100103>到時候請將你的冒險故事講給我聽。<hex:02100103>對於我來說，你就是指導我成長的人生導師！"
 26,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_ALMA_000_100","（★未使用／削除予定★）"
 27,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MIKOTO_000_101","（★未使用／削除予定★）"
 28,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MIKOTO_000_102","（★未使用／削除予定★）"
 29,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_ALMA_000_103","（★未使用／削除予定★）"
 30,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_ALMA_000_104","（★未使用／削除予定★）"
 31,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_ALMA_000_110","（★未使用／削除予定★）"
-32,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_ALMA_000_120","모험가님, 지금까지 여러 가지로 감사했어요.
-제 생명뿐 아니라 오빠와 아빠까지 구해주셔서
-어떻게 감사 인사를 드려야 할지 모르겠어요."
-33,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_ALMA_000_121","보셨다시피 아빠는 이번 여행 내용을 집대성하셔서
-듀라이 백서를 기반으로 희곡을 완성시키셨어요.
-이젠 우리가 무대에서 공연하는 일만 남았죠."
-34,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_ALMA_000_122","생각해 보니 이번 여행은 신작을 위한 취재가 목적이었어요.
-하지만 듀라이 가문의 설욕이 목적이었든,
-죽은 엄마의 부활이 목적이었든 종착역은 같았을 거예요……."
-35,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_ALMA_000_123","성석에 이끌리듯 오본느 수도원으로 가서
-그 악마와 싸운 일은 우리들의…… 아니,
-모험가님의 운명이었을지도 모르겠어요……."
-36,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_ALMA_000_124","그렇게 생각하니 우리가 제국에서 쫓겨나 이 땅에 온 것도,
-아빠가 행방불명이 되고, 그로 인해 모험가님과 만나게 된 것도
-운명의 실로 연결돼 있던 우리들의 숙명이었을지도 몰라요."
-37,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_ALMA_000_125","이 목걸이의 성석은 평범한 크리스탈로 돌아갔어요.
-용사 람자의 소원이 이루어졌기 때문일까요.
-엄마의 유물을 지킬 수 있어서 기뻐요……."
-38,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_ALMA_000_126","저…… 또 놀러와 주세요.
-아빠와 오빠도 기뻐할 거예요…… 물론 저도요!
-그러니까 안녕이라고는 안 할래요!"
-39,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_ALMA_000_127","우리 죄 많은 이발리스의 아이들이
-신들의 힘으로 구원을 받기를……."
-40,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MIKOTO_000_010","성석 '비르고'의 조각을 사용해서
-장치를 조정해 보겠습니다.
-잠시만 기다려 주세요……."
-41,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MIKOTO_000_020","바감난 씨의 목걸이를 사용하기로 했습니다.
-성석 '비르고'를 장치에 삽입해서 조정하고 있어요.
-잠시만 기다려 주세요……."
-42,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MIKOTO_000_050","조립은 문제없이 잘 됐는데,
-출력이 예상보다 조금 약하군요…….
-조금만 더 조정하는 게 좋을 것 같아요."
+32,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_ALMA_000_120","冒險者<hex:020813E905FF07>姐姐<hex:FF07>先生<hex:03>，感謝你至今的照顧。<hex:02100103>你不僅救了我，還救了我的父親和哥哥，<hex:02100103>真的非常感謝你。"
+33,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_ALMA_000_121","正如你先前看到的，父親以杜萊白書為基礎，<hex:02100103>完成了集這次旅行之大成的新劇，<hex:02100103>之後就差我們透過舞臺將其呈現出來了……"
+34,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_ALMA_000_122","現在回首想來，這次的冒險或許正是一次新作的取材之旅。<hex:02100103>無論其目的是為了幫杜萊家洗脫污名也好，<hex:02100103>為了讓母親復活也罷，終點全都一樣……"
+35,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_ALMA_000_123","這一切都是一場我們……或者應該說是冒險者<hex:020813E905FF07>姐姐<hex:FF07>先生<hex:03>你<hex:02100103>在聖石的指引下前往甌博訥修道院<hex:02100103>與那個惡魔決戰的命運也說不定……"
+36,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_ALMA_000_124","這麼一想，也許我們被帝國驅逐，流浪到這塊土地，<hex:02100103>父親失蹤，最終與冒險者<hex:020813E905FF07>姐姐<hex:FF07>先生<hex:03>邂逅。<hex:02100103>這一切的一切也都是命運編織的宿命也說不定。"
+37,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_ALMA_000_125","項鍊上的聖石已經變成了一顆普通的水晶。<hex:02100103>也許是因為勇者拉姆札先生的願望已經實現吧……<hex:02100103>萬幸母親的遺物沒有跟著一起消失……"
+38,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_ALMA_000_126","那個……有時間的話就來劇場艇找我們玩吧。<hex:02100103>父親和哥哥都會很高興的……當然我也是！<hex:02100103>所以我不會跟你說再見的！"
+39,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_ALMA_000_127","願神寬恕我們伊瓦利斯的子民……"
+40,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MIKOTO_000_010","我這就開始用項鍊上的一半處女座聖石調整裝置。<hex:02100103>請再等待一段時間……"
+41,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MIKOTO_000_020","我把邦加莫南先生項鍊上的處女座聖石取了下來，<hex:02100103>裝在裝置上在進行調整。<hex:02100103>請再等待一段時間……"
+42,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MIKOTO_000_050","聖石順利裝上了，但輸出功率比預計下滑了一些……<hex:02100103>看來還需要一些調整。"
 43,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MIKOTO_000_080","（★未使用／削除予定★）"
 44,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MIKOTO_000_081","（★未使用／削除予定★）"
 45,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MIKOTO_000_082","（★未使用／削除予定★）"
 46,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MIKOTO_000_083","（★未使用／削除予定★）"
-47,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MIKOTO_000_090","이럴 수가…… 에테르 교란기가 소용없었다니!
-어떻게 이런…… 어떻게 이런…… 실패를……."
-48,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MIKOTO_000_100","과거의 조디악 브레이브…… 아니, 빛의 전사조차도
-성천사 알테마는 상대하기 벅찼던 것 같습니다…….
-무엇이 기다리고 있을지 모르지만, 조심하십시오……!"
+47,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MIKOTO_000_090","什麼……乙太干擾器竟然沒能派上用場！<hex:02100103>我竟然……犯下了……這麼大的……失誤……"
+48,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MIKOTO_000_100","從前的黃道勇士——光之戰士都沒能擊敗聖天使阿爾蒂瑪……<hex:02100103>請千萬小心，我們無法預測對方究竟有多麼強大！"
 49,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MIKOTO_000_110","（★未使用／削除予定★）"
 50,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MIKOTO_000_120","（★未使用／削除予定★）"
 51,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MIKOTO_000_121","（★未使用／削除予定★）"
@@ -118,48 +58,24 @@ int32,str,str
 53,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MIKOTO_000_123","（★未使用／削除予定★）"
 54,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MONTBLANC_000_000","（★未使用／削除予定★）"
 55,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MONTBLANC_000_020","（★未使用／削除予定★）"
-56,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MONTBLANC_000_040","모두에게 보고할 거야쿠뽀!
-빨리 말하고 싶어쿠뽀, 떠들고 싶어쿠뽀!
-모그가 보고해도 돼쿠뽀?"
-57,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MONTBLANC_000_050","잘 다녀와쿠뽀! 모그는 더 자세히
-모두에게 얘기해놓을게쿠뽀!
-나머진 맡길게쿠뽀!"
+56,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MONTBLANC_000_040","向大家報告咕波！<hex:02100103>莫古忍不住了咕波！<hex:02100103>能讓莫古將事情告訴大家嗎咕波？"
+57,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MONTBLANC_000_050","你快去吧咕波！<hex:02100103>莫古會將事情再詳細跟大家講講的咕波！<hex:02100103>放心吧咕波！"
 58,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MONTBLANC_000_080","（★未使用／削除予定★）"
-59,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MONTBLANC_000_090","모그가 있었는데도 눈앞에서 람자가 끌려갔어쿠뽀……!
-분하다쿠뽀…… 한심해쿠뽀…… 부끄러워쿠뽀……!
-쿠뽀뽀뽀뽀…………."
-60,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_HURDY_000_091","쿠뽀쿠뽀 한탄만 하고 있을 때가 아니야쿠뽀!
-몽블랑 형이 우울해하고 있으면
-대체 누가 달마스카의 평화를 지키냔 말이야쿠뽀!!"
-61,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MONTBLANC_000_100","맞아, 한탄만 하고 있을 때가 아니야쿠뽀!
-허디!
-모그를 좀 더 '위로해줘'쿠뽀! '응원'해줘쿠뽀!"
-62,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_HURDY_000_101","몽블랑 형은 남자다워쿠뽀! 역시 장남이야쿠뽀!
-떠돌이 모그리족의 명예를 위해 노력하고 있어쿠뽀!
-모든 쿠가네 여자가 형에게 푹 빠졌어쿠뽀!"
+59,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MONTBLANC_000_090","明明莫古就在旁邊，卻還是看著拉姆札被抓走了咕波……<hex:02100103>莫古真是太沒用了咕波……<hex:02100103>咕波波波波……"
+60,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_HURDY_000_091","哥哥，現在不是咕波波波波的時候了咕波！<hex:02100103>要是哥哥都自暴自棄的話，誰來守護達瑪斯卡的和平咕波！！"
+61,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MONTBLANC_000_100","賀迪說你得對，現在不是自暴自棄的時候咕波！<hex:02100103>莫古要振作起來，努力幫大家加油打氣才行咕波！"
+62,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_HURDY_000_101","哥哥真有男子氣概咕波！不愧是長男咕波！<hex:02100103>為流浪莫古利族的名譽而努力吧咕波！<hex:02100103>黃金港的萬千少女都會被哥哥迷得神魂顛倒的咕波！！"
 63,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MONTBLANC_000_110","（★未使用／削除予定★）"
 64,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_HURDY_000_111","（★未使用／削除予定★）"
-65,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MONTBLANC_000_120","무대 장치 일 말고도, 배역도 하나 받았어쿠뽀!
-배역 이름이…… 이즈루드?
-잘 모르겠지만, 잘생긴 남자 역할이래쿠뽀!!"
-66,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_HURDY_000_121","형, 무대 장치 쪽은 내가 맡을 테니까
-몽블랑 형의 훌륭한 연기를 모두에게 보여줘쿠뽀!
-떠돌이 모그리족의 이름을 걸고 열심히 해쿠뽀!"
-67,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_HURDY_000_000","형이랑 람자가 친해져서 좋아쿠뽀!
-하지만 람자의 성격이 변한 건
-목걸이 성석에 들어 있던 에테르가 원인인 것 같아쿠뽀……"
-68,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_HURDY_000_001","그때 에테르가 섞이는 걸 봤어쿠뽀!
-하지만 그 영향은 이제 없어졌을 거야쿠뽀!
-이제 뭐가 뭔지 모르겠어쿠뽀!"
-69,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_HURDY_000_050","형이 폐는 안 끼쳤어쿠뽀?
-괜찮다니 다행이야쿠뽀…….
-형은 우쭐해지면 바로 위험한 짓을 해서 걱정이야쿠뽀!"
+65,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MONTBLANC_000_120","莫古終於拿到角色了咕波！<hex:02100103>角色名好像叫……伊茲路德？<hex:02100103>雖然不知道是誰不過聽說是個帥哥角色咕波！！"
+66,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_HURDY_000_121","後臺的工作放心交給莫古，<hex:02100103>哥哥去讓大家好好見識見識你的演技吧咕波！<hex:02100103>帶上流浪莫古利族的榮譽，加油咕波！！"
+67,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_HURDY_000_000","哥哥和拉姆札變得要好是好事咕波！<hex:02100103>不過莫古覺得拉姆札突然性情大變是由於<hex:02100103>項鍊聖石中的乙太咕波……"
+68,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_HURDY_000_001","莫古當時看到了聖石中的乙太灌入拉姆札的身體咕波！<hex:02100103>不過現在應該已經沒再受到影響了咕波……<hex:02100103>莫古已經搞不清楚是怎麼回事了咕波……"
+69,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_HURDY_000_050","哥哥有給你添麻煩嗎咕波？<hex:02100103>希望沒有咕波……<hex:02100103>哥哥一得意忘形就會去做危險的事情，相當令人擔心咕波！"
 70,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_HURDY_000_080","（★未使用／削除予定★）"
 71,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_BWAGI_000_030","（★未使用／削除予定★）"
 72,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_BWAGI_000_080","（★未使用／削除予定★）"
-73,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_BWAGI_000_090","이봐, 어떻게든 되겠지?
-바감난 형님처럼 되면 절대로 안 돼!
-안 그래?"
+73,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_BWAGI_000_090","你們有辦法的吧？<hex:02100103>絕對不能讓邦加莫南大哥的事情重演！<hex:02100103>你說是不是？"
 74,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_BWAGI_000_110","（★未使用／削除予定★）"
 75,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_BWAGI_000_120","（★未使用／削除予定★）"
 76,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_BWAGI_000_121","（★未使用／削除予定★）"
@@ -179,15 +95,9 @@ int32,str,str
 90,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RINOK_000_121","（★未使用／削除予定★）"
 91,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RINOK_000_122","（★未使用／削除予定★）"
 92,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_FRAN_000_080","（★未使用／削除予定★）"
-93,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_FRAN_000_090","……알테마는 그 수도원 밖으로 나올 수 없는 모양이다.
-왜 나올 수 없는지는 알 수 없지만,
-나오기 위한 방법을 찾고 있는 건가? 어쩌면 성석은……."
-94,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_FRAN_000_100","미안, 본의 아니게 귀공을 속이게 되었다.
-하지만 우리 '렌테의 눈물'은 아니 모든 저항군은
-수단을 가리지 않아야 할 정도로 궁지에 몰려 있어……."
-95,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_FRAN_000_101","……더 이상 변명은 하지 않겠다.
-어쨌든 그 갈레안인 소년을 구하러 가자.
-그리고 내 고향에 있는 '재앙의 원흉'을 없애버리자고!"
+93,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_FRAN_000_090","看來阿爾蒂瑪無法離開修道院。<hex:02100103>雖然不知道為什麼，但這樣看來，<hex:02100103>阿爾蒂瑪應該是在尋找脫身的方法吧？也許聖石就是為了……"
+94,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_FRAN_000_100","不好意思，欺騙了你們。<hex:02100103>但我們蓮天之淚……我們所有的反抗軍，<hex:02100103>真的已經被逼到了需要不擇手段的地步……"
+95,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_FRAN_000_101","好了，我不想再為自己的行為找藉口了，<hex:02100103>我們去救那個加雷馬族的年輕人吧，<hex:02100103>還有剷除沉睡在我故鄉的「災厄的元凶」！"
 96,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_FRAN_000_110","（★未使用／削除予定★）"
 97,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_FRAN_000_111","（★未使用／削除予定★）"
 98,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_FRAN_000_120","（★未使用／削除予定★）"
@@ -199,292 +109,111 @@ int32,str,str
 104,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_FRAN_000_132","（★未使用／削除予定★）"
 105,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_FRAN_000_133","（★未使用／削除予定★）"
 106,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_FRAN_000_134","（★未使用／削除予定★）"
-107,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_000_000","……이발리스가 달마스카의 땅이었던 건 틀림없네.
-하지만 시간이 흘러 정보가 손실된 건 어찌할 도리가 없어.
-라바나스터 대도서관이 남아 있었다면 좋았겠지만……."
-108,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_000_001","그런데, 내게 묻고 싶은 것이라도 있나?"
-109,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_000_050","……이건 상당히 어려운 미션인 것 같군.
-모든 것을 자네에게 맡기게 되어 면목이 없네만,
-순조롭게 잘되길 빌겠네."
-110,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_000_051","그런데, 내게 묻고 싶은 것이라도 있나?"
+107,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_000_000","伊瓦利斯毫無疑問曾存在於達瑪斯卡的土地上，<hex:02100103>但時間磨滅了太多的痕跡……<hex:02100103>要是達瑪斯卡大圖書館還在就好了……"
+108,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_000_001","說起來，你是有什麼事想問我嗎？"
+109,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_000_050","這真是一個困難的要求。<hex:02100103>我們只能麻煩你了，希望一切順利。"
+110,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_000_051","說起來，你是有什麼事想問我嗎？"
 111,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_000_080","（★未使用／削除予定★）"
 112,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_000_100","（★未使用／削除予定★）"
-113,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_000_110","자네 덕분에 이발리스의 존재를 확인할 수 있었어.
-또 우리 듀라이 가문의 오명도 벗을 수 있을 것 같네.
-진심으로 감사 인사를 하고 싶어. 정말 여러모로 고맙네."
-114,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_000_111","자네도 봤다시피, 구상 중이던 '브레이브 스토리'의 속편도
-집필을 끝내서 이제 무대에서 공연만 하면 된다네.
-아직 좀 많이 부족하지만 연습 무대를 본 감상은 어떤가?"
-115,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_000_112","응? 용사 람자의 모험이 진실과 다르다고?
-그래, 죽음의 도시 뮐롱드에서 알게 된 진실과는 다르지.
-하지만…… 널리 알려졌으면 하는 이야기는 그 정도면 충분해."
-116,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_000_113","용사 람자의 모험담은 그들의 손으로 끝내야 해.
-실제 역사처럼 후대에 희망을 맡기는 이야기도 괜찮지만,
-성천사 알테마에게 이긴 후 홀연히 자취를 감추는……."
-117,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_000_114","그런 그들의 이야기를 현대의 관객들이 알아줬으면 해.
-그래서 하나의 완결된 이야기로 각색한 걸세.
-이로써 용사 람자의 이야기는 영원히 회자될 거라네……."
-118,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_000_115","그런데, 내게 묻고 싶은 것이라도 있나?"
-119,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_Q1_000_000","무엇을 물어보시겠습니까?"
-120,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_A1_000_000","용사 람자와 평민왕 딜리타의 관계에 대해서"
-121,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_A1_000_001","용사 람자와 오란의 관계에 대해서"
-122,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_A1_000_002","용사 람자와 성석의 관계에 대해서"
-123,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_A1_000_003","오본느 수도원에 대해서"
-124,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_A1_000_004","골모어 대밀림에 대해서"
-125,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_A1_000_005","성천사 알테마에 대해서"
-126,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_A1_000_006","죽음의 도시 뮐롱드에 대해서"
-127,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_A1_000_007","오본느 수도원의 수호자에 대해서"
-128,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_A1_000_010","취소"
-129,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_100_000","용사 람자와 평민왕 딜리타는 어릴 때부터 절친한 친구였네.
-이건 전에도 설명한 적이 있는데 기억하나……?"
-130,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_100_001","람자는 무인 가문을 통솔한 명문 베올브 가문의 막내였어.
-딜리타는 그 베올브 가문에서 일하는 고용인의 아들이었네.
-둘은 친형제처럼 자랐고 아주 절친한 친구가 되었지."
-131,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_100_002","딜리타의 재능을 일찌감치 알아본 람자의 아버지는
-아들의 오른팔이 되었으면 해서 사관학교에 입학시키고
-학문과 무예 등 람자와 동등한 교육을 시켰다고 해."
-132,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_100_003","그런데 졸업이 얼마 남지 않았을 때, 사건이 발생한다네.
-귀족 사회 타도를 외치는 과격파가 명문 귀족의 자녀들을
-유괴하고 몸값을 요구하는 사건이 각지에서 일어난 걸세."
-133,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_100_004","그 유괴된 아이 중에 딜리타의 여동생 티타가 있었네.
-과격파가 람자의 여동생 알마를 유괴하려다
-잘못해서 체격이 비슷한 티타를 유괴한 거지."
-134,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_100_005","사실 티타가 유괴된 건 어떤 청년의 계략이었네.
-그 청년의 이름은 아르가스……!
-그래, 르잘리아 지하 유적에서 목격한 그 괴물이지!"
-135,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_100_006","아르가스는 람자와 같은 사관학교를 다니고 있었는데,
-공부도 잘하고 인기도 많았던 딜리타에게
-'질투'라 할 수 있는 강한 적개심을 갖고 있었던 것 같네."
-136,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_100_007","유괴사건을 눈여겨보던 아르가스는 과격파와 손을 잡았네.
-그리고 알마를 유괴하기 위해 일부러 티타를 유괴한 거야.
-의도는 잘 모르겠네, 복수였는지 뭐였는지……."
-137,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_100_008","인질이 알마가 아닌 것을 알게 된 구출작전의 지휘관은
-과격파의 요구를 무시하고 강경책을 펼치게 되지.
-람자와 딜리타가 필사적으로 반대했지만 소용없었어."
-138,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_100_009","아르가스와 과격파가 시위하던 집은 불탔고, 전원 사망했네.
-그리고 안타깝게도 티타도 그때 목숨을 잃었어…….
-시체를 끌어안고 딜리타는 눈물을 흘리며 통곡했다고 하네."
-139,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_100_010","이 사건을 계기로 딜리타는 사관학교를 중퇴했네.
-평민의 생명은 너무나도 가볍게 다루어지는 현실……
-다시금 그걸 깨달은 그는 귀족인 람자와 연을 끊었네."
-140,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_100_011","그 뒤 후계자 분쟁을 발단으로 사자 전쟁이 일어났지.
-두 사람은 티타가 죽은 지 5년이 지난 후에 재회하게 됐네……."
-141,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_200_000","우리의 선조 오란이 기록한 '듀라이 백서'에 따르면
-티타의 죽음은 딜리타뿐 아니라
-람자의 인생도 크게 바꾼 모양이야……."
-142,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_200_001","람자에게는 나이 차이가 많이 나는 형이 두 명 있었는데
-큰 형은 군사, 둘째 형은 장군으로, 무인 가문을 통솔했던
-명문 베올브 가문의 이름에 걸맞은 직책을 갖고 있었네."
-143,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_200_002","하지만 훗날 람자는 티타 구출 작전에 형들이 관여했고
-인질이 희생되더라도 과격파를 모두 없애라는 지시를
-내렸다는 것을 알게 된다네."
-144,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_200_003","존경하고 있던 형들의 냉혹함에 충격을 받은 람자는
-베올브 가문을 뛰쳐나와 방랑 여행을 떠났네…….
-오란과 만났을 때는 용병단을 이끄는 전사였다고 해."
-145,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_200_004","오란의 아버지는 시돌푸스 오를란두라는 장군이었네.
-오란은 장군의 명령으로 사자 전쟁의 흑막을 쫓고 있었어.
-흑막은 이발리스 국교를 담당하는 교회로 추측되었지……."
-146,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_200_005","원래 오를란두는 베올브 가문의 적대 세력 쪽 장군이었어.
-그는 줄곧 전쟁을 반대하는 입장이었네.
-몇 번이나 평화의 길을 모색했지만 여의치가 않았지."
-147,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_200_006","당시 교회는 중립적인 입장을 취하고 있었지만,
-장군은 교회가 전란을 오래 끌고 있다고 생각했네.
-전란을 틈타 교회의 위상을 더 강화시키려고 말이야."
-148,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_200_007","사실 교회는 극비리에 '성석'을 모으고 있었네.
-전설적인 빛의 전사 조디악 브레이브와 함께 전쟁을 조정하고,
-전란에 지친 민중의 마음을 사로잡으려는 속셈이었을 테지."
-149,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_200_008","그 증거를 확보하기 위해 고심하던 오란은 람자를 만났네.
-당시 람자는 '이단자' 신분으로 교회의 추격을 받고 있었는데,
-그건 교회의 음모를 알아차렸기 때문이었어……."
-150,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_200_009","그래…… 람자는 성석의 비밀을 알고 그걸 손에 넣은 걸세.
-그래서 교회로부터 생명의 위협을 받게 된 거였지.
-오란과 장군은 그 사실을 알고 람자를 돕기로 했네."
-151,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_200_010","하지만 교회는 또 다른 음모를 꾸몄다네.
-오를란두 장군에게 누명을 씌우고
-그 역시 '이단자'로 몰아서 왕국에서 추방해버린 걸세……."
-152,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_200_011","추방된 장군과 오란은 람자와  함께 행동하기로 했고,
-이렇게  세 사람은  '성석이 초래한 재앙'과 
-전투를 치르게 된 거라네……."
-153,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_300_000","사자 전쟁이 한창일 때 그 이면에서 용사 람자 일행은
-성석을 둘러싼 끝없는 전쟁을 치르고 있었다네……."
-154,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_300_001","교회는 신전 기사단을 시켜 람자 일행을 집요하게 쫓았네.
-때로는 기사단을 상대로, 때로는 괴물 루카비를 상대로……
-그야말로 사투의 연속이었다고 오란은 기록하고 있어."
-155,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_300_002","흥미로운 건  딜리타가 그들을 돕고 있었다는 사실이네.
-당시 딜리타는 첩보 활동을 하는 부대에 소속되어 있었는데,
-거기서 교회의 음모와 궁지에 몰린 친구의 처지를 알게 되지. "
-156,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_300_003","리더십이 있던 딜리타는 부대에서도 대장으로 활약하고 있었고,
-새로운 왕이 되기 위해 호시탐탐 준비를 하고 있었다고 하네.
-그도 공공연하게 교회를 적으로 돌릴 수는 없었을 거야."
-157,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_300_004","그러다 람자가 이단자로 쫓기는 신분이 된 것과
-성석을 둘러싼 전쟁을 하고 있다는 것도 알게 됐지.
-그래서 교회의 음모를 막기 위해 람자를 돕기로 한 거야."
-158,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_300_005","이렇게 얘기하면 마치 딜리타가 야망을 실현하기 위해
-람자를 이용했다고 받아들일지도 모르겠군…….
-사실 오란도 그 점을 지적했어."
-159,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_300_006","하지만 람자와 딜리타는 '성석이 초래한 재앙'이 있는 한
-이발리스에 진정한 평화는 오지 않을 거란 걸 깨달았던 거네.
-서로 역할을 분담하여 평화를 실현하려고 했던 거야."
-160,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_300_007","이렇게 두 사람은 각자의 길을 걷기 시작했네.
-진정한 평화를 위해 딜리타는 사자 전쟁을 종결시키고,
-람자는 성석을 노리는 자들을 물리치려고 한 걸세……."
-161,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_400_000","듀라이 백서에는 제이르킬레라는 강의 중간에 폭포가 있고
-바위를 뚫어놓은 듯이 수도원이 있다고 기록되어 있네.
-아주 오래된 건물인데 누가 왜 지었는지는 알 수 없다고 해. "
-162,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_400_001","사자 전쟁 때의 아트카샤 왕조와 깊은 관련이 있네…….
-원래는 왕가와 관련된 '죄인'들을 유폐하는 곳이었다가
-언제부턴가 수도원으로 개축되어 이용되었다고 해……."
-163,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_400_002","사자 전쟁이 끝나고 딜리타와 결혼한 오벨리아 아트카샤,
-즉 마지막 정통 왕위 계승자인 오벨리아 공주가
-어린 시절부터 오랫동안 유폐되었던 곳이기도 하다더군."
-164,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_400_003","오본느 수도원이 흥미로운 점은, 국교 글래바도스교의
-명상 수도회에 소속되어 있으면서도 주교의 행정 간섭을
-받지 않고 독립적인 자치권을 갖고 있었다는 점이네."
-165,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_400_004","당시 오본느 수도원에는 수녀들이 많이 살고 있었는데,
-종교 규정상 금지되어 있는 알코올, 즉 와인과 에일을
-제조해서 판매하고 있었다고 하네."
-166,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_400_005","물론 수녀들이 마실 용도로 만들었던 게 아닐세.
-그 부근의 마을은 마실 물 확보가 어려워서
-그 대용품으로 제조하고 , 판매까지 했던 거야."
-167,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_400_006","그런데 오란의 기록에 따르면 그 오본느 수도원이 바로
-용사 람자 일행이 마지막으로 향했던 목적지였던 거지……. 
-어째서 그곳을 가려고 했는지, 상세한 내용은 안 적혀 있어."
-168,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_400_007","안 적혀 있는 게 아니라  '안 적은' 것이네.
-오란은 일부러 기록을 남기지 않았어…… 지웠을지도 모르지.
-왜 그랬을까? ……이유를 알려면 직접 가볼 수밖에 없네."
-169,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_400_015","안 적혀 있는 게 아니라  '안 적은' 것이네.
-오란은 일부러 기록을 남기지 않았어…….
-그건 자네가 '초월하는 힘'으로 봤으니 잘 알겠지."
-170,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_400_016","람자가 유언처럼 딜리타에게 남긴 부탁은……
-'성석'의 힘을 원하는 자들이 람자의 흔적을
-찾지 못하도록 역사에서 말소시키라는 것이었네……."
-171,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_400_017","원래는 람자의 존재 자체도 지우길 원했지만,
-오란은 그것만큼은 용납하지 못했어…….
-하지만 유언대로 마지막 목적지는 기록하지 않았네."
-172,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_500_000","골모어 대밀림이란 달마스카 지방 남동부에 있는
-거목과 습원으로 형성된 정글을 말하네."
-173,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_500_001","고온다습한 지역에서 다양한 동식물이 서식하고 있어
-학자들이 탐험할 때마다 새로운 종이 발견될 정도지.
-안쪽에는 사람의 발길이 닿지 않은 곳도 많다고 들었네."
-174,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_500_002","몽블랑이 말하기로는, 골모어 대밀림에는
-크고 작은 다양한 고대 유적이 있다는데,
-난 그것들이 이발리스 시대의 건축물이 아닐까 생각하네."
-175,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_500_003","듀라이 백서에는 이발리스 시대에
-그런 광활한 정글이 있다는 기록이 없어.
-재해의 영향으로 기후 변동이 일어났을지도 모르지."
-176,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_500_004","아까도 말했지만,
-그 정글은 비에라족의 영역이야…….
-자신들을 '수호자'라 칭하며 아무도 못 들어오게 막고 있네."
-177,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_500_005","아, 자신들을 '수호자'라고 부르는 건
-'지금까지도 전통적인 생활을 하는 비에라족'뿐이라네.
-달마스카 왕국에선 평범하게 마을에서 사는 비에라도 많아."
-178,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_500_006","완고하게 일족의 전통과 규칙을 지키며
-아직까지 그 정글에 살고 있는 자들도 있다네.
-지금은 숫자가 상당히 줄었다고는 들었다만……."
-179,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_500_007","그들에게 그 정글은 성지나 다름없겠지.
-그래서 함부로 정글에 들어오려는 자를 허용하지 않는 거네.
-특히 정글에 서식하는 동식물을 노리는 사냥꾼은 더욱."
-180,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_500_008","어쨌든 우리는 별 탈 없이 탐색이 가능하면 좋겠군.
-그들이 조사를 허락해주면 좋겠지만,
-그러기 위해선 협상할 수 있는 상대를 찾아야 할 텐데……."
-181,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_600_000","상세한 내용을 알 수 없네.
-하지만 그 천사란 자가 그 '성석'을 창조하고
-이 세계에 뿌렸다고 기재되어 있어."
-182,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_600_001","전설의 악마인지 마물인지 그것도 아니면 타락한 천사인지
-신화나 옛날이야기에 나오는 녀석으로…… 치부하고 싶지만,
-루카비를 봤잖은가, 사악한 무언가가 존재하는 건 확실해."
-183,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_600_100","듀라이 백서에 따르면
-하지만 그 천사란 자가 그 '성석'을 창조하고
-이 세계에 뿌렸다고 기재되어 있어."
-184,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_600_101","……실제로 자네도 목격했듯이
-성천사 알테마가 성석을 만든 건 사실이었네.
-무엇 때문에 성석을 만들었는지는 알 수 없지만……."
-185,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_600_002","……예전에도 설명한 적이 있는데, 성석에는 양면성이 있어.
-'간절한 소원'에서 비롯되는 건 똑같지만, 인간을 짓밟는
-공포의 힘과 인간을 구원하는 수호자의 힘이 그것이지."
-186,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_600_003","아르가스와 바감난이 그랬듯이
-'간절한 소원'이 '복수'나 '지배'일 경우,
-루카비라 불리는 괴물로 변하여 구현되는 거야."
-187,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_600_004","한편, 전설에 따르면 예전 조디악 브레이브는
-다친 사람을 치유하고 때로는 부활도 시켰다고 해.
-즉 이용자의 마음에 따라 달라진다는 얘기일세."
-188,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_600_005","그래서 알테마라 불리는 자가
-악마라고도, 천사라고도 불렸는지도 모르지……."
-189,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_600_006","……시드의 말대로 다른 차원, 다른 우주에서 온 자라면
-우리의 가치관으로 헤아리는 건 의미가 없겠지.
-어찌 됐든 현재에는 존재하지 않기를 빌 수밖에!"
-190,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_600_015","……시드의 말대로 다른 차원, 다른 우주에서 온 자라면
-우리의 가치관으로 헤아리는 건 의미가 없겠지.
-그 존재의 의미를 우리가 이해하는 건 아주 어려울 거야."
-191,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_600_016","……성천사 알테마는 죽음의 도시 뮐롱드에 봉인되어 있었는데,
-그 이유에 대해서는 연구를 조금 더 해야 한다네.
-애초에 뮐롱드가 다른 공간에 있었다는 것도 궁금하고……."
-192,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_700_000","영웅왕 딜리타가 통치하기 수백 년 전……
-신성 유드라 제국이라 불리던 절대군주제 국가가
-이발리스를 지배하고 있었다고 하네."
-193,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_700_001","제국 말기에는 정치가 부패해 일부 특권계급만이
-부와 권력을 모조리 차지하고 있었던 모양이야.
-국민들은 궁핍했고 매일 먹을 음식도 부족했다고 해."
-194,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_700_002","그때 동료들과 함께 들고 일어선 용사가 있었는데,
-바로 초대 조디악 브레이브라 불리는 용사 아조라였네.
-그들에겐 12개의 성석이 있었다고 하는데, 확실하진 않아."
-195,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_700_003","수십 년에 걸쳐 제국과의 전투가 벌어졌네.
-아조라는 스스로를 신의 아들이라 했고
-예언자로서 민중들의 지지를 받았네."
-196,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_700_004","처음엔 소규모 조직이었지만, 점차 덩치가 커져
-제국과의 전투가 20년 정도 되었을 무렵엔
-수만명의 반란군을 거느리는 거대 조직으로 성장했네……."
-197,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_700_005","상세히는 모르지만, 아조라는 제국을 상대로 승리했어.
-그때 제국 수도였던 뮐롱드는 성석의 힘 때문에 붕괴해,
-바다 밑으로 가라앉았다고 해……."
-198,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_700_006","승리는 했지만 그 대가로 아조라는 목숨을 잃어야 했네.
-훗날 아조라는 신적인 존재로 추앙받아 성인이 되었지.
-이렇게 새로운 시대의 막이 열린 걸세……."
-199,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_700_007","그런데 살아남은 아조라의 동료가 알 수 없는 발언을 해…….
-최후의 결전에서 아조라는 금단의 소환 마법을 사용했고,
-그 소환된 그 존재가 제국 수도를 멸망시켰다고 말이야."
-200,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_700_008","생각해 보면 그때 성천사 알테마를 소환한 게 아닐까?
-제국을 멸망시킨 알테마를 제어할 수 없다는 걸 깨닫고
-뮐롱드까지 통째로 알테마를 다른 공간에 봉인했다면……."
-201,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_700_009","아니, 이건 그냥 내 추측이네…… 망상일 뿐이야.
-그래도 뒷받침할 증거는 부족하지만 그렇게 생각하면
-맥락이 다 들어맞는 것 같지 않나?"
-202,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_800_000","자네가 오본느 수도원에서 만났다는 3명의 수호자……
-용사 람자와 함께 행동하던 자들로 추측되네.
-함부로 알테마에 접근하지 못하도록 성석의 힘을 빌렸겠지."
-203,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_800_001","자네가 말한 그들의 특징으로 생각해 보면
-그 3명은 각각 기공사 무스타디오, 성기사 아그리아스,
-그리고 성검으로 알려진 뇌신 시드로 보이네."
-204,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_800_002","무스타디오 브난자는 기공도시 거그 출신의 기공사라네.
-사자 전쟁이 발발했을 때 람자와 함께 위정자들과 싸우며
-영웅왕 딜리타가 정권을 잡을 수 있도록 뒤에서 도왔네."
-205,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_800_003","성격이 밝아 팀에선 분위기 메이커였다더군.
-거침없는 성격으로 람자의 방침이 아니다 싶으면
-정면으로 반박하기도 했다고 해."
-206,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_800_004","총기를 아주 잘 다뤄서 저격수로도 활약했었네.
-또 파기된 철거인 노동8호를 수리했다고도 하니,
-괜히 거그의 기공사가 아니었던 모양이야."
-207,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_800_005","아그리아스 옥스는 왕가의 근위 기사단에 소속된 성기사라네.
-오본느 수도원에 유폐되었던 오벨리아 공주의 호위병이자
-교육 담당을 맡아 오랜 시간을 공주와 함께 보냈다고 해."
-208,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_800_006","공주가 흑사자 고르터너 공에게 유괴되자, 즉시 구하러 갔지만,
-실제 유괴범이었던 딜리타의 진심을 알고 공주를 맡겼다네.
-그 후엔 용사 람자 일행과 합류해 같이 움직이게 되었고."
-209,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_800_007","그녀는 듀라이 백서뿐 아니라 딜리타의 영웅담에도 등장하네.
-궁중을 배경으로 한 러브 로맨스의 주연으로 자주 나오지.
-남장을 한 미인이라서 여성 팬도 아주 많아."
-210,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_800_008","물론 그건 어디까지나 전설상의 아그리아스야.
-듀라이 백서에는 지나치게 성실했던 기사라고 묘사되어 있고,
-수호자가 된 걸 봐도 책임감이 아주 강했던 것 같아."
-211,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_800_009","시돌푸스 오를란두는 백작 작위를 갖고 있는 장군이네.
-검의 달인 즉 '성검'으로 유명하고,  전장에서의
-활약상 덕에 '뇌신 시드'라 불리며 공포의 대상이 되었지."
-212,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_800_010","오란의 양아버지였던 그는 오란과 함께
-사자 전쟁으로 이득을 취하던 자들을 쫓고 있었네.
-그러다 이단자라는 누명을 쓰고 장군직을 빼앗기게 되지."
-213,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_800_011","처형 직전, 람자에게 구출되어 그와 함께 움직이게 된다네.
-……딜리타의 영웅담에서는 배신자로 참수를 당하지만,
-람자처럼 역사에서 지우기 위해 그렇게 기록했을 거야."
-214,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_800_012","'나이가 들어서도 검술로는 그에게 필적할 자가 없었고,
- 그의 검날에 모두 주검이 되니 그 모습은 흡사 전쟁의 신이었다……'
-듀라이 백서에는 그렇게 기록되어 있는데 실제론 어땠을까?"
+113,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_000_110","托你的福，我們證實了伊瓦利斯是真實存在過的，<hex:02100103>而且最重要的是，我們終於有辦法洗脫杜萊家的污名了！<hex:02100103>真的非常感謝你！"
+114,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_000_111","如你之前所見，我完成了一直在構思的黃道勇士傳奇續作，<hex:02100103>正努力將其搬到舞臺上來。你看到我們的排練後感想如何？<hex:02100103>雖然現在還只是個大致框架。"
+115,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_000_112","嗯？你說勇者拉姆札的冒險與真相不符？<hex:02100103>確實，我寫的劇情與你在死都繆隆德獲知的真相不同。但為了<hex:02100103>讓它成為一個家喻戶曉的故事，我認為這樣改編一下會比較好。"
+116,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_000_113","勇者拉姆札的冒險故事應該由他自己來親自劃上句號。<hex:02100103>雖然完全按照史實將故事寫成將願望寄託後世也不錯，但我還是<hex:02100103>傾向於呈現給觀眾一個英雄默默擊敗阿爾蒂瑪後悄然離開的故事。"
+117,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_000_114","因此我才改寫了劇情，<hex:02100103>希望讓勇者拉姆札的故事能永遠流傳下去……"
+118,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_000_115","說起來，你是有什麼事想問我嗎？"
+119,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_Q1_000_000","想了解什麼？"
+120,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_A1_000_000","關於勇者拉姆札和平民王迪利塔的關係"
+121,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_A1_000_001","關於勇者拉姆札與奧蘭的關係"
+122,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_A1_000_002","關於勇者拉姆札與聖石的關係"
+123,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_A1_000_003","關於甌博訥修道院"
+124,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_A1_000_004","關於葛爾摩大密林"
+125,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_A1_000_005","關於聖天使阿爾蒂瑪"
+126,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_A1_000_006","關於死都繆隆德"
+127,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_A1_000_007","關於甌博訥修道院的守護者"
+128,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_A1_000_010","取消"
+129,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_100_000","勇者拉姆札和平民王迪利塔從小就是朋友。<hex:02100103>這我從前說過，你還記得吧？"
+130,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_100_001","拉姆札是騎士名門、大貴族貝奧爾甫家中最年幼的男丁。<hex:02100103>迪利塔是貝奧爾甫家下人的孩子。<hex:02100103>他倆一起長大，是情同手足的好友。"
+131,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_100_002","拉姆札的父親早早就發現了迪利塔有著傑出的才能，<hex:02100103>為了將他培養成拉姆札的親信，將他也送進了士官學校<hex:02100103>接受和拉姆札同等的教育，學習知識、武藝等等。"
+132,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_100_003","而在臨近畢業時，一個事件爆發了。<hex:02100103>想要推翻貴族社會的過激派在各地暴起，<hex:02100103>綁架了名門貴族的子女們勒索贖金。"
+133,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_100_004","在被綁架的人中，就有著迪利塔的妹妹蒂妲。<hex:02100103>過激派本身想綁架的是拉姆札的妹妹阿魯瑪，<hex:02100103>不料錯把身形相似的蒂妲抓走了。"
+134,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_100_005","但其實這並不是巧合，而是由於某個年輕人的算計。<hex:02100103>那個人的名字是阿加斯！<hex:02100103>正是你在地下的勒薩利亞遺跡中見到的異形怪物！"
+135,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_100_006","阿加斯是拉姆札與迪利塔的同學。<hex:02100103>他對同年級成績優異深受大家喜愛的迪利塔充滿了嫉妒。"
+136,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_100_007","看到頻發的綁架事件後，阿加斯主動與過激派進行了接觸。<hex:02100103>他為過激派牽線搭橋，號稱綁架阿魯瑪，實則抓走了蒂妲。<hex:02100103>沒有人知道他心裡在想什麼，究竟是想要報復還是什麼原因……"
+137,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_100_008","營救作戰的指揮官知道人質並非貴族後，<hex:02100103>不顧拉姆札和迪利塔的強烈反對，<hex:02100103>決定無視過激派提出的要求，直接進行強攻。"
+138,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_100_009","指揮官下令使用火攻，點燃了阿加斯和過激派據守的建築，<hex:02100103>將所有人付之一炬，而不幸的蒂妲也死在了裡面……<hex:02100103>據說當時迪利塔抱著蒂妲的屍體痛哭的聲音傳出了很遠很遠……"
+139,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_100_010","由於這次事件，迪利塔從士官學校退了學。<hex:02100103>認識到平民的性命賤如草芥的他，<hex:02100103>和身為貴族的拉姆札斷絕了來往……"
+140,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_100_011","在這之後，圍繞繼承權展開的獅子戰爭爆發了。<hex:02100103>兩個好友再次相見已經距蒂妲去世過去了五年……"
+141,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_200_000","根據我的祖先奧蘭撰寫的杜萊白書所說，<hex:02100103>蒂妲的死不僅影響了迪利塔，<hex:02100103>同樣也改變了拉姆札的一生……"
+142,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_200_001","拉姆札有兩位比他年長很多的兄長。<hex:02100103>大哥是軍師，二哥是將軍，<hex:02100103>兩人都很有才幹，半分不負貝奧爾甫之名。"
+143,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_200_002","拉姆札後來得知，當初營救蒂妲的作戰竟然與這兩名兄長有關，<hex:02100103>不惜犧牲人質也要殲滅過激派的指示就是他們下達的。"
+144,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_200_003","認識到自己尊敬的兄長們如此冷酷的一面，拉姆札深受打擊。<hex:02100103>他選擇了離開貝奧爾甫家，開始流浪……據說在與奧蘭結識時，<hex:02100103>拉姆札成為了一名傭兵戰士，率領著一個傭兵團。"
+145,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_200_004","奧蘭的義父是一個名為「希德盧法斯·奧爾蘭多」的將軍。<hex:02100103>當時的奧蘭正奉將軍之命調查獅子戰爭的幕後黑手，<hex:02100103>這對父子已經懷疑幕後黑手正是被尊為伊瓦利斯國教的教會。"
+146,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_200_005","奧爾蘭多本身其實是處於貝奧爾甫家的敵對陣營，<hex:02100103>但他一直對戰爭持有反對態度。<hex:02100103>他曾數次嘗試和平解決紛爭，但每次都有教會從中作梗。"
+147,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_200_006","因此奧爾蘭多將軍認為正是號稱中立的教會<hex:02100103>在阻撓這場戰爭早日平息，<hex:02100103>目的也許是想借戰亂鞏固教會的地位。"
+148,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_200_007","實際上，就是教會一直在暗中蒐集聖石。<hex:02100103>他們想用聖石在教會中製造出傳說中的光之戰士——黃道勇士，<hex:02100103>然後讓教會麾下的黃道勇士來平息戰亂，贏得人心。"
+149,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_200_008","奧蘭是在苦心收集相關證據時結識了拉姆札。<hex:02100103>當時的拉姆札被誣陷為異端者，遭到教會通緝。<hex:02100103>而原因正是因為他察覺到了教會的陰謀……"
+150,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_200_009","是的，拉姆札他發現了聖石的秘密，並得到了聖石，<hex:02100103>所以才遭到了教會的通緝。知道了這一情況的<hex:02100103>奧蘭和奧爾蘭多將軍開始對拉姆札展開了協助。"
+151,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_200_010","但教會卻使出了更多的陰謀。<hex:02100103>教會同樣誣陷奧爾蘭多將軍是異端者，<hex:02100103>想將他流放國外……"
+152,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_200_011","以此為契機，將軍和奧蘭一同加入了拉姆札的隊伍，<hex:02100103>投身到了對抗「聖石帶來的災厄」的戰鬥當中。"
+153,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_300_000","在獅子戰爭的幕後，<hex:02100103>勇者拉姆札一行圍繞聖石展開了無休止的戰鬥……"
+154,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_300_001","根據奧蘭記載，教會派遣了神殿騎士團不斷追殺拉姆札一行。<hex:02100103>拉姆札的隊伍今天擊退神殿騎士團的追擊，<hex:02100103>明天又要迎戰異魔，死鬥接連不斷。"
+155,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_300_002","不過有意思的一點是迪利塔也在背後協助了他們的行動。<hex:02100103>當時的迪利塔隸屬於教會的一支以諜報為主要目的的部隊，<hex:02100103>他在那裡得知了教會的陰謀與好友所面臨的困境。"
+156,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_300_003","領導力極高的他正以領兵之將的身份活躍在歷史舞臺上，<hex:02100103>並為了謀得王位而虎視眈眈做著準備。<hex:02100103>在這樣的身份下，他無法公然與教會為敵。"
+157,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_300_004","正是在這樣的背景下，他得知了拉姆札成為異端者遭到通緝的事，<hex:02100103>並且知道了這是圍繞聖石展開的鬥爭。<hex:02100103>為了阻止教會的陰謀，他暗中開始對拉姆札展開了支援。"
+158,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_300_005","聽到這些後，也許你會覺得迪利塔完全是在<hex:02100103>為了實現自己的野心而利用拉姆札……<hex:02100103>不用說是你，其實就連奧蘭，也都是這麼想的。"
+159,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_300_006","不過，拉姆札和迪利塔都明白，只要「聖石帶來的災厄」不除，<hex:02100103>伊瓦利斯就永遠無法迎來真正的和平。<hex:02100103>所以他們才想透過各司其職來實現「和平」這一崇高的理想。"
+160,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_300_007","就這樣，兩人走上了各自的道路。<hex:02100103>迪利塔在臺前引領獅子戰爭終結，<hex:02100103>拉姆札則在幕後剷除用聖石為惡之人……"
+161,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_400_000","根據杜萊白書所寫，澤萊奇勒河中斷有一個瀑布，<hex:02100103>而甌博訥修道院就是在那座瀑布的山崖岩體上開鑿修建的。<hex:02100103>這一建築本身十分古老，不知是誰在何時為什麼而建。"
+162,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_400_001","獅子戰爭時期的王室阿特卡夏家和這座修道院關係頗深……<hex:02100103>修道院最初其實是一座要塞，被用來幽禁王室的「罪人」，<hex:02100103>後來才被改建成了修道院。"
+163,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_400_002","獅子戰爭結束時迪利塔迎娶的最後一位王位正統繼承人<hex:02100103>奧薇莉亞·阿特卡夏公主就從小一直被幽禁在那裡。"
+164,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_400_003","有趣的是，甌博訥修道院雖然隸屬於格萊巴多斯教的觀想修道會，<hex:02100103>但卻擁有不受主教行政干涉的獨立自治權。"
+165,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_400_004","比如說格萊巴多斯教禁止飲酒，<hex:02100103>當時的甌博訥修道院中也居住著很多修女，<hex:02100103>但修道院卻在生產、販賣啤酒、葡萄酒等酒類。"
+166,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_400_005","當時修道院附近的村莊和城市較難獲取乾淨的飲用水，<hex:02100103>所以修女們雖然自己不喝酒，<hex:02100103>卻也在釀酒作為飲用水的替代品進行販賣。"
+167,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_400_006","根據杜萊白書的記載，<hex:02100103>這甌博訥修道院正是勇者拉姆札一行最終前往的地方……<hex:02100103>不過具體的原因書上並沒有說。"
+168,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_400_007","我認為，奧蘭是故意沒有將原因記錄上去的。<hex:02100103>這究竟是因為什麼，就只有等我們親自去了才能知道了。"
+169,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_400_015","至於奧蘭為什麼故意沒有將原因記錄上去，<hex:02100103>你都已經透過超越之力看到了。"
+170,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_400_016","拉姆札為了不讓心術不正、企圖利用聖石為惡之人<hex:02100103>沿著自己的足跡找到阿爾蒂瑪，<hex:02100103>不得不委託迪利塔從歷史中抹掉了自己的痕跡……"
+171,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_400_017","奧蘭雖然沒有完全遵從拉姆札想從歷史中徹底消失的遺願，<hex:02100103>但關於一行人最終的去向的部分同樣沒有多寫。"
+172,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_500_000","葛爾摩大密林是位於達瑪斯卡地區東南部的<hex:02100103>由巨木與濕地組成的密林。"
+173,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_500_001","種類繁多的動植物生長在那片高溫潮濕的地域裡，<hex:02100103>前去探險的研究者總能在裡面發現全新的物種。<hex:02100103>我聽說至今密林深處都還有很多區域未曾被人類踏足。"
+174,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_500_002","蒙布朗他們說在葛爾摩大密林中存在著大大小小很多的古代遺跡。<hex:02100103>我推測這些遺跡正是伊瓦利斯時代的建築。"
+175,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_500_003","根據杜萊白書的記載，在伊瓦利斯時代，<hex:02100103>那片區域根本沒有巨大的密林。<hex:02100103>所以它多半是後世由於靈災的影響，氣候發生改變才出現的。"
+176,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_500_004","之前我們也曾經說過，<hex:02100103>那片密林是維艾拉族的地盤……<hex:02100103>他們自稱森林的守護者，拒絕一切外人進入林中。"
+177,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_500_005","不過這麼說也不全對，其實現在還自稱是森林守護者的，<hex:02100103>只剩「至今還維持著傳統生活的維艾拉族」而已了。很多維艾拉<hex:02100103>已經離開森林，在達瑪斯卡王國的城市中過上了正常的生活。"
+178,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_500_006","雖然堅持遵守族中的規定在密林中生活的維艾拉至今還有，<hex:02100103>但聽說數量已經不多了……"
+179,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_500_007","那片密林對他們來說是聖地，絕對不允許外人踏足。<hex:02100103>尤其是那些想要偷獵動植物的獵人。"
+180,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_500_008","如果我們想進去調查的話，最好是能取得他們的同意。<hex:02100103>但願能找到人交涉一下吧……"
+181,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_600_000","關於阿爾蒂瑪，現在我們還沒有太詳細的情報，<hex:02100103>只知道這位聖天使創造了聖石，並將其散佈到了外界。"
+182,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_600_001","阿爾蒂瑪究竟是什麼？傳說中的惡魔、魔物？或者真的是墮天的<hex:02100103>天使？但願不是神話故事裡那些天使的同類吧……看到異魔之後，我們不得不承認確實有某種邪惡的東西在背後蠢蠢欲動著。"
+183,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_600_100","根據杜萊白書所寫，聖天使阿爾蒂瑪創造了聖石，<hex:02100103>並將其散佈到了外界。"
+184,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_600_101","這件事已經由你親眼見證，<hex:02100103>所以阿爾蒂瑪創造了聖石這點應該是不會錯了。<hex:02100103>不過究竟為什麼要創造聖石……關於這點我們還不清楚。"
+185,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_600_002","之前我曾向你介紹過，聖石是擁有著兩面性的。<hex:02100103>雖然全都因真切的願望引發，<hex:02100103>但結果卻會出現救人的守護力量與殺人的恐怖力量兩種表現。"
+186,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_600_003","以阿加斯和邦加莫南為例，<hex:02100103>當真切的願望是復仇或支配等情況時，<hex:02100103>出現的就會是名為異魔的怪物。"
+187,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_600_004","反之，傳說中的黃道勇士們用聖石的力量治癒傷者，<hex:02100103>甚至曾經令死人復活。<hex:02100103>聖石是善還是惡，可以說看的完全是使用者的內心。"
+188,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_600_005","這樣一來，阿爾蒂瑪真的既可以被稱為天使，<hex:02100103>又可以被稱為惡魔也說不定……"
+189,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_600_006","如果真如希德所推測的那般，阿爾蒂瑪是來自於其他次元或<hex:02100103>宇宙的話，那我們用自己的價值觀妄自臆測怕是沒有用處。<hex:02100103>總之，希望阿爾蒂瑪早已不在了吧。"
+190,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_600_015","如果真如希德所推測的那般，阿爾蒂瑪是來自於其他次元或<hex:02100103>宇宙的話，那我們用自己的價值觀妄自臆測怕是沒有用處。<hex:02100103>我們很難理解其存在的意義。"
+191,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_600_016","聖天使阿爾蒂瑪被封印在死都繆隆德，<hex:02100103>不過其中的原因還需要進一步的研究調查。<hex:02100103>而且書上記載繆隆德處於異空間這點也很令人在意……"
+192,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_700_000","在英雄王迪利塔治世的數百年前，<hex:02100103>一個名叫神聖尤多拉帝國的君主專政國家統治著當時的伊瓦利斯。"
+193,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_700_001","帝國末期，政治腐敗、個別特權階級獨享著財富與權力，<hex:02100103>人民生活貧困、食不果腹。"
+194,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_700_002","在這樣的時代環境下，被譽為初代黃道勇士的勇者阿喬拉<hex:02100103>帶著同伴們出現，開始帶頭反抗帝國的統治。<hex:02100103>傳說中他們擁有著12顆聖石，不過不知道這是真是假……"
+195,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_700_003","他們與帝國惡鬥了數十年，<hex:02100103>阿喬拉自稱神子，以預言者的身份贏得了廣大民眾的支援。"
+196,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_700_004","最初只有寥寥數人的小集團逐漸擴大，<hex:02100103>在與帝國對抗了20年之際，<hex:02100103>赫然已經成長為一個坐擁數萬反抗軍的大組織……"
+197,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_700_005","反抗軍與帝國鬥爭的細節我們無從知曉，<hex:02100103>只知道最後是阿喬拉戰勝了帝國。<hex:02100103>據說帝國的都城繆隆德被聖石毀滅，整個沉入了海底……"
+198,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_700_006","阿喬拉則是為了勝利付出了自己生命的代價。<hex:02100103>所以後世才將阿喬拉當成神一樣崇拜，尊稱他為聖人。<hex:02100103>就這樣，新的時代拉開了序幕……"
+199,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_700_007","不過阿喬拉那些活下來的同伴們卻說了一些出乎大家意料的話……<hex:02100103>據他們所說，阿喬拉在最終決戰時使用了禁斷的召喚魔法，<hex:02100103>正是他召喚出來的東西毀滅了帝都。"
+200,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_700_008","看到這些描述後我就在想，當時被召喚出來的會不會就是聖天使<hex:02100103>阿爾蒂瑪？也許阿喬拉正是發現自己無法控制毀滅了帝國的<hex:02100103>阿爾蒂瑪，才將其連同繆隆德一起封印進了異空間當中……"
+201,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_700_009","不過這只是我個人的推測或者說是臆想而已。<hex:02100103>雖說沒有證據來證明我的這些想法，<hex:02100103>但如果這麼想的話，那一切就都說得通了，你不這麼認為嗎？"
+202,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_800_000","你在甌博訥修道院遇到的3位守護者……<hex:02100103>據我推測，他們的真實身份應該是勇者拉姆札的三名同伴。之所以<hex:02100103>出現在那裡，應該是借用了聖石的力量防止外人接近阿爾蒂瑪。"
+203,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_800_001","根據你告訴我的特徵，這三個人應該分別是機工士姆斯塔迪奧、<hex:02100103>聖騎士阿格莉亞絲，還有被稱為劍聖的雷神希德。"
+204,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_800_002","姆斯塔迪奧·卜南薩是機工都市高古的機工士。<hex:02100103>杜萊白書上說他與勇者拉姆札一起對抗獅子戰爭幕後的為政者們，<hex:02100103>暗中幫助了英雄王迪利塔平定了戰爭。"
+205,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_800_003","他性格開朗，很會帶動團隊的氣氛，<hex:02100103>而且絕不膽怯，甚至曾公開反對拉姆札的決定。"
+206,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_800_004","在戰鬥方面，他精通槍械，是一名優秀的狙擊手。<hex:02100103>被廢棄的鐵巨人勞動八號也是他修好的，<hex:02100103>該說真不愧是高古的機工士嗎。"
+207,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_800_005","至於阿格莉亞絲，則是隸屬於皇家近衛騎士團的聖騎士。<hex:02100103>她負責指導、保護被幽禁在甌博訥修道院的奧薇莉亞公主，<hex:02100103>與公主長年生活在一起。"
+208,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_800_006","公主被黑獅子格爾塔納公綁架時，她也參與了救援行動，<hex:02100103>不過在知曉了迪利塔的真意後，她最終將公主託付給了迪利塔。<hex:02100103>之後阿格莉亞絲正式加入了勇者拉姆札一行沒有再離開。"
+209,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_800_007","不僅在杜蘭白書中，她在迪利塔的英雄傳說中也有登場。<hex:02100103>現在流傳的很多宮廷愛情故事都是以她為主角展開的，<hex:02100103>而且因為是一名男裝麗人，很多女性觀眾也對她青睞有加。"
+210,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_800_008","當然了，這些只是外界流傳的阿格莉亞絲形象。<hex:02100103>實際上根據杜萊白書記載，阿格莉亞絲是一位非常正直的騎士，<hex:02100103>從她成為了守護者這點上也可以看出她有著極強的責任感。"
+211,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_800_009","最後這位劍聖——希德盧法斯·奧爾蘭多則是擁有爵位的將軍。<hex:02100103>他是劍術的大師，劍聖之名廣為人知。<hex:02100103>由於他在戰場上恐怖的殺傷力，又被人們敬畏地稱呼為雷神希德。"
+212,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_800_010","他與自己的養子奧蘭一直在調查究竟是誰在暗中操縱著戰爭，<hex:02100103>因此遭到幕後黑手誣陷，被誣陷為異端、剝奪了將軍的職務。"
+213,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_800_011","自勇者拉姆札劫刑場救出了奧爾蘭多後，他就也加入了隊伍中。<hex:02100103>而在迪利塔的英雄傳說中，他是以叛徒的身份被處刑而死。<hex:02100103>這應該與拉姆札一樣，是為了消除在歷史中的痕跡才故意改寫的。"
+214,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_800_012","杜萊白書中說奧爾蘭多雖然年事已高，但高超的劍術無人能敵，<hex:02100103>所有敵人全都倒在他腳下變成了屍體，簡直宛如戰神一般……<hex:02100103>不知與你實際見到的有沒有出入？"

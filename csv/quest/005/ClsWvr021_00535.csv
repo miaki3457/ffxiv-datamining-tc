@@ -1,11 +1,10 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_CLSWVR021_00535_SEQ_00","재봉사 길드에 입문하는 것을 허락받았다. 새로 받은 재봉 바늘을 장비하고 향기로운 장미에게 말을 걸자."
-1,"TEXT_CLSWVR021_00535_SEQ_01","곧바로 재봉 바늘을 써서 <Sheet(Item,5333,0)/><13>FF0F02280BFF054974656DF214D50103FF04EBA5BCFF04EC9D84</13> 만들도록 지시받았다. <Sheet(Item,5333,0)/>의 재료인 <Sheet(Item,5341,0)/><13>FF0F02280BFF054974656DF214DD0103FF04EB8A94FF04EC9D80</13> 재봉사 길드 입구에 있는 기기마에게서 살 수 있다. <Sheet(Item,5333,0)/><13>FF0F02280BFF054974656DF214D50103FF04EBA5BCFF04EC9D84</13> 1개 제작하여 재봉사 길드에 있는 '향기로운 장미'에게 가지고 가자."
-2,"TEXT_CLSWVR021_00535_SEQ_02","모험가가 만들어 온 <Sheet(Item,5333,0)/><13>FF0F02280BFF054974656DF214D50103FF04EBA5BCFF04EC9D84</13> 본 향기로운 장미는 새내기 재봉사로서 맡은 첫 번째 과제를 잘 해결했다고 인정해주었다.
-
-※ 재봉사 레벨이 5 이상 되면 향기로운 장미에게 다음 재봉사 퀘스트를 받을 수 있습니다."
+0,"TEXT_CLSWVR021_00535_SEQ_00","得到了認可的冒險者加入了裁縫師行會。裝備上已獲得的縫衣針，去和雷多倫特·羅斯談談。"
+1,"TEXT_CLSWVR021_00535_SEQ_01","雷多倫特·羅斯讓冒險者用縫衣針去製作<hex:02280BFF05>Item<hex:F214D50103>。至於<hex:02280BFF05>Item<hex:F214D50103>的材料<hex:02280BFF05>Item<hex:F214DD0103>，可以從裁縫師行會門口的裁縫師那裡購買。製作1根<hex:02280BFF05>Item<hex:F214D50103>，交給裁縫師行會的雷多倫特·羅斯。"
+2,"TEXT_CLSWVR021_00535_SEQ_02","雷多倫特·羅斯看了<hex:02280BFF05>Item<hex:F214D50103>，認可冒險者已完成新手裁縫師的第一個課題。<hex:02100103><hex:02100103>※裁縫師的等級達到5級以上時，可以從雷多倫特·羅斯那裡領取下一個裁縫師任務。"
 3,"TEXT_CLSWVR021_00535_SEQ_03",""
 4,"TEXT_CLSWVR021_00535_SEQ_04",""
 5,"TEXT_CLSWVR021_00535_SEQ_05",""
@@ -27,7 +26,7 @@ int32,str,str
 21,"TEXT_CLSWVR021_00535_SEQ_21",""
 22,"TEXT_CLSWVR021_00535_SEQ_22",""
 23,"TEXT_CLSWVR021_00535_SEQ_23",""
-24,"TEXT_CLSWVR021_00535_TODO_00","향기로운 장미에게 <Sheet(Item,5333,0)/> 납품"
+24,"TEXT_CLSWVR021_00535_TODO_00","將<hex:02280BFF05>Item<hex:F214D50103>交給雷多倫特·羅斯"
 25,"TEXT_CLSWVR021_00535_TODO_01",""
 26,"TEXT_CLSWVR021_00535_TODO_02",""
 27,"TEXT_CLSWVR021_00535_TODO_03",""
@@ -51,44 +50,21 @@ int32,str,str
 45,"TEXT_CLSWVR021_00535_TODO_21",""
 46,"TEXT_CLSWVR021_00535_TODO_22",""
 47,"TEXT_CLSWVR021_00535_TODO_23",""
-48,"TEXT_CLSWVR021_00535_REDOLENTROSE_000","어머머머머,
-재봉 바늘 꼼꼼하게 잘도 챙겼네."
-49,"TEXT_CLSWVR021_00535_REDOLENTROSE_001","알겠니? 바늘은 재봉사한테 가장 중요한 도구야.
-함부로 다루면 바늘 대신 내가
-여기저기 콕콕 찔러 줄 거야!"
-50,"TEXT_CLSWVR021_00535_REDOLENTROSE_002","몸가짐도 제대로 갖췄으니,
-곧바로 네 솜씨 좀 확인해 볼까?
-그 바늘을 써서 <Sheet(Item,5333,0)/><13>FF0F02280BFF054974656DF214D50103FF04EBA5BCFF04EC9D84</13> 1개 만들어 오렴."
-51,"TEXT_CLSWVR021_00535_REDOLENTROSE_003","<Sheet(Item,5333,0)/><13>FF0F02280BFF054974656DF214D50103FF04EB8A94FF04EC9D80</13> 폭신폭신한 <Sheet(Item,5341,0)/><13>FF0F02280BFF054974656DF214DD0103FF04EBA5BCFF04EC9D84</13> 자아서 만든 실이야."
-52,"TEXT_CLSWVR021_00535_REDOLENTROSE_004","<Sheet(Item,5341,0)/><13>FF0F02280BFF054974656DF214DD0103FF04EB8A94FF04EC9D80</13> 재봉사 길드 들어오는 데서
-기기마가 팔고 있을 거야."
-53,"TEXT_CLSWVR021_00535_REDOLENTROSE_005","어머, 내 정신 좀 봐!
-<Sheet(Item,6,0)/>도 있어야 해.
-만들기 전에 준비해놓는 거 잊지 마."
-54,"TEXT_CLSWVR021_00535_REDOLENTROSE_006","너, 가만히 앉아서 생각한다고 재봉 솜씨가 느는 게 아니다?
-재료를 써서 직접 만들어보는 게 최고거든!
-자, 그럼 어서 다녀와."
-55,"TEXT_CLSWVR021_00535_SYSTEM_000","<Sheet(Item,5341,0)/><14>FF0F02280BFF054974656DF214DD0103FF04EBA19CFF07EC9CBCEBA19C</14> <Sheet(Item,5333,0)/><13>FF0F02280BFF054974656DF214D50103FF04EBA5BCFF04EC9D84</13> 제작해봅시다.
-주 메뉴의 '수첩'에서 '제작수첩'을 선택하면
-제작을 시작할 수 있습니다."
-56,"TEXT_CLSWVR021_00535_REDOLENTROSE_010","<Sheet(Item,5341,0)/><13>FF0F02280BFF054974656DF214DD0103FF04EB8A94FF04EC9D80</13> 재봉사 길드 들어오는 데서
-기기마가 팔고 있을 거야."
-57,"TEXT_CLSWVR021_00535_REDOLENTROSE_011","우후후, 네가 만든 <Sheet(Item,5333,0)/><13>FF0F02280BFF054974656DF214D50103FF04EB8A94FF04EC9D80</13> 어떤 감촉일까……."
-58,"TEXT_CLSWVR021_00535_REDOLENTROSE_021","어머, 웬일이니!
-이 <Sheet(Item,5333,0)/>, 정말 보드랍구나.
-네가 한 올 한 올 정성껏 자아냈다는 게 느껴져."
-59,"TEXT_CLSWVR021_00535_REDOLENTROSE_022","<Sheet(Item,5333,0)/><13>FF0F02280BFF054974656DF214D50103FF04EB8A94FF04EC9D80</13> 재봉장이들이
-가장 많이 쓰는 재료 중 하나야."
-60,"TEXT_CLSWVR021_00535_REDOLENTROSE_023","고작 실 뭉치로 호들갑 떠는 거 같겠지만 엄청 중요한 일이거든?
-잘 기억해두렴!"
-61,"TEXT_CLSWVR021_00535_REDOLENTROSE_024","아무리 아름다운 천이 있어도
-천을 깁는 실이 고르지 못하면 좋은 옷을 못 만들어."
-62,"TEXT_CLSWVR021_00535_REDOLENTROSE_025","네가 만든 실은 뭐 그럭저럭 나쁘진 않아.
-이거라면 근사한 옷을 만들 수 있겠어."
-63,"TEXT_CLSWVR021_00535_REDOLENTROSE_026","앞으로도 이런 식으로 <Sheet(Item,5333,0)/><13>FF0F02280BFF054974656DF214D50103FF04EBA5BCFF04EC9D84</13> 잔뜩 만들어서 연습하도록 해.
-만들고 또 만들다가…… 질리기 시작할 때쯤 새 과제를 내줄게."
-64,"TEXT_CLSWVR021_00535_REDOLENTROSE_027","네가 솜씨를 더 키우면 어떻게 될지 기대되는걸.
-우후후후."
-65,"TEXT_CLSWVR021_00535_SYSTEM_001","'재봉사' 클래스 퀘스트를 시작했습니다.
-다음 퀘스트는 레벨이 5 이상 되면 받을 수 있습니다.
-레벨을 올린 후 다시 길드를 방문해주세요."
+48,"TEXT_CLSWVR021_00535_REDOLENTROSE_000","哎呀呀，<hex:02100103>你裝備好縫衣針了啊。"
+49,"TEXT_CLSWVR021_00535_REDOLENTROSE_001","聽好了，針可是裁縫師的命。<hex:02100103>你要是不珍惜它，<hex:02100103>我可是會代替針來狠狠教訓你的。"
+50,"TEXT_CLSWVR021_00535_REDOLENTROSE_002","既然已經裝備好了行頭，<hex:02100103>那就讓我來考驗考驗你的手藝吧。<hex:02100103>你用這針來做1根<hex:02280BFF05>Item<hex:F214D50103>。"
+51,"TEXT_CLSWVR021_00535_REDOLENTROSE_003","<hex:02280BFF05>Item<hex:F214D50103>是用鬆軟的<hex:02280BFF05>Item<hex:F214DD0103>紡成的。"
+52,"TEXT_CLSWVR021_00535_REDOLENTROSE_004","從裁縫師行會門口的琪琪瑪那裡，<hex:02100103>就能買到<hex:02280BFF05>Item<hex:F214DD0103>。"
+53,"TEXT_CLSWVR021_00535_REDOLENTROSE_005","對了對了！<hex:02100103>還需要<hex:022809FF05>Item<hex:070103>呢。<hex:02100103>在做之前你可別忘了準備齊全材料。"
+54,"TEXT_CLSWVR021_00535_REDOLENTROSE_006","光空想是無法進步的。<hex:02100103>只有使用材料進行實踐才能有所提升！<hex:02100103>你快去做吧。"
+55,"TEXT_CLSWVR021_00535_SYSTEM_000","試著用<hex:02280BFF05>Item<hex:F214DD0103>製作<hex:02280BFF05>Item<hex:F214D50103>吧。<hex:02100103>從設定選單的「手冊管理」裡選擇「製作筆記」，<hex:02100103>就可以開始製作了。"
+56,"TEXT_CLSWVR021_00535_REDOLENTROSE_010","從裁縫師行會門口的琪琪瑪那裡，<hex:02100103>就能買到<hex:02280BFF05>Item<hex:F214DD0103>。"
+57,"TEXT_CLSWVR021_00535_REDOLENTROSE_011","呵呵呵，<hex:02100103>你做的<hex:02280BFF05>Item<hex:F214D50103>到底是怎樣的觸感呢……"
+58,"TEXT_CLSWVR021_00535_REDOLENTROSE_021","哎呀，真是的！<hex:02100103>這<hex:02280BFF05>Item<hex:F214D50103>真光滑。<hex:02100103>我能想像到你製作的時候有多用心。"
+59,"TEXT_CLSWVR021_00535_REDOLENTROSE_022","對於裁縫來說，<hex:02280BFF05>Item<hex:F214D50103>可是最基本的材料。"
+60,"TEXT_CLSWVR021_00535_REDOLENTROSE_023","你可能會想，不就是一根線嘛，有那麼重要嗎？<hex:02100103>但請你記住。"
+61,"TEXT_CLSWVR021_00535_REDOLENTROSE_024","如果縫製用的線品質參差不齊，<hex:02100103>那麼不管用多麼華美的布匹，都縫不出好衣服。"
+62,"TEXT_CLSWVR021_00535_REDOLENTROSE_025","你做的這線，算是達標了。<hex:02100103>用這線，估計可以縫製出漂亮的衣服。"
+63,"TEXT_CLSWVR021_00535_REDOLENTROSE_026","你就憑著這股鬥志，多做點<hex:02280BFF05>Item<hex:F214D50103>練習練習。<hex:02100103>不斷地去製作……等你快做膩了的時候，<hex:02100103>我就會給你新的課題了。"
+64,"TEXT_CLSWVR021_00535_REDOLENTROSE_027","我真期待你進步後的樣子。<hex:02100103>呵呵呵。"
+65,"TEXT_CLSWVR021_00535_SYSTEM_001","開啟了「裁縫師」的職業任務。<hex:02100103>等級達到「5級」以上時，才可以領取下一個任務。<hex:02100103>提高等級後再來行會。"

@@ -1,10 +1,8 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_BANKJN402_02986_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-※ 이 퀘스트는 수락 시점의 직업으로만 진행할 수 있습니다.
-
-푸른 물구슬에 있는 즈킨은 나마즈오와 거래할 상품이 필요한 듯하다. "
+0,"TEXT_BANKJN402_02986_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整（限定職業）<hex:0249020103><hex:0248020103><hex:02100103>※本任務需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>碧玉水的頭巾想要和鯰魚精做交易用的商品。"
 1,"TEXT_BANKJN402_02986_SEQ_01",""
 2,"TEXT_BANKJN402_02986_SEQ_02",""
 3,"TEXT_BANKJN402_02986_SEQ_03",""
@@ -28,9 +26,8 @@ int32,str,str
 21,"TEXT_BANKJN402_02986_SEQ_21",""
 22,"TEXT_BANKJN402_02986_SEQ_22",""
 23,"TEXT_BANKJN402_02986_SEQ_23",""
-24,"TEXT_BANKJN402_02986_TODO_00","비끗 요새 부근에 있는 <Sheet(BNpcName,6877,0)/><13>FF1302280FFF09424E70634E616D65F21ADD0103FF04EBA19CFF07EC9CBCEBA19C</13>부터
-<Sheet(EventItem,2002403,0)/> 입수"
-25,"TEXT_BANKJN402_02986_TODO_01","즈킨에게 보고 "
+24,"TEXT_BANKJN402_02986_TODO_00","從痙攣寨附近的<hex:02280FFF09>BNpcName<hex:F21ADD0103>身上<hex:02100103>獲取<hex:022811FF0A>EventItem<hex:F61E8DE30103>"
+25,"TEXT_BANKJN402_02986_TODO_01","向頭巾報告"
 26,"TEXT_BANKJN402_02986_TODO_02",""
 27,"TEXT_BANKJN402_02986_TODO_03",""
 28,"TEXT_BANKJN402_02986_TODO_04",""
@@ -53,17 +50,9 @@ int32,str,str
 45,"TEXT_BANKJN402_02986_TODO_21",""
 46,"TEXT_BANKJN402_02986_TODO_22",""
 47,"TEXT_BANKJN402_02986_TODO_23",""
-48,"TEXT_BANKJN402_02986_ZUKIN_000_000","나마즈오들이랑 인연도 맺었으니,
-거래 상품에 귀신물범 고기를 추가할까 한다아.
-나마즈오가 그 고기를 엄청 좋아한다더구운."
-49,"TEXT_BANKJN402_02986_ZUKIN_000_001","오노코로 섬에 <Sheet(BNpcName,6877,0)/><13>FF1302280FFF09424E70634E616D65F21ADD0103FF04EAB080FF04EC9DB4</13> 있으니
-<If(PlayerParameter(4))>누님<Else/>형님</If>이 실력을 발휘해서 잡아와줘어!"
-50,"TEXT_BANKJN402_02986_ZUKIN_000_020","<Sheet(EventItem,2002403,0)/><13>FF15022811FF0A4576656E744974656DF61E8DE30103FF04EB8A94FF04EC9D80</13> 구했나아?"
-51,"TEXT_BANKJN402_02986_ZUKIN_000_021","오오, 큰 걸 구해왔구나아!
-이 정도라면 나마즈오들도 엄청 기뻐할 거야아!"
-52,"TEXT_BANKJN402_02986_ZUKIN_000_022","귀신물범 고기는 우리도 인간도
-별로 좋아하지 않아서 마음껏 잡아도 된다아.
-나마즈오들 입맛이 특이해서 다행이다아."
-53,"TEXT_BANKJN402_02986_ZUKIN_000_023","가치가 없는 줄 알았던 고기를 거래할 수 있고
-인연도 돈독해지고 돈도 벌 수 있다니 더 바랄 게 없네에.
-<If(PlayerParameter(4))>누님<Else/>형님</If>, 잡아와줘서 고맙다아!"
+48,"TEXT_BANKJN402_02986_ZUKIN_000_000","已經和鯰魚精們結了緣，<hex:02100103>所以我在交易的商品清單裡新新增了牛鬼的肉——<hex:02100103>聽說牛鬼的肉是鯰魚精的最愛——"
+49,"TEXT_BANKJN402_02986_ZUKIN_000_001","在自凝島有<hex:02280FFF09>BNpcName<hex:F21ADD0103>出現，<hex:02100103><hex:020813E905FF07>大姐<hex:FF07>大哥<hex:03>，請你大顯身手幫忙狩獵——"
+50,"TEXT_BANKJN402_02986_ZUKIN_000_020","得到<hex:022811FF0A>EventItem<hex:F61E8DE30103>了嗎？"
+51,"TEXT_BANKJN402_02986_ZUKIN_000_021","哦！這肉可真大——<hex:02100103>鯰魚精們看到這個絕對會高興得鬍鬚動個不停——"
+52,"TEXT_BANKJN402_02986_ZUKIN_000_022","無論是我們還是人類，都不是特別喜歡牛鬼的肉，<hex:02100103>所以可以隨便狩獵，都沒有競爭對手——<hex:02100103>鯰魚精們喜歡這種另類食物，真是幫大忙了——"
+53,"TEXT_BANKJN402_02986_ZUKIN_000_023","哎呀——本來沒有任何價值的肉也能做交易，<hex:02100103>緣分也加深了，錢也賺到了，真是太棒了——<hex:02100103><hex:020813E905FF07>大姐<hex:FF07>大哥<hex:03>，謝謝你幫忙狩獵——"

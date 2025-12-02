@@ -1,5 +1,6 @@
 ﻿key,0,1,2
 #,BNpcName,ClassJob,
+offset,0,2,3
 int32,BNpcName,ClassJob,byte
 0,0,0,0
 1,4130,27,0

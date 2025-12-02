@@ -1,326 +1,133 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_000","아, 아앗……!
-어업과에 무슨 볼일이라도……!?"
-1,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_008","（★未使用／削除予定★）"
-2,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_009","（★未使用／削除予定★）"
-3,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_010","（★未使用／削除予定★）"
-4,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_011","（★未使用／削除予定★）"
-5,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_012","（★未使用／削除予定★）"
-6,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_020","의뢰물을 납품함으로써
-프리스릭은 당신의 공헌을 실감하기 시작했습니다."
+0,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_000","嗯，請問……<hex:02100103>你來水生資源部有什麼事嗎？"
+1,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_008",""
+2,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_009",""
+3,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_010",""
+4,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_011",""
+5,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_012",""
+6,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_020","交納了委託品，<hex:02100103>弗里斯利克實際感受到你做出了貢獻。"
 7,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_021","（★未使用／削除予定★）"
-8,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_022","앞으로도 적극적으로 의뢰물을 납품해
-공헌도를 축적해 나가십시오!"
-9,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_030","'<Sheet(Item,26746,0)/>'<13>FF0F02280BFF054974656DF2687A0103FF04EB8A94FF04EC9D80</13>
-레이크랜드의 '풍화한 균열'에서 잡을 수 있습니다!
-좀 무섭게 생겼지만 무척 영양가 높은 생선이랍니다!"
-10,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_050","（★未使用／削除予定★）"
-11,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_055","질 좋은 '<Sheet(Item,26746,0)/>'……! 감사합니다!
-이거라면 암맹증 환자들도 틀림없이 나을 거예요!
-바로 갖다줄게요!"
-12,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_100","<Highlight>ObjectParameter(1)</Highlight> 씨,
-<Sheet(Item,26746,0)/><13>FF0F02280BFF054974656DF2687A0103FF04EBA5BCFF04EC9D84</13> 잡아와 주셔서 감사합니다!
-바로 환자들한테 갖다줬어요!"
-13,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_101","암맹증으로 고생하는 환자들이 누구냐면……
-사실은 박물진열관에서 일하는 사서들이랍니다."
-14,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_102","거긴 책을 보호하기 위해 어둡게 해 놓은 곳이라
-암맹증이면 책을 찾을 때도 고생하나 보더라고요……."
-15,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_103","생선을 주니 무척 기뻐하더군요!
-효과가 나타나려면 시간이 걸리겠지만……
-희귀한 생선 요리를 먹을 수 있는 것만으로도 좋대요!"
-16,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_104","아무래도 '태초의 호수'의 생선만 계속 먹으면
-질리기도 할 테고 영양에도 불균형이 생기겠죠…….
-앞으로도 다양한 종류의 생선을 먹게 하고 싶네요."
-17,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_105","<Sheet(Item,26746,0)/><13>FF0F02280BFF054974656DF2687A0103FF04EB8A94FF04EC9D80</13> <Highlight>ObjectParameter(1)</Highlight> 씨가
-잡는 걸 도와주셔서 당분간은 재고가 있으니……
-저는 다른 병으로 고통받는 사람이 없는지 알아보겠습니다."
-18,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_106","식이 요법으로 고칠 수 있을 만한 병이 있으면
-또 도움을 요청드릴 테니까
-그때까지 조금만 기다려주세요……!"
-19,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_170","어업과의 공헌 단계가 상승했습니다!
-프리스릭은 당신을
-'어업과 개혁 필요성을 이해해주는 사람'이라고 여기게 되었습니다!"
-20,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_130","<Highlight>ObjectParameter(1)</Highlight> 씨,
-와주셔서 감사합니다!"
-21,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_135","다음 납품 의뢰는
-'어부'의 레벨이 73 이상 되면
-중용의 공예관의 '프리스릭'에게 받을 수 있습니다."
-22,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_150","지난번에 잡아주신 생선은 바로 효과가 나타났다고 해요!
-사서들뿐 아니라 어두운 곳에서 작업하는 사람들 사이에
-소문이 퍼지기 시작했다고 합니다."
-23,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_151","수요가 있다면
-크리스타리움의 일원으로서 공급해야 할 테니까…….
-숙련 어부들의 인식도 바뀌기 시작할지 몰라요!"
-24,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_152","그리고 다른 병으로 고통받는 사람들을 조사해 봤는데……
-최근에는 습진 때문에 연금술 의료관을
-찾아오는 사람들이 많다고 합니다."
-25,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_153","심지어 그중에는 이식증이 동시에 발병해서
-숯이나 종이를 먹기 시작한 사람들도 있다고 해요……!
-내버려뒀다간 다른 병까지 걸리고 말 거예요……!"
-26,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_154","그래서 이식증과 습진의 식이 요법에 관해
-박물진열관에서 찾아봤더니……
-고기와 유제품이 부족할 때 나타나는 증상이라고 합니다."
-27,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_155","그렇다면 어업과가 나설 일은 아니라고 생각하시겠지만,
-진한 맛의 어패류로도 효과가 있다더라고요!"
-28,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_156","그래서 제가 눈여겨본 것이
-'<Sheet(Item,26747,0)/>'<13>FF0F02280BFF054974656DF2687B0103FF07EB9DBCEB8A94FF0AEC9DB4EB9DBCEB8A94</13> 바위와 닮은 쌍각류 조개입니다.
-문헌에 따르면 양젖 같은 맛이 난다더군요……."
-29,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_157","'콜루시아 섬 서쪽 연안'에서 잡힌다는데
-좀 잡아다 주실 수 있을까요……?"
-30,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_158","감사합니다!
-그럼 저는 연금술 의료관의 치료사들에게
-말해두고 오겠습니다!"
-31,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_171","새로운 의뢰를 받아 납품 목록이 갱신되었습니다.
-'프리스릭'에게 말을 걸어 확인해 보세요."
-32,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_180","연금술 의료관의 치료사들도
-'콜루시아 섬 서쪽 연안'에서 잡히는 '<Sheet(Item,26747,0)/>'<13>FF0F02280BFF054974656DF2687B0103FF04EBA5BCFF04EC9D84</13>
-기대하고 있겠다고 합니다!"
-33,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_181","습진과 이식증은 금방 죽음에 이르는 병은 아니지만……
-아마도 무척이나 고통스러울 거예요…….
-환자분들을 위해서라도 열심히 조달해보자고요!"
-34,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_200","（★未使用／削除予定★）"
-35,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_205","무척이나 큼직한 '<Sheet(Item,26747,0)/>'<13>FF0F02280BFF054974656DF2687B0103FF07EB84A4EC9A94FF0AEC9DB4EB84A4EC9A94</13>!
-감사합니다!
-모두들 아주 기뻐하며 먹을 것 같아요!"
-36,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_230","'<Sheet(Item,26747,0)/>'<13>FF0F02280BFF054974656DF2687B0103FF04EBA5BCFF04EC9D84</13> 조달해주셔서 감사합니다!
-지금부터 연금술 의료관에 갖다주러 가려고 하는데,
-시간 괜찮으시면 같이 가실래요?"
-37,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_231","실례합니다. '<Sheet(Item,26747,0)/>'<13>FF0F02280BFF054974656DF2687B0103FF04EBA5BCFF04EC9D84</13> 갖다드리러 왔는데요."
-38,"TEXT_CTSDKBCHARACTER5_00571_SPAGYRICSHEALER00571_000_232","어머! 고마워, 기다리고 있었어!
-지난번에 갖다준 거랑 같이
-환자들 식사로 내야겠네."
-39,"TEXT_CTSDKBCHARACTER5_00571_SPAGYRICSHEALER00571_000_233","이곳 환자들도 식이 요법 대상자인데……
-벌써 <Sheet(Item,26747,0)/>의 효과가 나타나고 있거든!
-어부님한테 고맙다는 인사를 하고 싶대."
-40,"TEXT_CTSDKBCHARACTER5_00571_PATIENTMAN00571_000_234","아, 그래, 숯이랑 종이가 자꾸 먹고 싶어져서
-부끄럽기도 하고 배탈도 자꾸 나고……
-얼마나 골머리를 앓았는지 몰라."
-41,"TEXT_CTSDKBCHARACTER5_00571_PATIENTMAN00571_000_235","이상한 게 먹고 싶은 충동도 가라앉았고
-습진 증상도 많이 완화됐어.
-이 은혜는 잊지 않을게, 어부님."
-42,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_236","에이, 아닙니다. 저는 제가 할 수 있는 걸 했을 뿐……!
-옛 서적에 치료법이 쓰여 있었던 덕분이죠……."
-43,"TEXT_CTSDKBCHARACTER5_00571_SPAGYRICSHEALER00571_000_237","프리스릭 씨는
-사서와 치료사들 사이에서 살짝 소문이 나 있어.
-원인 모를 병을 낫게 해주는 책벌레 어부님이라고 말야."
-44,"TEXT_CTSDKBCHARACTER5_00571_SPAGYRICSHEALER00571_000_238","혹시 할 수 있으면……
-다른 증상을 호소하는 환자들의 식이 요법도
-알아봐 줄 수 있을까?"
-45,"TEXT_CTSDKBCHARACTER5_00571_SPAGYRICSHEALER00571_000_239","고마워……!
-사실 얼마 전에 어지럼증과 두근거림을 호소하는 환자가
-우리 쪽에 상담을 받으러 왔었어."
-46,"TEXT_CTSDKBCHARACTER5_00571_SPAGYRICSHEALER00571_000_240","충분히 휴식을 취하도록 하고, 대책을 강구해봤는데
-좀처럼 나아지질 않아…….
-단순한 체력 부족이거나 피곤해서 그러는 건 아닌 것 같고……."
-47,"TEXT_CTSDKBCHARACTER5_00571_SPAGYRICSHEALER00571_000_241","우리는 그때그때 증상을 완화시키는 치료는 할 수 있지만……
-만성적인 병은 그 원인을 고치지 못하면 의미가 없어.
-그러니까 부탁 좀 해도 될까?"
-48,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_242","그렇군요…….
-알겠습니다. 맡겨주세요!
-그 병과 효과적인 음식에 대해서도 찾아볼게요!"
-49,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_243","<Highlight>ObjectParameter(1)</Highlight> 씨,
-효과적인 음식을 알게 되면 다시 알려드릴게요.
-그때 또 협력해주시면 감사하겠습니다!"
-50,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_310","어업과의 공헌 단계가 상승했습니다!
-프리스릭은 당신을
-'어업과 개혁을 지지해주는 사람'이라고 여기게 되었습니다!"
-51,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_260","앗, <Highlight>ObjectParameter(1)</Highlight> 씨!
-마침 잘 왔네요!
-제 얘기 좀 들어주세요!"
-52,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_265","다음 납품 의뢰는
-'어부'의 레벨이 75 이상 되면
-중용의 공예관의 '프리스릭'에게 받을 수 있습니다."
-53,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_290","실은 어지럼증과 두근거림에
-효과가 있을 것 같은 음식을 찾았거든요!
-'<Sheet(Item,26748,0)/>'<13>FF0F02280BFF054974656DF2687C0103FF07EB9DBCEAB3A0FF0AEC9DB4EB9DBCEAB3A0</13> 불리는 민물조개랍니다!"
-54,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_291","다만 아쉽게도 '태초의 호수'에는 서식하지 않아서
-레이크랜드 부근에서는 잡을 수가 없다는군요……."
-55,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_292","오래된 어류도감을 찾아보니
-과거 '푀부트 왕국'에
-서식하고 있었다는 사실을 알게 됐지만……."
-56,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_293","그곳은 지금
-일 메그라 불리는 요정들의 영역…….
-위험해서 도저히 접근할 수가 없어요."
-57,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_294","그래서 이걸 어떻게 해야 하나 싶은데……."
-58,"TEXT_CTSDKBCHARACTER5_00571_Q1_000_000","뭐라고 대답하시겠습니까?"
-59,"TEXT_CTSDKBCHARACTER5_00571_A1_000_001","나에게는 페오가 있다"
-60,"TEXT_CTSDKBCHARACTER5_00571_A1_000_002","요정 따위 두렵지 않다"
-61,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_295","페오……? 아아!
-요정과 알고 지내는 여행자가 크리스타리움에 있다더니
-그게 당신이었구나!?"
-62,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_296","요정이 두렵지 않다니………… 앗!
-요정과 알고 지내는 여행자가 크리스타리움에 있다더니
-그게 당신이었구나!?"
-63,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_297","앗, 죄송해요, 저도 모르게 말을 편하게 해버렸네요……!
-너무 친절하게 대해주셔서 저도 모르게 그만…….
-그럼, 당신에게 물고기를 부탁해도 될까?"
-64,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_298","역시 든든하다니까!
-'<Sheet(Item,26748,0)/>'<13>FF0F02280BFF054974656DF2687C0103FF04EB8A94FF04EC9D80</13> 일 메그의
-'막내들의 물줄기'라는 곳에 서식하고 있을 거야……!"
-65,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_299","이번엔 내가 잡으러 못 가서 미안하지만
-잘 부탁해……!"
-66,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_311","새로운 의뢰를 받아 납품 목록이 갱신되었습니다.
-'프리스릭'에게 말을 걸어 확인해 보세요."
-67,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_330","'<Sheet(Item,26748,0)/>' 채집은 잘 되고 있어?
-일 메그의 '막내들의 물줄기'는 엄청 위험한 곳인데,
-그런 곳으로 가달라고 해서 미안……!"
-68,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_350","（★未使用／削除予定★）"
-69,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_355","와아……! 무척 큰 '<Sheet(Item,26748,0)/>'!
-살이 꽉 차서 엄청나게 무거워……!
-어서 연금술 의료관에 갖다줘야겠다!"
-70,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_380","<Highlight>ObjectParameter(1)</Highlight> 씨, 정말 고마워!
-잡아다 준 <Sheet(Item,26748,0)/><13>FF0F02280BFF054974656DF2687C0103FF04EB8A94FF04EC9D80</13>
-연금술 의료관에 갖다줬어."
-71,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_381","그런데 치료사님이 나랑 당신한테 할 말이 있다며
-조만간 이쪽으로 오겠다고 하시더라.
-이제 곧 오지 않을까?"
-72,"TEXT_CTSDKBCHARACTER5_00571_SPAGYRICSHEALER00571_000_382","프리스릭 씨, <Highlight>ObjectParameter(1)</Highlight> 씨.
-<Sheet(Item,26748,0)/>, 가져다줘서 고마웠어."
-73,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_383","아, 아닙니다……! 그건 괜찮습니다만…….
-뒤에 계신 분은
-혹시 어업과의 롭 씨가 아닌지……?"
-74,"TEXT_CTSDKBCHARACTER5_00571_SPAGYRICSHEALER00571_000_384","맞아, 롭 씨는 우리 환자야.
-오랫동안 어지럼증과 두근거림 때문에 고생하고 있거든."
-75,"TEXT_CTSDKBCHARACTER5_00571_SPAGYRICSHEALER00571_000_385","내가 간섭할 일은 아니겠지만……
-어업과의 불화는 롭 씨한테 들어서 알고 있었어."
-76,"TEXT_CTSDKBCHARACTER5_00571_SPAGYRICSHEALER00571_000_386","그래서 당신들의 활동 의의를
-환자이자 어부이기도 한 롭 씨가 알아줬으면 해서……
-그래서 이번 식이 요법을 제안한 거야."
-77,"TEXT_CTSDKBCHARACTER5_00571_LOBB_000_387","솔직히 많이 놀랐어.
-<Sheet(Item,26748,0)/><13>FF0F02280BFF054974656DF2687C0103FF04EBA5BCFF04EC9D84</13> 먹기 시작한 후로 끔찍한 지병이
-서서히 낫기 시작했으니까."
-78,"TEXT_CTSDKBCHARACTER5_00571_LOBB_000_388","당신들 말이 맞았던 거야…….
-지금까지의 내 태도를 용서해줘……."
-79,"TEXT_CTSDKBCHARACTER5_00571_LOBB_000_389","사과의 의미로……
-앞으로는 식이 요법을 위한 생선을 나도 조달할게.
-<Sheet(Item,26746,0)/> 또는 <Sheet(Item,26747,0)/> 정도는 나도 잡을 수 있어."
-80,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_390","아, 아앗……!
-그렇게 말씀해주실 거라곤 상상도 못 했어요!
-잘 부탁드립니다……!"
-81,"TEXT_CTSDKBCHARACTER5_00571_SPAGYRICSHEALER00571_000_391","연금술 의료관의 치료사들도
-도움이 필요한 일이 있으면 힘을 보탤게.
-언제든 불러줘."
-82,"TEXT_CTSDKBCHARACTER5_00571_SPAGYRICSHEALER00571_000_392","어업과가 식이 요법에 힘을 쏟아준다면 우리도 고맙지.
-크리스타리움 사람들의 병을 고치기 위해
-우리 함께 힘을 합쳐보자."
-83,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_393","네, 넵……!
-감사합니다……!"
-84,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_394","굉장해, 굉장하다고……!
-어부 중에서도
-우리가 하는 일을 인정해 주는 사람이 생기다니……!"
-85,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_395","<Highlight>ObjectParameter(1)</Highlight> 씨 덕분이야!
-고마워, 고마워……!!"
-86,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_396","사람도 늘어났으니까 전보다 훨씬 더
-폭넓은 식이 요법을 진행해볼 수 있을 거야!
-앞으로도 또 대책을 세워보자!"
-87,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_460","어업과의 공헌 단계가 상승했습니다!
-프리스릭은 당신을
-'어업과 개혁을 도와주는 사람'이라고 여기게 되었습니다!"
-88,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_400","또한 '프리스릭'에게 받을 수 있는
-중용의 공예관 거래 이야기 퀘스트를 진행할 수 있게 되었습니다!"
-89,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_420","<Highlight>ObjectParameter(1)</Highlight> 씨, 좋은 소식이야!
-롭 씨 지인의 병에 써볼 만한 방법을 찾았어!"
-90,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_425","다음 납품 의뢰는
-'어부'의 레벨이 78 이상 되면
-중용의 공예관의 '프리스릭'에게 받을 수 있습니다."
-91,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_450","롭 씨의 말에 따르면 그 여성은
-눈 흰자위가 노랗게 변했고
-어지럼증이 심하다고 했었지."
-92,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_451","황달이 나타나는 이유는 지금도 밝혀지지 않아서
-문헌이 적어 힘들었지만……
-사서님이 도와주신 덕에 조사가 잘 진행됐어!"
-93,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_452","빈혈과 황달은 역시 영양실조가 원인인 것 같아.
-부족한 영양을 보충할 식재료로는……
-기름이 오른 괴어의 간이 좋대."
-94,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_453","괴어라고 하면…… 아므 아랭의 <Sheet(Item,26749,0)/><13>FF0F02280BFF054974656DF2687D0103FF07EBA0A4EB8298FF0AEC9DB4EBA0A4EB8298</13>.
-가혹한 모래바다에서 살아남기 위해 간에 지방을 축적한 생선이야."
-95,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_454","다만, 아므 아랭의 위험한 지역에 서식하는 탓에
-일반 어부는 서식지에 접근하는 것조차 어려워…….
-그러니까 당신한테 부탁해도 될까?"
-96,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_455","고마워! 역시 든든하다니까!
-그럼 또 몇 마리 낚아서 와 주면 좋겠어."
-97,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_456","'<Sheet(Item,26749,0)/>'<13>FF0F02280BFF054974656DF2687D0103FF04EB8A94FF04EC9D80</13>
-아므 아랭의 '호박석 산맥'에 서식하고 있으니까……
-조심해서 다녀와!"
-98,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_461","새로운 의뢰를 받아 납품 목록이 갱신되었습니다.
-'프리스릭'에게 말을 걸어 확인해 보세요."
-99,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_480","'<Sheet(Item,26749,0)/>'<13>FF0F02280BFF054974656DF2687D0103FF04EB8A94FF04EC9D80</13>
-아므 아랭의 '호박석 산맥'에서 잡을 수 있대.
-당신이 잡아준다면 그 환자 분도 롭 씨도 기뻐할 거야!"
-100,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_500","（★未使用／削除予定★）"
-101,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_505","우와! 엄청나게 질 좋은 <Sheet(Item,26749,0)/><13>FF0F02280BFF054974656DF2687D0103FF04EB84A4FF07EC9DB4EB84A4</13>!
-이 탱탱한 몸통…… 기름이 오른 걸 한눈에 알 수 있어!
-이거라면 틀림없이 금방 효과가 나타날 거야!"
-102,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_530","<Highlight>ObjectParameter(1)</Highlight> 씨,
-<Sheet(Item,26749,0)/><13>FF0F02280BFF054974656DF2687D0103FF04EBA5BCFF04EC9D84</13> 넉넉하게 잡아다 줘서
-정말 고마워……!"
-103,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_531","나는 환자 분이랑 안면이 없어서
-롭 씨한테 전해달라고 부탁했어.
-순조롭게 회복되고 있나 봐."
-104,"TEXT_CTSDKBCHARACTER5_00571_LOBB_000_532","아아, 황달은 꽤 가라앉았어.
-그런데………………"
-105,"TEXT_CTSDKBCHARACTER5_00571_LOBB_000_533","타고난 체질 탓인지 몸이 너무 약해서…….
-네 덕분에 황달은 좋아졌지만
-아직도 상태가 안 좋은가 보더라고."
-106,"TEXT_CTSDKBCHARACTER5_00571_LOBB_000_534","요새는 손발에 힘이 안 들어간다는데…….
-아무래도 수정병이 아닐까 하는 얘길
-치료사한테 들었대……."
-107,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_535","아앗! 수정병이라고요……!?
-그건 큰일인데……!"
-108,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_536","<Highlight>ObjectParameter(1)</Highlight>,
-혹시 수정병을 모르는 거야……!?"
-109,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_537","수정병은 원인을 알 수 없는 크리스타리움 특유의 병이야.
-나른함을 느끼거나 손발의 움직임이 둔해져서……
-심해지면 목숨까지 위험해지는 병이라고……!"
-110,"TEXT_CTSDKBCHARACTER5_00571_LOBB_000_538","그리고…… 그…… 지금까지 알려주지 않아서 미안……
-그 환자가 누구냐면, 머빌 씨의 외동딸인
-휴리엘이라는 아이야……."
-111,"TEXT_CTSDKBCHARACTER5_00571_LOBB_000_539","마음이 복잡하겠지만……
-나도 어릴 때부터 알고 지내던 사이인데,
-어떻게든 계속 도와줄 수 없을까……."
-112,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_540","물론이죠!
-곤경에 처한 사람이 크리스타리움에 있다면
-어떻게든 돕고 싶다고 생각하는 마음은 모두 똑같으니까요……!"
-113,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_541","지금 생각하면 머빌 씨가 박물진열관에 와 있었던 것도
-따님의 병에 대해 알아보기 위해서였을지도 모르겠어요…….
-그분도 얼마나 불안할까요……."
-114,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_542","식이 요법으로 나아질 수 있을지는 모르겠지만……
-바로 대처법을 찾아볼게요!"
-115,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_543","<Highlight>ObjectParameter(1)</Highlight>,
-나는 수정병에 대해 조사해볼게."
-116,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_544","어쩌면 식이 요법으로 개선될 수도 있으니까
-너한테도 도움을 요청하게 될지도 몰라."
-117,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_545","어쩌면
-또 위험한 지역으로 가게 될 수도 있으니까……
-충분히 준비하고 단련해 놓도록 해……!"
-118,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_549","어업과의 공헌 단계가 상승했습니다!
-프리스릭은 당신을
-'어업과 개혁을 이끄는 사람'이라고 여기게 되었습니다!"
-119,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_550","중용의 공예관 거래 이야기 퀘스트를 진행할 수 있게 되었습니다!
-'어부'의 레벨이 80 이상 되면
-중용의 공예관에 있는 '프리스릭'에게 받을 수 있습니다."
+8,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_022","今後也請繼續交納委託品，<hex:02100103>累積貢獻度！"
+9,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_030","<hex:02280BFF05>Item<hex:F2687A0103>可以在<hex:02100103>雷克蘭德的風化裂痕釣到！<hex:02100103>雖然看起來很可怕，但其實是營養很豐富的魚！"
+10,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_050",""
+11,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_055","這<hex:02280BFF05>Item<hex:F2687A0103>真是太棒了！非常感謝！<hex:02100103>有了它，暗盲症病人的病情肯定會有所好轉！<hex:02100103>我馬上給他們帶過去！"
+12,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_100","<hex:022903EB0203>，<hex:02100103>感謝你幫我釣到了<hex:02280BFF05>Item<hex:F2687A0103>！<hex:02100103>我立刻就給患者們帶過去了！"
+13,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_101","說是受暗盲症折磨的患者們……<hex:02100103>其實……就是在博物陳列館工作的圖書館員。"
+14,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_102","為了儲存書籍，那裡光線昏暗，<hex:02100103>患有暗盲症的人尋找書籍就會很麻煩……"
+15,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_103","把魚交給他的時候，他可高興了！<hex:02100103>雖說等食療開始發揮功效還要等一段時間……<hex:02100103>但是能吃到稀有的魚本身就是一件開心的事！"
+16,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_104","果然，只吃始源湖的魚，<hex:02100103>會吃膩的，營養也不均衡……<hex:02100103>以後我也會給他們吃各種各樣的魚。"
+17,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_105","因為<hex:022903EB0203>幫我釣了不少<hex:02280BFF05>Item<hex:F2687A0103>，<hex:02100103>所以暫時不用擔心庫存的問題……<hex:02100103>我準備開始調查有沒有被其他疾病折磨的患者了。"
+18,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_106","如果還有其他食療能治癒的疾病的話，<hex:02100103>我覺得應該還要拜託你幫忙，<hex:02100103>請再稍等一下吧……"
+19,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_170","水生資源部的貢獻等級提高了！<hex:02100103>弗里斯利克認為你是水生資源部改革的理解者！"
+20,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_130","<hex:022903EB0203>，<hex:02100103>謝謝你能來！"
+21,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_135","漁師的等級達到73級以上時，<hex:02100103>可以從中庸工藝館的弗里斯利克那裡領取下一個交納委託品的任務。"
+22,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_150","之前釣到的魚，聽說有效果了！<hex:02100103>從圖書館員開始，在昏暗場所工作的人們，<hex:02100103>都在聊這個話題。"
+23,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_151","只要有需求，<hex:02100103>作為水晶都的一員我就會給予提供……<hex:02100103>老練漁師們的意識也可能已經開始轉變了！"
+24,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_152","還有，關於受其他疾病折磨的患者的事……<hex:02100103>最近，鍊金醫療館那邊<hex:02100103>似乎來了很多濕疹患者。"
+25,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_153","其中還有患了異食症的人，<hex:02100103>開始吃起了炭和紙！<hex:02100103>這樣下去肯定會變成什麼別的怪病了！"
+26,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_154","所以我就去博物陳列館<hex:02100103>調查了異食症和濕疹的食療方法。<hex:02100103>看來是因為肉和奶製品不足導致的症狀。"
+27,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_155","這麼說你可能會覺得完全沒有水生資源部出場的機會，<hex:02100103>但其實，味道濃厚的水產也是有效果的！"
+28,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_156","於是我選中了<hex:02280BFF05>Item<hex:F2687B0103>，<hex:02100103>那是種外表看似岩石的雙殼貝。<hex:02100103>根據文獻記載，其味道有點像羊奶呢。"
+29,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_157","據說在珂露西亞島西海岸能獲得這種貝，<hex:02100103>你能幫我去找一些來嗎？"
+30,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_158","太感謝你了！<hex:02100103>那我馬上去鍊金醫療館，<hex:02100103>把這個訊息告訴醫師們！"
+31,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_171","接到了新的委託，交貨列表已經更新。<hex:02100103>和弗里斯利克對話，查看新的交貨列表。"
+32,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_180","鍊金醫療館的醫師<hex:02100103>也在等著你從珂露西亞島西海岸捕回<hex:02280BFF05>Item<hex:F2687B0103>！"
+33,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_181","濕疹和異食症，雖說不是什麼致死的疾病……<hex:02100103>但患者肯定也很痛苦吧……<hex:02100103>為了患者們，我們也要努力籌集物資！"
+34,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_200",""
+35,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_205","這<hex:02280BFF05>Item<hex:F2687B0103>可真肥嫩！<hex:02100103>非常感謝！<hex:02100103>這東西做食材，大家都會非常高興地吃下去吧！"
+36,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_230","感謝你幫忙籌集<hex:02280BFF05>Item<hex:F2687B0103>！<hex:02100103>接下來我會將物資帶到鍊金醫療館，<hex:02100103>你能一起來嗎？"
+37,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_231","你、你好，我把<hex:02280BFF05>Item<hex:F2687B0103>帶過來了。"
+38,"TEXT_CTSDKBCHARACTER5_00571_SPAGYRICSHEALER00571_000_232","哎呀，真是謝謝你，就等它了！<hex:02100103>我會將你上次帶過來的東西，<hex:02100103>一起拿給患者們吃的。"
+39,"TEXT_CTSDKBCHARACTER5_00571_SPAGYRICSHEALER00571_000_233","這邊的患者也是食療的對象……<hex:02100103><hex:02280BFF05>Item<hex:F2687B0103>已經開始發揮效果了！<hex:02100103>他還說要謝謝漁師呢。"
+40,"TEXT_CTSDKBCHARACTER5_00571_PATIENTMAN00571_000_234","啊，當時特別想吃炭和紙，<hex:02100103>搞得我非常羞恥，然後還把肚子給吃壞了，<hex:02100103>這讓我一直很苦惱。"
+41,"TEXT_CTSDKBCHARACTER5_00571_PATIENTMAN00571_000_235","能止住想吃奇怪東西的衝動，<hex:02100103>濕疹的症狀也減輕了。<hex:02100103>真是太感謝你了，漁師。"
+42,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_236","哪裡哪裡，我只是做了我該做的事……<hex:02100103>這都要感謝古書中記載的知識……"
+43,"TEXT_CTSDKBCHARACTER5_00571_SPAGYRICSHEALER00571_000_237","弗里斯利克已經在<hex:02100103>圖書館員和醫師之間傳開了。<hex:02100103>說是能治療原因不明疾病的書蟲漁師。"
+44,"TEXT_CTSDKBCHARACTER5_00571_SPAGYRICSHEALER00571_000_238","如果可以的話……<hex:02100103>能不能幫我們想想<hex:02100103>其他症狀患者的食療方法呢？"
+45,"TEXT_CTSDKBCHARACTER5_00571_SPAGYRICSHEALER00571_000_239","謝謝！<hex:02100103>其實之前有一個說自己頭昏心悸的患者<hex:02100103>來找過我們。"
+46,"TEXT_CTSDKBCHARACTER5_00571_SPAGYRICSHEALER00571_000_240","雖說讓人家休息好，也做了相應的對策，<hex:02100103>但是總不見好轉……<hex:02100103>好像不是單純的體力不足或者身體不適呢……"
+47,"TEXT_CTSDKBCHARACTER5_00571_SPAGYRICSHEALER00571_000_241","我們雖說能對特定的症狀給出治療方法……<hex:02100103>但對於慢性病來說，不治本就沒有意義。<hex:02100103>所以能不能拜託你們呢。"
+48,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_242","原來如此……<hex:02100103>我知道了，就交給我吧！<hex:02100103>我這就去調查一下，有沒有對這種病有效的食物。"
+49,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_243","<hex:022903EB0203>，<hex:02100103>等我調查到有效的食物，我會再跟你說的，<hex:02100103>到時候還請你再協助我！"
+50,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_310","水生資源部的貢獻等級提高了！<hex:02100103>弗里斯利克認為你是水生資源部改革的支持者！"
+51,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_260","啊，<hex:022903EB0203>！<hex:02100103>你來得正好！<hex:02100103>我有事要告訴你！"
+52,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_265","漁師的等級達到75級以上時，<hex:02100103>可以從中庸工藝館的弗里斯利克那裡領取下一個交納委託品的任務。"
+53,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_290","其實，對頭昏和心悸<hex:02100103>有效果的食物我已經找到了！<hex:02100103>是被稱為<hex:02280BFF05>Item<hex:F2687C0103>的淡水貝！"
+54,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_291","但是很遺憾，它們的棲息地並不在始源湖，<hex:02100103>好像雷克蘭德附近並沒有捕捉點……"
+55,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_292","根據古代魚類圖鑑，<hex:02100103>它們就棲息在<hex:02100103>曾經的孚布特王國……"
+56,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_293","那個地方現在被稱為伊爾美格，<hex:02100103>是妖精們的地盤……<hex:02100103>那裡非常危險根本無法接近。"
+57,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_294","所以我在想該怎麼辦……"
+58,"TEXT_CTSDKBCHARACTER5_00571_Q1_000_000","如何作答？"
+59,"TEXT_CTSDKBCHARACTER5_00571_A1_000_001","我有菲奧跟著"
+60,"TEXT_CTSDKBCHARACTER5_00571_A1_000_002","妖精並不可怕"
+61,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_295","菲奧？啊！<hex:02100103>聽說水晶都有個和妖精關係不錯的旅行者，<hex:02100103>該不會就是你吧？！"
+62,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_296","什麼妖精不可怕……啊！<hex:02100103>聽說水晶都有個和妖精關係不錯的旅行者，<hex:02100103>該不會就是你吧？！"
+63,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_297","啊，不好意思，我有點太興奮了……<hex:02100103>你平時都很親切，我一不注意就大叫了出來，<hex:02100103>那麼能拜託你去一趟嗎？"
+64,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_298","不愧是你，太可靠了！<hex:02100103><hex:02280BFF05>Item<hex:F2687C0103>好像棲息在<hex:02100103>寵壞的年幼溪流一帶……"
+65,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_299","很抱歉這次我不能與你同行，<hex:02100103>拜託你了！"
+66,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_311","接到了新的委託，交貨列表已經更新。<hex:02100103>和弗里斯利克對話，查看新的交貨列表。"
+67,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_330","<hex:02280BFF05>Item<hex:F2687C0103>的籌集還算順利嗎？<hex:02100103>讓你去伊爾美格的寵壞的年幼溪流<hex:02100103>那麼危險的地方真是對不起……"
+68,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_350",""
+69,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_355","哇！好大的<hex:02280BFF05>Item<hex:F2687C0103>啊！<hex:02100103>而且滿滿全是肉，好沉啊！<hex:02100103>我馬上就給鍊金醫療館拿過去！"
+70,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_380","<hex:022903EB0203>，非常感謝你！<hex:02100103>你籌集來的<hex:02280BFF05>Item<hex:F2687C0103><hex:02100103>我已經交給鍊金醫療館了。"
+71,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_381","當時醫師說有話要跟我們說，<hex:02100103>會找個時間過來看眼，<hex:02100103>大概快要來了吧。"
+72,"TEXT_CTSDKBCHARACTER5_00571_SPAGYRICSHEALER00571_000_382","弗里斯利克，<hex:022903EB0203>，<hex:02100103>感謝你們籌集的<hex:02280BFF05>Item<hex:F2687C0103>。"
+73,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_383","不、不必客氣……那個先不提……<hex:02100103>你背後那位，<hex:02100103>難道是水生資源部的羅布？"
+74,"TEXT_CTSDKBCHARACTER5_00571_SPAGYRICSHEALER00571_000_384","是的，羅布是我們的患者。<hex:02100103>他就是常年遭受頭昏和心悸折磨的人。"
+75,"TEXT_CTSDKBCHARACTER5_00571_SPAGYRICSHEALER00571_000_385","可能是我多管閒事……<hex:02100103>我從他那裡聽說了水生資源部內有分歧。"
+76,"TEXT_CTSDKBCHARACTER5_00571_SPAGYRICSHEALER00571_000_386","羅布既是患者也是漁師，<hex:02100103>我想讓他了解你們活動的意義，<hex:02100103>就對他提出了食療的方案。"
+77,"TEXT_CTSDKBCHARACTER5_00571_LOBB_000_387","老實說，我真的嚇了一跳。<hex:02100103>長久以來的疾病，從吃了<hex:02280BFF05>Item<hex:F2687C0103><hex:02100103>就開始有了好轉。"
+78,"TEXT_CTSDKBCHARACTER5_00571_LOBB_000_388","看來你們所說的事是正確的……<hex:02100103>請原諒我一直以來的態度……"
+79,"TEXT_CTSDKBCHARACTER5_00571_LOBB_000_389","所以我想做點什麼以表歉意……<hex:02100103>今後請讓我也幫忙籌集用於食療的食物吧。<hex:02100103>我也會幫你們捕撈<hex:02280BFF05>Item<hex:F2687A0103>和<hex:02280BFF05>Item<hex:F2687B0103>的。"
+80,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_390","沒、沒有那麼嚴重啦……<hex:02100103>而且你能幫忙我可是求之不得！<hex:02100103>請務必多指教！"
+81,"TEXT_CTSDKBCHARACTER5_00571_SPAGYRICSHEALER00571_000_391","鍊金醫療館的醫師們<hex:02100103>也會幫助你們的。<hex:02100103>要是有什麼煩惱，記得隨時找我們哦。"
+82,"TEXT_CTSDKBCHARACTER5_00571_SPAGYRICSHEALER00571_000_392","水生資源部願意在食療上下功夫的話，對我們也是好事。<hex:02100103>為了治療水晶都居民們的疾病，我們就共同努力吧。"
+83,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_393","是、是！<hex:02100103>謝謝你！"
+84,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_394","太棒了，太棒了！<hex:02100103>我們做的事，<hex:02100103>在漁師中也有人認可了！"
+85,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_395","這都是托<hex:022903EB0203>的福啊！<hex:02100103>謝謝，謝謝你！"
+86,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_396","人手增多了，這樣的話<hex:02100103>食療也可以發展得更廣泛一些！<hex:02100103>從今以後要繼續精進針對疾病的食療研究了。"
+87,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_460","水生資源部的貢獻等級提高了！<hex:02100103>弗里斯利克認為你是水生資源部改革的支援者！"
+88,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_400","此外，可以領取中庸工藝館交易的劇情任務了。<hex:02100103>和弗里斯利克對話即可接受任務。"
+89,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_420","<hex:022903EB0203>，有好消息！<hex:02100103>羅布認識的那位女性的疾病，<hex:02100103>我找到治療辦法了！"
+90,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_425","漁師的等級達到78級以上時，<hex:02100103>可以從中庸工藝館的弗里斯利克那裡領取下一個交納委託品的任務。"
+91,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_450","羅布曾說她<hex:02100103>眼白變成了黃色，<hex:02100103>還頭昏得厲害的說。"
+92,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_451","得了黃疸的原因暫時還不清楚，<hex:02100103>雖然文獻很少，不好調查……<hex:02100103>但有圖書館員在協助我，所以調查正有序進行！"
+93,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_452","貧血和黃疸，果然也有營養失衡的原因。<hex:02100103>至於用來補充營養的食材嘛……<hex:02100103>據說用脂肪充足的怪魚的肝就可以了。"
+94,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_453","說到怪魚……大概就是安穆·艾蘭的<hex:02280BFF05>Item<hex:F2687D0103>吧。<hex:02100103>為了在環境嚴酷的沙海中生存，這種魚在肝部堆積了充足的脂肪。"
+95,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_454","只是，這種魚生活在安穆·艾蘭的危險地區，<hex:02100103>普通的漁師想去它們的棲息地實在是太難了……<hex:02100103>所以，能拜託你去嗎？"
+96,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_455","謝謝！你果然值得信賴！<hex:02100103>那如果能多釣幾條回來就再好不過了。"
+97,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_456","<hex:02280BFF05>Item<hex:F2687D0103><hex:02100103>生活在安穆·艾蘭的安峇丘一帶……<hex:02100103>請小心前往！"
+98,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_461","接到了新的委託，交貨列表已經更新。<hex:02100103>和弗里斯利克對話，查看新的交貨列表。"
+99,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_480","<hex:02280BFF05>Item<hex:F2687D0103><hex:02100103>可以在安穆·艾蘭的安峇丘釣到。<hex:02100103>要是你能釣到，羅布和患者肯定也會很開心的！"
+100,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_500",""
+101,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_505","哇！多麼上乘的<hex:02280BFF05>Item<hex:F2687D0103>啊！<hex:02100103>如此飽滿……一眼就能看出來脂肪充足！<hex:02100103>這樣的話，食療效果應該會立刻顯現出來吧！"
+102,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_530","<hex:022903EB0203>，<hex:02100103>你釣上了足夠多的<hex:02280BFF05>Item<hex:F2687D0103>，<hex:02100103>真是太感謝你了……"
+103,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_531","我並不認識那位患者，<hex:02100103>所以只能交給羅布。<hex:02100103>看起來，食療效果還算順利。"
+104,"TEXT_CTSDKBCHARACTER5_00571_LOBB_000_532","是的，黃疸的病症已經恢復得很好了。<hex:02100103>只是……"
+105,"TEXT_CTSDKBCHARACTER5_00571_LOBB_000_533","也許是她生來體質就弱，<hex:02100103>多虧了你們，黃疸的病症有所好轉，<hex:02100103>但是身體還是不舒服。"
+106,"TEXT_CTSDKBCHARACTER5_00571_LOBB_000_534","最近她手腳都使不上力氣……<hex:02100103>醫師們都說她<hex:02100103>恐怕是患上了水晶病……"
+107,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_535","欸！水晶病？！<hex:02100103>這可糟糕了！"
+108,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_536","<hex:022903EB0203>，<hex:02100103>你不知道水晶病嗎？！"
+109,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_537","所謂水晶病，是水晶都特有的原因不明的疾病。<hex:02100103>患者會感覺渾身乏力，手腳遲鈍……<hex:02100103>嚴重時甚至會危及生命！"
+110,"TEXT_CTSDKBCHARACTER5_00571_LOBB_000_538","還有……就是……抱歉一直瞞著你們……<hex:02100103>那個患者就是莫威爾的獨生女，<hex:02100103>她的名字叫赫莉耶爾……"
+111,"TEXT_CTSDKBCHARACTER5_00571_LOBB_000_539","我知道你們的心情會很複雜……<hex:02100103>在她很小的時候我就認識她了，<hex:02100103>還請你們繼續幫助她啊……"
+112,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_540","那是當然！<hex:02100103>水晶都有人在忍受痛苦時，<hex:02100103>大家都會想去幫一下的！"
+113,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_541","如今看來，莫威爾會到博物陳列館，<hex:02100103>大概也是去調查女兒的疾病了……<hex:02100103>他一定也很擔心吧……"
+114,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_542","食療會不會起作用我還不清楚……<hex:02100103>我馬上就去調查！"
+115,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_543","<hex:022903EB0203>，<hex:02100103>我去調查關於水晶病的事情。"
+116,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_544","如果食療能改善病情的話，<hex:02100103>說不定還要請你幫忙。"
+117,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_545","搞不好又要讓你前往危險的地區了……<hex:02100103>請做好十足的準備！"
+118,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_549","水生資源部的貢獻等級提高了！<hex:02100103>弗里斯利克認為你是水生資源部改革的牽引者！"
+119,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_550","可以領取中庸工藝館交易的劇情任務了。<hex:02100103>漁師的等級達到80級以上時，<hex:02100103>可以從中庸工藝館的弗里斯利克那裡領取任務。"
 120,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_560","（★未使用／削除予定★）"
-121,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_570","안녕? 놀러 와 준 거야?
-네 덕분에 어업과는 무척 북적이고 있어!
-다 함께 힘을 모아 다양한 지역에서 물고기를 잡고 있거든……!"
-122,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_575","<Highlight>ObjectParameter(1)</Highlight>, 당신은 몇 번이고
-크리스타리움 사람들을 건강하게 만들어줘서……
-정말 대단하다고 생각해……."
-123,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_576","나도 조금이라도 당신처럼 되기 위해……
-사람들을 기운 나게 하기 위해서 더 열심히 노력할 테니까
- 꼭 지켜봐줘!"
-124,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_580","소지품에 공간이 부족하여
-보상을 받을 수 없습니다.
-소지품을 정리한 후에 프리스릭에게 말을 거세요."
-125,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_590","어업과와 거래하려면
-'어부'여야 합니다."
-126,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_600","아, <Highlight>ObjectParameter(1)</Highlight>!
-넌 그 모웬 도구도 협력했었지?
-나도 어업과를 대표해서 그 도구에 의견을 냈어."
-127,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_601","우리 일은 도구가 없으면 안 되니까……
-긍지를 갖고 소중하게 계속 쓸 수 있는 도구를
-개발해주니 얼마나 고마운지 몰라."
-128,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_602","유통된다면 레이크랜드의 어부들도 모두
-굉장히 기뻐할 거야……!"
+121,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_570","嘿，你來玩啦？<hex:02100103>托你的福，水生資源部現在非常熱鬧！<hex:02100103>大家同心協力，開始在各個地區捕魚了！"
+122,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_575","<hex:022903EB0203>，你能一次又一次<hex:02100103>讓水晶都的人們臉上綻放笑容……<hex:02100103>真是好厲害啊……"
+123,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_576","我也要向你學習……<hex:02100103>為了讓大家充滿精神，我要更加努力才行，<hex:02100103>請你看好我的表現吧！"
+124,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_580","背包已滿，<hex:02100103>無法獲得報酬。<hex:02100103>請整理背包後再次和弗里斯利克對話。"
+125,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_590","要和水生資源部進行交易，<hex:02100103>職業必須為漁師。"
+126,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_600","啊！是<hex:022903EB0203>！<hex:02100103>我聽說你去幫忙做了那個莫雯卓越工具，對吧？<hex:02100103>其實我也代表我們水生資源部給你們提了意見呢。"
+127,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_601","因為這也是我們幹活要用的工具嘛……<hex:02100103>聽說你們潛心開發出了能讓人一直用下去的工具，<hex:02100103>我真得跟你們說一聲謝謝。"
+128,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_602","等這麼好的工具流通開了，<hex:02100103>雷克蘭德的漁師肯定會天天笑得合不攏嘴的！"

@@ -1,5 +1,6 @@
 ﻿key,0,1,2
 #,Icon,PlaceName,DisplayNavi
+offset,0,4,8
 int32,Image,PlaceName,bit&01
 0,0,0,False
 1,60453,1230,True
@@ -98,5 +99,3 @@ int32,Image,PlaceName,bit&01
 94,63887,2568,True
 95,63888,2569,True
 96,63891,5300,True
-97,63895,5320,True
-98,63896,5321,True

@@ -1,37 +1,21 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGLAKGUIDINGSTAR_00246_TALK_Q1","무엇을 물어보시겠습니까?"
-1,"TEXT_REGLAKGUIDINGSTAR_00246_TALK_A1","'비전서'에 대해서"
-2,"TEXT_REGLAKGUIDINGSTAR_00246_TALK_A2","'장인의 장비 / 탐색자의 장비'에 대해서"
-3,"TEXT_REGLAKGUIDINGSTAR_00246_TALK_A3","'개량된 주 도구'에 대해서"
-4,"TEXT_REGLAKGUIDINGSTAR_00246_TALK_A4","'발전된 주 도구'에 대해서"
-5,"TEXT_REGLAKGUIDINGSTAR_00246_TALK_A5","취소"
-6,"TEXT_REGLAKGUIDINGSTAR_00246_TALK_A1_1","'비전서'란 숙련된 장인만이 만들 수 있는
-고도의 제작법이 적힌 수첩이다.
-옆에 있는 탈랜 영감이 요구하는 물건을 주면 교환해줄 거야."
-7,"TEXT_REGLAKGUIDINGSTAR_00246_TALK_A1_2","비전서를 전수해주는 사람은 탈랜 영감 말고도 있다는군.
-관심 있으면 한번 찾아봐라."
-8,"TEXT_REGLAKGUIDINGSTAR_00246_TALK_A2_1","'일류의 도구'를 손에 넣었다면,
-다음 목표는 '장인의 장비'와 '탐색자의 장비'다."
-9,"TEXT_REGLAKGUIDINGSTAR_00246_TALK_A2_2","탈랜 영감이 요구하는 물건을 직접 제작하거나 채집해오면
-주 도구와 방어구로 교환해줄 거야."
-10,"TEXT_REGLAKGUIDINGSTAR_00246_TALK_A2_3","'장인의 장비'와 '탐색자의 장비' 방어구 중에는
-'비전서'를 얻은 제작자가 만들 수 있는 것도 있으니
-장터 게시판을 둘러보는 것도 좋겠지."
-11,"TEXT_REGLAKGUIDINGSTAR_00246_TALK_A3_1","'일류의 도구'를 강화한 주 도구를 '개량된' 장비라고 하지.
-탈랜 영감이 요구하는 물건을 가져와야 받을 수 있어."
-12,"TEXT_REGLAKGUIDINGSTAR_00246_TALK_A3_2","직접 제작하거나 채집해야 할 뿐만 아니라
-'장인의 장비' 또는 '탐색자의 장비'를 분해하면 얻을 수 있는
-'명장의 데미마테리아', '생활력의 데미마테리다'가 필요하다."
-13,"TEXT_REGLAKGUIDINGSTAR_00246_TALK_A3_3","단, 데미마테리아를 손에 넣기 위해
-반드시 직접 '분해'할 필요는 없어.
-장터 게시판을 둘러보면 찾을 수 있을지도 모른다."
-14,"TEXT_REGLAKGUIDINGSTAR_00246_TALK_A4_1","'개량된' 주 도구를 강화한 것을 '발전된' 장비라고 하지.
-그야말로 '초일류 도구'라고 할 수 있어."
-15,"TEXT_REGLAKGUIDINGSTAR_00246_TALK_A4_2","직접 제작하거나 채집해야 할 뿐만 아니라
-보물 지도, 군표 교환, 동맹 휘장 교환, 길드 의뢰,
-이크살족 기술자 집단을 통해 입수하는 물건도 필요하다."
-16,"TEXT_REGLAKGUIDINGSTAR_00246_TALK_A4_3","'개량된' 장비를 손에 넣었다면 꼭 한번 노려볼 만한 명품이야.
-'초일류 도구'인 만큼 손에 넣기가 매우 힘들지만
-그만큼 노력할만한 가치가 있는 물건이라고."
+0,"TEXT_REGLAKGUIDINGSTAR_00246_TALK_Q1","想了解什麼？"
+1,"TEXT_REGLAKGUIDINGSTAR_00246_TALK_A1","關於秘笈"
+2,"TEXT_REGLAKGUIDINGSTAR_00246_TALK_A2","關於工匠裝備與徵糧裝備"
+3,"TEXT_REGLAKGUIDINGSTAR_00246_TALK_A3","關於上品主手工具"
+4,"TEXT_REGLAKGUIDINGSTAR_00246_TALK_A4","關於華光主手工具"
+5,"TEXT_REGLAKGUIDINGSTAR_00246_TALK_A5","取消"
+6,"TEXT_REGLAKGUIDINGSTAR_00246_TALK_A1_1","所謂秘笈，就是記載著一些高難度製品做法的配方。<hex:02100103>因為難度較高，所以只有老練的工匠才能將它們製作出來。<hex:02100103>你可以從我身邊的塔蘭老爺子手裡換取秘笈。"
+7,"TEXT_REGLAKGUIDINGSTAR_00246_TALK_A1_2","聽聞塔蘭老爺子之外也有人在傳授秘笈。<hex:02100103>如果感興趣的話你可以去找找看。"
+8,"TEXT_REGLAKGUIDINGSTAR_00246_TALK_A2_1","得到一流的工具後，<hex:02100103>接下來的目標就是被稱作「工匠」與「徵糧」的裝備了。"
+9,"TEXT_REGLAKGUIDINGSTAR_00246_TALK_A2_2","你親自去製作、採集塔蘭老爺子需要的東西吧！<hex:02100103>這樣就可以換到主工具和防具了。"
+10,"TEXT_REGLAKGUIDINGSTAR_00246_TALK_A2_3","工匠與徵糧的防具有些可以透過習得了秘笈的能工巧匠進行製作，<hex:02100103>所以你也可以在市場佈告板找到它們。"
+11,"TEXT_REGLAKGUIDINGSTAR_00246_TALK_A3_1","上品主手工具比一流的工具更強一個等級，<hex:02100103>你需要集齊塔蘭老爺子需要的東西才能換到。"
+12,"TEXT_REGLAKGUIDINGSTAR_00246_TALK_A3_2","除了需要親自製作、採集外，<hex:02100103>還需要分解工匠與徵糧裝備才能得到的<hex:02100103>工藝神半魔晶石壹型、匠心半魔晶石叁型。"
+13,"TEXT_REGLAKGUIDINGSTAR_00246_TALK_A3_3","不過這些半魔晶石倒不用非得親自去分解，<hex:02100103>你去市場佈告板看看也許就能弄到手了。"
+14,"TEXT_REGLAKGUIDINGSTAR_00246_TALK_A4_1","華光主手工具要比上品主手工具更強一個等級，<hex:02100103>正可謂是超一流的工具。"
+15,"TEXT_REGLAKGUIDINGSTAR_00246_TALK_A4_2","除了需要親自製作、採集外，<hex:02100103>還需要一些透過寶物地圖、軍票交換、同盟徽章交換、<hex:02100103>理符任務、鳥人族工匠集團等途徑獲得的物品。"
+16,"TEXT_REGLAKGUIDINGSTAR_00246_TALK_A4_3","如果你擁有上品主手工具的話，請務必向著華光的方向努力。<hex:02100103>超一流的工具雖說入手不易，但必定物有所值。"

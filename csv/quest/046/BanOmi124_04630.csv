@@ -1,13 +1,11 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_BANOMI124_04630_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
-
-리서치 A4에 있는 스티그마-4는 재료 조달을 부탁하고 싶은 듯하다."
-1,"TEXT_BANOMI124_04630_SEQ_01","엘리시온의 유원 구획에서 요리 연구형 오미크론과 대화"
-2,"TEXT_BANOMI124_04630_SEQ_02","요리 연구형 오미크론에게 의뢰받은 물건 납품"
-3,"TEXT_BANOMI124_04630_SEQ_03","스티그마-4에게 보고"
+0,"TEXT_BANOMI124_04630_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整（限定職業）<hex:0249020103><hex:0248020103><hex:02100103>※本任務需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>A4調查平臺的斯提格瑪四想要冒險者幫忙籌備素材。"
+1,"TEXT_BANOMI124_04630_SEQ_01","和至福樂土遊樂區的調理研究型奧密克戎對話"
+2,"TEXT_BANOMI124_04630_SEQ_02","將委託物品交給調理研究型奧密克戎"
+3,"TEXT_BANOMI124_04630_SEQ_03","向斯提格瑪四報告"
 4,"TEXT_BANOMI124_04630_SEQ_04",""
 5,"TEXT_BANOMI124_04630_SEQ_05",""
 6,"TEXT_BANOMI124_04630_SEQ_06",""
@@ -28,9 +26,9 @@ int32,str,str
 21,"TEXT_BANOMI124_04630_SEQ_21",""
 22,"TEXT_BANOMI124_04630_SEQ_22",""
 23,"TEXT_BANOMI124_04630_SEQ_23",""
-24,"TEXT_BANOMI124_04630_TODO_00","엘리시온의 유원 구획에서 요리 연구형 오미크론과 대화"
-25,"TEXT_BANOMI124_04630_TODO_01","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>엘리시온의 유원 구획에서 <Sheet(Item,IntegerParameter(5),0)/> 캐기<Else/>요리 연구형 오미크론에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>엘리시온의 유원 구획에서 <Sheet(Item,IntegerParameter(5),0)/> 채집<Else/>요리 연구형 오미크론에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>엘리시온의 유원 구획에서 <Sheet(Item,IntegerParameter(5),0)/> 낚기<Else/>요리 연구형 오미크론에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If>"
-26,"TEXT_BANOMI124_04630_TODO_02","스티그마-4에게 보고"
+24,"TEXT_BANOMI124_04630_TODO_00","和至福樂土遊樂區的調理研究型奧密克戎對話"
+25,"TEXT_BANOMI124_04630_TODO_01","<hex:0208F2015AE4E80511FF6A><hex:020866E3E802E803FF2C>在至福樂土遊樂區採掘<hex:02280AFF05>Item<hex:E8060103><hex:FF32>將<hex:02280AFF05>Item<hex:E8060103>交給調理研究型奧密克戎<hex:03><hex:FFF0E8><hex:0208F0E3E4E80512FF6A><hex:020866E3E802E803FF2C>在至福樂土遊樂區採集<hex:02280AFF05>Item<hex:E8060103><hex:FF32>將<hex:02280AFF05>Item<hex:E8060103>交給調理研究型奧密克戎<hex:03><hex:FF73><hex:02086FE4E80513FF67><hex:020863E3E802E803FF29>在至福樂土遊樂區釣<hex:02280AFF05>Item<hex:E8060103><hex:FF32>將<hex:02280AFF05>Item<hex:E8060103>交給調理研究型奧密克戎<hex:03><hex:FF01><hex:03><hex:03><hex:03>"
+26,"TEXT_BANOMI124_04630_TODO_02","向斯提格瑪四報告"
 27,"TEXT_BANOMI124_04630_TODO_03",""
 28,"TEXT_BANOMI124_04630_TODO_04",""
 29,"TEXT_BANOMI124_04630_TODO_05",""
@@ -52,39 +50,18 @@ int32,str,str
 45,"TEXT_BANOMI124_04630_TODO_21",""
 46,"TEXT_BANOMI124_04630_TODO_22",""
 47,"TEXT_BANOMI124_04630_TODO_23",""
-48,"TEXT_BANOMI124_04630_STIGMA4_000_000","카페의 고객이 된 드래곤족을 위해 신메뉴를 연구 중.
-또한 엘리시온에서 채집 가능한 식재료를 사용해
-그들이 고향에서 먹었던 생물의 맛을 재현하려 시도하는 중."
-49,"TEXT_BANOMI124_04630_STIGMA4_000_001","동맹자 <Highlight>ObjectParameter(1)</Highlight>에게도 협력 요망.
-엘리시온 유원 구획에서 요리 연구형 오미크론과 합류해
-상세 내용을 확인한 후, 임무를 수행할 것."
-50,"TEXT_BANOMI124_04630_DELIVERER04630_000_010","지지직…… 동맹자 <Highlight>ObjectParameter(1)</Highlight> 확인……
-드래곤족이 선호하는 맛을 재현하는 임무 맞으시죠?
-기다리고 있었습니다."
-51,"TEXT_BANOMI124_04630_DELIVERER04630_000_011","유원 구획에서 '<Sheet(Item,38296,0)/>'<13>FF0F02280BFF054974656DF295980103FF04EBA5BCFF04EC9D84</13> 채집하고,
-입수한 후에는 신속하게 납품해 주시기 바랍니다."
-52,"TEXT_BANOMI124_04630_DELIVERER04630_000_012","유원 구획에서 '<Sheet(Item,38320,0)/>'<13>FF0F02280BFF054974656DF295B00103FF04EBA5BCFF04EC9D84</13> 채집,
-입수 후에는 신속한 납품을 부탁드립니다."
-53,"TEXT_BANOMI124_04630_DELIVERER04630_000_013","유원 구획에서 '<Sheet(Item,38344,0)/>'<13>FF0F02280BFF054974656DF295C80103FF04EBA5BCFF04EC9D84</13> 채집,
-입수 후에는 신속한 납품을 부탁드립니다.
-입수하려면 <Sheet(Item,36588,0)/><13>FF0F02280BFF054974656DF28EEC0103FF04EBA5BCFF04EC9D84</13> 사용하는 것이 효과적입니다."
-54,"TEXT_BANOMI124_04630_DELIVERER04630_000_014","유원 구획에서 '<Sheet(Item,38296,0)/>'<13>FF0F02280BFF054974656DF295980103FF04EBA5BCFF04EC9D84</13> 채집,
-입수 후에는 신속한 납품을 부탁드립니다."
-55,"TEXT_BANOMI124_04630_DELIVERER04630_000_015","유원 구획에서 '<Sheet(Item,38320,0)/>'<13>FF0F02280BFF054974656DF295B00103FF04EBA5BCFF04EC9D84</13> 채집,
-입수 후에는 신속한 납품을 부탁드립니다."
-56,"TEXT_BANOMI124_04630_DELIVERER04630_000_016","유원 구획에서 '<Sheet(Item,38344,0)/>'<13>FF0F02280BFF054974656DF295C80103FF04EBA5BCFF04EC9D84</13> 채집,
-입수 후에는 신속한 납품을 부탁드립니다.
-입수하려면 <Sheet(Item,36588,0)/><13>FF0F02280BFF054974656DF28EEC0103FF04EBA5BCFF04EC9D84</13> 사용하는 것이 효과적입니다."
-57,"TEXT_BANOMI124_04630_DELIVERER04630_000_020","지지직…… 의뢰품은 입수하셨습니까?"
-58,"TEXT_BANOMI124_04630_DELIVERER04630_000_021","지지직…… 의뢰품 확인……
-협력에 감사드립니다.
-'스티그마-4'에게 보상을 받아 주십시오."
-59,"TEXT_BANOMI124_04630_DELIVERER04630_000_022","（★未使用／削除予定★）"
-60,"TEXT_BANOMI124_04630_STIGMA4_000_030","요리 연구형 오미크론에게 보고를 수신.
-동맹자 <Highlight>ObjectParameter(1)</Highlight>의 협력을 높이 평가한다."
-61,"TEXT_BANOMI124_04630_STIGMA4_000_031","용의 별에서 나는 식재료를 구하기는 어렵지만,
-요리로 맛과 식감을 비슷하게 만드는 건 가능할 것으로 추측.
-현재, 가장 적절한 조리법을 연구 중."
-62,"TEXT_BANOMI124_04630_STIGMA4_000_032","하지만 조리법이 확립된다 해도 문제가 있음.
-덩치 큰 드래곤족의 배를 채우려면 상당량의 식재료가 필수.
-양식 기술 연구도 병행해서 진행해야 할 것으로 판단됨……."
+48,"TEXT_BANOMI124_04630_STIGMA4_000_000","由於龍族成為了咖啡廳的顧客，所以本機正在研究新菜單。<hex:02100103>本機想利用至福樂土當地的食材，<hex:02100103>重現龍族在故鄉捕食的生物的味道。"
+49,"TEXT_BANOMI124_04630_STIGMA4_000_001","因此本機想向同盟者<hex:022903EB0203>尋求幫助。<hex:02100103>請前往至福樂土遊樂區和調理研究型奧密克戎會合，<hex:02100103>在確認完具體內容之後，儘快完成任務。"
+50,"TEXT_BANOMI124_04630_DELIVERER04630_000_010","沙沙沙……確認為同盟者<hex:022903EB0203>……<hex:02100103>是關於重現龍族喜歡的味道的任務對吧？<hex:02100103>恭候多時了。"
+51,"TEXT_BANOMI124_04630_DELIVERER04630_000_011","請前往遊樂區採集<hex:02280BFF05>Item<hex:F295980103>。<hex:02100103>獲取後請儘快完成交納。"
+52,"TEXT_BANOMI124_04630_DELIVERER04630_000_012","請前往遊樂區採集<hex:02280BFF05>Item<hex:F295B00103>。<hex:02100103>獲取後請儘快完成交納。"
+53,"TEXT_BANOMI124_04630_DELIVERER04630_000_013","請前往遊樂區採集<hex:02280BFF05>Item<hex:F295C80103>。<hex:02100103>獲取後請儘快完成交納。<hex:02100103>捕獲時推薦使用<hex:02280BFF05>Item<hex:F28EEC0103>。"
+54,"TEXT_BANOMI124_04630_DELIVERER04630_000_014","請前往遊樂區採集<hex:02280BFF05>Item<hex:F295980103>。<hex:02100103>獲取後請儘快完成交納。"
+55,"TEXT_BANOMI124_04630_DELIVERER04630_000_015","請前往遊樂區採集<hex:02280BFF05>Item<hex:F295B00103>。<hex:02100103>獲取後請儘快完成交納。"
+56,"TEXT_BANOMI124_04630_DELIVERER04630_000_016","請前往遊樂區採集<hex:02280BFF05>Item<hex:F295C80103>。<hex:02100103>獲取後請儘快完成交納。<hex:02100103>捕獲時推薦使用<hex:02280BFF05>Item<hex:F28EEC0103>。"
+57,"TEXT_BANOMI124_04630_DELIVERER04630_000_020","沙沙沙……委託物品到手了嗎？"
+58,"TEXT_BANOMI124_04630_DELIVERER04630_000_021","沙沙沙……已確認到委託物品……<hex:02100103>感謝你此次的協助。<hex:02100103>請從斯提格瑪四那裡領取報酬。"
+59,"TEXT_BANOMI124_04630_DELIVERER04630_000_022",""
+60,"TEXT_BANOMI124_04630_STIGMA4_000_030","本機已從調理研究型奧密克戎那裡收到了報告。<hex:02100103>對同盟者<hex:022903EB0203>的協助給予高度評價。"
+61,"TEXT_BANOMI124_04630_STIGMA4_000_031","雖然想要獲得來自龍星的食材很難，<hex:02100103>但透過巧妙的烹飪手法，在味道和口感上還是可以儘量還原的。<hex:02100103>本機目前正在研究最佳的烹飪方法。"
+62,"TEXT_BANOMI124_04630_STIGMA4_000_032","不過即使找到了最佳的烹飪方法，還是會有問題。<hex:02100103>龍族身形巨大，若想讓它們吃飽，食材的需求量自然也很大。<hex:02100103>因此本機判斷，養殖技術的研究也勢在必行……"

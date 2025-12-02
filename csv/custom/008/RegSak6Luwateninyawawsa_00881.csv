@@ -1,35 +1,18 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_000","오, 안녕?
-물건을 사러 온 상인님인가 했더니…… 여행자님인가?
-루와테니야사에 온 걸 환영해."
-1,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_001","저 검은 새 같은 것이 대체 뭐지…….
-여행자님도 부디 몸조심해."
-2,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_002","검은 새 같은 게 드디어 사라졌어.
-너도 평온이 찾아왔으니 길을 떠날 거야?
-루와테니야사에 온 걸 환영해."
-3,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_003","루와테니야사에 온 걸 환영해.
-여행자님도 부디 푹 쉬길…….
-궁금한 게 있다면 뭐든지 물어보고."
-4,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_Q1_000_000","무엇을 물어보시겠습니까?"
-5,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_A1_000_001","당신의 이야기를 들려달라고 한다"
-6,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_A1_000_002","여기는 어떤 곳인지 물어본다"
-7,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_A1_000_003","취소"
-8,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_004","사람들이 쓰는 공예품을 만드는 장인이야.
-우리 토나와터족은 농경과 수렵의 민족인데
-마을을 찾아오는 상인에게 전통적인 물건을 팔기도 해."
-9,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_005","그런데 가끔 가격을 깎으려는 사람들도 있거든…….
-토나와터족이 먼 옛날에 물물 교환으로 먹고살았다고 해서
-아직도 돈에 무지하다고 착각하는 사람이 있는 모양이야."
-10,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_006","여기는 루와테니야사, 토나와터족의 마을이지.
-루와테니야사는 우리의 언어로 지어진 이름인데……
-공용어로는 '매가 날아다니는 하늘'이란 뜻이야."
-11,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_007","여기의 집들은 아도베라는, 햇볕에 말린 벽돌로 만들어졌는데
-100년이 넘은 건물이 수두룩해."
-12,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_008","햇빛이 쏟아지는 황야지만 집 안은 시원하고 쾌적하지…….
-그렇게 이 대지에서 살기 위한 지혜와 기술을
-조상들에게 물려받으며 살아가고 있어."
-13,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_009","요즘은 청린수 채취 같은
-새로운 사업에 관심을 보이며 마을을 떠나서 사는 사람도 많지만.
-너도 괜찮으면 마을을 구경하고 가."
+0,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_000","喲，你好。<hex:02100103>原本以為你是來採購的商人……居然是旅行者嗎？<hex:02100103>歡迎來到魯瓦特尼亞薩。"
+1,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_001","那個黑鳥一般的東西到底是什麼啊……<hex:02100103>旅行者你也要多加小心。"
+2,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_002","那個黑鳥一般的東西終於離開了。<hex:02100103>你也是因為世道恢復了太平所以才出來旅行的嗎？<hex:02100103>歡迎來到魯瓦特尼亞薩。"
+3,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_003","歡迎來到魯瓦特尼亞薩。<hex:02100103>就請旅行者在這裡好好放鬆休息吧……<hex:02100103>如果有什麼想問的可以隨時來找我。"
+4,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_Q1_000_000","想了解什麼？"
+5,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_A1_000_001","你是做什麼的？"
+6,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_A1_000_002","這裡是什麼地方？"
+7,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_A1_000_003","取消"
+8,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_004","我是負責製作大家平時使用的工藝品的工匠。<hex:02100103>我們迎曦之民是農耕與狩獵的民族，<hex:02100103>也會向造訪村落的商人出售傳統商品。"
+9,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_005","不過有時也會遇到砍價情況很嚴重的那種人……<hex:02100103>迎曦之民很久以前是透過物物交換的方式生活的，<hex:02100103>所以至今依然有一些人對金錢的概念很薄弱。"
+10,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_006","這裡是魯瓦特尼亞薩，是迎曦之民的村落。<hex:02100103>「魯瓦特尼亞薩」是用我們的語言起的名字……<hex:02100103>翻譯成通用語的話是「雄鷹翱翔的天空」的意思。"
+11,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_007","這裡的房屋是用風乾的土磚建造的，<hex:02100103>基本上都是大約100年前建成的。"
+12,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_008","即便是在陽光直曬的荒野當中，家裡也很涼快舒適……<hex:02100103>我們都是從祖先那裡繼承了這樣的智慧和技術，<hex:02100103>才得以在這片大地上生活。"
+13,"TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_009","最近有很多人對採掘青磷水這項新事業產生了興趣，<hex:02100103>紛紛選擇了離開村落去外面謀發展。<hex:02100103>不介意的話，你也去村落那邊看看吧。"

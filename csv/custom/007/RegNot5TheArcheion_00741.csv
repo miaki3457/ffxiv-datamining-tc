@@ -1,37 +1,20 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGNOT5THEARCHEION_00741_SHUSHUTABY_000_000","저한테 볼일이 있으신가요……?"
-1,"TEXT_REGNOT5THEARCHEION_00741_SHUSHUTABY_000_001","대이동 명령이 내려와서 많이 바빠졌어요.
-용건은 짧게 부탁드려요."
-2,"TEXT_REGNOT5THEARCHEION_00741_SHUSHUTABY_000_002","하늘 끝으로 간다는 계획은 들었어요.
-무슨 용건이든 편하게 말씀하세요……."
-3,"TEXT_REGNOT5THEARCHEION_00741_SHUSHUTABY_000_003","별을 위기에서 구해 주셔서 감사합니다.
-저라도 괜찮으시다면 뭐든지 물어보세요."
-4,"TEXT_REGNOT5THEARCHEION_00741_Q1_000_000","무엇을 물어보시겠습니까?"
-5,"TEXT_REGNOT5THEARCHEION_00741_A1_000_001","당신의 이야기를 들려달라고 한다"
-6,"TEXT_REGNOT5THEARCHEION_00741_A1_000_002","여기는 어떤 곳인지 물어본다"
-7,"TEXT_REGNOT5THEARCHEION_00741_A1_000_003","취소"
-8,"TEXT_REGNOT5THEARCHEION_00741_SHUSHUTABY_000_010","전 아르케이온 보관원의 관리인 중 한 사람이에요.
-보관 대상으로 들어온 물품이나 생체 샘플을 점검하고
-위험성을 판정하죠."
-9,"TEXT_REGNOT5THEARCHEION_00741_SHUSHUTABY_000_011","개중에는 무시무시한 저주가 걸린 유물이나
-병원균을 가진 생물이 포함되어 있기도 하거든요.
-그런 건 엄중하게 봉인해야 해요."
-10,"TEXT_REGNOT5THEARCHEION_00741_SHUSHUTABY_000_012","하지만 신종 권연벌레는 발견하지 못했어요…….
-보관원을 위기에 빠뜨린 일을 깊이 반성하고 있답니다.
-그 후로 복슬이를 볼 면목이 없네요."
-11,"TEXT_REGNOT5THEARCHEION_00741_SHUSHUTABY_000_020","이 시설은 아르케이온 보관원……
-전 세계에서 모인 물품과 생체 샘플을
-안전하고도 엄중하게 보관하기 위해 만들어진 거대 창고죠."
-12,"TEXT_REGNOT5THEARCHEION_00741_SHUSHUTABY_000_021","서적이 소장된 누메논 대서원과 더불어,
-지식의 저장소인 샬레이안을 지탱하는 양대 축……
-그야말로 인류가 가진 지혜의 결정체랍니다."
-13,"TEXT_REGNOT5THEARCHEION_00741_SHUSHUTABY_000_022","하지만 대이동이 결정되면서
-이 시설에 보관된 물품의 반출 계획이 시작됐어요.
-설마 진짜로 이런 날이 올 줄이야……."
-14,"TEXT_REGNOT5THEARCHEION_00741_SHUSHUTABY_000_023","여러분이 종말의 근원을 제거해 주신 덕에
-대이동도 취소되고 이 시설에도 일상이 돌아왔어요."
-15,"TEXT_REGNOT5THEARCHEION_00741_SHUSHUTABY_000_024","그리고 정말 마음이 놓이네요.
-모든 물품을 반출하지 않는 이상, 대이동이 실행되었다면
-어느 소장품을 버릴지 선택해야만 했을 테니까요……."
+0,"TEXT_REGNOT5THEARCHEION_00741_SHUSHUTABY_000_000","你好，找我有什麼事嗎？"
+1,"TEXT_REGNOT5THEARCHEION_00741_SHUSHUTABY_000_001","大撤退的命令已出，我現在忙得腳不著地。<hex:02100103>你有事的話就長話短說吧。"
+2,"TEXT_REGNOT5THEARCHEION_00741_SHUSHUTABY_000_002","我聽說了你要前往宇宙盡頭的計劃。<hex:02100103>有事的話請儘管吩咐……"
+3,"TEXT_REGNOT5THEARCHEION_00741_SHUSHUTABY_000_003","感謝你從危機當中拯救了星球。<hex:02100103>有什麼我能幫忙的請儘管吩咐。"
+4,"TEXT_REGNOT5THEARCHEION_00741_Q1_000_000","想了解什麼？"
+5,"TEXT_REGNOT5THEARCHEION_00741_A1_000_001","你是做什麼的？"
+6,"TEXT_REGNOT5THEARCHEION_00741_A1_000_002","這裡是什麼地方？"
+7,"TEXT_REGNOT5THEARCHEION_00741_A1_000_003","取消"
+8,"TEXT_REGNOT5THEARCHEION_00741_SHUSHUTABY_000_010","我是公堂保管院的管理人之一。<hex:02100103>負責檢查作為保管對象帶進來的物品和生物樣本，<hex:02100103>並判定其危險性。"
+9,"TEXT_REGNOT5THEARCHEION_00741_SHUSHUTABY_000_011","畢竟有些樣本可能會是藏著恐怖詛咒的遺物，<hex:02100103>或是含有病原菌的生物等等。<hex:02100103>對於這類物品，需要施加嚴格的封印。"
+10,"TEXT_REGNOT5THEARCHEION_00741_SHUSHUTABY_000_012","話雖如此，我之前並沒能發現新品種的竊蠹……<hex:02100103>這一度使得保管院陷入了危機，對此我也進行了深刻的反省。<hex:02100103>自那之後，我在小毛球面前一直都抬不起頭。"
+11,"TEXT_REGNOT5THEARCHEION_00741_SHUSHUTABY_000_020","這裡是公堂保管院……<hex:02100103>是為了對從全世界收集來的物品和生物樣本<hex:02100103>進行安全嚴格的保管而建造的巨大倉庫。"
+12,"TEXT_REGNOT5THEARCHEION_00741_SHUSHUTABY_000_021","這裡和收藏書籍的所思大書院一樣，<hex:02100103>是薩雷安的兩大知識聚集地……<hex:02100103>堪稱人類智慧的結晶。"
+13,"TEXT_REGNOT5THEARCHEION_00741_SHUSHUTABY_000_022","但是自從議會下達了大撤退的指示，<hex:02100103>保管在這裡的物品都要開始著手搬走了。<hex:02100103>沒想到這一天居然真的會到來……"
+14,"TEXT_REGNOT5THEARCHEION_00741_SHUSHUTABY_000_023","多虧你們幫忙消滅了末日的根源，<hex:02100103>大撤退的決定得以撤回，而這裡也恢復了往日的平靜。"
+15,"TEXT_REGNOT5THEARCHEION_00741_SHUSHUTABY_000_024","最主要的是能鬆一口氣了。<hex:02100103>畢竟不可能把所有東西都帶走，如果真的要大撤退，<hex:02100103>就難免得對收藏在此的樣本做出取捨……"

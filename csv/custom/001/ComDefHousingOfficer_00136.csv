@@ -1,331 +1,159 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_000","<Switch(IntegerParameter(1))><Case(1)>안갯빛 마을</Case><Case(2)>라벤더 안식처</Case><Case(3)>하늘잔 마루</Case><Case(4)>시로가네</Case></Switch>에 오신 것을 환영합니다.
-이곳에서는 하우징에 대해 안내해드리고 있습니다."
-1,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2Q1_100_002","무엇을 물어보시겠습니까?"
-2,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A11_111_002","취소"
-3,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A1_101_002","모험가 거주구에 대해서"
-4,"TEXT_COMDEFHOUSINGOFFICER_00136_CATEGORYA1_100_002","토지 구매/포기에 대해서"
-5,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A2_102_002","토지에 대해서"
-6,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A3_103_002","토지 구입에 대해서"
-7,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A4_104_002","토지 포기에 대해서"
-8,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A4_121_002","토지 자동 철거에 대해서"
-9,"TEXT_COMDEFHOUSINGOFFICER_00136_CATEGORYA1_101_002","주택 건설 및 외관 장식에 대해서"
-10,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A5_105_002","주택 건설에 대해서"
-11,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A6_106_002","외장재 변경에 대해서"
-12,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A7_107_002","정원 내 조경물 설치에 대해서"
-13,"TEXT_COMDEFHOUSINGOFFICER_00136_CATEGORYA1_102_002","주택 내부 장식에 대해서"
-14,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A8_108_002","내장재 변경에 대해서"
-15,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A9_109_002","주택 내 가구 설치에 대해서"
-16,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A4_122_002","밝기 조절 기능에 대해서"
-17,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A10_110_002","가구와 조경물의 거래에 대해서"
-18,"TEXT_COMDEFHOUSINGOFFICER_00136_CATEGORYA1_103_002","자유부대 주택 전용 기능에 대해서"
-19,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A12_112_002","개인실 증축에 대해서"
-20,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A13_113_002","개인실 철거에 대해서"
-21,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A13_114_002","개인실 자동 철거에 대해서"
-22,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A13_115_002","에테르석에 대해서"
-23,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A13_116_002","지하공방 철거에 대해서"
-24,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A13_117_002","지하공방 증축에 대해서"
-25,"TEXT_COMDEFHOUSINGOFFICER_00136_CATEGORYQ1_100_000","무엇을 물어보시겠습니까?"
-26,"TEXT_COMDEFHOUSINGOFFICER_00136_CATEGORYC1_100_000","취소"
-27,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A10_120_002","집사 배치에 대해서"
-28,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A10_123_002","주택 공유에 대해서"
-29,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A10_124_002","아파트에 대해서"
-30,"TEXT_COMDEFHOUSINGOFFICER_00136_CATEGORYA1_104_002","이사에 대해서"
-31,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A25_125_002","이사에 대해서"
-32,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A26_126_002","이사에 따른 자산 이동에 대해서"
-33,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A27_127_002","이사에 대한 추가 설명"
-34,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A28_128_002","창고에 대해서"
-35,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_010","현재, <Switch(IntegerParameter(1))><Case(1)>총사령부 '흑와단'</Case><Case(2)>총사령부 '쌍사당'</Case><Case(3)>총사령부 '불멸대'</Case><Case(4)>쿠가네</Case></Switch>에서는
-모험가를 적극적으로 유치하고 있습니다."
-36,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_011","유치 활동의 일환으로
-모험가 여러분들이 활동 거점으로 삼을 수 있는
-'토지'와 '주택', '아파트 방'을 제공하기도 하지요."
-37,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_012","토지를 구입하여 주택을 지을 수 있는 곳은
-이곳 <Switch(IntegerParameter(1))><Case(1)>안갯빛 마을과</Case><Case(2)>라벤더 안식처와</Case><Case(3)>하늘잔 마루와</Case><Case(4)>시로가네와</Case></Switch> 같은
-'모험가 거주구'라 불리는 지역에 한정됩니다."
-38,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_013","모험가 거주구는 각 도시의 영토 안에
-각각 하나씩 마련되어 있습니다."
-39,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_014","소속된 총사령부와 상관없이 어느 도시에서나
-토지 구입 및 아파트 입주를 할 수 있으므로,
-마음에 드는 지역의 거주구를 선택하시면 됩니다."
-40,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_015","모험가 거주구는 여러 개의 '구'로 나뉘어있습니다.
-거주구로 이동할 때는 우선 가고 싶은 구를
-거주구 입구에서 선택해야 합니다."
-41,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_016","모험가 거주구에는 동일한 지역이 여러 곳 존재합니다.
-예를 들면 1구와 2구는 구조와 경관이 똑같지만
-각각 다른 장소에 존재하며, 토지 이용 상태도 다릅니다."
-42,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_020","주택을 건설하려면
-모험가 거주구 내에 있는 '토지'를 구입해야 합니다."
-43,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_021","토지 넓이에는
-'대', '중', '소'가 있습니다."
-44,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_022","주택도 마찬가지로 크기가 3가지 존재하므로
-'대' 크기의 토지에는 '대' 크기의 주택을 짓는 등
-토지와 주택의 크기를 맞춰야 합니다."
-45,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_023","토지가 넓을수록 배치 가능한
-가구 및 조경물 수도 많아지므로,
-토지를 구입하실 때 신중히 생각하시기 바랍니다."
-46,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_030","토지는 '개인' 명의로 구입하는지, 아니면
-'자유부대' 명의로 구입하는지에 따라
-구입 조건이 달라집니다."
-47,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_100_031","'개인'이 토지를 구입하는 경우에는
-하나 이상의 클래스가 50 레벨 이상이어야 합니다."
-48,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_101_031","또한, 소속 총사령부 계급이 '소위' 이상이어야 합니다."
-49,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_102_031","'자유부대' 명의로 토지를 구입하는 경우에는
-'토지 소유권'을 획득한 상태여야 합니다."
-50,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_103_031","'시로가네'에 토지를 구입하기 위해서는
-주요 퀘스트 '대양으로 출정하다'를
-완료해야 합니다."
-51,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_031","각 토지 앞에 설치된 '간판'을 조사하면
-해당 토지가 얼마인지 확인할 수 있습니다."
-52,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_032","토지는 길을 지불해 구입할 수 있으며
-판매가 시작된 시점이 가장 비싸고, 6시간마다 한 번씩
-최저 금액에 도달할 때까지 가격이 내려갑니다."
-53,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_033","토지 구입은 선착순입니다.
-다른 플레이어가 소유하고 있는 토지는
-구입할 수 없으니 주의하십시오."
-54,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_040","토지를 포기하려면 모든 가구와 조경물,
-그리고 주택을 철거해야 합니다."
-55,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_041","주택이 철거된 상태로
-'하우징' 메뉴에서 '토지 포기'를 선택하면
-토지를 포기할 수 있습니다."
-56,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_100_041","단, 토지 구입비는 반환되지 않습니다.
-토지를 포기하기 전에 충분히 검토한 다음 실행하십시오."
-57,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_100_045","모험가 거주구의 지속 가능성을 확보하기 위해
-장기간 주택 이용 내역이 없는 경우에는
-자동으로 토지가 철거됩니다."
-58,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_182","'주택을 소유한 캐릭터'가 (현실 시간) 30일 동안
-주택에 한 번도 입장하지 않은 경우, 철거 대상으로 지정되어
-'자동 철거 준비' 상태가 됩니다."
-59,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_001_182","'주택을 소유한 캐릭터'가 (현실 시간) 45일 동안
-주택에 한 번도 입장하지 않은 경우, 자동 철거가 실행됩니다."
-60,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_183","여기서 '주택을 소유한 캐릭터'란,
-'자유부대 소유 주택'이라면
-'자유부대원 누구나'에 해당됩니다."
-61,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_001_183","'개인 주택'이라면 '주택 소유자'를 말합니다."
-62,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_184","자동 철거가 실행되기 전에
-'주택을 소유한 캐릭터' 중 1명이라도 주택에 입장하면
-'자동 철거 준비' 상태가 해제됩니다."
-63,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_185","토지 자동 철거가 실행되면
-토지 및 토지와 관련된 자산은 일부를 제외하고 소멸합니다."
-64,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_186","또한, 일부 가구, 조경물, 토지 매입 비용의 8할은
-자동 철거가 실행된 후 (현실 시간) 35일 이내에만
-'거주구 담당관'을 통해 돌려받을 수 있습니다."
-65,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_187","이때 '자유부대 주택'의 자산 회수는
-'토지 구매/포기' 권한을 가진 캐릭터만이 실행 가능합니다."
-66,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_188","또한 '개인 주택'의 자산은
-해당 개인 주택의 '소유자'만이 회수할 수 있습니다."
-67,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_050","주택을 건설하려면 '건축 허가증'이 필요합니다."
-68,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_051","이 건축 허가증에는 몇 가지 종류가 있습니다.
-건축 허가증을 손에 넣고자 할 때에는
-건축 허가증에 쓰인 크기와 거주구 지역을 잘 확인하십시오."
-69,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_052","손에 넣은 건축 허가증 상의 크기 및 거주구 지역과
-실제 토지의 크기 및 거주구 지역이 다르면
-주택을 건설할 수 없으니 주의하시기 바랍니다."
-70,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_053","'건축 허가증'을 소지한 상태로
-소유한 토지에서 '하우징' 메뉴를 열고
-'주택 건설'을 선택하면 주택을 건설할 수 있습니다."
-71,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_060","주택이 완성되면 외관을 꾸며봅시다."
-72,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_061","주택 외장은 지붕, 외벽, 창문, 문,
-간판, 울타리, 지붕 장식, 외벽 장식 등
-8종류의 '외장 건축자재'로 구성되어 있습니다."
-73,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_062","외장 건축자재를 소지하고 있는 상태로 소유한 토지에서
-'하우징' 메뉴로 들어가 '외장 변경'을 선택하면
-외장을 변경할 수 있습니다."
-74,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_063","단, 설치 시에 해당 외장 건축자재 아이템이 소모되며
-한 번 설치하면 소지품으로 되돌릴 수 없으므로
-외장을 변경할 때는 유의하시기 바랍니다."
-75,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_070","소유한 토지 안에서
-주택을 제외한 나머지 공간을 '정원'이라고 합니다."
-76,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_071","정원에는 '조경물'을 설치할 수 있습니다.
-정원을 자기 취향에 맞게 꾸며보십시오."
-77,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_072","조경물을 소지한 상태로 소유한 토지에서
-'하우징' 메뉴로 들어가 '조경물 배치'를 선택하면
-조경물을 배치할 수 있습니다."
-78,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_080","주택 안에서는 벽이나 바닥을 꾸밀 수 있습니다."
-79,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_081","주택 내장은 내벽, 바닥, 천장 조명 등
-3종류의 '내장 건축자재'로 구성되어 있습니다."
-80,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_082","내장 건축자재를 소지하고 있는 상태로 소유한 주택 내에서
-'하우징' 메뉴로 들어가 '내장 변경'을 선택하면
-내장을 변경할 수 있습니다."
-81,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_083","단, 설치 시에 해당 내장 건축자재 아이템이 소모되며
-한 번 설치하면 소지품으로 되돌릴 수 없으므로
-내장을 변경할 때는 유의하시기 바랍니다."
-82,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_090","주택 안에는 '가구'를 설치할 수 있습니다.
-주택을 자기 취향에 맞게 꾸며보십시오."
-83,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_091","가구를 소지하고 있는 상태로 소유한 주택 내에서
-'하우징' 메뉴로 들어가 '가구 배치'를 선택하면
-가구를 배치할 수 있습니다."
-84,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_092","가구에는 식탁 위 등 탁상에 놓을 수 있는 것,
-벽에 걸 수 있는 것, 바닥에 깔 수 있는 것 등
-다양한 종류가 존재합니다."
-85,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_095","주택 안의 '조명' 밝기를 조절해서
-쾌적한 환경을 만들어 보십시오."
-86,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_191","주택 안의 '조명' 밝기는
-자유부대 주택, 개인 주택, 개인실마다 각각
-5단계로 조절할 수 있습니다."
-87,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_192","조명 밝기를 조절하려면
-'하우징' 메뉴로 들어가 '실내 환경 설정'을 선택하십시오."
-88,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_100","가구와 조경물 아이템은
-주택 및 정원에 설치하는 순간 중고품으로 간주되어
-거래하거나 장터에 출품할 수 없습니다."
-89,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_101","또 가구와 조경물 아이템 중에는
-한 번 설치하면 철거 시 소멸하는 것도 있습니다."
-90,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_102","이런 아이템을 설치하거나 철거할 때는
-경고 메시지가 표시되므로 주의해서 설치하십시오."
-91,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_110","자유부대 소유 주택 안에서는
-부대원용 개인실을 증축할 수 있습니다."
-92,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_111","자신의 '개인실'을 증축하려면 증축에 필요한 금액 외에도
-하나 이상의 클래스가 50 레벨 이상이어야 합니다."
-93,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_112","또한, 소속 총사령부 계급이 '소위' 이상이어야 합니다."
-94,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_113","개인실에 들어가려면 주택 안에 있는 문에 접촉하여
-'개인실로 이동'을 선택하십시오."
-95,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_120","증축한 '개인실'이 필요 없어진 경우에는
-철거할 수도 있습니다."
-96,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_121","소유한 토지 또는 자유부대 주택 안에서
-'하우징' 메뉴로 들어가 '개인실 철거'를 선택하면
-'개인실'을 철거할 수 있습니다."
-97,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_122","단, '개인실'을 철거하려면
-먼저 실내에 있는 가구를 전부 철거해야 합니다."
-98,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_130","'개인실'을 증축한 후에
-소속 자유부대에서 제명되었을 경우,
-그 부대원의 개인실은 자동으로 철거됩니다."
-99,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_131","철거된 개인실 내에 설치되어있던 자산은
-저희가 일시적으로 보관하게 되니
-정해진 기일 내로 찾아가시기 바랍니다."
-100,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_132","'개인실'에 설치되어 있던 아이템은
-철거 후 (현실 시간) 35일간 보관됩니다.
-거주구 담당관에게 말을 걸면 회수할 수 있습니다."
-101,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_133","남은 보관 기간은
-주 메뉴의 '임무 정보 목록'에서
-확인할 수 있습니다."
-102,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_134","또 개인실 증축비와 내장 아이템,
-철거 시 소멸되는 가구 아이템은 반환되지 않습니다."
-103,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_135","자유부대에서 부대원을 제명하는 경우
-이점을 주의하시기 바랍니다."
-104,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_140","'에테르석'은 부대 혜택을 생성할 수 있는 장치입니다."
-105,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_141","'에테르석'으로 부대 혜택을 받으려면
-'에테르 충전대'라는 가구로 마력을 충전해야 합니다."
-106,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_142","가구 '에테르 충전대'는
-모험가 거주구에 있는 만물상이 판매하고 있습니다."
-107,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_143","배치한 '에테르 충전대'에
-'에테르석'을 설치한 후 일정 시간이 지나면
-마력이 충전되어 '충전된 에테르석'으로 변화합니다."
-108,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_144","이 '충전된 에테르석'을 사용하면
-에테르석에 맞는 부대 혜택으로 변환할 수 있습니다."
-109,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_150","'집사 배치'에 관심이 있으십니까?
-그렇다면 '영업 허가증: 집사'를 이용해보십시오."
-110,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_151","'영업 허가증: 집사'는
-모험가 거주구에 있는 매점 관리인이 판매하고 있습니다.
-이것을 정원에 설치하면 집사가 배치됩니다."
-111,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_152","집사를 배치하면
-장터에 출품 중인 아이템을 정원에서도 판매할 수 있습니다."
-112,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_153","배치할 집사는
-자신이 고용한 집사 중에서 선택할 수 있으며
-설치 후에 다른 집사로 변경할 수도 있습니다."
-113,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_154","단, 해당 집사를 해고한 경우 또는
-고용주가 자유부대에서 제명되거나 탈퇴한 경우에
-주택에 배치되어 있는 집사는 자동으로 철거되지 않습니다."
-114,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_155","배치할 필요가 없어진 집사는
-권한을 가지고 있는 부대원이 철거하시기 바랍니다."
-115,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_155","개인 주택을 친구와 공유할 수 있습니다."
-116,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_201","'주택 공유'란 '개인 주택'에서 이용 가능한 기능을
-자신의 친구와 공동으로 사용할 수 있는 기능입니다."
-117,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_202","주택의 기능을 공유하는 친구를
-'동거인'이라고 합니다."
-118,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_203","주택 소유자는 '동거인'을 3명까지 설정할 수 있으며,
-'동거인'은 최대 2명의 주택 소유자에게
-주택 기능을 공유받을 수 있습니다."
-119,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_204","'하우징' 메뉴에서 주택 종류를 선택한 다음
-'주택 공유 설정'에서 '동거인'을 등록하거나
-'동거인'의 권한을 설정할 수 있습니다."
-120,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_205","또한, 주택 소유자와 '동거인'은
-스스로 '주택 공유'를 해제할 수도 있습니다."
-121,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_170","자유부대 소유 주택 안에서는
-'지하공방'을 증축할 수 있습니다."
-122,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_171","지하공방에서는 '부대 제작'을 진행할 수 있습니다.
-또 '비공정'을 건조하여
-'아발라시아 구름바다'의 숨겨진 지역을 탐사할 수도 있습니다."
-123,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_172","단, 비공정을 건조하는 일은 결코 간단하지 않습니다.
-부대원과 힘을 합쳐 도전해보세요!"
-124,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_173","'지하공방'을 증축하려면 증축 자금이 필요합니다."
-125,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_174","지하공방에 들어가려면 주택 안에 있는 문에 접촉하여
-'지하공방으로 이동'을 선택하십시오."
-126,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_175","지하공방에 있는 각종 설비를 이용하는 방법은
-공방 안에 있는 '탐사형 자동인형 014'에게
-물어보시기 바랍니다."
-127,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_160","증축한 '지하공방'이 필요 없어진 경우에는
-철거할 수도 있습니다."
-128,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_161","단, 철거할 경우 '지하공방'에서 이루어진 모든 활동은
-삭제되고 복구할 수 없으니 주의하시기 바랍니다."
-129,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_162","'지하공방'을 철거하려면
-미리 부대 제작설비의 작업을 완료하고
-'비공정'을 모두 '해체'해두어야 합니다."
-130,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_163","철거를 실행해도 증축 비용은 반환되지 않습니다.
-또한, '지하공방'에서 진행된 활동에 관한 정보는
-모두 초기화되므로 주의하십시오."
-131,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_164","'지하공방'을 철거하려면
-자유부대 주택 안에서 '하우징' 메뉴를 열어
-'지하공방 철거'를 선택하시기 바랍니다."
-132,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_156","아파트는 모험가를 위해
-각 모험가 거주구 안에 마련된
-'개인용 거주시설'입니다."
-133,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_157","각 모험가 거주구에 존재하는
-중층 돛대, 백합 언덕, 나나모 대풍차, 홍매전이라는
-이름을 가진 시설이 아파트에 해당합니다."
-134,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_158","아파트 입주 및 자세한 이용 방법은
-아파트 안에 있는 '아파트 담당관'을 통해
-확인하실 수 있습니다."
-135,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_210","토지를 소유하고 있는 경우
-다른 토지로 이사할 수 있습니다."
-136,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_211","'이사'란
-주택을 통째로 다른 토지로 이전시키는 기능입니다.
-다른 하우징 구역이나 넓이가 다른 토지에도 이전할 수 있습니다."
-137,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_212","개인 주택은 소유자가,
-자유부대 주택은 '토지 구매/포기' 권한을 가진 멤버가
-이사를 실행할 수 있습니다."
-138,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_213","이미 토지를 소유하고 있는 상태에서
-'간판'을 조사하여 '토지 구입하기'를 선택하면
-선택지가 표시되어 이사를 실행할 수 있습니다."
-139,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_214","'이사할 땅의 토지 매입 비용'에서
-'소유한 땅의 토지 매입 비용' 최저액의 30%를 뺀 차액이
-이사를 실행할 때 소비됩니다."
-140,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_221","설치된 가구, 조경물은 이사할 곳의 창고에 보관됩니다.
-단, 초코보 축사와 사설 에테라이트는
-예외적으로 이사할 곳의 정원에 배치됩니다."
-141,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_222","또한 개인실이나 지하공방이 있는 주택일 경우
-각각 이사할 곳에 변경 없이 그대로 적용됩니다."
-142,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_224","주택 외장은 이사할 곳의 하우징 구역,
-토지 크기에 맞게 자동으로 변경됩니다."
-143,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_225","주택 외장은 이사할 곳에 그대로 적용됩니다.
-단, 이사하는 곳에 따라 층계가 없어질 경우에는
-층계에 설정되어 있던 외장도 소멸되게 됩니다."
-144,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_231","'주택을 소유한 캐릭터' 중 1명이라도
-30일 이상 주택에 한 번도 입장하지 않은 경우
-이사를 실행할 수 없습니다."
-145,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_232","또한 이사를 실행하면
-주택 안에 '주택을 소유한 캐릭터'가 들어왔을 때와 마찬가지로
-자동 철거까지의 기한이 초기화됩니다."
-146,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_240","모든 주택, 개인실, 아파트의 방에서
-가구와 조경물을 수납할 수 있는 '창고'를 이용할 수 있습니다.
-수납할 수 있는 가구와 조경물의 수는 다음과 같습니다."
-147,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_241","소: 가구 200개, 조경물 20개까지
-중: 가구 300개, 조경물 30개까지
-대: 가구 400개, 조경물 40개까지"
-148,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_242","개인실과 아파트의 방은
-가구를 100개까지 수납할 수 있습니다."
-149,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_243","예외적으로 초코보 축사,
-사설 에테라이트는 수납할 수 없습니다.
-또한 창고에 아이템이 있으면 주택을 철거할 수 없습니다."
-150,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_244","창고에 밭이나 화분을 넣으면 작물은 성장을 멈추게 됩니다.
-마찬가지로 창고 안에서는
-'에테르 충전대'의 마력 충전도 정지됩니다."
-151,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_245","이사를 실행하면, 설치한 가구와 조경물은
-이사할 곳의 창고에 보관됩니다.
-단, 창고에 수납 가능한 수를 넘으면 이사를 할 수 없습니다."
-152,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_246","또한 주택이 자동 철거된 경우
-철거로부터 35일 이내라면, 거주구 담당관을 통해
-창고 안에 있는 아이템을 회수할 수 있습니다."
-153,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_181","（★未使用／削除予定★）"
-154,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_193","（★未使用／削除予定★）"
+0,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_000","歡迎來到<hex:020938E802FF0A>海霧村<hex:FF10>薰衣草苗圃<hex:FF0D>高腳孤丘<hex:FF0A>白銀鄉<hex:03>。<hex:02100103>我可以為你介紹有關住宅區的事情。"
+1,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2Q1_100_002","想了解什麼？"
+2,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A11_111_002","取消"
+3,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A1_101_002","什麼是冒險者住宅區？"
+4,"TEXT_COMDEFHOUSINGOFFICER_00136_CATEGORYA1_100_002","想要了解有關土地的購買與廢棄"
+5,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A2_102_002","關於土地"
+6,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A3_103_002","土地的購買"
+7,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A4_104_002","土地的廢棄"
+8,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A4_121_002","關於土地的自動拆除"
+9,"TEXT_COMDEFHOUSINGOFFICER_00136_CATEGORYA1_101_002","想要建造房屋並裝飾外觀"
+10,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A5_105_002","房屋的建造"
+11,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A6_106_002","外部裝潢配件的變更"
+12,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A7_107_002","在庭院內佈置庭具"
+13,"TEXT_COMDEFHOUSINGOFFICER_00136_CATEGORYA1_102_002","想要裝飾房屋內部"
+14,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A8_108_002","內部裝潢配件的變更"
+15,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A9_109_002","在房間內佈置傢俱"
+16,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A4_122_002","關於亮度調節功能"
+17,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A10_110_002","什麼是傢俱及庭具的交易屬性？"
+18,"TEXT_COMDEFHOUSINGOFFICER_00136_CATEGORYA1_103_002","想要了解公會房屋的專用功能"
+19,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A12_112_002","個人房間的增建"
+20,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A13_113_002","個人房間的拆除"
+21,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A13_114_002","關於自動拆除個人房間"
+22,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A13_115_002","關於乙太轉輪"
+23,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A13_116_002","公會工坊的拆除"
+24,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A13_117_002","公會工坊的擴建"
+25,"TEXT_COMDEFHOUSINGOFFICER_00136_CATEGORYQ1_100_000","想了解什麼？"
+26,"TEXT_COMDEFHOUSINGOFFICER_00136_CATEGORYC1_100_000","取消"
+27,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A10_120_002","關於安排僱員"
+28,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A10_123_002","關於房屋共享"
+29,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A10_124_002","關於公寓"
+30,"TEXT_COMDEFHOUSINGOFFICER_00136_CATEGORYA1_104_002","想要了解有關搬遷的事情"
+31,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A25_125_002","想要了解有關搬遷的事情"
+32,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A26_126_002","關於搬遷所伴隨的資產轉移"
+33,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A27_127_002","關於搬遷的補充說明"
+34,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A28_128_002","關於倉庫"
+35,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_010","現在<hex:02095CE802FF19>大國防聯軍黑渦團<hex:FF19>大國防聯軍雙蛇黨<hex:FF19>大國防聯軍不滅隊<hex:FF0A>黃金港<hex:03>正在推行冒險者的招引活動。"
+36,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_011","「土地」、「房屋」以及「公寓」制度作為其中的一環，<hex:02100103>為諸位冒險者提供活動據點……"
+37,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_012","能夠獲得土地，並建造房屋的區域被稱為「冒險者住宅區」，<hex:02100103>比如<hex:020938E802FF0A>海霧村<hex:FF10>薰衣草苗圃<hex:FF0D>高腳孤丘<hex:FF0A>白銀鄉<hex:03>這裡。"
+38,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_013","在各城邦的領土內，分別設立了一個冒險者住宅區。"
+39,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_014","可購入的土地和公寓房間不受大國防聯軍所屬國的限制，<hex:02100103>因此可以在自己喜歡的住宅區所在地購入。"
+40,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_015","冒險者住宅區中分有多個「區」。<hex:02100103>在前往住宅區時，需要在住宅區的入口處對區進行選擇。"
+41,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_016","在冒險者住宅區，並列存在數個相同的區域。<hex:02100103>比如第1區和第2區，雖然構造和景色相同，<hex:02100103>但這兩個區實質是不同的，其土地的利用情況也不相同。"
+42,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_020","要建造房屋，<hex:02100103>必須要先在冒險者住宅區內購入「土地」。"
+43,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_021","土地的面積分為大、中、小三種。"
+44,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_022","房屋也與此相應，分為三種。<hex:02100103>要建造的房屋必須要和土地的面積大小相吻合，<hex:02100103>比如在小面積的土地上要建造小型住宅。"
+45,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_023","可佈置的傢俱、庭具數量也是和土地的面積成正比的。<hex:02100103>所以在購入土地之前要好好考慮，再進行購買。"
+46,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_030","可以以「個人」或「公會」的形式購買土地，<hex:02100103>兩者需要的條件不同。"
+47,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_100_031","以「個人」的形式購買土地時，<hex:02100103>需要將任意職業升至50級。"
+48,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_101_031","此外，所屬黑渦團的情況下，軍銜需在「少甲士」以上，<hex:02100103>所屬雙蛇黨的情況下，軍銜需在「少牙士」以上，<hex:02100103>所屬不滅隊的情況下，軍銜需在「少鬥士」以上。"
+49,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_102_031","以「公會」的形式購買土地時，<hex:02100103>必須要先獲得「土地所有權」。"
+50,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_103_031","想要在白銀鄉購買土地，<hex:02100103>需要先完成主線任務「乘風破浪」。"
+51,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_031","不管以哪種形式購買土地，<hex:02100103>都可以透過查看各塊土地前的「門牌」，<hex:02100103>確認那塊土地的價格。"
+52,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_032","可以使用Gil購買土地。<hex:02100103>土地在開始出售時的金額為最高金額，每過6個小時降價一次。<hex:02100103>但降價不會低於指定的最低金額。"
+53,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_033","請注意：土地的購入有先後順序。<hex:02100103>不能購買已經被其他玩家購買過的土地。"
+54,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_040","若想廢棄土地，需要先撤除這片土地上的傢俱、庭具，<hex:02100103>並且將房屋拆除。"
+55,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_041","在拆除房屋之後，<hex:02100103>選擇「房屋」選單中的「放棄土地」，即可將土地廢除。"
+56,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_100_041","另外，在廢棄土地時，<hex:02100103>購買土地時的費用不會被返還，還請注意。"
+57,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_100_045","為保證冒險者住宅區的土地不被浪費，<hex:02100103>若是房屋長期無人使用，那麼土地將會被自動拆除。"
+58,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_182","當房屋主人連續30天（地球時間）未進入過房屋，<hex:02100103>那麼將會作為拆除對象，進入「自動拆除準備」的狀態。"
+59,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_001_182","若房屋主人連續45天（地球時間）未進入過房屋，<hex:02100103>那麼將會實行自動拆除。"
+60,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_183","如果是公會房屋，那麼房屋主人為所有公會成員。"
+61,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_001_183","如果是個人房屋，那麼房屋主人為持有房屋的角色本身。"
+62,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_184","在被自動拆除前，房屋主人中有人進入到房屋後，<hex:02100103>就可以解除「自動拆除準備」的狀態。"
+63,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_185","土地一旦被自動拆除，<hex:02100103>土地以及與土地相關聯的部分資產會被廢棄。"
+64,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_186","另外，在實行自動拆除後35天（地球時間）之內，<hex:02100103>可以從住宅區管理人那裡回收部分傢俱和庭具，<hex:02100103>以及購買土地時所花費Gil的百分之八十。"
+65,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_187","這時，只有擁有「購買或廢棄土地」權利的角色<hex:02100103>才可以回收公會房屋的資產。"
+66,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_188","此外，只有個人房屋的所有者才可以回收個人房屋的資產。"
+67,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_050","建造房屋需要「房產證書」。"
+68,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_051","房產證書分為幾個種類。<hex:02100103>在獲取房產證書時，<hex:02100103>要確認好證書上標示的面積和住宅區所在地。"
+69,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_052","如果所持房產證書和實際的土地面積、住宅區所在地有所差異，<hex:02100103>則無法建造房屋，還請你多加注意。"
+70,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_053","在持有房產證書的狀態下，<hex:02100103>在購入的土地上打開「房屋」選單，<hex:02100103>選擇「建造房屋」，即可建造房屋。"
+71,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_060","房屋建好之後，你可以自行對外觀進行調整。"
+72,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_061","房屋的外部裝潢由8種室外建材構成，<hex:02100103>分別是房頂、外牆、窗戶、房門、<hex:02100103>門牌、院牆、房頂裝飾、外牆裝飾。"
+73,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_062","在持有室外建材的狀態下，<hex:02100103>在購入的土地上打開「房屋」選單，<hex:02100103>選擇「更改外部裝潢配件」，即可對外部裝潢進行變更。"
+74,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_063","安裝上的配件將無法卸除。<hex:02100103>物品中的室外建材會被消耗，所以在更改外部裝潢時要好好考慮。"
+75,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_070","在購入的土地中，除去房屋所佔的空間，<hex:02100103>其餘的空間被稱作為「庭院」。"
+76,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_071","你可以在庭院裡佈置「庭具」。<hex:02100103>根據自己的喜好試著裝飾自己的庭院吧。"
+77,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_072","在持有庭具的狀態下，<hex:02100103>在購入的土地上打開「房屋」選單，<hex:02100103>選擇「佈置庭具」，即可對庭具進行佈置。"
+78,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_080","你可以自行對房屋室內的牆壁和地板等進行調整。"
+79,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_081","房屋的內部裝潢由3種室內建材構成，<hex:02100103>分別是內牆、地板、屋頂照明。"
+80,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_082","在持有室內建材的狀態下，<hex:02100103>在購入的房屋內打開「房屋」選單，<hex:02100103>選擇「更改內部裝潢配件」，即可對內部裝潢進行變更。"
+81,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_083","安裝上的配件將無法卸除。<hex:02100103>物品中的室內建材會被消耗，所以在更改內部裝潢時要好好考慮。"
+82,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_090","你可以在房屋內佈置「傢俱」。<hex:02100103>根據自己的喜好試著裝飾自己的房屋吧。"
+83,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_091","在持有傢俱的狀態下，<hex:02100103>在購入的房屋內打開「房屋」選單，<hex:02100103>選擇「佈置傢俱」，即可對傢俱進行佈置。"
+84,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_092","傢俱中有可以裝飾在桌上的物品，<hex:02100103>也有壁掛、地毯等可以隨意佈置的物品。"
+85,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_095","你可以調節房屋內的照明亮度，打造舒適的環境！"
+86,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_191","公會房屋、個人房屋以及個人房間的屋內照明亮度<hex:02100103>可以進行五個等級的調節。"
+87,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_192","可以在設定選單的「房屋」中，<hex:02100103>選擇「調整照明」來調節亮度。"
+88,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_100","傢俱和庭具一經佈置之後，<hex:02100103>便無法進行交易或拿到市場上出售。"
+89,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_101","另外，有一部分已經佈置的傢俱和庭具，<hex:02100103>在撤除時會被廢棄。"
+90,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_102","在佈置、撤除這些物品時會有警示語出現，<hex:02100103>請在佈置時多加留意。"
+91,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_110","可以在公會房屋中增建隊員的個人房間。"
+92,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_111","若想增建個人房間，必須有足夠的Gil繳納增建費用，<hex:02100103>還要將任意職業升至50級。"
+93,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_112","此外，所屬黑渦團的情況下，軍銜需在「少甲士」以上，<hex:02100103>所屬雙蛇黨的情況下，軍銜需在「少牙士」以上，<hex:02100103>所屬不滅隊的情況下，軍銜需在「少鬥士」以上。"
+94,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_113","透過房屋內寫有「移動到其他房間」的門，<hex:02100103>就能進入個人房間。"
+95,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_120","如果不需要個人房間了，<hex:02100103>也可以將它拆除。"
+96,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_121","在所有地範圍內或公會房屋內打開房屋選單，<hex:02100103>選擇「拆除房間」，即可將個人房間拆除。"
+97,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_122","在拆除個人房間前，<hex:02100103>需要先撤除個人房間內的所有傢俱。"
+98,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_130","在擁有「個人房間」的狀態下被所屬公會除名後，<hex:02100103>該公會成員的個人房間會被自動拆除。"
+99,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_131","這種情況下，我們會暫時保管該房間內的資產，<hex:02100103>可由本人在回收期限內取回。"
+100,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_132","「個人房間」被拆除後，<hex:02100103>設定在房間內的道具會被保管35天（地球時間）。<hex:02100103>和住宅區管理人對話便可取回。"
+101,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_133","可以在設定選單的「任務情報」中確認回收期限的剩餘天數。"
+102,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_134","另外，增建個人房間時花費的費用和內部裝潢配件，<hex:02100103>以及在拆除時會廢棄的傢俱是無法返還的。"
+103,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_135","因此，請慎重處理公會除名相關事宜。"
+104,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_140","乙太轉輪是一種能夠產生公會特效的裝置。"
+105,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_141","想要使用乙太轉輪製造公會特效，<hex:02100103>必須先使用轉輪臺為乙太轉輪充滿魔力。"
+106,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_142","可以在冒險者住宅區內的傢俱商人處購買轉輪臺。"
+107,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_143","將乙太轉輪安放在房屋內的轉輪臺上，<hex:02100103>一段時間過後，它就能變為充滿魔力的充能轉輪。"
+108,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_144","轉換充能轉輪，<hex:02100103>便能使用相應的公會特效。"
+109,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_150","你對安排僱員有興趣嗎？<hex:02100103>那就使用僱員營業證書吧。"
+110,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_151","可以從冒險者住宅區內的酒保商人處購買僱員營業證書。<hex:02100103>將其佈置在庭院裡，就可以安排僱員在那裡待命了。"
+111,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_152","安排好僱員後，<hex:02100103>就可以在庭院裡賣正在市場中出售的物品了。"
+112,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_153","可以從自己的僱員中選擇合適人選安排在庭院裡，<hex:02100103>安排後可隨時進行更變。"
+113,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_154","另外，如僱員被解僱，<hex:02100103>或僱主離開所屬公會，<hex:02100103>安排在庭院裡的僱員不會自行離開。"
+114,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_155","想要讓僱員離開時，<hex:02100103>需要請有相關許可權的隊員幫忙。"
+115,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_155","擁有個人房屋的話，可以考慮和朋友合住喲。"
+116,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_201","房屋共享是個人房屋擁有的功能，<hex:02100103>可以透過該功能，和自己的好友一起共享房屋功能。"
+117,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_202","共享房屋功能的好友被稱為「室友」。"
+118,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_203","房屋主人可以最多設定3名室友，<hex:02100103>室友可以和2名房屋主人共享房屋功能。"
+119,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_204","可以從設定選單的「房屋」中選擇房屋的種類，<hex:02100103>在「房屋共享設定」中登記「室友」，設定室友的許可權。"
+120,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_205","另外，房屋主人和室友均可以自行選擇解除房屋共享。"
+121,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_170","可以在公會房屋中擴建公會工坊。"
+122,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_171","在公會工坊可以展開公會合建工程，<hex:02100103>另外還可以建造飛空艇，探索阿巴拉提亞雲海人煙稀少的區域。"
+123,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_172","不過，飛空艇的建造是十分困難的，<hex:02100103>需要公會成員一起相互合作，進行挑戰！"
+124,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_173","若想擴建公會工坊，必須要有足夠的Gil繳納擴建費用。"
+125,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_174","透過房屋內寫有「移動到其他房間」的門，<hex:02100103>就能進入公會工坊。"
+126,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_175","可以向冒險人偶014號詢問公會工坊內各個設施的使用方法。"
+127,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_160","如果不需要公會工坊了，<hex:02100103>也可以將它拆除。"
+128,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_161","不過請注意，在拆除後，公會工坊的活動記錄會被全部刪除。"
+129,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_162","要拆除公會工坊，<hex:02100103>需要事先結束公會合建裝置的作業，<hex:02100103>並將飛空艇完全解體。"
+130,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_163","另外，拆除後不會返還擴建費用。<hex:02100103>在公會工坊展開的各項活動數據也會全部被重置。"
+131,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_164","在公會房屋內打開「房屋」選單，<hex:02100103>選擇「拆除公會工坊」即可拆除公會工坊。"
+132,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_156","公寓是在各冒險者住宅區為冒險者準備的個人居住設施。"
+133,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_157","冒險者居住區中名為中桅塔、百合嶺、娜娜莫大風車、<hex:02100103>紅梅御殿的幾處建築即為公寓。"
+134,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_158","可以向各公寓內的公寓管理人詢問購買公寓房間等詳細資訊。"
+135,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_210","在擁有土地的情況下，<hex:02100103>可以利用搬遷將自己的家搬到別的土地上。"
+136,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_211","「搬遷」是將房屋與土地整個轉移到其他土地上的機能。<hex:02100103>就算是住宅區或土地面積不同，也能夠進行轉移。"
+137,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_212","若想執行搬遷操作，個人房屋需要是房屋主人，<hex:02100103>公會房屋則需要擁有「購買或廢棄土地」許可權的成員。"
+138,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_213","在擁有土地的情況下調查「門牌」，<hex:02100103>選擇「購買土地」的話，即會出現搬遷的選項。"
+139,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_214","搬遷時需要繳納的購買土地金額為<hex:02100103>新土地的現售價減去30%的舊土地最低售價。"
+140,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_221","搬遷後，佈置在從前土地、房屋中的庭具、傢俱，<hex:02100103>都會被收納進新搬土地的倉庫中。<hex:02100103>但陸行鳥廄及私用乙太之光除外，它們會直接被佈置到庭院中。"
+141,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_222","另外，如果從前的房屋中設有個人房間或地下工坊，<hex:02100103>那它們將會被原封不動轉移到新土地的房屋中。"
+142,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_224","房屋的外部裝潢在搬遷後會自動轉化為<hex:02100103>與新土地所在的住宅區、土地面積相匹配的裝潢。"
+143,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_225","房屋的內部裝潢會被繼承到新的房屋內。<hex:02100103>但如果新房屋沒有舊房屋那麼多樓層的話，<hex:02100103>消失樓層的內部裝潢也會隨樓層一起消失。"
+144,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_231","在房屋主人連續30天以上未出現在房屋內的狀態下，<hex:02100103>無法進行搬遷。"
+145,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_232","另外，搬遷與房屋主人進入房屋相同，<hex:02100103>都會將房屋的自動拆除倒計時重新整理。"
+146,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_240","在所有的房屋、個人房間、公寓中都可以使用「倉庫」<hex:02100103>來收納傢俱與庭具。<hex:02100103>倉庫可收納的傢俱庭具數量如下。"
+147,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_241","小面積土地為傢俱200個、庭具20個。<hex:02100103>中面積土地為傢俱300個、庭具30個。<hex:02100103>大面積土地為傢俱400個、庭具40個。"
+148,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_242","個人房間和公寓的倉庫則是能夠存放100個傢俱。"
+149,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_243","不過陸行鳥廄與私用乙太之光是例外。<hex:02100103>它們無法被收入倉庫。<hex:02100103>另外，倉庫中放有道具時無法主動將房屋拆除。"
+150,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_244","若將園圃與花盆存放於倉庫中，則其中的作物會停止生長。<hex:02100103>同理，轉輪臺也會停止充能。"
+151,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_245","搬遷時，佈置在舊土地中的庭具與傢俱會轉移到新土地的倉庫中。<hex:02100103>但如果東西太多倉庫裝不下，則無法搬遷。"
+152,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_246","另外，如果房屋遭到自動拆除，<hex:02100103>則可以在拆除後35天內找住宅區管理人領回倉庫中的道具。"
+153,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_181","（未使用/預計刪除）"
+154,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_193","（未使用/預計刪除）"

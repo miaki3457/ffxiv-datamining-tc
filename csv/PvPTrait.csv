@@ -1,5 +1,6 @@
 ﻿key,0,1,2
 #,Trait{1},Trait{2},Trait{3}
+offset,0,2,4
 int32,Trait,Trait,Trait
 0,0,0,0
 1,0,0,0

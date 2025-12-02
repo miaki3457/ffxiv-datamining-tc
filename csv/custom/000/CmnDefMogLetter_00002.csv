@@ -1,90 +1,38 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_1","<Highlight>ObjectParameter(1)</Highlight> 님한테 새로 온 편지는 없다쿠뽀."
-1,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_001","후배님한테 새로 온 편지는 없다쿠뽀."
-2,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_100_001","수습 배달부님한테 새로 온 편지는 없다쿠뽀."
-3,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_101_001","<Highlight>ObjectParameter(1)</Highlight> 님한테 새로 온 편지는 없다쿠뽀.
-가끔은 그런 날도 있는 법이다쿠뽀!"
-4,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_102_001","<Highlight>ObjectParameter(1)</Highlight> 님한테
-새로 온 편지는 없다쿠뽀.
-페오 울의 편지가 도착하면 가르쳐 줄게쿠뽀!"
-5,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_2","<Highlight>ObjectParameter(1)</Highlight> 님,
-새 편지가 <Value>IntegerParameter(1)</Value>통 왔다쿠뽀~♪"
-6,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_002","안녕, 후배님!
-새 편지가 <Value>IntegerParameter(1)</Value>통 왔다쿠뽀~♪"
-7,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_100_002","수습 배달부님한테
-새 편지가 <Value>IntegerParameter(1)</Value>통 왔다쿠뽀~♪"
-8,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_101_002","<Highlight>ObjectParameter(1)</Highlight> 님한테
-새 편지가 <Value>IntegerParameter(1)</Value>통 왔다쿠뽀~♪
-얼른 확인해봐쿠뽀!"
-9,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_102_002","<Highlight>ObjectParameter(1)</Highlight> 님,
-페오 울이 보낸 편지가 도착했다쿠뽀~♪
-전부 합쳐서 <Value>IntegerParameter(1)</Value>통 있다쿠뽀♪"
-10,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_3","……아, 그리고 슬슬 편지를 정리하지 않으면
-새 편지를 받을 공간이 없다쿠뽀."
-11,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_003","……아, 그리고 슬슬 편지를 정리하지 않으면
-새 편지를 받을 공간이 없다쿠뽀.
-편지 정리는 배달부의 기본이다쿠뽀."
-12,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_100_003","……아, 그리고 슬슬 편지를 정리하지 않으면
-새 편지를 받을 공간이 없다쿠뽀.
-이런 부분까지 신경 써야 훌륭한 배달부가 될 수 있다쿠뽀."
-13,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_101_003","……아, 그리고 슬슬 편지를 정리하지 않으면
-새 편지를 받을 공간이 없다쿠뽀.
-보내는 사람을 위해서라도 얼른 정리해라쿠뽀."
-14,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_102_003","……아, 그리고 슬슬 편지를 정리하지 않으면
-새 편지를 받을 공간이 없다쿠뽀."
-15,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_4","……아, 그리고 우편함이 가득 차서
-못 받은 편지가 있다쿠뽀.
-필요 없는 편지는 지우고 자주 정리해줘야 한다쿠뽀!"
-16,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_004","……아, 그리고 우편함이 가득 차서
-못 받은 편지가 있다쿠뽀.
-필요 없는 편지를 지우는 건 배달부의 기본이다쿠뽀!"
-17,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_100_004","……아, 그리고 우편함이 가득 차서
-편지 <Value>IntegerParameter(1)</Value>통을 못 받았다쿠뽀.
-배달부가 자기 우편함이 어떤 상태인지는 알고 있어야지쿠뽀."
-18,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_101_004","……아, 그리고 우편함이 가득 차서
-편지 <Value>IntegerParameter(1)</Value>통을 못 받았다쿠뽀.
-보낸 사람이 속상하지 않게 항상 편지함을 잘 정리해둬쿠뽀."
-19,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_102_004","……아, 그리고 우편함이 가득 차서
-못 받은 편지가 있다쿠뽀!
-필요 없는 편지는 지우고 자주 정리해줘야 한다쿠뽀!"
-20,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_10","모험가님, 만나서 반갑다쿠뽀.
-언제나 어디서나 누구에게나 재깍재깍 편지를 배달해주는
-배달부 모그리가 바로 모그다쿠뽀!"
-21,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_11","5년 전 일이 생각난다쿠뽀……
-하늘에서 별님이 떨어져서
-정말 난리도 아니었다쿠뽀."
-22,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_12","에테라이트도 링크셸도 다 먹통이 되어서
-다들 정신이 하나도 없었다쿠뽀."
-23,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_13","그때 숲속 친구들의 연락을 도와주려고
-모그가 편지를 배달하기 시작했다쿠뽀."
-24,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_14","숲을 나와서 낯선 땅을 날아다니는 건 무서웠지만,
-어느새 여행의 매력에 홀딱 빠지고 말았다쿠뽀!
-그래서 모그는 '배달부'가 된 거야쿠뽀!"
-25,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_15","모험가님도 앞으로 모그만 믿고 편지를 보내줘쿠뽀!
-그럼 바로 일을 시작하겠다쿠뽀!"
-26,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_102_010","여행자님, 만나서 반갑다쿠뽀.
-어느 날, 꿈에서 본 '편지를 전하는 모그리'의 모습이
-왠지 모르게 내 영혼을 흔들었다쿠뽀……!"
-27,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_102_011","그래서 모그는 '배달부'로 잡 체인지를 했다쿠뽀♪
-페오 울이 '그쪽'에서 보낸 편지를 받으면
-여행자님한테 반드시 제대로 전해 주겠다쿠뽀♪"
-28,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_020","후배님의 배달부 레벨은 <Value>IntegerParameter(1)</Value><13>FF07022003E80203FF04EB8BA4FF07EC9DB4EB8BA4</13>쿠뽀!
-림사 로민사 '방파벽 회관' 근처에 모그가 있으면
-그냥 지나치지 말고 꼭 말을 걸어줘쿠뽀!"
-29,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_102_020","너의 배달부 레벨은 <Value>IntegerParameter(1)</Value><13>FF07022003E80203FF04EB8BA4FF07EC9DB4EB8BA4</13>쿠뽀!
-무슨 뜻인지 모르겠지만 페오 울이 그렇게 말했다쿠뽀!
-'그쪽'의 항구 도시에서 배달부 모그리에게 말을 걸면 된대쿠뽀!"
-30,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_100_020","수습 배달부님의 배달부 레벨은 <Value>IntegerParameter(1)</Value><13>FF07022003E80203FF04EB8BA4FF07EC9DB4EB8BA4</13>쿠뽀!
-앞으로도 이렇게 열심히 해주면 돼쿠뽀!
-림사 로민사에서 모그를 보면 꼭 말을 걸어줘쿠뽀!"
-31,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_101_020","후배들 모두 <Highlight>ObjectParameter(1)</Highlight> 님처럼 되고 싶다면서
-열심히 배달 일을 하느라 여념이 없다쿠뽀!
-그러니까 <Highlight>ObjectParameter(1)</Highlight> 님은 걱정 말고 모험을 다녀쿠뽀!"
-32,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_102_021","페오 울이 '그쪽'의 배달부 모그리들도
-<Highlight>ObjectParameter(1)</Highlight> 님을
-든든하게 생각한다고 했다쿠뽀~♪"
-33,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_102_030","어느 날, 꿈에서 본 '편지를 전하는 모그리'의 모습이
-왠지 모르게 내 영혼을 흔들었다쿠뽀……!
-그래서 지금 흉내 내면서 수련 중이다쿠뽀!"
+0,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_1","現在還沒有給<hex:022903EB0203>的新郵件咕波。"
+1,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_001","現在還沒有給你這個後輩的新郵件咕波。"
+2,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_100_001","小有進展的後輩，<hex:02100103>現在還沒有給你的新郵件咕波。"
+3,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_101_001","現在還沒有給<hex:022903EB0203>的新郵件咕波。<hex:02100103>這種事情很平常啦咕波！"
+4,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_102_001","現在還沒有給<hex:022903EB0203>的新郵件咕波。<hex:02100103>菲奧·烏兒送來新郵件的話莫古一定會告訴你的咕波！"
+5,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_2","<hex:022903EB0203>，<hex:02100103>這裡有<hex:022003E80203>封你的新郵件咕波。"
+6,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_002","後輩後輩，<hex:02100103>這裡有<hex:022003E80203>封你的新郵件咕波。"
+7,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_100_002","小有進展的後輩，<hex:02100103>這裡有<hex:022003E80203>封你的新郵件咕波。"
+8,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_101_002","<hex:022903EB0203>，<hex:02100103>這裡有<hex:022003E80203>封你的新郵件咕波。<hex:02100103>快來看看吧咕波！"
+9,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_102_002","<hex:022903EB0203>，<hex:02100103>這裡有<hex:022003E80203>封你的新郵件咕波。<hex:02100103>都是菲奧·烏兒送來的，快來看看吧咕波！"
+10,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_3","……還有，你差不多該整理一下郵件了，<hex:02100103>要不然都收不到新的郵件了咕波。"
+11,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_003","……還有，你差不多該整理一下郵件了，<hex:02100103>要不然都收不到新的郵件了咕波。<hex:02100103>整理郵件可是郵務士的素養咕波！"
+12,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_100_003","……還有，你差不多該整理一下郵件了，<hex:02100103>要不然都收不到新的郵件了咕波。<hex:02100103>這可是和郵務士的成長緊密相連的咕波。"
+13,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_101_003","……還有，你差不多該整理一下郵件了，<hex:02100103>要不然都收不到新的郵件了咕波。<hex:02100103>而且，不整理一下的話多對不起寄信人啊，快整理整理吧咕波。"
+14,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_102_003","……還有，你差不多該整理一下郵件了，<hex:02100103>要不然都收不到新的郵件了咕波。"
+15,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_4","……還有，你的信箱已經滿了，<hex:02100103>所以莫古只好退掉了一些郵件咕波。<hex:02100103>記得要刪掉不用的郵件，經常整理咕波！"
+16,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_004","……還有，你的信箱已經滿了，<hex:02100103>所以莫古只好退掉了一些郵件咕波。<hex:02100103>刪掉不用的郵件可是郵務士的素養咕波！"
+17,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_100_004","……還有，你的信箱已經滿了，<hex:02100103>所以莫古只好退掉了<hex:022003E80203>封郵件咕波。<hex:02100103>作為郵務士，你可要管理好自己的郵件啊咕波。"
+18,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_101_004","……還有，你的信箱已經滿了，<hex:02100103>所以莫古只好退掉了<hex:022003E80203>封郵件咕波。<hex:02100103>為了不讓寄信人傷心，還是整理一下郵件吧咕波。"
+19,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_102_004","……還有，你的信箱已經滿了，<hex:02100103>莫古只好退掉了裝不下的郵件咕波。<hex:02100103>還是把不需要的郵件刪一刪，經常整理一下吧咕波！"
+20,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_10","你好啊，冒險者咕波。<hex:02100103>莫古是郵差莫古利咕波！<hex:02100103>能夠隨時隨地將信件迅速送到任何人手裡咕波。"
+21,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_11","想起那5年前……<hex:02100103>從天空掉落了大星星，<hex:02100103>那可是鬧得天翻地覆咕波。"
+22,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_12","當時連乙太之光和通訊貝也不能使用，<hex:02100103>人人都是焦頭爛額咕波。"
+23,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_13","就是那時候森林的朋友委託莫古送信的，<hex:02100103>於是莫古開始為大家送信了咕波。"
+24,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_14","雖然走出森林，前往未知的土地有點害怕，<hex:02100103>但是不知不覺就迷上了旅行咕波！<hex:02100103>所以莫古就正式成為了郵務士咕波！"
+25,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_15","冒險者以後需要郵寄的話，<hex:02100103>找莫古就可以了咕波！"
+26,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_102_010","旅人<hex:020813E905FF07>小姐<hex:FF07>先生<hex:03>，初次見面咕波！<hex:02100103>莫古曾經夢到過一個送郵件的莫古利，<hex:02100103>那個莫古利使命必達的身影令莫古震撼無比咕波！"
+27,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_102_011","以此為契機，莫古轉職成了一名郵差咕波！<hex:02100103>如果菲奧·烏兒送來來自「那邊」的郵件，<hex:02100103>莫古會負責交到旅人<hex:020813E905FF07>小姐<hex:FF07>先生<hex:03>手裡的咕波！"
+28,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_020","後輩你的郵務士等級是<hex:022003E80203>級咕波！<hex:02100103>你要以更高的目標努力咕波。要是在利姆薩·羅敏薩的<hex:02100103>工事大廳見到莫古的話要來打招呼啊咕波！"
+29,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_102_020","你的郵務士等級是<hex:022003E80203>級咕波！<hex:02100103>莫古不知道是什麼意思，都是聽菲奧·烏兒說的咕波！<hex:02100103>有空請去「那邊」的港口城市找郵差莫古利咕波！"
+30,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_100_020","小有進展的後輩，你的等級是<hex:022003E80203>級咕波！<hex:02100103>要再接再厲呀咕波！<hex:02100103>要是在利姆薩·羅敏薩見到莫古的話要來打招呼啊咕波！"
+31,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_101_020","後輩們都在努力地送信咕波！<hex:02100103>他們都在以<hex:022903EB0203>你為目標呢咕波！<hex:02100103>所以你就放心地去冒險好啦咕波！"
+32,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_102_021","菲奧·烏兒說「那邊」的郵差莫古利們<hex:02100103>也都非常信賴<hex:022903EB0203>咕波！"
+33,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_102_030","莫古曾經夢到過一個送郵件的莫古利，<hex:02100103>那個莫古利使命必達的身影令莫古震撼無比咕波！<hex:02100103>莫古正在努力修行，想要變得和他一樣咕波！"

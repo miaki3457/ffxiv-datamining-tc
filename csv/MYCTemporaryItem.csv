@@ -1,5 +1,6 @@
 ﻿key,0,1,2,3,4,5
 #,Category,Type,Action,Max,Weight,Order
+offset,4,5,0,6,7,8
 int32,MYCTemporaryItemUICategory,byte,Action,byte,byte,byte
 0,0,0,0,0,0,0
 1,6,1,20701,99,3,1

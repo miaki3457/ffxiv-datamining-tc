@@ -1,5 +1,6 @@
 ﻿key,0
 #,
+offset,0
 int32,str
 0,"TreasureMap"
 1,"TreasureMap_relic"

@@ -1,5 +1,6 @@
 ﻿key,0,1,2,3
 #,Item,Required{GrandCompanyRank},Cost{GCSeals},SortKey
+offset,4,8,0,12
 int32,Item,GrandCompanyRank,uint32,byte
 0.0,0,0,0,0
 1.0,5594,1,12,50

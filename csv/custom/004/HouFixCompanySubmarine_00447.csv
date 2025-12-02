@@ -1,65 +1,37 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
 0,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_TALK_ACTOR","0"
-1,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_SELECT_TITLE_0","잠수함을 등록하십시오."
-2,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_SELECT_TITLE","잠수함을 선택하십시오.
-　탐사기 대수: <Value>IntegerParameter(2)</Value>/<Value>IntegerParameter(3)</Value>대
-　보유한 연료수: 청린수 연료통 <Value>IntegerParameter(1)</Value>통"
-3,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_ADD_NEW_SUBMARINE","새 잠수함 등록 (잠수함 등록 증서×<Value>IntegerParameter(1)</Value>장)"
-4,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_NAME","<Highlight>StringParameter(1)</Highlight>  [랭크 <Value>IntegerParameter(5)</Value>]  <Switch(IntegerParameter(2))><Case(1)></Case><Case(2)></Case><Case(3)> [탐사 중:<If(GreaterThan(IntegerParameter(6),0))><Value>IntegerParameter(6)</Value>일 <Else/></If><If(GreaterThan(IntegerParameter(3),0))><Value>IntegerParameter(3)</Value>시간 <Else/><If(GreaterThan(IntegerParameter(6),0))><Value>IntegerParameter(3)</Value>시간 <Else/></If></If><Value>IntegerParameter(4)</Value>분 후 완료]</Case></Switch>"
-5,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_NAME_FINISH","<Highlight>StringParameter(1)</Highlight>  [랭크 <Value>IntegerParameter(5)</Value>]  탐사 완료"
-6,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_SELECT_EXIT","그만두기"
-7,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CMD_TITLE","<Highlight>StringParameter(1)</Highlight> [랭크 <Value>IntegerParameter(3)</Value>]
-　탐사기 대수: <Value>IntegerParameter(4)</Value>/<Value>IntegerParameter(5)</Value>대
-　보유한 연료수: 청린수 연료통 <Value>IntegerParameter(2)</Value>통"
-8,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CMD_EXPEDITION","탐사 출항"
-9,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CMD_RESULT","이전 탐사 보고서"
-10,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CMD_PARTS","부품 변경"
-11,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CMD_REPAIR_PARTS","부품 수리"
-12,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CMD_SETTING","설정"
-13,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CONF_COLOR","부품 염색"
-14,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CONF_NAME","이름 변경"
-15,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CONF_REMOVE","해체"
-16,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_VOY_TITLE","<Highlight>StringParameter(1)</Highlight> [랭크 <Value>IntegerParameter(2)</Value>]
-　탐사기 대수: <Value>IntegerParameter(3)</Value>/<Value>IntegerParameter(4)</Value>대
-　탐사 중: <If(GreaterThan(IntegerParameter(5),0))><Value>IntegerParameter(5)</Value>일 <Else/></If><If(GreaterThan(IntegerParameter(6),0))><Value>IntegerParameter(6)</Value>시간 <Else/><If(GreaterThan(IntegerParameter(5),0))><Value>IntegerParameter(6)</Value>시간 <Else/></If></If><Value>IntegerParameter(7)</Value>분 후 완료"
-17,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_VOY_CUR_COND","탐사 중지"
-18,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_VOY_CUR_MAP","해저 지도 확인"
-19,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_VOY_CUR_STATUS","잠수함 확인"
-20,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_NAME_TITLE","잠수함 이름을 입력하십시오."
-21,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_NAME_CAPTION","잠수함 이름"
-22,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_NAME_MES_0","
-이름에는 한글, 영문, 숫자, 공백 및
-다음 기호를 사용할 수 있습니다.
-<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>'.,:;!?&-_<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-• 공백과 _(밑줄)은 2개 이상 연속으로 사용할 수 없습니다.
-• 맨 앞이나 끝에는 공백을 사용할 수 없습니다.
-• 기호만으로 이루어진 이름은 사용할 수 없습니다."
-23,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_REMOVE_SUBMARINE_TITLE","잠수함 <Highlight>StringParameter(1)</Highlight><13>FF07022903EA0203FF04EBA5BCFF04EC9D84</13> 해체합니다.
-<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>장비 중인 아이템은 반환되지만
-'잠수함 등록 증서'는 반환되지 않습니다.
-또한, 잠수함 랭크 등의 각종 정보가 모두 초기화됩니다.
-<UIGlow>01</UIGlow><UIForeground>01</UIForeground>정말로 계속하시겠습니까?"
-24,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_REMOVE_SUBMARINE_CHECK","잠수함 해체하기"
-25,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_REGISTRATION_1","잠수함을 등록하려면
-'잠수함 등록 증서'와 '잠수함 부품'이 필요합니다."
-26,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_REGISTRATION_2","'잠수함 등록 증서'는 거주구 담당관에게 말을 걸어
-부대 명성을 소비하여 교환할 수 있습니다."
-27,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_REGISTRATION_3","'잠수함 부품'은
-'함체', '함미', '함수', '함교'가 각각 필요합니다.
-'부대 제작설비'를 통해서 제작할 수 있습니다."
-28,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_ENERGY","잠수함이 출항하기 위해서는 '청린수 연료통'이 필요합니다.
-'청린수 연료통'은 거주구 담당관에게 말을 걸어
-부대 명성을 소비하여 교환할 수 있습니다."
-29,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_EXPLOG_1","탐사가 완료되면 '탐사 보고서'가 작성됩니다.
-이 보고서에서 각 지점의 탐사 결과를
-자세히 확인할 수 있습니다."
-30,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_EXPLOG_2","'탐사 보고서'에는 효율적인 탐사를 위한 정보가 있습니다.
-이 정보를 바탕으로 다양한 장비를 시험하여
-더 나은 탐사 결과를 얻으시기 바랍니다."
-31,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_EXPLOG_3","또한 가장 최근의 '탐사 보고서'가 저장되므로
-부대원들과 함께 지난 탐사 내용을 확인하면서
-다음에 어떤 '잠수함 부품'을 제작할지 결정해봅시다."
-32,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_REPAIR_ITEM","'잠수함 부품'을 수리하려면
-'마도 기계 수리재'가 필요합니다."
+1,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_SELECT_TITLE_0","請登記潛水艇。"
+2,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_SELECT_TITLE","請選擇潛水艇。<hex:02100103>　探索機體數：<hex:022003E80303>/<hex:022003E80403><hex:02100103>　所持燃料數：桶裝青磷水　<hex:022003E80203>桶"
+3,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_ADD_NEW_SUBMARINE","登記新的潛水艇（潛水艇登記票×<hex:022003E80203>張）"
+4,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_NAME","<hex:022903EA0203>  [<hex:022003E80603>級]  <hex:020979E803FF01><hex:FF01><hex:FF71> [正在探索：剩餘時間 <hex:020812E1E80701FF0A><hex:022003E80703>天<hex:FF01><hex:03><hex:02082DE1E80401FF0D><hex:022003E80403>小時<hex:FF19><hex:020815E1E80701FF0D><hex:022003E80403>小時<hex:FF01><hex:03><hex:03><hex:022003E80503>分鐘]<hex:03>"
+5,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_NAME_FINISH","<hex:022903EA0203>  [<hex:022003E80603>級]  [探索完成]"
+6,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_SELECT_EXIT","取消"
+7,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CMD_TITLE","<hex:022903EA0203> [<hex:022003E80403>級]<hex:02100103>　探索機體數：<hex:022003E80503>/<hex:022003E80603><hex:02100103>　所持燃料數：桶裝青磷水　<hex:022003E80303>桶"
+8,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CMD_EXPEDITION","出發"
+9,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CMD_RESULT","上次的遠航報告"
+10,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CMD_PARTS","更換配件"
+11,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CMD_REPAIR_PARTS","修理配件"
+12,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CMD_SETTING","設定"
+13,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CONF_COLOR","對配件染色"
+14,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CONF_NAME","更改名字"
+15,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CONF_REMOVE","解體"
+16,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_VOY_TITLE","<hex:022903EA0203> [<hex:022003E80303>級]<hex:02100103>　探索機體數：<hex:022003E80403>/<hex:022003E80503><hex:02100103>　正在探索：剩餘時間 <hex:020812E1E80601FF0A><hex:022003E80603>天<hex:FF01><hex:03><hex:02082DE1E80701FF0D><hex:022003E80703>小時<hex:FF19><hex:020815E1E80601FF0D><hex:022003E80703>小時<hex:FF01><hex:03><hex:03><hex:022003E80803>分鐘"
+17,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_VOY_CUR_COND","中止探索"
+18,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_VOY_CUR_MAP","確認海底圖"
+19,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_VOY_CUR_STATUS","確認潛水艇"
+20,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_NAME_TITLE","請輸入潛水艇的名字。"
+21,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_NAME_CAPTION","潛水艇的名字"
+22,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_NAME_MES_0","名稱中可以使用漢字、字母、數字、空格以及下列符號。<hex:02100103><hex:024804F201FC03><hex:024904F201FD03>'. , : ; ! ? & - _<hex:0249020103><hex:0248020103><hex:02100103>·空格與下劃線無法連續使用。<hex:02100103>·空格無法用在開頭和結尾。<hex:02100103>·無法建立只使用符號的名稱。"
+23,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_REMOVE_SUBMARINE_TITLE","確定要對潛水艇<hex:022903EA0203>進行解體嗎？<hex:02100103><hex:024804F201FC03><hex:024904F201FD03>正在裝備的道具將會被返還，<hex:02100103>但不會返還潛水艇登記票。<hex:02100103>潛水艇等級等情報也會被全部清空。<hex:0249020103><hex:0248020103>"
+24,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_REMOVE_SUBMARINE_CHECK","對潛水艇進行解體"
+25,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_REGISTRATION_1","要對潛水艇進行登記，<hex:02100103>需要潛水艇登記票和潛水艇配件。"
+26,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_REGISTRATION_2","可以使用部隊戰績和住宅區管理人交換潛水艇登記票。"
+27,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_REGISTRATION_3","需要4種潛水艇配件，分別是：<hex:02100103>船體、船尾、船首、艦橋。<hex:02100103>可以使用部隊合建裝置來製作。"
+28,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_ENERGY","潛水艇出港需要桶裝青磷水。<hex:02100103>可以使用部隊戰績和住宅區管理人交換桶裝青磷水。"
+29,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_EXPLOG_1","潛水艇探索結束後會發放遠航報告。<hex:02100103>可以以此確認各目的地的探索詳情。"
+30,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_EXPLOG_2","遠航報告中也記載著作為探索線索的情報。<hex:02100103>試著提升潛水艇的裝備，<hex:02100103>立志完成更好的探索。"
+31,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_EXPLOG_3","另外，遠航報告會儲存最近一次的遠航記錄，<hex:02100103>公會成員們一起來確認內容，<hex:02100103>考慮接下來要製作的潛水艇配件吧。"
+32,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_REPAIR_ITEM","修理潛水艇配件需要魔導機械修理材料。"

@@ -1,33 +1,18 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_OPENINGLIMSALOMINSA_RYSSFLOH_000_02","어? 이봐, 어디 가!?
-빨리 이쪽으로 와!"
-1,"TEXT_OPENINGLIMSALOMINSA_FZHUMII_000_03","기다리게.
-물에 빠진 돌고래 주점에 가고 싶다면
-그리파와 대화하게나."
-2,"TEXT_OPENINGLIMSALOMINSA_AHLDSKYF_000_05","어? 이봐, 잠깐 기다려.
-물에 빠진 돌고래 주점에서 바데론의 이야기는 들었나?
-앞으로 림사 로민사에서 활동하려면 놈을 만나는 게 좋을걸."
-3,"TEXT_OPENINGLIMSALOMINSA_ABYLFARR_000_07","거기 자네, 모험가 등록은 했나?
-아직 안 했으면 물에 빠진 돌고래 주점에 있는
-바데론에게 이야기를 들어봐."
-4,"TEXT_OPENINGLIMSALOMINSA_SDHODJBI_000_09","잠깐, 당신! 이리 좀 와봐.
-보아하니 신입 모험가 같은데, 맞지?
-그럼 바데론이 하는 이야기를 들어두는 게 좋을 거야."
-5,"TEXT_OPENINGLIMSALOMINSA_QUENTENAIN_000_11","이런, 잠깐.
-림사 로민사에서 활동할 생각이라면
-바데론 형씨의 이야기를 들어두는 게 좋을걸."
-6,"TEXT_OPENINGLIMSALOMINSA_SKAENRAEL_000_13","잠깐만 기다리게.
-우선 근처에서 자네에게 도움을 줄 사람부터 찾아.
-도시 탐색은 그다음에 해도 늦지 않네."
-7,"TEXT_OPENINGLIMSALOMINSA_SEA_SYSTEM_000_20","지금부터 게임에 대한 기본적인 설명을 시작합니다."
-8,"TEXT_OPENINGLIMSALOMINSA_SEA_SYSTEM_000_21","우선 '조작 설명'을 참고하며 카메라를 움직이거나
-캐릭터를 이동시켜 보십시오."
-9,"TEXT_OPENINGLIMSALOMINSA_SEA_SYSTEM_000_22","조작에 익숙해지면 당신을 부르는
-'리스플로' 앞으로 이동합시다."
-10,"TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_000_23","게임의 조작 방식을 선택하십시오."
-11,"TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_Q_01","원하는 조작 방식을
-선택하십시오."
-12,"TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_A_01","키보드/마우스 조작"
-13,"TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_A_02","<If(GreaterThan(PlayerParameter(75),1))>컨트롤러<Else/>게임패드</If> 조작"
+0,"TEXT_OPENINGLIMSALOMINSA_RYSSFLOH_000_02","喂，你上哪去？！<hex:02100103>快，來這邊！"
+1,"TEXT_OPENINGLIMSALOMINSA_FZHUMII_000_03","等一下。<hex:02100103>想去巴德龍所在的沉溺海豚亭的話，<hex:02100103>就去和古雷海法爾談談吧。"
+2,"TEXT_OPENINGLIMSALOMINSA_AHLDSKYF_000_05","喂，你等一下。<hex:02100103>和沉溺海豚亭的巴德龍聊過了嗎？<hex:02100103>想在利姆薩·羅敏薩活動的話，最好先和他談談。"
+3,"TEXT_OPENINGLIMSALOMINSA_ABYLFARR_000_07","你、你完成冒險者的註冊了嗎？<hex:02100103>如果還沒有，就去跟沉溺海豚亭的巴德龍談談。"
+4,"TEXT_OPENINGLIMSALOMINSA_SDHODJBI_000_09","我說你，快回來。<hex:02100103>看樣子你是新人冒險者吧？<hex:02100103>是的話，就去和巴德龍談談。"
+5,"TEXT_OPENINGLIMSALOMINSA_QUENTENAIN_000_11","喂，等等。<hex:02100103>想在利姆薩·羅敏薩活動的話，<hex:02100103>得先去和巴德龍老闆談談。"
+6,"TEXT_OPENINGLIMSALOMINSA_SKAENRAEL_000_13","你等一下。<hex:02100103>你先去向周圍的人確認一下，是否已經完成必要的談話。<hex:02100103>熟悉城市的事情，稍後再去也不遲。"
+7,"TEXT_OPENINGLIMSALOMINSA_SEA_SYSTEM_000_20","現在將開始遊戲的基礎教學。"
+8,"TEXT_OPENINGLIMSALOMINSA_SEA_SYSTEM_000_21","請先看操作說明，試試操作鏡頭以及移動角色。"
+9,"TEXT_OPENINGLIMSALOMINSA_SEA_SYSTEM_000_22","熟悉操作後請移動到叫你的利斯弗洛那裡。"
+10,"TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_000_23","請選擇遊戲的操作模式。"
+11,"TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_Q_01","請選擇要使用的操作模式。"
+12,"TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_A_01","鍵盤滑鼠模式"
+13,"TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_A_02","<hex:020818E1E94C02FF0A>控制器<hex:FF07>手把<hex:03>模式"

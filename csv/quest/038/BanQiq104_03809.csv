@@ -1,11 +1,9 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_BANQIQ104_03809_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
-
-호파루의 소반에 있는 코테루리 파소리는 식재료를 구해다 줬으면 하는 듯하다."
-1,"TEXT_BANQIQ104_03809_SEQ_01","코테루리 파소리에게 의뢰받은 물건을 납품"
+0,"TEXT_BANQIQ104_03809_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整（限定職業）<hex:0249020103><hex:0248020103><hex:02100103>※本任務需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>霍啪櫨古盤的柯呫盧利·帕嗦利，想要請冒險者幫忙收集食材。"
+1,"TEXT_BANQIQ104_03809_SEQ_01","將柯呫盧利·帕嗦利委託的物品交給她"
 2,"TEXT_BANQIQ104_03809_SEQ_02",""
 3,"TEXT_BANQIQ104_03809_SEQ_03",""
 4,"TEXT_BANQIQ104_03809_SEQ_04",""
@@ -28,7 +26,7 @@ int32,str,str
 21,"TEXT_BANQIQ104_03809_SEQ_21",""
 22,"TEXT_BANQIQ104_03809_SEQ_22",""
 23,"TEXT_BANQIQ104_03809_SEQ_23",""
-24,"TEXT_BANQIQ104_03809_TODO_00","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>뮤릴의 향수의 광맥에서 <Sheet(Item,IntegerParameter(5),0)/> 채굴<Else/>코테루리 파소리에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>뮤릴의 향수의 약초밭에서 <Sheet(Item,IntegerParameter(5),0)/> 채집<Else/>코테루리 파소리에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>로차틀 강에서 <Sheet(Item,IntegerParameter(5),0)/> 낚기<Else/> 코테루리 파소리에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If>"
+24,"TEXT_BANQIQ104_03809_TODO_00","<hex:0208F20151E4E80511FF69><hex:020865E3E802E803FF2F>在繆櫟的鄉愁的礦脈採取<hex:02280AFF05>Item<hex:E8060103><hex:FF2E>將<hex:02280AFF05>Item<hex:E8060103>交給柯呫盧利·帕嗦利<hex:03><hex:FFF0E0><hex:0208F0DBE4E80512FF69><hex:020865E3E802E803FF2F>在繆櫟的鄉愁的草場採取<hex:02280AFF05>Item<hex:E8060103><hex:FF2E>將<hex:02280AFF05>Item<hex:E8060103>交給柯呫盧利·帕嗦利<hex:03><hex:FF6C><hex:020868E4E80513FF60><hex:02085CE3E802E803FF26>在洛查特爾河釣取<hex:02280AFF05>Item<hex:E8060103><hex:FF2E>將<hex:02280AFF05>Item<hex:E8060103>交給柯呫盧利·帕嗦利<hex:03><hex:FF01><hex:03><hex:03><hex:03>"
 25,"TEXT_BANQIQ104_03809_TODO_01",""
 26,"TEXT_BANQIQ104_03809_TODO_02",""
 27,"TEXT_BANQIQ104_03809_TODO_03",""
@@ -52,45 +50,20 @@ int32,str,str
 45,"TEXT_BANQIQ104_03809_TODO_21",""
 46,"TEXT_BANQIQ104_03809_TODO_22",""
 47,"TEXT_BANQIQ104_03809_TODO_23",""
-48,"TEXT_BANQIQ104_03809_QHOTERLPASOL_000_000","발굴 작업이란 건 상당한 중노동이랍니다~.
-똑바로 일을 해내기 위해서는
-영양 만점 식사가 필요하겠지요~!"
-49,"TEXT_BANQIQ104_03809_QHOTERLPASOL_000_001","한창 성장기인 우리 아이에게도 맛난 걸 많이 먹이고 싶으니
-식재료를 구해다 주시면 감사하겠어요~."
-50,"TEXT_BANQIQ104_03809_QHOTERLPASOL_000_010","이번에는 '<Sheet(Item,29520,0)/>'<13>FF0F02280BFF054974656DF273500103FF04EBA5BCFF04EC9D84</13> 3개 정도,
-채굴해서 가져와 주시겠어요~?
-아마도 뮤릴의 향수 부근에서 입수할 수 있을 거예요~."
-51,"TEXT_BANQIQ104_03809_QHOTERLPASOL_000_020","이번에는 '<Sheet(Item,29546,0)/>'<13>FF0F02280BFF054974656DF2736A0103FF04EBA5BCFF04EC9D84</13> 3개 정도,
-채집해서 가져와 주시겠어요~?
-아마도 뮤릴의 향수 부근에서 입수할 수 있을 거예요~."
-52,"TEXT_BANQIQ104_03809_QHOTERLPASOL_000_030","이번에는 '<Sheet(Item,29572,0)/>'<13>FF0F02280BFF054974656DF273840103FF04EBA5BCFF04EC9D84</13>
-로차틀 강에서 잡아서 가져와 주시겠어요~?
-<Sheet(Item,27582,0)/><13>FF0F02280BFF054974656DF26BBE0103FF04EBA5BCFF04EC9D84</13> 사용하면 잡을 수 있을 거예요~."
-53,"TEXT_BANQIQ104_03809_QHOTERLPASOL_100_010","'<Sheet(Item,29520,0)/>'<13>FF0F02280BFF054974656DF273500103FF04EBA5BCFF04EC9D84</13> 3개 정도,
-채굴해서 가져와 주시겠어요~?
-아마도 뮤릴의 향수 부근에서 입수할 수 있을 거예요~."
-54,"TEXT_BANQIQ104_03809_QHOTERLPASOL_100_020","'<Sheet(Item,29546,0)/>'<13>FF0F02280BFF054974656DF2736A0103FF04EBA5BCFF04EC9D84</13> 3개 정도,
-채집해서 가져와 주시겠어요~?
-아마도 뮤릴의 향수 부근에서 입수할 수 있을 거예요~."
-55,"TEXT_BANQIQ104_03809_QHOTERLPASOL_100_030"," '<Sheet(Item,29572,0)/>'<13>FF0F02280BFF054974656DF273840103FF04EBA5BCFF04EC9D84</13>
-로차틀 강에서 잡아서 가져와 주시겠어요~?
-<Sheet(Item,27582,0)/><13>FF0F02280BFF054974656DF26BBE0103FF04EBA5BCFF04EC9D84</13> 사용하면 잡을 수 있을 거예요~."
-56,"TEXT_BANQIQ104_03809_QHOTERLPASOL_000_050","식재료 구하는 일은 잘 되어 가나요~?"
-57,"TEXT_BANQIQ104_03809_QHOTERLPASOL_000_060","감사합니다~.
-이 개미알은 푹 삶아서
-얇게 구운 수수빵 사이에 껴서 먹는답니다~."
-58,"TEXT_BANQIQ104_03809_QHOTERLPASOL_000_061","우리집 아이는 이걸 어찌나 좋아하는지,
-언제나 지나치게 많이 먹곤 하지요~."
-59,"TEXT_BANQIQ104_03809_QHOTERLPASOL_000_070","감사합니다~.
-이 신선한 번데기는 재료 본연의 맛을 살리기 위해
-소금을 살짝 뿌려 볶아 먹는 것이 제일 맛있답니다~."
-60,"TEXT_BANQIQ104_03809_QHOTERLPASOL_000_071","남편은 이 요리를 너무 좋아해서
-만들어 주면 어린아이처럼 눈을 반짝거려요~."
-61,"TEXT_BANQIQ104_03809_QHOTERLPASOL_000_080","감사합니다~.
-이 도둑게는 살을 발라 야채와 함께 푹 끓여서
-익힌 곡물 위에 부어서 먹는답니다~."
-62,"TEXT_BANQIQ104_03809_QHOTERLPASOL_000_081","부끄럽지만, 제가 이 요리를 너무나 좋아해서
-지금도 침이 고이고 있어요~."
-63,"TEXT_BANQIQ104_03809_QHOTERLPASOL_000_090","후훗, 이제부터 하게 될 식사가 기대되네요~.
-식재료를 구해다 주셔서 감사드려요~!"
+48,"TEXT_BANQIQ104_03809_QHOTERLPASOL_000_000","挖掘是一種非常消耗體力的勞動。<hex:02100103>想要做好這項工作，<hex:02100103>必須要有營養豐富的食物才行是也。"
+49,"TEXT_BANQIQ104_03809_QHOTERLPASOL_000_001","而且某也想讓正在長身體的孩子吃到飽，<hex:02100103>所以能不能麻煩爾幫某去收集些食材是也？"
+50,"TEXT_BANQIQ104_03809_QHOTERLPASOL_000_010","這次需要3個左右的<hex:02280BFF05>Item<hex:F273500103>，<hex:02100103>就麻煩爾去繆櫟的鄉愁幫某找回來是也。"
+51,"TEXT_BANQIQ104_03809_QHOTERLPASOL_000_020","這次需要3個左右的<hex:02280BFF05>Item<hex:F2736A0103>，<hex:02100103>就麻煩爾去繆櫟的鄉愁幫某找回來是也。"
+52,"TEXT_BANQIQ104_03809_QHOTERLPASOL_000_030","這次需要<hex:02280BFF05>Item<hex:F273840103>，<hex:02100103>就麻煩爾去洛查特爾河幫某釣回來吧。<hex:02100103>魚餌用<hex:02280BFF05>Item<hex:F26BBE0103>就可以了是也。"
+53,"TEXT_BANQIQ104_03809_QHOTERLPASOL_100_010","需要3個左右的<hex:02280BFF05>Item<hex:F273500103>，<hex:02100103>就麻煩爾去繆櫟的鄉愁幫某找回來是也。"
+54,"TEXT_BANQIQ104_03809_QHOTERLPASOL_100_020","需要3個左右的<hex:02280BFF05>Item<hex:F2736A0103>，<hex:02100103>就麻煩爾去繆櫟的鄉愁幫某找回來是也。"
+55,"TEXT_BANQIQ104_03809_QHOTERLPASOL_100_030","需要<hex:02280BFF05>Item<hex:F273840103>，<hex:02100103>就麻煩爾去洛查特爾河幫某釣回來吧。<hex:02100103>魚餌用<hex:02280BFF05>Item<hex:F26BBE0103>就可以了是也。"
+56,"TEXT_BANQIQ104_03809_QHOTERLPASOL_000_050","怎麼樣，找到食材了嗎？"
+57,"TEXT_BANQIQ104_03809_QHOTERLPASOL_000_060","非常感謝，這蟻蛋煮熟後，<hex:02100103>夾到玉米薄餅裡會特別好吃。"
+58,"TEXT_BANQIQ104_03809_QHOTERLPASOL_000_061","某家的孩子特別喜歡吃這個，<hex:02100103>每次都不小心吃多是也。"
+59,"TEXT_BANQIQ104_03809_QHOTERLPASOL_000_070","非常感謝，這新鮮的蠶蛹<hex:02100103>只用鹽炒可以很好保留食材本身的味道，<hex:02100103>特別好吃。"
+60,"TEXT_BANQIQ104_03809_QHOTERLPASOL_000_071","某丈夫最喜歡吃這道菜了，<hex:02100103>每次看到都會和小孩子一樣眼睛發光是也。"
+61,"TEXT_BANQIQ104_03809_QHOTERLPASOL_000_080","非常感謝，這強盜蟹的肉和蔬菜一起燉，<hex:02100103>然後再澆到蒸好的米飯上會特別好吃。"
+62,"TEXT_BANQIQ104_03809_QHOTERLPASOL_000_081","說來慚愧，某對這道菜情有獨鍾，<hex:02100103>現在就已經流口水了是也。"
+63,"TEXT_BANQIQ104_03809_QHOTERLPASOL_000_090","哼哼，好期待今天的飯菜啊，<hex:02100103>非常感謝爾幫忙收集食材是也。"
 64,"TEXT_BANQIQ104_03809_QHOTERLPASOL_000_040","（★未使用／削除予定★）"

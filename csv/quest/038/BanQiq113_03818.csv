@@ -1,11 +1,9 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_BANQIQ113_03818_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
-
-호파루의 소반에 있는 코테루리 파소리는 유물을 복구하고 싶은 듯하다."
-1,"TEXT_BANQIQ113_03818_SEQ_01","코테루리 파소리에게 의뢰받은 물건을 납품"
+0,"TEXT_BANQIQ113_03818_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整（限定職業）<hex:0249020103><hex:0248020103><hex:02100103>※本任務需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>霍啪櫨古盤的柯呫盧利·帕嗦利想要修復遺物。"
+1,"TEXT_BANQIQ113_03818_SEQ_01","將柯呫盧利·帕嗦利委託的物品交給她"
 2,"TEXT_BANQIQ113_03818_SEQ_02",""
 3,"TEXT_BANQIQ113_03818_SEQ_03",""
 4,"TEXT_BANQIQ113_03818_SEQ_04",""
@@ -28,7 +26,7 @@ int32,str,str
 21,"TEXT_BANQIQ113_03818_SEQ_21",""
 22,"TEXT_BANQIQ113_03818_SEQ_22",""
 23,"TEXT_BANQIQ113_03818_SEQ_23",""
-24,"TEXT_BANQIQ113_03818_TODO_00","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>뮤릴의 향수의 광맥에서 <Sheet(Item,IntegerParameter(5),0)/> 채굴<Else/>코테루리 파소리에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>뮤릴의 향수의 약초밭에서 <Sheet(Item,IntegerParameter(5),0)/> 채집<Else/>코테루리 파소리에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>투시 메키타 호수의 물속에서 <Sheet(Item,IntegerParameter(5),0)/> 작살질<Else/>코테루리 파소리에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If>"
+24,"TEXT_BANQIQ113_03818_TODO_00","<hex:0208F20154E4E80511FF69><hex:020865E3E802E803FF2F>在繆櫟的鄉愁的礦脈採取<hex:02280AFF05>Item<hex:E8060103><hex:FF2E>將<hex:02280AFF05>Item<hex:E8060103>交給柯呫盧利·帕嗦利<hex:03><hex:FFF0E3><hex:0208F0DEE4E80512FF69><hex:020865E3E802E803FF2F>在繆櫟的鄉愁的草場採取<hex:02280AFF05>Item<hex:E8060103><hex:FF2E>將<hex:02280AFF05>Item<hex:E8060103>交給柯呫盧利·帕嗦利<hex:03><hex:FF6F><hex:02086BE4E80513FF63><hex:02085FE3E802E803FF29>在蛇水湖的水下刺取<hex:02280AFF05>Item<hex:E8060103><hex:FF2E>將<hex:02280AFF05>Item<hex:E8060103>交給柯呫盧利·帕嗦利<hex:03><hex:FF01><hex:03><hex:03><hex:03>"
 25,"TEXT_BANQIQ113_03818_TODO_01",""
 26,"TEXT_BANQIQ113_03818_TODO_02",""
 27,"TEXT_BANQIQ113_03818_TODO_03",""
@@ -52,36 +50,15 @@ int32,str,str
 45,"TEXT_BANQIQ113_03818_TODO_21",""
 46,"TEXT_BANQIQ113_03818_TODO_22",""
 47,"TEXT_BANQIQ113_03818_TODO_23",""
-48,"TEXT_BANQIQ113_03818_QHOTERLPASOL_000_000","지금까지 발굴 작업을 하면서 갖가지 유물이 발견되었지만,
-안타깝게도 파손된 것도 많답니다~."
-49,"TEXT_BANQIQ113_03818_QHOTERLPASOL_000_001","선조님께서 남겨준 소중한 보물이기에
-이것을 복구하고 싶은데 말이어요,
-부족한 것이 있사와요~."
-50,"TEXT_BANQIQ113_03818_QHOTERLPASOL_000_010","뮤릴의 향수에서 캘 수 있는 '<Sheet(Item,29527,0)/>'<13>FF0F02280BFF054974656DF273570103FF04EAB080FF04EC9DB4</13>
-3개 정도 있으면 충분할 듯한데,
-구해다 주시겠어요~?"
-51,"TEXT_BANQIQ113_03818_QHOTERLPASOL_000_020","뮤릴의 향수에서 채집할 수 있는 '<Sheet(Item,29553,0)/>'<13>FF0F02280BFF054974656DF273710103FF04EAB080FF04EC9DB4</13>
-3개 정도 있으면 충분할 듯한데,
-구해다 주시겠어요~?"
-52,"TEXT_BANQIQ113_03818_QHOTERLPASOL_000_030","투시 메키타 호수에 서식하는 '<Sheet(Item,29579,0)/>'<13>FF0F02280BFF054974656DF2738B0103FF04EBA5BCFF04EC9D84</13>
-구해다 주시겠어요~?
-아마 작살질로 잡을 수 있을 거예요~."
-53,"TEXT_BANQIQ113_03818_SYSTEM_100_040","이 퀘스트를 진행하기 위해서는
-퀘스트 '작살질을 해보자'를 완료하여
-'작살질'을 개방해야 합니다."
-54,"TEXT_BANQIQ113_03818_QHOTERLPASOL_000_040","뮤릴의 향수에서 캘 수 있는 '<Sheet(Item,29527,0)/>'<13>FF0F02280BFF054974656DF273570103FF04EBA5BCFF04EC9D84</13>
-3개 정도 구해다 주시겠어요~?
-유물을 복구할 때 사용할 것이랍니다~."
-55,"TEXT_BANQIQ113_03818_QHOTERLPASOL_000_050","뮤릴의 향수에서 채집할 수 있는 '<Sheet(Item,29553,0)/>'<13>FF0F02280BFF054974656DF273710103FF04EBA5BCFF04EC9D84</13>
-3개 정도 구해다 주시겠어요~?
-유물을 복구할 때 사용할 것이랍니다~."
-56,"TEXT_BANQIQ113_03818_QHOTERLPASOL_000_060","투시 메키타 호수에 서식하는 '<Sheet(Item,29579,0)/>'<13>FF0F02280BFF054974656DF2738B0103FF04EBA5BCFF04EC9D84</13>
-구해다 주시겠어요~?
-아마 작살질로 잡을 수 있을 거예요~."
-57,"TEXT_BANQIQ113_03818_QHOTERLPASOL_000_070","유물 복구에 필요한 것은
-무사히 모아 오셨나요~?"
-58,"TEXT_BANQIQ113_03818_QHOTERLPASOL_000_080","이게 있으면 문제없이 유물을 복구할 수 있겠어요~!
-일족의 신성한 보물은 물론 소중하지만,
-유물을 원래의 형태로 계승해 나가는 것도 중요하지요~."
-59,"TEXT_BANQIQ113_03818_QHOTERLPASOL_000_081","복구한 유물은 우리 아이에게
-그리고 또 그 아이들에게 반드시 이어 나갈 것이어요~!"
+48,"TEXT_BANQIQ113_03818_QHOTERLPASOL_000_000","雖然採掘隊挖掘出了各種遺物，<hex:02100103>但可惜的是，大部分都有損壞是也。"
+49,"TEXT_BANQIQ113_03818_QHOTERLPASOL_000_001","這些是祖先留下的重要寶物，<hex:02100103>所以某想修復這些遺物，<hex:02100103>可是有些東西不是很夠是也。"
+50,"TEXT_BANQIQ113_03818_QHOTERLPASOL_000_010","如果有3個在繆櫟的鄉愁採集到的<hex:02280BFF05>Item<hex:F273570103>，<hex:02100103>大概就能修復了是也。<hex:02100103>能麻煩爾去幫某採集一下嗎？"
+51,"TEXT_BANQIQ113_03818_QHOTERLPASOL_000_020","如果有3個在繆櫟的鄉愁採集到的<hex:02280BFF05>Item<hex:F273710103>，<hex:02100103>大概就能修復了是也。<hex:02100103>能麻煩爾去幫某採集一下嗎？"
+52,"TEXT_BANQIQ113_03818_QHOTERLPASOL_000_030","如果有棲息在蛇水湖的<hex:02280BFF05>Item<hex:F2738B0103>，<hex:02100103>大概就能修復了是也。<hex:02100103>據說得用刺魚才能抓到，能麻煩爾去幫某抓一下嗎？"
+53,"TEXT_BANQIQ113_03818_SYSTEM_100_040","若訣竅取或繼續推進本任務，<hex:02100103>需完成任務「刺魚的方法」開放刺魚。"
+54,"TEXT_BANQIQ113_03818_QHOTERLPASOL_000_040","能麻煩爾去繆櫟的鄉愁<hex:02100103>採集3個<hex:02280BFF05>Item<hex:F273570103>嗎？<hex:02100103>某想用來修復遺物是也。"
+55,"TEXT_BANQIQ113_03818_QHOTERLPASOL_000_050","能麻煩爾去繆櫟的鄉愁<hex:02100103>採集3個<hex:02280BFF05>Item<hex:F273710103>嗎？<hex:02100103>某想用來修復遺物是也。"
+56,"TEXT_BANQIQ113_03818_QHOTERLPASOL_000_060","能麻煩爾去蛇水湖抓<hex:02280BFF05>Item<hex:F2738B0103>嗎？<hex:02100103>某想用來修復遺物是也。<hex:02100103>據說得用刺魚才能抓到。"
+57,"TEXT_BANQIQ113_03818_QHOTERLPASOL_000_070","順利找到用來修復遺物的東西了嗎？"
+58,"TEXT_BANQIQ113_03818_QHOTERLPASOL_000_080","有這些的話就能修復好遺物了！<hex:02100103>……某等一族的靈寶雖然重要，<hex:02100103>但是讓遺物用應有的姿態流傳下去也很重要是也。"
+59,"TEXT_BANQIQ113_03818_QHOTERLPASOL_000_081","某會將修復好的遺物傳給某的孩子，<hex:02100103>然後會由某的孩子繼續傳給他的孩子吧！"

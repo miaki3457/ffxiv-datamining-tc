@@ -1,7 +1,8 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_LUCKME109_03638_SEQ_00","톰라 마을에 있는 자모트는 중요한 이야기를 하려는 듯하다."
+0,"TEXT_LUCKME109_03638_SEQ_00","特美拉村的扎莫圖似乎有重要的事情要說。"
 1,"TEXT_LUCKME109_03638_SEQ_01",""
 2,"TEXT_LUCKME109_03638_SEQ_02",""
 3,"TEXT_LUCKME109_03638_SEQ_03",""
@@ -25,8 +26,8 @@ int32,str,str
 21,"TEXT_LUCKME109_03638_SEQ_21",""
 22,"TEXT_LUCKME109_03638_SEQ_22",""
 23,"TEXT_LUCKME109_03638_SEQ_23",""
-24,"TEXT_LUCKME109_03638_TODO_00","코루트와 대화"
-25,"TEXT_LUCKME109_03638_TODO_01","코루트와 다시 대화"
+24,"TEXT_LUCKME109_03638_TODO_00","和扣魯圖對話"
+25,"TEXT_LUCKME109_03638_TODO_01","再次和扣魯圖對話"
 26,"TEXT_LUCKME109_03638_TODO_02",""
 27,"TEXT_LUCKME109_03638_TODO_03",""
 28,"TEXT_LUCKME109_03638_TODO_04",""
@@ -49,143 +50,82 @@ int32,str,str
 45,"TEXT_LUCKME109_03638_TODO_21",""
 46,"TEXT_LUCKME109_03638_TODO_22",""
 47,"TEXT_LUCKME109_03638_TODO_23",""
-48,"TEXT_LUCKME109_03638_MYSTERYVOICE_000_000","어서 와라, <Highlight>ObjectParameter(1)</Highlight>.
-이 정도는 칭찬할 만한 일이 아닐지 몰라도
-정말로 그 뛰어난 실력에 감탄했어."
-49,"TEXT_LUCKME109_03638_XAMOTT_000_010","자…… 너희는 잘 모르겠지만
-이곳 콜루시아 섬은 예전부터 양질의 유황이 나오기로
-유명한 땅이었지."
-50,"TEXT_LUCKME109_03638_XAMOTT_000_011","그 광맥에서 가끔 '대지의 씨앗'이라고 불리는,
-강력한 마력을 띠는 특수 광석이 발견될 때가 있어."
-51,"TEXT_LUCKME109_03638_XAMOTT_000_012","가공 기술도 쇠퇴하면서 잊힌 존재가 되었지만……
-덕분에 지금도 채굴할 수 있어.
-'드베르그 굴뚝' 부근에서 나는 게 특히 질이 좋아."
-52,"TEXT_LUCKME109_03638_XAMOTT_000_013","하지만 그곳은 우리의 숙적인 '코그 일가'가
-멋대로 자기네 구역이라고 주장하는 장소다!"
-53,"TEXT_LUCKME109_03638_XAMOTT_000_014","그놈들은 아주 악독하고…… 고약한……
-악당 중의 악당이라
-아무리 부탁해도 채굴을 허용해 주지 않아!"
-54,"TEXT_LUCKME109_03638_XAMOTT_000_015","그러니 거기서 '알아서 잘' 해야 한다만……
-그 점은 괜찮겠는가?"
-55,"TEXT_LUCKME109_03638_MYSTERYVOICE_000_016","그래, 어차피 '반역자들' 소리나 듣는 몸이니
-아주 유감스럽지만 멋지게 해 보도록 하지."
-56,"TEXT_LUCKME109_03638_XAMOTT_000_017","그렇다면 좋다……
-당장 실력 있는 녀석들을 뽑아서 안내하게 하마."
-57,"TEXT_LUCKME109_03638_KORUTT_000_018","(-???-)부탁이에요!
-그 역할 나한테 시켜 주세요~~!"
-58,"TEXT_LUCKME109_03638_XAMOTT_000_019","코루트!
-네가 가겠다는 게냐!?"
-59,"TEXT_LUCKME109_03638_KORUTT_000_020","저요, 거기 그 분들이랑 자모트 씨가 말하는 걸 들었어요.
-죄식자가 화산에 모여들고 있는 건 알았는데
-거기에 마지막 대죄식자가 있다니요!"
-60,"TEXT_LUCKME109_03638_KORUTT_000_021","콜루시아 섬의…… 세계의 이런 중대사에
-광부로서 일조할 수 있다면 꼭 하고 싶어요!"
-61,"TEXT_LUCKME109_03638_XAMOTT_000_022","그 정도로 의욕이 있다면 좋다!
-……라고 말하면 얼마나 좋겠냐만……."
-62,"TEXT_LUCKME109_03638_XAMOTT_000_023","저 녀석은 코루트, 마을에서도 손꼽히는 실력자인 데다가
-이곳 드베르가르 산맥의 지리에도 밝은 녀석이네."
-63,"TEXT_LUCKME109_03638_XAMOTT_000_024","……하지만 그것 말고는 영 아니야.
-특히 싸움에 있어서는 채굴할 때와 딴판이라
-아무리 곡괭이를 휘둘러도 맞지를 않아!"
-64,"TEXT_LUCKME109_03638_XAMOTT_000_025","현지에 도착해서 채굴에만 집중할 수 있는 환경이 마련되면
-반드시 큰 도움이 될 테지만……
-죄식자도 늘어난 이 상황에서 목적지까지 갈 수 있을런지."
-65,"TEXT_LUCKME109_03638_KORUTT_000_026","아아…… 그건 변명의 여지가 없긴 하지만요……."
-66,"TEXT_LUCKME109_03638_KORUTT_000_027","하지만 이런 때인만큼 절대로 물러설 수는 없어요!
-제발 저를 데려가 주세요!!"
-67,"TEXT_LUCKME109_03638_Q1_000_000","뭐라고 하시겠습니까?"
-68,"TEXT_LUCKME109_03638_A1_000_001","호위할 테니 안내와 채굴을 부탁해"
-69,"TEXT_LUCKME109_03638_A1_000_002","위험성만 알고 있다면야……"
-70,"TEXT_LUCKME109_03638_KORUTT_000_028","네, 네!
-열심히 하겠습니다!"
-71,"TEXT_LUCKME109_03638_XAMOTT_000_029","자네가 그렇게 말해 준다면 나도 막지는 않으마.
-코루트를 잘 부탁한다."
-72,"TEXT_LUCKME109_03638_MYSTERYVOICE_000_030","도중에 죄식자의 습격을 받을 가능성이 높아…….
-전투 준비를 갖춘 후에 출발하도록 하자."
-73,"TEXT_LUCKME109_03638_MYSTERYVOICE_000_031","……괜찮아, <Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EAB080FF04EC9DB4</13>
-뭐든 다 물리쳐 줄 테니까."
-74,"TEXT_LUCKME109_03638_MYSTERYVOICE_000_040","'드베르그 굴뚝'까지 코루트의 안내를 받도록 하지.
-전투 준비는 잊지 말고 해둬."
-75,"TEXT_LUCKME109_03638_XAMOTT_000_045","코루트를 잘 부탁하마!
-정말로 약하고 어수룩한 녀석이니까!"
-76,"TEXT_LUCKME109_03638_KORUTT_000_050","목적지인 '드베르그 굴뚝'은 동쪽 동굴 안에 있어요.
-제가 안내할 테니까……
-두 분 다 잘 부탁드려요!"
-77,"TEXT_LUCKME109_03638_KORUTT_000_051","앗……!"
-78,"TEXT_LUCKME109_03638_KORUTT_000_052","아아아…… 목적지는 저 녀석들의 뒤에 있는 동굴인데!
-어, 어, 어, 어떻게 하죠!?"
-79,"TEXT_LUCKME109_03638_MYSTERYVOICE_000_053","……다시 한번, 멋진 활약을 보여 주겠나?"
-80,"TEXT_LUCKME109_03638_MYSTERYVOICE_000_060","휴우…… 마지막엔 아슬아슬했군.
-무사해서 다행이야. 호위하느라 수고했다."
-81,"TEXT_LUCKME109_03638_KORUTT_000_070","으으으…… 두 분이 무사해서 다행이에요……!"
-82,"TEXT_LUCKME109_03638_KORUTT_000_071","이 동굴 끝에 '드베르그 굴뚝'이 있어요.
-이제 죄식자의 모습은 보이지 않지만
-어, 얼른 안으로 들어가요!"
-83,"TEXT_LUCKME109_03638_QIB_001_TODO_1","코루트를 호위하면서 동쪽으로 가라!"
-84,"TEXT_LUCKME109_03638_QIB_001_TODO_2","죄식자를 섬멸하라!"
-85,"TEXT_LUCKME109_03638_KORUTT_BATTLETALK_000_010","그럼 출발할게요!
-길을 따라 동쪽으로 가죠!"
-86,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_020","제법 거리가 있는 듯하군.
-죄식자의 습격에 주의하며 가자."
-87,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_030","벌써 들킨 건가…….
-<Highlight>ObjectParameter(1)</Highlight>, 왼쪽 죄식자를 부탁한다!"
-88,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_040","적의 공격이 코루트에게 닿지 않도록 해야 해!"
-89,"TEXT_LUCKME109_03638_KORUTT_BATTLETALK_000_050","대단해요…… 두 분 다 강하시네요!"
-90,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_060","나는 몰라도 저 친구는 더 강력한 상대와도
-용감하게 싸워 온 사람이거든."
-91,"TEXT_LUCKME109_03638_KORUTT_BATTLETALK_000_070","<Highlight>ObjectParameter(1)</Highlight> 씨가 지금까지 싸워 온 이야기……
-정말 궁금해요!"
-92,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_080","놀라움의 연속일 거라 보증하지.
-일이 정리되면 들려 달라고 해."
-93,"TEXT_LUCKME109_03638_KORUTT_BATTLETALK_000_090","헤헤헤…… 기대되네요!"
-94,"TEXT_LUCKME109_03638_KORUTT_BATTLETALK_000_100","으악!? 또 나왔어!"
-95,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_110","코루트는 우리 뒤로 물러서라.
-가자, <Highlight>ObjectParameter(1)</Highlight>!"
-96,"TEXT_LUCKME109_03638_KORUTT_BATTLETALK_000_120","뒤, 뒤에서도 나타났어요!"
-97,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_130","<Highlight>ObjectParameter(1)</Highlight>, 넌 공격에 집중해라.
-그동안 코루트는 내가 호위하마……!"
-98,"TEXT_LUCKME109_03638_KORUTT_BATTLETALK_000_140","휴우…… 이제 좀 안심이 되네요…….
-두 분의 훌륭한 연계 덕분이에요……!"
-99,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_150","이 친구의 실력이 뛰어난 것뿐이야.
-아니면 그 싸움을 쭉 지켜봤기 때문이거나……."
-100,"TEXT_LUCKME109_03638_KORUTT_BATTLETALK_000_160","저한테는 호흡이 딱딱 맞는 전우처럼 보여요!"
-101,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_170","…………!
-이, 일단 계속 가도록 하지……."
-102,"TEXT_LUCKME109_03638_KORUTT_BATTLETALK_000_180","……수정공, 왠지 조금 기뻐 보이는데요?"
-103,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_190","글쎄…… 네 칭찬을 듣고
-나이가 무색하게 마음이 들뜬 걸지도 모르지."
-104,"TEXT_LUCKME109_03638_KORUTT_BATTLETALK_000_200","에이, 아직 젊어 보이는데 왜 그래요!
-두 분은 언제부터 같이 싸웠어요?"
-105,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_210","그건…………."
-106,"TEXT_LUCKME109_03638_KORUTT_BATTLETALK_000_220","으아악!
-아까보다 더 많이 몰려왔어요!"
-107,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_230","이 근처에는 오래 머물지 않는 게 좋겠군.
-빨리 물리치고 어서 가자!"
-108,"TEXT_LUCKME109_03638_KORUTT_BATTLETALK_000_240","지, 지금이에요! 어서 이쪽으로!"
-109,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_250","코루트, 목적지인 동굴까지 얼마나 남았나?"
-110,"TEXT_LUCKME109_03638_KORUTT_BATTLETALK_000_260","이 언덕을 넘으면 금방이에요!"
-111,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_270","보인다, 저곳이로군……!"
-112,"TEXT_LUCKME109_03638_KORUTT_BATTLETALK_000_290","흐아아아아!?
-지, 진짜로 코앞인데……!"
-113,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_280","또 늘어났군…… 포위당한 건가……."
-114,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_310","지금은 강력한 기술로 단숨에 섬멸하는 게 좋겠어……!"
-115,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_300","<Highlight>ObjectParameter(1)</Highlight>!
-지시한 장소로 적을 모아줘!"
-116,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_320","좋아……!
-자, 단숨에 돌파한다!"
-117,"TEXT_LUCKME109_03638_KORUTT_BATTLETALK_000_330","아, 알겠어요……!"
-118,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_340","코루트는 내가 보호하마!
-그동안 마음껏 공격해라!"
+48,"TEXT_LUCKME109_03638_MYSTERYVOICE_000_000","<hex:022903EB0203>，你回來了。<hex:02100103>對你來說，成功完成這種小事或許不值得稱讚，<hex:02100103>但我還是很佩服你，幹得漂亮。"
+49,"TEXT_LUCKME109_03638_XAMOTT_000_010","你們可能不知道，<hex:02100103>珂露西亞島很久以前就是盛產上等硫磺的著名產地。"
+50,"TEXT_LUCKME109_03638_XAMOTT_000_011","而礦脈之中，有時可以挖到人稱「大地之種」的特殊礦石，<hex:02100103>它蘊含著強大的魔力，非常罕見。"
+51,"TEXT_LUCKME109_03638_XAMOTT_000_012","隨著加工技術的荒廢，這種礦石也幾乎被人遺忘……<hex:02100103>但托你們的福現在又可以重新採掘了。<hex:02100103>其中屬於侏儒煙囪附近的礦石最優質。"
+52,"TEXT_LUCKME109_03638_XAMOTT_000_013","但是那片區域已經被我們的宿敵古格家族<hex:02100103>擅自劃分成他們自己的地盤了！"
+53,"TEXT_LUCKME109_03638_XAMOTT_000_014","那群人真的是窮凶極惡……卑鄙無恥……<hex:02100103>壞到不能再壞了，<hex:02100103>不管我們怎麼懇求，他們都不肯讓我們去採掘！"
+54,"TEXT_LUCKME109_03638_XAMOTT_000_015","所以，你們需要「妥善」處理他們那邊……<hex:02100103>沒問題吧？"
+55,"TEXT_LUCKME109_03638_MYSTERYVOICE_000_016","嗯，好歹我們也是被稱為叛逆者的人，<hex:02100103>雖然這稱呼不好聽，但我們會跟他們「交涉」好的。"
+56,"TEXT_LUCKME109_03638_XAMOTT_000_017","那就好說了……<hex:02100103>那我就挑個身手俐落的人，讓他帶你們去吧。"
+57,"TEXT_LUCKME109_03638_KORUTT_000_018","(-？？？？-)打擾了！<hex:02100103>這個任務請交給我去做吧！"
+58,"TEXT_LUCKME109_03638_XAMOTT_000_019","扣魯圖！你要去？"
+59,"TEXT_LUCKME109_03638_KORUTT_000_020","你們剛才說的話我都聽到了。<hex:02100103>我知道食罪靈聚集到了火山這裡，<hex:02100103>但沒想到最後的靈光衛也在那裡！"
+60,"TEXT_LUCKME109_03638_KORUTT_000_021","一個採掘師，如果能在這種珂露西亞島的，<hex:02100103>或者說全世界的重大事件中派上用場的話，<hex:02100103>我希望這個採掘師就是我自己！"
+61,"TEXT_LUCKME109_03638_XAMOTT_000_022","你的精神十分可嘉，<hex:02100103>不過……"
+62,"TEXT_LUCKME109_03638_XAMOTT_000_023","他叫扣魯圖，是村子裡首屈一指的採掘師，<hex:02100103>對侏儒山脈的地理也十分熟悉。"
+63,"TEXT_LUCKME109_03638_XAMOTT_000_024","但除此之外就……<hex:02100103>尤其是戰鬥方面，跟採掘的時候簡直有天壤之別，<hex:02100103>不管怎麼揮十字鎬，就是打不中！"
+64,"TEXT_LUCKME109_03638_XAMOTT_000_025","如果現在已經進展到只差採掘的階段，<hex:02100103>那他倒是能派上用場……但現在食罪靈還在不斷增加，<hex:02100103>讓他跟你們去的話，能不能走到目的地都很難說啊。"
+65,"TEXT_LUCKME109_03638_KORUTT_000_026","嗚……我的確無法反駁……"
+66,"TEXT_LUCKME109_03638_KORUTT_000_027","但正因為現在處於這樣的危機，我才不能躲在村子裡！<hex:02100103>請帶我一起去吧！"
+67,"TEXT_LUCKME109_03638_Q1_000_000","要說什麼？"
+68,"TEXT_LUCKME109_03638_A1_000_001","我來保護你，你來帶路和採掘"
+69,"TEXT_LUCKME109_03638_A1_000_002","只要你清楚路上會有危險就行"
+70,"TEXT_LUCKME109_03638_KORUTT_000_028","好、好的！<hex:02100103>我一定會盡自己最大的努力！"
+71,"TEXT_LUCKME109_03638_XAMOTT_000_029","既然你這樣說，那我也不攔著了。<hex:02100103>扣魯圖就麻煩你們了。"
+72,"TEXT_LUCKME109_03638_MYSTERYVOICE_000_030","路上很可能會遭到食罪靈的襲擊，<hex:02100103>做好戰鬥的準備再出發吧。"
+73,"TEXT_LUCKME109_03638_MYSTERYVOICE_000_031","請放心，只要有<hex:022903EB0203>在，<hex:02100103>什麼困難都不怕。"
+74,"TEXT_LUCKME109_03638_MYSTERYVOICE_000_040","讓扣魯圖帶我們去侏儒煙囪吧。<hex:02100103>別忘了做好戰鬥的準備。"
+75,"TEXT_LUCKME109_03638_XAMOTT_000_045","扣魯圖就麻煩你們了！<hex:02100103>他真的非常弱！"
+76,"TEXT_LUCKME109_03638_KORUTT_000_050","我們要去的侏儒煙囪在東邊的洞窟裡。<hex:02100103>我來帶路……<hex:02100103>剩下的就靠你們兩位了！"
+77,"TEXT_LUCKME109_03638_KORUTT_000_051","啊！"
+78,"TEXT_LUCKME109_03638_KORUTT_000_052","啊……目的地就在它們身後的洞窟！<hex:02100103>怎怎、怎、怎麼辦？！"
+79,"TEXT_LUCKME109_03638_MYSTERYVOICE_000_053","再讓我見識一下你的精彩表現吧？"
+80,"TEXT_LUCKME109_03638_MYSTERYVOICE_000_060","呼……最後真是好險啊，<hex:02100103>幸好沒事，辛苦你了。"
+81,"TEXT_LUCKME109_03638_KORUTT_000_070","嗚嗚……還好你們倆沒事！"
+82,"TEXT_LUCKME109_03638_KORUTT_000_071","侏儒煙囪就在這個洞窟裡面，<hex:02100103>趁現在看不到食罪靈，<hex:02100103>我、我們快點進去吧！"
+83,"TEXT_LUCKME109_03638_QIB_001_TODO_1","一邊保護扣魯圖一邊向東前進！"
+84,"TEXT_LUCKME109_03638_QIB_001_TODO_2","殲滅食罪靈！"
+85,"TEXT_LUCKME109_03638_KORUTT_BATTLETALK_000_010","那我們就出發吧！<hex:02100103>沿著道路向東前進！"
+86,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_020","看起來不算太近，<hex:02100103>小心食罪靈會在路上襲擊我們。"
+87,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_030","這麼快就被發現了啊……<hex:02100103><hex:022903EB0203>，左邊的食罪靈就拜託你了！"
+88,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_040","盡量不要讓敵人的攻擊打到扣魯圖！"
+89,"TEXT_LUCKME109_03638_KORUTT_BATTLETALK_000_050","厲害……你們都好強啊！"
+90,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_060","我就算了，倒是<hex:02080DE905FF04>她<hex:FF04>他<hex:03>，<hex:02100103>就算遇到比這更強的對手也會勇敢應戰。"
+91,"TEXT_LUCKME109_03638_KORUTT_BATTLETALK_000_070","我真的很想知道<hex:022903EB0203>之前的戰鬥經歷！"
+92,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_080","你聽了之後保證會驚訝連連。<hex:02100103>等事情解決後可以找<hex:022903EB0203>給你講講。"
+93,"TEXT_LUCKME109_03638_KORUTT_BATTLETALK_000_090","嘿嘿嘿……那我就等著聽故事了！"
+94,"TEXT_LUCKME109_03638_KORUTT_BATTLETALK_000_100","嗚哇？！又來了！"
+95,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_110","扣魯圖到我身後來。<hex:02100103><hex:022903EB0203>，上吧！"
+96,"TEXT_LUCKME109_03638_KORUTT_BATTLETALK_000_120","後、後面也有敵人！"
+97,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_130","<hex:022903EB0203>專心攻擊，<hex:02100103>我會保護好扣魯圖的！"
+98,"TEXT_LUCKME109_03638_KORUTT_BATTLETALK_000_140","呼……鬆了一口氣……<hex:02100103>多虧了你們二位精彩的配合！"
+99,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_150","全都是因為<hex:02080DE905FF04>她<hex:FF04>他<hex:03>非常厲害。<hex:02100103>我只能算是看<hex:02080DE905FF04>她<hex:FF04>他<hex:03>的戰鬥看得比較多吧……"
+100,"TEXT_LUCKME109_03638_KORUTT_BATTLETALK_000_160","在我看來，你們兩個就是一對默契的搭檔！"
+101,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_170","……！<hex:02100103>不、不說這些了，我們繼續往前走吧。"
+102,"TEXT_LUCKME109_03638_KORUTT_BATTLETALK_000_180","水晶公……看起來好像有點高興？"
+103,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_190","大概是……因為被你稱讚了，<hex:02100103>我就有點得意忘形吧，白活了這一把年紀。"
+104,"TEXT_LUCKME109_03638_KORUTT_BATTLETALK_000_200","你看起來明明很年輕嘛！<hex:02100103>你們是從什麼時候開始一起並肩作戰的？"
+105,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_210","這就說來話長了……"
+106,"TEXT_LUCKME109_03638_KORUTT_BATTLETALK_000_220","哇哇哇！<hex:02100103>這次來的數量更多了！"
+107,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_230","還是不要停在這裡比較好。<hex:02100103>解決掉這一波之後立即往前走吧！"
+108,"TEXT_LUCKME109_03638_KORUTT_BATTLETALK_000_240","趁、趁現在往這邊走！"
+109,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_250","扣魯圖，還有多久才能走到那個洞窟？"
+110,"TEXT_LUCKME109_03638_KORUTT_BATTLETALK_000_260","翻過這座山坡就快到了！"
+111,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_270","我看到了，就是那個吧！"
+112,"TEXT_LUCKME109_03638_KORUTT_BATTLETALK_000_290","啊哇哇哇哇！<hex:02100103>明明就、就差一點了！"
+113,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_280","敵人更多了……我們已經被包圍了……"
+114,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_310","這種時候最好能用絕招一口氣把敵人殲滅！"
+115,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_300","<hex:022903EB0203>！<hex:02100103>把敵人引到指示的地方！"
+116,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_320","解決了！<hex:02100103>我們一口氣衝過去！"
+117,"TEXT_LUCKME109_03638_KORUTT_BATTLETALK_000_330","好、好的！"
+118,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_340","我來保護扣魯圖！<hex:02100103>你就盡情攻擊吧！"
 119,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_350","（★未使用／削除予定★）"
-120,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_360","<Highlight>ObjectParameter(1)</Highlight>, 코루트의 곁으로 가라!
-공격을 막아야 해……!"
-121,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_370","저 움직임은……!
-큰일이다, 각자 떨어져!"
-122,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_380","소동을 알아채고 거물이 나타났군…….
-해치우자, <Highlight>ObjectParameter(1)</Highlight>!"
-123,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_390","크윽, 몸이……!"
+120,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_360","<hex:022903EB0203>，到扣魯圖身邊接下攻擊！"
+121,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_370","這個動作……<hex:02100103>糟糕，我們快點分散！"
+122,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_380","驚動到了大型食罪靈嗎？<hex:02100103><hex:022903EB0203>，打倒它！"
+123,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_390","嗚、我的身體……"
 124,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_400","（★未使用／削除予定★）"
-125,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_410","그대는 이런 곳에서 끝나지 않을 거다!
-안 그런가, 영웅!"
-126,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_420","코루트를 노리는 녀석부터 먼저 쓰러뜨려라!
-나머지는 내가 맡으마!"
+125,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_410","你不會倒在這種地方的！<hex:02100103>對不對，英雄！"
+126,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_420","優先打倒攻擊扣魯圖的敵人！<hex:02100103>其他的交給我！"

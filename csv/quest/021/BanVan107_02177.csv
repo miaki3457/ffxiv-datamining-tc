@@ -1,15 +1,11 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_BANVAN107_02177_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-나키 섬의 무나바누는 무언가를 구하고 싶은 듯하다."
-1,"TEXT_BANVAN107_02177_SEQ_01","※ 이 퀘스트에는
- '<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정(직업 변경 제한)'<13>FF40024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA09528ECA781EC978520EBB380EAB2BD20ECA09CED959C29FF04EAB080FF04EC9DB4</13> 적용됩니다.
-   퀘스트 수락 시의 직업으로만 퀘스트를 진행할 수 있습니다.
-
-무나바누가 식량을 확보해달라고 부탁했다. 철새 보금자리에서 <Sheet(EventItem,2001931,0)/><13>FF15022811FF0A4576656E744974656DF61E8C0B0103FF04EBA5BCFF04EC9D84</13> 3개 손에 넣자."
-2,"TEXT_BANVAN107_02177_SEQ_02","<Sheet(EventItem,2001931,0)/><13>FF15022811FF0A4576656E744974656DF61E8C0B0103FF04EBA5BCFF04EC9D84</13> 3개 손에 넣었다. 나키 섬에 있는 '무나바누'에게 <Sheet(EventItem,2001931,0)/><13>FF15022811FF0A4576656E744974656DF61E8C0B0103FF04EBA5BCFF04EC9D84</13> 가져다주자."
-3,"TEXT_BANVAN107_02177_SEQ_03","무나바누에게 <Sheet(EventItem,2001931,0)/><13>FF15022811FF0A4576656E744974656DF61E8C0B0103FF04EBA5BCFF04EC9D84</13> 건넸다. <Sheet(EventItem,2001931,0)/><13>FF15022811FF0A4576656E744974656DF61E8C0B0103FF04EB8A94FF04EC9D80</13> 중요한 식량이지만, 안즈가 워낙 사나워 일부 전사만이 얻을 수 있다고 한다."
+0,"TEXT_BANVAN107_02177_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整（限定職業）<hex:0249020103><hex:0248020103><hex:02100103>西風島的穆納瓦努想讓冒險者幫忙取些東西回來。"
+1,"TEXT_BANVAN107_02177_SEQ_01","※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整（限定職業）任務，<hex:02100103>　需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>穆納瓦努委託冒險者去籌備食物。在候鳥雲巢獲取3個<hex:022811FF0A>EventItem<hex:F61E8C0B0103>。"
+2,"TEXT_BANVAN107_02177_SEQ_02","獲得了3個<hex:022811FF0A>EventItem<hex:F61E8C0B0103>。將<hex:022811FF0A>EventItem<hex:F61E8C0B0103>交給西風島的穆納瓦努。"
+3,"TEXT_BANVAN107_02177_SEQ_03","將<hex:022811FF0A>EventItem<hex:F61E8C0B0103>交給了穆納瓦努。雖然<hex:022811FF0A>EventItem<hex:F61E8C0B0103>是非常重要的食材，可卻因安祖非常凶暴，所以能夠獲取<hex:022811FF0A>EventItem<hex:F61E8C0B0103>的只有少數人。"
 4,"TEXT_BANVAN107_02177_SEQ_04",""
 5,"TEXT_BANVAN107_02177_SEQ_05",""
 6,"TEXT_BANVAN107_02177_SEQ_06",""
@@ -30,8 +26,8 @@ int32,str,str
 21,"TEXT_BANVAN107_02177_SEQ_21",""
 22,"TEXT_BANVAN107_02177_SEQ_22",""
 23,"TEXT_BANVAN107_02177_SEQ_23",""
-24,"TEXT_BANVAN107_02177_TODO_00","<Sheet(EventItem,2001931,0)/> 입수"
-25,"TEXT_BANVAN107_02177_TODO_01","무나바누에게 <Sheet(EventItem,2001931,0)/> 전달"
+24,"TEXT_BANVAN107_02177_TODO_00","獲取<hex:022811FF0A>EventItem<hex:F61E8C0B0103>"
+25,"TEXT_BANVAN107_02177_TODO_01","將<hex:022811FF0A>EventItem<hex:F61E8C0B0103>交給穆納瓦努"
 26,"TEXT_BANVAN107_02177_TODO_02",""
 27,"TEXT_BANVAN107_02177_TODO_03",""
 28,"TEXT_BANVAN107_02177_TODO_04",""
@@ -54,20 +50,9 @@ int32,str,str
 45,"TEXT_BANVAN107_02177_TODO_21",""
 46,"TEXT_BANVAN107_02177_TODO_22",""
 47,"TEXT_BANVAN107_02177_TODO_23",""
-48,"TEXT_BANVAN107_02177_MUNAVANU_000_000","<Highlight>ObjectParameter(1)</Highlight> 님, 식량 확보를 좀 도와주시겠습니까?
-마침, 마침, 안즈가 알을 낳는 시기이니
-놈들의 둥지에서 알을 3개만 가져와 주시면 될 것 같습니다."
-49,"TEXT_BANVAN107_02177_MUNAVANU_000_001","안즈는 인간들이 '철새 보금자리'라 부르는 장소에
-둥지를 틀었을 겁니다…….
-씨앗을 나르는 바람처럼 가볍게 다녀오시기 바랍니다."
-50,"TEXT_BANVAN107_02177_MUNAVANU_000_010","<Sheet(EventItem,2001931,0)/><13>FF15022811FF0A4576656E744974656DF61E8C0B0103FF04EBA5BCFF04EC9D84</13> 3개
-가져오셨습니까?"
-51,"TEXT_BANVAN107_02177_MUNAVANU_000_011","맙소사, 그렇게 사나운 안즈의 둥지에서
-이렇게 빨리 알을 가져오시다니!
-역시 대단하십니다, <Highlight>ObjectParameter(1)</Highlight> 님!"
-52,"TEXT_BANVAN107_02177_MUNAVANU_000_012","안즈의 알은 맛이 매우 좋아서
-그냥 먹어도 좋고, 술을 담가도 좋지요.
-저희에게는 빛나는 태양처럼 중요한 식재료입니다."
-53,"TEXT_BANVAN107_02177_MUNAVANU_000_013","하지만, 하지만, 안즈가 워낙 사나워서
-손꼽히는 전사만이 알을 손에 넣을 수 있지요…….
-당신이 도와주셔서 단비에 젖은 초목처럼 다행이군요."
+48,"TEXT_BANVAN107_02177_MUNAVANU_000_000","<hex:022903EB0203>，我想請你幫忙籌備一些食物啊。<hex:02100103>正好、正好現在是安祖的產卵期，<hex:02100103>能否請你去它們的巢穴取回一些蛋呢？3個左右就夠了。"
+49,"TEXT_BANVAN107_02177_MUNAVANU_000_001","安祖應該在人類所說的候鳥雲巢築有巢穴……<hex:02100103>請你像運送種子的微風一般，輕柔地把蛋運回來。"
+50,"TEXT_BANVAN107_02177_MUNAVANU_000_010","你拿到<hex:022811FF0A>EventItem<hex:F61E8C0B0103>了嗎？<hex:02100103>有3個左右就夠了。"
+51,"TEXT_BANVAN107_02177_MUNAVANU_000_011","竟然這麼快就從凶暴的安祖那裡取回了蛋，<hex:02100103>不愧是<hex:022903EB0203>！"
+52,"TEXT_BANVAN107_02177_MUNAVANU_000_012","安祖的蛋是非常好吃的食物，<hex:02100103>無論是生吃，還是用來釀酒，都非常美味。<hex:02100103>對我們來說，可以算是如同太陽般的重要食材了。"
+53,"TEXT_BANVAN107_02177_MUNAVANU_000_013","只是、只是，安祖過於凶暴，<hex:02100103>所以能夠平安取得安祖蛋的只有少數人……<hex:02100103>我們能得到你的幫助，真是好像受到春雨祝福的草木一樣幸福。"

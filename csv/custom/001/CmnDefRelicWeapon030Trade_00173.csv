@@ -1,73 +1,33 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_000","'천공의 두루마리'에 주입한 마테리아의 힘을
-내 비술로 '고대의 무기'에 담아주겠네.
-……어서 이리 내보게."
-1,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_Q1_000_000","강화할 '고대의 무기: 아니무스'를 선택하십시오"
-2,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_A1_000_010","<Sheet(Item,IntegerParameter(1),0)/> 강화"
-3,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_A1_000_020","취소"
-4,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_050","'고대의 무기'와 마테리아 기술의 융합이라…… 정말 대단하군.
-'천공의 두루마리'에 힘을 충분히 주입했으면
-자네가 가진 '고대의 무기'를 더욱 높은 경지로 끌어올려 주겠네."
-5,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_SYSTEM_000_055","'고대의 무기: 아니무스'를 강화하려면
-각 무기에 맞는 '천공의 두루마리'에 마테리아를 충분히 주입해서
-무기와 함께 '잘잔'에게 건네십시오."
-6,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_SYSTEM_000_056","'천공의 두루마리'는
-봉화 언덕에 있는 '우베르탕'에게서 얻을 수 있습니다."
-7,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_SYSTEM_100_056","'고대의 무기: 아니무스'를 강화하면
-'고대의 무기: 아니무스'가 가지고 있던
-'힘' '민첩성' '활력' '지능' '정신력'의 각 능력치와"
-8,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_SYSTEM_101_056","'타이러스 아니무스', '자나디서 아니무스'가
-가지고 있던 '직격' 이외의 능력치는
-'천공의 두루마리'에 주입된 능력치로 대체됩니다."
-9,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_SYSTEM_102_056","대체되지 않는 능력치는 강화와 더불어
-'아이템 레벨 110'에 적합한 수치로 상승합니다."
-10,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_080","음……? 자네가 강화하려는 '고대의 무기'가 안 보이는데?
-자, 어서 보여주게."
-11,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_SYSTEM_000_085","<Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 강화하려면
-'장비함' 또는 '소지품'에 들어있는 상태로
-잘잔에게 말을 걸어야 합니다."
-12,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_100","'고대의 무기'를 장비하고 있나 보군.
-잘 살펴볼 수 있도록 잠깐 장비를 벗어주지 않겠나?"
-13,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_130","음……? 그 무기에 맞게 그려진
-'천공의 두루마리'가 안 보이는데?
-자, 어서 보여주게."
-14,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_SYSTEM_000_135","<Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EAB080FF04EC9DB4</13> 없습니다.
-'천공의 두루마리'는
-봉화 언덕에 있는 '우베르탕'에게서 얻을 수 있습니다."
-15,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_140","흠, 이건 특별한 '고대의 무기'일세.
-……이런 걸 두 개나 가질 순 없다네."
-16,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_SYSTEM_000_145","이미 <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 가지고 있습니다."
-17,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_145","이런, 소지품이 가득 찬 모양이군.
-짐을 정리하고 다시 오게나."
-18,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_150","흠…… 그 무기에 맞는 '천공의 두루마리'는
-아직 빛이 충만하지 않은 것 같네만.
-새로운 '고대의 무기'가 갖게 될 힘을 확인하고 싶은 겐가?"
-19,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_151","지금 자네가 가지고 있는 '천공의 두루마리'와
-이 '고대의 무기'를 합치면
-이러한 힘을 지닌 무기가 될 것 같군."
-20,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_160","'천공의 두루마리'에 마테리아의 힘이 가득 차면
-그때 다시 내게 가져오게나."
-21,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_SYSTEM_000_165","마테리아를 주입한 횟수가 부족합니다.
-<Sheet(Item,IntegerParameter(1),0)/>에 마테리아의 힘을 충분히 주입한 다음
-'고대의 무기'와 함께 '잘잔'에게 건네십시오."
-22,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_170","대단하군! 정말 대단해, 동지여!
-이 '천공의 두루마리'는 마치 밤하늘에 빛나는 별처럼
-눈부시게 반짝이는군!"
-23,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_171","자네가 가진 '고대의 무기'는 이러한 힘을 지니게 될 걸세!
-결심이 섰으면 이대로 강화 작업에 들어가겠네!"
-24,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_200","자네가 가진 '고대의 무기'를 더욱 높은 경지로 끌어올려 주겠네.
-나머지는 내 비술로 마무리하지…….
-고대의 무기 '조디악 웨폰'의 위대한 힘을 여기에!"
-25,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_201","'고대의 무기'여, 하늘의 별처럼 빛나는 수많은 마음을 받아들여
-그들의 기억과 힘을 영혼에 깊이 새겨라!
-……자, 다 됐네!"
-26,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_202","마음의 힘이 '고대의 무기'에 빛을 더했다네……!
-이것이 바로 자네의 새로운 무기……
-<Sheet(Item,IntegerParameter(1),0)/>일세!"
-27,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_SYSTEM_000_220","'고대의 무기: 아니무스'를 강화하여
-'고대의 무기: 노우스'를 손에 넣었습니다!"
-28,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_SYSTEM_000_221","다른 '고대의 무기: 아니무스'를 강화하려면
-다시 '천공의 두루마리'에 마테리아의 힘을 주입해
-'고대의 무기'와 함께 '잘잔'에게 건네십시오."
+0,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_000","讓我用秘術把嵌寫在«天球書卷»中的魔晶石之力，<hex:02100103>注入到上古武器吧。<hex:02100103>……你想要強化哪把上古武器呢？"
+1,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_Q1_000_000","請選擇想要強化的「上古武器·魂靈」"
+2,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_A1_000_010","強化<hex:02280AFF05>Item<hex:E8020103>"
+3,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_A1_000_020","取消"
+4,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_050","魔晶石的技術與上古武器的融合……非常值得一試。<hex:02100103>如果你的«天球書卷»中已經嵌寫了足夠的力量，<hex:02100103>那麼我會讓你的上古武器變得更加強大。"
+5,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_SYSTEM_000_055","充分嵌寫和武器對應的«天球書卷»，<hex:02100103>然後將其與武器一併交給加爾贊，便可強化「上古武器·魂靈」。"
+6,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_SYSTEM_000_056","«天球書卷»可以從狼煙丘的于貝爾坦處獲得。"
+7,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_SYSTEM_100_056","強化「上古武器·魂靈」時，<hex:02100103>「上古武器·魂靈」上的各個屬性，<hex:02100103>都會被«天球書卷»上嵌寫的屬性替換。"
+8,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_SYSTEM_101_056","其中「力量」、「靈巧」、「耐力」、「智力」、「精神」，<hex:02100103>還有「酒神杖·魂靈」與「萬辭全書·魂靈」上的「直擊」除外。"
+9,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_SYSTEM_102_056","沒有被替換的屬性，會隨著裝備的強化，<hex:02100103>提升到與「品級110級」相符的數值。"
+10,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_080","咦……我沒看到你想要強化的上古武器啊。<hex:02100103>快拿給我看一下。"
+11,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_SYSTEM_000_085","強化<hex:02280AFF05>Item<hex:E8020103>的時候，<hex:02100103>需要把武器放在兵裝庫或背包中，再和加爾贊對話。"
+12,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_100","你好像裝備著上古武器。<hex:02100103>為了讓我看清楚點，能不能先卸下來？"
+13,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_130","咦……我沒看到你為強化武器而繪製的«天球書卷»啊。<hex:02100103>快拿給我看一下。"
+14,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_SYSTEM_000_135","目前沒有<hex:02280AFF05>Item<hex:E8020103>。<hex:02100103>«天球書卷»可以從狼煙丘的于貝爾坦處獲得。"
+15,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_140","唔，上古武器是一種特殊的武器。<hex:02100103>……不能持有兩把。"
+16,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_SYSTEM_000_145","目前已有<hex:02280AFF05>Item<hex:E8020103>。"
+17,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_145","哎呀，你的背包已經滿了。<hex:02100103>還是整理一下再來吧。"
+18,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_150","嗯……這把武器的«天球書卷»好像還未被光填滿。<hex:02100103>你來是想確認上古武器的新力量？"
+19,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_151","現在，用你持有的«天球書卷»來強化上古武器的話，<hex:02100103>可以讓武器獲得這樣的力量。"
+20,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_160","等«天球書卷»充滿魔晶石之力時，<hex:02100103>再帶著書來找我吧。"
+21,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_SYSTEM_000_165","魔晶石的嵌寫次數不足。<hex:02100103>將<hex:02280AFF05>Item<hex:E8020103>充分嵌寫魔晶石之力後，<hex:02100103>再和上古武器一併交給加爾贊。"
+22,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_170","太棒了！太棒了！！我的朋友！<hex:02100103>這本«天球書卷»猶如滿天繁星，<hex:02100103>閃爍著耀眼的光輝！"
+23,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_171","你的上古武器將會擁有«天球書卷»中的能力！<hex:02100103>如果你下定決心了，我馬上就開始進行強化！"
+24,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_200","那麼，讓你的上古武器變得更加強大吧。<hex:02100103>接下來就交給我的秘術吧……<hex:02100103>黃道武器的偉大力量降臨於此吧！"
+25,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_201","上古武器啊，承載這猶如繁星閃耀的諸多思念吧！<hex:02100103>將這份記憶與力量刻入你的靈魂吧！<hex:02100103>……好了，收下吧。"
+26,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_202","上古武器被思念之力所強化……<hex:02100103>這就是你的新力量<hex:02280AFF05>Item<hex:E8020103>！"
+27,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_SYSTEM_000_220","成功將「上古武器·魂靈」強化為「上古武器·新星」！"
+28,"TEXT_CMNDEFRELICWEAPON030TRADE_00173_SYSTEM_000_221","如果有別的需要強化的「上古武器·魂靈」的話，<hex:02100103>需要再次向«天球書卷»嵌寫魔晶石之力，<hex:02100103>與上古武器一併交給加爾贊。"

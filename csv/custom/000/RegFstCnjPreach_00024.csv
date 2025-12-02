@@ -1,31 +1,18 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_1","모험가여, 숲과 정령의 나라 그리다니아에 오신 걸 환영합니다."
-1,"TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_2","보아하니 정령에 관심이 있으신 것 같군요…….
-그렇다면 어떤 이야기를 해드릴까요?"
-2,"TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_3","저는 '도사'입니다.
-도사란 환술사 중에서도
-정령의 소리를 들을 수 있는 자를 말하지요."
-3,"TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_4","정령의 말씀에 따라 주민을 이끌고
-그리다니아와 숲의 조화를 지키는 것이
-도사인 저의 사명입니다."
-4,"TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_5","정령이란 태곳적부터 검은장막 숲을 다스려온 위대한 존재입니다.
-숲의 조화가 깨지지 않도록 모든 생명을 지켜보며
-올바른 길을 알려주시지요."
-5,"TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_6","우리 그리다니아 사람들은
-오랜 약속에 따라 정령의 허락을 구하고
-이 평온한 숲에 도시를 세웠습니다."
-6,"TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_7","하지만 제7재해로 정령들은 크게 힘을 잃었죠…….
-이제는 우리가 숲을 지키기 위해
-온 힘을 다해야 할 차례입니다."
-7,"TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_8","명심하세요……. 지금은 참고 견뎌야 할 때입니다.
-괴롭고 힘들수록 마음을 단단히 먹으십시오."
-8,"TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_9","정령은 언제나 우리와 함께 합니다.
-우리의 지도자 카느 에 센나 님이 하신 말씀을 믿으며
-각자 맡은 의무를 다하면 됩니다."
-9,"TEXT_REGFSTCNJPREACH_00024_Q1_000_1","무엇을 물어보시겠습니까?"
-10,"TEXT_REGFSTCNJPREACH_00024_A1_000_1","도사가 하는 일에 대해서 물어본다"
-11,"TEXT_REGFSTCNJPREACH_00024_A1_000_2","정령에 대해서 물어본다"
-12,"TEXT_REGFSTCNJPREACH_00024_A1_000_3","가르침을 청한다"
-13,"TEXT_REGFSTCNJPREACH_00024_A1_000_4","취소"
+0,"TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_1","冒險者，歡迎來到森林與聖靈的國度——格里達尼亞。"
+1,"TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_2","你好像對聖靈挺感興趣的……<hex:02100103>你想我從何說起呢？"
+2,"TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_3","我是一名「法師」。<hex:02100103>法師是幻術士當中可以傾聽聖靈之聲的人。"
+3,"TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_4","遵循聖靈的指引，引導人民，<hex:02100103>為格里達尼亞與森林帶來和諧，<hex:02100103>這就是我們法師的職責。"
+4,"TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_5","聖靈在太古時期就居住於黑衣森林，其存在堪稱偉大。<hex:02100103>它們維護森林的和諧，守護一切生命，維持萬象。"
+5,"TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_6","我們格里達尼亞的人民，<hex:02100103>遵循古老的盟約，在聖靈的許可下，<hex:02100103>於這片母親森林中建造城市，生活至今。"
+6,"TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_7","但是，聖靈們受到先前第七靈災的影響，<hex:02100103>失去了大部分力量……<hex:02100103>所以，我們現在必須傾盡全力保護森林。"
+7,"TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_8","你知道嗎……現在我們還處於艱難時期。<hex:02100103>正是面對如此困境，我們就更要有一顆強大的心。"
+8,"TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_9","聖靈與我們同在。<hex:02100103>堅信我們的領袖——嘉恩·艾·神納大人，<hex:02100103>努力完成自己應盡的使命。"
+9,"TEXT_REGFSTCNJPREACH_00024_Q1_000_1","想了解什麼？"
+10,"TEXT_REGFSTCNJPREACH_00024_A1_000_1","你是做什麼的？"
+11,"TEXT_REGFSTCNJPREACH_00024_A1_000_2","什麼是聖靈？"
+12,"TEXT_REGFSTCNJPREACH_00024_A1_000_3","請教"
+13,"TEXT_REGFSTCNJPREACH_00024_A1_000_4","取消"

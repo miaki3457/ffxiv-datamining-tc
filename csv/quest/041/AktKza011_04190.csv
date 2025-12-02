@@ -1,8 +1,8 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_AKTKZA011_04190_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-아르케이온 보관원에 있는 보라그친은 도와줄 사람을 찾는 듯하다."
+0,"TEXT_AKTKZA011_04190_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整<hex:0249020103><hex:0248020103><hex:02100103>公堂保管院的孛拉格琴正在尋找願意幫忙的人。"
 1,"TEXT_AKTKZA011_04190_SEQ_01",""
 2,"TEXT_AKTKZA011_04190_SEQ_02",""
 3,"TEXT_AKTKZA011_04190_SEQ_03",""
@@ -26,8 +26,8 @@ int32,str,str
 21,"TEXT_AKTKZA011_04190_SEQ_21",""
 22,"TEXT_AKTKZA011_04190_SEQ_22",""
 23,"TEXT_AKTKZA011_04190_SEQ_23",""
-24,"TEXT_AKTKZA011_04190_TODO_00","<Sheet(EObj,2011808,0)/>에 <Sheet(EventItem,2003119,0)/> 설치"
-25,"TEXT_AKTKZA011_04190_TODO_01","보라그친에게 보고"
+24,"TEXT_AKTKZA011_04190_TODO_00","將<hex:022811FF0A>EventItem<hex:F61E90AF0103>設定在<hex:02280CFF05>EObj<hex:F61EB2A00103>"
+25,"TEXT_AKTKZA011_04190_TODO_01","向孛拉格琴報告"
 26,"TEXT_AKTKZA011_04190_TODO_02",""
 27,"TEXT_AKTKZA011_04190_TODO_03",""
 28,"TEXT_AKTKZA011_04190_TODO_04",""
@@ -50,28 +50,12 @@ int32,str,str
 45,"TEXT_AKTKZA011_04190_TODO_21",""
 46,"TEXT_AKTKZA011_04190_TODO_22",""
 47,"TEXT_AKTKZA011_04190_TODO_23",""
-48,"TEXT_AKTKZA011_04190_BORAGCHIN_000_000","척 보기에도 샬레이안인은 아니고
-풍채를 보면 영락없이 실력 뛰어난 모험가…….
-그야말로 이상적이야!"
-49,"TEXT_AKTKZA011_04190_BORAGCHIN_000_001","앗, 실례했습니다.
-저는 이 일대 생물을 관리하는 일을 하고 있습니다만
-먹이 주는 걸 도와줄 분을 찾고 있었거든요."
-50,"TEXT_AKTKZA011_04190_BORAGCHIN_000_002","왜냐면, 매번 제가 가면 냄새가 남아서
-생물들에게 스트레스를 주게 되더라고요."
-51,"TEXT_AKTKZA011_04190_BORAGCHIN_000_003","그래서 생물들을 자극하지 않기 위해
-이렇게 종종 외부인들의 도움을 받고 있죠.
-보수는 드릴 테니까 어떠세요?"
-52,"TEXT_AKTKZA011_04190_BORAGCHIN_000_004","고맙습니다!
-그럼 지도에 표기한 <Sheet(EObj,2011808,0)/><13>FF1002280CFF05454F626AF61EB2A00103FF04EBA5BCFF04EC9D84</13> 돌면서
-'<Sheet(EventItem,2003119,0)/>'<13>FF15022811FF0A4576656E744974656DF61E90AF0103FF04EBA5BCFF04EC9D84</13> 놓고 와 주세요!"
-53,"TEXT_AKTKZA011_04190_BORAGCHIN_000_005","지도에 표기한 <Sheet(EObj,2011808,0)/><13>FF1002280CFF05454F626AF61EB2A00103FF04EBA5BCFF04EC9D84</13> 돌면서
-'<Sheet(EventItem,2003119,0)/>'<13>FF15022811FF0A4576656E744974656DF61E90AF0103FF04EBA5BCFF04EC9D84</13> 놓고 와 주세요!"
-54,"TEXT_AKTKZA011_04190_BORAGCHIN_000_010","수고 많으셨어요!
-육식 동물이 어슬렁대는 장소는
-모험가님 같은 분에게 부탁하는 수밖에 없어요…… 감사합니다."
-55,"TEXT_AKTKZA011_04190_BORAGCHIN_000_011","대개는 이렇게 먹이를 주지 않고
-육식 동물들이 자유롭게 사냥하게 한답니다.
-다만, 이곳 생태계는 인공적이라서……."
-56,"TEXT_AKTKZA011_04190_BORAGCHIN_000_012","이렇게 때때로 개입하지 않으면
-사냥감이 없어져서 생태계 균형이 무너지고 말아요.
-아무튼, 도와주셔서 정말 감사합니다."
+48,"TEXT_AKTKZA011_04190_BORAGCHIN_000_000","一看就知道不是薩雷安人，<hex:02100103>而且還頗有本領高強的冒險者的風範……<hex:02100103>簡直不能太理想！"
+49,"TEXT_AKTKZA011_04190_BORAGCHIN_000_001","啊，不好意思。<hex:02100103>我負責管理這一帶的生物，<hex:02100103>正在尋找願意幫忙餵食的人。"
+50,"TEXT_AKTKZA011_04190_BORAGCHIN_000_002","這是因為我經常去的話會留下氣味，<hex:02100103>這樣會對生物們造成壓力。"
+51,"TEXT_AKTKZA011_04190_BORAGCHIN_000_003","所以為了不給生物們造成刺激，<hex:02100103>我時常會像這樣尋求外部人員的幫助。<hex:02100103>我會提供報酬的，你願意幫忙嗎？"
+52,"TEXT_AKTKZA011_04190_BORAGCHIN_000_004","非常感謝！<hex:02100103>那麼請前往地圖上標記的<hex:02280CFF05>EObj<hex:F61EB2A00103>，<hex:02100103>將這個<hex:022811FF0A>EventItem<hex:F61E90AF0103>設定完之後再回來吧！"
+53,"TEXT_AKTKZA011_04190_BORAGCHIN_000_005","請前往地圖上標記的<hex:02280CFF05>EObj<hex:F61EB2A00103>，<hex:02100103>將<hex:022811FF0A>EventItem<hex:F61E90AF0103>設定完之後再回來吧！"
+54,"TEXT_AKTKZA011_04190_BORAGCHIN_000_010","辛苦了！<hex:02100103>因為那裡是肉食野獸出沒的地方，<hex:02100103>所以只能拜託冒險者……真是幫大忙了。"
+55,"TEXT_AKTKZA011_04190_BORAGCHIN_000_011","平時即使不像這樣餵食，<hex:02100103>也會讓肉食野獸們自由獵食。<hex:02100103>不過這裡的生態系統是人工製成的……"
+56,"TEXT_AKTKZA011_04190_BORAGCHIN_000_012","如果不像這樣時常介入的話，<hex:02100103>會導致獵物被吃光，生態系統失去平衡。<hex:02100103>很感謝你此次的幫助。"

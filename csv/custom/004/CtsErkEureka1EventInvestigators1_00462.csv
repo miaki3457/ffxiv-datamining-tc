@@ -1,272 +1,127 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_000","후원자에게 보고할 기록은 내가 정리하고 있어.
-너의 활약도 빠짐없이 적고 있으니
-걱정하지 마."
-1,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_010","아네모스 지대를 조사하느라 수고가 많구나!
-네 활약은 빠짐없이 기록했어.
-확인해볼래?"
-2,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_100_010","파고스 지대를 조사하느라 힘들었지?
-네 활약은 빠짐없이 기록했어.
-확인해볼래?"
-3,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_110_010","이 에우레카 조사도 드디어 대단원이구나.
-지금까지의 활약은 빠짐없이 기록해 뒀어.
-확인해볼래?"
-4,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_120_010","창조신 에우레카를 봉인해서 정말 다행이야!
-지금까지의 활약은 빠짐없이 기록해 뒀어.
-확인해볼래?"
-5,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_130_010","창조신 에우레카는 토벌했지만…….
-지금까지의 활약은 빠짐없이 기록해 뒀어.
-확인해볼래?"
-6,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_140_010","창조신을 토벌했으니 이 섬의 조사는 완전 종료야!
-지금까지의 활약은 빠짐없이 기록해 뒀어.
-확인해볼래?"
-7,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_150_010","에지카 님이 돌아왔으니 이 섬의 조사는 완전 종료야!
-지금까지의 활약은 빠짐없이 기록해 뒀어.
-확인해볼래?"
-8,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_Q1_000_000","어느 기록을 확인하시겠습니까?"
-9,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A1_000_001","아네모스 지대 조사기록 I"
-10,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A1_000_002","아네모스 지대 조사기록 II"
-11,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A1_000_003","아네모스 지대 조사기록 III"
-12,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A1_100_001","파고스 지대 조사기록 I"
-13,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A1_100_002","파고스 지대 조사기록 II"
-14,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A1_100_003","파고스 지대 조사기록 III"
-15,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A2_000_001","피로스 지대 조사기록 I"
-16,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A2_000_002","피로스 지대 조사기록 II"
-17,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A2_000_003","피로스 지대 조사기록 III"
-18,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A1_000_004","취소"
-19,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_Q3_000_000","어느 기록을 확인하시겠습니까?"
-20,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A3_000_001","아네모스 지대 조사 기록"
-21,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A3_000_002","파고스 지대 조사 기록"
-22,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A3_000_003","피로스 지대 조사 기록"
-23,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A3_000_004","히다토스 지대 조사 기록"
-24,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A3_000_005","발데시온 무기고 조사 기록"
-25,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A3_000_006","취소"
-26,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_Q4_000_000","어느 기록을 확인하시겠습니까?"
-27,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A4_000_001","아네모스 지대 조사기록 I"
-28,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A4_000_002","아네모스 지대 조사기록 II"
-29,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A4_000_003","아네모스 지대 조사기록 III"
-30,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A4_000_004","돌아가기"
-31,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_Q5_000_000","어느 기록을 확인하시겠습니까?"
-32,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A5_000_001","파고스 지대 조사 기록 I"
-33,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A5_000_002","파고스 지대 조사 기록 II"
-34,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A5_000_003","파고스 지대 조사 기록 III"
-35,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A5_000_004","돌아가기"
-36,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_Q6_000_000","어느 기록을 확인하시겠습니까?"
-37,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A6_000_001","피로스 지대 조사 기록 I"
-38,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A6_000_002","피로스 지대 조사 기록 II"
-39,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A6_000_003","피로스 지대 조사 기록 III"
-40,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A6_000_004","돌아가기"
-41,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_Q7_000_000","어느 기록을 확인하시겠습니까?"
-42,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A7_000_001","히다토스 지대 조사 기록 I"
-43,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A7_000_002","히다토스 지대 조사 기록 II"
-44,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A7_000_003","히다토스 지대 조사 기록 III"
-45,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A7_000_004","돌아가기"
-46,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_150","(-발데시온 무기고 조사 기록-)본부탑 상층에서는 위원장 일행에 의해 봉인된 줄 알았던
-창조신의 무기가 활성화되어 반 야만신 상태로 도사리고 있었다."
-47,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_151","(-발데시온 무기고 조사 기록-)그 위험성을 인지하고 있었던 우리는
-지맥의 뒤틀림을 이용해 본부탑 상층에 침입하는 방법을 고안했고
-모험가 일행의 협력을 얻어 그 전부를 파괴하는 데 성공했다."
-48,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_160","(-발데시온 무기고 조사 기록-)또한 이 창조신 무기를 파괴한 것을 계기로
-창조신 에우레카 역시 안전하게 토벌할 수 있다는 것이
-쿠루루 씨와 에지카 츤지카 씨의 조사를 통해 밝혀졌다."
-49,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_161","(-발데시온 무기고 조사 기록-)창조신 토벌은 에지카 츤지카 씨에 의해 신속히 실행되었고
-별다른 문제없이 무사히 성공했다."
-50,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_162","(-발데시온 무기고 조사 기록-)이렇듯 '금단의 땅 에우레카'라 이름 붙여진 이 섬은
-발 섬 시대부터 이어 내려온 창조신과의 악연에 종지부를 찍고,
-우리는 관련 조사를 완전히 끝냈다."
-51,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_170","(-발데시온 무기고 조사 기록-)또한, 사망한 줄 알았던 에지카 츤지카 씨가
-사실은 살아 있었고, 창조신의 무기를 전부 파괴하면
-그를 구조할 수 있다는 사실이 쿠루루 씨의 조사를 통해 밝혀졌다."
-52,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_171","(-발데시온 무기고 조사 기록-)쿠루루 씨는 본부탑 상층에서 돌아온 모험가 앞에서
-에지카 츤지카 씨를 구조하기 위한 술식을 사용하고,
-성공적으로 술식이 작동해 에지카 츤지카 씨는 무사히 귀환한다."
-53,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_172","(-발데시온 무기고 조사 기록-)이렇게 창조신 에우레카와의 악연에 종지부를 찍고
-우리 조사대는 '금단의 섬 에우레카' 탐색을 완전히 끝냈다."
-54,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_020","(-아네모스 지대 조사기록 I-)우리는 동부 알데나드 상회 및 로웨나 상회에서 출자를 받아
-에우레카라 불리는 새로 발견된 섬을 조사 및 탐색하기 위해
-쿠가네에서 남쪽에 있는 유리양으로 향했다."
-55,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_021","(-아네모스 지대 조사기록 I-)얼마간 항해한 후 에우레카에 상륙한 우리를 기다리고 있던 것은
-사전에 얻은 정보대로 속성의 힘이 크게 흐트러진
-범상치 않은 환경이었다."
-56,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_022","(-아네모스 지대 조사기록 I-)그런 섬의 모습을 보고 쿠루루 씨와 에지카 츤지카 씨는
-이곳 에우레카가 발데시온 위원회의 본부가 있었던
-북해의 '발 섬'이라고 결론을 내린다."
-57,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_023","(-아네모스 지대 조사기록 I-)발 섬은 알테마급 마법 공격을 받아 소멸한 것으로 알려져 있다.
-그 섬이 왜 머나먼 동방의 바다에 출현한 것일까?"
-58,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_024","(-아네모스 지대 조사기록 I-)단독으로 조사에 나선 에지카 츤지카 씨를 제외한 나머지 조사대는
-발 섬의 수수께끼를 풀고 주민의 안부를 확인하기 위해
-마법 장벽으로 보호된 본부탑을 향하기로 했다."
-59,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_030","(-아네모스 지대 조사기록 II-)본부탑으로 가려면 섬 내 에테라이트를 사용해야 한다.
-하지만 에테라이트는 작동하지 않아
-우리는 먼저 그것을 복구하기로 했다."
-60,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_031","(-아네모스 지대 조사기록 II-)우선 지맥을 조사한 쿠루루 씨는
-에테르학적으로 있을 수 없는 곳에 결절점이 있다는 걸 발견하고
-해당 지점의 현지 조사를 모험가에게 의뢰한다."
-61,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_032","(-아네모스 지대 조사기록 II-)조사 도중 모험가는 비정상적인 결절점에서 '마정석',
-즉 순도가 높으면서 균등한 정벽을 가진 에테르 결정을 발견한다.
-그리고 그것을 회수하면 지맥이 안정화된다는 사실이 확인되었다."
-62,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_033","(-아네모스 지대 조사기록 II-)비정상적인 결절점이 마정석을 결정화한 것일까.
-아니면 마정석이 결정화되어 비정상적인 결절점이 생긴 것일까.
-현시점에서는 그 원인까지는 알 수 없다."
-63,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_034","(-아네모스 지대 조사기록 II-)하지만 마정석과 지맥의 상관관계가 밝혀진 이상,
-지맥 안정화를 위해 지속적으로 마정석을 회수해야 한다.
-이렇게 앞으로의 방침이 정해졌다."
-64,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_040","(-아네모스 지대 조사기록 III-)아네모스 지대에 존재하는 마정석을 거의 다 회수하여
-주변의 지맥을 안정시킨 우리는
-다른 지역으로 순간이동을 시도하기로 했다."
-65,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_041","(-아네모스 지대 조사기록 III-)하지만 지역 내 순간이동을 관장하는 중계 에테라이트가
-정지되어 있어 강제로 작동시키기로 했다.
-결과적으로 이 시도는 성공했지만, 여기서 기묘한 현상이 일어난다."
-66,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_042","(-아네모스 지대 조사기록 III-)강제 작동을 시킨 모험가가 작업 중 수수께끼의 남자를 만난 것이다.
-<If(PlayerParameter(4))>그녀<Else/>그</If>가 가진 능력, '초월하는 힘'이 발동하여
-과거의 한 장면을 보았다고 한다."
-67,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_043","(-아네모스 지대 조사기록 III-)모험가가 본 장면 속에는
-인랑족 한 명을 포함한 4명의 남자들이 등장해
-무언가를 발 섬에 봉인하자는 의논을 하고 있었다고 한다."
-68,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_044","(-아네모스 지대 조사기록 III-)이 말을 들은 쿠루루 씨는 4명 중 한 명이
-자신의 양부이자 발데시온 위원회의 회장직을 맡았던 인물,
-갈러프 발데시온 씨일 가능성이 높다고 판단했다."
-69,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_045","(-아네모스 지대 조사기록 III-)그러나 봉인에 대해서는 쿠루루 씨도 짐작이 안 간다고 한다.
-깊어지는 수수께끼를 풀기 위해, 중계 에테라이트를 서둘러 복구시켜
-다른 지역으로 조사 범위를 확대할 예정이다."
-70,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_050","(-파고스 지대 조사 기록 I-)중계 에테라이트 복구 작업을 끝낸 우리들은
-얼음속성의 힘이 특이하게 강한 일대로 순간이동이 가능해졌다."
-71,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_051","(-파고스 지대 조사 기록 I-)이 일대를 '파고스 지대'라고 이름 짓고,
-조사를 재개하니 지맥에 미치는 영향이 비교적 약한,
-지금까지와는 다른 이상한 결절점의 존재를 확인한다."
-72,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_052","(-파고스 지대 조사 기록 I-)모험가가 해당 지역을 조사하니,
-이 이상한 지맥 결절점에서
-내포 에테르가 고갈된 마정석……'마정석 파편'이 발견되었다."
-73,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_053","(-파고스 지대 조사 기록 I-)지맥에 미치는 영향이 비교적 약하긴 했지만,
-순간이동을 방해하는 지맥 불안정의 원인임에는 틀림이 없다.
-따라서 마정석과 마찬가지로 마정석 파편을 회수하기로 했다."
-74,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_060","(-파고스 지대 조사 기록 II-)파고스 지대에서 처음으로 마정석의 반응이 확인되었다.
-모험가가 현지 조사를 떠났으나, 도중에
-반응이 약해지더니 마정석 파편으로 변하고 말았다."
-75,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_061","(-파고스 지대 조사 기록 II-)돌아온 모험가에게 확인을 해보니
-아네모스 지대에서 만났던 의문의 남자를 현지에서 목격했는데,
-그 남자가 있던 부근에서 마정석 파편을 회수했다고 한다."
-76,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_062","(-파고스 지대 조사 기록 II-)게다가 모험가에게 다시 '초월하는 힘'이 발현되어
-갈러프 씨와 동료들이 봉인에 대해서 말하는 과거를 봤다고 한다."
-77,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_063","(-파고스 지대 조사 기록 II-)이 정보를 조사한 쿠루루 씨는
-모험가가 만난 남자가 어떤 목적을 가지고
-마정석에서 에테르를 추출해가고 있는 거라고 추측했다."
-78,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_064","(-파고스 지대 조사 기록 II-)또 그 남자의 행동이 과거 발 섬에 봉인된 투신,
-즉 고대 야만신과 관련이 있을 거라는 생각이 든다고 한다."
-79,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_065","(-파고스 지대 조사 기록 II-)모험가의 활약 덕분에 수수께끼의 진실에 근접한 것 같다.
-하지만 아직까지 전모는 오리무중이다.
-지맥의 안정화와 함께 더 많은 조사가 필요할 것 같다."
-80,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_070","(-파고스 지대 조사 기록 III-)'에우레카의 수수께끼 중에는 지맥에 관한 것이 많다'는
-에지카 츤지카 씨의 지적을 통해
-우리는 '프로토 에테라이트'를 다음 목표로 정했다."
-81,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_071","(-파고스 지대 조사 기록 III-)이 장치는 지맥에 관한 실험을 할 때
-일정의 관측 장치로써 사용되던 것이라
-빙점 북동쪽에 보이는 고지의 동굴 안에 설치되어 있다."
-82,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_072","(-파고스 지대 조사 기록 III-)북동쪽의 고지로 가려면 섬 안의 전송망을 사용할 수밖에 없는데
-파고스 지대의 마정석을 모두 회수하여 지맥을 안정시켜도
-근처의 에테라이트는 반응하지 않았다."
-83,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_073","(-파고스 지대 조사 기록 III-)이는 지맥의 흐름 자체가 크게 바뀐 것으로 인한 영향으로
-순간이동을 가능하게 하기 위해서는
-섬 안의 전송망을 재설정할 수밖에 없다."
-84,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_074","(-파고스 지대 조사 기록 III-)우리는 파고스 지대 전역에 걸쳐 조사를 완료했다고 판단.
-향후 조사의 관건이 되는 프로토 에테라이트로 향하기 위해
-섬 내 전송망의 재설정에 주력할 예정이다."
-85,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_080","(-피로스 지대 조사 기록 I-)쿠루루 씨의 각고의 노력 끝에 전송망 재설정을 마친 우리는
-피로스 지대라고 이름 붙인 일대로 오게 되었다."
-86,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_081","(-피로스 지대 조사 기록 I-)모험가와 합류한 후, 프로토 에테라이트를 사용한 조사를 개시.
-다행히도 경미한 손상이었기에 조사는 순조롭게 진행되었고,
-그 결과, 어떤 중요한 정보를 얻게 되었다."
-87,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_082","(-피로스 지대 조사 기록 I-)갈러프 씨가 중앙탑에 봉인한 것으로 보이는 고대 야만신이
-어떤 요인으로 인해 활성화되어 지맥에서 에테르를 흡수.
-방어 장벽을 부수고 부활하려고 한다는 사실을 확인한 것이다."
-88,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_083","(-피로스 지대 조사 기록 I-)이 야만신에게 대항하려면 갈러프 씨가 채용한
-'흐름을 역전시키는' 방법이 무엇인지 알아내야 한다."
-89,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_084","(-피로스 지대 조사 기록 I-)그렇게 판단한 쿠루루 씨는
-프로토 에테라이트를 이용하여 추가 조사를 하기로 결정.
-이를 위해, 계속해서 지맥을 안정화시키기로 했다."
-90,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_090","(-피로스 지대 조사 기록 II-)지맥 안정화를 위해 마정석 회수 작업을 하던 모험가는
-우연히 에지카 츤지카 씨와 만나 정보를 교환했다.
-그 결과, 고대 야만신의 이름이 밝혀졌다."
-91,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_091","(-피로스 지대 조사 기록 II-)이름하여 창조신 '에우레카'.
-우연히도 쿠루루 씨가 이 섬에 붙인 가칭과 동일한 이름이었다."
-92,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_092","(-피로스 지대 조사 기록 II-)쿠루루 씨는 갈러프 씨와 에우레카 전설에 대해 이야기했을 때,
-그 대화가 인상 깊었기에 섬의 가칭으로 채용한 듯하다.
-그렇다면 이름이 일치한 것은 필연이라 볼 수밖에 없다."
-93,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_100","(-피로스 지대 조사 기록 III-)모험가가 마정석을 회수하여 지맥이 안정된 덕분에
-쿠루루 씨의 조사도 진전.
-드디어 '흐름을 역전시키는' 방법을 알아냈다."
-94,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_101","(-피로스 지대 조사 기록 III-)대상의 에테르를 지맥으로 흘려보내 최종적으로는 소멸시키는,
-지맥과 에테라이트를 이용하여 구축한 봉인술.
-그것이 '흐름을 역전시키는' 방법의 정체였다."
-95,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_102","(-피로스 지대 조사 기록 III-)하지만 그것을 알아내자마자
-에지카 츤지카 씨가 창조신 에우레카의 단말과 함께
-프로토 에테라이트를 파괴하는 폭거를 자행했다."
-96,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_103","(-피로스 지대 조사 기록 III-)이 영향으로 봉인술은 붕괴.
-창조신 에우레카의 완전 부활은 시간 문제가 되어 버렸다."
-97,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_104","(-피로스 지대 조사 기록 III-)마치 신도화한 듯한 에지카 츤지카 씨의 행동에
-쿠루루 씨는 충격을 받은 모양이었지만
-그래도 상황을 타개할 방법을 내놓았다."
-98,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_105","(-피로스 지대 조사 기록 III-)그것은 마정석을 성장시켜서 술식의 기준점으로 삼아
-봉인술을 다시 구축하는 것이었다.
-이론적인 방법이지만, 모험가의 도움을 받아 일말의 희망이 보였다."
-99,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_106","(-피로스 지대 조사 기록 III-)이제 중앙탑 주변의 한 군데 지역만 더 조사하면 된다.
-우리는 피로스 지대 탐색을 종료하고
-마지막 무대에 도전하기 위한 준비에 힘쓰기로 했다……."
-100,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_110","(-히다토스 지대 조사 기록 I-)창조신 에우레카를 봉인하기 위한 술식을 재구축한 우리는
-히다토스 지대라 이름 붙인,
-본부탑이 눈앞에 보이는 일대에 도착했다."
-101,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_111","(-히다토스 지대 조사 기록 I-)'강력한 무기를 창조하는' 권능을 가진 창조신의 본체와
-그 주인이 된 에지카 츤지카 씨가 본부탑에서 기다리고 있고,"
-102,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_112","(-히다토스 지대 조사 기록 I-)봉인술은 반드시 목표 앞에서 사용해야
-효과가 있으므로 본부탑에 돌입해야만 한다고,"
-103,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_113","(-히다토스 지대 조사 기록 I-)그렇게 판단한 쿠루루 씨는 모험가와 함께
-마력 교각을 수리하여 마력교를 다시 작동시켰고,
-이를 이용해 본부탑 입구로 향했다."
-104,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_120","(-히다토스 지대 조사 기록 II-)본부탑 입구에 도착한 쿠루루 씨와 모험가는
-장벽에 의해 움직임이 봉인된 창조신 본체와 만난다."
-105,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_121","(-히다토스 지대 조사 기록 II-)장벽이 술식에 간섭하기 때문에 이대로는 봉인이 불가능하다.
-그래서 두 사람은 발데시온 위원회의 집무실을 찾아서
-해제할 방법을 찾기로 했다."
-106,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_122","(-히다토스 지대 조사 기록 II-)갈러프 발데시온 씨가 남긴 메모와 자료에서 정보를 얻어,
-쿠루루 씨와 모험가는 장벽 해제에 성공한다.
-그러나 두 사람 앞에 에지카 츤지카 씨와 창조신의 단말이 나타난다."
-107,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_123","(-히다토스 지대 조사 기록 II-)양쪽이 대치하는 가운데, 에지카 츤지카 씨는 
-창조신이 만들어낸 검을 모험가에게 건네준다.
-모험가는 그것을 사용해 창조신의 단말을 일격에 물리쳤다."
-108,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_124","(-히다토스 지대 조사 기록 II-)여기까지가 에지카 츤지카 씨의 계획이었음을 알고
-쿠루루 씨는 안심하고 창조신을 봉인하려 한다.
-그러나 에지카 츤지카 씨는 그것을 제지한다."
-109,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_125","(-히다토스 지대 조사 기록 II-)놀랍게도 에지카 츤지카 씨는 자신의 목숨을 희생해
-창조신 에우레카를 토벌할 생각이었던 것이다.
-그러나 쿠루루 씨는 봉인하는 게 맞다고 주장한다."
-110,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_126","(-히다토스 지대 조사 기록 II-)두 사람의 의견이 평행선을 달렸기 때문에
-결론은 그 자리에 있던 제삼의 인물,
-모험가의 손에 맡겨지게 되었다."
-111,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_130","(-히다토스 지대 조사 기록 III-)모험가가 내린 결론은 봉인이었다.
-이에 따라 쿠루루 씨는 준비했던 봉인술을 펼쳐
-창조신 에우레카를 다시 봉인하는 데 성공한다."
-112,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_131","(-히다토스 지대 조사 기록 III-)거점으로 귀환한 세 사람은
-시찰하러 와 있던 행콕 씨와 로웨나 씨에게
-지금까지의 상황을 보고하고 향후 계획을 의논한다."
-113,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_132","(-히다토스 지대 조사 기록 III-)그 결과, 에지카 츤지카 씨가 이 섬에 잔류하며
-창조신과 발 섬의 뒤처리를 하게 되었고
-모험가와 쿠루루 씨는 '새벽의 혈맹'으로 귀환하기로 했다."
-114,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_133","(-히다토스 지대 조사 기록 III-)이렇게 창조신에 대한 우려가 여전히 남아 있긴 해도
-에우레카의 조사는 일단락되었다."
-115,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_140","(-히다토스 지대 조사 기록 III-)모험가가 내린 결론은 토벌이었다.
-그리하여 에지카 츤지카 씨는 계획대로
-창조신 에우레카와 함께 에테르로 돌아갔다……."
-116,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_141","(-히다토스 지대 조사 기록 III-)거점으로 귀환한 모험가와 쿠루루 씨는
-시찰하러 와 있던 행콕 씨와 로웨나 씨에게
-지금까지의 상황을 보고하고 향후 계획을 의논한다."
-117,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_142","(-히다토스 지대 조사 기록 III-)그 결과, 이 섬의 뒤처리를
-샬레이안 본국에서 파견한 사람에게 맡기고
-모험가와 쿠루루 씨는 '새벽의 혈맹'으로 귀환하기로 했다."
-118,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_143","(-히다토스 지대 조사 기록 III-)이렇게 여러 사람의 마음속에 아픈 기억을 남기며
-에우레카의 조사는 일단락되었다."
-119,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_TALK_ACTOR","（★未使用／削除予定★）"
-120,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A1_110_003","（★未使用／削除予定★）"
-121,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_Q2_000_000","（★未使用／削除予定★）"
-122,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A2_000_004","（★未使用／削除予定★）"
+0,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_000","我負責整理向贊助商匯報所需要的記錄。<hex:02100103>你的調查活動我也會認真記錄的，<hex:02100103>就請你放心吧。"
+1,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_010","常風地帶的調查辛苦你了！<hex:02100103>我已經記錄了你的調查活動。<hex:02100103>要確認一下嗎？"
+2,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_100_010","恆冰地帶的調查辛苦你了！<hex:02100103>我已經記錄了你的調查活動。<hex:02100103>要確認一下嗎？"
+3,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_110_010","在優雷卡進行的調查終於要接近尾聲了。<hex:02100103>我詳細地記錄了你的探索活動。<hex:02100103>你要確認一下嗎？"
+4,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_120_010","能夠成功封印創神優雷卡，真是太好了！<hex:02100103>我詳細地記錄了你的探索活動。<hex:02100103>你要確認一下嗎？"
+5,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_130_010","雖然消滅了創神優雷卡，但是……<hex:02100103>我詳細地記錄了你的探索活動。<hex:02100103>你要確認一下嗎？"
+6,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_140_010","創神已被消滅，這座島嶼的調查工作已經完全結束了！<hex:02100103>我詳細地記錄了你的探索活動。<hex:02100103>你要確認一下嗎？"
+7,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_150_010","艾吉卡也回來了，這座島嶼的調查工作已經完全結束了！<hex:02100103>我詳細地記錄了你的探索活動。<hex:02100103>你要確認一下嗎？"
+8,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_Q1_000_000","要查看哪一條記錄？"
+9,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A1_000_001","常風地帶的調查記錄1"
+10,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A1_000_002","常風地帶的調查記錄2"
+11,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A1_000_003","常風地帶的調查記錄3"
+12,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A1_100_001","恆冰地帶的調查記錄1"
+13,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A1_100_002","恆冰地帶的調查記錄2"
+14,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A1_100_003","恆冰地帶的調查記錄3"
+15,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A2_000_001","湧火地帶的調查記錄1"
+16,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A2_000_002","湧火地帶的調查記錄2"
+17,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A2_000_003","湧火地帶的調查記錄3"
+18,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A1_000_004","取消"
+19,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_Q3_000_000","要查看哪一條記錄？"
+20,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A3_000_001","常風地帶的調查記錄"
+21,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A3_000_002","恆冰地帶的調查記錄"
+22,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A3_000_003","湧火地帶的調查記錄"
+23,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A3_000_004","豐水地帶的調查記錄"
+24,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A3_000_005","兵武塔的調查記錄"
+25,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A3_000_006","取消"
+26,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_Q4_000_000","要查看哪一條記錄？"
+27,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A4_000_001","常風地帶的調查記錄1"
+28,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A4_000_002","常風地帶的調查記錄2"
+29,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A4_000_003","常風地帶的調查記錄3"
+30,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A4_000_004","返回"
+31,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_Q5_000_000","要查看哪一條記錄？"
+32,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A5_000_001","恆冰地帶的調查記錄1"
+33,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A5_000_002","恆冰地帶的調查記錄2"
+34,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A5_000_003","恆冰地帶的調查記錄3"
+35,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A5_000_004","返回"
+36,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_Q6_000_000","要查看哪一條記錄？"
+37,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A6_000_001","湧火地帶的調查記錄1"
+38,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A6_000_002","湧火地帶的調查記錄2"
+39,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A6_000_003","湧火地帶的調查記錄3"
+40,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A6_000_004","返回"
+41,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_Q7_000_000","要查看哪一條記錄？"
+42,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A7_000_001","豐水地帶的調查記錄1"
+43,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A7_000_002","豐水地帶的調查記錄2"
+44,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A7_000_003","豐水地帶的調查記錄3"
+45,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A7_000_004","返回"
+46,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_150","(-兵武塔的調查記錄-)在總部塔上層，本應該被委員長們封印了的創神武具<hex:02100103>卻已經開始活性化，變成了半蠻神的狀態。"
+47,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_151","(-兵武塔的調查記錄-)理解了其危險性的我們利用地脈的紊亂，<hex:02100103>制定了入侵總部塔上層的方法。<hex:02100103>在招募到的冒險者們的幫助下，成功地破壞了全部的創神武具。"
+48,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_160","(-兵武塔的調查記錄-)並且以此為突破口，<hex:02100103>透過可露兒和艾吉卡·岑吉卡的調查判明，<hex:02100103>創神優雷卡是可以安全地進行消滅的。"
+49,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_161","(-兵武塔的調查記錄-)艾吉卡·岑吉卡迅速地執行了創神的消滅方案，<hex:02100103>並順利地成功了。"
+50,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_162","(-兵武塔的調查記錄-)就這樣我們在這座被命名為「禁地優雷卡」的島嶼上，<hex:02100103>了結了人類和創神之間從瓦爾島時代延續至今的恩怨，<hex:02100103>這座島嶼的調查已經宣告完成。"
+51,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_170","(-兵武塔的調查記錄-)另外，透過可露兒的調查判明，<hex:02100103>被認為是已經犧牲了的艾吉卡·岑吉卡實際還活著，<hex:02100103>只要將創神武具全部破壞，就有可能將其救出。"
+52,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_171","(-兵武塔的調查記錄-)可露兒在從總部塔回來的冒險者面前，<hex:02100103>啟動了救助艾吉卡·岑吉卡的術式並取得了成功，<hex:02100103>由此艾吉卡·岑吉卡得以回歸。"
+53,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_172","(-兵武塔的調查記錄-)就這樣我們了結了與創神優雷卡之間的所有恩怨，<hex:02100103>我們調查隊在「禁地優雷卡」的調查任務宣告完美結束。"
+54,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_020","(-常風地帶的調查記錄1-)我們收到東阿爾迪納德商會及羅薇娜商會的融資，<hex:02100103>為了對命名為優雷卡的新發現島嶼進行調查探索，<hex:02100103>從黃金港出發前往了南方的琉璃洋。"
+55,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_021","(-常風地帶的調查記錄1-)在經歷一段時間的航海後，我們登陸了優雷卡。<hex:02100103>正如先前得到的情報所示，<hex:02100103>在那裡等待我們的是屬性之力非常混亂的異常環境。"
+56,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_022","(-常風地帶的調查記錄1-)看到島上的情景，可露兒和艾吉卡·岑吉卡得出了結論，<hex:02100103>這座島嶼優雷卡，<hex:02100103>正是巴爾德西昂委員會的總部所在地——北洋的瓦爾島。"
+57,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_023","(-常風地帶的調查記錄1-)傳聞中瓦爾島受到了與「究極」魔法威力相當的強力攻擊，徹底消失了。<hex:02100103>那座島又為何會出現在遙遠的東方海上呢？"
+58,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_024","(-常風地帶的調查記錄1-)除了單獨前去進行調查的艾吉卡·岑吉卡之外，<hex:02100103>調查隊為了解開瓦爾島之謎、確認居民的安全，<hex:02100103>開始向被魔法障壁守護的總部塔進發。"
+59,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_030","(-常風地帶的調查記錄2-)前往總部塔必須使用島內傳送網，<hex:02100103>然而島上的傳送網已經停止了運作，<hex:02100103>我們不得不先將修復傳送網作為目前的目標。"
+60,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_031","(-常風地帶的調查記錄2-)先一步開始進行地脈調查的可露兒，<hex:02100103>發現了從乙太學來看不應該有的地脈結節點。<hex:02100103>於是可露兒委託冒險者前去該地點進行調查。"
+61,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_032","(-常風地帶的調查記錄2-)經過調查，冒險者在異常的結節點處發現了魔素石……<hex:02100103>也就是高純度並且擁有均等晶形的乙太結晶。<hex:02100103>在回收魔素石之後，地脈恢復了穩定。"
+62,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_033","(-常風地帶的調查記錄2-)到底是異常的結節點產生了魔素石，<hex:02100103>還是魔素石產生了異常的結節點，<hex:02100103>目前還無法判斷其原因。"
+63,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_034","(-常風地帶的調查記錄2-)可是，既然回收魔素石可以使地脈穩定，<hex:02100103>那就應當繼續回收魔素石。<hex:02100103>這樣一來今後的調查方針也已制定。"
+64,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_040","(-常風地帶的調查記錄3-)常風地帶的魔素石已經基本回收完成，<hex:02100103>周邊的地脈也恢復了穩定，<hex:02100103>接下來我們決定嘗試向其他區域進行傳送。"
+65,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_041","(-常風地帶的調查記錄3-)然而用來連線地區間傳送的中繼乙太之晶停止了運轉，<hex:02100103>不得已只好進行了強制啟動。<hex:02100103>從結果而言，這次嘗試成功了，但同時也遇到了奇妙的現象。"
+66,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_042","(-常風地帶的調查記錄3-)負責進行強制啟動的冒險者，在作業中遭遇了一名神秘男子。<hex:02100103>冒險者透過超越之力，回溯過去看到了昔日光景。"
+67,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_043","(-常風地帶的調查記錄3-)冒險者所看的情景之中，<hex:02100103>總共有包括1位狼人族在內的4個人登場。<hex:02100103>他們彷彿在議論要將什麼封印在瓦爾島。"
+68,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_044","(-常風地帶的調查記錄3-)透過此段證言，可露兒認為4人中其中一人，<hex:02100103>很可能就是收養她的老者，<hex:02100103>巴爾德西昂委員會的會長加拉夫·巴爾德西昂。"
+69,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_045","(-常風地帶的調查記錄3-)可是關於封印一事，可露兒也毫無頭緒。<hex:02100103>為了解開變得更為複雜的謎團，可露兒將加緊調整中繼乙太之晶，<hex:02100103>以便今後進入其他區域，擴大調查範圍。"
+70,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_050","(-恆冰地帶的調查記錄1-)完成了中繼乙太之晶的調整工作之後，<hex:02100103>我們終於可以向冰屬性之力異常強大的區域進行傳送了。"
+71,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_051","(-恆冰地帶的調查記錄1-)我們將這個區域命名為恆冰地帶。<hex:02100103>透過後繼調查，我們確認到了對地脈影響比較小的，<hex:02100103>在兩種意義上都很異常的結節點。"
+72,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_052","(-恆冰地帶的調查記錄1-)我們立刻請冒險者前往該地點進行了調查，<hex:02100103>結果從這異常的地脈結節點中發現了<hex:02100103>內含乙太已經枯竭了的魔素石，我們將其命名為枯竭魔素石。"
+73,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_053","(-恆冰地帶的調查記錄1-)雖然枯竭魔素石對地脈的影響比較微弱，<hex:02100103>但仍然是妨礙傳送使其不穩定的原因。<hex:02100103>因此，與魔素石的處理方法同樣，今後將繼續回收枯竭魔素石。"
+74,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_060","(-恆冰地帶的調查記錄2-)在恆冰地帶首次確認到了魔素石的反應。<hex:02100103>在冒險者前去調查期間，魔素石的反應急劇減弱，<hex:02100103>最終反應變得與枯竭魔素石一致。"
+75,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_061","(-恆冰地帶的調查記錄2-)在我們向完成調查的冒險者進行確認後，<hex:02100103>得知在常風地帶遇見的神秘男子也出現在目前區域，<hex:02100103>並且在神秘男子的附近回收到了枯竭魔素石。"
+76,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_062","(-恆冰地帶的調查記錄2-)此外，冒險者再次發動了「超越之力」，<hex:02100103>看到了過去的加拉夫以及其同伴在談論關於封印一事。"
+77,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_063","(-恆冰地帶的調查記錄2-)可露兒將這一連串的情報進行整理後，<hex:02100103>推測出冒險者遇到的神秘男子是出於某種目的，<hex:02100103>在從魔素石中抽取乙太。"
+78,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_064","(-恆冰地帶的調查記錄2-)並且還指出神秘男子的行動<hex:02100103>很可能與過去被封印在瓦爾島的鬥神，<hex:02100103>也就是古代的蠻神有所關聯。"
+79,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_065","(-恆冰地帶的調查記錄2-)透過冒險者的努力，我們感覺正在接近謎團的真相。<hex:02100103>但是謎團的全貌仍然身處黑暗之中。<hex:02100103>我們需要在進行地脈穩定化工作的同時，進一步展開調查。"
+80,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_070","(-恆冰地帶的調查記錄3-)艾吉卡·岑吉卡指出<hex:02100103>「優雷卡的謎團與地脈有著很深的連繫」，<hex:02100103>因此我們將「原型乙太之光」作為下一個目標。"
+81,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_071","(-恆冰地帶的調查記錄3-)這個裝置從前被用來觀測有關地脈的實驗，<hex:02100103>設定於冰點望向東北方那塊高地的一個洞窟內。"
+82,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_072","(-恆冰地帶的調查記錄3-)若想前往東北方向的高地，就只能使用島內傳送網。<hex:02100103>目前已回收了恆冰地帶的所有枯竭魔素石，並使地脈恢復了穩定，<hex:02100103>可附近的乙太之光依然沒有任何反應。"
+83,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_073","(-恆冰地帶的調查記錄3-)究其原因是地脈的流向本身發生了巨大的變化，<hex:02100103>為了能夠實現傳送，必須對島內傳送網進行重新設定。"
+84,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_074","(-恆冰地帶的調查記錄3-)我們認為現在已經完成了對恆冰地帶全區域的調查。<hex:02100103>為了前往今後調查的關鍵——原型乙太之光，<hex:02100103>目前計劃將重點全部放在島內傳送網的重新設定上。"
+85,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_080","(-湧火地帶的調查記錄1-)在可露兒的不斷努力下，終於重新設定了傳送網，<hex:02100103>我們來到了被命名為湧火地帶的區域。"
+86,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_081","(-湧火地帶的調查記錄1-)在與冒險者會合之後，開始調查目標原型乙太之光。<hex:02100103>幸運的是原型乙太之光的受損情況輕微，調查得以順利進行，<hex:02100103>其結果是我們得到了一個重要的情報。"
+87,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_082","(-湧火地帶的調查記錄1-)疑似被加拉夫封印在中央塔的古代蠻神，<hex:02100103>受到了不明影響而活性化，並開始從地脈中吸收乙太，<hex:02100103>目前能確認到其已經打破了防禦障壁，正在逐漸甦醒。"
+88,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_083","(-湧火地帶的調查記錄1-)為了制定出對抗此蠻神的對策，<hex:02100103>就必須先弄清楚加拉夫「讓流向逆轉」所採取的方法。"
+89,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_084","(-湧火地帶的調查記錄1-)如此判斷的可露兒決定運用原型乙太之光進行補充調查。<hex:02100103>為此需要繼續嘗試穩定地脈。"
+90,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_090","(-湧火地帶的調查記錄2-)為了讓地脈恢復穩定，<hex:02100103>開始回收魔素石的冒險者遇到了艾吉卡·岑吉卡，與其交換了情報。<hex:02100103>得知了古代蠻神的名稱。"
+91,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_091","(-湧火地帶的調查記錄2-)其名創神「優雷卡」。<hex:02100103>機緣巧合，這個名字與可露兒為這座島嶼所起的名稱相同。"
+92,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_092","(-湧火地帶的調查記錄2-)可露兒解釋稱，因為在與加拉夫討論優雷卡的傳說時，加拉夫反常<hex:02100103>的樣子給自己留下了很深的印象，所以才用了此名稱來命名這座<hex:02100103>島嶼。如果真是如此，那兩者名稱一致也就不足為奇了。"
+93,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_100","(-湧火地帶的調查記錄3-)冒險者回收了魔素石使地脈穩定後，<hex:02100103>可露兒的調查有了新的進展——<hex:02100103>終於弄清了「讓流向逆轉」的方法。"
+94,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_101","(-湧火地帶的調查記錄3-)「讓流向逆轉」的方法指的是利用地脈與乙太之光構築出<hex:02100103>強制使對象的乙太流向地脈，最終使其消滅的封印術。"
+95,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_102","(-湧火地帶的調查記錄3-)可是就在弄清此事之後不久，<hex:02100103>艾吉卡·岑吉卡居然和創神優雷卡的終端一起<hex:02100103>破壞了原型乙太之光。"
+96,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_103","(-湧火地帶的調查記錄3-)受到此影響，封印術完全瓦解。<hex:02100103>距離創神優雷卡復活也只是時間的問題了。"
+97,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_104","(-湧火地帶的調查記錄3-)艾吉卡·岑吉卡的舉動就像是被精煉後的信徒一樣，<hex:02100103>對此可露兒感到十分震驚，<hex:02100103>但她在這種情況下仍然堅持提出了對策。"
+98,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_105","(-湧火地帶的調查記錄3-)那就是以充填魔素石的術式為基點，重新構築封印術。<hex:02100103>雖然只是理論上的方法，<hex:02100103>但是因為有了冒險者的協助總算是有了一些眉目。"
+99,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_106","(-湧火地帶的調查記錄3-)這樣一來，未調查區域就只剩下中央塔周邊。<hex:02100103>完成了湧火地帶的探索，<hex:02100103>我們開始為了前往最後的舞臺而忙碌地做著準備。"
+100,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_110","(-豐水地帶的調查記錄1-)推導出封印創神優雷卡用術式的我們<hex:02100103>來到了總部塔不遠處的豐水地帶。"
+101,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_111","(-豐水地帶的調查記錄1-)擁有「創造強力武具」權能的創神本體，<hex:02100103>以及成為其主人的艾吉卡·岑吉卡在總部塔等待著我們的到來。"
+102,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_112","(-豐水地帶的調查記錄1-)另外如果我們不能在目標的面前啟動封印術，<hex:02100103>就不會有任何效果，<hex:02100103>所以不得不攻進總部塔。"
+103,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_113","(-豐水地帶的調查記錄1-)如此判斷的可露兒與冒險者一起修理了魔力橋腳，<hex:02100103>使魔力橋重新啟動。<hex:02100103>一行人前往了總部塔入口。"
+104,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_120","(-豐水地帶的調查記錄2-)到達了總部塔入口的可露兒和冒險者<hex:02100103>見到了被障壁束縛了行動的創神本體。<hex:02100103>"
+105,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_121","(-豐水地帶的調查記錄2-)由於障壁會干擾術式，所以這樣下去無法進行封印。<hex:02100103>為此二人決定前往巴爾德西昂委員會的辦公室，<hex:02100103>尋找解除障壁的方法。"
+106,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_122","(-豐水地帶的調查記錄2-)透過加拉夫·巴爾德西昂遺留下來的記錄和資料得到了情報，<hex:02100103>可露兒和冒險者成功解除了障壁。<hex:02100103>但是此時艾吉卡·岑吉卡和創神終端出現在二人面前。"
+107,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_123","(-豐水地帶的調查記錄2-)就在雙方互相戒備之際，<hex:02100103>艾吉卡·岑吉卡將創神創造出的劍交給了冒險者。<hex:02100103>冒險者用此劍將創神終端破壞。"
+108,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_124","(-豐水地帶的調查記錄2-)得知了之前的一切都是艾吉卡·岑吉卡的策略，<hex:02100103>可露兒終於得以安心地開始進行封印。<hex:02100103>但此時卻被艾吉卡·岑吉卡所制止。"
+109,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_125","(-豐水地帶的調查記錄2-)沒想到艾吉卡·岑吉卡<hex:02100103>居然要犧牲自己的生命來消滅創神優雷卡。<hex:02100103>可露兒則是堅決反對他犧牲，主張暫且進行封印。"
+110,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_126","(-豐水地帶的調查記錄2-)由於二人的意見始終處於平行線，<hex:02100103>為此最終的結論交由在場的第三者——冒險者進行決定。"
+111,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_130","(-豐水地帶的調查記錄3-)冒險者給出的結論是封印創神。<hex:02100103>因此可露兒啟動了準備好的封印術，<hex:02100103>成功將創神重新封印。"
+112,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_131","(-豐水地帶的調查記錄3-)回到據點的3人向前來視察的漢考克和羅薇娜<hex:02100103>報告了至今為止的詳情，並商議了有關今後的行動。"
+113,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_132","(-豐水地帶的調查記錄3-)最終經過商議，艾吉卡·岑吉卡留在島上，<hex:02100103>負責處理創神和瓦爾島的後續工作，<hex:02100103>冒險者和可露兒決定回歸拂曉血盟。"
+114,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_133","(-豐水地帶的調查記錄3-)就這樣，雖然對於創神還不能完全安心，<hex:02100103>不過針對優雷卡的調查算是告一段落了。"
+115,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_140","(-豐水地帶的調查記錄3-)冒險者給出的結論是消滅創神。<hex:02100103>因此艾吉卡·岑吉卡按照計劃，<hex:02100103>與創神優雷卡一起回歸了乙太……"
+116,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_141","(-豐水地帶的調查記錄3-)回到據點的冒險者與可露兒向前來視察的漢考克和羅薇娜<hex:02100103>報告了至今為止的詳情，並商議了有關今後的行動。"
+117,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_142","(-豐水地帶的調查記錄3-)最終經過商議，<hex:02100103>由薩雷安負責派遣人員處理瓦爾島的後續工作，<hex:02100103>冒險者和可露兒決定回歸拂曉血盟。"
+118,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_INV00462_000_143","(-豐水地帶的調查記錄3-)就這樣，雖然每人心中都留下了悔恨和遺憾，<hex:02100103>不過針對優雷卡的調查算是告一段落了。"
+119,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_TALK_ACTOR",""
+120,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A1_110_003",""
+121,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_Q2_000_000",""
+122,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS1_00462_A2_000_004",""

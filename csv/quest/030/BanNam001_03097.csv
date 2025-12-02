@@ -1,14 +1,10 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_BANNAM001_03097_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-도로 일로에 있는 광풍원 세이게츠는 제전 개최를 위해 본격적인 행동에 나서려는 듯하다."
-1,"TEXT_BANNAM001_03097_SEQ_01","※ 이 퀘스트에는
- '<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정(직업 변경 제한)'<13>FF40024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA09528ECA781EC978520EBB380EAB2BD20ECA09CED959C29FF04EAB080FF04EC9DB4</13> 적용됩니다.
-   퀘스트 수락 시점의 직업으로만 진행할 수 있습니다.
-
-광풍원 세이게츠와 대화했다. 동쪽 나라에서 하듯이, 교레이와 함께 축제 의상을 준비하기로 했다. 축제 의상 제작에 필요한 물품을 준비해, 도로 일로에 있는 '교레이'에게 납품하자."
-2,"TEXT_BANNAM001_03097_SEQ_02","축제 의상 제작에 필요한 물품을 교레이에게 건넸다. 교레이를 비롯한 나마즈오들과 협력한 덕에, 축제 의상 준비와 천막 수리를 마치고 제전 장소가 갖추어지기 시작했다. 협력을 계속하여 제전이 열릴 수 있도록 하자."
+0,"TEXT_BANNAM001_03097_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整（限定職業）<hex:0249020103><hex:0248020103><hex:02100103>朵洛衣樓的光風院霽月正在為舉辦祭禮做準備。"
+1,"TEXT_BANNAM001_03097_SEQ_01","※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整（限定職業）任務，<hex:02100103>　需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>和光風院霽月進行了交談。效仿遠東之國的習俗，冒險者和魚麗開始一起去準備法被。準備製作法被所需要的東西，並交給朵洛衣樓的魚麗。"
+2,"TEXT_BANNAM001_03097_SEQ_02","將製作法被所需要的東西交給了魚麗。在冒險者的協助下，祭禮服裝的製作和帳篷的修理都完成了，這樣一來祭場就大致準備好了。繼續和他們合作，為舉辦好祭禮努力吧。"
 3,"TEXT_BANNAM001_03097_SEQ_03",""
 4,"TEXT_BANNAM001_03097_SEQ_04",""
 5,"TEXT_BANNAM001_03097_SEQ_05",""
@@ -30,7 +26,7 @@ int32,str,str
 21,"TEXT_BANNAM001_03097_SEQ_21",""
 22,"TEXT_BANNAM001_03097_SEQ_22",""
 23,"TEXT_BANNAM001_03097_SEQ_23",""
-24,"TEXT_BANNAM001_03097_TODO_00","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>쿌 엔 서쪽의 바위터에서 <Sheet(Item,IntegerParameter(5),0)/> 캐기<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>쿌 엔 서쪽의 약초밭에서 <Sheet(Item,IntegerParameter(5),0)/> 채집<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>야트 칼 상류에서 <Sheet(Item,IntegerParameter(5),0)/> 낚기<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If></If></If></If>"
+24,"TEXT_BANNAM001_03097_TODO_00","<hex:0208F204A1E4E8050AFF5F><hex:02085BE3E802E803FF36>製作筆記 友好部族任務：製作<hex:02280AFF05>Item<hex:E8060103><hex:FF1D>將<hex:02280AFF05>Item<hex:E8060103>交給魚麗<hex:03><hex:FFF20439><hex:0208F20433E4E8050BFF5F><hex:02085BE3E802E803FF36>製作筆記 友好部族任務：製作<hex:02280AFF05>Item<hex:E8060103><hex:FF1D>將<hex:02280AFF05>Item<hex:E8060103>交給魚麗<hex:03><hex:FFF203CB><hex:0208F203C5E4E8050CFF5F><hex:02085BE3E802E803FF36>製作筆記 友好部族任務：製作<hex:02280AFF05>Item<hex:E8060103><hex:FF1D>將<hex:02280AFF05>Item<hex:E8060103>交給魚麗<hex:03><hex:FFF2035D><hex:0208F20357E4E80509FF5F><hex:02085BE3E802E803FF36>製作筆記 友好部族任務：製作<hex:02280AFF05>Item<hex:E8060103><hex:FF1D>將<hex:02280AFF05>Item<hex:E8060103>交給魚麗<hex:03><hex:FFF202EF><hex:0208F202E9E4E8050DFF5F><hex:02085BE3E802E803FF36>製作筆記 友好部族任務：製作<hex:02280AFF05>Item<hex:E8060103><hex:FF1D>將<hex:02280AFF05>Item<hex:E8060103>交給魚麗<hex:03><hex:FFF20281><hex:0208F2027BE4E8050EFF5F><hex:02085BE3E802E803FF36>製作筆記 友好部族任務：製作<hex:02280AFF05>Item<hex:E8060103><hex:FF1D>將<hex:02280AFF05>Item<hex:E8060103>交給魚麗<hex:03><hex:FFF20213><hex:0208F2020DE4E8050FFF5F><hex:02085BE3E802E803FF36>製作筆記 友好部族任務：製作<hex:02280AFF05>Item<hex:E8060103><hex:FF1D>將<hex:02280AFF05>Item<hex:E8060103>交給魚麗<hex:03><hex:FFF201A5><hex:0208F2019FE4E80510FF5F><hex:02085BE3E802E803FF36>製作筆記 友好部族任務：製作<hex:02280AFF05>Item<hex:E8060103><hex:FF1D>將<hex:02280AFF05>Item<hex:E8060103>交給魚麗<hex:03><hex:FFF20137><hex:0208F20131E4E80511FF61><hex:02085DE3E802E803FF38>在喬爾艾恩石環西邊的石場採集<hex:02280AFF05>Item<hex:E8060103><hex:FF1D>將<hex:02280AFF05>Item<hex:E8060103>交給魚麗<hex:03><hex:FFCA><hex:0208C6E4E80512FF61><hex:02085DE3E802E803FF38>在喬爾艾恩石環西邊的草場採集<hex:02280AFF05>Item<hex:E8060103><hex:FF1D>將<hex:02280AFF05>Item<hex:E8060103>交給魚麗<hex:03><hex:FF5E><hex:02085AE4E80513FF52><hex:02084EE3E802E803FF29>在亞特卡勒河上游釣<hex:02280AFF05>Item<hex:E8060103><hex:FF1D>將<hex:02280AFF05>Item<hex:E8060103>交給魚麗<hex:03><hex:FF01><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03>"
 25,"TEXT_BANNAM001_03097_TODO_01",""
 26,"TEXT_BANNAM001_03097_TODO_02",""
 27,"TEXT_BANNAM001_03097_TODO_03",""
@@ -54,101 +50,48 @@ int32,str,str
 45,"TEXT_BANNAM001_03097_TODO_21",""
 46,"TEXT_BANNAM001_03097_TODO_22",""
 47,"TEXT_BANNAM001_03097_TODO_23",""
-48,"TEXT_BANNAM001_03097_GYOREI_000_001","절벽 아래로 강도 흐르고 있어서
-바싹 말라버릴 걱정은 없겠담메."
-49,"TEXT_BANNAM001_03097_GYOSHIN_000_005","내 실력을 제대로 보여주겠담메!"
-50,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_010","제전 장소는 교신이 있으니 어떻게든 정비할 수 있겠지.
-문제는 제전에서 입을 의상인데……."
-51,"TEXT_BANNAM001_03097_GYOSHIN_000_011","메메메?
-옷이 따로 있어야 되냠메?"
-52,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_012","거 참, 아주 거리낌 없이 무지를 드러내시는군.
-잘 들어, 제전이란 곧 신께 지내는 제사이고, 일상적인 일이 아니다.
-평소랑 같은 앞치마를 두르고 거행하다니 당치도 않아!"
-53,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_013","그 유명한 히바리사이가 쓴 '운작우필'에 의하면
-동쪽 나라에서는 제전 때 전용 의상을 입는다고 한다.
-선명한 색깔의 겉옷이라는군."
-54,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_014","내 지식을 토대로 도면을 그릴 수는 있지만……
-지느러미재주가 없어서 처음부터 만들려면……."
-55,"TEXT_BANNAM001_03097_GYOREI_000_015","내가 재봉을 잘하니까 만들어 볼깜메?"
-56,"TEXT_BANNAM001_03097_GYOREI_000_016","그런데 세세한 부분까지 처리하려면
-나 혼자서는 지느러미가 부족할 것 같암메.
-<Highlight>ObjectParameter(1)</Highlight> 님도 도와줄램메?"
-57,"TEXT_BANNAM001_03097_GYOREI_000_017","고마웜메!
-그러면 할 일을 나눠주는 역할은 교후……
-광풍원 세이게츠한테 맡길겜메!"
-58,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_020","귀군은 '<Sheet(Item,22720,0)/>'<13>FF0F02280BFF054974656DF258C00103FF04EBA19CFF07EC9CBCEBA19C</13> 쓸 금속 장식을 부탁한다.
-천막 옆에 놓인 상자에서 필요한 만큼 재료를 꺼내서 제작해.
-만약 재료가 부족하면 몇 번이든 가서 꺼내도 된다."
-59,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_021","귀군은 '<Sheet(Item,22720,0)/>'<13>FF0F02280BFF054974656DF258C00103FF04EBA19CFF07EC9CBCEBA19C</13> 쓸 튼튼한 안감을 부탁한다.
-천막 옆에 놓인 상자에서 필요한 만큼 재료를 꺼내서 제작해.
-만약 재료가 부족하면 몇 번이든 가서 꺼내도 된다."
-60,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_022","귀군은 '<Sheet(Item,22720,0)/>'<13>FF0F02280BFF054974656DF258C00103FF04EBA19CFF07EC9CBCEBA19C</13> 쓸 마감용 염료를 부탁한다.
-천막 옆에 놓인 상자에서 필요한 만큼 재료를 꺼내서 제작해.
-만약 재료가 부족하면 몇 번이든 가서 꺼내도 된다."
-61,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_023","안료로 사용할 '<Sheet(Item,22616,0)/>' 3개를 모아다오.
-쿌 엔 서쪽에서 캘 수 있을 거다."
-62,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_024","안료로 사용할 '<Sheet(Item,22642,0)/>' 3개를 모아다오.
-쿌 엔 서쪽에서 채집할 수 있을 거다."
-63,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_025","안료에 사용할 '<Sheet(Item,22668,0)/>'<13>FF0F02280BFF054974656DF2588C0103FF04EBA5BCFF04EC9D84</13> 모아다오.
-민물낚시용 미끼 '<Sheet(Item,20613,0)/>'<13>FF0F02280BFF054974656DF250850103FF04EBA5BCFF04EC9D84</13> 쓰면
-'야트 칼 상류'에서 낚을 수 있을 거다."
-64,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_026","나머지는 우리에게 맡겨라.
-귀군이 맡은 조달 업무에 전념하고, 부탁한 물품이 준비되면
-'교레이'에게 갖다 줘."
-65,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_027","귀군, 혹시 재료가 부족한가?
-그렇다면 천막 옆에 놓인 상자에서 필요한 만큼 꺼내면 된다.
-그럼 제작을 부탁한다."
-66,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_100_027","귀군, 혹시 재료가 부족한가?
-그렇다면 천막 옆에 놓인 상자에서 필요한 만큼 꺼내면 된다.
-그럼 제작을 부탁한다."
-67,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_110_027","귀군, 혹시 재료가 부족한가?
-그렇다면 천막 옆에 놓인 상자에서 필요한 만큼 꺼내면 된다.
-그럼 제작을 부탁한다."
-68,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_200_027","나머지는 우리에게 맡겨라.
-귀군이 맡은 조달 업무에 전념하고, 부탁한 물품이 준비되면
-'교레이'에게 갖다 줘."
-69,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_210_027","나머지는 우리에게 맡겨라.
-귀군이 맡은 조달 업무에 전념하고, 부탁한 물품이 준비되면
-'교레이'에게 갖다 줘."
-70,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_220_027","나머지는 우리에게 맡겨라.
-귀군이 맡은 조달 업무에 전념하고, 부탁한 물품이 준비되면
-'교레이'에게 갖다 줘."
-71,"TEXT_BANNAM001_03097_SYSTEM_000_028","재료가 들어있는 상자가 있다.
-지금은 필요 없을 것 같다……."
-72,"TEXT_BANNAM001_03097_SYSTEM_100_028","재료가 들어있는 상자가 있다.
-지금은 필요 없을 것 같다……."
-73,"TEXT_BANNAM001_03097_SYSTEM_110_028","재료가 들어있는 상자가 있다.
-지금은 필요 없을 것 같다……."
-74,"TEXT_BANNAM001_03097_SYSTEM_120_028","재료가 들어있는 상자가 있다.
-지금은 필요 없을 것 같다……."
-75,"TEXT_BANNAM001_03097_SYSTEM_000_029","상자에서 필요한 재료를 꺼냈다!"
-76,"TEXT_BANNAM001_03097_SYSTEM_100_029","상자에서 필요한 재료를 꺼냈다!"
-77,"TEXT_BANNAM001_03097_SYSTEM_110_029","상자에서 필요한 재료를 꺼냈다!"
-78,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_030","보아하니 의뢰한 물건이 준비된 모양이군.
-'교레이'한테 건네줘."
+48,"TEXT_BANNAM001_03097_GYOREI_000_001","山崖下面就是河流，<hex:02100103>這下也不用擔心會變成魚乾了噗。"
+49,"TEXT_BANNAM001_03097_GYOSHIN_000_005","讓你見識見識老子的實力噗！"
+50,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_010","好了，祭場的準備交給魚信就應該沒什麼問題了。<hex:02100103>剩下的問題是祭禮用的服裝該怎麼弄……"
+51,"TEXT_BANNAM001_03097_GYOSHIN_000_011","噗噗噗？<hex:02100103>什麼是祭禮用的服裝噗？"
+52,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_012","真是的，你簡直無知到都讓我感到佩服了。<hex:02100103>聽好了，祭禮是用來祭神的活動，不是平時想參加就能參加的。<hex:02100103>要是和平常一樣只穿個肚兜就去舉辦，那成何體統！"
+53,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_013","據雲雀齋所著的«雲雀偶筆»記載，<hex:02100103>在遠東之國舉行祭禮時要穿一種名為法被的服裝，<hex:02100103>那種服裝就像色彩斑斕的羽織一樣。"
+54,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_014","憑我的知識要畫出法被的圖樣倒是沒問題……<hex:02100103>但是我的鰭沒有那麼靈巧，要是從頭開始製作的話……"
+55,"TEXT_BANNAM001_03097_GYOREI_000_015","我擅長編織，要不我試著做出來給你看看？"
+56,"TEXT_BANNAM001_03097_GYOREI_000_016","只不過在製作的細節上，只靠我的話肯定忙不過來噗。<hex:02100103><hex:022903EB0203>能來幫幫我嗎噗？"
+57,"TEXT_BANNAM001_03097_GYOREI_000_017","多謝啦噗！<hex:02100103>具體如何分工就交給魚粉……<hex:02100103>交給光風院霽月了噗！"
+58,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_020","我想請你製作能用作<hex:02280BFF05>Item<hex:F258C00103>的金屬裝飾品。<hex:02100103>你可以從帳篷旁邊的貨箱裡獲取需要的素材進行製作。<hex:02100103>如果素材不夠用了的話，可以重複拿取。"
+59,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_021","我想請你製作能用作<hex:02280BFF05>Item<hex:F258C00103>的結實的襯布。<hex:02100103>你可以從帳篷旁邊的貨箱裡獲取需要的素材進行製作。<hex:02100103>如果素材不夠用了的話，可以重複拿取。"
+60,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_022","我想請你製作能用作<hex:02280BFF05>Item<hex:F258C00103>的染料來給布料染色。<hex:02100103>你可以從帳篷旁邊的貨箱裡獲取需要的素材進行製作。<hex:02100103>如果素材不夠用了的話，可以重複拿取。"
+61,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_023","我想請你採集3個用於製作顏料的<hex:02280BFF05>Item<hex:F258580103>。<hex:02100103>在喬爾艾恩石環的西邊附近應該能找到。"
+62,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_024","我想請你採集3個用於製作顏料的<hex:02280BFF05>Item<hex:F258720103>。<hex:02100103>在喬爾艾恩石環的西邊附近應該能找到。"
+63,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_025","我想請你採集1個用於製作顏料的<hex:02280BFF05>Item<hex:F2588C0103>。<hex:02100103>在亞特卡勒河上游附近<hex:02100103>使用釣淡水魚專用的魚餌<hex:02280BFF05>Item<hex:F250850103>就應該能釣到。"
+64,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_026","剩下的工作交給我們吧。<hex:02100103>你只需要負責專心準備素材就行，<hex:02100103>當你把東西準備好了以後，就交給魚麗吧。"
+65,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_027","你手頭素材不夠使了嗎？<hex:02100103>那你就從帳篷旁邊的貨箱裡取得需要的素材吧。<hex:02100103>製作的工作就交給你了。"
+66,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_100_027","你手頭素材不夠使了嗎？<hex:02100103>那你就從帳篷旁邊的貨箱裡取得需要的素材吧。<hex:02100103>製作的工作就交給你了。"
+67,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_110_027","你手頭素材不夠使了嗎？<hex:02100103>那你就從帳篷旁邊的貨箱裡取得需要的素材吧。<hex:02100103>製作的工作就交給你了。"
+68,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_200_027","剩下的工作交給我們好了。<hex:02100103>你只需要負責專心準備素材就行，<hex:02100103>當你把東西準備好了以後，就交給魚麗吧。"
+69,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_210_027","剩下的工作交給我們好了。<hex:02100103>你只需要負責專心準備素材就行，<hex:02100103>當你把東西準備好了以後，就交給魚麗吧。"
+70,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_220_027","剩下的工作交給我們好了。<hex:02100103>你只需要負責專心準備素材就行，<hex:02100103>當你把東西準備好了以後，就交給魚麗吧。"
+71,"TEXT_BANNAM001_03097_SYSTEM_000_028","有一個裝滿了素材的貨箱。<hex:02100103>現在好像沒有什麼用處……"
+72,"TEXT_BANNAM001_03097_SYSTEM_100_028","有一個裝滿了素材的貨箱。<hex:02100103>現在好像沒有什麼用處……"
+73,"TEXT_BANNAM001_03097_SYSTEM_110_028","有一個裝滿了素材的貨箱。<hex:02100103>現在好像沒有什麼用處……"
+74,"TEXT_BANNAM001_03097_SYSTEM_120_028","有一個裝滿了素材的貨箱。<hex:02100103>現在好像沒有什麼用處……"
+75,"TEXT_BANNAM001_03097_SYSTEM_000_029","從貨箱裡拿到了需要的素材！"
+76,"TEXT_BANNAM001_03097_SYSTEM_100_029","從貨箱裡拿到了需要的素材！"
+77,"TEXT_BANNAM001_03097_SYSTEM_110_029","從貨箱裡拿到了需要的素材！"
+78,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_030","看來你準備好了需要的東西。<hex:02100103>把東西交給魚麗吧。"
 79,"TEXT_BANNAM001_03097_GYOREI_000_040","（★未使用／削除予定★）"
-80,"TEXT_BANNAM001_03097_GYOSHIN_000_045","제전 장소 준비는 나한테 맡기람메!"
-81,"TEXT_BANNAM001_03097_GYOREI_000_050","<Highlight>ObjectParameter(1)</Highlight> 님!
-부탁한 물건은 준비됐엄메?"
-82,"TEXT_BANNAM001_03097_GYOREI_000_051","고마웜메!
-나머지 작업은 나한테 맡겸메!"
-83,"TEXT_BANNAM001_03097_GYOREI_000_052","제전 장소의 수리를 맡은 교신도
-준비가 끝난 것 같으니까, 이제 조금만 있음 완성이담메.
-<Highlight>ObjectParameter(1)</Highlight> 님은 쉬고 있으람메!"
-84,"TEXT_BANNAM001_03097_SYSTEM_000_053","교레이와 협력하여 제전에서 입을 축제 의상을 완성했습니다!"
-85,"TEXT_BANNAM001_03097_SYSTEM_000_054","또한, 교신이 천막을 수리했습니다!"
-86,"TEXT_BANNAM001_03097_GYOSHIN_000_055","일단 잠을 잘 수 있는 정도로는 수리했담메!
-<If(PlayerParameter(4))>누님<Else/>형님</If> 덕분에 축제 의상도 완성되었고
-동료들을 불러 '큰메기 대제전 실행위원회'를 설립하겠담메!"
-87,"TEXT_BANNAM001_03097_GYOSHIN_000_056","앞으로도 협조 잘 부탁한담메!"
-88,"TEXT_BANNAM001_03097_SYSTEM_000_057","나마즈오 멸망까지 앞으로 7년……!"
-89,"TEXT_BANNAM001_03097_SYSTEM_000_058","지금, 멸망의 운명을 피하기 위한 도전이 요란하게 시작되었다!
-나마즈오족의 미래는 과연 어떻게 될 것인가……!"
-90,"TEXT_BANNAM001_03097_SYSTEM_000_059","'큰메기 대제전 실행위원회'와의 우호 관계가
-모험가의 활약에 힘입어 3단계인 '우호'를 달성하여
-나마즈오족의 '우호부족 퀘스트'가 개방되었습니다."
-91,"TEXT_BANNAM001_03097_SYSTEM_000_060","앞으로 도로 일로에 있는 '광풍원 세이게츠'에게
-반복 가능한 '우호부족 일일 퀘스트'를 받을 수 있습니다."
-92,"TEXT_BANNAM001_03097_SYSTEM_000_061","또 '교쇼'를 통해
-우호부족이 취급하는 상품을 구매할 수 있습니다.
-앞으로 모험에 활용해보세요!"
+80,"TEXT_BANNAM001_03097_GYOSHIN_000_045","祭場的準備就交給老子了噗！"
+81,"TEXT_BANNAM001_03097_GYOREI_000_050","<hex:022903EB0203>，你準備好需要的東西了嗎噗？"
+82,"TEXT_BANNAM001_03097_GYOREI_000_051","謝謝你啦噗！<hex:02100103>剩下的工作就交給我吧噗！"
+83,"TEXT_BANNAM001_03097_GYOREI_000_052","負責修繕祭場的魚信那邊的準備工作好像也已經完成了，<hex:02100103>距完工就差一步了噗。<hex:02100103><hex:022903EB0203>你就先歇著去吧噗！"
+84,"TEXT_BANNAM001_03097_SYSTEM_000_053","冒險者和魚麗合作完成了祭禮服裝的法被！"
+85,"TEXT_BANNAM001_03097_SYSTEM_000_054","魚信進一步修繕了帳篷！"
+86,"TEXT_BANNAM001_03097_GYOSHIN_000_055","總之現在算是有了可以過夜的帳篷噗！<hex:02100103>在<hex:020813E905FF07>小姐<hex:FF07>小哥<hex:03>的幫助下法被也做好了，<hex:02100103>老子們也邀請了同伴們建立了「大鯰大祭執行委員會」噗！"
+87,"TEXT_BANNAM001_03097_GYOSHIN_000_056","接下來還請冒險者多多幫忙噗！"
+88,"TEXT_BANNAM001_03097_SYSTEM_000_057","距離鯰魚精族滅亡之日還有7年……"
+89,"TEXT_BANNAM001_03097_SYSTEM_000_058","但是為了擺脫滅亡命運的挑戰，在吵鬧聲中開始了！<hex:02100103>鯰魚精族的未來又會怎樣呢？"
+90,"TEXT_BANNAM001_03097_SYSTEM_000_059","由於冒險者的努力，<hex:02100103>與鯰魚精族「大鯰大祭執行委員會」的關係程度到達了「友好」。<hex:02100103>開啟了鯰魚精族的友好部族任務。"
+91,"TEXT_BANNAM001_03097_SYSTEM_000_060","今後可以在朵洛衣樓的光風院霽月處，<hex:02100103>接受可重複進行的友好部族日常任務。"
+92,"TEXT_BANNAM001_03097_SYSTEM_000_061","並且可以在「魚商」處購入友好部族所經營的商品。<hex:02100103>在今後的冒險裡善加利用吧！"

@@ -1,41 +1,21 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGGYR3ALAMHIGANQUARTER_00403_AURIOL_000_000","음? 넌 타지에서 온 사람이구나.
-이렇게 말을 거는 걸 보니 여기에 흥미가 있나 봐?
-그렇다면 내가 설명해 줄게."
-1,"TEXT_REGGYR3ALAMHIGANQUARTER_00403_Q1_000_000","무엇을 물어보시겠습니까?"
-2,"TEXT_REGGYR3ALAMHIGANQUARTER_00403_A1_000_001","당신의 이야기를 들려달라고 한다"
-3,"TEXT_REGGYR3ALAMHIGANQUARTER_00403_A1_000_002","여기는 어떤 곳인지 물어본다"
-4,"TEXT_REGGYR3ALAMHIGANQUARTER_00403_A1_000_003","취소"
-5,"TEXT_REGGYR3ALAMHIGANQUARTER_00403_AURIOL_000_010","보다시피 하찮은 '비둘기'야.
-……나 스스로 그렇게 부르긴 싫지만."
-6,"TEXT_REGGYR3ALAMHIGANQUARTER_00403_AURIOL_000_011","비둘기란, 제국 시민권을 얻지 못한
-'안' 계급의 식민지 사람들을 비하하는 명칭이야…….
-거만한 제국 녀석들은 우리를 차별해서 일부러 그렇게 부르지."
-7,"TEXT_REGGYR3ALAMHIGANQUARTER_00403_AURIOL_000_012","알라미고가 제국의 지배하에 놓인지 이미 오래지만……
-나는 아직 자유를 포기하지 않았어.
-언젠가 알라미고의 자유민이 될 날을 기다리고 있어."
-8,"TEXT_REGGYR3ALAMHIGANQUARTER_00403_AURIOL_000_015","보다시피 하찮은 '비둘기'야.
-아니, 정확히는…… 비둘기'였었지'."
-9,"TEXT_REGGYR3ALAMHIGANQUARTER_00403_AURIOL_000_016","비둘기란, 제국 시민권을 얻지 못한
-'안' 계급의 식민지 사람들을 비하하는 명칭이야…….
-거만한 제국 녀석들은 우리를 차별해서 일부러 그렇게 부르지."
-10,"TEXT_REGGYR3ALAMHIGANQUARTER_00403_AURIOL_000_017","하지만 이제 우리는 자유의 몸이 됐어.
-우리를 '비둘기'나 '안'이라고 못 불러!
-나는 그리핀 깃발 아래 자유로운 알라미고 사람이야!"
-11,"TEXT_REGGYR3ALAMHIGANQUARTER_00403_AURIOL_000_020","이곳은 '알라미고인 거주구'야.
-성채도시 알라미고 중에서도 가장 최근에 생긴 구역이지.
-그렇다고 가장 좋은 구역은 아니야."
-12,"TEXT_REGGYR3ALAMHIGANQUARTER_00403_AURIOL_000_021","알라미고 도시 안에서는 왕궁에 가까운 구역일수록
-신분이 높은 사람들이 사는데
-왕궁에서 가장 먼 이곳은 원래부터 노동자 거주지였어."
-13,"TEXT_REGGYR3ALAMHIGANQUARTER_00403_AURIOL_000_022","그 후 제국이 처들어오면서, 우리처럼 시민권도 없고
-가난한 사람들을 이곳에 밀어넣은 거야. "
-14,"TEXT_REGGYR3ALAMHIGANQUARTER_00403_AURIOL_000_023","그렇지만 모두 성질이 다부지고 힘도 센 사람들이라
-앞으로도 잡초처럼 씩씩하게 살아갈 거야."
-15,"TEXT_REGGYR3ALAMHIGANQUARTER_00403_AURIOL_000_024","그 후 제국이 처들어오면서, 우리처럼 시민권도 없고
-가난한 사람들을 이곳에 밀어넣은 거야."
-16,"TEXT_REGGYR3ALAMHIGANQUARTER_00403_AURIOL_000_025","하지만 해방한 후에도 나가지 않는 이유는
-여기서 맺은 끈끈한 인연 때문이지.
-이곳을 새로운 도시로 만드는 게 지금 우리의 목표야!"
+0,"TEXT_REGGYR3ALAMHIGANQUARTER_00403_AURIOL_000_000","咦，你不是這裡的人吧。<hex:02100103>你是因為對這裡感興趣才特意來找我搭話的嗎？<hex:02100103>那我可以給你講一講。"
+1,"TEXT_REGGYR3ALAMHIGANQUARTER_00403_Q1_000_000","想了解什麼？"
+2,"TEXT_REGGYR3ALAMHIGANQUARTER_00403_A1_000_001","你是做什麼的？"
+3,"TEXT_REGGYR3ALAMHIGANQUARTER_00403_A1_000_002","這裡是什麼地方？"
+4,"TEXT_REGGYR3ALAMHIGANQUARTER_00403_A1_000_003","取消"
+5,"TEXT_REGGYR3ALAMHIGANQUARTER_00403_AURIOL_000_010","如你所見，我不過是區區的「遊蕩民」。<hex:02100103>……雖然我自己並不想要這樣稱呼自己。"
+6,"TEXT_REGGYR3ALAMHIGANQUARTER_00403_AURIOL_000_011","「遊蕩民」是對沒有帝國市民權的人的蔑稱……<hex:02100103>那些帝國的高官們歧視我們這些屬州的人民，就這樣稱呼我們，<hex:02100103>而且還把我們劃為了最底層的「安」級。"
+7,"TEXT_REGGYR3ALAMHIGANQUARTER_00403_AURIOL_000_012","阿拉米格長期以來一直受帝國的統治……<hex:02100103>但我還沒有放棄爭取自由。<hex:02100103>總有一天，我會成為擁有自由的阿拉米格人。"
+8,"TEXT_REGGYR3ALAMHIGANQUARTER_00403_AURIOL_000_015","如你所見，我不過是區區的「遊蕩民」。<hex:02100103>不……準確來說，「以前」是。"
+9,"TEXT_REGGYR3ALAMHIGANQUARTER_00403_AURIOL_000_016","「遊蕩民」是對沒有帝國市民權的人的蔑稱……<hex:02100103>那些帝國的高官們歧視我們這些屬州的人民，就這樣稱呼我們，<hex:02100103>而且還把我們劃為了最底層的「安」級。"
+10,"TEXT_REGGYR3ALAMHIGANQUARTER_00403_AURIOL_000_017","不過，如今我們已經重獲自由。<hex:02100103>我們既不是遊蕩民也不是安！<hex:02100103>我可是擁有自由的阿拉米格人！"
+11,"TEXT_REGGYR3ALAMHIGANQUARTER_00403_AURIOL_000_020","這裡是阿拉米格人居住區，<hex:02100103>是要塞城邦阿拉米格中最新建成的區域。<hex:02100103>不過並不是什麼頭等的地段。"
+12,"TEXT_REGGYR3ALAMHIGANQUARTER_00403_AURIOL_000_021","在阿拉米格城邦內，有身份的人都住在離王宮近的地方。<hex:02100103>所以，遠離王宮的這裡從以前就是勞動者的城鎮。"
+13,"TEXT_REGGYR3ALAMHIGANQUARTER_00403_AURIOL_000_022","自從被帝國統治後，<hex:02100103>我們這些沒有市民權的窮人都被趕到了這裡。"
+14,"TEXT_REGGYR3ALAMHIGANQUARTER_00403_AURIOL_000_023","不過，這裡的人都是一些有膽量、有力氣的傢伙。<hex:02100103>我們今後也會像雜草一樣頑強地活下去的。"
+15,"TEXT_REGGYR3ALAMHIGANQUARTER_00403_AURIOL_000_024","自從被帝國統治後，<hex:02100103>我們這些沒有市民權的窮人都被趕到了這裡。<hex:02100103>"
+16,"TEXT_REGGYR3ALAMHIGANQUARTER_00403_AURIOL_000_025","我們之所以重獲自由後依然沒有離開，<hex:02100103>是因為已經在這裡紮下了根。<hex:02100103>我們會把這裡打造成我們自己的城鎮，這是我們現在的目標！"

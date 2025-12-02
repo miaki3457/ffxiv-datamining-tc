@@ -1,7 +1,8 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_STMBDZ913_02869_SEQ_00","랄거의 손길에 있는 나이 든 알라미고 해방군 투사는 사람을 찾고 있는 듯하다. "
+0,"TEXT_STMBDZ913_02869_SEQ_00","神拳痕的解放軍老戰士正在找人。"
 1,"TEXT_STMBDZ913_02869_SEQ_01",""
 2,"TEXT_STMBDZ913_02869_SEQ_02",""
 3,"TEXT_STMBDZ913_02869_SEQ_03",""
@@ -25,8 +26,8 @@ int32,str,str
 21,"TEXT_STMBDZ913_02869_SEQ_21",""
 22,"TEXT_STMBDZ913_02869_SEQ_22",""
 23,"TEXT_STMBDZ913_02869_SEQ_23",""
-24,"TEXT_STMBDZ913_02869_TODO_00","카스트룸 오리엔스에 있는 장병과 대화"
-25,"TEXT_STMBDZ913_02869_TODO_01","쌍사당 병사와 대화"
+24,"TEXT_STMBDZ913_02869_TODO_00","和帝國東方堡的兵將對話"
+25,"TEXT_STMBDZ913_02869_TODO_01","和雙蛇黨兵卒對話"
 26,"TEXT_STMBDZ913_02869_TODO_02",""
 27,"TEXT_STMBDZ913_02869_TODO_03",""
 28,"TEXT_STMBDZ913_02869_TODO_04",""
@@ -49,60 +50,24 @@ int32,str,str
 45,"TEXT_STMBDZ913_02869_TODO_21",""
 46,"TEXT_STMBDZ913_02869_TODO_22",""
 47,"TEXT_STMBDZ913_02869_TODO_23",""
-48,"TEXT_STMBDZ913_02869_ELDERLYPRIVATE02869_000_000","죄송합니다만, 사람 찾는 일을 좀 부탁드려도 되겠습니까?
-사실은 제 딸이 카스트룸 오리엔스 근방으로 간 지
-한참 됐는데도 아직도 돌아오질 않고 있습니다……."
-49,"TEXT_STMBDZ913_02869_ELDERLYPRIVATE02869_000_001","그 지역에서 근무하고 있는 동맹군 장병들에게
-딸을 보지 못했는지 물어봐 주시겠습니까?
-당신이라면 그들과 안면이 있지 않을까 싶어서 말입니다……."
-50,"TEXT_STMBDZ913_02869_ELDERLYPRIVATE02869_000_002","딸의 머리카락은 금색이고 눈은 갈색입니다…….
-임무 때문에 바일사르 장성으로 갔을 것입니다.
-제발…… 꼭 좀 딸을 찾아주십시오!"
-51,"TEXT_STMBDZ913_02869_ELDERLYPRIVATE02869_000_003","딸의 머리카락은 금색이고 눈은 갈색입니다…….
-임무 때문에 바일사르 장성으로 갔을 것입니다.
-제발…… 꼭 좀 딸을 찾아주십시오!"
-52,"TEXT_STMBDZ913_02869_SWETHRYKBROOKSTONE_000_010","<If(GreaterThan(PlayerParameter(52),0))><If(GreaterThan(PlayerParameter(52),0))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(GreaterThan(PlayerParameter(53),0))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(GreaterThan(PlayerParameter(54),0))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If> 아닌가.
-어쩐 일인가, 나한테 볼일이 있나?"
-53,"TEXT_STMBDZ913_02869_SWETHRYKBROOKSTONE_000_011","그런 여성 투사가 왔다는 보고는 받은 적이 없는데.
-……하지만 이전에 그런 여성을 찾으러 온 남성이 있었다는
-보고는 부하한테 받은 적이 있어."
-54,"TEXT_STMBDZ913_02869_SWETHRYKBROOKSTONE_000_012","어쩌면 상세한 내용을 알고 있을지도 모르니
-'쌍사당 병사'에게 얘기를 들어보는 게 어떤가."
-55,"TEXT_STMBDZ913_02869_KAKALAI_000_013","금발의 여성 투사 말인가요……
-죄송합니다. 저는 전혀 모르겠어요.
-도와드리지 못해 죄송합니다. "
-56,"TEXT_STMBDZ913_02869_LOEZKIRZ_000_014","흠, 알라미고 해방군 여성 투사를 찾고 있다고?
-미코테족 여성은 본 적이 있는데,
-아무래도 자네가 찾고 있는 사람은 아닌 것 같아."
-57,"TEXT_STMBDZ913_02869_PIP_000_015","금발에 갈색 눈의 여성을 찾고 있다고요?
-저는 잘 모르겠지만, 쌍사당 분이라면 뭔가 알고 계실지도 몰라요.
-그 지역 보초는 쌍사당이 담당하고 있거든요."
-58,"TEXT_STMBDZ913_02869_SWETHRYKBROOKSTONE_000_016","어쩌면 상세한 내용을 알고 있을지도 모르니
-'쌍사당 병사'에게 얘기를 들어보는 게 어떤가."
-59,"TEXT_STMBDZ913_02869_KAKALAI_000_017","금발의 여성 투사 말인가요……
-죄송합니다. 저는 전혀 모르겠어요.
-도와드리지 못해 죄송합니다. "
-60,"TEXT_STMBDZ913_02869_LOEZKIRZ_000_018","흠, 알라미고 해방군 여성 투사를 찾고 있다고?
-미코테족 여성은 본 적이 있는데,
-아무래도 자네가 찾고 있는 사람은 아닌 것 같아."
-61,"TEXT_STMBDZ913_02869_PIP_000_019","금발에다 갈색 눈인 여성을 찾고 있다고요?
-저는 잘 모르겠지만, 쌍사당 분이라면 뭔가 알고 계실지도 몰라요.
-그 지역 보초는 쌍사당이 담당하고 있거든요."
-62,"TEXT_STMBDZ913_02869_TWINADDERSONSTELOT02869_000_030","뭐라고요?
-랄거의 손길에 있는 나이든 투사의 부탁을 받고
-따님을 찾고 있다고요?"
-63,"TEXT_STMBDZ913_02869_TWINADDERSONSTELOT02869_000_031","그분, 아직도 받아들이지 못하고 계시군요…….
-……사실 그분이 찾고 계신 따님은 행방불명이 아니라,
-진작에 세상을 떠났습니다."
-64,"TEXT_STMBDZ913_02869_TWINADDERSONSTELOT02869_000_032","나중에 조사해서 알게 된 사실인데, 그녀는
-철가면 연설에 감동을 받아 바일사르 장성 습격에 참가했고,
-그곳에서 목숨을 잃은 것 같아요."
-65,"TEXT_STMBDZ913_02869_TWINADDERSONSTELOT02869_000_033","저희가 유품을 회수해서 랄거의 손길로 갔을 때
-유족인 아버님과 만나서 신원도 확인했고요. "
-66,"TEXT_STMBDZ913_02869_TWINADDERSONSTELOT02869_000_034","하지만 그분은 따님의 죽음을 받아들일 수가 없었나 봐요.
-그 뒤로도 몇 번이고 이곳을 찾아와서는 딸의 행방을 찾고 있다고
-탄원을 반복하고 계세요……."
-67,"TEXT_STMBDZ913_02869_TWINADDERSONSTELOT02869_000_035","아버님에게는 다시 제가 설명 드리러 갈 테니,
-당신은 돌아가지 않아도 괜찮아요.
-일부러 여기까지 오시느라 수고하셨습니다. "
+48,"TEXT_STMBDZ913_02869_ELDERLYPRIVATE02869_000_000","真是抱歉，能不能幫我找個人啊？<hex:02100103>其實，我的女兒去了帝國東方堡附近，<hex:02100103>已經過了好久了，都還沒有回來……"
+49,"TEXT_STMBDZ913_02869_ELDERLYPRIVATE02869_000_001","能不能麻煩你去問問當地的同盟軍兵將，<hex:02100103>有沒有見過我女兒……<hex:02100103>你去問的話，他們也會樂於回答吧……"
+50,"TEXT_STMBDZ913_02869_ELDERLYPRIVATE02869_000_002","我女兒頭髮是金色，眼睛是栗色……<hex:02100103>因為任務前往了巴埃薩長城。<hex:02100103>拜託……拜託了，請找到我女兒！"
+51,"TEXT_STMBDZ913_02869_ELDERLYPRIVATE02869_000_003","我女兒頭髮是金色，眼睛是栗色……<hex:02100103>因為任務前往了巴埃薩長城。<hex:02100103>拜託……拜託了，請找到我女兒！"
+52,"TEXT_STMBDZ913_02869_SWETHRYKBROOKSTONE_000_010","這不是<hex:02084FE1E93501FF47><hex:020843E3E93580FF3B><hex:022903EB0203><hex:020831E1E93501FF29><hex:020825E3E93580FF1D><hex:022819FF14>GCRankLimsaMaleText<hex:E9350103><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03><hex:020852E1E93601FF4A><hex:020846E3E93680FF3E><hex:022903EB0203><hex:020834E1E93601FF2C><hex:020828E3E93680FF20><hex:02281CFF17>GCRankGridaniaMaleText<hex:E9360103><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03><hex:02084FE1E93701FF47><hex:020843E3E93780FF3B><hex:022903EB0203><hex:020831E1E93701FF29><hex:020825E3E93780FF1D><hex:022819FF14>GCRankUldahMaleText<hex:E9370103><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03>嗎？<hex:02100103>怎麼了？找我有什麼事？"
+53,"TEXT_STMBDZ913_02869_SWETHRYKBROOKSTONE_000_011","沒聽說過有這樣的女性戰士來啊。<hex:02100103>……不過，部下報告說以前有男性來找過這樣的女性。"
+54,"TEXT_STMBDZ913_02869_SWETHRYKBROOKSTONE_000_012","或許部下那邊會知道詳情，<hex:02100103>你就去問問雙蛇黨兵卒吧。"
+55,"TEXT_STMBDZ913_02869_KAKALAI_000_013","金髮的女性戰士嗎？<hex:02100103>真是抱歉，我沒什麼印象，<hex:02100103>幫不上你了。"
+56,"TEXT_STMBDZ913_02869_LOEZKIRZ_000_014","嗯……你在找阿拉米格解放軍的女性戰士？<hex:02100103>我只見到過貓魅族的女性……<hex:02100103>和你找的應該不是同一個人吧？"
+57,"TEXT_STMBDZ913_02869_PIP_000_015","你在找金髮和栗色眼睛的女性？<hex:02100103>我雖然不太清楚，不過雙蛇黨的人應該會知道。<hex:02100103>當地的哨兵都是由雙蛇黨負責的……"
+58,"TEXT_STMBDZ913_02869_SWETHRYKBROOKSTONE_000_016","或許部下那邊會知道詳情，<hex:02100103>你就去問問雙蛇黨兵卒吧。"
+59,"TEXT_STMBDZ913_02869_KAKALAI_000_017","金髮的女性戰士嗎？<hex:02100103>真是抱歉，我沒什麼印象，<hex:02100103>幫不上你了。"
+60,"TEXT_STMBDZ913_02869_LOEZKIRZ_000_018","嗯……你在找阿拉米格解放軍的女性戰士？<hex:02100103>我只見到過貓魅族的女性……<hex:02100103>和你找的應該不是同一個人吧？"
+61,"TEXT_STMBDZ913_02869_PIP_000_019","你在找金髮和栗色眼睛的女性？<hex:02100103>我雖然不太清楚，不過雙蛇黨的人應該會知道。<hex:02100103>當地的哨兵都是由雙蛇黨負責的……"
+62,"TEXT_STMBDZ913_02869_TWINADDERSONSTELOT02869_000_030","什麼？<hex:02100103>神拳痕的老戰士拜託你來找他的女兒？"
+63,"TEXT_STMBDZ913_02869_TWINADDERSONSTELOT02869_000_031","那位老人還沒有接受事實啊……<hex:02100103>……其實，他要找的女兒並不是失蹤，<hex:02100103>而是已經去世了。"
+64,"TEXT_STMBDZ913_02869_TWINADDERSONSTELOT02869_000_032","之後調查時發現，她被鐵面公卿的演講打動了心，<hex:02100103>參加了襲擊巴埃薩長城的計畫，<hex:02100103>並在那裡失去了性命。"
+65,"TEXT_STMBDZ913_02869_TWINADDERSONSTELOT02869_000_033","我們帶著回收的遺物，前往神拳痕尋找遺屬時，<hex:02100103>遇到了她的父親並確定了她的身份。"
+66,"TEXT_STMBDZ913_02869_TWINADDERSONSTELOT02869_000_034","不過，那位老人好像無法接受自己女兒的死。<hex:02100103>在那之後，他還多次造訪這裡，<hex:02100103>並苦苦哀求我們尋找自己的女兒。"
+67,"TEXT_STMBDZ913_02869_TWINADDERSONSTELOT02869_000_035","父親那邊就由我去說明吧，<hex:02100103>你去忙你的就好了。<hex:02100103>真是辛苦你了，還特意跑來這裡。"
 68,"TEXT_STMBDZ913_02869_TWINADDERSONSTELOT02869_000_036","（★未使用／削除予定★）"

@@ -1,36 +1,19 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGYOK6FIELDSOFGOLD_00905_DANUHALI_000_000","어서 와, 어서 와, 여행자님…….
-지금은 좀 기운이 없지만 이해해 줘……."
-1,"TEXT_REGYOK6FIELDSOFGOLD_00905_DANUHALI_000_001","어서 와, 어서 와, 여행자님.
-갈대가 모두 싱싱해졌어!
-우리 논에 대해 얘기해 줄까?"
-2,"TEXT_REGYOK6FIELDSOFGOLD_00905_DANUHALI_000_002","어서 와, 어서 와, 여행자님.
-덕분에 그 후로 갈대는 여전히 싱싱해.
-우리 논에 대해 얘기해 줄까?"
-3,"TEXT_REGYOK6FIELDSOFGOLD_00905_Q1_000_000","무엇을 물어보시겠습니까?"
-4,"TEXT_REGYOK6FIELDSOFGOLD_00905_A1_000_001","당신의 이야기를 들려달라고 한다"
-5,"TEXT_REGYOK6FIELDSOFGOLD_00905_A1_000_002","여기는 어떤 곳인지 물어본다"
-6,"TEXT_REGYOK6FIELDSOFGOLD_00905_A1_000_003","취소"
-7,"TEXT_REGYOK6FIELDSOFGOLD_00905_DANUHALI_000_010","우리 생활의 버팀목인 갈대를 기르고 싶어서
-여기서 일하고 있는데 영 기운이 나지 않아…….
-다음 수확량도 아주 적을 것 같고……."
-8,"TEXT_REGYOK6FIELDSOFGOLD_00905_DANUHALI_000_011","그, 그, 달큼한 맛을 즐길 수 없다니……!
-으으, 상상만 해도 배가 꼬르륵거리네……."
-9,"TEXT_REGYOK6FIELDSOFGOLD_00905_DANUHALI_000_012","우리 생활의 버팀목인 갈대를 기르는 게 나의 임무야!
-한때는 수확량이 위태위태했지만
-계승 의식 덕분에 갈대들이 생기를 되찾았어!"
-10,"TEXT_REGYOK6FIELDSOFGOLD_00905_DANUHALI_000_013","생명력이 가득한, 이 달큼한 맛을 즐길 수 있게 되다니!
-으으, 상상만 했는데 또 배가 꼬르륵거리네!"
-11,"TEXT_REGYOK6FIELDSOFGOLD_00905_DANUHALI_000_020","여기는 갈대를 기르는 '금빛 갈대밭'…….
-잘 여문 갈대들이 금빛 소용돌이처럼 보인다고 해서
-지어진 이름인데……."
-12,"TEXT_REGYOK6FIELDSOFGOLD_00905_DANUHALI_000_021","보다시피 갈대들이 시들시들해서……
-하아…… 대체 이유가 뭐지……?"
-13,"TEXT_REGYOK6FIELDSOFGOLD_00905_DANUHALI_000_022","여기는 갈대를 기르는 '금빛 갈대밭'이야.
-잘 여문 갈대들이 금빛 소용돌이처럼 보인다고 해서
-지어진 이름이지."
-14,"TEXT_REGYOK6FIELDSOFGOLD_00905_DANUHALI_000_023","모두가 힘을 빌려준 덕분에
-우리 갈대들이 생기를 되찾았어.
-정말 고마워."
+0,"TEXT_REGYOK6FIELDSOFGOLD_00905_DANUHALI_000_000","旅行者，歡迎光臨……<hex:02100103>現在暫時沒什麼活力，請見諒……"
+1,"TEXT_REGYOK6FIELDSOFGOLD_00905_DANUHALI_000_001","旅行者，歡迎光臨。<hex:02100103>蘆葦如今都已經恢復了活力！<hex:02100103>需要我給你介紹一下這片水田的情況嗎？"
+2,"TEXT_REGYOK6FIELDSOFGOLD_00905_DANUHALI_000_002","旅行者，歡迎光臨。<hex:02100103>托你的福，自那之後蘆葦的狀態一直保持得很不錯。<hex:02100103>要跟你聊聊這片水田的事嗎？"
+3,"TEXT_REGYOK6FIELDSOFGOLD_00905_Q1_000_000","想了解什麼？"
+4,"TEXT_REGYOK6FIELDSOFGOLD_00905_A1_000_001","你是做什麼的？"
+5,"TEXT_REGYOK6FIELDSOFGOLD_00905_A1_000_002","這裡是什麼地方？"
+6,"TEXT_REGYOK6FIELDSOFGOLD_00905_A1_000_003","取消"
+7,"TEXT_REGYOK6FIELDSOFGOLD_00905_DANUHALI_000_010","我想培育作為大家生活來源的蘆葦，<hex:02100103>所以選擇了在這裡工作，但蘆葦似乎沒什麼活力啊……<hex:02100103>感覺下次的收穫量也會很少……"
+8,"TEXT_REGYOK6FIELDSOFGOLD_00905_DANUHALI_000_011","那個，無法享受甘甜的味道……<hex:02100103>嗚嗚，光是想想肚子就開始咕咕叫了……"
+9,"TEXT_REGYOK6FIELDSOFGOLD_00905_DANUHALI_000_012","培育作為大家生活來源的蘆葦就是我的工作！<hex:02100103>雖然收穫量曾一度陷入危機，<hex:02100103>但多虧了繼位儀式，蘆葦已經恢復了活力！"
+10,"TEXT_REGYOK6FIELDSOFGOLD_00905_DANUHALI_000_013","能夠享受到這充滿生命力的甘甜味道！<hex:02100103>嗚嗚，光是想想肚子就又開始叫起來了！"
+11,"TEXT_REGYOK6FIELDSOFGOLD_00905_DANUHALI_000_020","這裡是培育蘆葦的金渦水田……<hex:02100103>結出果實的蘆葦看起來就像金色漩渦一樣，<hex:02100103>因此得名……"
+12,"TEXT_REGYOK6FIELDSOFGOLD_00905_DANUHALI_000_021","如你所見，蘆葦沒什麼活力……<hex:02100103>哎……為什麼會這樣呢？"
+13,"TEXT_REGYOK6FIELDSOFGOLD_00905_DANUHALI_000_022","這裡是培育蘆葦的金渦水田。<hex:02100103>結出果實的蘆葦看起來就像金色漩渦一樣，<hex:02100103>因此得名。"
+14,"TEXT_REGYOK6FIELDSOFGOLD_00905_DANUHALI_000_023","多虧了大家的幫助，<hex:02100103>這裡的蘆葦已經恢復了活力。<hex:02100103>真的非常感謝。"

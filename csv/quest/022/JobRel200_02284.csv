@@ -1,13 +1,10 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_JOBREL200_02284_SEQ_00","<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>특수 규칙:  직업 고정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-아르다시르는 계속해서 인조 정령을 연구하고 싶은 듯하다."
-1,"TEXT_JOBREL200_02284_SEQ_01","※ 이 퀘스트에는 <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow> 직업 고정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 적용됩니다.
-   퀘스트 수락 시의 직업으로만 퀘스트를 진행할 수 있습니다.
-
-아르다시르는 인조 정령에게 모험가의 에테르를 쉽게 전달할 수 있도록 아니마 웨폰을 개량하자고 제안했다. 이를 위해 먼저 게롤트가 사용하는 도구를 절령화해야 하는 모양이다. 게롤트가 절령화에 필요한 <Sheet(Item,14899,0)/><13>FF0F02280BFF054974656DF23A330103FF04EBA5BCFF04EC9D84</13> 모아달라고 부탁했다. 퀘스트를 받았을 때의 직업이 되어, '아니마 웨폰'을 소지품에 보유한 상태로 나선 발착장에 있는 아르다시르에게 <Sheet(Item,14899,0)/><13>FF0F02280BFF054974656DF23A330103FF04EBA5BCFF04EC9D84</13> 5개 건네자."
-2,"TEXT_JOBREL200_02284_SEQ_02","아르다시르에게 <Sheet(Item,14899,0)/><13>FF0F02280BFF054974656DF23A330103FF04EBA5BCFF04EC9D84</13> 건넸다. 모험가의 에테르가 인조 정령에게 전달된 증거로 무기가 아름답게 빛났다. 인조 정령에게도 변화가 나타난 듯한데……. 다음 연구에 대비해 '초전도 아니마 웨폰'과 함께 성장하자."
+0,"TEXT_JOBREL200_02284_SEQ_00","<hex:024804F201F603><hex:024904F201F703>特殊規則：  職業固定<hex:0249020103><hex:0248020103><hex:02100103>阿爾達希爾希望繼續推進人造聖靈的研究。"
+1,"TEXT_JOBREL200_02284_SEQ_01","※本任務為<hex:024804F201F603><hex:024904F201F703><hex:0249020103><hex:0248020103> 職業固定任務，<hex:02100103>　需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>阿爾達希爾提案對聖靈武器進行改造，使冒險者更容易將乙太傳導給人造聖靈。為此，需要將蓋羅爾特的工具進行絕靈化才行。蓋羅爾特委託冒險者收集絕靈化用的<hex:02280BFF05>Item<hex:F23A330103>。使用接受任務時的職業並換下聖靈武器放在兵裝庫或背包中，將5個<hex:02280BFF05>Item<hex:F23A330103>交給魔大陸阿濟茲拉螺旋港的阿爾達希爾。"
+2,"TEXT_JOBREL200_02284_SEQ_02","將<hex:02280BFF05>Item<hex:F23A330103>交給了阿爾達希爾。武器發散出的美麗光輝完美證明了冒險者的乙太已源源不絕地傳導給人造聖靈，人造聖靈本身也有了一些改變……和聖靈武器·超導共同成長，為下一次研究做好準備。"
 3,"TEXT_JOBREL200_02284_SEQ_03",""
 4,"TEXT_JOBREL200_02284_SEQ_04",""
 5,"TEXT_JOBREL200_02284_SEQ_05",""
@@ -29,8 +26,7 @@ int32,str,str
 21,"TEXT_JOBREL200_02284_SEQ_21",""
 22,"TEXT_JOBREL200_02284_SEQ_22",""
 23,"TEXT_JOBREL200_02284_SEQ_23",""
-24,"TEXT_JOBREL200_02284_TODO_00","<If(Equal(IntegerParameter(4),19))><Sheet(Item,13223,0)/><13>FF0F02280BFF054974656DF233A70103FF04EC9980FF04EAB3BC</13> <Sheet(Item,13236,0)/><13>FF0F02280BFF054974656DF233B40103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),20))><Sheet(Item,13224,0)/><13>FF0F02280BFF054974656DF233A80103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),21))><Sheet(Item,13225,0)/><13>FF0F02280BFF054974656DF233A90103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),22))><Sheet(Item,13226,0)/><13>FF0F02280BFF054974656DF233AA0103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),23))><Sheet(Item,13227,0)/><13>FF0F02280BFF054974656DF233AB0103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),24))><Sheet(Item,13231,0)/><13>FF0F02280BFF054974656DF233AF0103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),25))><Sheet(Item,13232,0)/><13>FF0F02280BFF054974656DF233B00103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),27))><Sheet(Item,13233,0)/><13>FF0F02280BFF054974656DF233B10103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),28))><Sheet(Item,13234,0)/><13>FF0F02280BFF054974656DF233B20103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),30))><Sheet(Item,13228,0)/><13>FF0F02280BFF054974656DF233AC0103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),31))><Sheet(Item,13230,0)/><13>FF0F02280BFF054974656DF233AE0103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),32))><Sheet(Item,13229,0)/><13>FF0F02280BFF054974656DF233AD0103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),33))><Sheet(Item,13235,0)/><13>FF0F02280BFF054974656DF233B30103FF04EBA5BCFF04EC9D84</13> <Else/></If></If></If></If></If></If></If></If></If></If></If></If></If>소지하고
-나선 발착장에서 아르다시르에게 <Sheet(Item,14899,0)/> 전달"
+24,"TEXT_JOBREL200_02284_TODO_00","攜帶<hex:0208F2016EE4E80514FF20><hex:02280BFF05>Item<hex:F233A70103>與<hex:02280BFF05>Item<hex:F233B40103><hex:FFF20145><hex:0208F2013FE4E80515FF0F><hex:02280BFF05>Item<hex:F233A80103><hex:FFF20127><hex:0208F20121E4E80516FF0F><hex:02280BFF05>Item<hex:F233A90103><hex:FFF20109><hex:0208F20103E4E80517FF0F><hex:02280BFF05>Item<hex:F233AA0103><hex:FFF0EC><hex:0208F0E7E4E80518FF0F><hex:02280BFF05>Item<hex:F233AB0103><hex:FFF0D0><hex:0208CDE4E80519FF0F><hex:02280BFF05>Item<hex:F233AF0103><hex:FFB7><hex:0208B3E4E8051AFF0F><hex:02280BFF05>Item<hex:F233B00103><hex:FF9D><hex:020899E4E8051CFF0F><hex:02280BFF05>Item<hex:F233B10103><hex:FF83><hex:02087FE4E8051DFF0F><hex:02280BFF05>Item<hex:F233B20103><hex:FF69><hex:020865E4E8051FFF0F><hex:02280BFF05>Item<hex:F233AC0103><hex:FF4F><hex:02084BE4E80520FF0F><hex:02280BFF05>Item<hex:F233AE0103><hex:FF35><hex:020831E4E80521FF0F><hex:02280BFF05>Item<hex:F233AD0103><hex:FF1B><hex:020817E4E80522FF0F><hex:02280BFF05>Item<hex:F233B30103><hex:FF01><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:02100103>將<hex:02280BFF05>Item<hex:F23A330103>交給螺旋港的阿爾達希爾"
 25,"TEXT_JOBREL200_02284_TODO_01",""
 26,"TEXT_JOBREL200_02284_TODO_02",""
 27,"TEXT_JOBREL200_02284_TODO_03",""
@@ -54,219 +50,96 @@ int32,str,str
 45,"TEXT_JOBREL200_02284_TODO_21",""
 46,"TEXT_JOBREL200_02284_TODO_22",""
 47,"TEXT_JOBREL200_02284_TODO_23",""
-48,"TEXT_JOBREL200_02284_SYSTEM_000_000","퀘스트 '인조 정령의 목소리'에서 획득할 수 있는 무기는
-현재 직업인 <If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If> 전용 아니마 웨폰입니다.
-'인조 정령의 목소리'를 <If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If><14>FF3B020837E3E94509FF1202280EFF09436C6173734A6F62E9450103FF1E02081AE1E94513FF1202280EFF09436C6173734A6F62E9450103FF010303FF04EBA19CFF07EC9CBCEBA19C</14> 수락하시겠습니까?"
-49,"TEXT_JOBREL200_02284_Q1_000_000","<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>의 아니마 웨폰을 창조하시겠습니까?"
-50,"TEXT_JOBREL200_02284_A1_000_000","조금 더 고민해본다"
-51,"TEXT_JOBREL200_02284_A2_000_000","<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>의 아니마 웨폰을 창조한다"
-52,"TEXT_JOBREL200_02284_SYSTEM_100_001","퀘스트 '인조 정령의 목소리'를 수락하면
-퀘스트를 완료하거나 포기할 때까지
-다른 직업으로 '인조 정령의 목소리'를 수락할 수 없습니다."
-53,"TEXT_JOBREL200_02284_SYSTEM_100_002","아니마 웨폰을 창조하고 싶은 직업으로 변경한 후
-다시 아르다시르에게 말을 거십시오."
-54,"TEXT_JOBREL200_02284_SYSTEM_100_003","<Sheet(Item,IntegerParameter(1),0)/> 및
-<Sheet(Item,IntegerParameter(2),0)/><13>FF0E02280AFF054974656DE8030103FF04EBA5BCFF04EC9D84</13> 소지하거나 장비하지 않으면
-퀘스트 '인조 정령의 목소리'를 수락할 수 없습니다."
-55,"TEXT_JOBREL200_02284_SYSTEM_100_004","<Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13>
-소지하거나 장비하지 않으면
-퀘스트 '인조 정령의 목소리'를 수락할 수 없습니다."
-56,"TEXT_JOBREL200_02284_SYSTEM_100_005","이미 <Sheet(Item,IntegerParameter(1),0)/> 및
-<Sheet(Item,IntegerParameter(2),0)/><13>FF0E02280AFF054974656DE8030103FF04EBA5BCFF04EC9D84</13> 획득했습니다.
-다른 직업으로 변경한 후 다시 아르다시르에게 말을 거십시오."
-57,"TEXT_JOBREL200_02284_SYSTEM_100_006","이미 <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 획득했습니다.
-다른 직업으로 변경한 후 다시 아르다시르에게 말을 거십시오."
-58,"TEXT_JOBREL200_02284_ARDASHIR_000_000","이제까지의 제작 과정에서 인조 정령은
-<Highlight>ObjectParameter(1)</Highlight> 님에게 일방적으로 의사를 표현했습니다."
-59,"TEXT_JOBREL200_02284_ARDASHIR_000_001","하지만 스스로 생각하는 무기를 구현하려면
-일방통행이 아닌 대화가 성립되도록 해야만 해요!"
-60,"TEXT_JOBREL200_02284_ARDASHIR_000_002","이번에는 인조 정령이 당신을 주인으로 인식하고
-자연스럽게 대화하는 걸 목표로 삼아보죠……!"
-61,"TEXT_JOBREL200_02284_ARDASHIR_000_003","그나저나 왜 오직 <Highlight>ObjectParameter(1)</Highlight> 님만이
-인조 정령의 모습을 볼 수 있었는지……."
-62,"TEXT_JOBREL200_02284_ARDASHIR_000_004","틀림없이 <Highlight>ObjectParameter(1)</Highlight> 님에게는
-우리와 결정적으로 다른 점이 있을 거라는 생각에……
-죄송하지만 몰래 당신의 신상을 좀 알아봤습니다."
-63,"TEXT_JOBREL200_02284_ARDASHIR_000_005","……<Highlight>ObjectParameter(1)</Highlight> 님.
-당신에게는 '초월하는 힘'이라는 능력이 있다면서요?"
-64,"TEXT_JOBREL200_02284_ARDASHIR_000_006","'언어의 벽'이나 '마음의 벽'조차 뛰어넘는 그 능력으로
-인조 정령의 모습을 보고 목소리를 들은 게 아닐까……
-저는 그런 가설을 세웠습니다."
-65,"TEXT_JOBREL200_02284_GEROLT_000_007","그러니까 그 말은, 이 녀석의 능력 없이는
-인조 정령을 볼 수조차 없다는 뜻이잖아?"
-66,"TEXT_JOBREL200_02284_GEROLT_000_008","그렇게 사람을 가리는 물건을 만들어봤자 무슨 소용이야!!
-누구든지 다룰 수 있게 만드는 방법도
-어련히 생각해 놨으렷다?"
-67,"TEXT_JOBREL200_02284_ARDASHIR_100_008","그럼요, 물론이죠!!"
-68,"TEXT_JOBREL200_02284_ARDASHIR_000_009","이 인조 정령은 <Highlight>ObjectParameter(1)</Highlight> 님이 수집한
-'별빛 극성'과 '그림자 극성' 에테르로 만들어낸
-일종의 마법 생물입니다."
-69,"TEXT_JOBREL200_02284_ARDASHIR_000_010","골렘처럼 단순한 마법 생물이라면
-처음에 공급한 마력만으로도 존재를 유지할 수 있지만,
-의사소통이 가능할 정도로 '성장'할 수는 없어요……."
-70,"TEXT_JOBREL200_02284_ARDASHIR_000_011","바꿔 말하면, 인조 정령이 흩어지지 않고 '성장'했다는 건
-어딘가에서 에테르를 지속적으로 공급받고 있었다는 뜻이지요.
-그 에테르의 원천은, 바로 정령과 함께 여행했던 당신입니다."
-71,"TEXT_JOBREL200_02284_ARDASHIR_000_012","인조 정령에게 당신의 에테르를 더 많이 흡수시키면
-'성장'이 더욱 촉진되어 의사소통이 가능한 수준까지도
-힘을 기를 수 있을 게 분명합니다."
-72,"TEXT_JOBREL200_02284_ARDASHIR_000_013","이 구조를 확립하기만 하면, 언젠가는 초능력에 의존하지 않고도
-의사소통이 가능해질 테고요!
-범용성 문제도 해결되니 그야말로 일석이조죠."
-73,"TEXT_JOBREL200_02284_ARDASHIR_000_014","그러려면, 게롤트 님…… 당신의 기술이 필요합니다.
-<Highlight>ObjectParameter(1)</Highlight> 님의 에테르를 인조 정령에게
-효율적으로 보낼 수 있도록 무기를 개량할 수 있을까요?"
-74,"TEXT_JOBREL200_02284_GEROLT_000_015","그야 못 할 건 없지.
-아니마 웨폰을 다시 벼려서
-에테르 전도율을 높이면 될 일이긴 한데……."
-75,"TEXT_JOBREL200_02284_GEROLT_100_015","<Highlight>ObjectParameter(1)</Highlight>의 에테르만 전달하게 만들려면
-문제가 좀 있단 말이지……."
-76,"TEXT_JOBREL200_02284_GEROLT_000_016","무기의 에테르 전도율을 높이면
-필연적으로 작업자인 내 에테르도 흘러들어가게 돼.
-즉, 나와 인조 정령의 에테르가 가까워진단 뜻이지."
-77,"TEXT_JOBREL200_02284_GEROLT_100_017","난 인조 정령의 주인이 될 생각도 없고,
-뭣보다 인조 정령이 나를 닮기라도 했다간……
-생각해봐라, 서로의 재능에 질투하게 되지 않겠냐?"
-78,"TEXT_JOBREL200_02284_ARDASHIR_100_018","……네, 그렇게 소름 끼치는 대참사는
-절대 일어나서는 안 되겠죠!
-뭔가 대처할 방법이라도 있습니까……?"
-79,"TEXT_JOBREL200_02284_GEROLT_100_019","뭐 인마!? 정말 매사에 신경을 긁어대는구만!
-뭐…… 물론 대처법은 있다.
-내 에테르를 단절시키고 작업하면 되지."
-80,"TEXT_JOBREL200_02284_GEROLT_100_020","그러기 위해선 내 작업 도구를
-에테르가 통하지 않는 상태로……
-즉, '절령화'된 상태로 만들 필요가 있다."
-81,"TEXT_JOBREL200_02284_GEROLT_000_017","이 마대륙에서 알라그의 지식을 해독하다 알아낸 건데,
-먼 옛날에는 <Sheet(Item,14899,0)/><13>FF0F02280BFF054974656DF23A330103FF04EB9DBCFF07EC9DB4EB9DBC</13>는 게 있었다고 한다.
-그게 있으면 내 도구를 일시적으로 '절령화'할 수 있지."
-82,"TEXT_JOBREL200_02284_GEROLT_000_018","어디서 구할 수 있는지는 모르겠지만
-지금까지 온갖 특이한 물건을 거래했던 네놈이라면
-<Sheet(Item,14899,0)/>쯤이야 얼마든지 찾을 수 있겠지?"
-83,"TEXT_JOBREL200_02284_GEROLT_000_019","자, 그럼…… <Highlight>ObjectParameter(1)</Highlight>!!
-지금까지 거래했던 상인이든 뭐든 이 잡듯이 수소문해서
-모루와 망치에 쓸 <Sheet(Item,14899,0)/><13>FF0F02280BFF054974656DF23A330103FF04EBA5BCFF04EC9D84</13> 5개 가져와!"
-84,"TEXT_JOBREL200_02284_ARDASHIR_000_020","……알라그의 지식을 조사했다는 점은 높이 평가하지만,
-어디서 얻을 수 있는지는 생각도 안 해봤다니……
-역시 게롤트 님은 세심함이라곤 없는 한심한 아저씨네요."
-85,"TEXT_JOBREL200_02284_ARDASHIR_000_021","<Highlight>ObjectParameter(1)</Highlight> 님…….
-저랑 게롤트 님은 앞으로 해야 할 조정 작업을 위해
-관련이 있을 법한 알라그의 지식을 다시 철저히 조사하겠습니다."
-86,"TEXT_JOBREL200_02284_ARDASHIR_000_022","죄송하지만 당신은 그 사이에
-<Sheet(Item,14899,0)/><13>FF0F02280BFF054974656DF23A330103FF04EBA5BCFF04EC9D84</13> 5개 구해주세요!"
-87,"TEXT_JOBREL200_02284_ARDASHIR_000_030","그럼 지난번과 마찬가지로
-<Highlight>ObjectParameter(1)</Highlight> 님과 인조 정령이
-자연스럽게 대화할 수 있게 무기를 개량하죠."
-88,"TEXT_JOBREL200_02284_ARDASHIR_000_031","<Highlight>ObjectParameter(1)</Highlight> 님의 에테르만을
-효율적으로 인조 정령에게 전달하려면
-게롤트 님의 도구를 일시적으로 절령화해야 합니다."
-89,"TEXT_JOBREL200_02284_ARDASHIR_000_032","절령화에 필요한 <Sheet(Item,14899,0)/><13>FF0F02280BFF054974656DF23A330103FF04EBA5BCFF04EC9D84</13>
-5개 가져다주세요!"
-90,"TEXT_JOBREL200_02284_ARDASHIR_000_040","<Sheet(Item,14899,0)/><13>FF0F02280BFF054974656DF23A330103FF04EBA5BCFF04EC9D84</13> 5개 다 모으셨으면
-가지고 계신 아니마 웨폰과 함께 건네주세요!"
-91,"TEXT_JOBREL200_02284_SYSTEM_100_040","<Sheet(Item,IntegerParameter(1),0)/> 및
-<Sheet(Item,IntegerParameter(2),0)/><13>FF0E02280AFF054974656DE8030103FF04EBA5BCFF04EC9D84</13>
-소지품에 넣어야만 퀘스트를 진행할 수 있습니다."
-92,"TEXT_JOBREL200_02284_SYSTEM_100_041","<Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13>
-소지품에 넣어야만 퀘스트를 진행할 수 있습니다."
-93,"TEXT_JOBREL200_02284_ARDASHIR_000_041","게롤트 님의 도구를 절령화하는 데 필요한
-<Sheet(Item,14899,0)/><13>FF0F02280BFF054974656DF23A330103FF04EBA5BCFF04EC9D84</13> 5개 가져다주세요!"
-94,"TEXT_JOBREL200_02284_ARDASHIR_000_042","수고하셨습니다……!
-저희도 구할 수 있는 범위의 자료는 모두 조사했습니다."
-95,"TEXT_JOBREL200_02284_ARDASHIR_000_043","모두 참고가 되는 내용이었지만
-특히 마과학에 관해서는 흥미로운 내용이 많더군요.
-인조 정령 육성에도 활용할 수 있을 것 같아요!"
-96,"TEXT_JOBREL200_02284_ARDASHIR_000_044","게롤트 님이 자꾸만 술에 손을 대려고 하셔서
-감시하느라 애먹긴 했지만요…….
-하여간 정말 골치 아픈 아저씨라니까요!"
-97,"TEXT_JOBREL200_02284_ARDASHIR_100_043","수고하셨습니다……!
-저도 게롤트 님을 빈틈없이 감시하고 있었어요.
-잠깐이라도 눈을 떼면 고주망태가 될 것 같아서요……. "
-98,"TEXT_JOBREL200_02284_GEROLT_000_045","시끄러 인마!
-넌 젖내 나는 꼬맹이라 모르겠지만,
-이 몸은 술을 마셔야 머리가 맑아진단 말이다!"
-99,"TEXT_JOBREL200_02284_ARDASHIR_000_046","……머리가 반짝반짝 빛나는 게 아니고요?"
-100,"TEXT_JOBREL200_02284_GEROLT_000_047","짜식이 한마디도 안 진다니까…….
-됐고, <Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EAB080FF04EC9DB4</13> 가져온 절령유나 모루에 발라봐."
-101,"TEXT_JOBREL200_02284_ARDASHIR_000_048","……됐다, 완벽하게 발랐습니다!"
-102,"TEXT_JOBREL200_02284_GEROLT_000_049","옳지, 나도 망치에 꼼꼼히 발라놨다.
-그럼 바로 작업을 시작해볼까!
-절령유의 효과가 사라지기 전에 후딱 마무리하자고!"
-103,"TEXT_JOBREL200_02284_GEROLT_000_050","（★未使用／削除予定★）"
-104,"TEXT_JOBREL200_02284_GEROLT_000_051","（★未使用／削除予定★）"
-105,"TEXT_JOBREL200_02284_GEROLT_000_052","（★未使用／削除予定★）"
-106,"TEXT_JOBREL200_02284_ARDASHIR_000_053","그 절령유는 <Highlight>ObjectParameter(1)</Highlight> 님이
-갖은 고생 끝에 모아오신 겁니다.
-절대 실수하시면 안 돼요!"
-107,"TEXT_JOBREL200_02284_GEROLT_000_054","누가 모르냐!? 알고 있다고!
-정신 집중하려고 증류주도 잔뜩 퍼마셨으니 걱정 마라!"
-108,"TEXT_JOBREL200_02284_ARDASHIR_000_055","그렇군요, 당신도 조금이나마 생각이 있으신……."
-109,"TEXT_JOBREL200_02284_ARDASHIR_000_056","……잠깐, 술을 마셨다고요!?
-술 마신 사람한테 어떻게 인조 정령을 맡깁니까!!"
-110,"TEXT_JOBREL200_02284_GEROLT_000_057","이건 평범한 술이 아니라고……
-감시꾼 아르다시르의 눈을 피해 간신히 찾아낸
-최고의 증류주다!"
-111,"TEXT_JOBREL200_02284_GEROLT_000_058","술이 들어간 이 몸의 실력을……
-입 다물고 똑똑히 봐라, 이 망할 꼬맹아……!!"
-112,"TEXT_JOBREL200_02284_GEROLT_000_059","술이 들어간 이 몸의 실력을……
-입 다물고 똑똑히 봐라, 이 망할 꼬맹아……!!"
-113,"TEXT_JOBREL200_02284_ARDASHIR_000_060","어…… 어떻게 이런 섬세한 솜씨를 발휘할 수 있지!?
-술이 그의 진정한 능력을 끌어내는 걸까요?"
-114,"TEXT_JOBREL200_02284_ARDASHIR_000_061","……역시 술이 그의 진정한 능력을
-끌어내는 걸까요?"
-115,"TEXT_JOBREL200_02284_ARDASHIR_000_062","……게, 게롤트 님이 평소 같지 않습니다.
-뭔가 엄청나게…… 닭살이 돋는 느낌이에요……."
-116,"TEXT_JOBREL200_02284_ARDASHIR_000_063","몇 번을 봐도 징그럽네요."
-117,"TEXT_JOBREL200_02284_GEROLT_000_064","완성이다!
-하, 이것이 내 진정한 힘의 일부다…….
-어때, 존경스럽지?"
-118,"TEXT_JOBREL200_02284_GEROLT_000_065","자, 네 손으로 직접 무기를 쥐어봐.
-에테르가 인조 정령으로 쭉쭉 흘러들어 갈 거다!"
-119,"TEXT_JOBREL200_02284_GEROLT_100_066","<Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EC9980FF04EAB3BC</13> 나의 걸작!
-이름하여 <Sheet(Item,IntegerParameter(1),0)/>!"
-120,"TEXT_JOBREL200_02284_GEROLT_100_067","<Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EC9980FF04EAB3BC</13> 나의 걸작!
-이름하여 <Sheet(Item,IntegerParameter(1),0)/>……
-그리고 <Sheet(Item,IntegerParameter(2),0)/><13>FF0E02280AFF054974656DE8030103FF04EB8BA4FF07EC9DB4EB8BA4</13>!"
-121,"TEXT_JOBREL200_02284_ARDASHIR_000_066","대단해요…… 정말 환상적인 빛입니다……!
-<Highlight>ObjectParameter(1)</Highlight> 님의 에테르가 흐르고 있군요!
-이제 인조 정령이 더 성장하겠죠……!?"
-122,"TEXT_JOBREL200_02284_BUKINOSEIREI_000_067","……따뜻해."
-123,"TEXT_JOBREL200_02284_BUKINOSEIREI_000_068","마음이 포근해지는 이 에테르…….
-역시…… 당신이 제 주인이었군요."
-124,"TEXT_JOBREL200_02284_BUKINOSEIREI_000_069","주인님…… 바깥 세계를, 더 많이 보고 싶습니다.
-데려가 줄 수 있으십니까?"
-125,"TEXT_JOBREL200_02284_BUKINOSEIREI_000_070","……따뜻한 에테르……."
-126,"TEXT_JOBREL200_02284_BUKINOSEIREI_000_071","포근하고, 그리운 듯한 느낌…….
-역시, 당신이 제 주인이셨군요……."
-127,"TEXT_JOBREL200_02284_BUKINOSEIREI_000_072","주인님…… 부탁이 있어요.
-바깥세상을, 더 많이 구경하고 싶어요.
-데려가 주실래요?"
-128,"TEXT_JOBREL200_02284_ARDASHIR_000_073","<Highlight>ObjectParameter(1)</Highlight> 님……?
-설마 인조 정령과 대화를 나누신 겁니까!?"
-129,"TEXT_JOBREL200_02284_ARDASHIR_000_074","해냈군요……!
-이대로 잘 성장시키면 언젠가는 우리 눈에도 보일 겁니다…….
-스스로 생각하는 무기도 틀림없이 만들 수 있어요!"
-130,"TEXT_JOBREL200_02284_GEROLT_000_075","어떠냐, 일류 무기장인의 힘이……!
-좋아, 네놈들한테 재밌는 걸 하나 더 보여주마!"
-131,"TEXT_JOBREL200_02284_GEROLT_000_076","<Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EAB080FF04EC9DB4</13> 절령유를 구하느라 고생하는 동안
-아주 재미있는 걸 발견했거든."
-132,"TEXT_JOBREL200_02284_GEROLT_000_077","가르치는 대로 뭐든지 척척 배우길래
-시험 삼아 증류주를 만들도록 시켰더니만
-이게 제법 먹을 만하더라고……."
-133,"TEXT_JOBREL200_02284_GEROLT_000_078","그래서 요놈 쓸 만하다 싶어서
-아니마 웨폰의 겉모양만 흉내 낸 모조품 정도는
-뚝딱 만들 수 있게 잘 교육시켜 뒀지!!"
-134,"TEXT_JOBREL200_02284_GEROLT_000_079","이제 모조 아니마 웨폰을 팔아 크게 한몫 잡는 일만 남았어!
-네놈들은 제작에 협조한 공이 있으니
-특별히 싸게 해주마!"
-135,"TEXT_JOBREL200_02284_ARDASHIR_000_080","어쩌면 이리도 동기가 불순한지……!
-아니마 웨폰은 우리에게 숭고한 의미가 있는 무기라고요!?"
-136,"TEXT_JOBREL200_02284_GEROLT_000_081","아 거 시끄럽네. 꼬맹이는 아직 잘 모르겠지만
-때로 돈은 목숨보다 중한 법이라고."
-137,"TEXT_JOBREL200_02284_ARDASHIR_000_082","저, 정말 구제불능이군요……."
-138,"TEXT_JOBREL200_02284_ARDASHIR_000_083","저 사람은 그냥 내버려 두고……
-<Highlight>ObjectParameter(1)</Highlight> 님, 앞으로도 인조 정령과 깊이 교감하며
-세상이 놀랄 만한 생각하는 무기를 만들어봐요!"
-139,"TEXT_JOBREL200_02284_ARDASHIR_000_084","<Highlight>ObjectParameter(1)</Highlight> 님, 앞으로도 인조 정령과 깊이 교감하며
-세상이 놀랄만한 무기를 만들어봐요!"
-140,"TEXT_JOBREL200_02284_SYSTEM_000_085","'아니마 웨폰'이 강화되어
-'초전도 아니마 웨폰'이 되었습니다!"
+48,"TEXT_JOBREL200_02284_SYSTEM_000_000","在任務「人造聖靈的聲音」中將獲得目前<hex:020837E3E94509FF12><hex:02280EFF09>ClassJob<hex:E9450103><hex:FF1E><hex:02081AE1E94513FF12><hex:02280EFF09>ClassJob<hex:E9450103><hex:FF01><hex:03><hex:03>職業的聖靈武器。<hex:02100103>要以<hex:020837E3E94509FF12><hex:02280EFF09>ClassJob<hex:E9450103><hex:FF1E><hex:02081AE1E94513FF12><hex:02280EFF09>ClassJob<hex:E9450103><hex:FF01><hex:03><hex:03>接受該任務嗎？"
+49,"TEXT_JOBREL200_02284_Q1_000_000","要創造<hex:020837E3E94509FF12><hex:02280EFF09>ClassJob<hex:E9450103><hex:FF1E><hex:02081AE1E94513FF12><hex:02280EFF09>ClassJob<hex:E9450103><hex:FF01><hex:03><hex:03>的聖靈武器嗎？"
+50,"TEXT_JOBREL200_02284_A1_000_000","再考慮一下"
+51,"TEXT_JOBREL200_02284_A2_000_000","創造<hex:020837E3E94509FF12><hex:02280EFF09>ClassJob<hex:E9450103><hex:FF1E><hex:02081AE1E94513FF12><hex:02280EFF09>ClassJob<hex:E9450103><hex:FF01><hex:03><hex:03>的聖靈武器"
+52,"TEXT_JOBREL200_02284_SYSTEM_100_001","接受任務「人造聖靈的聲音」後，<hex:02100103>直至完成或放棄該任務，<hex:02100103>期間都無法同時以其他職業重複接受該任務。"
+53,"TEXT_JOBREL200_02284_SYSTEM_100_002","請轉換為與所需聖靈武器相對的職業，<hex:02100103>再次和阿爾達希爾對話。"
+54,"TEXT_JOBREL200_02284_SYSTEM_100_003","要接受任務「人造聖靈的聲音」，<hex:02100103>需持有或裝備上<hex:02280AFF05>Item<hex:E8020103>與<hex:02280AFF05>Item<hex:E8030103>。"
+55,"TEXT_JOBREL200_02284_SYSTEM_100_004","要接受任務「人造聖靈的聲音」，<hex:02100103>需持有或裝備上<hex:02280AFF05>Item<hex:E8020103>。"
+56,"TEXT_JOBREL200_02284_SYSTEM_100_005","已擁有<hex:02280AFF05>Item<hex:E8020103>和<hex:02280AFF05>Item<hex:E8030103>。<hex:02100103>請轉換為其它職業，<hex:02100103>再次和阿爾達希爾對話。"
+57,"TEXT_JOBREL200_02284_SYSTEM_100_006","已擁有<hex:02280AFF05>Item<hex:E8020103>。<hex:02100103>請轉換為其它職業，<hex:02100103>再次和阿爾達希爾對話。"
+58,"TEXT_JOBREL200_02284_ARDASHIR_000_000","在之前的製作過程中，<hex:02100103>人造聖靈成功向<hex:022903EB0203>表達出了自己的想法，<hex:02100103>雖然還只是單方向的。"
+59,"TEXT_JOBREL200_02284_ARDASHIR_000_001","我們為了研究出能夠獨立思考的武器，<hex:02100103>不能僅僅止步於單向，必須要進一步想辦法達成雙向對話才行！"
+60,"TEXT_JOBREL200_02284_ARDASHIR_000_002","因此，我們這次的目標是讓人造聖靈理解到你是主人，<hex:02100103>兩者之間能夠自然地進行對話！"
+61,"TEXT_JOBREL200_02284_ARDASHIR_000_003","但關於為什麼只有<hex:022903EB0203>一個人能夠看到人造聖靈……"
+62,"TEXT_JOBREL200_02284_ARDASHIR_000_004","我認為這肯定是因為我們和<hex:022903EB0203>之間<hex:02100103>有著什麼關鍵性的不同。<hex:02100103>因此我從該角度出發，擅自對你進行了一些調查。"
+63,"TEXT_JOBREL200_02284_ARDASHIR_000_005","<hex:022903EB0203>……<hex:02100103>你有著名為超越之力的異能對嗎？"
+64,"TEXT_JOBREL200_02284_ARDASHIR_000_006","你透過能夠打破語言障礙、穿過心靈隔閡的這一異能，<hex:02100103>得以看到人造聖靈的樣子、聽到人造聖靈的聲音……<hex:02100103>我認為應該就是這個原因。"
+65,"TEXT_JOBREL200_02284_GEROLT_000_007","也就是說，如果不想點新的辦法，<hex:02100103>想看到人造聖靈就只能透過這傢伙的異能了？"
+66,"TEXT_JOBREL200_02284_GEROLT_000_008","這種只有特定人群能用的次級品怎麼可能賣得出去？！<hex:02100103>你有沒有想好怎麼解除這個限制？"
+67,"TEXT_JOBREL200_02284_ARDASHIR_100_008","嗯，當然想好了！！"
+68,"TEXT_JOBREL200_02284_ARDASHIR_000_009","這個人造聖靈，<hex:02100103>是從<hex:022903EB0203>收集的星極和靈極水晶的乙太中孕育而生的，<hex:02100103>可以算是一種魔法生物。"
+69,"TEXT_JOBREL200_02284_ARDASHIR_000_010","舉例來說，像魔像這種簡單的魔法生物，<hex:02100103>它可以依靠創造時被賦予的魔力維持活動，<hex:02100103>但想要成長到學會與人類交流這一步卻是無法辦到的……"
+70,"TEXT_JOBREL200_02284_ARDASHIR_000_011","歸根究柢，想要讓人造聖靈不會消散、一直成長下去，<hex:02100103>肯定就需要有源源不絕的乙太供給才行。<hex:02100103>沒錯，指的就是與聖靈武器一路相伴走到了今天的——你的乙太。"
+71,"TEXT_JOBREL200_02284_ARDASHIR_000_012","如果讓人造聖靈更多地吸收你的乙太，<hex:02100103>肯定能夠推動其成長，直至孕育出能和你進行交流的能力。"
+72,"TEXT_JOBREL200_02284_ARDASHIR_000_013","如果這辦法行得通，交流方面肯定也總有一天不需要異能就能達成。<hex:02100103>相當於通用性的問題也同時解決了，可算是一石二鳥。"
+73,"TEXT_JOBREL200_02284_ARDASHIR_000_014","蓋羅爾特先生，到了展現你手藝的時候了。<hex:02100103>能把武器改良一下，<hex:02100103>讓<hex:022903EB0203>更容易將乙太傳導給人造聖靈嗎？"
+74,"TEXT_JOBREL200_02284_GEROLT_000_015","能當然是能，<hex:02100103>只要將聖靈武器敲打一番，<hex:02100103>提升一下乙太傳導率就可以了，不過……"
+75,"TEXT_JOBREL200_02284_GEROLT_100_015","想要單只傳導<hex:022903EB0203>的乙太，就有些難搞了……"
+76,"TEXT_JOBREL200_02284_GEROLT_000_016","要提升武器的乙太傳導率，<hex:02100103>我的乙太必然也會在改造過程中傳導過去。<hex:02100103>這樣人造聖靈的乙太性質就會向我的方向靠攏。"
+77,"TEXT_JOBREL200_02284_GEROLT_100_017","我可沒打算當人造聖靈的主人。<hex:02100103>而且要是人造聖靈跟了我的話……<hex:02100103>你肯定會嫉妒到哭得暗無天日吧？"
+78,"TEXT_JOBREL200_02284_ARDASHIR_100_018","你說得對……必須避免這一慘劇的發生！<hex:02100103>有什麼辦法可解決嗎？"
+79,"TEXT_JOBREL200_02284_GEROLT_100_019","哈？！這小鬼怎麼能這麼惹人討厭……<hex:02100103>不過辦法嘛，還是有的。<hex:02100103>只要在改造過程中遮斷我的乙太就好了。"
+80,"TEXT_JOBREL200_02284_GEROLT_100_020","為此需要讓我的鍛造工具進入隔絕乙太的狀態……<hex:02100103>也就是需要「絕靈化」。"
+81,"TEXT_JOBREL200_02284_GEROLT_000_017","我在這魔大陸上研究了一些亞拉戈的知識，<hex:02100103>發現從前有種叫<hex:02280BFF05>Item<hex:F23A330103>的東西。<hex:02100103>只要能弄到它，我的工具就能實現暫時絕靈化。"
+82,"TEXT_JOBREL200_02284_GEROLT_000_018","雖然我不知道在哪能弄到，<hex:02100103>但一直在負責籌集各種東西的你應該能把它找來吧？"
+83,"TEXT_JOBREL200_02284_GEROLT_000_019","那個<hex:022903EB0203>！<hex:02100103>去找從前和你做過交易的那些人問問，<hex:02100103>給我的鍛造錘和鐵砧弄5個<hex:02280BFF05>Item<hex:F23A330103>回來吧！"
+84,"TEXT_JOBREL200_02284_ARDASHIR_000_020","挺有兩下子呀，居然還研究了亞拉戈的知識。<hex:02100103>不過知道有這東西卻不知道在哪能弄到……<hex:02100103>不愧是蓋羅爾特先生，真是只知其一不知其二的野人啊。"
+85,"TEXT_JOBREL200_02284_ARDASHIR_000_021","<hex:022903EB0203>，<hex:02100103>我和蓋羅爾特先生會仔細研究一下相關的亞拉戈資料，<hex:02100103>為接下來的調整做好準備。"
+86,"TEXT_JOBREL200_02284_ARDASHIR_000_022","實在不好意思，<hex:02100103>請你在這段時間裡收集5個<hex:02280BFF05>Item<hex:F23A330103>回來吧！"
+87,"TEXT_JOBREL200_02284_ARDASHIR_000_030","還和之前一樣，<hex:02100103>把武器改良一下，<hex:02100103>促使你和人造聖靈的對話達成。"
+88,"TEXT_JOBREL200_02284_ARDASHIR_000_031","為了讓人造聖靈只接收到你的乙太，<hex:02100103>需要為蓋羅爾特先生的工具進行臨時的絕靈化處理。"
+89,"TEXT_JOBREL200_02284_ARDASHIR_000_032","請去收集5個用於這方面的<hex:02280BFF05>Item<hex:F23A330103>吧！"
+90,"TEXT_JOBREL200_02284_ARDASHIR_000_040","收集夠5個<hex:02280BFF05>Item<hex:F23A330103>後，<hex:02100103>將它們和你的聖靈武器一起交給我！"
+91,"TEXT_JOBREL200_02284_SYSTEM_100_040","需要攜帶<hex:02280AFF05>Item<hex:E8020103>與<hex:02280AFF05>Item<hex:E8030103><hex:02100103>才能繼續進行任務。"
+92,"TEXT_JOBREL200_02284_SYSTEM_100_041","需要攜帶<hex:02280AFF05>Item<hex:E8020103>才能繼續進行任務。"
+93,"TEXT_JOBREL200_02284_ARDASHIR_000_041","請去收集5個<hex:02280BFF05>Item<hex:F23A330103>，<hex:02100103>用來給蓋羅爾特先生的工具絕靈化！"
+94,"TEXT_JOBREL200_02284_ARDASHIR_000_042","辛苦了！<hex:02100103>我們這邊也把相關資料都研究了一遍。"
+95,"TEXT_JOBREL200_02284_ARDASHIR_000_043","資料內容都相當有參考價值，<hex:02100103>尤其有很多關於魔科學方面的記載相當發人深省，<hex:02100103>我相信這些一定能夠運用到培育人造聖靈方面！"
+96,"TEXT_JOBREL200_02284_ARDASHIR_000_044","就是蓋羅爾特先生總是看不到兩秒就要伸手去拿酒，<hex:02100103>導致我傷神盯著他花了不少時間……<hex:02100103>真是讓人頭疼。"
+97,"TEXT_JOBREL200_02284_ARDASHIR_100_043","辛苦了！<hex:02100103>我在監視蓋羅爾特先生，<hex:02100103>畢竟稍微沒人看著，他就會跑去喝喝喝。"
+98,"TEXT_JOBREL200_02284_GEROLT_000_045","吵死了！<hex:02100103>你這個乳臭未乾的小鬼懂什麼！<hex:02100103>喝酒能讓我的腦袋更加清晰！"
+99,"TEXT_JOBREL200_02284_ARDASHIR_000_046","你確定不是讓腦袋更加光溜？"
+100,"TEXT_JOBREL200_02284_GEROLT_000_047","嘖，真是口無遮攔的小鬼……<hex:02100103>行了，你快把<hex:022903EB0203>找來的絕靈油塗到鐵砧上吧。"
+101,"TEXT_JOBREL200_02284_ARDASHIR_000_048","塗好了！<hex:02100103>非常完美。"
+102,"TEXT_JOBREL200_02284_GEROLT_000_049","我也給鍛造錘塗上了。<hex:02100103>好，那就趕快開工吧！<hex:02100103>趁絕靈油失效前弄完！"
+103,"TEXT_JOBREL200_02284_GEROLT_000_050","空"
+104,"TEXT_JOBREL200_02284_GEROLT_000_051","空"
+105,"TEXT_JOBREL200_02284_GEROLT_000_052","空"
+106,"TEXT_JOBREL200_02284_ARDASHIR_000_053","絕靈油可是<hex:022903EB0203>辛辛苦苦找來的，<hex:02100103>你可別搞砸了喲？"
+107,"TEXT_JOBREL200_02284_GEROLT_000_054","哈？這還用你說！<hex:02100103>我可是專門去拿了瓶蒸餾酒打起精神！"
+108,"TEXT_JOBREL200_02284_ARDASHIR_000_055","這樣啊，你還算有點腦……"
+109,"TEXT_JOBREL200_02284_ARDASHIR_000_056","什……你去喝酒了？！<hex:02100103>醉鬼你可千萬別碰人造聖靈！！"
+110,"TEXT_JOBREL200_02284_GEROLT_000_057","我喝的可不是普通的酒……<hex:02100103>而是趁你不注意時找出來的絕品蒸餾酒！"
+111,"TEXT_JOBREL200_02284_GEROLT_000_058","閉上嘴好好看看老子酒後的實力吧——臭小鬼！！"
+112,"TEXT_JOBREL200_02284_GEROLT_000_059","閉上嘴好好看看老子酒後的實力吧——臭小鬼！！"
+113,"TEXT_JOBREL200_02284_ARDASHIR_000_060","何……何其精湛的動作！！<hex:02100103>是蒸餾酒讓他發揮出了真正的實力嗎？"
+114,"TEXT_JOBREL200_02284_ARDASHIR_000_061","果然是蒸餾酒讓他發揮出了真正的實力嗎？"
+115,"TEXT_JOBREL200_02284_ARDASHIR_000_062","簡直和平時的蓋羅爾特先生判若兩人……<hex:02100103>看得我整個人都渾身不對勁了……"
+116,"TEXT_JOBREL200_02284_ARDASHIR_000_063","不管看幾次都覺得自己整個人都渾身不對勁了。"
+117,"TEXT_JOBREL200_02284_GEROLT_000_064","搞定！<hex:02100103>哈，這才是老子真正實力的冰山一角……<hex:02100103>怎麼樣，是不是特別崇拜我？"
+118,"TEXT_JOBREL200_02284_GEROLT_000_065","拿起你的聖靈武器吧。<hex:02100103>這下乙太應該能更好地傳導給人造聖靈了！"
+119,"TEXT_JOBREL200_02284_GEROLT_100_066","<hex:022903EB0203>和我的傑作！<hex:02100103>其名為<hex:02280AFF05>Item<hex:E8020103>！"
+120,"TEXT_JOBREL200_02284_GEROLT_100_067","<hex:022903EB0203>和我的傑作！<hex:02100103>其名為<hex:02280AFF05>Item<hex:E8020103>、<hex:02280AFF05>Item<hex:E8030103>！"
+121,"TEXT_JOBREL200_02284_ARDASHIR_000_066","好厲害……如夢幻般美麗的光輝！<hex:02100103><hex:022903EB0203>的乙太在武器上奔騰！<hex:02100103>這下子人造聖靈一定能得到進一步成長！"
+122,"TEXT_JOBREL200_02284_BUKINOSEIREI_000_067","溫暖……"
+123,"TEXT_JOBREL200_02284_BUKINOSEIREI_000_068","令人心神寧靜的乙太……<hex:02100103>你果然就是我的主人。"
+124,"TEXT_JOBREL200_02284_BUKINOSEIREI_000_069","主人，我喜歡外面的世界，想去更多的地方看看。<hex:02100103>你能帶我去嗎？"
+125,"TEXT_JOBREL200_02284_BUKINOSEIREI_000_070","溫暖的乙太……"
+126,"TEXT_JOBREL200_02284_BUKINOSEIREI_000_071","這份安心又令人懷念的感覺……<hex:02100103>果然，你就是我的主人，我沒說錯吧？"
+127,"TEXT_JOBREL200_02284_BUKINOSEIREI_000_072","主人，我有一個請求。<hex:02100103>我想多看看外面的世界，<hex:02100103>你願意帶我去嗎？"
+128,"TEXT_JOBREL200_02284_ARDASHIR_000_073","<hex:022903EB0203>？<hex:02100103>莫非你剛才是在和人造聖靈對話？！"
+129,"TEXT_JOBREL200_02284_ARDASHIR_000_074","太棒了！<hex:02100103>照這樣成長下去，屆時我們一定也能看到人造聖靈的樣子……<hex:02100103>創造出能獨立思考的武器不是夢！"
+130,"TEXT_JOBREL200_02284_GEROLT_000_075","怎麼樣，一流武器匠的手藝就是這麼棒！<hex:02100103>對了，還有個好東西給你們看！"
+131,"TEXT_JOBREL200_02284_GEROLT_000_076","<hex:022903EB0203>四處找絕靈油的時候，<hex:02100103>我找到了這個有意思的玩意兒。"
+132,"TEXT_JOBREL200_02284_GEROLT_000_077","它的學習能力非常強。<hex:02100103>我試著讓它釀了一下蒸餾酒，<hex:02100103>結果相當出人意料……"
+133,"TEXT_JOBREL200_02284_GEROLT_000_078","我心想既然這麼好用，<hex:02100103>就乾脆把製造聖靈武器模型的方法教給它好了！"
+134,"TEXT_JOBREL200_02284_GEROLT_000_079","這下絕對可以靠著賣聖靈武器的模型小賺一筆！<hex:02100103>看在你們倆也參與了武器研發的份上，<hex:02100103>我給你們特價優惠！"
+135,"TEXT_JOBREL200_02284_ARDASHIR_000_080","你的動機怎麼能如此齷齪！<hex:02100103>聖靈武器對我們來說可是崇高的理想！"
+136,"TEXT_JOBREL200_02284_GEROLT_000_081","煩死了，臭小鬼懂個什麼。<hex:02100103>錢有時候可是比生命更加重要。"
+137,"TEXT_JOBREL200_02284_ARDASHIR_000_082","這人真是沒救了……"
+138,"TEXT_JOBREL200_02284_ARDASHIR_000_083","好了我們不管他……<hex:02100103><hex:022903EB0203>，請你繼續加深和人造聖靈的羈絆，<hex:02100103>到時候我們一起創造出能獨立思考的武器，讓世界大吃一驚！"
+139,"TEXT_JOBREL200_02284_ARDASHIR_000_084","<hex:022903EB0203>，請你繼續加深和人造聖靈的羈絆，<hex:02100103>到時候我們一起創造出能獨立思考的武器，讓世界大吃一驚！"
+140,"TEXT_JOBREL200_02284_SYSTEM_000_085","成功將「聖靈武器」強化為「聖靈武器·超導」！"

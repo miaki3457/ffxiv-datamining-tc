@@ -1,7 +1,8 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_STMBDZ320_02716_SEQ_00","이사리 마을에 있는 미사고는 곤경에 처한 듯하다."
+0,"TEXT_STMBDZ320_02716_SEQ_00","漁村的鶚似乎有什麼煩惱。"
 1,"TEXT_STMBDZ320_02716_SEQ_01",""
 2,"TEXT_STMBDZ320_02716_SEQ_02",""
 3,"TEXT_STMBDZ320_02716_SEQ_03",""
@@ -25,10 +26,10 @@ int32,str,str
 21,"TEXT_STMBDZ320_02716_SEQ_21",""
 22,"TEXT_STMBDZ320_02716_SEQ_22",""
 23,"TEXT_STMBDZ320_02716_SEQ_23",""
-24,"TEXT_STMBDZ320_02716_TODO_00","<Sheet(EventItem,2002102,0)/> 입수"
-25,"TEXT_STMBDZ320_02716_TODO_01","<Sheet(EventItem,2002103,0)/> 입수"
-26,"TEXT_STMBDZ320_02716_TODO_02","<Sheet(BNpcName,5749,0)/><14>FF1302280FFF09424E70634E616D65F216750103FF04EBA19CFF07EC9CBCEBA19C</14>부터 <Sheet(EventItem,2002104,0)/> 입수"
-27,"TEXT_STMBDZ320_02716_TODO_03","미사고에게 의뢰받은 재료 전달"
+24,"TEXT_STMBDZ320_02716_TODO_00","獲取<hex:022811FF0A>EventItem<hex:F61E8CB60103>"
+25,"TEXT_STMBDZ320_02716_TODO_01","獲取<hex:022811FF0A>EventItem<hex:F61E8CB70103>"
+26,"TEXT_STMBDZ320_02716_TODO_02","從<hex:02280FFF09>BNpcName<hex:F216750103>身上獲取<hex:022811FF0A>EventItem<hex:F61E8CB80103>"
+27,"TEXT_STMBDZ320_02716_TODO_03","將委託的東西交給鶚"
 28,"TEXT_STMBDZ320_02716_TODO_04",""
 29,"TEXT_STMBDZ320_02716_TODO_05",""
 30,"TEXT_STMBDZ320_02716_TODO_06",""
@@ -49,24 +50,11 @@ int32,str,str
 45,"TEXT_STMBDZ320_02716_TODO_21",""
 46,"TEXT_STMBDZ320_02716_TODO_22",""
 47,"TEXT_STMBDZ320_02716_TODO_23",""
-48,"TEXT_STMBDZ320_02716_MISAGO_000_000","당신, 힘 좀 쓰게 생겼네.
-시간 괜찮으면 부탁 하나만 들어줄래?
-남편이 전염병으로 쓰러져서 걱정이 이만저만이 아니야……."
-49,"TEXT_STMBDZ320_02716_MISAGO_000_001","이대로라면 굶어죽을지도 몰라.
-기운이 나게 고깃국이라도 먹이고 싶은데,
-재료 모으는 걸 좀 도와줬으면 하고."
-50,"TEXT_STMBDZ320_02716_MISAGO_000_002","일단 살귀도에서 캘 수 있는 '<Sheet(EventItem,2002102,0)/>',
-그리고 마을 북쪽에서 소나무 뿌리에 자라는 '<Sheet(EventItem,2002103,0)/>',
-'<Sheet(BNpcName,5749,0)/>'<13>FF1302280FFF09424E70634E616D65F216750103FF04EBA5BCFF04EC9D84</13> 잡으면 얻을 수 있는 '<Sheet(EventItem,2002104,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8CB80103FF04EBA5BCFF04EC9D84</13> 각각 3개씩 부탁해."
-51,"TEXT_STMBDZ320_02716_MISAGO_000_003","일단 살귀도에서 캘 수 있는 '<Sheet(EventItem,2002102,0)/>',
-그리고 마을 북쪽에서 소나무 뿌리에 자라는 '<Sheet(EventItem,2002103,0)/>',
-'<Sheet(BNpcName,5749,0)/>'<13>FF1302280FFF09424E70634E616D65F216750103FF04EBA5BCFF04EC9D84</13> 잡으면 얻을 수 있는 '<Sheet(EventItem,2002104,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8CB80103FF04EBA5BCFF04EC9D84</13> 각각 3개씩 부탁해."
-52,"TEXT_STMBDZ320_02716_MISAGO_100_010","부탁한 재료들은 가져왔어?"
-53,"TEXT_STMBDZ320_02716_MISAGO_000_010","역시 맡기길 잘했다니까!
-이걸로 고깃국을 끓여 먹으면
-남편도 금방 기운을 차릴 거야."
-54,"TEXT_STMBDZ320_02716_MISAGO_000_011","우리 마을에서 잡을 수 있는 생선은 신선하고 맛도 좋지만
-늘 그것만 먹어서는 영양에 불균형이 생기니까.
-가끔은 고기도 먹어야지."
-55,"TEXT_STMBDZ320_02716_MISAGO_000_012","당신 덕분에 곧 예전처럼 돌아갈 수 있을 것 같아.
-고마워, <If(PlayerParameter(4))>아가씨<Else/>총각</If>."
+48,"TEXT_STMBDZ320_02716_MISAGO_000_000","你看起來力氣挺大的。<hex:02100103>可以的話能委託你件事嗎？<hex:02100103>我丈夫得了流行病病倒了，我不知道如何是好……"
+49,"TEXT_STMBDZ320_02716_MISAGO_000_001","這樣下去日子要過不下去了。<hex:02100103>我想至少要給丈夫做燉肉鍋讓他恢復元氣，<hex:02100103>想請你幫忙收集食材。"
+50,"TEXT_STMBDZ320_02716_MISAGO_000_002","首先是，能在絕鬼島採到的<hex:022811FF0A>EventItem<hex:F61E8CB60103>，<hex:02100103>然後是長在村子北邊的松樹根部的<hex:022811FF0A>EventItem<hex:F61E8CB70103>，<hex:02100103>和討伐<hex:02280FFF09>BNpcName<hex:F216750103>就能得到的<hex:022811FF0A>EventItem<hex:F61E8CB80103>，各樣三份。"
+51,"TEXT_STMBDZ320_02716_MISAGO_000_003","能在絕鬼島採到的<hex:022811FF0A>EventItem<hex:F61E8CB60103>，<hex:02100103>然後是長在村子北邊的松樹根部的<hex:022811FF0A>EventItem<hex:F61E8CB70103>，<hex:02100103>和討伐<hex:02280FFF09>BNpcName<hex:F216750103>就能得到的<hex:022811FF0A>EventItem<hex:F61E8CB80103>，各樣三份。"
+52,"TEXT_STMBDZ320_02716_MISAGO_100_010","我委託你的食材都收集到了嗎？"
+53,"TEXT_STMBDZ320_02716_MISAGO_000_010","真厲害，不愧是我看中的人！<hex:02100103>吃了用這些食材做的肉鍋，<hex:02100103>丈夫也應該很快就能痊癒了。"
+54,"TEXT_STMBDZ320_02716_MISAGO_000_011","我們村子裡捕的魚非常新鮮，味道也很棒，<hex:02100103>但總是吃魚營養上會不平衡。<hex:02100103>偶爾也得吃點肉啊。"
+55,"TEXT_STMBDZ320_02716_MISAGO_000_012","多虧了你，我感覺自己的生活終於能回到之前的狀態了。<hex:02100103>謝謝了，<hex:020813E905FF07>小姐<hex:FF07>小哥<hex:03>。"

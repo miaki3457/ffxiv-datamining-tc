@@ -1,18 +1,12 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGWILREDUCE_00276_TALK_Q1","무엇을 물어보시겠습니까?"
-1,"TEXT_REGWILREDUCE_00276_TALK_A1","'정제'란?"
-2,"TEXT_REGWILREDUCE_00276_TALK_A2","정제 시 알아두어야 할 점은?"
-3,"TEXT_REGWILREDUCE_00276_TALK_A3","취소"
-4,"TEXT_REGWILREDUCE_00276_KOKOSAMU_000_000","'소장품'이 될만한 가치가 있는 희귀한 재료를
-마테리아 정제 기술을 응용해서 결정화하는 기술……
-그것이 바로 '정제'다!"
-5,"TEXT_REGWILREDUCE_00276_KOKOSAMU_000_001","'정제'할 때 재료로 사용하는 '소장품'은
-여기저기 막 굴러다니는 게 아니라 좀처럼 구하기 힘들지.
-채집수첩과 어류도감을 활용해서 잘 찾아보라고!"
-6,"TEXT_REGWILREDUCE_00276_KOKOSAMU_000_010","여기서부터 중요한 내용이니 잘 들어둬…….
-'소장 가치'가 없는 물건은 '정제'할 수 없어.
-그러니까 '정제'를 하려면 먼저 '소장품'을 구해야 해."
-7,"TEXT_REGWILREDUCE_00276_KOKOSAMU_000_011","그리고 재료의 '소장 가치'가 높으면 높을수록
-'정제'를 통해 희소한 물건을 얻기 쉽다고."
+0,"TEXT_REGWILREDUCE_00276_TALK_Q1","想了解什麼？"
+1,"TEXT_REGWILREDUCE_00276_TALK_A1","什麼是「精選」？"
+2,"TEXT_REGWILREDUCE_00276_TALK_A2","精選的竅門"
+3,"TEXT_REGWILREDUCE_00276_TALK_A3","取消"
+4,"TEXT_REGWILREDUCE_00276_KOKOSAMU_000_000","所謂「精選」，就是指運用精製魔晶石的技術，<hex:02100103>將作為收藏品的擁有很高價值且十分稀少的素材結晶化！"
+5,"TEXT_REGWILREDUCE_00276_KOKOSAMU_000_001","能用作精選素材的收藏品可不是哪裡都能搞到的。<hex:02100103>靈活利用採集筆記和魚類圖鑑，到處找找吧！"
+6,"TEXT_REGWILREDUCE_00276_KOKOSAMU_000_010","這是很重要的一點……<hex:02100103>沒有「收藏價值」的東西是沒辦法用「精選」的。<hex:02100103>要進行精選，必須要準備好收藏品才行。"
+7,"TEXT_REGWILREDUCE_00276_KOKOSAMU_000_011","另外，素材的收藏價值越高、越稀有，<hex:02100103>那麼就越容易精選出貴重的物品。"

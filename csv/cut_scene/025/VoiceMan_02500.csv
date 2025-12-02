@@ -1,1064 +1,542 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_VOICEMAN_02500_000010_MINFILIA","어서 와요.
-이슈가르드에서 당신한테 손님이 오셨어요."
-1,"TEXT_VOICEMAN_02500_000020_MINFILIA","여기…… 루키아 님하고는 구면이라면서요?
-지금 막 소개 받았어요."
-2,"TEXT_VOICEMAN_02500_000030_LUCIA","갑자기 찾아와서 미안하다.
-알피노 공은 임무 때문에 나가셨다더군."
-3,"TEXT_VOICEMAN_02500_000040_LUCIA","하지만 귀공이 돌아와서 다행이야.
-야만신 '시바'를 물리친 귀공의 실력을 믿고
-아이메리크 님의 급한 부탁을 전하러 왔다."
-4,"TEXT_VOICEMAN_02500_000050_MOENBRYDA","나는 연구할 게 산더미라서 도저히 짬을 낼 수가 없거든.
-그래서 타타루에게 빨리 널 불러달라고 했지."
-5,"TEXT_VOICEMAN_02500_000060_MINFILIA","……그래서 그 부탁이란 뭐죠?"
-6,"TEXT_VOICEMAN_02500_000070_LUCIA","실은 어젯밤, 커르다스의 아도넬 점성대에서
-이슈가르드 교황청에 긴급 보고가 올라왔다.
-……'용의 별'이 심상치 않다고 하더군."
-7,"TEXT_VOICEMAN_02500_000080_LUCIA","'용의 별'은 북쪽 하늘에 떠 있는 별이다.
-고위 드래곤족이 일족에게 내리는 명령인
-'용의 포효'가 있을 때 밝게 빛난다고 하지."
-8,"TEXT_VOICEMAN_02500_000090_LUCIA","최근에 '용의 별'이 밝게 빛났던 건 15년 전…….
-'은빛눈물 호수 공중전' 당시, 환룡 '미드가르드오름'이
-수백 년 만에 모습을 드러내기 직전이었어."
-9,"TEXT_VOICEMAN_02500_000100_URIANGER","용왕이 부르짖고 북녘 하늘에 흉성이 빛날 때……
-붉은 갑주를 입은 자 나타나 세계를 불태우리라……."
-10,"TEXT_VOICEMAN_02500_000110_LUCIA","잘 아는군…… 커르다스 서부에 전해지는 예언이지.
-그곳은 이제 사람이 살 수 없는 땅이 됐지만 말이야."
-11,"TEXT_VOICEMAN_02500_000120_LUCIA","본론으로 들어가지.
-교황청은 어젯밤 '용의 포효'를 지른 자가
-환룡 '미드가르드오름'이 아닌지 의심하고 있다."
-12,"TEXT_VOICEMAN_02500_000130_URIANGER","모든 드래곤족의 시조……
-'태초의 용', 환룡 '미드가르드오름'……."
-13,"TEXT_VOICEMAN_02500_000140_URIANGER","15년 전, 가이우스의 대규모 함대와 교전한 환룡은
-전함 '아그리우스'를 은빛눈물 호수에 가라앉히고
-자신도 생명이 다해 쓰러졌지요……."
-14,"TEXT_VOICEMAN_02500_000150_MINFILIA","……그랬죠.
-그 후로 환룡이 되살아난 조짐은 없었고요……."
-15,"TEXT_VOICEMAN_02500_000160_MINFILIA","타타루 씨, '묵약의 탑'을 감시하는 도마 사람들은
-아무 말 없었나요?"
-16,"TEXT_VOICEMAN_02500_000170_MOENBRYDA","천체 관측에 영향을 줄 만큼 커다란 포효라면
-망자의 종소리까지 들리지 않겠어?"
-17,"TEXT_VOICEMAN_02500_000180_LUCIA","아니, '용의 포효'는 귀에 들리는 소리가 아니다.
-드래곤족은 우리와 달리
-소리 대신 정신적인 파동으로 의사소통을 하니까."
-18,"TEXT_VOICEMAN_02500_000190_LUCIA","실제로 '용의 포효'가 있었는지 알려면
-직접 환룡에게 가서 확인하는 수밖에 없어……."
-19,"TEXT_VOICEMAN_02500_000200_LUCIA","그래서 귀공이 '묵약의 탑'을 조사해줬으면 한다.
-환룡 '미드가르드오름'이 살아있는지 확인해다오."
-20,"TEXT_VOICEMAN_02500_000210_LUCIA","신전기사를 나라 밖으로 보내자니 절차가 너무 오래 걸리더군.
-……부디 귀공의 힘을 빌려주지 않겠나."
-21,"TEXT_VOICEMAN_02500_000220_LUCIA","정말 고맙다…….
-나는 아이메리크 님께 연락해서 최악의 상황에 대비하지."
-22,"TEXT_VOICEMAN_02500_000230_MINFILIA","……최악의 상황이요?"
-23,"TEXT_VOICEMAN_02500_000240_LUCIA","'용의 포효'란…… 모든 드래곤족을 향해
-대규모 진군을 시작하도록 명하는 신호니까."
-24,"TEXT_VOICEMAN_02500_100010_MIDGARDSORMR","감히 내 침소를 어지럽히는 자 누구냐……
-내 잠을 방해하는 자 누구냐……"
-25,"TEXT_VOICEMAN_02500_100020_MIDGARDSORMR","어리석은 자여, 똑똑히 들으라
-내가 바로 미드가르드오름…… 태초의 용이니라!"
-26,"TEXT_VOICEMAN_02500_200010_MIDGARDSORMR","호오, 너도 '초월하는 힘'을 가졌느냐…….
-그러니 환체로는 이길 수 없었던 거로군."
-27,"TEXT_VOICEMAN_02500_200020_MIDGARDSORMR","나를 찾아온 것은 하이델린의 뜻이겠구나.
-대답해라…… 너는 왜 여기에 왔느냐?"
-28,"TEXT_VOICEMAN_02500_200030_MIDGARDSORMR","그래, 북녘 하늘의 별을 태운 건 우리 일족의 성난 포효였다.
-진군을 명하는 전장의 함성이지."
-29,"TEXT_VOICEMAN_02500_200040_MIDGARDSORMR","우리 일족은 이슈가르드로 향할 것이다…….
-두려움을 잊고 죄를 저지른 인간들의 둥지로……."
-30,"TEXT_VOICEMAN_02500_200050_MIDGARDSORMR","이는 보복이니라…….
-이슈가르드 백성은 자신들의 죄를 외면했다.
-그 죄로 인해 전란의 불씨가 끊이지 않는 것이다……."
-31,"TEXT_VOICEMAN_02500_200060_MIDGARDSORMR","그뿐인가. 그들은 지금 또다시 죄를 저지르려 하고 있다.
-분노의 포효는 인간들이 자초한 것이야."
-32,"TEXT_VOICEMAN_02500_200070_MIDGARDSORMR","진군을 멈춰달라고……?
-초월하는 힘을 가졌어도 결국 인간은 인간이로구나…….
-그 소망은 들어줄 수 없다."
-33,"TEXT_VOICEMAN_02500_200080_MIDGARDSORMR","나는 소리를 듣고 잠에서 깨어났을 뿐이다.
-포효를 지른 것은 내 일곱 아이 중 하나지."
-34,"TEXT_VOICEMAN_02500_200090_MIDGARDSORMR","이슈가르드인이 지은 죄를 뉘우치지 않거늘
-어찌 내 아이와 일족에게 보복을 멈추라 할 수 있겠느냐.
-그 땅이 불타고 백성이 죽는들 마땅한 죗값일 뿐이다."
-35,"TEXT_VOICEMAN_02500_200100_MIDGARDSORMR","그 빛은…… 빛의 가호가 아닌가……!
-하이델린, 이미 초월하는 힘을 가진 자에게
-더 큰 힘을 내리다니……."
-36,"TEXT_VOICEMAN_02500_200110_MIDGARDSORMR","그대는 특별한 존재인가……?
-별이여…… 내게 이 자를 도우라 청하는가……!"
-37,"TEXT_VOICEMAN_02500_200120_MIDGARDSORMR","좋다…….
-그렇다면 이 미드가르드오름이 너를 시험하겠노라!"
-38,"TEXT_VOICEMAN_02500_200130_MIDGARDSORMR","너를 꿰뚫은 것은 '용의 발톱'이다.
-하이델린이 내린 빛의 가호를
-내 힘으로 봉인하는 족쇄지……."
-39,"TEXT_VOICEMAN_02500_200140_MIDGARDSORMR","어차피 별의 빛은 흐려지고 있었다.
-내 발톱이 아니어도 곧 사라졌을 것이다……."
-40,"TEXT_VOICEMAN_02500_200150_MIDGARDSORMR","나는 먼 옛날 하이델린과 계약한 바 있다.
-그러니 그 가호를 받은 너를 죽이지는 않으마."
-41,"TEXT_VOICEMAN_02500_200160_MIDGARDSORMR","허나 너 또한 인간이니……
-이슈가르드인처럼 어리석은 죄를 범할 수도 있지.
-나를 실망시키면 그때는 각오해야 할 것이다."
-42,"TEXT_VOICEMAN_02500_200170_MIDGARDSORMR","……내 환영이자 분신이
-지금부터 너와 함께할 것이다."
-43,"TEXT_VOICEMAN_02500_200180_MIDGARDSORMR","분신의 눈은 곧 내 눈이며……
-분신의 귀는 곧 내 귀이니……
-빛의 가호를 잃은 네가 무엇을 이룩할지 지켜보리라."
-44,"TEXT_VOICEMAN_02500_200190_MIDGARDSORMR","운명을 개척하는 특별한 존재여…….
-네 힘으로 내 족쇄를 부숴보아라."
-45,"TEXT_VOICEMAN_02500_200200_MIDGARDSORMR","네가 진실로 특별한 존재라면
-인간을 심판하고 전쟁의 막을 내릴 수 있겠지.
-……이것이 내가 너에게 주는 시련이다."
-46,"TEXT_VOICEMAN_02500_200210_MIDGARDSORMR","이 땅에 흐르는 에테르가 모여, 언젠가 내 몸도 되살아나리라."
-47,"TEXT_VOICEMAN_02500_200220_MIDGARDSORMR","그날이 올 때까지 네가 시련을 극복하여
-인간에게 빛의 의지가 함께하기를 바라노라……."
-48,"TEXT_VOICEMAN_02500_200230_MIDGARDSORMR","허나 이는 결코 쉽지 않으리.
-……내 아이의 포효가 이미 온 하늘에 울렸으니
-머지않아 큰 전쟁이 일어날 것이다."
-49,"TEXT_VOICEMAN_02500_300010_LUCIA","귀공이 또 눈부신 전과를 올렸군!
-환룡 '미드가르드오름'의 환영을 물리치고
-귀한 정보까지 알아내다니, 역시 영웅이야!"
-50,"TEXT_VOICEMAN_02500_300020_LUCIA","……그런데 '용의 포효'를 지른 게
-환룡의 자식이었다니."
-51,"TEXT_VOICEMAN_02500_300030_LUCIA","미드가르드오름이 낳은 일곱 용왕…….
-그들의 존재는 이슈가르드에도
-'칠대천룡'이라는 이름으로 전해지고 있다."
-52,"TEXT_VOICEMAN_02500_300040_LUCIA","에오르제아에는 그중 두 마리가 산다고 하지.
-'용의 포효'를 지른 건 과연 어느 쪽일지……."
-53,"TEXT_VOICEMAN_02500_300050_ALPHINAUD","어쨌든 드래곤족이 곧 몰려온다는 건 확실하네.
-큰 전쟁을 피할 수 없을 거야."
-54,"TEXT_VOICEMAN_02500_300060_ALPHINAUD","드래곤족의 공격으로부터 성도를 지켜낼 수 있겠나?
-구름바다에 떠 있는 그 성은……
-하늘을 나는 드래곤과 맞서기엔 불리할 것 같은데."
-55,"TEXT_VOICEMAN_02500_300070_LUCIA","그건 걱정 없다.
-우리에겐 천 년 동안 드래곤족과 싸운 역사가 있어."
-56,"TEXT_VOICEMAN_02500_300080_LUCIA","하지만 방비는 강화해야겠지.
-당장 아이메리크 님께 보고하고 대책을 세우겠다."
-57,"TEXT_VOICEMAN_02500_300090_LUCIA","물론 귀공의 활약도 자세히 전하겠다.
-깨어나려던 미드가르드오름을 막아냈으니
-아이메리크 님도 기뻐하실 거다."
-58,"TEXT_VOICEMAN_02500_300100_LUCIA","……그럼 난 이만.
-상황이 바뀌면 바로 연락하지."
-59,"TEXT_VOICEMAN_02500_300110_ALPHINAUD","천 년에 걸친 전쟁의 역사…….
-저들은 언제까지 이 싸움을 계속하려는 건지……."
-60,"TEXT_VOICEMAN_02500_400010_MOENBRYDA","그럼…… 환룡 '미드가르드오름' 얘기는 끝났으니까
-이번엔 우리가 발표할 차례로군."
-61,"TEXT_VOICEMAN_02500_400020_MOENBRYDA","아씨엔을 소멸시킬 방법에 대해 보고할 게 있어.
-에오르제아에 와서 다 같이 연구한 보람이 있다니까."
-62,"TEXT_VOICEMAN_02500_400030_MINFILIA","좋은 방법을 알아냈나요?"
-63,"TEXT_VOICEMAN_02500_400040_MOENBRYDA","우선 아씨엔이 소멸되지 않는 건
-물질계에서 죽어도 영혼이 에테르계로 가지 않고
-두 세계의 '틈새'로 도망치기 때문이라고 했지."
-64,"TEXT_VOICEMAN_02500_400050_MOENBRYDA","그래서 우린 '백성석'을 개발했어…….
-에테르체가 되어 '틈새'로 도망치려는 아씨엔을
-흡수해서 붙잡아두는 마법도구지."
-65,"TEXT_VOICEMAN_02500_400060_THANCRED","문제는 사로잡은 아씨엔의 영혼을
-어떻게 처리하느냐인데……."
-66,"TEXT_VOICEMAN_02500_400070_URIANGER","육신을 벗어난 혼을 파괴하려면 근원적인 힘……
-순수한 에테르 검이 필요합니다.
-아씨엔의 에테르체와 상쇄시키기 위해서죠."
-67,"TEXT_VOICEMAN_02500_400080_MOENBRYDA","하지만 우리는 아씨엔을 구성하는 에테르의 양……
-이른바 '영혼의 질량'을 몰라."
-68,"TEXT_VOICEMAN_02500_400090_MOENBRYDA","그걸 알아야 칼날을 만드는 데 필요한
-에테르 밀도도 계산할 수 있는 거거든."
-69,"TEXT_VOICEMAN_02500_400100_YDA","음~ 그럼 어떤 영혼이든 다 베어버릴 수 있는
-엄청난 에테르 검을 만들면 어떨까?"
-70,"TEXT_VOICEMAN_02500_400110_YDA","'백성석'에 에테르를 가둘 수 있다며?
-그럼 우리가 미리 만들어놓은 에테르를
-거기에 꾹꾹 눌러 담으면 되잖아!"
-71,"TEXT_VOICEMAN_02500_400120_PAPALYMO","……이다.
-문브뤼다가 설명한 거 벌써 까먹은 거야?
-'백성석'에는 에테르를 오래 보관할 수 없다니까."
-72,"TEXT_VOICEMAN_02500_400130_PAPALYMO","에테르는 원래 금방 흩어지는 성질이 있지.
-세차게 방출된 에테르가 외부 작용으로 굳어진 물질……
-'크리스탈'이란 예외를 빼면 에테르는 보존 자체가 불가능해."
-73,"TEXT_VOICEMAN_02500_400140_YDA","참, 그랬지……."
-74,"TEXT_VOICEMAN_02500_400150_THANCRED","그렇다고 그 많은 크리스탈을 가지고 다닐 수도 없어…….
-아씨엔이 언제 나타날지 모른다면 더 그렇고."
-75,"TEXT_VOICEMAN_02500_400160_YSHTOLA","만약 아씨엔의 '영혼의 질량'이
-야만신 '리바이어선'과 비슷하다고 가정해도
-쌍동선을 가득 채울 만큼의 크리스탈이 필요해요."
-76,"TEXT_VOICEMAN_02500_400170_THANCRED","게다가 그땐 배에 실은 '편속성 크리스탈'로
-리바이어선의 공격을 막는 데에만 집중했었지.
-소멸까지 시키려면 그 몇 배는 있어야 할 거야."
-77,"TEXT_VOICEMAN_02500_400180_MOENBRYDA","우리가 고민하는 이유가 바로 그거야.
-가지고 다닐 수 없으면 그 자리에서 얻어야 하는데
-무슨 수로 그렇게 많은 에테르를 만드느냐 이거지."
-78,"TEXT_VOICEMAN_02500_400190_MOENBRYDA","방법은 딱 하나……
-땅에 저장된 자원을 쓰는 수밖에 없어!"
-79,"TEXT_VOICEMAN_02500_400200_YSHTOLA","'지맥'을 쓰겠다는 건가요?
-……지맥을 뚫어버리면 에테르가 쏟아져서
-이 모르도나처럼 사방이 결정으로 변해버릴 텐데요."
-80,"TEXT_VOICEMAN_02500_400210_MOENBRYDA","아니, 내 생각은 그게 아냐.
-새로 태어난 에오르제아에서는 아주 흔한 자원……
-'편속성 크리스탈'을 쓰는 거지!"
-81,"TEXT_VOICEMAN_02500_400220_MOENBRYDA","속성의 균형은 무너졌지만
-어차피 그것도 에테르 결정인 건 마찬가지니까."
-82,"TEXT_VOICEMAN_02500_400230_THANCRED","하지만 아까도 말했잖아. 그걸 가지고 다니기엔……."
-83,"TEXT_VOICEMAN_02500_400240_MOENBRYDA","후후, 아니지.
-'편속성 크리스탈'을 캐내지 않고
-직접 에테르를 발생시키는 거야!"
-84,"TEXT_VOICEMAN_02500_400250_MOENBRYDA","그것만 가능하면 에오르제아 각지에서
-에테르를 대량으로 확보할 수 있어!"
-85,"TEXT_VOICEMAN_02500_400260_MOENBRYDA","……뭐, 아직 가설이지만 말야.
-상대는 수수께끼투성이인 아씨엔이니까
-할 수 있는 건 다 해보자고."
-86,"TEXT_VOICEMAN_02500_400270_MINFILIA","그래요, 할 수 있는 것부터 우선 해보죠."
-87,"TEXT_VOICEMAN_02500_400280_MINFILIA","그런데 '편속성 크리스탈'을 어떻게 이용하려고요?
-결정에서 에테르를 추출하는 게
-쉬운 일은 아닐 것 같은데요."
-88,"TEXT_VOICEMAN_02500_400290_MOENBRYDA","실은 그것 때문에 새로 마법도구를 만들었어.
-'편속성 크리스탈'에서 에테르를 추출하는 도구……
-이름하여 '에테르 갈퀴'!"
-89,"TEXT_VOICEMAN_02500_400300_MOENBRYDA","당장 써보고 싶지만
-모르도나에는 '편속성 크리스탈'이 너무 많아서
-실험하기가 좀 꺼려지더라."
-90,"TEXT_VOICEMAN_02500_400310_MOENBRYDA","혹시 실패해서 이 일대 속성이 흐트러질까 봐 무서워.
-……어디 실험하기 적당한 장소 없을까?"
-91,"TEXT_VOICEMAN_02500_400320_ALPHINAUD","북부 다날란은 어떤가?
-규모가 적당한 '편속성 크리스탈'이 있네.
-……마침 도움을 청하고 싶은 일도 있고."
-92,"TEXT_VOICEMAN_02500_400330_MINFILIA","……알피노, 무슨 일 있나요?"
-93,"TEXT_VOICEMAN_02500_400340_ALPHINAUD","북부 다날란에 있는 제국군 거점인
-'카스트룸 메리디아눔'이 움직였네."
-94,"TEXT_VOICEMAN_02500_400350_ALPHINAUD","'열두 현자의 행진'으로 마도성이 무너지고
-병력 면에서도 큰 손실을 입은 거점이지만
-동맹군이 철수한 뒤 카스트룸 센트리에서 지원군이 왔다네."
-95,"TEXT_VOICEMAN_02500_400360_ALPHINAUD","외곽 복구에 쓸 자원을 모으려고
-'청린 정제소'를 노리는 것 같더군."
-96,"TEXT_VOICEMAN_02500_400370_ALPHINAUD","본국에서 지원이 끊겼으니 살아남으려고 발버둥치는 거지.
-이대로 정제소에 적이 몰려들면 진흙탕 싸움이 될 수 있어."
-97,"TEXT_VOICEMAN_02500_400380_ALPHINAUD","크리스탈 브레이브는 지금부터 제국군을 견제하러 나설 걸세.
-하지만 상대가 워낙 벅차다 보니……
-'새벽'의 도움이 절실한 상황이라네."
-98,"TEXT_VOICEMAN_02500_400390_MOENBRYDA","그러니까, 차분한 환경에서 실험하고 싶으면
-우선 제국군을 쫓아내라 이 말이야?
-실험을 미끼로 현인들의 힘을 빌리겠다?"
-99,"TEXT_VOICEMAN_02500_400400_MOENBRYDA","좋아, 해보자고!
-우리가 도와주면 빨리 끝날 거 아냐?"
-100,"TEXT_VOICEMAN_02500_400410_MOENBRYDA","아씨엔이 언제 나타날지 몰라.
-싸움이 끝날 때까지 손 놓고 기다릴 순 없지."
-101,"TEXT_VOICEMAN_02500_400420_URIANGER","누차 말씀드리지만 서두르지 마십시오…….
-당신은 옛날부터 무모한 구석이 있습니다……."
-102,"TEXT_VOICEMAN_02500_400430_MINFILIA","그래요, 문브뤼다 씨 말도 일리가 있군요.
-……좋아요, 크리스탈 브레이브를 돕죠."
-103,"TEXT_VOICEMAN_02500_400440_MINFILIA","당신은 제국군을 맡아주세요.
-산크레드와 파파리모도 같이 가주시고요."
-104,"TEXT_VOICEMAN_02500_400450_MINFILIA","문브뤼다 씨는 이다, 야슈톨라와 같이 움직이세요.
-먼저 가서 장소를 정하고,
-작전이 끝난 뒤에 바로 실험할 수 있도록 준비해주세요."
-105,"TEXT_VOICEMAN_02500_400460_URIANGER","그럼 저는……
-다른 방법으로 '백성석'을 검증하겠습니다."
-106,"TEXT_VOICEMAN_02500_400470_MINFILIA","네, 부탁해요.
-그럼 각자 출발 준비를 시작하세요.
-……무사히 돌아올 수 있게 조심하고요."
-107,"TEXT_VOICEMAN_02500_500010_MOENBRYDA","……미안, 거기서 잠깐만 기다려줄래?
-조금만 더 하면 끝날 거야."
-108,"TEXT_VOICEMAN_02500_500020_MOENBRYDA","아, 그거? 내가 잡은 거야.
-……도끼를 휘두르다 보니 재미가 붙어서."
-109,"TEXT_VOICEMAN_02500_500030_MOENBRYDA","난 원래 생각보다 손발이 먼저 나가는 성격이거든."
-110,"TEXT_VOICEMAN_02500_500040_MOENBRYDA","그랬던 나한테 배우는 즐거움을 가르쳐준 분이 계셨지.
-……이번에 에오르제아에 온 건
-그 은사님 일로 알아볼 게 있어서기도 해."
-111,"TEXT_VOICEMAN_02500_500050_MOENBRYDA","친구 녀석이 걱정되기도 했고.
-왜…… 그 녀석 말버릇이 좀 특이하잖아?
-아무리 나이를 먹어도 변하질 않는다니까……."
-112,"TEXT_VOICEMAN_02500_500060_MOENBRYDA","……좋아, 이 정도면 되겠어."
-113,"TEXT_VOICEMAN_02500_500070_MOENBRYDA","음, 괜찮은 것 같은데?
-이 정도면 주위에 영향도 없을 것 같고."
-114,"TEXT_VOICEMAN_02500_500080_MOENBRYDA","……보여?
-'편속성 크리스탈'에서 에테르의 빛이 올라오고 있어."
-115,"TEXT_VOICEMAN_02500_500090_MOENBRYDA","이걸 모아서 칼날로 만들 방법은 아직 연구 중이지만
-이 '에테르 갈퀴'를 계속 개량하면
-당장 에테르가 부족할 일은 없을 거야."
-116,"TEXT_VOICEMAN_02500_500100_MOENBRYDA","널 위해서 아주 멋진 에테르 검을 만들어줄게!"
-117,"TEXT_VOICEMAN_02500_500110_NABRIALES","(-???-)<UIForeground>F20223</UIForeground>역시 빛의 전사로군…….
-내가 있는 걸 알아채다니.<UIForeground>01</UIForeground>"
-118,"TEXT_VOICEMAN_02500_500120_MOENBRYDA","설마, 아씨엔……!?
-제길, 우릴 막으러 온 건가!?"
-119,"TEXT_VOICEMAN_02500_500130_NABRIALES","<UIForeground>F20223</UIForeground>그 문신은…… 지혜의 서가를 지키는 샬레이안의 현인이로군.
-어쩐지 머리가 제법 돌아간다 했지.<UIForeground>01</UIForeground>"
-120,"TEXT_VOICEMAN_02500_500140_MOENBRYDA","무슨 말을 하는지 모르겠지만
-칭찬이 아닌 건 알겠어……."
-121,"TEXT_VOICEMAN_02500_500150_NABRIALES","<UIForeground>F20223</UIForeground>하하하…… 눈치가 빠르구나.
-너무 그렇게 사납게 굴지 마라.
-여자는 웃어야 예쁜 법이야.<UIForeground>01</UIForeground>"
-122,"TEXT_VOICEMAN_02500_500160_NABRIALES","<UIForeground>F20223</UIForeground>빛의 전사…… 넌 내가 무슨 말을 하는지 알겠지?
-'초월하는 힘'을 가졌으니까.<UIForeground>01</UIForeground>"
-123,"TEXT_VOICEMAN_02500_500170_NABRIALES","<UIForeground>F20223</UIForeground>정말이지 넌 대단해.
-라하브레아와 함께 인간의 몸에 신을 내렸는데
-너무 쉽게 쓰러뜨리더군.<UIForeground>01</UIForeground>"
-124,"TEXT_VOICEMAN_02500_500180_MOENBRYDA","이야아아압!"
-125,"TEXT_VOICEMAN_02500_500190_MOENBRYDA","뭐야!?"
-126,"TEXT_VOICEMAN_02500_500200_MOENBRYDA","크윽……!"
-127,"TEXT_VOICEMAN_02500_500210_NABRIALES","<UIForeground>F20223</UIForeground>……사납게 굴지 말라니까.<UIForeground>01</UIForeground>"
-128,"TEXT_VOICEMAN_02500_500220_NABRIALES","<UIForeground>F20223</UIForeground>빛의 전사…….
-너도 덤빌 테냐?<UIForeground>01</UIForeground>"
-129,"TEXT_VOICEMAN_02500_500230_NABRIALES","<UIForeground>F20223</UIForeground>……음?
-빛의 가호가 느껴지지 않는군…… 어떻게 된 거지?<UIForeground>01</UIForeground>"
-130,"TEXT_VOICEMAN_02500_500240_NABRIALES","<UIForeground>F20223</UIForeground>크크큭……!
-이거 봐라, 설마 하이델린이 널 버린 거냐!?
-이거 재미있게 됐는데!<UIForeground>01</UIForeground>"
-131,"TEXT_VOICEMAN_02500_500250_NABRIALES","<UIForeground>F20223</UIForeground>'인간을 벗어난 존재'라도 빛의 가호를 잃었다면 내 상대가 안 되지!
-이 자리에서 처리해주마…….<UIForeground>01</UIForeground>"
-132,"TEXT_VOICEMAN_02500_500260_NABRIALES","<UIForeground>F20223</UIForeground>……아니, 이건 어쩌면 하얀 녀석이 말했던
-'그 지팡이'를 얻을 기회 아닌가?
-크크큭…… 드디어 그 하얀 녀석과 라하브레아를 따돌리겠군!<UIForeground>01</UIForeground>"
-133,"TEXT_VOICEMAN_02500_500270_NABRIALES","<UIForeground>F20223</UIForeground>……똑똑히 보여주마.<UIForeground>01</UIForeground>"
-134,"TEXT_VOICEMAN_02500_500280_MOENBRYDA","사라졌어…….
-뭐가 어떻게 된 거야……!?"
-135,"TEXT_VOICEMAN_02500_500290_MOENBRYDA","……저놈이 너희가 싸우고 있다는 고위 아씨엔이로군."
-136,"TEXT_VOICEMAN_02500_500300_MOENBRYDA","그런데 지팡이 얘긴 뭐지?
-아씨엔이 탐낼 만한 지팡이라니……."
-137,"TEXT_VOICEMAN_02500_500310_MOENBRYDA","설마, '투프시마티' 얘긴가!?
-돌의 집에 있는 루이수아 님의 지팡이……!"
-138,"TEXT_VOICEMAN_02500_500320_MOENBRYDA","그렇다면 위험해……!
-돌의 집에는 민필리아가 있어.
-아씨엔이 나타나기 전에 빨리 가자!"
-139,"TEXT_VOICEMAN_02500_600010_MINFILIA","당신들!"
-140,"TEXT_VOICEMAN_02500_600020_NABRIALES","<UIForeground>F20223</UIForeground>빛의 전사…… 아니, 이제 빛 없는 전사인가?
-역시 지금은 내가 침입하는 걸 막을 수 없는 모양이군.<UIForeground>01</UIForeground>"
-141,"TEXT_VOICEMAN_02500_600030_MINFILIA","그게 무슨 뜻이죠……!?"
-142,"TEXT_VOICEMAN_02500_600040_NABRIALES","<UIForeground>F20223</UIForeground>아니, 그것도 몰랐어?
-하…… 이거 웃기는군.<UIForeground>01</UIForeground>"
-143,"TEXT_VOICEMAN_02500_600050_NABRIALES","<UIForeground>F20223</UIForeground>너희가 안전했던 건 빛의 가호를 받은 자가 있었기 때문이다.
-이 거점도 예외는 아니지…….<UIForeground>01</UIForeground>"
-144,"TEXT_VOICEMAN_02500_600060_NABRIALES","<UIForeground>F20223</UIForeground>하얀 녀석이나 라하브레아 같은 '원형'은 몰라도
-우리 '윤회자'들은 빛의 가호를 뚫기 어려웠거든.<UIForeground>01</UIForeground>"
-145,"TEXT_VOICEMAN_02500_600070_NABRIALES","<UIForeground>F20223</UIForeground>……하지만 이젠 얘기가 다르지.
-놈들과 달리 난 성질이 급해.
-당장 지팡이를 가져다가 다음 '차원 붕괴'를 일으켜주마……!<UIForeground>01</UIForeground>"
-146,"TEXT_VOICEMAN_02500_600080_MINFILIA","'차원 붕괴'라고요……!?
-발데시온 위원회가 사라진 것도
-역시 당신들 짓이었군요!"
-147,"TEXT_VOICEMAN_02500_600090_MOENBRYDA","무슨 말이 그렇게 많아!"
-148,"TEXT_VOICEMAN_02500_600100_MOENBRYDA","끄아아악!"
-149,"TEXT_VOICEMAN_02500_600110_MINFILIA","문브뤼다!!"
-150,"TEXT_VOICEMAN_02500_600120_NABRIALES","<UIForeground>F20223</UIForeground>끈질긴 여자는 매력이 없어.
-……아, 넌 못 알아듣지?<UIForeground>01</UIForeground>"
-151,"TEXT_VOICEMAN_02500_600130_MINFILIA","큭…… 이 지팡이는 왜 탐내는 거죠?
-이건 단순한 유품이에요.
-당신들이 원할 만한 게 아니라고요!"
-152,"TEXT_VOICEMAN_02500_600140_NABRIALES","<UIForeground>F20223</UIForeground>아까부터 어리석은 질문만 하는군…….
-대체 넌 지금까지 한 게 뭐냐?<UIForeground>01</UIForeground>"
-153,"TEXT_VOICEMAN_02500_600150_NABRIALES","<UIForeground>F20223</UIForeground>'투프시마티'는……
-정확히 말해, 그 지팡이에 달린 석판은
-특별한 힘을 가졌다.<UIForeground>01</UIForeground>"
-154,"TEXT_VOICEMAN_02500_600160_NABRIALES","<UIForeground>F20223</UIForeground>지팡이 머리에 있는 뿔피리와 함께 쓰면
-주위에서 막대한 에테르를 끌어모을 수 있지.<UIForeground>01</UIForeground>"
-155,"TEXT_VOICEMAN_02500_600170_NABRIALES","<UIForeground>F20223</UIForeground>그 늙은이가 크리스탈도 안 바치고
-어떻게 열두 신을 소환했는지 안 궁금했냐?<UIForeground>01</UIForeground>"
-156,"TEXT_VOICEMAN_02500_600180_NABRIALES","<UIForeground>F20223</UIForeground>신을 부르려면 기도와 에테르가 필요한데 말이야.
-……설마 이것도 모르는 건 아니겠지?<UIForeground>01</UIForeground>"
-157,"TEXT_VOICEMAN_02500_600190_MINFILIA","그렇군요. 덕분에 이유는 잘 알았어요.
-……그러니 더욱더 이 지팡이는 못 주겠네요!"
-158,"TEXT_VOICEMAN_02500_600200_NABRIALES","<UIForeground>F20223</UIForeground>나 원 참…….
-난 고집 센 여자도 질색인데.<UIForeground>01</UIForeground>"
-159,"TEXT_VOICEMAN_02500_600210_NABRIALES","<UIForeground>F20223</UIForeground>그렇다고 확 죽여버리면 하얀 녀석이 난리를 칠 테고.
-……귀찮지만 너도 같이 끌고 가야겠다.<UIForeground>01</UIForeground>"
-160,"TEXT_VOICEMAN_02500_600220_MOENBRYDA","저놈을…… 쫓아가……!
-에테르의 틈새가…… 아직 벌어져 있어……!"
-161,"TEXT_VOICEMAN_02500_700010_NABRIALES","（★未使用／削除予定★）"
-162,"TEXT_VOICEMAN_02500_700020_NABRIALES","（★未使用／削除予定★）"
-163,"TEXT_VOICEMAN_02500_700030_MOENBRYDA","돌아……왔구나…….
-다친 데는…… 없는 것 같군……."
-164,"TEXT_VOICEMAN_02500_700040_NABRIALES","<UIForeground>F20223</UIForeground>내가 너를 너무 쉽게 봤군.
-……하지만 언제까지 지팡이를 지킬 수 있을까?<UIForeground>01</UIForeground>"
-165,"TEXT_VOICEMAN_02500_700050_NABRIALES","<UIForeground>F20223</UIForeground>네가 하이델린의 가호를 잃은 이상
-난 다시 지팡이를 가지러 올 것이다…… 몇 번이든지!<UIForeground>01</UIForeground>"
-166,"TEXT_VOICEMAN_02500_700060_MINFILIA","아뇨, 다음 기회는 없어요!
-아씨엔…… 당신의 영혼은 여기서 흩어져
-에테르계로 돌아갈 겁니다!!"
-167,"TEXT_VOICEMAN_02500_700070_NABRIALES","<UIForeground>F20223</UIForeground>이럴 수가……!?
-어둠 크리스탈을 못 쓰게 할 셈이냐!<UIForeground>01</UIForeground>"
-168,"TEXT_VOICEMAN_02500_700080_NABRIALES","<UIForeground>F20223</UIForeground>제길, 이런 영악한 짓을 하다니……!
-으어어어어어……………….<UIForeground>01</UIForeground>"
-169,"TEXT_VOICEMAN_02500_700090_MINFILIA","지금이에요! 투프시마티로 에테르를 모아요!
-당신이라면 할 수 있어요!"
-170,"TEXT_VOICEMAN_02500_700100_MINFILIA","떠올리세요……!
-그때 아씨엔 라하브레아를 벤 '빛의 검'을!!"
-171,"TEXT_VOICEMAN_02500_700110_MINFILIA","안 통해……!?
-설마 하이델린의 가호가 봉인되어
-빛의 힘이 약해진 건가……!?"
-172,"TEXT_VOICEMAN_02500_700120_MOENBRYDA","이것도 돌아가고 있는데……
-에테르가…… 아슬아슬하게 모자라……."
-173,"TEXT_VOICEMAN_02500_700130_NABRIALES","<UIForeground>F20223</UIForeground>……인간 주제에 우쭐대지 마라!
-나는 사라지지 않는다…… 사라질 수 없어!
-몇 번이든 살아날 거란 말이다!<UIForeground>01</UIForeground>"
-174,"TEXT_VOICEMAN_02500_700140_MINFILIA","어머니 크리스탈…… 하이델린이여, 내 목소리를 들어줘요!
-우리에게 빛을 주세요! 지금 당신의 힘이 필요해요!"
-175,"TEXT_VOICEMAN_02500_700150_MINFILIA","……안 되나요?
-초월하는 힘이 있는데도…… 우리 목소리가……
-기도가…… 하이델린에게 닿지 않는 건가요?"
-176,"TEXT_VOICEMAN_02500_700160_MOENBRYDA","조금만…… 더…….
-에테르가 조금만 더 있으면……."
-177,"TEXT_VOICEMAN_02500_700170_MINFILIA","문브뤼다……?
-지금 뭐 하는 거예요……!?"
-178,"TEXT_VOICEMAN_02500_700180_MOENBRYDA","그래…… 그랬구나…….
-……루이수아 님도 '사명'을…… 깨달으셨던 거야."
-179,"TEXT_VOICEMAN_02500_700190_MOENBRYDA","죽음으로써 희망을 지킨다…….
-이것이…… 루이수아 님이 이 땅에 온 이유……
-이제야 알겠어, 위리앙제……."
-180,"TEXT_VOICEMAN_02500_700200_MINFILIA","안 돼요, 문브뤼다!!
-당신에게는……!"
-181,"TEXT_VOICEMAN_02500_700210_NABRIALES","<UIForeground>F20223</UIForeground>아악, 안 돼! 그만둬!
-사라진다…… 내가…… 불멸의 존재인 내가……!<UIForeground>01</UIForeground>"
-182,"TEXT_VOICEMAN_02500_700220_NABRIALES","<UIForeground>F20223</UIForeground>난 죽기 싫어! 제발 살려줘!
-사라지기 싫어, 사라지기 싫어, 사라지기………….<UIForeground>01</UIForeground>"
-183,"TEXT_VOICEMAN_02500_700230_MINFILIA","문브뤼다……?
-안 돼요…… 이렇게, 흔적도 없이……."
-184,"TEXT_VOICEMAN_02500_700240_MINFILIA","아씨엔은 완전히 사라졌어요…….
-고마워요, 문브뤼다…… 당신이 결국 해낸 거예요……."
-185,"TEXT_VOICEMAN_02500_800010_MINFILIA","이 '에테르 갈퀴'는
-문브뤼다 씨가 남긴 소중한 성과예요……."
-186,"TEXT_VOICEMAN_02500_800020_MINFILIA","모두가 진실을 알고 안정될 때까진
-내가 잘 보관하고 있을게요……."
-187,"TEXT_VOICEMAN_02500_800030_YDA","민필리아, 괜찮아!?"
-188,"TEXT_VOICEMAN_02500_800040_MINFILIA","아, 네…….
-난 괜찮아요."
-189,"TEXT_VOICEMAN_02500_800050_PAPALYMO","북부 다날란에서 작전을 마친 다음
-문브뤼다를 도우려고 조사를 하고 있었어."
-190,"TEXT_VOICEMAN_02500_800060_PAPALYMO","그런데 문브뤼다가 중간에 연락해서는
-돌의 집에 아씨엔이 나타날 것 같다고 하잖아.
-그래서 다 같이 서둘러 온 거야."
-191,"TEXT_VOICEMAN_02500_800070_THANCRED","너도 와 있었구나.
-다들 무사해서 다행이야."
-192,"TEXT_VOICEMAN_02500_800080_YSHTOLA","문브뤼다는 어디 있죠?
-자세한 이야기를 듣고 싶은데……."
-193,"TEXT_VOICEMAN_02500_800090_THANCRED","이럴 수가…… 아씨엔을 없애기 위해
-자기 목숨을 에테르로 바꿨다니……."
-194,"TEXT_VOICEMAN_02500_800100_YSHTOLA","모든 생명은 죽어서 에테르로 돌아가지요…….
-아씨엔은 그 흐름을 거스르려 했고
-문브뤼다는 그에 순응한 것이군요……."
-195,"TEXT_VOICEMAN_02500_800110_YDA","……있잖아.
-이거 위리앙제도 알아?"
-196,"TEXT_VOICEMAN_02500_800120_MINFILIA","위리앙제 씨……."
-197,"TEXT_VOICEMAN_02500_800130_URIANGER","……저도 듣고 있었습니다."
-198,"TEXT_VOICEMAN_02500_800140_URIANGER","달이 기울어 별의 바닷가에 저물어도……
-하늘의 운행이 곧 새벽의 해를 부르리라…….
-문브뤼다는…… 자신의 사명을 다하고 갔겠지요?"
-199,"TEXT_VOICEMAN_02500_800150_URIANGER","저와 문브뤼다는 샬레이안 본국에서
-같이 루이수아 스승님께 배웠던 동문입니다……."
-200,"TEXT_VOICEMAN_02500_800160_URIANGER","스승님은 현재와 미래의 사람들을 위해 지식을 쓰라 하셨습니다.
-그러나 이는 ""지식의 편찬자는 역사의 관찰자로 머물라""는
-샬레이안 규율과는 정반대였지요."
-201,"TEXT_VOICEMAN_02500_800170_URIANGER","그럼에도 스승님은 뜻있는 이들을 모아
-에오르제아를 구원할 '구세시맹'을 만드셨습니다……."
-202,"TEXT_VOICEMAN_02500_800180_URIANGER","그리하여 스승님은 먼 길을 떠나셨습니다.
-신들에게 사랑받은 이 땅을 구하기 위해…….
-에오르제아가 재해를 딛고 새로 태어난 것은 스승님의 공입니다."
-203,"TEXT_VOICEMAN_02500_800190_URIANGER","그러나 샬레이안 본국에서는
-현인의 의무를 저버리고 역사에 개입했다 하여
-스승님을 '타락자'라 부르기도 했지요……."
-204,"TEXT_VOICEMAN_02500_800200_URIANGER","문브뤼다는 스승님을 믿고 따랐으나
-스승님은 그녀에게 아무 말 없이 샬레이안을 떠났습니다.
-그래서 주위의 비판에 마음이 흔들렸었지요……."
-205,"TEXT_VOICEMAN_02500_800210_URIANGER","스승님은 정말로 의무를 저버린 것일까…….
-자기도…… 그 의무와 함께 버려진 것이 아닐까 하고."
-206,"TEXT_VOICEMAN_02500_800220_MINFILIA","하지만 루이수아 님은……!"
-207,"TEXT_VOICEMAN_02500_800230_URIANGER","예…… 에오르제아를 지킴으로써 사명을 다하셨지요.
-그분은 묵묵히 운명에 순응하셨지만
-제자만이라도 다른 길을 걷기를 원하셨을 겁니다……."
-208,"TEXT_VOICEMAN_02500_800240_URIANGER","그러나 문브뤼다에게 이렇게 설명해도
-스승님의 마음까지 전할 수는 없는 법……."
-209,"TEXT_VOICEMAN_02500_800250_URIANGER","……그녀가 에오르제아에 있는 동안
-어떻게든 스승님의 진심을 전하지 못한 것……
-그것만이…… 한으로 남는군요……."
-210,"TEXT_VOICEMAN_02500_800260_URIANGER","문브뤼다가 희생을 결심한 것이……
-스승님의 마음을 이해했기 때문이라고요……?"
-211,"TEXT_VOICEMAN_02500_800270_URIANGER","……추구하는 자에게 진실이 찾아오리니.
-스승님과 다시 이어진 마음이
-그녀를 평온한 안식으로 이끌리라 믿습니다……."
-212,"TEXT_VOICEMAN_02500_800280_URIANGER","정말…… 다행입니다…….
-문브뤼다…………."
-213,"TEXT_VOICEMAN_02500_800290_MINFILIA","'빛의 검'은 아직 불안정해요…….
-하지만 문브뤼다 씨가 목숨을 바쳐
-아씨엔을 없앨 방법을 알려주었죠……."
-214,"TEXT_VOICEMAN_02500_800300_MINFILIA","그 덕분에 우리는 앞으로 나아갈 수 있어요.
-고결한 희생을 헛되게 하진 않겠어요……!"
-215,"TEXT_VOICEMAN_02500_800310_URIANGER","민필리아, 저는 모래의 집으로 돌아가겠습니다.
-떠나간 벗의 넋을 제 나름대로 기리고 싶군요…….
-믿고…… 기다려주시겠습니까……?"
-216,"TEXT_VOICEMAN_02500_800320_MINFILIA","알았어요…….
-문브뤼다 씨도 그걸 바랄 거예요.
-……잘 부탁해요."
-217,"TEXT_VOICEMAN_02500_900010_MINFILIA","문브뤼다…….
-당신의 죽음을 헛되이 하지 않을게요."
-218,"TEXT_VOICEMAN_02500_900020_MINFILIA","당신이 아씨엔을 없앨 방법을 알려주었기에……
-이제 그들을 두려워할 필요가 없어요.
-우리 힘으로도 싸워볼 수 있는 상대니까요."
-219,"TEXT_VOICEMAN_02500_900030_MINFILIA","그러니까…… 우린 앞으로 나아갈게요.
-어둠의 사도 아씨엔을 물리치고 에오르제아를 구원하겠어요.
-그것이 수호의 기둥인 우리의 사명이니까……."
-220,"TEXT_VOICEMAN_02500_900040_MINFILIA","우리 '새벽의 혈맹'이……
-반드시 해내겠다고 맹세할게요……."
-221,"TEXT_VOICEMAN_02500_900060_MIDGARDSORMR","빛의 가호도 없이 어둠의 존재를 물리치다니…….
-인간도 마냥 어리석기만 한 건 아닌가 보군."
-222,"TEXT_VOICEMAN_02500_900070_MIDGARDSORMR","허나 비로소 하나의 위협을 제거했을 뿐……
-아직은 널 인정할 수 없다."
-223,"TEXT_VOICEMAN_02500_900050_YDA","……지켜봐 줘, 문브뤼다.
-지금까지 고마웠어."
-224,"TEXT_VOICEMAN_02500_900080_MIDGARDSORMR","……호오, 녀석이 움직였군."
-225,"TEXT_VOICEMAN_02500_900090_YDA","저건……!?"
-226,"TEXT_VOICEMAN_02500_900100_ALPHINAUD","……나일세, 들리나!?"
-227,"TEXT_VOICEMAN_02500_900110_ALPHINAUD","이슈가르드에 일이 벌어졌네.
-당장 돌의 집으로 와주게!"
-228,"TEXT_VOICEMAN_02500_900120_MINFILIA","이슈가르드라니……
-설마 아까 그 드래곤족이……!?"
-229,"TEXT_VOICEMAN_02500_900130_MINFILIA","가요.
-에오르제아를 하나로 모으는 것도
-우리가 해야 할 일이에요!"
-230,"TEXT_VOICEMAN_02500_A00010_ICEHEART","모든 것은 인간이 지은 죄로부터 시작된 것…….
-그러니, 이 손으로 반드시 끝내고야 말겠다……."
-231,"TEXT_VOICEMAN_02500_A00020_ICEHEART","고귀한 용들이여, 보라!
-구름길을 막고 있던 마법장벽이 드디어 사라졌다!"
-232,"TEXT_VOICEMAN_02500_A00030_ICEHEART","증오스러운 죄인들의 소굴, 성도 이슈가르드가 눈앞에 있다!
-그대들의 이빨과 불꽃으로 심판을 내릴지어다!"
-233,"TEXT_VOICEMAN_02500_A00040_ICEHEART","하하하하하핫……!"
-234,"TEXT_VOICEMAN_02500_C00010_MINFILIA","어서 와요.
-상황은 어때요?"
-235,"TEXT_VOICEMAN_02500_C00020_ALPHINAUD","큰 싸움이 될지도 몰라.
-……사람들을 불러주게. 설명할 게 있네."
-236,"TEXT_VOICEMAN_02500_C00030_MINFILIA","……그럼 지금까지 나타난 건 정찰병이고
-곧 사룡 '니드호그'가 이끄는 드래곤족이
-대규모 공세를 펼친다는 거군요."
-237,"TEXT_VOICEMAN_02500_C00040_ALPHINAUD","게다가 이미 '용의 포효'가 내려졌으니
-시간도 얼마 안 남았네."
-238,"TEXT_VOICEMAN_02500_C00050_PAPALYMO","드래곤족은 평범한 마물하고는
-비교도 안 될 정도로 강해."
-239,"TEXT_VOICEMAN_02500_C00060_YSHTOLA","이슈가르드가 경계를 끌어올린 걸 보니……
-고위급 수하들도 나타나겠군요."
-240,"TEXT_VOICEMAN_02500_C00070_YDA","이슈가르드와 드래곤족의 전쟁……."
-241,"TEXT_VOICEMAN_02500_C00080_THANCRED","당장은 이슈가르드만의 문제지만,
-알피노 님 말씀대로
-언젠간 에오르제아 전체의 문제가 될 수 있어."
-242,"TEXT_VOICEMAN_02500_C00090_ALPHINAUD","그렇다네…….
-우리 '새벽'과 크리스탈 브레이브가 힘을 합쳐
-이슈가르드를 지원하는 게 어떻겠나."
-243,"TEXT_VOICEMAN_02500_C00100_MINFILIA","천 년에 걸친 싸움에
-우리도 끼어들게 되는 거군요……."
-244,"TEXT_VOICEMAN_02500_C00110_MINFILIA","하지만 우리 목적은 에오르제아를 구하는 거예요.
-'새벽'이 할 수 있는 일이 있다면 도와야죠."
-245,"TEXT_VOICEMAN_02500_C00120_MINFILIA","당신도 이 일을 우선해주면 좋겠어요."
-246,"TEXT_VOICEMAN_02500_C00130_MINFILIA","고마워요.
-……다 같이 이슈가르드를 지켜냅시다."
-247,"TEXT_VOICEMAN_02500_C00140_ALPHINAUD","난 지금부터 각국 총사령부에 원군을 요청하겠네.
-크리스탈 브레이브를 파견할 허가도 받아야 하고.
-자, 그럼 각자 맡은 일을 시작하세!"
-248,"TEXT_VOICEMAN_02500_D00010_MERLWYB","우리도 이슈가르드 쪽 소식은 들었네만……
-상황이 이 정도로 급박한 줄은 몰랐군."
-249,"TEXT_VOICEMAN_02500_D00020_ALPHINAUD","우리 크리스탈 브레이브는
-아이메리크 경의 요청에 따라 원군을 보낼 계획입니다."
-250,"TEXT_VOICEMAN_02500_D00030_RAUBAHN","알겠다.
-……다른 두 분도 이견은 없겠지?"
-251,"TEXT_VOICEMAN_02500_D00040_KANESENNA","네, 문제없습니다."
-252,"TEXT_VOICEMAN_02500_D00050_MERLWYB","크리스탈 브레이브를 보내는 건 나도 찬성하네.
-신속하게 움직일 수 있도록 조치하지.
-……문제는 우리가 어찌할 거냐는 거다."
-253,"TEXT_VOICEMAN_02500_D00060_ALPHINAUD","……무슨 뜻입니까?"
-254,"TEXT_VOICEMAN_02500_D00070_MERLWYB","지금 '에오르제아 도시군사동맹'은
-쉽게 병력을 보낼 수 있는 상황이 아니야."
-255,"TEXT_VOICEMAN_02500_D00080_MERLWYB","우리 세 나라는 여전히 야만신과 맞서고 있네.
-매일같이 야만신을 제압하고, 또 소환을 막고 있지.
-……자네 눈이 미치지 않는 곳에서도 말이야."
-256,"TEXT_VOICEMAN_02500_D00090_KANESENNA","게다가 무법자의 전장도 이대로 놔둘 수 없어요…….
-우리 셋이 휴전한다고 해도, 텔레지 아델레지 같은 인물이
-독주하고 나서면 어떻게 될지는 명백하니까요."
-257,"TEXT_VOICEMAN_02500_D00100_ALPHINAUD","그 말씀은……!
-에오르제아가 위기에 처했는데도 가만히 있겠다는 겁니까?"
-258,"TEXT_VOICEMAN_02500_D00110_RAUBAHN","진정해라. 그런 뜻이 아니야.
-주력 부대를 보낼 수는 없다는 말이지."
-259,"TEXT_VOICEMAN_02500_D00120_MERLWYB","동맹군에서도 약간의 병력은 보내겠다.
-하지만 어디까지나 보조 차원으로 생각해주게."
-260,"TEXT_VOICEMAN_02500_D00130_KANESENNA","본격적인 파병은 안 되더라도, 각국 총사령부에 소속된
-모험가들에게 협조를 요청할 수는 있겠지요.
-각자의 판단에 따라 힘을 보탤 수 있도록 널리 알립시다."
-261,"TEXT_VOICEMAN_02500_D00140_RAUBAHN","……그래. 정규군을 못 보내는 이상
-그게 최선의 방법이겠군."
-262,"TEXT_VOICEMAN_02500_D00150_ALPHINAUD","이런 상황에서도 모험가만 바라보다니……!
-총사령부의 수장으로서 부끄럽지도 않습니까!"
-263,"TEXT_VOICEMAN_02500_D00160_ALPHINAUD","'에오르제아 도시군사동맹'이 무엇입니까!
-이럴 때 에오르제아를 위해 움직이는 것이 바로
-동맹군 아니었습니까!?"
-264,"TEXT_VOICEMAN_02500_D00170_MERLWYB","알피노 공……
-우리는 총사령부의 수장이기 이전에 한 나라의 대표일세."
-265,"TEXT_VOICEMAN_02500_D00180_MERLWYB","물론 에오르제아의 평화는 중요하네.
-이슈가르드가 동맹군에 돌아오는 것도 바라던 바야."
-266,"TEXT_VOICEMAN_02500_D00190_MERLWYB","하지만 우리는 무엇보다도 국가와 시민을 지켜야 하네.
-자기 나라 하나도 못 지키면서
-어떻게 에오르제아라는 큰 땅을 돌보겠나."
-267,"TEXT_VOICEMAN_02500_D00200_MERLWYB","……자네가 이해해주게."
-268,"TEXT_VOICEMAN_02500_D00210_ALPHINAUD","알겠습니다, 멜위브 제독님.
-……제가 말이 지나쳤군요."
-269,"TEXT_VOICEMAN_02500_D00220_RAUBAHN","너를 '동맹군 모험가 선발대' 대장으로 임명한다.
-각국 총사령부에 속한 모험가를 이끌고
-이슈가르드를 방어해다오."
-270,"TEXT_VOICEMAN_02500_D00230_RAUBAHN","나나모 님.
-불멸대에서 병력을 조금이라도 더 보내고 싶습니다."
-271,"TEXT_VOICEMAN_02500_D00240_RAUBAHN","구리칼날단의 권한을 잠시 확대하는 게 어떻습니까?
-불멸대 대신 치안 유지에 투입하면
-여유가 생긴 부대를 파병할 수 있을 것입니다."
-272,"TEXT_VOICEMAN_02500_D00250_RAUBAHN","나나모 님……?"
-273,"TEXT_VOICEMAN_02500_D00260_NANAMOULNAMO","……아, 그래.
-그대 뜻대로 하여라."
-274,"TEXT_VOICEMAN_02500_D00270_RAUBAHN","나나모 님께서 몸이 안 좋으신가?"
-275,"TEXT_VOICEMAN_02500_D00280_LADYINWAITING2","아, 아니요, 그런 말씀은 없으셨습니다……."
-276,"TEXT_VOICEMAN_02500_D00290_RAUBAHN","……그래, 그럼 됐다."
-277,"TEXT_VOICEMAN_02500_F00010_NANAMOULNAMO","사사간 님, 면목 없습니다……."
-278,"TEXT_VOICEMAN_02500_F00020_NANAMOULNAMO","저는 이번 '승전 축하연'에서 이 나라를……
-울씨 왕조를 버릴 것입니다."
-279,"TEXT_VOICEMAN_02500_F00030_NANAMOULNAMO","유서 깊은 왕가를 이렇게 끝내는 제 부덕을……
-부디…… 부디 용서하소서……."
-280,"TEXT_VOICEMAN_02500_G00010_NANAMOULNAMO","미안하다. 그대에게도 폐를 끼치는구나."
-281,"TEXT_VOICEMAN_02500_G00020_LADYINWAITING2","아닙니다. 모두 나나모 폐하의 뜻이 아니시옵니까.
-저 같은 자에게도 마음을 써주시니 황송할 따름입니다."
-282,"TEXT_VOICEMAN_02500_G00030_LADYINWAITING2","……그러면 저는 영웅님을 맞이하러 가겠습니다."
-283,"TEXT_VOICEMAN_02500_G00040_NANAMOULNAMO","그래, 부탁하마."
-284,"TEXT_VOICEMAN_02500_H00010_KANESENNA","그럼 임명되신 지 얼마 안 된 건가요?"
-285,"TEXT_VOICEMAN_02500_H00020_AYMERIC","예, 이제 막 일을 시작했습니다.
-이런 자리는 익숙지 않지만 너그러이 봐주십시오."
-286,"TEXT_VOICEMAN_02500_H00030_MINFILIA","꽤 성대한 행사네요……."
-287,"TEXT_VOICEMAN_02500_H00040_ALPHINAUD","수고 많았네."
-288,"TEXT_VOICEMAN_02500_H00050_MINFILIA","얘기 들었어요.
-이번 방어전을 도와준 보답으로
-아이메리크 경이 정식으로 국교 회복에 힘써 주신다면서요?"
-289,"TEXT_VOICEMAN_02500_H00060_MINFILIA","당신의 노력이 결실을 맺은 거예요…….
-축하해요, 알피노."
-290,"TEXT_VOICEMAN_02500_H00070_ALPHINAUD","고맙네, 민필리아."
-291,"TEXT_VOICEMAN_02500_H00080_ALPHINAUD","아이메리크 경을 울다하 국빈으로 맞이할 수 있었던 건
-다 자네들이 도와준 덕분일세."
-292,"TEXT_VOICEMAN_02500_H00090_ALPHINAUD","'에오르제아 도시군사동맹'이
-다시 뭉칠 수 있는 계기가 될 거야."
-293,"TEXT_VOICEMAN_02500_H00100_ALPHINAUD","게다가 이슈가르드와 국교가 회복되면 교역로도 확대되지.
-제7재해 복구가 끝나가면서 활력을 잃기 시작한 경제도
-다시 살아날 걸세."
-294,"TEXT_VOICEMAN_02500_H00110_ALPHINAUD","우리 활약으로 에오르제아에 좋은 바람이 불고 있네.
-이제 '무법자의 전장' 문제가
-한시라도 빨리 해결되길 빌어야지."
-295,"TEXT_VOICEMAN_02500_H00120_ALPHINAUD","각국 수장들의 생각도 이해는 하네.
-……하지만 난 내 방식대로 에오르제아를 이끌어 보이겠어."
-296,"TEXT_VOICEMAN_02500_H00130_ALPHINAUD","……그나저나 우리 영웅님은 어디 계신가?
-아까부터 안 보이던데."
-297,"TEXT_VOICEMAN_02500_H00140_MINFILIA","모모디 씨를 만나러 '모래늪'에 갔어요.
-복잡한 일이 아니면 곧 올 거예요."
-298,"TEXT_VOICEMAN_02500_I00010_NANAMOULNAMO","……들어오너라."
-299,"TEXT_VOICEMAN_02500_I00020_LADYINWAITING2","실례합니다."
-300,"TEXT_VOICEMAN_02500_I00030_NANAMOULNAMO","갑작스러운 부름에 응해줘서 고맙구나."
-301,"TEXT_VOICEMAN_02500_J00010_MERLWYB","'구름길'을 지켜내서 다행입니다."
-302,"TEXT_VOICEMAN_02500_J00020_KANESENNA","성도는 괜찮은가요?"
-303,"TEXT_VOICEMAN_02500_J00030_AYMERIC","네, 피해는 좀 있었지만 괜찮습니다.
-다 여기 계신 여러분 덕분이지요."
-304,"TEXT_VOICEMAN_02500_J00040_RAUBAHN","다행입니다.
-이슈가르드도 우리와 같은 에오르제아의 일부이니
-이럴 때일수록 힘을 합쳐야지요."
-305,"TEXT_VOICEMAN_02500_J00050_ALPHINAUD","……정치란…… 이런 것이었나."
-306,"TEXT_VOICEMAN_02500_J00060_AYMERIC","나나모 여왕 폐하께서 오시면
-다시 인사드리려 했습니다만……."
-307,"TEXT_VOICEMAN_02500_J00070_AYMERIC","이번 방어전에 협력해주셔서 진심으로 감사드립니다."
-308,"TEXT_VOICEMAN_02500_J00080_AYMERIC","저는 이번 기회에 대심판의 문을 개방할 것을
-교황 성하께 건의드릴 생각입니다.
-……에오르제아의 진정한 단결을 위해."
-309,"TEXT_VOICEMAN_02500_J00090_ALPHINAUD","……유유하세가?
-알았네."
-310,"TEXT_VOICEMAN_02500_J00100_MINFILIA","……무슨 일 있어요?"
-311,"TEXT_VOICEMAN_02500_J00110_ALPHINAUD","아니, 별일 아닐세.
-잠시 다녀오겠네."
-312,"TEXT_VOICEMAN_02500_J00120_ALPHINAUD","무슨 일이지? 경비에 문제라도 생겼나?"
-313,"TEXT_VOICEMAN_02500_K00010_NANAMOULNAMO","……물러가도 좋다."
-314,"TEXT_VOICEMAN_02500_K00020_LADYINWAITING2","예, 폐하.
-……이만 물러가겠습니다."
-315,"TEXT_VOICEMAN_02500_K00030_NANAMOULNAMO","다른 이유가 있어서 부른 건 아니다.
-그대에게 미리 할 말이 있느니라."
-316,"TEXT_VOICEMAN_02500_K00040_NANAMOULNAMO","……짐은 울다하 왕조의 막을 내리려 한다."
-317,"TEXT_VOICEMAN_02500_K00050_NANAMOULNAMO","그대도 알다시피, 울다하는 지금 몹시 혼란스럽다.
-정치가 제대로 돌아가지 않는 탓에
-나라의 보물인 백성들이 가장 고통받고 있지……."
-318,"TEXT_VOICEMAN_02500_K00060_NANAMOULNAMO","짐은 이 혼란을 끝내기 위해
-'승전 축하연'에서 왕조의 종말을 선언하려 한다."
-319,"TEXT_VOICEMAN_02500_K00070_NANAMOULNAMO","그리하면 울다하는 왕의 나라도, 부자의 나라도 아닌
-백성의 나라로 다시 태어날 것이야.
-울다하에 새 시대가 열리는 것이니라."
-320,"TEXT_VOICEMAN_02500_K00080_NANAMOULNAMO","……하지만 온 나라가 크게 동요하겠지.
-라우반 혼자서는 감당할 수 없을지도 모른다."
-321,"TEXT_VOICEMAN_02500_K00090_NANAMOULNAMO","그럴 땐……
-부디 그대가 라우반의 힘이 되어다오."
-322,"TEXT_VOICEMAN_02500_K00100_NANAMOULNAMO","이는 수많은 싸움을 헤쳐나온 진정한 영웅……
-오직 그대에게만 부탁할 수 있는 일이니라."
-323,"TEXT_VOICEMAN_02500_K00110_NANAMOULNAMO","어려운 부탁을 들어주어 고맙구나.
-……다행이야, 정말 다행이야."
-324,"TEXT_VOICEMAN_02500_K00120_NANAMOULNAMO","사사간 대왕 나무에서 그대와 만난 것이
-마치 엊그제 일처럼 느껴지는구나.
-……앞으로도 그대를 믿겠노라, 영웅이여."
-325,"TEXT_VOICEMAN_02500_K00130_NANAMOULNAMO","이제 남은 근심을 모두 털었구나.
-……앞으로도 그대를 믿겠노라, 영웅이여."
-326,"TEXT_VOICEMAN_02500_K00140_TELEDJIADELEDJI","나, 나나모 폐하!?"
-327,"TEXT_VOICEMAN_02500_K00150_TELEDJIADELEDJI","이, 이럴 수가…… 승하하셨어……."
-328,"TEXT_VOICEMAN_02500_K00160_TELEDJIADELEDJI","설마…… 잔에 독을 탔나!?"
-329,"TEXT_VOICEMAN_02500_K00170_TELEDJIADELEDJI","모험가…… 네가 폐하를 시해하였느냐!"
-330,"TEXT_VOICEMAN_02500_K00180_TELEDJIADELEDJI","이 방에는 나나모 폐하와 네놈밖에 없었다!
-변명은 통하지 않아!"
-331,"TEXT_VOICEMAN_02500_K00190_TELEDJIADELEDJI","여봐라, 당장 이놈을 붙잡아라!
-여왕 폐하를 암살한 놈이다!"
-332,"TEXT_VOICEMAN_02500_K00200_BRASSBLADE02400","(-구리칼날단 위병-)예!
-자, 허튼 짓 할 생각 마라!"
-333,"TEXT_VOICEMAN_02500_L00010_ALPHINAUD","……윽!?"
-334,"TEXT_VOICEMAN_02500_L00020_CRYSTALBRAVE02400","(-크리스탈 브레이브 대원-)'새벽' 관계자는 몇 사람을 제외하고 모두 확보했습니다.
-망자의 종소리에 있는 '돌의 집'도 제압했습니다."
-335,"TEXT_VOICEMAN_02500_L00030_ALPHINAUD","무슨 짓이냐……?"
-336,"TEXT_VOICEMAN_02500_L00040_YUYUHASE","하하. 무슨 짓이긴요, 총수님.
-……다 에오르제아를 위해서 하는 짓입니다."
-337,"TEXT_VOICEMAN_02500_M00010_RAUBAHN","……무슨 일이냐!"
-338,"TEXT_VOICEMAN_02500_M00020_AYMERIC","교황청 신전기사단이 왜……?"
-339,"TEXT_VOICEMAN_02500_M00030_TELEDJIADELEDJI","이슈가르드의 특사님.
-지금 막 이슈가르드 교황청에서 연락이 왔습니다."
-340,"TEXT_VOICEMAN_02500_M00040_TELEDJIADELEDJI","드래곤족이 성도를 또 습격했으니 어서 귀국하시라더군요…….
-촌각을 다투는 일이라 기사님들이 직접 모시러 온 듯합니다."
-341,"TEXT_VOICEMAN_02500_M00050_AYMERIC","……성도에서?"
-342,"TEXT_VOICEMAN_02500_M00060_LUCIA","제게 들어온 정보는 없었습니다.
-게다가 지나치게 타이밍이 좋군요.
-어쩌면……."
-343,"TEXT_VOICEMAN_02500_M00070_AYMERIC","그렇군……."
-344,"TEXT_VOICEMAN_02500_M00080_TEMPLEKNIGHT02400","총장님, 서두르십시오!"
-345,"TEXT_VOICEMAN_02500_M00090_AYMERIC","알려주셔서 고맙습니다. 울다하의 벗이여.
-이 '빚'은 언젠가 꼭 갚도록 하지요."
-346,"TEXT_VOICEMAN_02500_M00100_AYMERIC","가자, 루키아."
-347,"TEXT_VOICEMAN_02500_N00010_THANCRED","……왜 이리 소란스럽지?"
-348,"TEXT_VOICEMAN_02500_N00020_THANCRED","데이트 신청 하는 건가?
-미안한데 난 그쪽 취향이 아니라서……."
-349,"TEXT_VOICEMAN_02500_N00030_BRASSBLADE02400","'새벽'의 산크레드인가?
-……지난 갈레말 제국과의 전쟁에서
-네놈이 제국군과 내통한 혐의가 있다."
-350,"TEXT_VOICEMAN_02500_N00040_THANCRED","내통……? 무슨 소리야?"
-351,"TEXT_VOICEMAN_02500_N00050_THANCRED","……설마 아씨엔에게 지배당했을 때 얘긴가?"
-352,"TEXT_VOICEMAN_02500_N00060_BRASSBLADE02400","생포한 제국 병사를 심문하여
-네놈이 제국과 엮여 있었다는 증언을 확보했다.
-게다가 기묘한 주술까지 사용했다고 하던데?"
-353,"TEXT_VOICEMAN_02500_N00070_BRASSBLADE02400","자, 함께 가주셔야겠어."
-354,"TEXT_VOICEMAN_02500_N00080_THANCRED","억지로 파티에 불러 놓고선 이젠 또 나가란 말이야?
-변덕이 참 심하시네……."
-355,"TEXT_VOICEMAN_02500_N00090_THANCRED","……이 축하연 자체가 함정이었군!"
-356,"TEXT_VOICEMAN_02500_O00010_RAUBAHN","텔레지 아델레지! 이게 무슨 짓이냐!
-폐하의 허락도 없이 병사를 들여보내고 국빈을 쫓아내다니,
-대체 무슨 속셈이야!"
-357,"TEXT_VOICEMAN_02500_O00020_RAUBAHN","구리칼날단을 사병처럼 대동한 데다
-왕실 행사에서 이런 만행까지……
-월권 행위도 정도가 있다! 당장 철수시켜라!"
-358,"TEXT_VOICEMAN_02500_O00030_TELEDJIADELEDJI","무슨 소리냐, 라우반!
-……너야말로 불멸대를 제멋대로 부리지 않나!"
-359,"TEXT_VOICEMAN_02500_O00040_TELEDJIADELEDJI","나나모 폐하께서 암살당해 국가의 앞날이 위태롭건만!"
-360,"TEXT_VOICEMAN_02500_O00050_TELEDJIADELEDJI","이런 상황에 나라를 지켜야 할 불멸대를
-멋대로 카르테노며 커르다스로 보낸 네놈은
-어떻게 책임질 셈이냐!?"
-361,"TEXT_VOICEMAN_02500_O00060_TELEDJIADELEDJI","게다가 제국의 첩자를 심복으로 두었다니……
-국장이라는 자가 그리 어리석어서야 원!"
-362,"TEXT_VOICEMAN_02500_O00070_RAUBAHN","지금…… 뭐라고 했나……?
-……나나모 님이…… 암살되셨다고……?"
-363,"TEXT_VOICEMAN_02500_O00080_TELEDJIADELEDJI","그래……!
-거기 있는 '새벽의 혈맹'에 속한 모험가가 범인이다!"
-364,"TEXT_VOICEMAN_02500_O00090_MINFILIA","대체 무슨 말을 하는 거예요!?"
-365,"TEXT_VOICEMAN_02500_O00100_TELEDJIADELEDJI","네놈들도 모두 암살 계획에 가담한 혐의가 있다!"
-366,"TEXT_VOICEMAN_02500_O00110_TELEDJIADELEDJI","……끌고 와라!"
-367,"TEXT_VOICEMAN_02500_P00010_ILBERD","이자가 방금 나나모 폐하를 독살했다!
-공범으로 의심되는 '새벽의 혈맹' 일당을 조사할 테니
-아무도 자리에서 움직이지 마라!"
-368,"TEXT_VOICEMAN_02500_P00020_MINFILIA","……말도 안 돼!"
-369,"TEXT_VOICEMAN_02500_P00030_ILBERD","유감이다, 영웅이여.
-자네한테 실망이 크다……."
-370,"TEXT_VOICEMAN_02500_P00040_TELEDJIADELEDJI","이 모험가가 갖고 있던 병에서
-나나모 폐하를 시해한 것과 같은 독이 나왔다."
-371,"TEXT_VOICEMAN_02500_P00050_YSHTOLA","함정에 빠졌군요……."
-372,"TEXT_VOICEMAN_02500_P00060_TELEDJIADELEDJI","허허, 함정에 빠진 건 오히려 이쪽이지요."
-373,"TEXT_VOICEMAN_02500_P00070_TELEDJIADELEDJI","경애해 마지않는 우리 여왕 폐하께 접근하더니
-이슈가르드와 친선을 도모하려는 이 중요한 자리에서
-폐하를 암살할 줄은 꿈에도 몰랐습니다!"
-374,"TEXT_VOICEMAN_02500_P00080_MINFILIA","억지소리도 정도껏 하세요!"
-375,"TEXT_VOICEMAN_02500_P00090_TELEDJIADELEDJI","닥쳐라, 계집!
-네놈들 '새벽의 혈맹'이 기이한 능력자를 모아
-작당을 꾸미는 걸 모를 줄 아느냐?"
-376,"TEXT_VOICEMAN_02500_P00100_TELEDJIADELEDJI","그 능력으로 나나모 폐하를 비롯해
-각국 수장들을 구워삶은 것이렷다!"
-377,"TEXT_VOICEMAN_02500_P00110_TELEDJIADELEDJI","게다가 특사로 온 아이메리크 경하고는
-지나치게 사이가 좋아 보이던데……."
-378,"TEXT_VOICEMAN_02500_P00120_TELEDJIADELEDJI","……일전의 방어전도 그래.
-드래곤족의 공격을 막는다는 건 명분일 뿐이고,
-뒷구멍으로는 이슈가르드와 짜고 우리 병력을 빼돌려서……"
-379,"TEXT_VOICEMAN_02500_P00130_TELEDJIADELEDJI","방비가 허술해진 틈을 타
-놈들과 함께 이 땅을 침략하려는 속셈 아니냐!?"
-380,"TEXT_VOICEMAN_02500_P00140_PAPALYMO","그게 무슨 헛소리야!"
-381,"TEXT_VOICEMAN_02500_P00150_YDA","그렇다는 증거가 어딨어!?"
-382,"TEXT_VOICEMAN_02500_P00160_RAUBAHN","어떻게…… 나나모 님이……."
-383,"TEXT_VOICEMAN_02500_P00170_RAUBAHN","일베르드…… 비켜라!
-내 눈으로 폐하의 안위를 확인하겠다!"
-384,"TEXT_VOICEMAN_02500_P00180_ILBERD","진정해라, 라우반.
-……조금 전 내가 확인했다."
-385,"TEXT_VOICEMAN_02500_P00190_ILBERD","나나모 폐하는 방에서 독살당하셨다.
-저기 있는 시녀도 함께 확인했어."
-386,"TEXT_VOICEMAN_02500_P00200_RAUBAHN","그럴 리가…… 그럴 리가 없어……."
-387,"TEXT_VOICEMAN_02500_P00210_RAUBAHN","나나모 님…… 으아아아아아아아!!"
-388,"TEXT_VOICEMAN_02500_Q00010_TELEDJIADELEDJI","왕당파에겐 나라를 지킬 자격이 없다!
-이제 울다하는 우리 공화파가 다스리는 수밖에 없군.
-너는 폐하의 장례식을 어떻게 치를지나 생각해 둬라."
-389,"TEXT_VOICEMAN_02500_Q00020_TELEDJIADELEDJI","……하여튼, 폐하나 너나 사람을 귀찮게 하고 말야."
-390,"TEXT_VOICEMAN_02500_Q00030_RAUBAHN","네놈이냐……."
-391,"TEXT_VOICEMAN_02500_Q00040_TELEDJIADELEDJI","……무슨 소리냐?"
-392,"TEXT_VOICEMAN_02500_Q00050_RAUBAHN","네놈이 나나모 님을 암살했느냐, 텔레지 아델레지!!"
-393,"TEXT_VOICEMAN_02500_Q00060_TELEDJIADELEDJI","흥, 별소리를 다 하는군.
-……하긴, 지금까지 그 계집애 때문에 속을 좀 썩이긴 했지."
-394,"TEXT_VOICEMAN_02500_Q00070_TELEDJIADELEDJI","어차피 꼭두각시나 다름없는 여왕이었다.
-오히려 인형 신세에서 벗어나 한시름 놓았다며
-지금쯤 달 신 곁에서 좋아라 하고 있지 않을까."
-395,"TEXT_VOICEMAN_02500_Q00080_RAUBAHN","폐하를…… 폐하를 우롱하지 마라!"
-396,"TEXT_VOICEMAN_02500_Q00090_TELEDJIADELEDJI","……엇?"
-397,"TEXT_VOICEMAN_02500_Q00100_LOLORITO","라우반, 제정신이냐!
-궁에서 칼을 뽑은 것도 모자라
-같은 모래전갈회를 베다니!"
-398,"TEXT_VOICEMAN_02500_Q00110_LOLORITO","……설마 네놈도 '새벽'의 공범이냐!?"
-399,"TEXT_VOICEMAN_02500_Q00120_RAUBAHN","로로리토, 네놈도 한패냐!!"
-400,"TEXT_VOICEMAN_02500_Q00130_RAUBAHN","크아아아아아아악!!!!"
-401,"TEXT_VOICEMAN_02500_Q00140_MERLWYB","지금 뭐 하는 짓이냐!"
-402,"TEXT_VOICEMAN_02500_Q00150_KANESENNA","라우반 국장님!!"
-403,"TEXT_VOICEMAN_02500_Q00160_GUARD02500","(-흑와단 호위병-)안 됩니다, 제독님!"
-404,"TEXT_VOICEMAN_02500_Q00170_MERLWYB","……젠장!"
-405,"TEXT_VOICEMAN_02500_Q00180_ILBERD","……너답지 않군.
-이렇게 쉽게 빈틈을 보이다니."
-406,"TEXT_VOICEMAN_02500_Q00230_LOLORITO","'새벽' 일당을 붙잡아라!
-나나모 폐하를 암살하고 모반을 일으킨 놈들이다!"
-407,"TEXT_VOICEMAN_02500_Q00240_LOLORITO","이 역적도 잡아라!"
-408,"TEXT_VOICEMAN_02500_Q00190_RAUBAHN","너 이놈…… 매수되었구나……!"
-409,"TEXT_VOICEMAN_02500_Q00200_ILBERD","우리는 구정물을 삼키며 살아왔다…….
-알라미고를 버리고 영웅이 된 너와는 달라."
-410,"TEXT_VOICEMAN_02500_Q00210_ILBERD","너는 변했어, 라우반.
-지켜야 할 자가 생기니까 삶의 치열함을 잃은 거다."
-411,"TEXT_VOICEMAN_02500_Q00220_ILBERD","……성난 소의 뿔은 부러졌다.
-뿔이 부러진 소는 고깃덩어리가 될 뿐이야."
-412,"TEXT_VOICEMAN_02500_Q00250_ILBERD","라우반, 좋은 걸 알려주지."
-413,"TEXT_VOICEMAN_02500_Q00251_ILBERD","나나모 폐하를 암살한 범인은…… 나다."
-414,"TEXT_VOICEMAN_02500_Q00260_RAUBAHN","일베르드으으으으으!"
-415,"TEXT_VOICEMAN_02500_Q00270_ILBERD","어림없다!"
-416,"TEXT_VOICEMAN_02500_Q00280_RAUBAHN","너희가 나나모 님을 암살할 리가 없다.
-……분명히 음모가 있어."
-417,"TEXT_VOICEMAN_02500_Q00290_RAUBAHN","도망쳐라…….
-여길 벗어나서 너희가 결백하다는 걸 세상에 증명해!"
-418,"TEXT_VOICEMAN_02500_Q00300_RAUBAHN","그리고 이 사건의 진상을 밝혀라!
-너희 말고는 할 수 없는 일이다.
-……어서 가!!"
-419,"TEXT_VOICEMAN_02500_Q00310_RAUBAHN","으아아아아아아!"
-420,"TEXT_VOICEMAN_02500_Q00320_THANCRED","무사했구나……!"
-421,"TEXT_VOICEMAN_02500_Q00330_YSHTOLA","산크레드!
-당신 대체 어디 있었던 거예요!"
-422,"TEXT_VOICEMAN_02500_Q00340_THANCRED","데이트하자는 사람이 많아서 거절하는 데 진땀을 뺐지."
-423,"TEXT_VOICEMAN_02500_Q00341_THANCRED","이 '승전 축하연'이 함정이라는 걸 알고
-이것저것 조사해 왔어."
-424,"TEXT_VOICEMAN_02500_Q00350_THANCRED","이미 울다하의 주요 시설은 놈들이 꽉 잡았더군.
-……이슈가르드 방어전 때
-구리칼날단의 권한을 늘린 게 실수였어."
-425,"TEXT_VOICEMAN_02500_Q00360_PAPALYMO","구리칼날단이 움직이기 쉽도록 각본이 짜여 있었어……
-대체 언제부터 준비했던 건지."
-426,"TEXT_VOICEMAN_02500_Q00370_YSHTOLA","치밀하게 준비한 데다, 움직이는 것도 빨랐죠…….
-……라우반 국장님 말대로, 뭔가 음모가 있을 거예요."
-427,"TEXT_VOICEMAN_02500_Q00380_YDA","구리칼날단은 용병 출신이 많지?
-적이 된 크리스탈 브레이브도 다 강한 사람들이고.
-파파리모, 근질근질하지 않아?"
-428,"TEXT_VOICEMAN_02500_Q00390_PAPALYMO","이다, 지금 그렇게 속 편한 상황이 아니야!"
-429,"TEXT_VOICEMAN_02500_Q00400_MINFILIA","나나모 폐하만을 노린 계획이 아니에요…….
-혹시 우리 모두가 표적인 걸까요……?"
-430,"TEXT_VOICEMAN_02500_Q00410_PAPALYMO","에구, 미운털이 단단히 박혔나 보다.
-……그럼 돌의 집이 제압당한 것도 사실이겠네."
-431,"TEXT_VOICEMAN_02500_Q00420_THANCRED","일단 여기서 탈출하는 게 좋겠어."
-432,"TEXT_VOICEMAN_02500_Q00430_THANCRED","나나모 님 방에 있는 난로…….
-그 뒤에 지하로 가는 비밀 통로가 있다고
-파파샨 소장님한테 들은 적이 있어."
-433,"TEXT_VOICEMAN_02500_Q00440_THANCRED","왕궁은 이미 포위당했을 테니 그리로 가자."
-434,"TEXT_VOICEMAN_02500_Q00450_YDA","다들 먼저 가!
-여긴 내가 맡을게!"
-435,"TEXT_VOICEMAN_02500_Q00460_PAPALYMO","너, 진심이야!?"
-436,"TEXT_VOICEMAN_02500_Q00461_PAPALYMO","……할 수 없지. 나도 같이 놀아줄게."
-437,"TEXT_VOICEMAN_02500_Q00480_YDA","크리스탈 브레이브 대원들하고는
-꼭 한번 싸워보고 싶었거든!"
-438,"TEXT_VOICEMAN_02500_Q00470_MINFILIA","이다, 파파리모!"
-439,"TEXT_VOICEMAN_02500_Q00490_PAPALYMO","여기서 시간을 끌 테니까
-빨리 가서 비밀 통로를 찾아!"
-440,"TEXT_VOICEMAN_02500_Q00500_THANCRED","민필리아, 어서!"
-441,"TEXT_VOICEMAN_02500_R00010_YDA","아얏!
-아프잖아!"
-442,"TEXT_VOICEMAN_02500_R00020_PAPALYMO","이다, 괜찮아!?
-……제길, 끝이 없군."
-443,"TEXT_VOICEMAN_02500_R00030_YDA","나야 멀쩡하지!
-이 정돈 아무것도 아냐!
-그러는 파파리모는 괜찮아?"
-444,"TEXT_VOICEMAN_02500_R00040_PAPALYMO","……더는 못 버틸 것 같아."
-445,"TEXT_VOICEMAN_02500_R00050_YDA","'새벽'은…… 모든 사람들의 희망이야.
-알라미고 사람들한테도 그렇고!
-여기서 끝낼 순 없어!"
-446,"TEXT_VOICEMAN_02500_R00060_PAPALYMO","그래…….
-이런 놈들한테 에오르제아를 맡길 순 없지!"
-447,"TEXT_VOICEMAN_02500_R00070_YDA","파파리모…….
-너까지 끌어들여서 미안해."
-448,"TEXT_VOICEMAN_02500_R00080_PAPALYMO","네가 이러는 게 하루 이틀이야?
-이렇게 된 거, 끝까지 같이 가자고."
-449,"TEXT_VOICEMAN_02500_R00090_PAPALYMO","해치워, 이다!"
-450,"TEXT_VOICEMAN_02500_R00100_YDA","좋았어, 다 날려버린다!"
-451,"TEXT_VOICEMAN_02500_S00010_MINFILIA","울다하 지하에 이런 수로가 있었군요."
-452,"TEXT_VOICEMAN_02500_S00020_YSHTOLA","비상시에 탈출하기 위한 길이겠죠.
-……실디하 양식일까요? 꽤 오래된 것 같아요."
-453,"TEXT_VOICEMAN_02500_S00030_CRYSTALBRAVE02400","(-추적하는 병사-)이쪽이다!"
-454,"TEXT_VOICEMAN_02500_S00040_THANCRED","벌써 따라오다니……
-이 길도 알고 있었나 보군."
-455,"TEXT_VOICEMAN_02500_S00050_YSHTOLA","……두 분은 먼저 가세요.
-여긴 우리가 막을게요."
-456,"TEXT_VOICEMAN_02500_S00060_MINFILIA","야슈톨라…… 산크레드!"
-457,"TEXT_VOICEMAN_02500_S00070_YSHTOLA","'새벽'의 등불을 꺼뜨리지 말아요.
-……그 빛은, 미래를 밝혀야 하는 빛이니까."
-458,"TEXT_VOICEMAN_02500_S00080_THANCRED","여긴 우리한테 맡기고 가.
-나중에 다시 만나자."
-459,"TEXT_VOICEMAN_02500_S00090_MINFILIA","당신들 정말……."
-460,"TEXT_VOICEMAN_02500_S00100_YSHTOLA","어서 가요!"
-461,"TEXT_VOICEMAN_02500_S00110_THANCRED","자, 이제 어떡할까요, 아가씨?
-이 좁은 길에 적이 저렇게 많으니……
-잘해봐야 너 죽고 나 죽자고, 아니면 우리만 죽어."
-462,"TEXT_VOICEMAN_02500_S00120_YSHTOLA","야씨족 미코테의 긍지를 얕보지 말아요.
-……이 일대를 무너뜨려 봉쇄하면 그만이죠.
-마지막을 함께하는 게 당신이라 조금 아쉽네요."
-463,"TEXT_VOICEMAN_02500_S00130_THANCRED","나 이거 참…….
-이렇게 잘생긴 남자를 잡아놓고 욕심도 많으셔라.
-……그럼 마지막 데이트를 하러 가보실까요."
-464,"TEXT_VOICEMAN_02500_S00140_THANCRED","큭……!"
-465,"TEXT_VOICEMAN_02500_S00150_THANCRED","역시 수가 너무 많아…….
-야슈톨라, 멀었어!?"
-466,"TEXT_VOICEMAN_02500_S00160_YSHTOLA","……다 됐어요!"
-467,"TEXT_VOICEMAN_02500_S00170_YSHTOLA","……미안해, 야미트라."
-468,"TEXT_VOICEMAN_02500_S00180_THANCRED","잘 있어, 민필리아……."
-469,"TEXT_VOICEMAN_02500_T00010_MINFILIA","지금, 하이델린의 목소리가……."
-470,"TEXT_VOICEMAN_02500_T00020_MINFILIA","설마……!?"
-471,"TEXT_VOICEMAN_02500_T00030_MINFILIA","나는 해야 할 일이 있으니 여기 남겠어요.
-당신은 먼저 가요."
-472,"TEXT_VOICEMAN_02500_T00040_MINFILIA","제발! 당신은 우리의 희망이에요……!
-우리 '새벽'의…… 에오르제아의……
-희망 그 자체라고요!"
-473,"TEXT_VOICEMAN_02500_T00050_MINFILIA","'희망의 등불'은 아직 꺼지지 않았어요.
-희망의 등불인 당신이 있는 한 '새벽'은
-몇 번이고, 몇 번이고 다시 불을 밝힐 수 있어요!"
-474,"TEXT_VOICEMAN_02500_T00060_MINFILIA","그러니까…… 살아야 해요…….
-살아서…… 언젠가 꼭 에오르제아를 구해주세요."
-475,"TEXT_VOICEMAN_02500_T00070_MINFILIA","알아요…….
-우리의 희망을…… 이 별을 구할 '빛의 싹'을
-여기서 꺾이게 하진 않을 거예요."
-476,"TEXT_VOICEMAN_02500_U00010_ALPHINAUD","……무사했군!
-다들 어디 있나!?"
-477,"TEXT_VOICEMAN_02500_U00020_ALPHINAUD","제길……!!"
-478,"TEXT_VOICEMAN_02500_U00030_ALPHINAUD","텔레지 아델레지에게 완전히 당했어!
-설마 크리스탈 브레이브까지 집어삼켰을 줄이야……."
-479,"TEXT_VOICEMAN_02500_U00040_PIPPIN","(-???-)이야기는 나중에 하지.
-우선 울다하에서 벗어나야 해."
-480,"TEXT_VOICEMAN_02500_U00050_BREMONDT","오랜만이야, 영웅님!
-급해 보이는데 태워줄게!"
-481,"TEXT_VOICEMAN_02500_U00060_BREMONDT","오랜만이야, 에테르 멀미하던 모험가!
-급해 보이는데 태워줄게!"
-482,"TEXT_VOICEMAN_02500_U00070_BREMONDT","……자, 빨리!"
-483,"TEXT_VOICEMAN_02500_V00010_BREMONDT","……저녁별 만에 장사하러 갔다가
-우연히 르베유르 가 아가씨를 만났어.
-울다하에 있는 오빠가 곤경에 처했으니 도와달라더군……."
-484,"TEXT_VOICEMAN_02500_V00020_BREMONDT","그래서 초코보 마차를 끌고 이 근처를 돌아다니던 중인데
-마침 당신들이 보이더라고."
-485,"TEXT_VOICEMAN_02500_V00030_BREMONDT","보아하니, 쫓기고 있는 거 맞지?
-무사해서 다행이야."
-486,"TEXT_VOICEMAN_02500_V00040_BREMONDT","그나저나 여기서 자넬 다시 보게 될 줄은 몰랐어!"
-487,"TEXT_VOICEMAN_02500_V00050_ALPHINAUD","보살펴야 할 동생을 걱정하게 만들다니…….
-……정말 한심하군."
-488,"TEXT_VOICEMAN_02500_V00060_BREMONDT","……그런데 그쪽 친구는 누구신가?"
-489,"TEXT_VOICEMAN_02500_V00070_PIPPIN","나는 불멸대 소장 피핀이라고 한다."
-490,"TEXT_VOICEMAN_02500_V00080_PIPPIN","오랫동안 알라미고 쪽에서 극비 작전을 지휘하다
-불멸대에서 급히 복귀하라는 명을 받았지."
-491,"TEXT_VOICEMAN_02500_V00090_PIPPIN","그런데 돌아오자마자 이 사건이 터졌고……
-여기 계신 알피노 공이 위험에 빠졌기에
-구출한 것이다."
-492,"TEXT_VOICEMAN_02500_V00100_PIPPIN","내가 보기에도 이건 공화파 놈들이 꾸민 짓이다.
-놈들의 횡포가 지나치단 말은 들었지만
-이런 일까지 벌일 줄이야……."
-493,"TEXT_VOICEMAN_02500_V00110_BREMONDT","피핀이라고? 혹시 불멸대 라우반 국장님의……."
-494,"TEXT_VOICEMAN_02500_V00120_PIPPIN","그래, 라우반 알딘의 양아들이야.
-……아버님 얘긴 울다하를 빠져나올 때 들었다."
-495,"TEXT_VOICEMAN_02500_V00130_PIPPIN","난 자네들을 안전한 곳에 데려다주고
-바로 울다하로 돌아가겠다.
-아버지를 구해야 해……."
-496,"TEXT_VOICEMAN_02500_V00140_BREMONDT","그럼 이대로 검은솔 들판으로 가지.
-마침 거기서 만날 사람도 있고."
-497,"TEXT_VOICEMAN_02500_V00150_ALPHINAUD","결국 난 도움만 받았군…….
-……혼자선 아무것도 할 수 없었어."
-498,"TEXT_VOICEMAN_02500_V00160_ALPHINAUD","나는……."
-499,"TEXT_VOICEMAN_02500_W00010_HAURCHEFANT","아까 본가에서 연락이 왔다…….
-드래곤족이 성도를 습격했다는군.
-와이번 몇 마리가 침입한 모양이야."
-500,"TEXT_VOICEMAN_02500_W00020_HAURCHEFANT","신전기사단이 물리치긴 했지만
-이슈가르드는 계엄령을 내리고
-경계 태세를 강화했어."
-501,"TEXT_VOICEMAN_02500_W00030_HAURCHEFANT","성도 안에까지 침입을 허용하다니…….
-역시 대심판의 문 마법장벽을 잃은 영향이 큰가."
-502,"TEXT_VOICEMAN_02500_W00040_HAURCHEFANT","앞서 급히 귀국한 아이메리크 총장님은
-기사단 본부에서 방어를 지휘하고 계신다."
-503,"TEXT_VOICEMAN_02500_W00050_HAURCHEFANT","널 보호하기 위해 총장님께 도움을 요청드릴 생각인데
-본국이 안정될 때까진 기다려야 할 것 같아."
-504,"TEXT_VOICEMAN_02500_W00060_HAURCHEFANT","하지만 걱정 마.
-널 지켜줄 사람은 여기에도 있으니까!"
-505,"TEXT_VOICEMAN_02500_W00070_HAURCHEFANT","한동안 여길 네 은신처로 사용해.
-'새벽'식으로 말하자면……
-그래, '눈의 집'이라고 하자!"
-506,"TEXT_VOICEMAN_02500_W00080_HAURCHEFANT","너를 쫓는 자들이 나타나도
-포르탕 가 허락 없인 들어올 수 없어.
-타국에 대해 굳게 잠긴 문이 지금은 널 지킬 거다."
-507,"TEXT_VOICEMAN_02500_W00090_HAURCHEFANT","만약 울다하에서 수사 요청이 들어온다 해도
-네 결백이 밝혀질 때까지 모두 거절하겠어!"
-508,"TEXT_VOICEMAN_02500_W00100_HAURCHEFANT","예전에 넌 내 친구의 결백을 믿고 싸워주었지.
-그 선량한 마음을 이번엔 내가 지키겠다.
-너 역시 내 소중한 친구니까!"
-509,"TEXT_VOICEMAN_02500_W00110_HAURCHEFANT","자, 내 얘긴 끝났으니 어서 가봐.
-'눈의 집'에서 '새벽'의 동료가 기다릴 거야."
-510,"TEXT_VOICEMAN_02500_W00120_HAURCHEFANT","……오늘은 특히 춥군.
-모두에게 네 마음속 따스함을 나눠주는 게 좋겠어."
-511,"TEXT_VOICEMAN_02500_X00010_ALPHINAUD","내 탓이야……."
-512,"TEXT_VOICEMAN_02500_X00020_ALPHINAUD","에오르제아를 진정으로 위하는 건 나뿐이라는……
-그런 교만함이 이 사태를 부른 거다."
-513,"TEXT_VOICEMAN_02500_X00030_ALPHINAUD","내 지시로 사람을 움직이고
-내 말로 각국 정치를 좌우하려 했지……."
-514,"TEXT_VOICEMAN_02500_X00040_ALPHINAUD","'크리스탈 브레이브'는 에오르제아를 위한 거라 떠들며
-조부님이 남긴 '새벽'도 내 것인 양 다루었어……."
-515,"TEXT_VOICEMAN_02500_X00050_ALPHINAUD","그렇게 교만과 조바심, 명분에 사로잡혀……
-정작 내 발밑조차 제대로 못 본 거야!"
-516,"TEXT_VOICEMAN_02500_X00060_ALPHINAUD","나한테 '에오르제아를 구한다'는 건 대체 뭐지……?"
-517,"TEXT_VOICEMAN_02500_X00070_ALPHINAUD","야만족, 야만신, 갈레말 제국, 넘쳐나는 난민.
-무법자의 전장, 드래곤족과의 천년전쟁.
-그리고…… 어둠의 사도 아씨엔."
-518,"TEXT_VOICEMAN_02500_X00080_ALPHINAUD","수호자가 되겠다는 이상만 앞세워서……
-내 손은 더럽히지도 않은 채,
-오직 나만이 혼란을 잠재울 수 있다는 착각에 빠져있었다."
-519,"TEXT_VOICEMAN_02500_X00090_ALPHINAUD","……그래, 내 욕심을 채우기 위한 도구였던 거야."
-520,"TEXT_VOICEMAN_02500_X00100_ALPHINAUD","훗…… 어리석기 짝이 없군.
-모든 걸 잃고 나서 깨닫다니."
-521,"TEXT_VOICEMAN_02500_X00110_TATARU","알피노 님……."
-522,"TEXT_VOICEMAN_02500_X00120_HAURCHEFANT","알피노 공…….
-그래서 이대로 '부러진 검'이 될 셈입니까?
-……정말로 당신한텐 아무것도 안 남은 것 같아요?"
-523,"TEXT_VOICEMAN_02500_X00130_HAURCHEFANT","그렇지 않습니다. 당신 곁에는 아직 동료가 있어요.
-함께 걸어갈 수 있는 아주 좋은 동료들이지요."
-524,"TEXT_VOICEMAN_02500_X00140_ALPHINAUD","하지만 난…….
-게다가 이 땅에서는 이제……."
-525,"TEXT_VOICEMAN_02500_X00150_TATARU","아, 알피노 님…….
-저…… 저기……."
-526,"TEXT_VOICEMAN_02500_X00160_TATARU","그래도 우리는 이렇게 살아있잖아용!
-이, 이슈가르드로 가용!!"
-527,"TEXT_VOICEMAN_02500_X00170_TATARU","미, 민필리아 님이 말씀하셨어용!
-'새벽'의 등불은 절대 꺼지지 않는다고!"
-528,"TEXT_VOICEMAN_02500_X00180_TATARU","모험가님, 알피노 님……
-그리고 제가 있는 한!
-눈 속이든 구름 속이든 그 불을 다시 밝힐 수 있어용!!"
-529,"TEXT_VOICEMAN_02500_X00190_TATARU","으…… 으앙……."
-530,"TEXT_VOICEMAN_02500_X00200_ALPHINAUD","고맙네, 타타루.
-오르슈팡 공도 고맙습니다."
-531,"TEXT_VOICEMAN_02500_X00210_ALPHINAUD","고맙네…… 에오르제아의 진정한 수호자여……."
-532,"TEXT_VOICEMAN_02500_X00220_ALPHINAUD","그래, 한 걸음씩 나아가세.
-이번에는 동료들과 함께……."
-533,"TEXT_VOICEMAN_02500_X00230_ALPHINAUD","'새벽'의 등불을 꺼뜨리지 않겠어…….
-모두의 신념을 헛되이 할 수는 없으니까."
-534,"TEXT_VOICEMAN_02500_Y00010_LADYINWAITING2","모두 로로리토 님 지시대로 했습니다……."
-535,"TEXT_VOICEMAN_02500_Y00020_LOLORITO","……쳇."
-536,"TEXT_VOICEMAN_02500_Z00010_MIDGARDSORMR","이 너머는 이슈가르드…….
-우리 일족의 원한이 서린 부정한 땅……."
-537,"TEXT_VOICEMAN_02500_Z00020_MIDGARDSORMR","역시 인간의 본성은 혐오스럽다…….
-그리 생각하지 않느냐? 하이델린의 사도여."
+0,"TEXT_VOICEMAN_02500_000010_MINFILIA","你回來了。<hex:02100103>有位客人在等你，是從伊修加爾德來的。"
+1,"TEXT_VOICEMAN_02500_000020_MINFILIA","露琪亞小姐和你是見過面的吧。<hex:02100103>她剛剛向我說明過。"
+2,"TEXT_VOICEMAN_02500_000030_LUCIA","請恕我冒昧來訪。<hex:02100103>我們這邊出現了緊急情況，可是現在阿爾菲諾閣下卻不在……"
+3,"TEXT_VOICEMAN_02500_000040_LUCIA","不過您回來了就好說了。<hex:02100103>艾默里克長官希望請您來協助我們。"
+4,"TEXT_VOICEMAN_02500_000050_MOENBRYDA","我這邊的研究正好在關鍵時刻，騰不出手。<hex:02100103>所以只好讓塔塔露趕快把你叫過來了。"
+5,"TEXT_VOICEMAN_02500_000060_MINFILIA","那麼，到底是什麼情況？"
+6,"TEXT_VOICEMAN_02500_000070_LUCIA","昨夜，阿德內爾占星台向教皇廳發來了緊急警告。<hex:02100103>說他們觀測到“龍星”發出了異常的光芒。"
+7,"TEXT_VOICEMAN_02500_000080_LUCIA","“龍星”是北方天空中的一顆星星。<hex:02100103>相傳，龍族中的領袖會使用“龍嘯”向全族發出號令，<hex:02100103>這種時候，龍星會變得特別耀眼。"
+8,"TEXT_VOICEMAN_02500_000090_LUCIA","上一次我們觀測到龍星的異常光芒是在15年前。<hex:02100103>在那之後，數百年不見蹤影的幻龍米德加爾特在銀淚湖上空現身。"
+9,"TEXT_VOICEMAN_02500_000100_URIANGER","龍王咆哮，北方天空凶星閃耀之時，<hex:02100103>將出現身穿紅色鎧甲之人，將世界燃燒殆盡。"
+10,"TEXT_VOICEMAN_02500_000110_LUCIA","您對這些很熟悉啊……<hex:02100103>這是庫爾札斯西部的傳說。<hex:02100103>可惜那一帶現在已經不適合人類居住了。"
+11,"TEXT_VOICEMAN_02500_000120_LUCIA","我們回到正題吧。<hex:02100103>教皇廳懷疑昨夜發出龍嘯的正是幻龍米德加爾特。"
+12,"TEXT_VOICEMAN_02500_000130_URIANGER","幻龍米德加爾特被稱為原初之龍，<hex:02100103>是所有龍族的始祖。"
+13,"TEXT_VOICEMAN_02500_000140_URIANGER","15年前，幻龍米德加爾特和蓋烏斯率領的大艦隊交戰，<hex:02100103>最終與阿格里俄斯號旗艦在銀淚湖同歸於盡。"
+14,"TEXT_VOICEMAN_02500_000150_MINFILIA","是的。<hex:02100103>之後就再也沒有檢測到幻龍米德加爾特的生命反應……"
+15,"TEXT_VOICEMAN_02500_000160_MINFILIA","塔塔露，監視密約之塔的多瑪人有沒有報告些什麼？"
+16,"TEXT_VOICEMAN_02500_000170_MOENBRYDA","既然龍嘯強大到可以影響到星辰，<hex:02100103>那我們在喪靈鐘應該也能聽到吧？"
+17,"TEXT_VOICEMAN_02500_000180_LUCIA","不，龍嘯並非是發出聲音。<hex:02100103>龍族和我們不同，不需要用到聲音，<hex:02100103>而是直接在精神上進行交流。"
+18,"TEXT_VOICEMAN_02500_000190_LUCIA","若想得知是否真的有龍嘯發出，<hex:02100103>就必須去確認幻龍米德加爾特的情況……"
+19,"TEXT_VOICEMAN_02500_000200_LUCIA","我們想委託您去對密約之塔進行調查，<hex:02100103>確認幻龍米德加爾特的生死。"
+20,"TEXT_VOICEMAN_02500_000210_LUCIA","向國外派遣神殿騎士需要花費很多時間。<hex:02100103>這次只能借助您的力量了。"
+21,"TEXT_VOICEMAN_02500_000220_LUCIA","多謝……<hex:02100103>我立刻聯絡艾默里克長官，以備最糟糕的狀況發生。"
+22,"TEXT_VOICEMAN_02500_000230_MINFILIA","最糟糕的狀況？"
+23,"TEXT_VOICEMAN_02500_000240_LUCIA","龍嘯是對全體龍族所作出的號令。<hex:02100103>這意味著龍族就要開始大規模的進軍了。"
+24,"TEXT_VOICEMAN_02500_100010_MIDGARDSORMR","是何人膽敢闖入我的居所，打擾我的沉睡……"
+25,"TEXT_VOICEMAN_02500_100020_MIDGARDSORMR","無知之徒，休想倡狂<hex:02100103>我乃原初之幻龍米德加爾特！"
+26,"TEXT_VOICEMAN_02500_200010_MIDGARDSORMR","原來你也擁有超越之力……<hex:02100103>幻體敗給你倒也不足為奇。"
+27,"TEXT_VOICEMAN_02500_200020_MIDGARDSORMR","那麼也就是說，是海德林指引你來見我的。<hex:02100103>你來這裡所為何事？"
+28,"TEXT_VOICEMAN_02500_200030_MIDGARDSORMR","沒錯，點燃北天之星的，確實是我龍族的咆哮。<hex:02100103>同時，這也是我們開始進軍的標誌。"
+29,"TEXT_VOICEMAN_02500_200040_MIDGARDSORMR","龍族的目標是伊修加爾德。<hex:02100103>那裡的人類忘記了畏懼，犯下了罪行。"
+30,"TEXT_VOICEMAN_02500_200050_MIDGARDSORMR","此乃復仇……<hex:02100103>伊修加爾德的民眾不敢正視自己犯下的罪行。<hex:02100103>而這罪孽才是無盡戰火的根源。"
+31,"TEXT_VOICEMAN_02500_200060_MIDGARDSORMR","更甚的是，還有人企圖再次犯下罪行。<hex:02100103>因此，我們龍族便發動了龍嘯。"
+32,"TEXT_VOICEMAN_02500_200070_MIDGARDSORMR","停止進軍？<hex:02100103>雖然擁有超越之力，但你畢竟還是個人類啊……<hex:02100103>這是不可能的。"
+33,"TEXT_VOICEMAN_02500_200080_MIDGARDSORMR","我不過是感應到龍嘯，從沉睡中醒來而已。<hex:02100103>龍嘯並非是我發動，應該是我的七子其中之一。"
+34,"TEXT_VOICEMAN_02500_200090_MIDGARDSORMR","伊修加爾德的民眾不知悔改、不肯贖罪，<hex:02100103>我又有何理由要阻止我的孩子去復仇。<hex:02100103>即使伊修加爾德國破家亡、生靈塗炭，那也只是報應。"
+35,"TEXT_VOICEMAN_02500_200100_MIDGARDSORMR","那是……光之加護！<hex:02100103>海德林居然賜給擁有超越之力的人更多的力量……"
+36,"TEXT_VOICEMAN_02500_200110_MIDGARDSORMR","莫非你是特異之人？<hex:02100103>行星啊，你在懇求我幫助此人？！"
+37,"TEXT_VOICEMAN_02500_200120_MIDGARDSORMR","好吧……<hex:02100103>那麼便接受我幻龍米德加爾特的試煉吧！"
+38,"TEXT_VOICEMAN_02500_200130_MIDGARDSORMR","剛才貫穿你身體的是“龍爪”。<hex:02100103>龍爪的力量能夠封印海德林給予你的光之加護。"
+39,"TEXT_VOICEMAN_02500_200140_MIDGARDSORMR","不過，加護之光原本就有些暗淡了。<hex:02100103>即使沒有我的龍爪，大概也會隨時間流逝而消亡。"
+40,"TEXT_VOICEMAN_02500_200150_MIDGARDSORMR","我曾與海德林立下過契約。<hex:02100103>因此，我就放過你這個受到海德林加護的人類。"
+41,"TEXT_VOICEMAN_02500_200160_MIDGARDSORMR","但是，你畢竟是個人類……<hex:02100103>說不定會與伊修加爾德的民眾一樣，犯下愚蠢的罪行。<hex:02100103>記住，如果令我失望，你這撿來的生命也將消散。"
+42,"TEXT_VOICEMAN_02500_200170_MIDGARDSORMR","此乃我的幻影，亦是我的化身。<hex:02100103>今後它將隨你前行。"
+43,"TEXT_VOICEMAN_02500_200180_MIDGARDSORMR","化身之眼，即為我眼……<hex:02100103>化身之耳，即為我耳……<hex:02100103>我來看看失去光之加護的你到底能夠做些什麼。"
+44,"TEXT_VOICEMAN_02500_200190_MIDGARDSORMR","開拓命運的特異之人，<hex:02100103>用你自己的力量來掙脫我的枷鎖吧。"
+45,"TEXT_VOICEMAN_02500_200200_MIDGARDSORMR","你的力量也許會對人類做出審判，終結這場戰爭。<hex:02100103>這是你作為特異之人而被賦予的試煉。"
+46,"TEXT_VOICEMAN_02500_200210_MIDGARDSORMR","飄蕩此地的乙太，總有一天會令我的身體再次復甦。"
+47,"TEXT_VOICEMAN_02500_200220_MIDGARDSORMR","我希望復活之時，能夠看到你完成試煉，<hex:02100103>以及人類繼承光之意志。"
+48,"TEXT_VOICEMAN_02500_200230_MIDGARDSORMR","但這並非容易之事。<hex:02100103>龍族的咆哮已經響徹天際，大戰即將爆發……"
+49,"TEXT_VOICEMAN_02500_300010_LUCIA","我聽說了您的活躍！<hex:02100103>不愧是英雄，不僅打敗了幻龍米德加爾特的幻影，<hex:02100103>還獲得了重要的情報！"
+50,"TEXT_VOICEMAN_02500_300020_LUCIA","不過沒想到是幻龍米德加爾特的孩子發出了龍嘯。"
+51,"TEXT_VOICEMAN_02500_300030_LUCIA","幻龍米德加爾特生有七子……<hex:02100103>在伊修加爾德的傳說裡，被稱為“七大天龍”。"
+52,"TEXT_VOICEMAN_02500_300040_LUCIA","相傳其中有兩條天龍仍然棲息在艾奧傑亞。<hex:02100103>但具體是哪條龍發出的龍嘯呢……"
+53,"TEXT_VOICEMAN_02500_300050_ALPHINAUD","不管是哪一條吧，現在龍族的攻勢已經迫在眉睫。<hex:02100103>看來這場大戰是不可避免的了。"
+54,"TEXT_VOICEMAN_02500_300060_ALPHINAUD","龍族來襲，你們能夠保住皇都嗎？<hex:02100103>那雖然是聳立在雲海中的城堡，<hex:02100103>但龍族是會飛的，伊修加爾德是佔不到地利的。"
+55,"TEXT_VOICEMAN_02500_300070_LUCIA","這個不用擔心。<hex:02100103>伊修加爾德和龍族對抗已經有千年的歷史，也不是那麼好對付的。"
+56,"TEXT_VOICEMAN_02500_300080_LUCIA","話雖如此，不過還是需要加強戒備。<hex:02100103>我要立刻聯繫艾默里克長官，在本國商討對策。"
+57,"TEXT_VOICEMAN_02500_300090_LUCIA","當然，我也會好好報告您的功績。<hex:02100103>您封印了正在醒來的幻龍米德加爾特，<hex:02100103>想必艾默里克長官得知後會非常高興。"
+58,"TEXT_VOICEMAN_02500_300100_LUCIA","……那麼我先告辭了。<hex:02100103>我們那邊有什麼進展，會馬上聯絡你們的。"
+59,"TEXT_VOICEMAN_02500_300110_ALPHINAUD","延綿數百年的戰爭歷史嗎……<hex:02100103>他們打算要打到什麼時候……"
+60,"TEXT_VOICEMAN_02500_400010_MOENBRYDA","幻龍米德加爾特的事也結束了，<hex:02100103>該報告一下我這邊的情況了。"
+61,"TEXT_VOICEMAN_02500_400020_MOENBRYDA","關於無影的消滅方法，已經有些成果了。<hex:02100103>特地來艾奧傑亞和大家一起研究總算沒白費。"
+62,"TEXT_VOICEMAN_02500_400030_MINFILIA","有什麼線索了嗎？"
+63,"TEXT_VOICEMAN_02500_400040_MOENBRYDA","是的，我來簡單說明一下吧。無影為什麼是不朽的？<hex:02100103>因為無影在物質界死亡後其靈魂不會回歸到乙太界，<hex:02100103>而是躲進了兩個世界之間的“夾縫”。"
+64,"TEXT_VOICEMAN_02500_400050_MOENBRYDA","因此，我們開發了這個“白聖石”。<hex:02100103>這件設備可以將靈魂狀態下的無影吸收進去，<hex:02100103>從而防止他們逃往夾縫。"
+65,"TEXT_VOICEMAN_02500_400060_THANCRED","之後的問題就是如何徹底消滅被吸收的靈魂了……"
+66,"TEXT_VOICEMAN_02500_400070_URIANGER","要粉碎捨棄肉體的靈魂，恐怕要從能量體湮滅的角度去考慮。<hex:02100103>如果我們能打造出純粹的乙太組成的“利刃”，<hex:02100103>那麼理論上應該是可行的。"
+67,"TEXT_VOICEMAN_02500_400080_MOENBRYDA","但是我們現在還不知道無影的靈魂中包含有多少乙太……"
+68,"TEXT_VOICEMAN_02500_400090_MOENBRYDA","因此，我們無法預想這把“利刃”的乙太密度要達到什麼程度。"
+69,"TEXT_VOICEMAN_02500_400100_YDA","那麼，我們做一個超厲害的乙太之刃吧。<hex:02100103>管他無影還是有影，都打他個魂飛魄散！"
+70,"TEXT_VOICEMAN_02500_400110_YDA","既然白聖石裡能放進乙太，<hex:02100103>我們現在就開始往白聖石裡儲存乙太不就好了！"
+71,"TEXT_VOICEMAN_02500_400120_PAPALYMO","伊達，你忘了穆恩布瑞達說過的嗎？<hex:02100103>白聖石是無法長期保存乙太的。"
+72,"TEXT_VOICEMAN_02500_400130_PAPALYMO","乙太原本就不能長期聚集起來。<hex:02100103>除非在激烈的乙太放射和外力作用下變成水晶，<hex:02100103>不然乙太是無法保存的。"
+73,"TEXT_VOICEMAN_02500_400140_YDA","對哦，說來也是啊。"
+74,"TEXT_VOICEMAN_02500_400150_THANCRED","但是能夠隨身攜帶的水晶數量也是有限的。<hex:02100103>何況我們還要時刻戒備無影的出現。"
+75,"TEXT_VOICEMAN_02500_400160_YSHTOLA","我們暫且假設無影靈魂的品質相當於大食量的利維坦。<hex:02100103>那麼，所需的水晶至少要能裝滿一艘雙體船。"
+76,"TEXT_VOICEMAN_02500_400170_THANCRED","可那時候船上的偏屬性水晶只是用來防禦利維坦的攻擊。<hex:02100103>如果想消滅對方的話，那可能需要好幾艘船的裝載量了。"
+77,"TEXT_VOICEMAN_02500_400180_MOENBRYDA","就是這個問題一直無法解決。<hex:02100103>既然不能隨身攜帶乙太，那就必須當場獲得才行。<hex:02100103>怎樣才能生成大量的乙太呢？"
+78,"TEXT_VOICEMAN_02500_400190_MOENBRYDA","方法只有一個。<hex:02100103>要使用儲藏在大地裡的資源！"
+79,"TEXT_VOICEMAN_02500_400200_YSHTOLA","你是說地脈？<hex:02100103>如果貫穿地脈的話，就會湧出大量的乙太。<hex:02100103>可那片地區就會像摩杜納這裡一樣，發生大量的結晶化現象。"
+80,"TEXT_VOICEMAN_02500_400210_MOENBRYDA","不，我指的是新生艾奧傑亞裡最常見的資源——偏屬性水晶！"
+81,"TEXT_VOICEMAN_02500_400220_MOENBRYDA","雖然屬性之間的平衡已經被破壞了，<hex:02100103>但水晶畢竟是乙太的結晶。"
+82,"TEXT_VOICEMAN_02500_400230_THANCRED","但是剛才也說了，隨身攜帶的水晶數量是有限的……"
+83,"TEXT_VOICEMAN_02500_400240_MOENBRYDA","哼哼，你搞錯了。<hex:02100103>我並不是要挖出偏屬性水晶，<hex:02100103>而是要當場產生乙太！"
+84,"TEXT_VOICEMAN_02500_400250_MOENBRYDA","只要能做到這一點，<hex:02100103>艾奧傑亞到處都能弄到大量的乙太！"
+85,"TEXT_VOICEMAN_02500_400260_MOENBRYDA","當然，上面說的都只是可行性。<hex:02100103>我們對無影可以說是一無所知，<hex:02100103>不管是什麼方案，只要有一點希望就該試試。"
+86,"TEXT_VOICEMAN_02500_400270_MINFILIA","說得對，現在也只能從能做到的事情開始做了。"
+87,"TEXT_VOICEMAN_02500_400280_MINFILIA","不過，你打算怎麼利用偏屬性水晶？<hex:02100103>從結晶裡提取出乙太，有那麼簡單嗎？"
+88,"TEXT_VOICEMAN_02500_400290_MOENBRYDA","請看這個。<hex:02100103>這個設備可以從周圍的偏屬性水晶抽取出乙太，<hex:02100103>我給它起名叫“乙太提取器”！"
+89,"TEXT_VOICEMAN_02500_400300_MOENBRYDA","我想立刻試一試這傢伙。<hex:02100103>但是摩杜納的偏屬性水晶太多了，<hex:02100103>不太適合做實驗。"
+90,"TEXT_VOICEMAN_02500_400310_MOENBRYDA","萬一實驗失敗，就有可能弄亂這一帶的屬性。<hex:02100103>有誰知道哪裡有地方比較適合做實驗嗎？"
+91,"TEXT_VOICEMAN_02500_400320_ALPHINAUD","那去北薩納蘭怎麼樣。<hex:02100103>那裡有適中規模的偏屬性水晶。<hex:02100103>……而且那裡現在正好需要你們的説明。"
+92,"TEXT_VOICEMAN_02500_400330_MINFILIA","阿爾菲諾，發生了什麼事？"
+93,"TEXT_VOICEMAN_02500_400340_ALPHINAUD","帝國南方堡開始活動了。"
+94,"TEXT_VOICEMAN_02500_400350_ALPHINAUD","南方堡在賢者行軍行動時損失了大量的兵力，<hex:02100103>魔導城也完全被毀。<hex:02100103>但是同盟軍撤退後，中央堡的援軍趕到了。"
+95,"TEXT_VOICEMAN_02500_400360_ALPHINAUD","聽說現在為了籌備修復基地的物資，<hex:02100103>在打青磷精煉所的主意。"
+96,"TEXT_VOICEMAN_02500_400370_ALPHINAUD","他們現在失去了本國的支援，可謂是背水一戰。<hex:02100103>如果讓敵人入侵到青磷精煉所，那戰況就麻煩了。"
+97,"TEXT_VOICEMAN_02500_400380_ALPHINAUD","水晶義勇隊已經做好了出發的準備，<hex:02100103>但恐怕無法牽制太長時間……<hex:02100103>所以我希望拂曉能來協助我們。"
+98,"TEXT_VOICEMAN_02500_400390_MOENBRYDA","你是說想做實驗就要先趕跑帝國兵？<hex:02100103>以實驗作為交換條件，讓我們幫忙，<hex:02100103>你這如意算盤打得倒是挺好的嘛！"
+99,"TEXT_VOICEMAN_02500_400400_MOENBRYDA","哈哈，不過聽起來不錯嘛，就按你說的去幹！<hex:02100103>我們出手也能早點把事情解決了！"
+100,"TEXT_VOICEMAN_02500_400410_MOENBRYDA","無影每時每刻都有可能出現，<hex:02100103>在旁邊看著你們把戰鬥打完，那我可等不及。"
+101,"TEXT_VOICEMAN_02500_400420_URIANGER","萬事要小心啊……<hex:02100103>你從小就是這魯莽個性。"
+102,"TEXT_VOICEMAN_02500_400430_MINFILIA","嗯，穆恩布瑞達說得對。<hex:02100103>我們會和水晶義勇隊分頭行動。"
+103,"TEXT_VOICEMAN_02500_400440_MINFILIA","你就去牽制帝國軍吧。<hex:02100103>桑克瑞德和帕帕力莫也去幫忙。"
+104,"TEXT_VOICEMAN_02500_400450_MINFILIA","穆恩布瑞達和伊達、雅·修朵拉一同行動。<hex:02100103>你們先去勘察場地，做好準備。<hex:02100103>以便在牽製作戰結束後立刻進行實驗。"
+105,"TEXT_VOICEMAN_02500_400460_URIANGER","那麼這段時間我就繼續驗證白聖石的性能吧。"
+106,"TEXT_VOICEMAN_02500_400470_MINFILIA","好的，就拜託您了。<hex:02100103>那麼大家各自準備出發吧。<hex:02100103>……一定要小心行事，平安歸來。"
+107,"TEXT_VOICEMAN_02500_500010_MOENBRYDA","不好意思，你在那裡等我一下。<hex:02100103>我很快就做完了。"
+108,"TEXT_VOICEMAN_02500_500020_MOENBRYDA","那個啊？是我的獵物。<hex:02100103>我一揮起斧頭，就不知不覺興奮起來了。"
+109,"TEXT_VOICEMAN_02500_500030_MOENBRYDA","其實，我本來是那種頭腦簡單、四肢發達的人。"
+110,"TEXT_VOICEMAN_02500_500040_MOENBRYDA","是恩師教我領悟了學習的樂趣。<hex:02100103>這次我來艾奧傑亞，也有一部分是為了恩師的事。"
+111,"TEXT_VOICEMAN_02500_500050_MOENBRYDA","而且這裡還有個讓人放心不下的老相識。<hex:02100103>你看，那傢伙說話拐彎抹角的。<hex:02100103>真是白長這麼大了……"
+112,"TEXT_VOICEMAN_02500_500060_MOENBRYDA","好，這就差不多了。"
+113,"TEXT_VOICEMAN_02500_500070_MOENBRYDA","哈，看起來不錯嘛。<hex:02100103>這種程度的話，對周圍環境也應該沒有什麼影響。"
+114,"TEXT_VOICEMAN_02500_500080_MOENBRYDA","看到了嗎？<hex:02100103>偏屬性水晶發出了乙太的光芒。"
+115,"TEXT_VOICEMAN_02500_500090_MOENBRYDA","把這乙太聚集成“利刃”的方法我還在摸索，<hex:02100103>但是這個乙太提取器只要改良一下，<hex:02100103>至少乙太的問題是能夠解決的。"
+116,"TEXT_VOICEMAN_02500_500100_MOENBRYDA","現在還無法確定結果如何，<hex:02100103>不過你放心，我一定會給你做出一把“好刀”。"
+117,"TEXT_VOICEMAN_02500_500110_NABRIALES","(-？？？？-)<hex:024804F2022303>不愧是光之戰士……<hex:02100103>竟然能察覺到我。<hex:0248020103>"
+118,"TEXT_VOICEMAN_02500_500120_MOENBRYDA","難道是無影？！<hex:02100103>是來阻止我們的嗎？！"
+119,"TEXT_VOICEMAN_02500_500130_NABRIALES","<hex:024804F2022303>那個紋身……你應該是薩雷安的賢人吧。<hex:02100103>怪不得還有點腦子。<hex:0248020103>"
+120,"TEXT_VOICEMAN_02500_500140_MOENBRYDA","雖然聽不懂你在說什麼，<hex:02100103>不過肯定不是什麼好話……"
+121,"TEXT_VOICEMAN_02500_500150_NABRIALES","<hex:024804F2022303>哈哈哈，猜得不錯。<hex:02100103>不要那麼凶嘛，<hex:02100103>女人嘛，笑起來才好看哦。<hex:0248020103>"
+122,"TEXT_VOICEMAN_02500_500160_NABRIALES","<hex:024804F2022303>我還是和能聽懂的人談談吧。<hex:02100103>擁有超越之力的光之戰士，我們終於見面了，<hex:02100103>我名為那布里亞勒斯，如你所見是無影的一員。<hex:0248020103>"
+123,"TEXT_VOICEMAN_02500_500170_NABRIALES","<hex:024804F2022303>真是的太佩服你了。<hex:02100103>我好不容易配合拉哈布雷亞，將神靈降臨在人身上，<hex:02100103>你卻那麼簡單輕鬆地幹掉了。<hex:0248020103>"
+124,"TEXT_VOICEMAN_02500_500180_MOENBRYDA","呀啊啊啊啊！"
+125,"TEXT_VOICEMAN_02500_500190_MOENBRYDA","什麼？！"
+126,"TEXT_VOICEMAN_02500_500200_MOENBRYDA","唔！"
+127,"TEXT_VOICEMAN_02500_500210_NABRIALES","<hex:024804F2022303>都說了別那麼凶嘛。<hex:0248020103>"
+128,"TEXT_VOICEMAN_02500_500220_NABRIALES","<hex:024804F2022303>你不準備來玩兩下嗎？<hex:02100103>光之戰士？<hex:0248020103>"
+129,"TEXT_VOICEMAN_02500_500230_NABRIALES","<hex:024804F2022303>……嗯？<hex:02100103>這是怎麼回事？從你身上感覺不到光之加護？<hex:0248020103>"
+130,"TEXT_VOICEMAN_02500_500240_NABRIALES","<hex:024804F2022303>哈哈哈！<hex:02100103>難道你被海德林給拋棄了嗎？！<hex:02100103>這可真是悲劇啊！<hex:0248020103>"
+131,"TEXT_VOICEMAN_02500_500250_NABRIALES","<hex:024804F2022303>你沒有光之加護根本就不是我的對手！<hex:02100103>今天就了結了你吧……<hex:0248020103>"
+132,"TEXT_VOICEMAN_02500_500260_NABRIALES","<hex:024804F2022303>不、等等，這可是個好機會啊。<hex:02100103>趁現在去把“那把杖”搞到手，我的地位就能夠更上一步了！<hex:0248020103>"
+133,"TEXT_VOICEMAN_02500_500270_NABRIALES","<hex:024804F2022303>接下來我就會成為佐狄亞克大人的左右手……<hex:02100103>從此白袍混蛋和拉哈布雷亞也不敢再對我說什麼了！<hex:0248020103>"
+134,"TEXT_VOICEMAN_02500_500280_MOENBRYDA","消失了？<hex:02100103>這到底是怎麼回事？"
+135,"TEXT_VOICEMAN_02500_500290_MOENBRYDA","那布里亞勒斯……<hex:02100103>那就是你們正在對抗的無影……"
+136,"TEXT_VOICEMAN_02500_500300_MOENBRYDA","說來，他要去搶什麼杖？<hex:02100103>我們有什麼手杖能讓他們那麼看重的嗎？"
+137,"TEXT_VOICEMAN_02500_500310_MOENBRYDA","莫非是天命杖？！<hex:02100103>在石之家保管的路易索瓦大師的遺物！"
+138,"TEXT_VOICEMAN_02500_500320_MOENBRYDA","這下麻煩了！<hex:02100103>敏菲利亞還留在石之家裡。<hex:02100103>我們要馬上趕回去！"
+139,"TEXT_VOICEMAN_02500_600010_MINFILIA","你們回來了！"
+140,"TEXT_VOICEMAN_02500_600020_NABRIALES","<hex:024804F2022303>原來是光之戰士……<hex:02100103>不，你現在已經沒什麼光了，也無法阻止我進到這裡來了。<hex:0248020103>"
+141,"TEXT_VOICEMAN_02500_600030_MINFILIA","你這是什麼意思？！"
+142,"TEXT_VOICEMAN_02500_600040_NABRIALES","<hex:024804F2022303>原來你不知道啊。<hex:02100103>這可真是要笑死人了。<hex:0248020103>"
+143,"TEXT_VOICEMAN_02500_600050_NABRIALES","<hex:024804F2022303>因為有人受到了光之加護，你們才能安然活到現在的。<hex:02100103>不然這小小據點怎麼可能攔得住我們。<hex:0248020103>"
+144,"TEXT_VOICEMAN_02500_600060_NABRIALES","<hex:024804F2022303>白袍和拉哈布雷亞那樣的原種倒還好，<hex:02100103>而像我們這樣的轉生種就沒那麼容易衝破光之加護了。<hex:0248020103>"
+145,"TEXT_VOICEMAN_02500_600070_NABRIALES","<hex:024804F2022303>……當然，看來這種狀況也到此為止了。<hex:02100103>我和他們不同，沒那麼好的耐心。<hex:02100103>這把杖我就收下了，下一次的“次元崩壞”即將到來！<hex:0248020103>"
+146,"TEXT_VOICEMAN_02500_600080_MINFILIA","“次元崩壞”？！<hex:02100103>巴爾德西昂委員會的消失果然和你們有關係！"
+147,"TEXT_VOICEMAN_02500_600090_MOENBRYDA","沒用的廢話到此為止了！"
+148,"TEXT_VOICEMAN_02500_600100_MOENBRYDA","啊！"
+149,"TEXT_VOICEMAN_02500_600110_MINFILIA","穆恩布瑞達!"
+150,"TEXT_VOICEMAN_02500_600120_NABRIALES","<hex:024804F2022303>我討厭沒完沒了的女人。<hex:02100103>……哦，我忘了，你聽不懂我們的語言。<hex:0248020103>"
+151,"TEXT_VOICEMAN_02500_600130_MINFILIA","你為什麼要搶走這把杖？<hex:02100103>這只是個遺物罷了，<hex:02100103>對你們根本沒有價值！"
+152,"TEXT_VOICEMAN_02500_600140_NABRIALES","<hex:024804F2022303>你怎麼老問些愚蠢的問題？<hex:02100103>你到底都調查了些什麼啊？<hex:0248020103>"
+153,"TEXT_VOICEMAN_02500_600150_NABRIALES","<hex:024804F2022303>天命杖……<hex:02100103>準確地說，這把杖裡的石板，<hex:02100103>擁有一種特殊的力量。<hex:0248020103>"
+154,"TEXT_VOICEMAN_02500_600160_NABRIALES","<hex:024804F2022303>將石板和杖頭的號角配合使用，<hex:02100103>就能從周圍環境收集來大量的乙太。<hex:0248020103>"
+155,"TEXT_VOICEMAN_02500_600170_NABRIALES","<hex:024804F2022303>那老頭子不用水晶也能成功召喚十二神降臨，<hex:02100103>你就沒動過腦子好好想想為什麼嗎？<hex:0248020103>"
+156,"TEXT_VOICEMAN_02500_600180_NABRIALES","<hex:024804F2022303>召喚不只需要祈禱，還需要乙太的能量。<hex:02100103>這可是連小朋友都懂的吧？<hex:0248020103>"
+157,"TEXT_VOICEMAN_02500_600190_MINFILIA","……多虧了你的教導，現在我就清楚了。<hex:02100103>那麼，這把杖就更不能交給你了！"
+158,"TEXT_VOICEMAN_02500_600200_NABRIALES","<hex:024804F2022303>真是聽不進人勸啊……<hex:02100103>忘了說了，我還討厭任性的女人哦。<hex:0248020103>"
+159,"TEXT_VOICEMAN_02500_600210_NABRIALES","<hex:024804F2022303>不過，殺了你又會被白袍說三道四。<hex:02100103>雖然麻煩點，但也只好連你一起都帶回去了。<hex:0248020103>"
+160,"TEXT_VOICEMAN_02500_600220_MOENBRYDA","快追……<hex:02100103>現在追還來得及！"
+161,"TEXT_VOICEMAN_02500_700010_NABRIALES","身手不錯嘛……<hex:02100103>光之加護沒了，但是還有本身的實力啊。"
+162,"TEXT_VOICEMAN_02500_700020_NABRIALES","竟然被逼到這份上……<hex:02100103>只好先回去一趟了。"
+163,"TEXT_VOICEMAN_02500_700030_MOENBRYDA","回來……啦……<hex:02100103>看來……你成功了……"
+164,"TEXT_VOICEMAN_02500_700040_NABRIALES","<hex:024804F2022303>看來這次是小看了你。<hex:02100103>但是，你們又能撐到什麼時候呢？<hex:0248020103>"
+165,"TEXT_VOICEMAN_02500_700050_NABRIALES","<hex:024804F2022303>你已經失去了海德林的加護。<hex:02100103>天命杖早晚是我的！<hex:0248020103>"
+166,"TEXT_VOICEMAN_02500_700060_MINFILIA","你不會再有機會了！<hex:02100103>今天，你的靈魂將回歸乙太界！"
+167,"TEXT_VOICEMAN_02500_700070_NABRIALES","<hex:024804F2022303>什麼！<hex:02100103>這是什麼東西？<hex:0248020103>"
+168,"TEXT_VOICEMAN_02500_700080_NABRIALES","<hex:024804F2022303>可惡！可惡！<hex:02100103>啊——！<hex:0248020103>"
+169,"TEXT_VOICEMAN_02500_700090_MINFILIA","趁現在！<hex:02100103>快用天命杖聚集周圍的乙太！"
+170,"TEXT_VOICEMAN_02500_700100_MINFILIA","回想一下！<hex:02100103>你以前斬斷拉哈布雷亞的光之刃！"
+171,"TEXT_VOICEMAN_02500_700110_MINFILIA","怎麼會？！<hex:02100103>海德林的加護被封印，所以光之力也被削減了嗎？！"
+172,"TEXT_VOICEMAN_02500_700120_MOENBRYDA","這東西也已經啟動了……<hex:02100103>但還是差那麼一點乙太！"
+173,"TEXT_VOICEMAN_02500_700130_NABRIALES","<hex:024804F2022303>……區區人類不要得寸進尺！<hex:02100103>我是不會消失的！等我下次轉生有你們好看的！<hex:0248020103>"
+174,"TEXT_VOICEMAN_02500_700140_MINFILIA","母水晶海德林，請傾聽我們的祈禱！<hex:02100103>請賜予我們光明！請賜予我們力量！"
+175,"TEXT_VOICEMAN_02500_700150_MINFILIA","沒有效果嗎？<hex:02100103>超越之力也不能將我們的聲音和希望轉達給海德林了嗎？"
+176,"TEXT_VOICEMAN_02500_700160_MOENBRYDA","只要再有一點……<hex:02100103>再有一點的乙太就夠了……"
+177,"TEXT_VOICEMAN_02500_700170_MINFILIA","穆恩布瑞達？<hex:02100103>你、你要做什麼？！"
+178,"TEXT_VOICEMAN_02500_700180_MOENBRYDA","原來……原來是這樣……<hex:02100103>路易索瓦恩師……也是為了……盡自己的責任……"
+179,"TEXT_VOICEMAN_02500_700190_MOENBRYDA","誓死保衛希望……<hex:02100103>這就是……路易索瓦恩師來到此地的原因……<hex:02100103>尤里安傑……我終於明白了……"
+180,"TEXT_VOICEMAN_02500_700200_MINFILIA","不要，穆恩布瑞達！！<hex:02100103>你不能……"
+181,"TEXT_VOICEMAN_02500_700210_NABRIALES","<hex:024804F2022303>不！不！住手！救命啊！<hex:02100103>我竟然……我竟然要消失了……<hex:0248020103>"
+182,"TEXT_VOICEMAN_02500_700220_NABRIALES","<hex:024804F2022303>不要！求求你們了！快住手！<hex:02100103>我不想消失！不想消失！我不想！不想……<hex:0248020103>"
+183,"TEXT_VOICEMAN_02500_700230_MINFILIA","穆恩布瑞達……<hex:02100103>就這麼走了……"
+184,"TEXT_VOICEMAN_02500_700240_MINFILIA","無影徹底消失了……<hex:02100103>謝謝你……你的研究，成功了……"
+185,"TEXT_VOICEMAN_02500_800010_MINFILIA","這個乙太提取器……是穆恩布瑞達留下的成果……"
+186,"TEXT_VOICEMAN_02500_800020_MINFILIA","在向大家說明狀況前，<hex:02100103>就由我來保管吧……"
+187,"TEXT_VOICEMAN_02500_800030_YDA","敏菲利亞，你還好嗎？！"
+188,"TEXT_VOICEMAN_02500_800040_MINFILIA","嗯，還好。"
+189,"TEXT_VOICEMAN_02500_800050_PAPALYMO","我們在完成北薩納蘭的作戰後就在附近做調查。"
+190,"TEXT_VOICEMAN_02500_800060_PAPALYMO","之後就接到穆恩布瑞達的聯絡，<hex:02100103>說是石之家會被無影襲擊。<hex:02100103>於是大家就火速趕回來了。"
+191,"TEXT_VOICEMAN_02500_800070_THANCRED","你也趕到了啊。<hex:02100103>大家都平安就好。"
+192,"TEXT_VOICEMAN_02500_800080_YSHTOLA","情況到底怎麼樣？穆恩布瑞達在哪呢？"
+193,"TEXT_VOICEMAN_02500_800090_THANCRED","竟然發生了這種事……<hex:02100103>她將自己的生命轉化成了乙太，<hex:02100103>用此消滅了無影……"
+194,"TEXT_VOICEMAN_02500_800100_YSHTOLA","世間的生命，死亡後就會回歸乙太……<hex:02100103>無影在抵抗這自然法則，<hex:02100103>而穆恩布瑞達則接受了這法則……"
+195,"TEXT_VOICEMAN_02500_800110_YDA","尤里安傑已經知道這件事了嗎？"
+196,"TEXT_VOICEMAN_02500_800120_MINFILIA","尤里安傑先生……"
+197,"TEXT_VOICEMAN_02500_800130_URIANGER","……我已經聽到了。"
+198,"TEXT_VOICEMAN_02500_800140_URIANGER","月已西沉，逝於星海……<hex:02100103>然其又將指引拂曉的太陽……<hex:02100103>穆恩布瑞達……她勇敢地完成了自己的使命，是嗎？"
+199,"TEXT_VOICEMAN_02500_800150_URIANGER","在薩雷安本國，她和我都是路易索瓦恩師的弟子……"
+200,"TEXT_VOICEMAN_02500_800160_URIANGER","恩師教導我們，才智要為天下蒼生所用。<hex:02100103>而這一理念在薩雷安卻被視為異端，<hex:02100103>那裡的人們仍然堅守著“累積知識、觀察歷史”的信條……"
+201,"TEXT_VOICEMAN_02500_800170_URIANGER","雖然與大環境不合，但恩師仍然招募到了諸多志同道合的追隨者，<hex:02100103>並且為了拯救艾奧傑亞，成立了救世詩盟。"
+202,"TEXT_VOICEMAN_02500_800180_URIANGER","恩師甚至離開了薩雷安，親自來到這片大地……<hex:02100103>艾奧傑亞得以在第七靈災之後獲得新生，皆是恩師的功績。"
+203,"TEXT_VOICEMAN_02500_800190_URIANGER","但是在薩雷安國內，<hex:02100103>恩師卻因干涉歷史，而被人稱為墮落者……<hex:02100103>他們指責恩師拋棄了薩雷安賢人的職責……"
+204,"TEXT_VOICEMAN_02500_800200_URIANGER","穆恩布瑞達歷來對恩師萬般崇敬，<hex:02100103>但是恩師離開薩雷安時，卻連一句話都沒有留給她。<hex:02100103>或許，她便是因為這個原因而被周圍的批判所動搖了吧……"
+205,"TEXT_VOICEMAN_02500_800210_URIANGER","恩師是不是真的拋棄了職責？<hex:02100103>是不是同時也拋棄了自己？<hex:02100103>穆恩布瑞達已經不知道是否要繼續堅持自己的信念了吧……"
+206,"TEXT_VOICEMAN_02500_800220_MINFILIA","但是，路易索瓦大師他……"
+207,"TEXT_VOICEMAN_02500_800230_URIANGER","是的，恩師盡到了自己的責任，成功地守護了艾奧傑亞。<hex:02100103>沒有留話，大概也是為了給她指明另一條道路……"
+208,"TEXT_VOICEMAN_02500_800240_URIANGER","但是如果由我來把這些事實告訴她的話，<hex:02100103>穆恩布瑞達就無法真正理解恩師的想法……"
+209,"TEXT_VOICEMAN_02500_800250_URIANGER","我很希望她在艾奧傑亞期間能夠有所領悟……<hex:02100103>可惜現在已無法實現了……"
+210,"TEXT_VOICEMAN_02500_800260_URIANGER","這麼說……她已經領悟到了路易索瓦恩師的想法？<hex:02100103>因此才決定自我犧牲？"
+211,"TEXT_VOICEMAN_02500_800270_URIANGER","她已經從困惑中獲得解脫了……<hex:02100103>我相信她會在另一個世界獲得安寧……"
+212,"TEXT_VOICEMAN_02500_800280_URIANGER","穆恩布瑞達……<hex:02100103>真的……太好了……"
+213,"TEXT_VOICEMAN_02500_800290_MINFILIA","光之刃還處於不穩定的狀態。<hex:02100103>但穆恩布瑞達用生命換來了消滅無影的方法。"
+214,"TEXT_VOICEMAN_02500_800300_MINFILIA","多虧了她，我們又向前邁出了一步。<hex:02100103>我們絕對不會讓她白白犧牲！"
+215,"TEXT_VOICEMAN_02500_800310_URIANGER","敏菲利亞，我該回砂之家去了。<hex:02100103>我要用自己的方法來悼念逝去的朋友……<hex:02100103>請你們……給我一點時間……"
+216,"TEXT_VOICEMAN_02500_800320_MINFILIA","好的……<hex:02100103>穆恩布瑞達泉下有知，一定也會感到欣慰的。"
+217,"TEXT_VOICEMAN_02500_900010_MINFILIA","穆恩布瑞達……<hex:02100103>我們會繼承你的遺志。"
+218,"TEXT_VOICEMAN_02500_900020_MINFILIA","你幫助我們找到了消滅無影的方法。<hex:02100103>他們已經不再是不死之身了……"
+219,"TEXT_VOICEMAN_02500_900030_MINFILIA","我們一定會消滅無影，<hex:02100103>為艾奧傑亞帶來和平。<hex:02100103>這是我們作為守護者的使命……"
+220,"TEXT_VOICEMAN_02500_900040_MINFILIA","我發誓，我們拂曉血盟一定會做到的……"
+221,"TEXT_VOICEMAN_02500_900060_MIDGARDSORMR","失去了光之加護，也能消滅黑暗的勢力……<hex:02100103>看來人類也有愚蠢之外的一面。"
+222,"TEXT_VOICEMAN_02500_900070_MIDGARDSORMR","不過，你們這才剛剛過了一關……<hex:02100103>我還不能承認你的力量。"
+223,"TEXT_VOICEMAN_02500_900050_YDA","穆恩布瑞達，謝謝你為我們所做的一切。<hex:02100103>……你安心地去吧。"
+224,"TEXT_VOICEMAN_02500_900080_MIDGARDSORMR","……看來有行動了。"
+225,"TEXT_VOICEMAN_02500_900090_YDA","那是什麼？"
+226,"TEXT_VOICEMAN_02500_900100_ALPHINAUD","是我，聽得見嗎？！"
+227,"TEXT_VOICEMAN_02500_900110_ALPHINAUD","伊修加爾德有動靜了。<hex:02100103>請大家立刻回到石之家！"
+228,"TEXT_VOICEMAN_02500_900120_MINFILIA","伊修加爾德有了動靜？<hex:02100103>……難道剛才的龍族是？！"
+229,"TEXT_VOICEMAN_02500_900130_MINFILIA","快回去吧。<hex:02100103>情況緊急，我們要把握時間。"
+230,"TEXT_VOICEMAN_02500_A00010_ICEHEART","人類的罪行才是造成這一切的原因……<hex:02100103>那麼，就讓我來將這因果徹底斬斷……"
+231,"TEXT_VOICEMAN_02500_A00020_ICEHEART","高貴的飛龍啊！<hex:02100103>長年保護著雲廊的魔法障壁已經消失！"
+232,"TEXT_VOICEMAN_02500_A00030_ICEHEART","罪人的巢穴伊修加爾德近在咫尺！<hex:02100103>審判的時刻已經到來！"
+233,"TEXT_VOICEMAN_02500_A00040_ICEHEART","哈哈哈哈哈哈！"
+234,"TEXT_VOICEMAN_02500_C00010_MINFILIA","你們回來了。<hex:02100103>情況怎麼樣？"
+235,"TEXT_VOICEMAN_02500_C00020_ALPHINAUD","看來一場大戰不可避免……<hex:02100103>我們需要把大家都召集過來，現在情況很嚴重。"
+236,"TEXT_VOICEMAN_02500_C00030_MINFILIA","也就是說，以前出現在伊修加爾德的都還只是先遣隊。<hex:02100103>邪龍尼德霍格的眷屬很快就會大舉入侵。"
+237,"TEXT_VOICEMAN_02500_C00040_ALPHINAUD","而且，龍嘯已經發動，<hex:02100103>我們的時間不多了。"
+238,"TEXT_VOICEMAN_02500_C00050_PAPALYMO","龍族的力量十分強大，遠非普通魔物能比……"
+239,"TEXT_VOICEMAN_02500_C00060_YSHTOLA","這次伊修加爾德格外警惕，<hex:02100103>恐怕會有高級龍族出現。"
+240,"TEXT_VOICEMAN_02500_C00070_YDA","伊修加爾德和龍族的戰爭……"
+241,"TEXT_VOICEMAN_02500_C00080_THANCRED","這次的戰爭雖說是伊修加爾德的內部問題，<hex:02100103>但就如阿爾菲諾所說，從長遠來看，<hex:02100103>如果伊修加爾德失守，艾奧傑亞其他地區也將面臨龍族的威脅。"
+242,"TEXT_VOICEMAN_02500_C00090_ALPHINAUD","是的，所以我想提議，<hex:02100103>拂曉血盟和水晶義勇隊雙方都協助伊修加爾德進行守衛戰。"
+243,"TEXT_VOICEMAN_02500_C00100_MINFILIA","我們要加入這場持續千年的戰爭了嗎……"
+244,"TEXT_VOICEMAN_02500_C00110_MINFILIA","但是我們的目標是拯救艾奧傑亞。<hex:02100103>如果有拂曉血盟能夠幫得上忙的地方，我們都要盡力去做。"
+245,"TEXT_VOICEMAN_02500_C00120_MINFILIA","我們又要走上一條危險的路了，<hex:02100103>不過還是希望你能夠和我們一起走到最後……"
+246,"TEXT_VOICEMAN_02500_C00130_MINFILIA","謝謝你。"
+247,"TEXT_VOICEMAN_02500_C00140_ALPHINAUD","我這就出發去向各國領導人請求援兵，<hex:02100103>同時還需要取得水晶義勇隊的行動許可。<hex:02100103>我們立刻行動吧。"
+248,"TEXT_VOICEMAN_02500_D00010_MERLWYB","我們也得到了伊修加爾德那邊的情報……<hex:02100103>只不過沒想到事態發展得這麼快。"
+249,"TEXT_VOICEMAN_02500_D00020_ALPHINAUD","應艾默里克閣下的請求，<hex:02100103>我們水晶義勇隊準備向伊修加爾德派遣援兵加入保衛戰。"
+250,"TEXT_VOICEMAN_02500_D00030_RAUBAHN","知道了。<hex:02100103>……二位也沒有什麼意見吧？"
+251,"TEXT_VOICEMAN_02500_D00040_KANESENNA","沒有問題。"
+252,"TEXT_VOICEMAN_02500_D00050_MERLWYB","我對派兵也沒有任何異議。<hex:02100103>你是水晶義勇隊的總帥，如何行動由你來判斷。<hex:02100103>我們會為你的勝利祈禱。"
+253,"TEXT_VOICEMAN_02500_D00060_ALPHINAUD","……提督您這是什麼意思？"
+254,"TEXT_VOICEMAN_02500_D00070_MERLWYB","我知道你希望獲得更多的援助，<hex:02100103>可是從現狀來看，城邦軍事同盟恐怕派不出多少兵員。"
+255,"TEXT_VOICEMAN_02500_D00080_MERLWYB","我們三國至今還處在對抗蠻族的形勢下。<hex:02100103>士兵們夜以繼日在各地牽制蠻族，防止他們召喚出蠻神。<hex:02100103>……其範圍之廣，也許阿爾菲諾閣下是想像不到的。"
+256,"TEXT_VOICEMAN_02500_D00090_KANESENNA","而且法外戰區也無法置之不理……<hex:02100103>如果我們三國決定停戰，泰勒吉·阿代勒吉那些人可能會<hex:02100103>再次做出意想不到的舉動。任他們胡作非為下去，後果不堪設想。"
+257,"TEXT_VOICEMAN_02500_D00100_ALPHINAUD","那麼！<hex:02100103>各位的意思是無法派兵救援了？<hex:02100103>這可是攸關艾奧傑亞存亡的緊要關頭。"
+258,"TEXT_VOICEMAN_02500_D00110_RAUBAHN","沒有人說不派兵。<hex:02100103>我們會盡可能提供援助。"
+259,"TEXT_VOICEMAN_02500_D00120_MERLWYB","但是，數量是有限的，<hex:02100103>最多只能作為後備兵力吧。"
+260,"TEXT_VOICEMAN_02500_D00130_KANESENNA","雖然我們無法正式派出大量援兵，<hex:02100103>但是可以在各國軍內向冒險者發出請求。<hex:02100103>請他們以各自的判斷來自行援助伊修加爾德。"
+261,"TEXT_VOICEMAN_02500_D00140_RAUBAHN","沒錯，既然派不了正規部隊，<hex:02100103>我們也只能做到這一步了。"
+262,"TEXT_VOICEMAN_02500_D00150_ALPHINAUD","都到這種局面了，你們竟然還在指望冒險者們的“自願”嗎！"
+263,"TEXT_VOICEMAN_02500_D00160_ALPHINAUD","堂堂艾奧傑亞城邦軍事同盟，<hex:02100103>居然不能派出援兵來救助鄰國！"
+264,"TEXT_VOICEMAN_02500_D00170_MERLWYB","阿爾菲諾閣下，<hex:02100103>我的職責是保護“我的國家”以及“我的人民”。"
+265,"TEXT_VOICEMAN_02500_D00180_MERLWYB","為了艾奧傑亞的太平，我們當然會貢獻自己的力量。<hex:02100103>同時我們也希望伊修加爾德能夠重新加入同盟軍。"
+266,"TEXT_VOICEMAN_02500_D00190_MERLWYB","但是事情有先後，排第一的永遠是祖國，之後是同盟，<hex:02100103>伊修加爾德和其他國家只能排在最後。"
+267,"TEXT_VOICEMAN_02500_D00200_MERLWYB","如果你無法理解這一點，那麼你就沒有資格坐在這裡參加會議。"
+268,"TEXT_VOICEMAN_02500_D00210_ALPHINAUD","我明白了，提督。<hex:02100103>……剛才我失言了，請原諒。"
+269,"TEXT_VOICEMAN_02500_D00220_RAUBAHN","現在任命你為同盟軍冒險者選拔隊的隊長。<hex:02100103>你要召集各國軍內的冒險者，<hex:02100103>前往伊修加爾德參加保衛戰。"
+270,"TEXT_VOICEMAN_02500_D00230_RAUBAHN","娜娜莫陛下。<hex:02100103>臣想從不滅隊儘量多派出一些兵力。"
+271,"TEXT_VOICEMAN_02500_D00240_RAUBAHN","暫時擴大銅刃團的許可權，讓銅刃團代為執行不滅隊的治安任務。<hex:02100103>這樣，就能把多餘出來的部隊派往伊修加爾德了。<hex:02100103>還請陛下批准。"
+272,"TEXT_VOICEMAN_02500_D00250_RAUBAHN","陛下？"
+273,"TEXT_VOICEMAN_02500_D00260_NANAMOULNAMO","……啊。<hex:02100103>沒有問題，就由你妥善處理了。"
+274,"TEXT_VOICEMAN_02500_D00270_RAUBAHN","娜娜莫陛下是不是身體有不適？"
+275,"TEXT_VOICEMAN_02500_D00280_LADYINWAITING2","不，不曾聽說過陛下身體有什麼不適……"
+276,"TEXT_VOICEMAN_02500_D00290_RAUBAHN","……是嗎，那就算了。"
+277,"TEXT_VOICEMAN_02500_F00010_NANAMOULNAMO","薩薩加恩大人，對不起……"
+278,"TEXT_VOICEMAN_02500_F00020_NANAMOULNAMO","因為我的軟弱，烏爾王家已經失去了統治這個國家的資格……"
+279,"TEXT_VOICEMAN_02500_F00030_NANAMOULNAMO","我準備在這次慶功會上宣佈結束王家的統治……請您原諒我……"
+280,"TEXT_VOICEMAN_02500_G00010_NANAMOULNAMO","抱歉，也讓你費了很多心吧。"
+281,"TEXT_VOICEMAN_02500_G00020_LADYINWAITING2","不，這都是陛下決定的事情。<hex:02100103>您還會關心我這樣的下人，我已經感激不盡了。"
+282,"TEXT_VOICEMAN_02500_G00030_LADYINWAITING2","……我這就去將英雄帶到這裡。"
+283,"TEXT_VOICEMAN_02500_G00040_NANAMOULNAMO","交給你了。"
+284,"TEXT_VOICEMAN_02500_H00010_KANESENNA","也就是說，艾默里克閣下是最近才上任的？"
+285,"TEXT_VOICEMAN_02500_H00020_AYMERIC","是的，就在不久之前。<hex:02100103>所以如果有什麼不得體的地方，還請您見諒。"
+286,"TEXT_VOICEMAN_02500_H00030_MINFILIA","還真是盛大的宴會啊……"
+287,"TEXT_VOICEMAN_02500_H00040_ALPHINAUD","畢竟取得了不錯的成果啊。"
+288,"TEXT_VOICEMAN_02500_H00050_MINFILIA","我都聽說了。<hex:02100103>艾默里克閣下正在為恢復對外關係向本國做動員是吧。<hex:02100103>我們在上次的保衛戰出力看來是做對了。"
+289,"TEXT_VOICEMAN_02500_H00060_MINFILIA","這也多虧了你的努力……<hex:02100103>恭喜你，阿爾菲諾。"
+290,"TEXT_VOICEMAN_02500_H00070_ALPHINAUD","謝謝你，敏菲利亞。"
+291,"TEXT_VOICEMAN_02500_H00080_ALPHINAUD","這次能夠以國賓之禮迎接艾默里克閣下，<hex:02100103>也全靠你們的大力幫助。"
+292,"TEXT_VOICEMAN_02500_H00090_ALPHINAUD","這樣一來，我們的軍事同盟一定能夠再次前進一大步。"
+293,"TEXT_VOICEMAN_02500_H00100_ALPHINAUD","而且和伊修加爾德恢復外交關係，也能擴展交易路線。<hex:02100103>靈災之後雖然經濟有所復興，可現在也開始收縮起來了，<hex:02100103>希望這次能成為新的增長點。"
+294,"TEXT_VOICEMAN_02500_H00110_ALPHINAUD","我們的努力給艾奧傑亞帶來了新的活力。<hex:02100103>剩下的問題就是法外戰區了，<hex:02100103>希望能夠儘早解決吧。"
+295,"TEXT_VOICEMAN_02500_H00120_ALPHINAUD","我能夠理解各國首領的想法。<hex:02100103>但是，我要用我自己的想法引領艾奧傑亞。"
+296,"TEXT_VOICEMAN_02500_H00130_ALPHINAUD","倒是我們的大英雄去哪裡了？<hex:02100103>怎麼都見不到人呢？"
+297,"TEXT_VOICEMAN_02500_H00140_MINFILIA","好像到流沙屋找莫莫蒂去了。<hex:02100103>如果沒什麼麻煩事情，應該快回來了吧。"
+298,"TEXT_VOICEMAN_02500_I00010_NANAMOULNAMO","……進來吧。"
+299,"TEXT_VOICEMAN_02500_I00020_LADYINWAITING2","陛下，客人到了。"
+300,"TEXT_VOICEMAN_02500_I00030_NANAMOULNAMO","進來吧，你能來真是太好了。"
+301,"TEXT_VOICEMAN_02500_J00010_MERLWYB","守住了雲廊，這下我們也就放心了。"
+302,"TEXT_VOICEMAN_02500_J00020_KANESENNA","城裡沒受到什麼損失嗎？"
+303,"TEXT_VOICEMAN_02500_J00030_AYMERIC","受到了一些小損失，不過不礙事的。<hex:02100103>這些都多虧了各位鼎力相助。"
+304,"TEXT_VOICEMAN_02500_J00040_RAUBAHN","那就好。<hex:02100103>伊修加爾德也是我們艾奧傑亞的一員，<hex:02100103>同舟共濟、共度患難是應該的。"
+305,"TEXT_VOICEMAN_02500_J00050_ALPHINAUD","……這也是……政治嗎？"
+306,"TEXT_VOICEMAN_02500_J00060_AYMERIC","雖然我本想等娜娜莫陛下到來後再一同道謝……<hex:02100103>不過看起來她好像還有些事情要處理？<hex:02100103>我就趁現在先說幾句吧。"
+307,"TEXT_VOICEMAN_02500_J00070_AYMERIC","感謝各位對這次保衛戰做出的幫助。"
+308,"TEXT_VOICEMAN_02500_J00080_AYMERIC","我打算趁此機會向教皇陛下進言打開大審門，<hex:02100103>讓艾奧傑亞真正團結到一起。"
+309,"TEXT_VOICEMAN_02500_J00090_ALPHINAUD","……是尤尤哈塞？<hex:02100103>我明白了。"
+310,"TEXT_VOICEMAN_02500_J00100_MINFILIA","……出了什麼事嗎？"
+311,"TEXT_VOICEMAN_02500_J00110_ALPHINAUD","不，沒什麼。<hex:02100103>我稍微離開一下。"
+312,"TEXT_VOICEMAN_02500_J00120_ALPHINAUD","什麼事？警備出什麼問題了嗎？"
+313,"TEXT_VOICEMAN_02500_K00010_NANAMOULNAMO","你退下吧。"
+314,"TEXT_VOICEMAN_02500_K00020_LADYINWAITING2","遵命。"
+315,"TEXT_VOICEMAN_02500_K00030_NANAMOULNAMO","我這次特意叫你來，準備告訴你一件要事。"
+316,"TEXT_VOICEMAN_02500_K00040_NANAMOULNAMO","……我打算退下王位，結束烏爾達哈的王室政權。"
+317,"TEXT_VOICEMAN_02500_K00050_NANAMOULNAMO","你也知道，如今烏爾達哈一片混亂。<hex:02100103>政府不能正常運作，人民處於水深火熱之中……"
+318,"TEXT_VOICEMAN_02500_K00060_NANAMOULNAMO","為了收拾這混亂局勢，<hex:02100103>我準備在慶功會裡宣佈王政的終結。"
+319,"TEXT_VOICEMAN_02500_K00070_NANAMOULNAMO","這樣烏爾達哈就不再是王室或者是富人的專權統治，<hex:02100103>人民也能真正成為主人。<hex:02100103>烏爾達哈是時候迎接新的時代了。"
+320,"TEXT_VOICEMAN_02500_K00080_NANAMOULNAMO","但是無疑，國家將會動盪。<hex:02100103>勞班一個人應付起來可能會力不從心。"
+321,"TEXT_VOICEMAN_02500_K00090_NANAMOULNAMO","我想請求你來輔佐勞班，共同建設這個國家。"
+322,"TEXT_VOICEMAN_02500_K00100_NANAMOULNAMO","你是身經百戰的真正英雄，<hex:02100103>能託付此事的，除了你就別無他人了。"
+323,"TEXT_VOICEMAN_02500_K00110_NANAMOULNAMO","謝謝你答應我的請求。<hex:02100103>……這我就放心了。"
+324,"TEXT_VOICEMAN_02500_K00120_NANAMOULNAMO","還記得在大霸王樹下第一次遇見你，<hex:02100103>彷彿就在昨日。<hex:02100103>……以後就有勞我們的大英雄了。"
+325,"TEXT_VOICEMAN_02500_K00130_NANAMOULNAMO","以後就有勞我們的大英雄了。"
+326,"TEXT_VOICEMAN_02500_K00140_TELEDJIADELEDJI","娜、娜娜莫陛下？！"
+327,"TEXT_VOICEMAN_02500_K00150_TELEDJIADELEDJI","陛、陛下……駕崩了……"
+328,"TEXT_VOICEMAN_02500_K00160_TELEDJIADELEDJI","難道是被下了毒！"
+329,"TEXT_VOICEMAN_02500_K00170_TELEDJIADELEDJI","冒險者……是你毒死陛下的？！"
+330,"TEXT_VOICEMAN_02500_K00180_TELEDJIADELEDJI","這房間裡只有娜娜莫陛下和你二人！<hex:02100103>你休想抵賴！"
+331,"TEXT_VOICEMAN_02500_K00190_TELEDJIADELEDJI","衛兵！抓住此人！<hex:02100103>暗殺女王陛下可是滔天大罪！"
+332,"TEXT_VOICEMAN_02500_K00200_BRASSBLADE02400","(-銅刃團衛兵-)遵命！<hex:02100103>你給我放老實點！"
+333,"TEXT_VOICEMAN_02500_L00010_ALPHINAUD","！！"
+334,"TEXT_VOICEMAN_02500_L00020_CRYSTALBRAVE02400","(-水晶義勇隊隊員-)除了一小部分人，和拂曉有關的人員已經全部控制住。<hex:02100103>喪靈鐘的石之家也已經佔領完畢。"
+335,"TEXT_VOICEMAN_02500_L00030_ALPHINAUD","你這是什麼意思？"
+336,"TEXT_VOICEMAN_02500_L00040_YUYUHASE","沒什麼意思，事情就如您所見，總帥大人。<hex:02100103>……一切為了艾奧傑亞嘛。"
+337,"TEXT_VOICEMAN_02500_M00010_RAUBAHN","發生了什麼事？！"
+338,"TEXT_VOICEMAN_02500_M00020_AYMERIC","教皇廳的神殿騎士團？"
+339,"TEXT_VOICEMAN_02500_M00030_TELEDJIADELEDJI","特使閣下。<hex:02100103>伊修加爾德教皇廳剛剛來了消息。"
+340,"TEXT_VOICEMAN_02500_M00040_TELEDJIADELEDJI","據消息說，龍族再次入侵皇都，請您立刻回國……<hex:02100103>這些騎士會保證您路上的安全。"
+341,"TEXT_VOICEMAN_02500_M00050_AYMERIC","……皇都遇襲？"
+342,"TEXT_VOICEMAN_02500_M00060_LUCIA","我們沒有接到任何情報。<hex:02100103>而且這時機也太湊巧了。<hex:02100103>恐怕是……"
+343,"TEXT_VOICEMAN_02500_M00070_AYMERIC","原來是這樣……"
+344,"TEXT_VOICEMAN_02500_M00080_TEMPLEKNIGHT02400","總騎士長，請您立刻啟程！"
+345,"TEXT_VOICEMAN_02500_M00090_AYMERIC","謝謝你傳達消息，烏爾達哈的朋友。<hex:02100103>這份恩情，日後必當回報。"
+346,"TEXT_VOICEMAN_02500_M00100_AYMERIC","我們走，露琪亞。"
+347,"TEXT_VOICEMAN_02500_N00010_THANCRED","……這是出了什麼事？"
+348,"TEXT_VOICEMAN_02500_N00020_THANCRED","你們這是要和我約會嗎？<hex:02100103>不過我可沒那種興趣耶。"
+349,"TEXT_VOICEMAN_02500_N00030_BRASSBLADE02400","你是拂曉的桑克瑞德吧。<hex:02100103>……你現在被懷疑在上次和加雷馬帝國的大戰中私通帝國。"
+350,"TEXT_VOICEMAN_02500_N00040_THANCRED","私通帝國……什麼意思？"
+351,"TEXT_VOICEMAN_02500_N00050_THANCRED","……難道是指我被無影附身時候的事情？"
+352,"TEXT_VOICEMAN_02500_N00060_BRASSBLADE02400","我們從帝國俘虜那裡已經得到了證言，<hex:02100103>說你和帝國確實有關係。<hex:02100103>而且還有報告說你使用一些旁門邪術！"
+353,"TEXT_VOICEMAN_02500_N00070_BRASSBLADE02400","跟我們走一趟吧。"
+354,"TEXT_VOICEMAN_02500_N00080_THANCRED","把人硬生生拉來參加宴會，<hex:02100103>現在又叫我快滾出去。<hex:02100103>你們這些大爺還真是會使喚人呢。"
+355,"TEXT_VOICEMAN_02500_N00090_THANCRED","……看來這慶功會就是用來算計我們的！"
+356,"TEXT_VOICEMAN_02500_O00010_RAUBAHN","泰勒吉·阿代勒吉，你這是要做什麼！<hex:02100103>攜帶武器擅闖宴會，又在沒有得到女王許可的狀況下讓國賓退席！"
+357,"TEXT_VOICEMAN_02500_O00020_RAUBAHN","將銅刃團當做私人軍隊，又在王室舉行的慶功會放肆……<hex:02100103>你這已經是越權行為了！<hex:02100103>……趕快撤走士兵！"
+358,"TEXT_VOICEMAN_02500_O00030_TELEDJIADELEDJI","勞班，快閉上你的嘴！<hex:02100103>……你才是把不滅隊當私人軍隊使喚吧！"
+359,"TEXT_VOICEMAN_02500_O00040_TELEDJIADELEDJI","娜娜莫陛下遭到暗殺，現在可是攸關國家存亡的時刻！"
+360,"TEXT_VOICEMAN_02500_O00050_TELEDJIADELEDJI","要不是你把保衛國家的不滅隊輕易派遣到加爾提諾和庫爾札斯，<hex:02100103>又怎麼會發生今天這種狀況！<hex:02100103>你可要負全責，勞班！"
+361,"TEXT_VOICEMAN_02500_O00060_TELEDJIADELEDJI","還有，你的得力手下裡居然還有人是帝國的間諜。<hex:02100103>身為總帥，簡直就是無能之輩！"
+362,"TEXT_VOICEMAN_02500_O00070_RAUBAHN","你……剛才說什麼？<hex:02100103>娜娜莫陛下……遭到暗殺？"
+363,"TEXT_VOICEMAN_02500_O00080_TELEDJIADELEDJI","沒錯！<hex:02100103>那邊那個拂曉血盟的冒險者，就是主犯！"
+364,"TEXT_VOICEMAN_02500_O00090_MINFILIA","您這是在說什麼？！"
+365,"TEXT_VOICEMAN_02500_O00100_TELEDJIADELEDJI","你們也跑不了，我們有理由懷疑拂曉也參與了暗殺計畫！"
+366,"TEXT_VOICEMAN_02500_O00110_TELEDJIADELEDJI","帶上來！"
+367,"TEXT_VOICEMAN_02500_P00010_ILBERD","就在剛才，女王陛下被這個歹徒毒殺了！<hex:02100103>我們現在要調查其同伴拂曉血盟。<hex:02100103>大家都站在原地，不准擅自走動。"
+368,"TEXT_VOICEMAN_02500_P00020_MINFILIA","……怎麼會！"
+369,"TEXT_VOICEMAN_02500_P00030_ILBERD","真是遺憾啊，大英雄。<hex:02100103>你居然會做出這種事……"
+370,"TEXT_VOICEMAN_02500_P00040_TELEDJIADELEDJI","我們從這個冒險者身上搜出了小瓶子，<hex:02100103>而且從裡面檢測出了毒害娜娜莫陛下的毒藥。"
+371,"TEXT_VOICEMAN_02500_P00050_YSHTOLA","看來是被人擺了一道……"
+372,"TEXT_VOICEMAN_02500_P00060_TELEDJIADELEDJI","哎呀，你這可真是賊喊捉賊啊。"
+373,"TEXT_VOICEMAN_02500_P00070_TELEDJIADELEDJI","竟然利用我們敬愛的女王陛下對你們的信任。<hex:02100103>還特意選擇和伊修加爾德締結和平協議的會場作為地點！"
+374,"TEXT_VOICEMAN_02500_P00080_MINFILIA","你不要含血噴人！"
+375,"TEXT_VOICEMAN_02500_P00090_TELEDJIADELEDJI","小丫頭給我閉嘴！<hex:02100103>你們拂曉血盟暗地裡糾集擁有異能之輩，<hex:02100103>別以為能瞞得過我！"
+376,"TEXT_VOICEMAN_02500_P00100_TELEDJIADELEDJI","你們就是用那種能力討好娜娜莫陛下以及各國首領的吧！"
+377,"TEXT_VOICEMAN_02500_P00110_TELEDJIADELEDJI","而且你們和艾默里克閣下的關係看起來很親密啊，<hex:02100103>好像對方對你們來說並不僅僅是特使……"
+378,"TEXT_VOICEMAN_02500_P00120_TELEDJIADELEDJI","……這麼看來上次的保衛戰也是別有用意的吧。<hex:02100103>暗地裡勾結伊修加爾德，<hex:02100103>以抵抗龍族侵略為藉口從我國借走兵力……"
+379,"TEXT_VOICEMAN_02500_P00130_TELEDJIADELEDJI","你們打算調虎離山成功後，<hex:02100103>就讓伊修加爾德侵略我國，對不對？！"
+380,"TEXT_VOICEMAN_02500_P00140_PAPALYMO","你這根本就是污蔑！"
+381,"TEXT_VOICEMAN_02500_P00150_YDA","你有什麼證據？！"
+382,"TEXT_VOICEMAN_02500_P00160_RAUBAHN","這怎麼可能……娜娜莫陛下被……"
+383,"TEXT_VOICEMAN_02500_P00170_RAUBAHN","閃開，伊爾伯德！<hex:02100103>我要親自去確認陛下的安全！"
+384,"TEXT_VOICEMAN_02500_P00180_ILBERD","勞班，你冷靜點。<hex:02100103>……剛才我已經確認過了。"
+385,"TEXT_VOICEMAN_02500_P00190_ILBERD","娜娜莫陛下在房間裡被人毒殺了，<hex:02100103>侍女也能做見證。"
+386,"TEXT_VOICEMAN_02500_P00200_RAUBAHN","這怎麼可能……"
+387,"TEXT_VOICEMAN_02500_P00210_RAUBAHN","娜娜莫陛下……嗚啊啊啊啊啊！"
+388,"TEXT_VOICEMAN_02500_Q00010_TELEDJIADELEDJI","王黨派根本就沒有保衛國家的資格！<hex:02100103>烏爾達哈應該交給我們共和派來管理。<hex:02100103>以後的事也不用你操心了，頂多讓你去為陛下準備國葬吧。"
+389,"TEXT_VOICEMAN_02500_Q00020_TELEDJIADELEDJI","不管是陛下還是你，真能給我們添麻煩……"
+390,"TEXT_VOICEMAN_02500_Q00030_RAUBAHN","原來是你……"
+391,"TEXT_VOICEMAN_02500_Q00040_TELEDJIADELEDJI","……你在說什麼？"
+392,"TEXT_VOICEMAN_02500_Q00050_RAUBAHN","暗殺娜娜莫陛下的就是你吧！泰勒吉·阿代勒吉！"
+393,"TEXT_VOICEMAN_02500_Q00060_TELEDJIADELEDJI","哼，你在說什麼胡話。<hex:02100103>……不過因為那個小丫頭，<hex:02100103>我們倒的確是吃了不少苦。"
+394,"TEXT_VOICEMAN_02500_Q00070_TELEDJIADELEDJI","本來嘛，她也就是個傀儡女王。<hex:02100103>說不定現在在札爾神身邊偷著樂呢，<hex:02100103>慶幸自己終於不用再受人擺佈了。"
+395,"TEXT_VOICEMAN_02500_Q00080_RAUBAHN","閉嘴！不許你侮辱陛下！"
+396,"TEXT_VOICEMAN_02500_Q00090_TELEDJIADELEDJI","……什麼！"
+397,"TEXT_VOICEMAN_02500_Q00100_LOLORITO","勞班，你要造反嗎？！<hex:02100103>在宮廷內拔出兵刃已經是重罪了，<hex:02100103>竟然還斬殺了沙蠍眾的成員！"
+398,"TEXT_VOICEMAN_02500_Q00110_LOLORITO","……難不成，你是拂曉的同謀？！"
+399,"TEXT_VOICEMAN_02500_Q00120_RAUBAHN","羅羅力特！你這混蛋！你也是同伴嗎！！"
+400,"TEXT_VOICEMAN_02500_Q00130_RAUBAHN","啊啊啊啊啊！！"
+401,"TEXT_VOICEMAN_02500_Q00140_MERLWYB","你們在幹什麼！"
+402,"TEXT_VOICEMAN_02500_Q00150_KANESENNA","勞班總帥！！"
+403,"TEXT_VOICEMAN_02500_Q00160_GUARD02500","(-黑渦團護衛-)提督，使不得！"
+404,"TEXT_VOICEMAN_02500_Q00170_MERLWYB","……可惡！"
+405,"TEXT_VOICEMAN_02500_Q00180_ILBERD","……這可不像你的作風啊。<hex:02100103>這麼容易就露出破綻。"
+406,"TEXT_VOICEMAN_02500_Q00230_LOLORITO","捉拿拂曉的逆賊！<hex:02100103>他們暗殺了娜娜莫陛下，企圖顛覆國家！"
+407,"TEXT_VOICEMAN_02500_Q00240_LOLORITO","這個國賊也不要放過！"
+408,"TEXT_VOICEMAN_02500_Q00190_RAUBAHN","混蛋……你被他們收買了？！"
+409,"TEXT_VOICEMAN_02500_Q00200_ILBERD","我們都是摸爬滾打混過來的……<hex:02100103>可不像你這個大英雄，連祖國都不要了。"
+410,"TEXT_VOICEMAN_02500_Q00210_ILBERD","勞班，你變了。<hex:02100103>你已經成了那個小丫頭的寵物，所以才會變得如此輕生。"
+411,"TEXT_VOICEMAN_02500_Q00220_ILBERD","……猛牛的角已經斷了。<hex:02100103>斷了角的牛，那就只能任人宰割。"
+412,"TEXT_VOICEMAN_02500_Q00250_ILBERD","勞班，告訴你個好消息吧。"
+413,"TEXT_VOICEMAN_02500_Q00251_ILBERD","……暗殺娜娜莫陛下的犯人，其實是我。"
+414,"TEXT_VOICEMAN_02500_Q00260_RAUBAHN","伊爾伯德！！！！！"
+415,"TEXT_VOICEMAN_02500_Q00270_ILBERD","哼！"
+416,"TEXT_VOICEMAN_02500_Q00280_RAUBAHN","你們絕對不可能暗殺娜娜莫陛下。<hex:02100103>……這件事必然有幕後黑手。"
+417,"TEXT_VOICEMAN_02500_Q00290_RAUBAHN","快逃……<hex:02100103>你們要逃走，查出真相，向世人證明自己的清白！"
+418,"TEXT_VOICEMAN_02500_Q00300_RAUBAHN","這件事只能靠你們了。<hex:02100103>……快走！"
+419,"TEXT_VOICEMAN_02500_Q00310_RAUBAHN","嗚哦哦哦！"
+420,"TEXT_VOICEMAN_02500_Q00320_THANCRED","你們都沒事吧！"
+421,"TEXT_VOICEMAN_02500_Q00330_YSHTOLA","桑克瑞德！<hex:02100103>你跑到哪裡去了！"
+422,"TEXT_VOICEMAN_02500_Q00340_THANCRED","找我約會的人太多了，<hex:02100103>我好不容易才脫身的。"
+423,"TEXT_VOICEMAN_02500_Q00341_THANCRED","我看出了這慶功會是設計好的，<hex:02100103>就去調查了一番。"
+424,"TEXT_VOICEMAN_02500_Q00350_THANCRED","烏爾達哈的主要設施已被敵人控制住。<hex:02100103>……看來伊修加爾德保衛戰時，<hex:02100103>擴大了銅刃團的許可權是個糟糕的選擇。"
+425,"TEXT_VOICEMAN_02500_Q00360_PAPALYMO","各處都安排好了，以便銅刃團活動……<hex:02100103>這到底是什麼時候開始準備的？"
+426,"TEXT_VOICEMAN_02500_Q00370_YSHTOLA","敵人準備周到，部隊的調動也異常迅速……<hex:02100103>看來勞班總帥說得沒錯，應該有個幕後黑手。"
+427,"TEXT_VOICEMAN_02500_Q00380_YDA","銅刃團裡大都是原來當僱傭兵的，<hex:02100103>水晶義勇隊裡也有的是能手。<hex:02100103>帕帕力莫，看來我們能一展身手了！"
+428,"TEXT_VOICEMAN_02500_Q00390_PAPALYMO","伊達，現在不是說這種玩笑的時候！"
+429,"TEXT_VOICEMAN_02500_Q00400_MINFILIA","看來這個計畫不只針對娜娜莫陛下……<hex:02100103>從一開始我們也是目標之一了。"
+430,"TEXT_VOICEMAN_02500_Q00410_PAPALYMO","在某些人眼裡，我們還真是眼中釘呢。<hex:02100103>……如此說來，石之家被佔領恐怕也是真的了。"
+431,"TEXT_VOICEMAN_02500_Q00420_THANCRED","總之，我們得逃離這裡，<hex:02100103>不然只有死路一條了。"
+432,"TEXT_VOICEMAN_02500_Q00430_THANCRED","我以前從帕帕夏恩所長那裡聽說，<hex:02100103>在娜娜莫大人房間裡的壁爐後面有通往地下的密道。"
+433,"TEXT_VOICEMAN_02500_Q00440_THANCRED","王宮的周圍已經被敵人包圍住了，<hex:02100103>我們從那裡逃吧。"
+434,"TEXT_VOICEMAN_02500_Q00450_YDA","大家先走一步吧！<hex:02100103>這裡交給我了！"
+435,"TEXT_VOICEMAN_02500_Q00460_PAPALYMO","你是認真的嗎？！"
+436,"TEXT_VOICEMAN_02500_Q00461_PAPALYMO","……真拿你沒辦法，我也留下來好了。"
+437,"TEXT_VOICEMAN_02500_Q00480_YDA","我早就想和水晶義勇隊過過招了！"
+438,"TEXT_VOICEMAN_02500_Q00470_MINFILIA","伊達，帕帕力莫……"
+439,"TEXT_VOICEMAN_02500_Q00490_PAPALYMO","我們留下來拖住他們。<hex:02100103>你們快去密道那邊！"
+440,"TEXT_VOICEMAN_02500_Q00500_THANCRED","敏菲利亞，快走！"
+441,"TEXT_VOICEMAN_02500_R00010_YDA","痛死了！<hex:02100103>還真有一手嘛！"
+442,"TEXT_VOICEMAN_02500_R00020_PAPALYMO","伊達，你還好嗎？！<hex:02100103>……可惡，敵人源源不斷啊。"
+443,"TEXT_VOICEMAN_02500_R00030_YDA","沒問題，沒問題！<hex:02100103>這麼點敵人可難不倒我！<hex:02100103>帕帕力莫，你怎麼樣啊？"
+444,"TEXT_VOICEMAN_02500_R00040_PAPALYMO","……我快到極限了。"
+445,"TEXT_VOICEMAN_02500_R00050_YDA","拂曉血盟是大家的希望……<hex:02100103>對阿拉米格的人民來說，也是如此！<hex:02100103>你們休想消滅拂曉血盟！"
+446,"TEXT_VOICEMAN_02500_R00060_PAPALYMO","沒錯！<hex:02100103>而且，艾奧傑亞可不能交給你們這群混蛋來管理！"
+447,"TEXT_VOICEMAN_02500_R00070_YDA","帕帕力莫……<hex:02100103>讓你也淌上了渾水，對不起了。"
+448,"TEXT_VOICEMAN_02500_R00080_PAPALYMO","你又不是第一天跟我任性。<hex:02100103>事到如今，也只有奉陪到底了。"
+449,"TEXT_VOICEMAN_02500_R00090_PAPALYMO","伊達，我們上！"
+450,"TEXT_VOICEMAN_02500_R00100_YDA","好！"
+451,"TEXT_VOICEMAN_02500_S00010_MINFILIA","沒想到烏爾達哈地下有這樣的水道。"
+452,"TEXT_VOICEMAN_02500_S00020_YSHTOLA","應該是狀況緊急時用的備用通道吧。<hex:02100103>這是希拉狄哈的建築樣式嗎？<hex:02100103>看起來很古老呢。"
+453,"TEXT_VOICEMAN_02500_S00030_CRYSTALBRAVE02400","(-追兵-)在這邊！"
+454,"TEXT_VOICEMAN_02500_S00040_THANCRED","士兵的調度實在是太快了……<hex:02100103>看來對手早就知道這個水道了。"
+455,"TEXT_VOICEMAN_02500_S00050_YSHTOLA","你們先走。<hex:02100103>這裡由我們殿後。"
+456,"TEXT_VOICEMAN_02500_S00060_MINFILIA","雅·修朵拉，桑克瑞德！"
+457,"TEXT_VOICEMAN_02500_S00070_YSHTOLA","拂曉血盟是大家的希望。<hex:02100103>……我們不能讓拂曉之光在這裡熄滅。"
+458,"TEXT_VOICEMAN_02500_S00080_THANCRED","這裡就交給我們了，再見。"
+459,"TEXT_VOICEMAN_02500_S00090_MINFILIA","你們……"
+460,"TEXT_VOICEMAN_02500_S00100_YSHTOLA","快走！"
+461,"TEXT_VOICEMAN_02500_S00110_THANCRED","那麼大小姐，我們具體怎麼辦？<hex:02100103>這裡地方狹窄，敵人的數量又眾多。<hex:02100103>我們頂多能來個同歸於盡，搞不好就是白白送死。"
+462,"TEXT_VOICEMAN_02500_S00120_YSHTOLA","不要小看我們貓魅族哦。<hex:02100103>條件不利，那就連牆壁一起炸毀，把這一帶整個封鎖掉。<hex:02100103>只是最後陪葬的是你桑克瑞德，未免有點不盡如人意呢。"
+463,"TEXT_VOICEMAN_02500_S00130_THANCRED","哎呀哎呀……<hex:02100103>有這樣的帥哥陪你，你還不知足啊，真是奢侈。<hex:02100103>……那麼，這最後的約會，我就奉陪到底了。"
+464,"TEXT_VOICEMAN_02500_S00140_THANCRED","嗚！"
+465,"TEXT_VOICEMAN_02500_S00150_THANCRED","敵人數量還真是多啊……<hex:02100103>還沒好嗎，雅·修朵拉！"
+466,"TEXT_VOICEMAN_02500_S00160_YSHTOLA","……讓你久等了！"
+467,"TEXT_VOICEMAN_02500_S00170_YSHTOLA","……對不起了，雅·蜜朵拉。"
+468,"TEXT_VOICEMAN_02500_S00180_THANCRED","別了，敏菲利亞……"
+469,"TEXT_VOICEMAN_02500_T00010_MINFILIA","剛才是海德林的聲音？"
+470,"TEXT_VOICEMAN_02500_T00020_MINFILIA","難道？！"
+471,"TEXT_VOICEMAN_02500_T00030_MINFILIA","我要留在這裡完成自己的使命。<hex:02100103>你先走一步吧。"
+472,"TEXT_VOICEMAN_02500_T00040_MINFILIA","聽著！你才是希望……<hex:02100103>你不僅是拂曉血盟的希望，<hex:02100103>更是全艾奧傑亞的希望！"
+473,"TEXT_VOICEMAN_02500_T00050_MINFILIA","希望之火還沒有被撲滅。<hex:02100103>只要你還在，星星之火就可以燎原！"
+474,"TEXT_VOICEMAN_02500_T00060_MINFILIA","所以，你一定要活下去……<hex:02100103>並總有一天拯救艾奧傑亞。"
+475,"TEXT_VOICEMAN_02500_T00070_MINFILIA","我懂的……<hex:02100103>拯救這個星球的光之萌芽，<hex:02100103>我一定會全力以赴保護。"
+476,"TEXT_VOICEMAN_02500_U00010_ALPHINAUD","你逃出來啦！<hex:02100103>其他人呢？！"
+477,"TEXT_VOICEMAN_02500_U00020_ALPHINAUD","可惡！！"
+478,"TEXT_VOICEMAN_02500_U00030_ALPHINAUD","完全被泰勒吉·阿代勒吉給算計了！<hex:02100103>沒想到水晶義勇隊整個被收買了……"
+479,"TEXT_VOICEMAN_02500_U00040_PIPPIN","(-？？？？-)有什麼話以後再說吧。<hex:02100103>當務之急是離開烏爾達哈。"
+480,"TEXT_VOICEMAN_02500_U00050_BREMONDT","好久不見了，大英雄！<hex:02100103>你們在趕路吧？快上來！"
+481,"TEXT_VOICEMAN_02500_U00060_BREMONDT","好久不見了，醉乙太的冒險者！<hex:02100103>你們在趕路吧？快上來！"
+482,"TEXT_VOICEMAN_02500_U00070_BREMONDT","來，動作快些！"
+483,"TEXT_VOICEMAN_02500_V00010_BREMONDT","我去黃昏灣採購些貨物，<hex:02100103>偶然遇見了萊韋耶勒爾家小姐。<hex:02100103>是她托我來營救在烏爾達哈受困的哥哥的。"
+484,"TEXT_VOICEMAN_02500_V00020_BREMONDT","所以我就駕著陸行鳥貨車在這附近晃晃，<hex:02100103>這不，正好碰到你們了。"
+485,"TEXT_VOICEMAN_02500_V00030_BREMONDT","看剛才的狀況，後面是有追兵吧？<hex:02100103>你們能逃出來，真是太好了。"
+486,"TEXT_VOICEMAN_02500_V00040_BREMONDT","不過我沒想到你也在呢！"
+487,"TEXT_VOICEMAN_02500_V00050_ALPHINAUD","唉，沒想到反而讓妹妹擔心。<hex:02100103>……我這臉真是丟大了。"
+488,"TEXT_VOICEMAN_02500_V00060_BREMONDT","……那麼，這邊的小哥是哪一位啊？"
+489,"TEXT_VOICEMAN_02500_V00070_PIPPIN","我叫皮平。<hex:02100103>是不滅隊的少鬥將。"
+490,"TEXT_VOICEMAN_02500_V00080_PIPPIN","我本來是在阿拉米格方面指揮行動的，<hex:02100103>這次不滅隊出了急事，就被叫回來了。"
+491,"TEXT_VOICEMAN_02500_V00090_PIPPIN","沒想到剛剛歸隊就遇到了這種事……<hex:02100103>得知阿爾菲諾閣下在政變中遇到了危險，就前去將他營救了出來。"
+492,"TEXT_VOICEMAN_02500_V00100_PIPPIN","這次一定是共和派搞的鬼……<hex:02100103>早就聽說他們飛揚跋扈、蠻橫無理，<hex:02100103>沒想到事態都發展到這一步了。"
+493,"TEXT_VOICEMAN_02500_V00110_BREMONDT","皮平？難道是不滅隊勞班總帥的……"
+494,"TEXT_VOICEMAN_02500_V00120_PIPPIN","是的，我是勞班·阿爾丁的養子。<hex:02100103>……離開烏爾達哈的時候，我已經聽說了養父的事情。"
+495,"TEXT_VOICEMAN_02500_V00130_PIPPIN","等把你們送到安全的地方後，我準備馬上返回烏爾達哈。<hex:02100103>去把養父救出來……"
+496,"TEXT_VOICEMAN_02500_V00140_BREMONDT","那我們就直奔黑塵了。<hex:02100103>正好我約了個人在那邊見面。"
+497,"TEXT_VOICEMAN_02500_V00150_ALPHINAUD","結果，我一個人沒做成任何事情……<hex:02100103>最後還是要依靠大家的力量……"
+498,"TEXT_VOICEMAN_02500_V00160_ALPHINAUD","我……"
+499,"TEXT_VOICEMAN_02500_W00010_HAURCHEFANT","剛才從家族內發來消息……<hex:02100103>說龍族侵襲皇都，有幾條雙足飛龍跑了進來。"
+500,"TEXT_VOICEMAN_02500_W00020_HAURCHEFANT","據報告說，神殿騎士團已經擊退來敵，<hex:02100103>但伊修加爾德仍要下戒嚴令，加強戒備。"
+501,"TEXT_VOICEMAN_02500_W00030_HAURCHEFANT","居然讓敵人入侵到皇都……<hex:02100103>果然失去大審門的魔法障壁帶來的影響還是很大的。"
+502,"TEXT_VOICEMAN_02500_W00040_HAURCHEFANT","艾默里克總騎士長先一步回到了伊修加爾德，<hex:02100103>現在在騎士團總部指揮保衛戰。"
+503,"TEXT_VOICEMAN_02500_W00050_HAURCHEFANT","我是想建議總騎士長給你提供一個避難的地方……<hex:02100103>但是看來得先等國內情況穩定下來了。"
+504,"TEXT_VOICEMAN_02500_W00060_HAURCHEFANT","不過，不用擔心。<hex:02100103>這裡也有你的朋友。"
+505,"TEXT_VOICEMAN_02500_W00070_HAURCHEFANT","暫時就把這裡當做藏身之所吧。<hex:02100103>按照拂曉血盟的慣例來講的話……<hex:02100103>有了，就叫“雪之家”吧！"
+506,"TEXT_VOICEMAN_02500_W00080_HAURCHEFANT","就算有人來追問，<hex:02100103>也不可能在沒有得到福爾唐家允許的情況下強行搜查。<hex:02100103>沒想到伊修加爾德的鎖國政策現在卻反而幫到了你。"
+507,"TEXT_VOICEMAN_02500_W00090_HAURCHEFANT","就算烏爾達哈要求搜查，我們也會全部拒絕。<hex:02100103>直到證明你無罪！"
+508,"TEXT_VOICEMAN_02500_W00100_HAURCHEFANT","以前，你信任我的朋友，為此而戰。<hex:02100103>現在，該由我來保護你無私的精神了。<hex:02100103>別忘了，你也是我的摯友。"
+509,"TEXT_VOICEMAN_02500_W00110_HAURCHEFANT","我的話就這麼多了。<hex:02100103>雪之家還有拂曉的同伴等著你呢。"
+510,"TEXT_VOICEMAN_02500_W00120_HAURCHEFANT","……今天的天氣可真冷啊。<hex:02100103>希望你火熱的心靈也能帶給他一些溫暖。"
+511,"TEXT_VOICEMAN_02500_X00010_ALPHINAUD","都是我的錯……"
+512,"TEXT_VOICEMAN_02500_X00020_ALPHINAUD","我以為只有我才真正為艾奧傑亞考慮……<hex:02100103>這種自滿和驕橫導致了今天的情況。"
+513,"TEXT_VOICEMAN_02500_X00030_ALPHINAUD","以為人們會按照我的指示行動，<hex:02100103>以為我的發言能影響各國政事……"
+514,"TEXT_VOICEMAN_02500_X00040_ALPHINAUD","為艾奧傑亞建立水晶義勇隊，<hex:02100103>把祖父留下的拂曉當做部下使喚……"
+515,"TEXT_VOICEMAN_02500_X00050_ALPHINAUD","自滿、急躁……我被理想蒙住了雙眼，<hex:02100103>根本就沒看清現實！"
+516,"TEXT_VOICEMAN_02500_X00060_ALPHINAUD","拯救艾奧傑亞到底是什麼……"
+517,"TEXT_VOICEMAN_02500_X00070_ALPHINAUD","蠻族、蠻神、加雷馬帝國、遍地的難民、法外戰區、龍族千年戰爭。<hex:02100103>還有那些黑暗的天使。"
+518,"TEXT_VOICEMAN_02500_X00080_ALPHINAUD","我高舉守護者的旗幟，又不願親自動手，<hex:02100103>自以為只有自己才能解決這片大地的混沌局勢。"
+519,"TEXT_VOICEMAN_02500_X00090_ALPHINAUD","……原來我只把艾奧傑亞當做滿足自己欲望的道具啊。"
+520,"TEXT_VOICEMAN_02500_X00100_ALPHINAUD","……還真是諷刺。<hex:02100103>失去了一切之後我才醒悟過來。"
+521,"TEXT_VOICEMAN_02500_X00110_TATARU","阿爾菲諾先生……"
+522,"TEXT_VOICEMAN_02500_X00120_HAURCHEFANT","那麼，阿爾菲諾閣下……<hex:02100103>你打算就此一蹶不振嗎？<hex:02100103>……你以為你已經一無所有了嗎？"
+523,"TEXT_VOICEMAN_02500_X00130_HAURCHEFANT","不，你還有同伴。<hex:02100103>越是在苦難時期，同伴越能給你有力的幫助！"
+524,"TEXT_VOICEMAN_02500_X00140_ALPHINAUD","但是我……<hex:02100103>而且這裡已經……"
+525,"TEXT_VOICEMAN_02500_X00150_TATARU","阿、阿爾菲諾先生……<hex:02100103>我想說……想說……"
+526,"TEXT_VOICEMAN_02500_X00160_TATARU","就算這裡不行，可我們還活著！<hex:02100103>我們可、可以去伊修加爾德！！"
+527,"TEXT_VOICEMAN_02500_X00170_TATARU","敏、敏菲利亞也說過！<hex:02100103>拂曉的燈火是不會熄滅的！"
+528,"TEXT_VOICEMAN_02500_X00180_TATARU","有冒險者和阿爾菲諾先生在！<hex:02100103>還、還有我！<hex:02100103>不管多艱難的困境，我們都能挺過去！！"
+529,"TEXT_VOICEMAN_02500_X00190_TATARU","嗚……嗚……"
+530,"TEXT_VOICEMAN_02500_X00200_ALPHINAUD","塔塔露、奧爾什方閣下，謝謝你們。"
+531,"TEXT_VOICEMAN_02500_X00210_ALPHINAUD","也謝謝你，艾奧傑亞真正的守護者……"
+532,"TEXT_VOICEMAN_02500_X00220_ALPHINAUD","你們說得對，我們要腳踏實地地前進。<hex:02100103>這次……我們一起前進。"
+533,"TEXT_VOICEMAN_02500_X00230_ALPHINAUD","拂曉的燈火是不會熄滅的……<hex:02100103>大家的希望一定會傳播下去。"
+534,"TEXT_VOICEMAN_02500_Y00010_LADYINWAITING2","一切都按照羅羅力特大人的吩咐佈置妥當。"
+535,"TEXT_VOICEMAN_02500_Y00020_LOLORITO","……可惡。"
+536,"TEXT_VOICEMAN_02500_Z00010_MIDGARDSORMR","前面便是伊修加爾德……<hex:02100103>充滿我們龍族怨念的污穢之地……"
+537,"TEXT_VOICEMAN_02500_Z00020_MIDGARDSORMR","人類啊，真是本性難移……<hex:02100103>你不這麼認為嗎？海德林的使徒啊。"

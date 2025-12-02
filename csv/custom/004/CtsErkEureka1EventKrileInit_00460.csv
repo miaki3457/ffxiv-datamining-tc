@@ -1,60 +1,28 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_KRILE_000_000","……정말 끔찍한 곳이야.
-피부로 느껴질 만큼 속성의 힘이 흐트러졌어.
-하지만 이제 확실해졌어."
-1,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_EJIKATSUNJIKA_000_001","그래…….
-네 예측이 맞았군.
-하지만 이렇게까지 심할 줄이야……."
-2,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_KRILE_000_002","직접 와보니 겨우 확신이 섰어.
-약속한 대로 설명해줄게.
-'새벽'이…… 아니, 내가 이 의뢰를 승낙한 이유를."
-3,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_KRILE_000_003","이 섬은…… 발 섬이야……."
-4,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_KRILE_100_003","북해의 샬레이안 본국으로 이어지는 섬 중 하나이자,
-나와 에지카가 살았던 발데시온 위원회의 본거지…….
-그리고 알테마급 마법 공격으로 소멸된 섬이야!"
-5,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_EJIKATSUNJIKA_000_004","……난 볼일이 있어 섬에 없었기에 피해를 면했지.
-하지만 쿠루루, 넌 그때 이 섬에 있었잖나.
-북해에서 소멸된 발 섬이 왜 동방에 나타났는지 짐작 가는 건 없어?"
-6,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_KRILE_000_005","……발 섬이 소멸된 전후의 기억이 애매해.
-기억하고 있는 건 빛 속에서 '별의 목소리'를 들은 것 정도야.
-정신을 차려보니 샬레이안 본토의 해변가에 쓰러져 있었어."
-7,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_EJIKATSUNJIKA_000_006","흥, 빛의 가호인지 초월하는 힘인지 모르지만, 거참 편리하군.
-역시 그 요상한 능력 덕에 갈러프 님의 양녀가 된 사람은 달라."
-8,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_KRILE_000_007","잠깐, 에지카!
-어디 가는 거야?"
-9,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_EJIKATSUNJIKA_000_008","난 너와 사이좋게 돌아다닐 생각이 없다.
-한시라도 빨리 위원회의 동료들을 찾아내야 해.
-탐색은 나 혼자서 하겠다."
-10,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_Q1_000_000","에지카에게 뭐라고 하시겠습니까?"
-11,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_A1_000_001","너무 이기적이야!"
-12,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_A1_000_002","협력할게"
-13,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_EJIKATSUNJIKA_000_009","이기적이라고?
-……하긴 조사대 배를 얻어 탄 빚이 있긴 하군.
-너무 멋대로 굴면 갈러프 님에게도 한소리 들을 테고."
-14,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_EJIKATSUNJIKA_000_010","협력이라고?
-……흠, 무술로 이름을 날린 자네가 제안한다면
-일고의 가치는 있겠군."
-15,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_EJIKATSUNJIKA_000_011","……알겠다, 정보 교환에는 응하겠다.
-조사하다 중요한 사실을 알게 되면 이 거점으로 돌아오겠다.
-이제 됐나, 쿠루루?"
-16,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_KRILE_000_012","……못 말려, 정말."
-17,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_KRILE_100_012","에지카 걱정은 안 해도 될 거야.
-자기 몸 정도는 지킬 수 있을 테니까."
-18,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_KRILE_000_013","자, 그럼 다시 이 섬에 대해서인데…….
-왜 북해에 있던 발 섬이 동방에 나타났는지는
-내가 이런 말 하긴 뭐하지만, 정말 알 수 없는 일투성이야."
-19,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_KRILE_000_014","무엇보다 주민들이 어떻게 되었는지…… 그들의 안부를 확인하고
-순간이동한 원인을 조사하려면 탐색은 꼭 해야 해.
-다시 한 번 당신이 협력해주길 부탁할게."
-20,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_KRILE_000_015","고마워…….
-그럼 당분간은 이곳을 거점으로 삼아서
-탐색을 진행하자!"
-21,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_KRILE_000_016","하지만 이 섬은 속성의 힘이 너무 엉망이어서
-그 영향을 받은 마물들은 굉장히 포악해.
-서두르다가 큰 상처를 입으면 안 되니까 탐색은 신중하게 해."
-22,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_KRILE_000_017","우선은…… '게롤트' 씨가 탐색을 위한 비장의 장비를 준다니까
-그걸 좀 받아서 와줄래?"
-23,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_KRILE_000_018","난 그동안 거점에서 관측을 하고 있을게.
-그럼, 이따 봐."
+0,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_KRILE_000_000","……這地方真糟糕。<hex:02100103>甚至連皮膚都能直接感受到混亂的屬性之力。"
+1,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_EJIKATSUNJIKA_000_001","嗯……<hex:02100103>看來你的預測是正確的。<hex:02100103>可是屬性之力居然會變得如此混亂……"
+2,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_KRILE_000_002","登島之後我終於能夠確定了。<hex:02100103>所以我會按照跟你的約定，為你說明一下，<hex:02100103>拂曉……不對，是我接下委託的理由。"
+3,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_KRILE_000_003","這座島嶼……就是瓦爾島……"
+4,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_KRILE_100_003","這座島嶼原本是位於北洋的薩雷安境內的島嶼之一，<hex:02100103>也是我和艾吉卡居住過的巴爾德西昂委員會的總部所在地……<hex:02100103>而且這座島本應已被與「究極」魔法相當的強力攻擊毀滅了才對！"
+5,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_EJIKATSUNJIKA_000_004","……那時候我因為有事去了島外，所以倖存了下來。<hex:02100103>可是，那時候可露兒你可是在這座島上的。<hex:02100103>在北洋被毀滅的瓦爾島，為什麼會出現在東方，你沒什麼頭緒嗎？"
+6,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_KRILE_000_005","……我關於瓦爾島毀滅前後的記憶都很模糊，<hex:02100103>我只記得當時在光芒中聽到了「行星的聲音」。<hex:02100103>等我醒來，就發現自己倒在了薩雷安本島的沙灘上。"
+7,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_EJIKATSUNJIKA_000_006","哼，又是光之加護什麼的又是超越之力什麼的，真是便利的能力呢。<hex:02100103>不然也不會光靠著這種異能就被加拉夫大人收養。"
+8,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_KRILE_000_007","等一下，艾吉卡！<hex:02100103>你要去哪裡啊？！"
+9,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_EJIKATSUNJIKA_000_008","我可不想跟你好好相處。<hex:02100103>我必須儘快找到委員會的同伴們。<hex:02100103>探索還是讓我自己一個人干吧。"
+10,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_Q1_000_000","對艾吉卡說什麼？"
+11,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_A1_000_001","你真是太自私了！"
+12,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_A1_000_002","一起互相幫助吧！"
+13,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_EJIKATSUNJIKA_000_009","你說我自私？<hex:02100103>……確實，搭乘調查隊的船過來算是欠了個人情，<hex:02100103>要是人情不還的話，加拉夫肯定會說我任性的。"
+14,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_EJIKATSUNJIKA_000_010","你說互相幫助？<hex:02100103>……哼，如果是像你這樣鼎鼎大名的傢伙提出的建議，<hex:02100103>還是值得考慮一下的。"
+15,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_EJIKATSUNJIKA_000_011","……好吧，我答應你們進行情報的交換。<hex:02100103>如果在調查的過程中得到了什麼重要情報，我會回到這個據點的。<hex:02100103>這樣總行了吧，可露兒？"
+16,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_KRILE_000_012","這傢伙可真是……"
+17,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_KRILE_100_012","你就不用擔心他了。<hex:02100103>他應該能保護好自己的。"
+18,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_KRILE_000_013","好了，話題回到關於這座島嶼的事情……<hex:02100103>為什麼原本在北洋的瓦爾島會出現在東方，<hex:02100103>這種問題本不該由我來問，但說實話我也不清楚。"
+19,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_KRILE_000_014","但目前比起這個，更重要的是這裡的居民到底怎麼樣了……<hex:02100103>不管是確認居民的狀況還是解開島嶼轉移之謎，都得先進行探索。<hex:02100103>請你幫幫忙吧。"
+20,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_KRILE_000_015","謝謝……<hex:02100103>那麼，先把這裡作為據點，<hex:02100103>開始進行探索吧！"
+21,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_KRILE_000_016","雖然這麼說，但是這座島嶼的屬性之力實在太亂了，<hex:02100103>受到影響的魔物都變得非常凶暴。<hex:02100103>比起急功近利導致自己受傷，還是慎重地前進比較好。"
+22,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_KRILE_000_017","首先……蓋羅爾特準備了探索用的重要道具，<hex:02100103>你先到他那裡拿一下吧。"
+23,"TEXT_CTSERKEUREKA1EVENTKRILEINIT_00460_KRILE_000_018","你回來之前我就先在據點內做些可行的觀測好了。<hex:02100103>那就一會見吧。"

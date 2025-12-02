@@ -1,60 +1,29 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_000","……난 에오르제아 동맹군의 일원이 아니야.
-뭐, 허락을 받고 여기에 와 있기는 하지만."
-1,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_001","……호오, 클랜의 동료인가?
-난 이 일대의 정예 마물을 쫓고 있어.
-정보가 필요하면 가르쳐줄 수도 있지……."
-2,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_Q1_000_000","무엇을 물어보시겠습니까?"
-3,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_A1_000_001","B급: 넘버 XIX '땅거미의 야미니'"
-4,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_A1_000_002","B급: 잔인한 유괴범 '오젤룸'"
-5,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_A1_000_003","A급: 붉은 녹의 사냥꾼 '오르쿠스'"
-6,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_A1_000_004","A급: 눈을 사냥하는 거대 벌 '얼'"
-7,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_A1_000_005","S급: 삼천 년의 꽃 '우담바라'"
-8,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_A1_000_006","취소"
-9,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_010","칼리아나파 아난타족 중에 '야미니'라는 소녀가 있었어.
-그 소녀는 풍부한 마력을 갖고 태어났는데
-이윽고 제국군에 징용당해서 끌려갔지."
-10,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_011","동맹군에서 보낸 첩보원이 제공한 정보에 따르면
-그 소녀는 알라미고 시내 일각에 세워진
-수상한 실험 시설에 수용되었다고 해."
-11,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_012","그 안에서 대체 무슨 일이 벌어졌는지는 아무도 몰라.
-하지만 다시 돌아왔을 때 그 소녀는 자아를 잃고
-닥치는 대로 사람을 공격하는 무시무시한 존재가 되어 있었지."
-12,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_020","'오젤룸'은 낫처럼 예리한 부리를 가진 괴조야.
-날개가 발달하지 않아 날지는 못하는데, 놀라울 정도로 강한 다리 힘을 이용해서
-뛰어오르면 단번에 바위산을 뛰어넘을 정도라더라."
-13,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_021","포악하고 육식을 즐기는 오젤룸은
-변방지대에 사는 아난타족이나 메씨족 미코테에게
-큰 위협이 되고 있는 모양이야."
-14,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_022","사실, 몇 년 전에 굽어보는 바위에서
-메씨족 아이들이 잇달아 실종되는 사건이 일어났는데
-가장 유력한 용의자가 오젤룸이라고 들었어."
-15,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_030","개미귀신에게는 맹금류 같은 천적이 많아서
- 원래 땅속에 숨어서 사냥하는데 '오르쿠스'는 달라.
-스스로 지상에 모습을 드러내고 사냥감을 찾아다니지."
-16,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_031","하긴 당연한 일이야…….
-그놈은 강철도 녹일 만큼 강력한 분비액을 몸속에서 만들어서
-분사하는 능력을 가지고 있거든."
-17,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_032","소문으로는 그런 능력을 발휘하기 시작한 건
-현자의 나무 주변에서 사냥하게 되면서래.
-돌연변이를 일으키는 원인이라도 있었던 걸까?"
-18,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_040","'얼'이라는 거대한 벌에 대해 알려달라고?
-그놈 특징은, 곰도 즉사할 만큼 강력한 독침과
-날갯짓으로 일으키는 폭풍 같은 충격파야."
-19,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_041","이건 아난타족한테 들은 얘기인데
-한때 메씨족의 '눈'이 일족을 지키려고 그놈과 싸우다가
-독침을 맞고도 목숨을 바쳐 동굴에 가뒀다더라고."
-20,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_042","그런데 용숨결 구덩이가 생겼을 때의 충격으로 동굴이 무너졌는지
-봉인했던 그놈이 요즘 들어 나타나기 시작한 거야."
-21,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_050","'우담바라'는 신출귀몰한 거대 식인 식물이야.
-평소에는 땅속에 몸을 숨기고 사냥감을 기다리는지
-발견하기 쉽지 않은 모양이야."
-22,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_051","랄거 성도교의 오래된 경전에 기록된,
-3000년에 한 번만 꽃을 피우는 전설의 식물인
-'우담바라'라는 이름으로 불리는 것도 그만큼 발견하기 어려워서 그래."
-23,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_052","일설에 따르면 다른 식물의 소리 없는 비명을 듣고
-싱싱한 사냥감이 다가오는 것을 감지한대.
-그놈을 땅속에서 잘 끌어낼 수 있으면 좋을 텐데……."
+0,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_000","……我不是艾奧傑亞同盟軍的人。<hex:02100103>不過我可是得到了許可才來到這裡的。"
+1,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_001","……哦，你也是兵團的人嗎？<hex:02100103>我在追蹤這一帶的危險標的怪物。<hex:02100103>你要是需要情報，我倒是可以提供給你……"
+2,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_Q1_000_000","想了解什麼？"
+3,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_A1_000_001","關於B級怪物：19號實驗體——影中暗雅彌尼"
+4,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_A1_000_002","關於B級怪物：殘忍誘拐犯——奧祖魯姆"
+5,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_A1_000_003","關於A級怪物：鐵鏽獵人——奧迦斯"
+6,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_A1_000_004","關於A級怪物：努恩殺手——女王蜂"
+7,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_A1_000_005","關於S級怪物：三千年一現——優曇婆羅花"
+8,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_A1_000_006","取消"
+9,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_010","阿難陀族的伽黎亞派中有一個名叫雅彌尼的少女。<hex:02100103>她天生擁有強大的魔力，最終被帝國軍帶走了。"
+10,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_011","據同盟軍放出的諜報人員稱，<hex:02100103>她被關押在一個建在阿拉米格人居住區一角的奇怪實驗設施內。"
+11,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_012","沒有人知道她在那裡面遭受了什麼。<hex:02100103>只是當她再次回來時，已經失去了自我，<hex:02100103>無差別襲擊看到的所有人，變得十分可怕。"
+12,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_020","奧祖魯姆是擁有如鐮刀般尖銳利喙的怪鳥。<hex:02100103>雖然它的羽翼進化得不夠發達，無法飛行，<hex:02100103>但是它的跳躍力驚人，一跳就能越過整座岩山。"
+13,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_021","奧祖魯姆生性凶猛，而且喜歡吃肉。<hex:02100103>這對於居住在邊區的阿難陀族和梅氏的貓魅族來說，<hex:02100103>是一個巨大的威脅。"
+14,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_022","其實早在幾年前，對等石已經接連失蹤了幾個梅氏的孩子。<hex:02100103>而嫌疑最大的就是奧祖魯姆了。"
+15,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_030","蟻獅的天敵多是猛禽類，因此它們一般是潛伏在地下進行狩獵的。<hex:02100103>但是奧迦斯不一樣。<hex:02100103>它會來到地面上，為尋找獵物四處遊蕩。"
+16,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_031","這也不是沒有道理的……<hex:02100103>因為那傢伙的體內能夠分泌出強力的體液，甚至可以融化鋼鐵，<hex:02100103>而且噴射力也特別發達。"
+17,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_032","傳言說奧迦斯是在賢者樹周圍狩獵後開始變成這樣的。<hex:02100103>那裡是否出現了某種令它突變的契機？"
+18,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_040","你想要了解一下被稱為「女王蜂」的巨型蜂的事啊？<hex:02100103>那傢伙的特徵就是擁有強力的毒針，甚至能夠瞬間毒死一頭熊。<hex:02100103>另外它扇動翅膀時捲起的衝擊波如同颶風一般強勁。"
+19,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_041","這也是從阿難陀族那裡聽說的。<hex:02100103>曾經梅氏的努恩為了保護族人，曾和那傢伙戰鬥過。<hex:02100103>當時的努恩儘管身中劇毒，但依然以生命為代價將它封印在了洞窟中。"
+20,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_042","但是，不知道是不是因為受呵欠洞形成時的衝擊影響，<hex:02100103>導致那個洞窟坍塌了。<hex:02100103>最近那隻本應被封印的巨蜂再次現身了。"
+21,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_050","優曇婆羅花是一個神出鬼沒的巨大食人植物。<hex:02100103>平時它都是潛伏在地底，等待獵物靠近的，<hex:02100103>所以並不容易發現。"
+22,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_051","優曇婆羅花這個名字源自拉爾戈星導教的古典中記載的<hex:02100103>一種傳說中的植物，據說這種植物時隔3000年才開一次花，<hex:02100103>以此命名也是因為它真的很難被發現吧。"
+23,"TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_052","還有一種說法稱，它能夠以其他植物無聲的悲鳴來判斷，<hex:02100103>是否有活蹦亂跳的獵物在靠近。<hex:02100103>要是能順利把那傢伙從地底下引出來就好了……"
 24,"TEXT_CTSHNT40CASTRUMORIENS_00425_TALK_ACTOR","（★未使用／削除予定★）"

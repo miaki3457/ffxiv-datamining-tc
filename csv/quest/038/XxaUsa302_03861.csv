@@ -1,10 +1,11 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_XXAUSA302_03861_SEQ_00","메메룬 교역 상점에 있는 테테룬은 모험가에게 도움을 청하고 싶은 듯하다."
-1,"TEXT_XXAUSA302_03861_SEQ_01","<Sheet(EventItem,2000594,0)/><13>FF15022811FF0A4576656E744974656DF61E86D20103FF04EBA5BCFF04EC9D84</13> 만드는데 도와달라는 부탁을 받았다. 고지 라노시아의 얼간이 폭포 근처에 있는 '<Sheet(BNpcName,28,0)/>'<13>FF1102280DFF09424E70634E616D651D0103FF04EBA5BCFF04EC9D84</13> 처치하고 '<Sheet(EventItem,2003009,0)/>'<13>FF15022811FF0A4576656E744974656DF61E90410103FF04EBA5BCFF04EC9D84</13> 3병 입수하자."
-2,"TEXT_XXAUSA302_03861_SEQ_02","메메룬 교역 상점에 있는 '테테룬'에게 모아온 재료를 건네자."
-3,"TEXT_XXAUSA302_03861_SEQ_03","모험가가 가져온 재료로 <Sheet(EventItem,2000594,0)/><13>FF15022811FF0A4576656E744974656DF61E86D20103FF04EBA5BCFF04EC9D84</13> 담글 준비가 되었다. 완성되기까지는 조금 시간이 걸린다고 한다."
+0,"TEXT_XXAUSA302_03861_SEQ_00","梅梅盧恩交易商店的特特盧恩，有事想請冒險者幫忙。"
+1,"TEXT_XXAUSA302_03861_SEQ_01","接受了幫助特特盧恩製作<hex:022811FF0A>EventItem<hex:F61E86D20103>的委託。在愚者瀑布附近討伐<hex:02280DFF09>BNpcName<hex:1D0103>，獲取3根<hex:022811FF0A>EventItem<hex:F61E90410103>。"
+2,"TEXT_XXAUSA302_03861_SEQ_02","將集齊的材料交給梅梅盧恩交易商店的特特盧恩。"
+3,"TEXT_XXAUSA302_03861_SEQ_03","有了冒險者收集的材料，製作<hex:022811FF0A>EventItem<hex:F61E86D20103>的準備工作就結束了。距離製作完成還需要一些時間。"
 4,"TEXT_XXAUSA302_03861_SEQ_04",""
 5,"TEXT_XXAUSA302_03861_SEQ_05",""
 6,"TEXT_XXAUSA302_03861_SEQ_06",""
@@ -25,8 +26,8 @@ int32,str,str
 21,"TEXT_XXAUSA302_03861_SEQ_21",""
 22,"TEXT_XXAUSA302_03861_SEQ_22",""
 23,"TEXT_XXAUSA302_03861_SEQ_23",""
-24,"TEXT_XXAUSA302_03861_TODO_00","<Sheet(BNpcName,28,0)/><14>FF1102280DFF09424E70634E616D651D0103FF04EBA19CFF07EC9CBCEBA19C</14>부터 <Sheet(EventItem,2003009,0)/> 입수"
-25,"TEXT_XXAUSA302_03861_TODO_01","테테룬에게 <Sheet(EventItem,2003009,0)/> 전달"
+24,"TEXT_XXAUSA302_03861_TODO_00","從<hex:02280DFF09>BNpcName<hex:1D0103>身上獲取<hex:022811FF0A>EventItem<hex:F61E90410103>"
+25,"TEXT_XXAUSA302_03861_TODO_01","將<hex:022811FF0A>EventItem<hex:F61E90410103>交給特特盧恩"
 26,"TEXT_XXAUSA302_03861_TODO_02",""
 27,"TEXT_XXAUSA302_03861_TODO_03",""
 28,"TEXT_XXAUSA302_03861_TODO_04",""
@@ -49,21 +50,10 @@ int32,str,str
 45,"TEXT_XXAUSA302_03861_TODO_21",""
 46,"TEXT_XXAUSA302_03861_TODO_22",""
 47,"TEXT_XXAUSA302_03861_TODO_23",""
-48,"TEXT_XXAUSA302_03861_SYSTEM_100_000","진행 중인 주요 퀘스트를 포기해야 수락할 수 있습니다.
-주 메뉴 '임무 정보'에서
-'퀘스트'를 선택하여 포기해 주십시오."
-49,"TEXT_XXAUSA302_03861_TETEROON_000_000","테테룬 버스카론한테 보답할래.
-버스카론 <Sheet(EventItem,2000594,0)/> 좋아했어.
-술술 많이많이 만들래."
-50,"TEXT_XXAUSA302_03861_TETEROON_000_001","같이 술술 만들래?
-그럼 술술 재료 구해줘."
-51,"TEXT_XXAUSA302_03861_TETEROON_000_002","테테룬 맛있는 물물 만들래.
-그 사이에 '<Sheet(BNpcName,28,0)/>' 쓰러뜨려서
-'<Sheet(EventItem,2003009,0)/>' 3병 구해줘."
-52,"TEXT_XXAUSA302_03861_TETEROON_000_020","술술 많이많이 만들 거야.
-……재료 많이많이 구했어?"
-53,"TEXT_XXAUSA302_03861_TETEROON_000_021","술술 재료 다 모았어!
-테테룬 진짜진짜 고마워!"
-54,"TEXT_XXAUSA302_03861_TETEROON_000_022","이제 술술 만들 거야.
-술술 될 때까지 기다려봐.
-조금만 기다려봐."
+48,"TEXT_XXAUSA302_03861_SYSTEM_100_000","需要先放棄進行中的主線任務才可領取此任務。<hex:02100103>請在設定選單的任務情報中打開日誌，然後放棄該任務。"
+49,"TEXT_XXAUSA302_03861_TETEROON_000_000","特特盧恩，要給巴斯卡隆回禮。<hex:02100103>巴斯卡隆，很喜歡<hex:022811FF0A>EventItem<hex:F61E86D20103>。<hex:02100103>醇香美酒，要卯足全力開始做啦。"
+50,"TEXT_XXAUSA302_03861_TETEROON_000_001","你要一起，製作醇香美酒嗎？<hex:02100103>醇香美酒，你能去收集製作的材料嗎？"
+51,"TEXT_XXAUSA302_03861_TETEROON_000_002","特特盧恩，要準備好喝的水。<hex:02100103>在這期間，你去打倒<hex:02280DFF09>BNpcName<hex:1D0103>，<hex:02100103>要拿回3根<hex:022811FF0A>EventItem<hex:F61E90410103>。"
+52,"TEXT_XXAUSA302_03861_TETEROON_000_020","醇香美酒，要卯足全力開始做啦。<hex:02100103>材料材料，你都找來了嗎？"
+53,"TEXT_XXAUSA302_03861_TETEROON_000_021","醇香美酒，製作材料都集齊啦！<hex:02100103>特特盧恩，實在太感謝你了！"
+54,"TEXT_XXAUSA302_03861_TETEROON_000_022","趕快動手，製作醇香美酒。<hex:02100103>醇香美酒，要過一陣子才能做好。<hex:02100103>稍微等一段時間吧。"

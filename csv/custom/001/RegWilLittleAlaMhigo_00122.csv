@@ -1,46 +1,23 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_000","응? 누군가 했더니 모험가로군.
-무슨 일이오?"
-1,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_001","아, 당신인가.
-보아하니 알라미고 측 동향이 어수선한 걸 느끼고
-이 땅에 왔나 본데."
-2,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_002","아, 당신이군.
-알라미고가 해방되고 나니
-이쪽 상황이 궁금해져서 온 것 같군그래."
-3,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_010","나는 이곳 경비를 담당하는 자요.
-보면 알겠지만 난 알라미고인이 아니지."
-4,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_011","우리 불멸대는 주민들에게 식량을 제공하는 대신
-이곳을 아말쟈족과 싸우기 위한 군사기지로 활용하고 있다오."
-5,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_012","나도 이 마을에선 외부인이니,
-뭔가 곤란한 일이 있으면 내가 도와주리다."
-6,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_020","이곳은 알라미고 난민들이 사는 마을이라오.
-갈레말 제국에 조국을 빼앗긴 자들이지."
-7,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_021","그리다니아로 간 사람들도 많지만
-여기 있는 사람들은 숲의 정령에게 인정받지 못하고
-울다하 도시에도 적응하지 못한 자들이라오."
-8,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_022","민족의 결속력이 강한 만큼
-좀 다가가기 힘든 느낌이 있지만
-터놓고 얘기해보면 의외로 괜찮은 사람들이지."
-9,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_030","이곳은 알라미고 난민들이 사는 마을이라오.
-그들은 갈레말 제국의 침공으로 20년 전에 조국을 빼앗긴 이래
-지금까지도 고향을 되찾지 못하고 있지."
-10,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_031","그 후 지도자 군도발드가 알라미고 피난민을 끌어 모아서
-울다하와 교섭한 끝에 이 땅에 정착했다 들었소."
-11,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_032","난 울다하 토박이라 그들이 겪은 20년의 무게를 짐작할 순 없소.
-허나 조국을 찾으려는 그들의 염원은 여전히 뜨거운 듯하오.
-최근에 들어서는 그 불꽃이 더욱 거세게 타오르는 걸 느낀다오."
-12,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_040","알다시피 이곳은 알라미고 난민들이 사는 마을이라오.
-그들은 갈레말 제국의 침공으로 20년 전에 조국을 빼앗긴 이래
-힘겨운 피난 생활을 할 수밖에 없었지."
-13,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_041","하지만 에오르제아 동맹군과 알라미고 해방군,
-그리고 당신들 '새벽'이 힘을 합친 결과,
-알라미고 제국의 지배는 막을 내리게 되었다오."
-14,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_042","난 울다하 토박이라 그들이 겪은 20년의 무게를 짐작할 순 없소.
-허나 그들의 미래가 열렸다는 것만큼은 확실하지.
-이제 조금씩 리틀 알라미고도 변할 것이라 생각하오."
-15,"TEXT_REGWILLITTLEALAMHIGO_00122_Q1_000_000","무엇을 물어보시겠습니까?"
-16,"TEXT_REGWILLITTLEALAMHIGO_00122_A1_000_001","당신의 이야기를 들려달라고 한다"
-17,"TEXT_REGWILLITTLEALAMHIGO_00122_A1_000_002","여기는 어떤 곳인지 물어본다"
-18,"TEXT_REGWILLITTLEALAMHIGO_00122_A1_000_003","취소"
+0,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_000","嗯？你是冒險者？有什麼事嗎？"
+1,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_001","啊，是你呀。<hex:02100103>是不是你也察覺到了最近跟阿拉米格有關的動靜，<hex:02100103>所以專程跑來看看？"
+2,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_002","啊，是你呀。<hex:02100103>阿拉米格終於得到解放，<hex:02100103>你是不放心這裡所以專程跑來看看？"
+3,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_010","我是負責在這裡進行警備的人。<hex:02100103>我想你也可以看得出，我並不是阿拉米格人。"
+4,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_011","作為對他們提供援助糧的交換條件，<hex:02100103>我們不滅隊得以暫借此地，作為對抗蜥蜴人族的軍事據點。"
+5,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_012","我在這裡也算是個外來者。<hex:02100103>如果你有什麼煩惱可以找我來商量。"
+6,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_020","這裡是阿拉米格難民的村落。<hex:02100103>他們的故鄉被加雷馬帝國所奪，因此漂流到這裡。"
+7,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_021","也有很多人去了格里達尼亞，<hex:02100103>但留在這裡的，都是沒能被森林的聖靈所接受的人。<hex:02100103>不過他們也融入不到烏爾達哈的城區。"
+8,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_022","因為他們團結的民族性太過強烈，<hex:02100103>總給人一種難以接近的感覺。<hex:02100103>不過和他們交往一下就會知道，他們本性並不壞。"
+9,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_030","這裡是阿拉米格難民的村落。<hex:02100103>他們的故鄉在20年前受到了加雷馬帝國的侵略，<hex:02100103>現在也依舊被帝國佔據著。"
+10,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_031","我聽說，因此而背井離鄉的阿拉米格人，<hex:02100103>在領頭人古恩德巴爾德的帶領下與烏爾達哈交涉後，<hex:02100103>在這裡建立了這個村落。"
+11,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_032","我這個烏爾達哈人無法理解這20年對他們究竟有多沉重，<hex:02100103>但在這些阿拉米格人心中，確實還燃燒著想要奪回故鄉的火焰。<hex:02100103>而且我感覺最近這種傾向有愈演愈烈的趨勢。"
+12,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_040","如你所知，這裡是阿拉米格難民的村落。<hex:02100103>他們的故鄉在20年前受到了加雷馬帝國的侵略，<hex:02100103>自那之後一直被迫過著艱苦的難民生活。"
+13,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_041","但是，在艾奧傑亞同盟軍和阿拉米格解放軍，<hex:02100103>以及你們拂曉的共同努力下，<hex:02100103>阿拉米格終於擺脫了帝國的支配。"
+14,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_042","我是烏爾達哈人，所以不能完全理解他們這20年的等待有多麼沉重。<hex:02100103>但他們的未來確實是再次迎來了光明，這一點是毋庸置疑的。<hex:02100103>今後，小阿拉米格也會一點點發生改變吧。"
+15,"TEXT_REGWILLITTLEALAMHIGO_00122_Q1_000_000","想了解什麼？"
+16,"TEXT_REGWILLITTLEALAMHIGO_00122_A1_000_001","你是做什麼的？"
+17,"TEXT_REGWILLITTLEALAMHIGO_00122_A1_000_002","這裡是什麼地方？"
+18,"TEXT_REGWILLITTLEALAMHIGO_00122_A1_000_003","取消"

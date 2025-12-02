@@ -1,10 +1,8 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_BANKJN305_02983_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-※ 이 퀘스트는 수락 시점의 직업으로만 진행할 수 있습니다.
-
-푸른 물구슬에 있는 즈킨은 식사 준비를 도와줬으면 하는 듯하다."
+0,"TEXT_BANKJN305_02983_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整（限定職業）<hex:0249020103><hex:0248020103><hex:02100103>※本任務需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>碧玉水的頭巾想請冒險者幫忙為慰勞宴做準備。"
 1,"TEXT_BANKJN305_02983_SEQ_01",""
 2,"TEXT_BANKJN305_02983_SEQ_02",""
 3,"TEXT_BANKJN305_02983_SEQ_03",""
@@ -28,9 +26,8 @@ int32,str,str
 21,"TEXT_BANKJN305_02983_SEQ_21",""
 22,"TEXT_BANKJN305_02983_SEQ_22",""
 23,"TEXT_BANKJN305_02983_SEQ_23",""
-24,"TEXT_BANKJN305_02983_TODO_00","지옥뚜껑의 <Sheet(EObj,2009091,0)/>에서 <Sheet(EventItem,2002401,0)/> 사용 후
-<Sheet(BNpcName,6876,0)/><13>FF1302280FFF09424E70634E616D65F21ADC0103FF04EBA5BCFF04EC9D84</13> 처치하고 <Sheet(EventItem,2002402,0)/> 입수 "
-25,"TEXT_BANKJN305_02983_TODO_01","즈킨에게 <Sheet(EventItem,2002402,0)/> 전달"
+24,"TEXT_BANKJN305_02983_TODO_00","在獄之蓋的<hex:02280CFF05>EObj<hex:F61EA8030103>使用<hex:022811FF0A>EventItem<hex:F61E8DE10103><hex:02100103>討伐<hex:02280FFF09>BNpcName<hex:F21ADC0103> 獲取<hex:022811FF0A>EventItem<hex:F61E8DE20103>"
+25,"TEXT_BANKJN305_02983_TODO_01","將<hex:022811FF0A>EventItem<hex:F61E8DE20103>交給頭巾"
 26,"TEXT_BANKJN305_02983_TODO_02",""
 27,"TEXT_BANKJN305_02983_TODO_03",""
 28,"TEXT_BANKJN305_02983_TODO_04",""
@@ -53,21 +50,10 @@ int32,str,str
 45,"TEXT_BANKJN305_02983_TODO_21",""
 46,"TEXT_BANKJN305_02983_TODO_22",""
 47,"TEXT_BANKJN305_02983_TODO_23",""
-48,"TEXT_BANKJN305_02983_ZUKIN_000_000","'푸른등 보물찾기단'이 결성된 이후로 다들 바쁜 것 같다아.
-그래서 카이오케가 동료들을 위해 맛있는 걸 만들어 준다는데
-<Sheet(EventItem,2002402,0)/><13>FF15022811FF0A4576656E744974656DF61E8DE20103FF04EAB080FF04EC9DB4</13> 필요하대에."
-49,"TEXT_BANKJN305_02983_ZUKIN_000_001","꽤 많이 필요한 것 같으니 <If(PlayerParameter(4))>누님<Else/>형님</If>도 도와줘어.
-이 '<Sheet(EventItem,2002401,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8DE10103FF04EBA5BCFF04EC9D84</13> 지옥뚜껑에서 사용하면
-커다란 '<Sheet(BNpcName,6876,0)/>'<13>FF1302280FFF09424E70634E616D65F21ADC0103FF04EAB080FF04EC9DB4</13> 나타날 거다아."
-50,"TEXT_BANKJN305_02983_ZUKIN_000_002","먹이를 먹으려고 다른 가사메도 몰려올 수 있지만,
-'<Sheet(EventItem,2002402,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8DE20103FF04EB8A94FF04EC9D80</13> '<Sheet(BNpcName,6876,0)/>'한테서만 구할 수 있다아.
-조심해서 갔다 오길 바란다아."
-51,"TEXT_BANKJN305_02983_ZUKIN_000_020","'<Sheet(EventItem,2002402,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8DE20103FF04EB8A94FF04EC9D80</13> 구했나아?"
-52,"TEXT_BANKJN305_02983_ZUKIN_000_021","오옷, 아주 뜨끈뜨끈한 등딱지구나아!
-이 정도 크기면 맛있는 음식을 많이 만들 수 있겠다아! "
-53,"TEXT_BANKJN305_02983_ZUKIN_000_022","이 등딱지에다 재료랑 바닷물을 넣으면
-순식간에 '가사메탕'이 완성된다아.
-뜨거운 등딱지로 재료도 잘 익고 국물도 아주 끝내준다고오."
-54,"TEXT_BANKJN305_02983_ZUKIN_000_023","<If(PlayerParameter(4))>누님<Else/>형님</If>에게도 언제 한번 대접해야겠다아.
-그런데 가사메탕은 너무너무 맛있어서
-잠깐 한눈팔면 동료들이 몽땅 먹어치워버릴거얼! "
+48,"TEXT_BANKJN305_02983_ZUKIN_000_000","自從碧玉尋寶眾組建以後，大家都很忙啊——<hex:02100103>因此貝桶想要做一頓飯來慰勞大家，<hex:02100103>他正需要<hex:022811FF0A>EventItem<hex:F61E8DE20103>呢——"
+49,"TEXT_BANKJN305_02983_ZUKIN_000_001","而且聽說需要很多，請<hex:020813E905FF07>大姐<hex:FF07>大哥<hex:03>也來幫忙拿2個來吧——<hex:02100103>在獄之蓋使用<hex:022811FF0A>EventItem<hex:F61E8DE10103>，<hex:02100103>就會有大號的<hex:02280FFF09>BNpcName<hex:F21ADC0103>出現——"
+50,"TEXT_BANKJN305_02983_ZUKIN_000_002","為了食物，或許還會有其他的擁劍蟹出現，<hex:02100103><hex:022811FF0A>EventItem<hex:F61E8DE20103>只能從<hex:02280FFF09>BNpcName<hex:F21ADC0103>身上得到哦——<hex:02100103>那你就一路小心前往吧——"
+51,"TEXT_BANKJN305_02983_ZUKIN_000_020","得到<hex:022811FF0A>EventItem<hex:F61E8DE20103>了嗎？"
+52,"TEXT_BANKJN305_02983_ZUKIN_000_021","哦，這可真是熱騰騰的甲殼啊——<hex:02100103>有這麼多的話，可以做出很多的飯菜了！"
+53,"TEXT_BANKJN305_02983_ZUKIN_000_022","用甲殼做鍋，再加入食材和海水，<hex:02100103>用不了多長時間，擁劍蟹火鍋就可以完成了——<hex:02100103>甲殼的熱量十足，食材容易煮熟，湯頭也很美味哦——"
+54,"TEXT_BANKJN305_02983_ZUKIN_000_023","以後有機會也得給<hex:020813E905FF07>大姐<hex:FF07>大哥<hex:03>做一回啊——<hex:02100103>不過，擁劍蟹火鍋實在太受歡迎了，<hex:02100103>一不小心馬上就會被同伴吃乾淨啊——"

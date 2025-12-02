@@ -1,26 +1,15 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGYOK6CRACKEDCISTERN_00908_BOLILYIK_000_000","여기가 어떤 곳인지 알고 있나?
-좀 특이한 집단인데…… 원한다면 이야기해 주지."
-1,"TEXT_REGYOK6CRACKEDCISTERN_00908_BOLILYIK_000_001","툴라이욜라에서는 연왕님이 정해졌다더군…….
-우리처럼 어설픈 자들도 설 곳이 있을지."
-2,"TEXT_REGYOK6CRACKEDCISTERN_00908_Q1_000_000","무엇을 물어보시겠습니까?"
-3,"TEXT_REGYOK6CRACKEDCISTERN_00908_A1_000_001","당신의 이야기를 들려달라고 한다"
-4,"TEXT_REGYOK6CRACKEDCISTERN_00908_A1_000_002","여기는 어떤 곳인지 물어본다"
-5,"TEXT_REGYOK6CRACKEDCISTERN_00908_A1_000_003","취소"
-6,"TEXT_REGYOK6CRACKEDCISTERN_00908_BOLILYIK_000_010","모블린족이 올까 봐 걱정돼서 순찰 중이야.
-여긴 대부분 모블린족의 곁을 떠난 처지다 보니
-그들을 두려워하는 사람들도 적지 않거든."
-7,"TEXT_REGYOK6CRACKEDCISTERN_00908_BOLILYIK_000_011","나도 사실은 원래 옹기 장인이었어.
-그들의 기대에 부응하는 게 괴로워져서 도망친
-한심한 사내지……."
-8,"TEXT_REGYOK6CRACKEDCISTERN_00908_BOLILYIK_000_020","여기는 '깨진 물병'……
-한때 모블린족의 옹기 장인으로 고용되었지만
-모종의 이유로 그들의 곁을 떠난 전직 옹기 장인들의 집단이지."
-9,"TEXT_REGYOK6CRACKEDCISTERN_00908_BOLILYIK_000_021","어슨샤이어는 도자기로 만든 도시라는 뜻이지만
-우리는 깨져서 쓸모가 없어져 버린 물병…….
-자학과 자책을 담아 누군가 그렇게 부르기 시작한 게 이름이 되었어."
-10,"TEXT_REGYOK6CRACKEDCISTERN_00908_BOLILYIK_000_022","하지만 모블린족과의 관계가 완전히 끊어진 건 아니야.
-아주 은밀한 교류이긴 하지만……
-섬세한 우리에게는 그 정도 거리감이 오히려 좋아."
+0,"TEXT_REGYOK6CRACKEDCISTERN_00908_BOLILYIK_000_000","你知道這裡是什麼地方嗎？<hex:02100103>是個稍微有點奇怪的聚集地……不介意的話我就告訴你。"
+1,"TEXT_REGYOK6CRACKEDCISTERN_00908_BOLILYIK_000_001","圖萊尤拉已經定下了新任的聯王大人啊……<hex:02100103>對於我們這種水準一般的人來說，會有屬於自己的棲身之所嗎？"
+2,"TEXT_REGYOK6CRACKEDCISTERN_00908_Q1_000_000","想了解什麼？"
+3,"TEXT_REGYOK6CRACKEDCISTERN_00908_A1_000_001","你是做什麼的？"
+4,"TEXT_REGYOK6CRACKEDCISTERN_00908_A1_000_002","這裡是什麼地方？"
+5,"TEXT_REGYOK6CRACKEDCISTERN_00908_A1_000_003","取消"
+6,"TEXT_REGYOK6CRACKEDCISTERN_00908_BOLILYIK_000_010","我負責巡視有沒有莫布林族來到這裡。<hex:02100103>在這裡的都是從莫布林族身邊走出來的人，<hex:02100103>其中也不乏畏懼他們之人。"
+7,"TEXT_REGYOK6CRACKEDCISTERN_00908_BOLILYIK_000_011","其實我也是罐子工出身。<hex:02100103>後來因為苦於無法回應他們的期待而逃了出來，<hex:02100103>是個無聊的男人……"
+8,"TEXT_REGYOK6CRACKEDCISTERN_00908_BOLILYIK_000_020","這裡是破裂的水瓶……<hex:02100103>是那些原本作為罐子工被莫布林族僱傭，<hex:02100103>後來因為某些原因而選擇了離開的前罐子工們的聚集地。"
+9,"TEXT_REGYOK6CRACKEDCISTERN_00908_BOLILYIK_000_021","土陶郡意為陶製都市，<hex:02100103>與之相比，我們就是壞掉的劣質水瓶……<hex:02100103>不知是誰出於自虐和自責的心態開始這樣稱呼這裡。"
+10,"TEXT_REGYOK6CRACKEDCISTERN_00908_BOLILYIK_000_022","儘管如此，我們與莫布林族並沒有完全切斷關係。<hex:02100103>雖然交流得很私密……<hex:02100103>對於內心敏感的我們來說，這種距離感很有必要。"

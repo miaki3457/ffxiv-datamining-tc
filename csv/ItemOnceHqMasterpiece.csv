@@ -1,5 +1,6 @@
 ﻿key,0,1
 #,,
+offset,0,0
 int32,bit&01,bit&02
 0,False,False
 4751,True,False

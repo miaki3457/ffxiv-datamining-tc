@@ -1,7 +1,8 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_STMBDZ902_02858_SEQ_00","잔불 마을에 있는 파핀은 강해 보이는 모험가에게 하고 싶은 부탁이 있는 듯하다. "
+0,"TEXT_STMBDZ902_02858_SEQ_00","寒爐村的帕平有事想委託身手高強的冒險者。"
 1,"TEXT_STMBDZ902_02858_SEQ_01",""
 2,"TEXT_STMBDZ902_02858_SEQ_02",""
 3,"TEXT_STMBDZ902_02858_SEQ_03",""
@@ -25,8 +26,8 @@ int32,str,str
 21,"TEXT_STMBDZ902_02858_SEQ_21",""
 22,"TEXT_STMBDZ902_02858_SEQ_22",""
 23,"TEXT_STMBDZ902_02858_SEQ_23",""
-24,"TEXT_STMBDZ902_02858_TODO_00","<Sheet(BNpcName,5711,0)/>한테서 <Sheet(EventItem,2002357,0)/> 입수"
-25,"TEXT_STMBDZ902_02858_TODO_01","파핀에게 <Sheet(EventItem,2002357,0)/> 전달 "
+24,"TEXT_STMBDZ902_02858_TODO_00","從<hex:02280FFF09>BNpcName<hex:F2164F0103>身上獲取<hex:022811FF0A>EventItem<hex:F61E8DB50103>"
+25,"TEXT_STMBDZ902_02858_TODO_01","將<hex:022811FF0A>EventItem<hex:F61E8DB50103>交給帕平"
 26,"TEXT_STMBDZ902_02858_TODO_02",""
 27,"TEXT_STMBDZ902_02858_TODO_03",""
 28,"TEXT_STMBDZ902_02858_TODO_04",""
@@ -49,25 +50,12 @@ int32,str,str
 45,"TEXT_STMBDZ902_02858_TODO_21",""
 46,"TEXT_STMBDZ902_02858_TODO_22",""
 47,"TEXT_STMBDZ902_02858_TODO_23",""
-48,"TEXT_STMBDZ902_02858_PAPIN_000_000","저기, <If(PlayerParameter(4))> 누나<Else/>형</If>, 되게 강해 보이네.
-저기 있잖아 좀 위험한 일이긴 한데
-부탁 좀 들어주면 안 될까?"
-49,"TEXT_STMBDZ902_02858_PAPIN_000_001","마을 북쪽에 마을 사람은 당해낼 수 없는, 강한 마물이 있거든.
-그런데 그 고기가 반드시 필요해!"
-50,"TEXT_STMBDZ902_02858_PAPIN_000_002","부탁이야, <If(PlayerParameter(4))>누나<Else/>형</If>.
-'<Sheet(BNpcName,5711,0)/>'<13>FF1302280FFF09424E70634E616D65F2164F0103FF04EBA5BCFF04EC9D84</13> 쓰러뜨리고
-'<Sheet(EventItem,2002357,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8DB50103FF04EBA5BCFF04EC9D84</13> 갖고 와줘!"
-51,"TEXT_STMBDZ902_02858_PAPIN_000_003","부탁이야, <If(PlayerParameter(4))>누나<Else/>형</If>.
-'<Sheet(BNpcName,5711,0)/>'<13>FF1302280FFF09424E70634E616D65F2164F0103FF04EBA5BCFF04EC9D84</13> 쓰러뜨리고
-'<Sheet(EventItem,2002357,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8DB50103FF04EBA5BCFF04EC9D84</13> 갖고 와줘!"
-52,"TEXT_STMBDZ902_02858_PAPIN_000_010","'<Sheet(EventItem,2002357,0)/>', 갖고 왔어?"
-53,"TEXT_STMBDZ902_02858_PAPIN_000_011","우와 멋져! 이렇게나 많이!"
-54,"TEXT_STMBDZ902_02858_PAPIN_000_012","이 고기는 맛도 있지만
-영양도 풍부하다고 엄마가 말씀하셨어.
-먹을 수 있는 기회도 별로 없는데, 동생도 엄청 기뻐할 거야!"
-55,"TEXT_STMBDZ902_02858_PAPIN_000_013","아버지도 드시면 좋을 텐데.
-일 때문에 멀리 나가 계시는데,
-최근엔 편지도 안 와. 빨리 오셨음 좋겠는데."
-56,"TEXT_STMBDZ902_02858_PAPIN_000_014","그때까지 <If(PlayerParameter(4))>누나<Else/>형</If>처럼 강해져서
-가족 모두가 고기를 배불리 먹을 수 있도록 할 거야!
-고마워, 또 놀러 와줘!"
+48,"TEXT_STMBDZ902_02858_PAPIN_000_000","<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>，你非常強吧！<hex:02100103>我有件比較危險的事想拜託你……<hex:02100103>能不能聽聽我的請求呢？"
+49,"TEXT_STMBDZ902_02858_PAPIN_000_001","村子的北邊有著誰都敵不過的強大魔物。<hex:02100103>可是，我無論如何都需要它身上的肉！"
+50,"TEXT_STMBDZ902_02858_PAPIN_000_002","拜託了，<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>。<hex:02100103>請打倒<hex:02280FFF09>BNpcName<hex:F2164F0103>，<hex:02100103>幫我拿回<hex:022811FF0A>EventItem<hex:F61E8DB50103>吧！"
+51,"TEXT_STMBDZ902_02858_PAPIN_000_003","拜託了，<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>。<hex:02100103>請打倒<hex:02280FFF09>BNpcName<hex:F2164F0103>，<hex:02100103>幫我拿回<hex:022811FF0A>EventItem<hex:F61E8DB50103>吧！"
+52,"TEXT_STMBDZ902_02858_PAPIN_000_010","你拿到<hex:022811FF0A>EventItem<hex:F61E8DB50103>了嗎？"
+53,"TEXT_STMBDZ902_02858_PAPIN_000_011","好厲害！這麼多！"
+54,"TEXT_STMBDZ902_02858_PAPIN_000_012","媽媽說這肉不僅好吃，還特別有營養。<hex:02100103>真是很難得才能吃到一次，相信妹妹一定會很開心！"
+55,"TEXT_STMBDZ902_02858_PAPIN_000_013","唔……好想讓爸爸也嚐嚐這些肉啊……<hex:02100103>不過爸爸因為工作去了很遠的地方，<hex:02100103>最近也不寫信回來了，真希望他早點回家。"
+56,"TEXT_STMBDZ902_02858_PAPIN_000_014","我要在爸爸回家之前，變得像你一樣強大，<hex:02100103>這樣就能給家裡人吃上更多的肉了！<hex:02100103>這次真是謝謝你啦，歡迎你再來玩哦！"

@@ -1,132 +1,69 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_TALK_ACTOR","이곳에서는 골드 소서에 있는 시설에 대해
-안내해드리고 있습니다.
-궁금한 점이 있으신가요?"
-1,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_Q1_1","무엇을 물어보시겠습니까?"
-2,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A1_1","'초코보 경주'에 대해서"
-3,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A1_2","'트리플 트라이어드'에 대해서"
-4,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A1_7","'꼬마 친구 공방전'에 대해서"
-5,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A1_8","'작패유희'에 대해서"
-6,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A1_3","'복권'에 대해서"
-7,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A1_4","'미니 게임'에 대해서"
-8,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A1_5","관내 이벤트 '돌발 게임'에 대해서"
-9,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A1_6","취소"
-10,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_CRACE","경주 전용 초코보를 타고 속도왕의 명예를 얻기 위해
-결승점을 향해 순위를 겨루는 경기…….
-그것이 바로 '초코보 경주'입니다."
-11,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_CRACE_001","관심이 있으시면 서쪽에 있는 초코보 승강기를 타고
-'초코보 광장'으로 가보십시오.
-광장 내 접수처에서 '초코보 경주' 참가 등록을 할 수 있습니다!"
-12,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_TRIPLETRIAD","'트리플 트라이어드'란 5장의 카드를 구사해서
-뜨거운 두뇌 싸움을 펼치는 카드 게임입니다!"
-13,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_TRIPLETRIAD_001","'트리플 트라이어드'에 관심이 있으시면
-남서쪽에 있는 '카드 광장'으로 가보십시오.
-경쟁 상대를 찾는 고수들이 당신을 기다리고 있습니다!"
-14,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_EMJ_000_000","'작패유희'는 4명이서 대국하는,
-패를 이용해 서로 실력과 운을 겨루는 열띤 게임입니다!"
-15,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_EMJ_000_001","신비의 광장 2층, 남동쪽에 있는
-'맨더빌 작패탁자'에서 개최하고 있으니
-많은 참가 부탁드립니다!"
-16,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_LOTTERY_000_000","가볍게 즐길 수 있는 '일일 복권'과
-일발역전을 노릴 수 있는 '주간 복권'.
-골드 소서에는 이렇게 2종류의 복권이 준비되어 있습니다."
-17,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_LOTTERY_000_001","'일일 복권'은 이곳 '중앙 카운터'에서,
-'주간 복권'은 이벤트 광장 2층에 있는
-'복권 추첨소'에서 도전하실 수 있습니다."
-18,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_LOTTERY_000_002","어느 쪽이든 운이 좋으면 MGP를 많이 획득할 수 있으니
-꾸준히 도전해보세요!"
-19,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_ARCADE","골드 소서에는 다양한 미니 게임이 설치되어 있습니다.
-MGP도 획득할 수 있고 부담 없이 즐길 수 있답니다!"
-20,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE","관내에서는 손님들이 참가할 수 있는 이벤트가 열리고 있습니다.
-어떤 이벤트가 발생하는지는 직접 확인해보세요!
-다양한 종류의 이벤트가 준비되어 있습니다!"
-21,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_SYSTEM_000","골드 소서에서는 특정 시간이 되면
-각지에서 '돌발 게임'이라고 하는
-다양한 이벤트가 발생합니다."
-22,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_SYSTEM_001","'돌발 게임' 발생 중에는 지도에 아이콘이 표시됩니다.
-현장에 있는 의뢰인에게 말을 걸면 참가할 수 있습니다."
-23,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_SYSTEM_002","'이벤트 안내원'에게 말을 걸면
-'돌발 게임'이 열리는 장소까지 안내해주므로
-참가하고 싶을 때에는 말을 걸어 보세요."
-24,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_Q2_1","'돌발 게임'에 대해 무엇을 물어보시겠습니까?"
-25,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A2_0","'돌발 게임' 발생 스케줄에 대해서"
-26,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A2_1","'구해라! 꼬마 친구 구조대'에 대해서"
-27,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A2_2","'달려라! 랍토르 운수'에 대해서"
-28,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A2_7","'뛰어라! 점핑 운동회'에 대해서"
-29,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A2_3","'찾아라! 변신 능력자'에 대해서"
-30,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A2_4","'춤춰라! 댄스 마스터'에 대해서"
-31,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A2_5","'버텨라! 콧바람 폭풍'에 대해서"
-32,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A2_8","'출격! 에어포스 조종사'에 대해서"
-33,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A2_9","'피해라! 참마 삼매경'에 대해서"
-34,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A2_6","뒤로"
-35,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_0_1","'돌발 게임'은 특정 시각이 되면 발생합니다."
-36,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_0_SYSYEM_1","매 시간 <Time(IntegerParameter(1))/><TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>분(현실 시간) 발생: 
-구해라! 꼬마 친구 구조대, 출격! 에어포스 조종사,
-뛰어라! 점핑 운동회(니므 하늘유적풍) 중 한 가지"
-37,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_0_SYSYEM_2","매 시간 <Time(IntegerParameter(1))/><TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>분(현실 시간) 발생: 
-피해라! 참마 삼매경, 버텨라! 콧바람 폭풍,
-뛰어라! 점핑 운동회(벨라흐디아 유적풍) 중 한 가지"
-38,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_0_SYSYEM_3","매 시간 <Time(IntegerParameter(1))/><TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>분(현실 시간) 발생: 
-출격! 에어포스 조종사, 피해라! 참마 삼매경,
-뛰어라! 점핑 운동회(실프 영지풍) 중 한 가지"
-39,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_1_1","자보텐더와 코렐 산을 무대로 펼쳐지는 이벤트입니다.
-툭하면 도망가는 병아리 초코보가 곧잘 산꼭대기에 올랐다가
-높이가 무서워서 혼자 못 내려오게 된다고 하네요……."
-40,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_1_2","만약 '원형 광장'이나 '신비의 광장'에서
-곤경에 처한 사람을 발견하면 이야기를 들어보세요.
-병아리 초코보 때문에 발을 구르고 있을지도 모릅니다……."
-41,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_2_1","대형 운수 조합인 랍토르 운수를 통해
-값비싼 항아리를 주문했는데, 아무래도 랍토르 운송에
-원한을 품은 도적단이 냄새를 맡은 모양입니다……."
-42,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_2_2","도적들의 '시선'을 피해, 관내에 있는 종업원에게
-항아리를 무사히 가져다주실 분이 어디 없을까요……."
-43,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_3_1","큰일입니다…….
-관내에 장난꾸러기 임프가 숨어들었습니다!
-급히 요마 사냥꾼을 불러 퇴치를 의뢰하였으나……."
-44,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_3_2","임프는 영리하게도 사냥꾼과 같은 모습으로 변신해 도망갔습니다!
-사냥꾼을 도와 수상한 모험가를 잘 관찰하여
-변신한 장난꾸러기 임프를 잡아주세요!"
-45,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_4_1","손님께선 춤추는 데 자신이 있으십니까?
-저희 골드 소서에서는 울다하 사교계 데뷔를 꿈꾸는
-젊은 댄서를 후원하고 있습니다."
-46,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_4_2","어떤 안무도 소화해내는 사교계의 꽃이 되어보지 않겠습니까?
-'이벤트 광장'에서 정열의 무용가를 발견하면
-댄스 레슨을 받을 수 있는 절호의 기회를 놓치지 마세요!"
-47,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_5_1","골드 소서에서는 다양한 종업원이 일하고 있습니다.
-그중에는 주술사 길드의 실험으로 소환된 요마도 있지요…….
-저희가 '티폰 선생님'이라고 부르는 분입니다."
-48,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_5_2","선생님께선 엄청난 위력의 '콧바람'이 주특기이십니다.
-그 콧바람을 멋지게 피할 자신이 있다면
-'이벤트 광장'에 있는 주술사님을 찾아가 보세요!"
-49,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_7_1","달리고 뛰어올라 결승점을 향해라!
-특설 점핑 운동회에 도전해서
-제한시간 안에 결승점에 도착하면 MGP를 입수할 수 있습니다."
-50,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_7_2","개최 중 '원형 광장' 북서쪽에 있는
-'도우미 사보텐더'에게 말을 걸면 도전할 수 있습니다.
-어떤 코스가 기다리고 있을지, 참가하여 즐겨 보세요."
-51,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_8_1","목표물을 조준하여 발사!
-에어포스에 탑승하여 사보텐더 과녁을 맞혀
-최종 점수 랭킹에 따라 MGP를 입수할 수 있습니다."
-52,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_8_2","개최 중 '원형 광장' 북서쪽에 있는
-'도우미 사보텐더'에게 말을 걸면 도전할 수 있습니다."
-53,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_9_1","화려한 무대에 올라 요우진보 선생의 검격을 피해
-무대에서 오래 버틸수록 보상을 많이 받는 이벤트입니다.
-금화 은화로 운을 시험하는 요소도 있어 재미를 더합니다."
-54,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_9_2","개최 중에 '이벤트 광장' 북쪽에 있는
-'요우진보의 의형제'에게 말을 걸면 도전할 수 있습니다."
-55,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_LOVM","'꼬마 친구 공방전'…….
-이것은 '꼬마 친구 광장'에서 밤낮으로 벌어지는
-꼬마 친구들의 뜨거운 싸움입니다."
-56,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_LOVM_001","승패를 가르는 열쇠는
-꼬마 친구의 힘을 최대한 효과적으로 활용하는 것이지요…….
-자신의 지략을 시험하고 싶다면 꼭 도전해보세요!"
-57,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_1_3","（★未使用／削除予定★）"
-58,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_2_3","（★未使用／削除予定★）"
-59,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_3_3","（★未使用／削除予定★）"
-60,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_4_3","（★未使用／削除予定★）"
-61,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_5_3","（★未使用／削除予定★）"
-62,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A1_9","（★未使用／削除予定★）"
-63,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_FGS_000_000","（★未使用／削除予定★）"
-64,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_FGS_000_001","（★未使用／削除予定★）"
+0,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_TALK_ACTOR","您好，我負責向客人們介紹金碟遊樂園內的各項娛樂活動。<hex:02100103>客人您有什麼感興趣的項目嗎？"
+1,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_Q1_1","想了解什麼？"
+2,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A1_1","關於「陸行鳥競賽」"
+3,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A1_2","關於「九宮幻卡」"
+4,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A1_7","關於「萌寵之王」"
+5,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A1_8","關於「多瑪方城戰」"
+6,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A1_3","關於「仙人微彩」與「仙人仙彩」"
+7,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A1_4","關於「小遊戲」"
+8,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A1_5","關於「G.A.T.E.事件」"
+9,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A1_6","取消"
+10,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_CRACE","訓練師們乘坐比賽專用的競賽陸行鳥，<hex:02100103>為了爭奪第一名的榮譽，和搭檔不斷突破極限……<hex:02100103>這就是「陸行鳥競賽」。"
+11,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_CRACE_001","如果客人您對陸行鳥競賽感興趣，<hex:02100103>就請乘西側的陸行鳥電梯前往陸行鳥廣場吧。<hex:02100103>廣場內的競賽櫃台處可以為您辦理參加競賽的手續。"
+12,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_TRIPLETRIAD","「九宮幻卡」是透過活用手上的5張卡牌，<hex:02100103>展開激烈智力比拚的遊戲！"
+13,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_TRIPLETRIAD_001","如果客人您對九宮幻卡感興趣，<hex:02100103>就請您前往西南方的幻卡廣場吧。<hex:02100103>渴求決鬥的強者正在那裡等待著您的挑戰！"
+14,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_EMJ_000_000","「多瑪方城戰」就是4位玩家利用多瑪方城牌對戰，<hex:02100103>相互間鬥智鬥勇的激烈遊戲！"
+15,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_EMJ_000_001","目前正在奇妙廣場2層東南側的曼德維爾休息區舉辦，<hex:02100103>請你踴躍參加！"
+16,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_LOTTERY_000_000","簡單輕鬆的「仙人微彩」，<hex:02100103>以及一夜暴富的「仙人仙彩」……<hex:02100103>金碟遊樂園裡還可以參加這兩種遊戲。"
+17,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_LOTTERY_000_001","這個綜合櫃台可以參加「仙人微彩」的有獎競猜，<hex:02100103>而演出廣場2樓的仙人彩區域則可以參加「仙人仙彩」的有獎競猜。"
+18,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_LOTTERY_000_002","不論是哪一種，只要幸運中選就會獲得數目相當可觀的金碟幣。<hex:02100103>建議您把握好機會，多多參與！"
+19,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_ARCADE","金碟遊樂園內設定了許多小遊戲。<hex:02100103>體驗愉快小遊戲的同時，還可以獲得金碟幣！"
+20,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE","遊樂園內會舉辦供客人們參加的特別活動，<hex:02100103>會遇上什麼樣的活動完全看您的運氣！<hex:02100103>為了讓客人們玩得盡興，我們準備的活動可是很豐富的！"
+21,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_SYSTEM_000","每逢特定時刻，<hex:02100103>就會在金碟遊樂園館內各處發生特別的「G.A.T.E.事件」事件。"
+22,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_SYSTEM_001","G.A.T.E.事件發生和正在進行時，<hex:02100103>會在地圖上加以標示。<hex:02100103>和任務對應的委託人對話，便可以參與活動。"
+23,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_SYSTEM_002","另外，活動解說員也可以帶您前往發生G.A.T.E.事件的地點。<hex:02100103>想要參加時可以多加利用。"
+24,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_Q2_1","想要了解「G.A.T.E.事件」的哪些情況？"
+25,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A2_0","關於G.A.T.E.事件的時間安排"
+26,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A2_1","關於「搶救小雛鳥大作戰」"
+27,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A2_2","關於「從天而降的送貨人」"
+28,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A2_7","關於「登高跳跳樂大挑戰」"
+29,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A2_3","關於「火眼金睛的追蹤者」"
+30,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A2_4","關於「舞蹈大師的特訓」"
+31,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A2_5","關於「暴風倖存者」"
+32,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A2_8","關於「空軍裝甲駕駛員」"
+33,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A2_9","關於「必中一閃快刀斬魔」"
+34,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A2_6","返回"
+35,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_0_1","G.A.T.E.事件會在特定時間出現。"
+36,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_0_SYSYEM_1","每小時<hex:020703E80203><hex:022402DA03>分（地球時間）的時候，<hex:02100103>會出現「搶救小雛鳥大作戰」「空軍裝甲駕駛員」<hex:02100103>「登高跳跳樂大挑戰（尼姆浮游遺跡風格）」的其中之一。"
+37,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_0_SYSYEM_2","每小時<hex:020703E80203><hex:022402DA03>分（地球時間）的時候，<hex:02100103>會出現「必中一閃快刀斬魔」「暴風倖存者」<hex:02100103>「登高跳跳樂大挑戰（貝拉哈迪亞遺跡風格）」的其中之一。"
+38,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_0_SYSYEM_3","每小時<hex:020703E80203><hex:022402DA03>分（地球時間）的時候，<hex:02100103>會出現「空軍裝甲駕駛員」「必中一閃快刀斬魔」<hex:02100103>「登高跳跳樂大挑戰（風精靈領風格）」的其中之一。"
+39,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_1_1","活動的場地是仙人掌巨怪和科瑞爾山。<hex:02100103>有一隻陸行鳥雛鳥不知怎麼跑到了最頂端，<hex:02100103>卻因為太高被嚇傻了，沒辦法自己下來……"
+40,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_1_2","如果您在圓形廣場或奇妙廣場見到正在苦惱的人，<hex:02100103>就請出手相助吧。<hex:02100103>那些人或許正因為無法救助陸行鳥雛鳥而煩惱著……"
+41,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_2_1","我們在艾奧傑亞有名的盜龍快運那裡訂了一批易碎的壺，<hex:02100103>但這一訊息似乎被某個對盜龍快運積恨已久的盜賊團知道了……"
+42,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_2_2","有沒有誰可以巧妙地躲過盜匪的視線，<hex:02100103>將壺送給遊樂園內的工作人員呢……"
+43,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_3_1","不得了了！<hex:02100103>有喜歡惡作劇的小頑童潛入了場館內！<hex:02100103>我們本來拜託了妖異獵人們前來遊樂園幫忙捕獲……"
+44,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_3_2","但沒想到，小頑童竟然變成獵人的樣子逃跑了！<hex:02100103>請與獵人互相合作，<hex:02100103>找到奇怪的冒險者，揪出狡猾的小頑童！"
+45,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_4_1","客人您對自己的舞蹈有信心嗎？<hex:02100103>我們金碟遊樂園正在培養那些夢想著在烏爾達哈的社交界<hex:02100103>一舉成名的年輕舞者。"
+46,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_4_2","您希望踏出完美的舞步，成為未來的舞會之星嗎？<hex:02100103>如果在演出廣場找到熱情的舞蹈家，<hex:02100103>就有機會接受我們安排的舞蹈特別訓練！"
+47,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_5_1","這金碟遊樂園的工作人員實在是千奇百怪……<hex:02100103>比如這裡還有一隻在咒術士行會進行實驗時意外召喚的妖異，<hex:02100103>我們都稱它為「杜彭老師」。"
+48,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_5_2","杜彭老師的絕技當數它那凶猛無匹的「鼻息」。<hex:02100103>如果您有自信可以在狂風中游刃有餘，<hex:02100103>就請前往演出廣場和那裡的咒術士談談吧！"
+49,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_7_1","跑起來，跳起來，向著終點前進！<hex:02100103>參加專門開設的跳躍比賽，<hex:02100103>爭取在限制時間內抵達終點贏得金碟幣獎勵。"
+50,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_7_2","該G.A.T.E.事件出現時，您可以前往圓形廣場的西北角，<hex:02100103>找「仙人掌導覽」申請參加挑戰。<hex:02100103>究竟是哪種賽道在等待著您，就只有到時候才知道了。"
+51,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_8_1","瞄準好射擊！<hex:02100103>乘坐空軍裝甲破壞「仙人掌」的靶子，<hex:02100103>可以根據贏得的分數等級獲得相應的金碟幣。"
+52,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_8_2","該G.A.T.E.事件出現時，您可以前往圓形廣場的西北角，<hex:02100103>找「仙人掌導覽」申請參加挑戰。"
+53,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_9_1","這個G.A.T.E.事件是要登上舞臺躲避保鑣老師的攻擊。<hex:02100103>在臺上能站得越久，得到的獎勵就越多。<hex:02100103>加上還有拾取Gil堆的運氣要素，一定能讓您玩得開心。"
+54,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_9_2","G.A.T.E.事件出現時，您可以前往演出廣場的北側，<hex:02100103>找「保鑣的小弟」申請參加挑戰。"
+55,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_LOVM","萌寵之王……<hex:02100103>那是在寵物廣場不分晝夜上演的寵物之間的激烈鬥爭。"
+56,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_LOVM_001","決定勝負的關鍵就是，<hex:02100103>讓寵物極大限度地發揮出自身的能力……<hex:02100103>如果你想要證實一下自己的謀略，請務必挑戰試試！"
+57,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_1_3","（未使用/預計刪除）"
+58,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_2_3","（未使用/預計刪除）"
+59,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_3_3","（未使用/預計刪除）"
+60,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_4_3","（未使用/預計刪除）"
+61,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_5_3","（未使用/預計刪除）"
+62,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A1_9",""
+63,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_FGS_000_000",""
+64,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_FGS_000_001",""

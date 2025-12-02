@@ -1,8 +1,8 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_LUCKZJ023_03586_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-온도 바다웅덩이에 있는 나크쉬 콜은 또 부탁이 있는 듯하다."
+0,"TEXT_LUCKZJ023_03586_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整<hex:0249020103><hex:0248020103><hex:02100103>鰭人潮池的納庫嘶·涳爾好像有新的委託。"
 1,"TEXT_LUCKZJ023_03586_SEQ_01",""
 2,"TEXT_LUCKZJ023_03586_SEQ_02",""
 3,"TEXT_LUCKZJ023_03586_SEQ_03",""
@@ -26,11 +26,9 @@ int32,str,str
 21,"TEXT_LUCKZJ023_03586_SEQ_21",""
 22,"TEXT_LUCKZJ023_03586_SEQ_22",""
 23,"TEXT_LUCKZJ023_03586_SEQ_23",""
-24,"TEXT_LUCKZJ023_03586_TODO_00","<Sheet(BNpcName,9006,0)/><13>FF1302280FFF09424E70634E616D65F2232E0103FF04EBA5BCFF04EC9D84</13> 처치하고
- <Sheet(EventItem,2002597,0)/> 입수 "
-25,"TEXT_LUCKZJ023_03586_TODO_01","온도족 가죽 장인에게
- <Sheet(EventItem,2002597,0)/> 전달"
-26,"TEXT_LUCKZJ023_03586_TODO_02","나크쉬 콜에게 <Sheet(EventItem,2002598,0)/> 전달"
+24,"TEXT_LUCKZJ023_03586_TODO_00","討伐<hex:02280FFF09>BNpcName<hex:F2232E0103><hex:02100103>獲得<hex:022811FF0A>EventItem<hex:F61E8EA50103>"
+25,"TEXT_LUCKZJ023_03586_TODO_01","將<hex:022811FF0A>EventItem<hex:F61E8EA50103><hex:02100103>交給鰭人族的皮革師"
+26,"TEXT_LUCKZJ023_03586_TODO_02","將<hex:022811FF0A>EventItem<hex:F61E8EA60103>交給納庫嘶·涳爾"
 27,"TEXT_LUCKZJ023_03586_TODO_03",""
 28,"TEXT_LUCKZJ023_03586_TODO_04",""
 29,"TEXT_LUCKZJ023_03586_TODO_05",""
@@ -52,37 +50,15 @@ int32,str,str
 45,"TEXT_LUCKZJ023_03586_TODO_21",""
 46,"TEXT_LUCKZJ023_03586_TODO_22",""
 47,"TEXT_LUCKZJ023_03586_TODO_23",""
-48,"TEXT_LUCKZJ023_03586_NAKSHSKOAL_000_000","친절한 인간, 부탁이, 하나 더 있어요.
-<Sheet(EventItem,2002597,0)/> 얻기 위해, 사냥 나간 동료,
-독침 찔려서 낑낑대며, 도망쳐 왔어요."
-49,"TEXT_LUCKZJ023_03586_NAKSHSKOAL_000_001","우리 젊은 콜, 바닷물 없으면, 움직임 둔해져요.
-서쪽에 가면 있는, '<Sheet(BNpcName,9006,0)/>' 쓰러뜨리고,
-'<Sheet(EventItem,2002597,0)/>', 얻을 수 있어요?"
-50,"TEXT_LUCKZJ023_03586_NAKSHSKOAL_000_002","얻으면, 바다웅덩이에서 기다리는,
-온도족 가죽 장인에게, 갖다주면 좋겠어요.
-부탁 많이 해서, 미안하지만, 제발요……!"
-51,"TEXT_LUCKZJ023_03586_NAKSHSKOAL_000_005","여기서 서쪽에 가면 있는,
-'<Sheet(BNpcName,9006,0)/>' 쓰러뜨리고 얻은 가죽,
-온도족 가죽 장인에게, 갖다주세요, 부탁해요……!"
-52,"TEXT_LUCKZJ023_03586_ONDOTANNER03586_000_010","인간 손님, 무슨 일이지?
-길 잃었나?"
-53,"TEXT_LUCKZJ023_03586_ONDOTANNER03586_000_011","질 좋은 <Sheet(EventItem,2002597,0)/>, 이렇게 고마울 데가!
-신선할 때, 무두질 해야겠다.
-그래, 우리 사냥꾼 대리, 너였구나."
-54,"TEXT_LUCKZJ023_03586_ONDOTANNER03586_000_012","<Sheet(EventItem,2002597,0)/>, 우리한테, 꼭 필요한 재료.
-내구성 훌륭하고, 광택 있어 아름답다.
-도구로도, 장식품으로도, 쓸 수 있지."
-55,"TEXT_LUCKZJ023_03586_ONDOTANNER03586_000_013","마침, 새로운 물건, 완성된 참이다.
-이 '<Sheet(EventItem,2002598,0)/>',
-'나크쉬 콜'한테, 갖다주면, 좋겠어."
-56,"TEXT_LUCKZJ023_03586_ONDOTANNER03586_000_015","내가 준 '<Sheet(EventItem,2002598,0)/>',
-'나크쉬 콜'한테, 갖다주면, 좋겠어."
-57,"TEXT_LUCKZJ023_03586_NAKSHSKOAL_000_020","친절한 인간, 어서 와요!
-<Sheet(BNpcName,9006,0)/> 쓰러뜨리고,
-가죽, 갖다줬어요?"
-58,"TEXT_LUCKZJ023_03586_NAKSHSKOAL_000_021","가죽 장인, 만들어준 물건, 고마워요!
-이것도, 교역에 갖고 가면, 인간 기뻐할까요?
-좋은 물건이랑, 교환해주려나?"
-59,"TEXT_LUCKZJ023_03586_NAKSHSKOAL_000_022","친절한 인간, 교역에도 따라와주면, 마음, 무척 든든할 텐데.
-하지만, 당신한테만 부탁하면, 안 되겠죠?
-나, 혼자서도, 열심히 해볼게요!"
+48,"TEXT_LUCKZJ023_03586_NAKSHSKOAL_000_000","善良的，人類啊，我還有，另一個請求。<hex:02100103>為了獲得<hex:022811FF0A>EventItem<hex:F61E8EA50103>，而去打獵的夥伴，<hex:02100103>被毒針刺傷，嚇得逃了回來。"
+49,"TEXT_LUCKZJ023_03586_NAKSHSKOAL_000_001","我們年輕的涳爾，沒有潮水，行動緩慢。<hex:02100103>你能去西邊，打倒<hex:02280FFF09>BNpcName<hex:F2232E0103>，<hex:02100103>將<hex:022811FF0A>EventItem<hex:F61E8EA50103>，拿過來嗎？"
+50,"TEXT_LUCKZJ023_03586_NAKSHSKOAL_000_002","拿到後，就交給，<hex:02100103>在潮池等待的，鰭人族的皮革師。<hex:02100103>不好意思，向你提了那麼多請求，這次也，拜託你了！"
+51,"TEXT_LUCKZJ023_03586_NAKSHSKOAL_000_005","從這裡向西走，<hex:02100103>打倒<hex:02280FFF09>BNpcName<hex:F2232E0103>獲得它的皮，<hex:02100103>拿去給，鰭人族的皮革師，拜託你了！"
+52,"TEXT_LUCKZJ023_03586_ONDOTANNER03586_000_010","人類客人，怎麼了？<hex:02100103>迷路了嗎？"
+53,"TEXT_LUCKZJ023_03586_ONDOTANNER03586_000_011","這麼好的，<hex:022811FF0A>EventItem<hex:F61E8EA50103>，真是謝天謝地！<hex:02100103>趁著還新鮮，趕快，去製成革。<hex:02100103>這樣啊，你替代我們的獵人，去進行狩獵了啊。"
+54,"TEXT_LUCKZJ023_03586_ONDOTANNER03586_000_012","<hex:022811FF0A>EventItem<hex:F61E8EA50103>，是我們，不可欠缺的素材。<hex:02100103>除了有，優秀的耐久性，還有，美麗的光澤。<hex:02100103>做道具，還是做裝飾品，都好用。"
+55,"TEXT_LUCKZJ023_03586_ONDOTANNER03586_000_013","正好，我做成了，一件新品。<hex:02100103>把這個<hex:022811FF0A>EventItem<hex:F61E8EA60103>，<hex:02100103>幫我，交給納庫嘶·涳爾吧。"
+56,"TEXT_LUCKZJ023_03586_ONDOTANNER03586_000_015","把給你的<hex:022811FF0A>EventItem<hex:F61E8EA60103>，<hex:02100103>幫我，交給納庫嘶·涳爾吧。"
+57,"TEXT_LUCKZJ023_03586_NAKSHSKOAL_000_020","善良的，人類，歡迎，回來！<hex:02100103>你打倒<hex:02280FFF09>BNpcName<hex:F2232E0103>，<hex:02100103>把皮，送過去了嗎？"
+58,"TEXT_LUCKZJ023_03586_NAKSHSKOAL_000_021","謝謝你，給我拿來了，皮革師製作的新品！<hex:02100103>這個，也拿去交易的話，人類，會喜歡嗎？<hex:02100103>能換點，什麼好東西呢？"
+59,"TEXT_LUCKZJ023_03586_NAKSHSKOAL_000_022","善良的人類，幫我們進行交易的參考，真是太讓人放心了。<hex:02100103>但，也不能，總是麻煩你吧？<hex:02100103>我，自己，也會努力的！"

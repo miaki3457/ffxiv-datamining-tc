@@ -1,123 +1,64 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_000_000","<Switch(IntegerParameter(1))><Case(1)>중층 돛대</Case><Case(2)>백합 언덕</Case><Case(3)>나나모 대풍차</Case><Case(4)>홍매전</Case><Case(5)> 단란한 난롯가</Case></Switch>에 잘 오셨습니다!
-이곳에서는 아파트 구매나 이용에 대해
-안내해드리고 있습니다."
-1,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_001_000","아파트에 대해 물어보기"
-2,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_001_001","취소"
-3,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_000","무엇을 물어보시겠습니까?"
-4,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_001","아파트에서 할 수 있는 일"
-5,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_002","입주에 대해서"
-6,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_003","퇴거에 대해서"
-7,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_004","내장재 변경에 대해서"
-8,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_005","가구 설치에 대해서"
-9,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_006","밝기 조절 기능에 대해서"
-10,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_007","가구와 조경물의 거래에 대해서"
-11,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_008","초코보 축사에 대해서"
-12,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_009","취소"
-13,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_006_001_001","아파트는 모험가를 위해서
-각 모험가 거주구 내에 준비된 '개인용 거주 시설'입니다."
-14,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_006_001_002","아파트 내의 '개인실'을 구매하면,
-당신만의 개인 공간으로 이용할 수 있습니다.
-가구나 벽지를 이용해 마음껏 꾸며보세요."
-15,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_001_003","방 안에는 '화분', '오케스트리온',
-'초인종', '미용사 호출 초인종', '추억의 보관함',
-'고용 NPC' 등의 편리한 설비도 자유롭게 배치할 수 있습니다."
-16,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_001_004","또한 공용 '초코보 축사'에서는
-내 초코보를 육성하거나, 깃털 색을 바꿀 수도 있습니다.
-다른 주민의 초코보를 돌볼 수도 있습니다."
-17,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_001_005","자신이 입주한 아파트에는 텔레포로 직접 이동할 수 있습니다.
-적극적으로 활용해보세요."
-18,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_002_001","아파트의 개인실을 구매하려면
-레벨 50 이상의 클래스가 있어야 하며,
-구매 비용 500,000길을 준비해야 합니다."
-19,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_002_002","또한, 소속된 총사령부에서 '소위' 계급 이상이어야 합니다."
-20,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_002_003","아파트 '홍매전'의 개인실을 구매하려면
-주요 퀘스트 '대양으로 출정하다'를
-완료해야 합니다."
-21,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_002_004","아파트 '단란한 난롯가'의 개인실을 구매하려면
-주요 퀘스트 '최후의 포효'를
-완료해야 합니다."
-22,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_006_003_001","아파트에서 퇴거하려면
-먼저 가구를 모두 철거해야 합니다."
-23,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_003_002","가구가 철거된 상태로
-'하우징' 메뉴에서 '아파트 퇴거'를 선택하면
-아파트에서 퇴거할 수 있습니다."
-24,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_003_003","단, 개인실 구입비는 반환되지 않습니다.
-퇴거하기 전에 신중하게 생각해주세요."
-25,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_006_004_001","아파트 개인실 내부는
-벽이나 바닥을 자유롭게 꾸밀 수 있습니다."
-26,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_004_002","개인실 내장은 내벽, 바닥, 천장 조명 등
-3종류의 '내장 건축자재'로 구성되어 있습니다."
-27,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_004_003","내장 건축자재를 소지한 상태로 소유한 개인실에서
-'하우징' 메뉴로 들어가 '내장재 변경'을 선택하면
-내장을 변경할 수 있습니다."
-28,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_004_004","설치한 내장 건축자재는
-다른 내장 건축자재로 덮어쓰면 소지품으로 돌아갑니다."
-29,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_006_005_001","개인실 안에는 '가구'를 설치할 수 있습니다.
-자신의 취향에 맞게 방을 꾸며보세요."
-30,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_005_002","가구를 소지하고 있는 상태로 소유한 개인실 내에서
-'하우징' 메뉴로 들어가 '가구 배치'를 선택하면
-가구를 배치할 수 있습니다."
-31,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_005_003","가구에는 탁자 위에 놓을 수 있는 것,
-벽에 걸 수 있는 것, 바닥에 깔 수 있는 것 등
-다양한 종류가 존재합니다."
-32,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_006_006_001","개인실 안의 '조명' 밝기를 조절해서
-쾌적한 환경을 만들어보십시오."
-33,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_006_002","'하우징' 메뉴에서 '실내 환경 설정'을 선택하면
-개인실 안의 밝기를 5단계로 조절할 수 있습니다."
-34,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_007_001","가구 아이템은
-개인실에 설치하는 순간 중고품으로 간주되어
-거래하거나 장터에 출품할 수 없습니다."
-35,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_007_002","또 가구 아이템 중에는
-한 번 설치하면 철거 시 소멸하는 것도 있습니다."
-36,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_007_003","이런 아이템을 설치하거나 철거할 때는
-경고 메시지가 표시되므로 주의해서 설치하십시오."
-37,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_006_008_001","아파트 내에 개인실을 구매하면
-입구 앞에 있는 '초코보 축사'를 이용할 수 있습니다!"
-38,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_008_002","초코보 축사를 이용한 '초코보 육성'에 관한 사항은
-개인실을 구매한 후 초코보 축사에서
-'설명 보기'를 통해 확인하세요."
-39,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_002_000","무엇을 하시겠습니까?"
-40,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_002_001","개인실 구매하기"
-41,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_002_002","아파트에 대해 물어보기"
-42,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_002_003","취소"
-43,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_003_000","아파트의 개인실을 구매하려면 구매 비용이 필요하며
-레벨 50 이상의 클래스가 있어야 합니다."
-44,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_003_001","또한, 소속된 총사령부 내 계급이 '소위' 이상이어야 합니다."
-45,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_004_000","죄송합니다.
-현재 이 아파트는
-모든 개인실이 판매 완료되었습니다."
-46,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_004_001","빈방이 생길 때까지 기다리거나,
-다른 아파트에 문의해주세요."
-47,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_005_000","신청해주셔서 감사합니다.
-바로 입주 수속을 시작하겠습니다."
-48,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_005_001","아파트의 개인실 구매 가격은
-500,000길입니다."
-49,"TEXT_HOUFIXMANSIONOFFICER_00363_ASK_005_002","500,000길을 지불하고
-아파트 개인실을 구매합니다.
-계속하시겠습니까?"
-50,"TEXT_HOUFIXMANSIONOFFICER_00363_ASK_005_003","예"
-51,"TEXT_HOUFIXMANSIONOFFICER_00363_ASK_005_004","아니요"
-52,"TEXT_HOUFIXMANSIONOFFICER_00363_KUGANE_NOT_OPENED_1","아파트 '홍매전'에 오신 것을 환영합니다!
-이곳은 현재 모험가 거주구로 개방하기 위하여
-준비하고 있습니다."
-53,"TEXT_HOUFIXMANSIONOFFICER_00363_KUGANE_NOT_OPENED_2","현재 '홍매전'은 선행 공개 기간입니다.
-주택 판매가 시작될 때까지 잠시만 기다려 주십시오."
-54,"TEXT_HOUFIXMANSIONOFFICER_00363_KUGANE_NOT_ARROWED_TO_BUY","아파트 '홍매전'의 개인실을 구매하려면
-주요 퀘스트 '대양으로 출정하다'를
-완료해야 합니다."
-55,"TEXT_HOUFIXMANSIONOFFICER_00363_ISHGARD_NOT_OPENED_1","'단란한 난롯가'에 오신 것을 환영합니다!
-이곳은 현재 모험가 거주구로 개방하기 위하여
-준비하고 있습니다."
-56,"TEXT_HOUFIXMANSIONOFFICER_00363_ISHGARD_NOT_OPENED_2","현재 '단란한 난롯가'는 선행 공개 기간입니다.
-주택 판매가 시작될 때까지 잠시만 기다려 주십시오."
-57,"TEXT_HOUFIXMANSIONOFFICER_00363_ISHGARD_NOT_ARROWED_TO_BUY","아파트 '단란한 난롯가'의 개인실을 구매하려면
-주요 퀘스트 '최후의 포효'를
-완료해야 합니다."
-58,"TEXT_HOUFIXMANSIONOFFICER_00363_TC_NOT_OPENED_1","アパルトメント「<Switch(IntegerParameter(1))><Case(1)>トップマスト</Case><Case(2)>リリーヒルズ</Case><Case(3)>ナナモ大風車</Case><Case(4)>紅梅御殿</Case><Case(5)>イングルサイド</Case></Switch>」へようこそ！
-こちらでは現在、冒険者のみなさんに開放するため、
-準備を進めているところです。"
-59,"TEXT_HOUFIXMANSIONOFFICER_00363_TC_NOT_OPENED_2","現在、「<Switch(IntegerParameter(1))><Case(1)>トップマスト</Case><Case(2)>リリーヒルズ</Case><Case(3)>ナナモ大風車</Case><Case(4)>紅梅御殿</Case><Case(5)>イングルサイド</Case></Switch>」は先行公開期間中となります。
-部屋の販売開始まで、今しばらくお待ちください。"
+0,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_000_000","歡迎來到<hex:020949E802FF0A>中桅塔<hex:FF0A>百合嶺<hex:FF13>娜娜莫大風車<hex:FF0D>紅梅御殿<hex:FF0D>皓天爐舍<hex:03>公寓！<hex:02100103>在這個窗口可以購買房間或聽取說明。"
+1,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_001_000","詢問有關公寓的事情"
+2,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_001_001","取消"
+3,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_000","想了解什麼？"
+4,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_001","可以在公寓做的事"
+5,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_002","購買房間"
+6,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_003","拆除房間"
+7,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_004","更改內部裝潢配件"
+8,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_005","在房間內佈置傢俱"
+9,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_006","關於亮度調節功能"
+10,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_007","什麼是傢俱及庭具的交易屬性？"
+11,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_008","關於陸行鳥廄"
+12,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_009","取消"
+13,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_006_001_001","公寓是在各冒險者住宅區為冒險者準備的個人居住設施。"
+14,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_006_001_002","購買公寓內的房間後，<hex:02100103>即可將其作為自己的私人空間使用。<hex:02100103>盡情用傢俱或壁紙裝飾自己的房間吧。"
+15,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_001_003","在房間中也可自由設定盆栽、管弦樂琴、<hex:02100103>傳喚鈴、美容師傳喚鈴、收藏櫃、僱傭人員等便利的機能。"
+16,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_001_004","還可以使用配備的陸行鳥廄<hex:02100103>培養陸行鳥、改變陸行鳥羽毛的顏色等。<hex:02100103>同時可以幫忙照顧其他居民的陸行鳥。"
+17,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_001_005","使用傳送功能可以直接移動到自己擁有房間的公寓，<hex:02100103>請多加利用。"
+18,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_002_001","想要購買公寓的房間，必須將任意職業升至50級，<hex:02100103>同時交付500,000Gil。"
+19,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_002_002","此外，所屬黑渦團的情況下，軍銜需在「少甲士」以上，<hex:02100103>所屬雙蛇黨的情況下，軍銜需在「少牙士」以上，<hex:02100103>所屬不滅隊的情況下，軍銜需在「少鬥士」以上。"
+20,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_002_003","若想購買公寓「紅梅御殿」的房間，<hex:02100103>需要先完成主線任務「乘風破浪」。"
+21,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_002_004","若想購買公寓「皓天爐舍」的房間，<hex:02100103>需要先完成主線任務「絕命怒嚎」。"
+22,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_006_003_001","在拆除房間前，<hex:02100103>需要先撤除房間內的所有傢俱。"
+23,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_003_002","在撤除完所有傢俱後，<hex:02100103>打開「房屋」選單選擇「拆除房間」，<hex:02100103>即可將房間拆除。"
+24,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_003_003","另外，在拆除房間時，<hex:02100103>不會返還購買房間時的費用，敬請注意。"
+25,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_006_004_001","你可以自行對房間內的牆壁和地板等進行調整。"
+26,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_004_002","房間的內部裝潢由3種室內建材構成，<hex:02100103>分別是內牆、地板、屋頂照明。"
+27,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_004_003","在持有室內建材的狀態下，<hex:02100103>在購入的房間內打開「房屋」選單，<hex:02100103>選擇「更改內部裝潢配件」，即可對內部裝潢進行變更。"
+28,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_004_004","安裝上的室內建材可在安裝新室內建材時替換回背包。"
+29,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_006_005_001","你可以在房間內佈置「傢俱」。<hex:02100103>根據自己的喜好試著裝飾自己的房間吧。"
+30,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_005_002","在持有傢俱的狀態下，<hex:02100103>在購入的房間內打開「房屋」選單，<hex:02100103>選擇「佈置傢俱」，即可對傢俱進行佈置。"
+31,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_005_003","傢俱中有可以裝飾在桌上的物品，<hex:02100103>也有壁掛、地毯等可以隨意佈置的物品。"
+32,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_006_006_001","你可以調節房屋內的照明亮度，打造舒適的環境！"
+33,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_006_002","在「房屋」選單中選擇「調整照明」即可調節亮度。<hex:02100103>照明亮度可以進行5個等級的調節。"
+34,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_007_001","傢俱一經佈置後，<hex:02100103>便無法再進行交易或拿到市場上出售。"
+35,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_007_002","另外，有一部分傢俱一經佈置後，<hex:02100103>在撤除時會被廢棄。"
+36,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_007_003","在佈置、撤除這些物品時會有警示語出現，<hex:02100103>請多加留意。"
+37,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_006_008_001","購買公寓內的房間後，<hex:02100103>即可使用入口前的陸行鳥廄！"
+38,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_008_002","關於在陸行鳥廄飼養陸行鳥的相關內容，<hex:02100103>可以在購入房間後點擊陸行鳥廄，<hex:02100103>選擇「查看說明」進行確認。"
+39,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_002_000","要做什麼？"
+40,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_002_001","購買房間"
+41,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_002_002","詢問有關公寓的事情"
+42,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_002_003","取消"
+43,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_003_000","若想購買公寓的房間，必須有足夠的Gil繳納費用，<hex:02100103>還要將任意職業升至50級。"
+44,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_003_001","此外，所屬黑渦團的情況下，軍銜需在「少甲士」以上，<hex:02100103>所屬雙蛇黨的情況下，軍銜需在「少牙士」以上，<hex:02100103>所屬不滅隊的情況下，軍銜需在「少鬥士」以上。"
+45,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_004_000","非常抱歉。<hex:02100103>現在此處公寓的房間已經全部售出。"
+46,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_004_001","您可以等待騰出空房，<hex:02100103>或前往其他公寓諮詢。"
+47,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_005_000","非常感謝您的光臨！<hex:02100103>我們這就開始辦理購買手續吧。"
+48,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_005_001","公寓房間的購買價格為500,000Gil。"
+49,"TEXT_HOUFIXMANSIONOFFICER_00363_ASK_005_002","確定要用500,000Gil購買公寓的房間嗎？"
+50,"TEXT_HOUFIXMANSIONOFFICER_00363_ASK_005_003","是"
+51,"TEXT_HOUFIXMANSIONOFFICER_00363_ASK_005_004","否"
+52,"TEXT_HOUFIXMANSIONOFFICER_00363_KUGANE_NOT_OPENED_1","歡迎來到「紅梅御殿」公寓！<hex:02100103>為了能在不久的將來將公寓開放給廣大冒險者們居住，<hex:02100103>現在我們正在努力準備中。"
+53,"TEXT_HOUFIXMANSIONOFFICER_00363_KUGANE_NOT_OPENED_2","紅梅御殿現還處於售前展示狀態。<hex:02100103>在土地正式對外銷售前，請您耐心等待。"
+54,"TEXT_HOUFIXMANSIONOFFICER_00363_KUGANE_NOT_ARROWED_TO_BUY","若想購買公寓「紅梅御殿」的房間，<hex:02100103>需要先完成主線任務「乘風破浪」。"
+55,"TEXT_HOUFIXMANSIONOFFICER_00363_ISHGARD_NOT_OPENED_1","歡迎來到皓天爐舍！<hex:02100103>為了正式向廣大冒險者開放，<hex:02100103>現在這裡正緊鑼密鼓地進行著準備工作。"
+56,"TEXT_HOUFIXMANSIONOFFICER_00363_ISHGARD_NOT_OPENED_2","皓天爐舍現還處於售前展示狀態。<hex:02100103>在土地正式對外銷售前，請您耐心等待。"
+57,"TEXT_HOUFIXMANSIONOFFICER_00363_ISHGARD_NOT_ARROWED_TO_BUY","若想購買公寓「皓天爐舍」的房間，<hex:02100103>需要先完成主線任務「絕命怒嚎」。"
+58,"TEXT_HOUFIXMANSIONOFFICER_00363_TC_NOT_OPENED_1","歡迎來到公寓「<hex:020949E802FF0A>中桅塔<hex:FF0A>百合嶺<hex:FF13>娜娜莫大風車<hex:FF0D>紅梅御殿<hex:FF0D>皓天爐舍<hex:03>」<hex:02100103>目前正在進行準備作業，以便日後開放給各位冒險者們。"
+59,"TEXT_HOUFIXMANSIONOFFICER_00363_TC_NOT_OPENED_2","現在「<hex:020949E802FF0A>中桅塔<hex:FF0A>百合嶺<hex:FF13>娜娜莫大風車<hex:FF0D>紅梅御殿<hex:FF0D>皓天爐舍<hex:03>」處於先行公開期間。<hex:02100103>在房間開始販售前，請再稍待片刻。"

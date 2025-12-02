@@ -1,5 +1,6 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
 0,"TEXT_STMBDY403_02612_SEQ_00",""
 1,"TEXT_STMBDY403_02612_SEQ_01",""
@@ -49,20 +50,9 @@ int32,str,str
 45,"TEXT_STMBDY403_02612_TODO_21",""
 46,"TEXT_STMBDY403_02612_TODO_22",""
 47,"TEXT_STMBDY403_02612_TODO_23",""
-48,"TEXT_STMBDY403_02612_RODNEY_000_000","모험가님, 전송망 재설정이 완료되었습니다!
-이미 선발대가 프로토 에테라이트 근처에
-거점도 구축해 놨습니다."
-49,"TEXT_STMBDY403_02612_RODNEY_100_000","조사대에서는 이 거점이 존재하는 일대를
-'피로스 지대'라고 부르기로 했습니다.
-깊이 들어갈수록 불속성의 힘이 강해진답니다."
-50,"TEXT_STMBDY403_02612_RODNEY_000_001","준비를 마치시면 피로스 지대에 있는 거점으로 가셔서
-먼저 가 있는 쿠루루 씨와 합류하십시오!"
-51,"TEXT_STMBDY403_02612_SYSTEM_000_010","'<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>'에 이어, 1인부터
-대규모 파티(8인)까지 도전할 수 있는 탐색형 임무,
-'<Sheet(ContentFinderCondition,IntegerParameter(2),43)/>'에 도전할 수 있게 되었습니다."
-52,"TEXT_STMBDY403_02612_SYSTEM_000_011","'로드니'에게 말을 걸어서
-'<Sheet(ContentFinderCondition,IntegerParameter(2),43)/>'<13>FF2002281CFF17436F6E74656E7446696E646572436F6E646974696F6EE8032C03FF04EBA5BCFF04EC9D84</13> 선택하면
-탐색을 시작할 수 있습니다."
-53,"TEXT_STMBDY403_02612_SYSTEM_000_012","또한 '<Sheet(ContentFinderCondition,IntegerParameter(2),43)/>'에서는
-아이템 레벨 조율이 설정되어 있어 장비의 성능은
-'아이템 레벨: <Sheet(ContentFinderCondition,IntegerParameter(1),20)/>'이하로 조정됩니다."
+48,"TEXT_STMBDY403_02612_RODNEY_000_000","冒險者！傳送網終於重新設定完成了！<hex:02100103>先出發的人員已經在原型乙太之光附近建立起了據點。"
+49,"TEXT_STMBDY403_02612_RODNEY_100_000","調查隊決定將據點所在的這一區域命名為「湧火地帶」。<hex:02100103>這個區域越往深處火屬性之力就會變得越強。"
+50,"TEXT_STMBDY403_02612_RODNEY_000_001","你要是準備好了，就前往湧火地帶的據點，<hex:02100103>與先出發的可露兒小姐會合吧！"
+51,"TEXT_STMBDY403_02612_SYSTEM_000_010","和「<hex:02281CFF17>ContentFinderCondition<hex:E8022C03>」相同，<hex:02100103>從單人最多到滿編小隊（8人），<hex:02100103>可以以任意人數挑戰「<hex:02281CFF17>ContentFinderCondition<hex:E8032C03>」了。"
+52,"TEXT_STMBDY403_02612_SYSTEM_000_011","和羅德尼對話，<hex:02100103>選擇「<hex:02281CFF17>ContentFinderCondition<hex:E8032C03>」就可開始進行探索。"
+53,"TEXT_STMBDY403_02612_SYSTEM_000_012","另外「<hex:02281CFF17>ContentFinderCondition<hex:E8032C03>」設有品級同步限制，<hex:02100103>所有裝備的效能將被調整到「<hex:02281CFF17>ContentFinderCondition<hex:E8021503>級」之下。"

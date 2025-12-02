@@ -1,5 +1,6 @@
 ﻿key,0,1,2,3,4,5
 #,Item,ModelID,Icon,SE,,
+offset,0,8,4,11,11,10
 int32,Item,uint16,Image,bit&01,bit&02,byte
 0,0,0,0,False,False,0
 1,4785,2,66501,False,False,0
@@ -105,6 +106,3 @@ int32,Item,uint16,Image,bit&01,bit&02,byte
 101,40687,122,66502,False,True,20
 102,41161,117,66502,False,True,21
 103,43963,123,66502,False,True,22
-104,44833,124,66502,False,True,23
-105,47951,125,66502,False,True,24
-106,46804,126,66502,False,True,25

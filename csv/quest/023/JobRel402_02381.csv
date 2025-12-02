@@ -1,16 +1,11 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_JOBREL402_02381_SEQ_00","이딜샤이어에 있는 앤젤릿은 모험가가 말을 걸어주길 기다리고 있는 듯하다."
-1,"TEXT_JOBREL402_02381_SEQ_01","모험가가 <Sheet(EventItem,2002020,0)/><13>FF15022811FF0A4576656E744974656DF61E8C640103FF04EBA5BCFF04EC9D84</13> 들고 지금까지 겪어온 전투를 회상하면 생성되는 <Sheet(EventItem,2002021,0)/><13>FF15022811FF0A4576656E744974656DF61E8C650103FF04EBA5BCFF04EC9D84</13> 가지고 오면 앤젤릿은 <Sheet(Item,16064,0)/><13>FF0F02280BFF054974656DF23EC00103FF04EC9980FF04EAB3BC</13> 교환해준다고 한다. <Sheet(EventItem,2002020,0)/><13>FF15022811FF0A4576656E744974656DF61E8C640103FF04EBA5BCFF04EC9D84</13> 소지한 상태로 '무작위 임무: 상급 레벨링'을 완료하여 <Sheet(EventItem,2002021,0)/><13>FF15022811FF0A4576656E744974656DF61E8C650103FF04EBA5BCFF04EC9D84</13> 손에 넣자.
-
-※ 이 퀘스트를 받은 상태로 '무작위 임무: 상급 레벨링'을 완료하면 <Sheet(EventItem,2002021,0)/><13>FF15022811FF0A4576656E744974656DF61E8C650103FF04EBA5BCFF04EC9D84</13> 얻을 수 있습니다."
-2,"TEXT_JOBREL402_02381_SEQ_02","<Sheet(EventItem,2002021,0)/><13>FF15022811FF0A4576656E744974656DF61E8C650103FF04EBA5BCFF04EC9D84</13> 손에 넣었다. 이딜샤이어에 있는 '앤젤릿'에게 <Sheet(EventItem,2002021,0)/><13>FF15022811FF0A4576656E744974656DF61E8C650103FF04EBA5BCFF04EC9D84</13> 건네자."
-3,"TEXT_JOBREL402_02381_SEQ_03","앤젤릿에게 <Sheet(EventItem,2002021,0)/><13>FF15022811FF0A4576656E744974656DF61E8C650103FF04EBA5BCFF04EC9D84</13> 건네고 <Sheet(Item,16064,0)/><13>FF0F02280BFF054974656DF23EC00103FF04EBA5BCFF04EC9D84</13> 손에 넣었다. 그녀는 그림자천으로 원한을 푸는 저주 인형을 만들 것이라고 한다. 기회가 있으면 또 그녀의 부탁을 들어주자.
-
-※ 이 퀘스트는 반복해서 공략하실 수 있습니다. 매일 1회만 완료 가능하며, 퀘스트를 완료한 날에는 다시 퀘스트를 받으실 수 없습니다. 퀘스트를 받은 채로 자정이 지나면, 완료한 시점을 기준으로 다음 날 이후 다시 퀘스트를 받을 수 있습니다.
-
-※ 현실 시간으로 매일 <ResetTime>01</ResetTime><If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시 이후에 퀘스트를 다시 받으실 수 있습니다. 초기화 시점까지 기다려주시기 바랍니다."
+0,"TEXT_JOBREL402_02381_SEQ_00","田園郡的安格萊特好像在等待冒險者向她搭話。"
+1,"TEXT_JOBREL402_02381_SEQ_01","安格萊特希望用<hex:02280BFF05>Item<hex:F23EC00103>交換<hex:022811FF0A>EventItem<hex:F61E8C650103>。冒險者帶著<hex:022811FF0A>EventItem<hex:F61E8C640103>回憶自己經歷過的慘烈戰鬥，即可令<hex:022811FF0A>EventItem<hex:F61E8C650103>誕生。攜帶<hex:022811FF0A>EventItem<hex:F61E8C640103>完成「隨機任務：拾級迷宮」，獲取<hex:022811FF0A>EventItem<hex:F61E8C650103>。<hex:02100103><hex:02100103>※只有在接受任務的狀態下完成「隨機任務：拾級迷宮」，才能獲得<hex:022811FF0A>EventItem<hex:F61E8C650103>。"
+2,"TEXT_JOBREL402_02381_SEQ_02","獲得了<hex:022811FF0A>EventItem<hex:F61E8C650103>。將<hex:022811FF0A>EventItem<hex:F61E8C650103>交給田園郡的安格萊特。"
+3,"TEXT_JOBREL402_02381_SEQ_03","將<hex:022811FF0A>EventItem<hex:F61E8C650103>交給了安格萊特，獲得了<hex:02280BFF05>Item<hex:F23EC00103>。她是要使用靈布製作幫人宣洩怨恨的詛咒人偶。下次有機會時，可以再次接受她的委託。<hex:02100103><hex:02100103>※本任務可重複進行。本任務每天最多可完成1次。完成後，當天無法再次接受。如接受任務後拖延到第二天完成，則會消耗掉完成當天的任務受理限額。<hex:02100103><hex:02100103>※每天<hex:0206020103><hex:020821DBFF1D><hex:020919DB02030405060708090A0B0C0D0E0F10111213141516171803><hex:0103>點（地球時間）之後可以再次進行挑戰。請在重置前耐心等待。"
 4,"TEXT_JOBREL402_02381_SEQ_04",""
 5,"TEXT_JOBREL402_02381_SEQ_05",""
 6,"TEXT_JOBREL402_02381_SEQ_06",""
@@ -31,9 +26,8 @@ int32,str,str
 21,"TEXT_JOBREL402_02381_SEQ_21",""
 22,"TEXT_JOBREL402_02381_SEQ_22",""
 23,"TEXT_JOBREL402_02381_SEQ_23",""
-24,"TEXT_JOBREL402_02381_TODO_00","무작위 임무: 상급 레벨링을
-완료하고 <Sheet(EventItem,2002021,0)/> 입수"
-25,"TEXT_JOBREL402_02381_TODO_01","이딜샤이어에서 앤젤릿에게 <Sheet(EventItem,2002021,0)/> 전달"
+24,"TEXT_JOBREL402_02381_TODO_00","完成隨機任務：拾級迷宮<hex:02100103>獲取<hex:022811FF0A>EventItem<hex:F61E8C650103>"
+25,"TEXT_JOBREL402_02381_TODO_01","將<hex:022811FF0A>EventItem<hex:F61E8C650103>交給田園郡的安格萊特"
 26,"TEXT_JOBREL402_02381_TODO_02",""
 27,"TEXT_JOBREL402_02381_TODO_03",""
 28,"TEXT_JOBREL402_02381_TODO_04",""
@@ -56,45 +50,20 @@ int32,str,str
 45,"TEXT_JOBREL402_02381_TODO_21",""
 46,"TEXT_JOBREL402_02381_TODO_22",""
 47,"TEXT_JOBREL402_02381_TODO_23",""
-48,"TEXT_JOBREL402_02381_ANGELET_000_001","……<Sheet(Item,16064,0)/><13>FF0F02280BFF054974656DF23EC00103FF04EAB080FF04EC9DB4</13> 필요하면
-날 도와줄래?"
-49,"TEXT_JOBREL402_02381_ANGELET_000_002","………………고마워.
-수많은 적과 어려움을 극복한 모험가님.
-내 부탁은 당신이 아니면 들어줄 수 없어."
-50,"TEXT_JOBREL402_02381_ANGELET_000_003","내가 짠 <Sheet(EventItem,2002020,0)/><13>FF15022811FF0A4576656E744974656DF61E8C640103FF04EBA5BCFF04EC9D84</13> 들고
-지금까지 겪은 전투를 회상해줬으면 해.
-그러면 <Sheet(EventItem,2002021,0)/><13>FF15022811FF0A4576656E744974656DF61E8C650103FF04EAB080FF04EC9DB4</13> 완성돼……."
-51,"TEXT_JOBREL402_02381_ANGELET_000_004","하지만 아무 전투나 떠올리면 안 돼…….
-비교적 새롭고 격렬한 전투의 기억이어야만 해.
-그렇지 않으면 의미가 없으니까 조심해줘."
-52,"TEXT_JOBREL402_02381_SYSTEM_000_000","무작위 임무: 상급 레벨링을 완료하면
-'<Sheet(EventItem,2002021,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8C650103FF04EBA5BCFF04EC9D84</13> 얻을 수 있습니다."
-53,"TEXT_JOBREL402_02381_ANGELET_000_010","앗……. 또 와줬구나…….
-<Sheet(Item,16064,0)/><13>FF0F02280BFF054974656DF23EC00103FF04EBA5BCFF04EC9D84</13> 얻기 위해서라지만,
-날 도와주겠다니 정말 기뻐."
-54,"TEXT_JOBREL402_02381_ANGELET_000_011","당장 <Sheet(EventItem,2002020,0)/><13>FF15022811FF0A4576656E744974656DF61E8C640103FF04EBA5BCFF04EC9D84</13> 들고
-지금까지 겪은 전투를 회상해줬으면 해."
-55,"TEXT_JOBREL402_02381_ANGELET_000_012","슬픈 원한을 잔뜩 스며들게 해줘.
-그 강한 마음이…… 내 인형에 원한을 푸는 힘을 줄 테니까."
-56,"TEXT_JOBREL402_02381_ANGELET_000_020","자, 그림자천을 들고 전투의 기억을 강하게 떠올려봐…….
-그럼 <Sheet(EventItem,2002021,0)/><13>FF15022811FF0A4576656E744974656DF61E8C650103FF04EAB080FF04EC9DB4</13> 완성돼……."
-57,"TEXT_JOBREL402_02381_SYSTEM_000_010","무작위 임무: 상급 레벨링을 완료하면
-'<Sheet(EventItem,2002021,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8C650103FF04EBA5BCFF04EC9D84</13> 얻을 수 있습니다."
-58,"TEXT_JOBREL402_02381_ANGELET_000_040","어서 와, 기다렸어…….
-<Sheet(EventItem,2002021,0)/><13>FF15022811FF0A4576656E744974656DF61E8C650103FF04EBA5BCFF04EC9D84</13> 내게 줄래……?"
-59,"TEXT_JOBREL402_02381_ANGELET_000_041","왜 <Sheet(EventItem,2002021,0)/><13>FF15022811FF0A4576656E744974656DF61E8C650103FF04EBA5BCFF04EC9D84</13> 주지 않는 거야……?
-다들 내게 도와달라고 하면서
-정작 내 부탁은 아무도 들어주지 않아……."
-60,"TEXT_JOBREL402_02381_ANGELET_000_042","고마워…….
-……모험가님이라면 분명 들어줄 거라고 믿고 있었어."
-61,"TEXT_JOBREL402_02381_ANGELET_000_043","……굉장해.
-당신을 감싸고 있는 패배자들의 원한이
-내 <Sheet(EventItem,2002020,0)/>에 완전히 스며들었어."
-62,"TEXT_JOBREL402_02381_ANGELET_000_044","난 말이야……, 이 <Sheet(EventItem,2002020,0)/><14>FF15022811FF0A4576656E744974656DF61E8C640103FF04EBA19CFF07EC9CBCEBA19C</14> 인형을 만들 거야.
-…………원한을 풀기 위해,
-원념의 힘을 잔뜩 머금은 인형을……."
-63,"TEXT_JOBREL402_02381_ANGELET_000_045","……그건 그렇고 정말 굉장해.
-모험가님은 대체 어떤 자들에게 패배를 맛보여준 거야?
-……이토록 오싹한 원한은…… 처음 봐."
-64,"TEXT_JOBREL402_02381_ANGELET_000_046","약속한 대로 <Sheet(Item,16064,0)/><13>FF0F02280BFF054974656DF23EC00103FF04EBA5BCFF04EC9D84</13> 줄게.
-……다음에 또 날 도와줘."
+48,"TEXT_JOBREL402_02381_ANGELET_000_001","以<hex:02280BFF05>Item<hex:F23EC00103>作為報酬的話……<hex:02100103>你就願意幫助我嗎？"
+49,"TEXT_JOBREL402_02381_ANGELET_000_002","謝謝……<hex:02100103>這件事只有擊倒了眾多勁敵、<hex:02100103>克服了重重險阻的冒險者大人才能幫得上忙……"
+50,"TEXT_JOBREL402_02381_ANGELET_000_003","我想請你拿著我織的<hex:022811FF0A>EventItem<hex:F61E8C640103>，回想自己至今經歷過的戰鬥。<hex:02100103>這樣一來，<hex:022811FF0A>EventItem<hex:F61E8C650103>就得以完成了……"
+51,"TEXT_JOBREL402_02381_ANGELET_000_004","要注意的是，並不是隨便什麼戰鬥都可以……<hex:02100103>必須是激烈的戰鬥才行……<hex:02100103>不這樣做的話，是沒有效果的。"
+52,"TEXT_JOBREL402_02381_SYSTEM_000_000","完成「隨機任務：拾級迷宮」後，<hex:02100103>可以得到「<hex:022811FF0A>EventItem<hex:F61E8C650103>」。"
+53,"TEXT_JOBREL402_02381_ANGELET_000_010","啊，你又來了……<hex:02100103>雖說是為了<hex:02280BFF05>Item<hex:F23EC00103>，<hex:02100103>但你願意幫我，我還是很開心……"
+54,"TEXT_JOBREL402_02381_ANGELET_000_011","請帶上<hex:022811FF0A>EventItem<hex:F61E8C640103>，去經歷各種戰鬥吧。"
+55,"TEXT_JOBREL402_02381_ANGELET_000_012","一定要讓它浸滿悲哀的怨念……<hex:02100103>因為這種強烈的思念，<hex:02100103>能讓我的人偶具備幫人宣洩心底怨恨的力量……"
+56,"TEXT_JOBREL402_02381_ANGELET_000_020","好了，快帶著靈布去經歷戰鬥吧……<hex:02100103>這樣一來，<hex:022811FF0A>EventItem<hex:F61E8C650103>就得以完成了……"
+57,"TEXT_JOBREL402_02381_SYSTEM_000_010","完成「隨機任務：拾級迷宮」後，<hex:02100103>可以得到「<hex:022811FF0A>EventItem<hex:F61E8C650103>」。"
+58,"TEXT_JOBREL402_02381_ANGELET_000_040","歡迎回來……<hex:02100103>要給我<hex:022811FF0A>EventItem<hex:F61E8C650103>嗎？"
+59,"TEXT_JOBREL402_02381_ANGELET_000_041","為什麼不把<hex:022811FF0A>EventItem<hex:F61E8C650103>給我？<hex:02100103>大家需要幫助都來找我，但卻沒有人願意幫幫我嗎……"
+60,"TEXT_JOBREL402_02381_ANGELET_000_042","謝謝……<hex:02100103>我就知道冒險者大人一定能完成我的囑託。"
+61,"TEXT_JOBREL402_02381_ANGELET_000_043","好棒……<hex:02100103>戰鬥中纏繞在你身上的痛苦、怨念，以及絕望，<hex:02100103>完全侵染了我的靈布。"
+62,"TEXT_JOBREL402_02381_ANGELET_000_044","其實，我是要用這種<hex:022811FF0A>EventItem<hex:F61E8C650103>製作人偶。<hex:02100103>就是那種滿載著怨念的，幫人宣洩心底怨恨的詛咒人偶……"
+63,"TEXT_JOBREL402_02381_ANGELET_000_045","話說回來，冒險者大人真的好厲害……<hex:02100103>我從未見過如此強烈的怨念……<hex:02100103>究竟擊敗過多少對手，才能變成這樣……"
+64,"TEXT_JOBREL402_02381_ANGELET_000_046","這是說好的<hex:02280BFF05>Item<hex:F23EC00103>，要記得再來幫我喲……<hex:02100103>如果人偶你也想要的話，安格萊特可以專門為你縫一個……<hex:02100103>啊……冒險者大人這麼厲害，想必用不到這種東西才是……"

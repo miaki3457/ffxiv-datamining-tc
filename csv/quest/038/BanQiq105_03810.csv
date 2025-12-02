@@ -1,10 +1,8 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_BANQIQ105_03810_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
-
-호파루의 소반에 있는 코테루리 파소리는 똬리가지 마을에서 부탁하고 싶은 일이 있는 듯하다."
+0,"TEXT_BANQIQ105_03810_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整（限定職業）<hex:0249020103><hex:0248020103><hex:02100103>※本任務需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>霍啪櫨古盤的柯呫盧利·帕嗦利，想要請冒險者幫忙在蛇行枝做些事。"
 1,"TEXT_BANQIQ105_03810_SEQ_01",""
 2,"TEXT_BANQIQ105_03810_SEQ_02",""
 3,"TEXT_BANQIQ105_03810_SEQ_03",""
@@ -28,9 +26,9 @@ int32,str,str
 21,"TEXT_BANQIQ105_03810_SEQ_21",""
 22,"TEXT_BANQIQ105_03810_SEQ_22",""
 23,"TEXT_BANQIQ105_03810_SEQ_23",""
-24,"TEXT_BANQIQ105_03810_TODO_00","똬리가지 마을의 <Sheet(EObj,2010994,0)/>에 <Sheet(EventItem,2002977,0)/> 사용"
-25,"TEXT_BANQIQ105_03810_TODO_01","에르사벨과 대화"
-26,"TEXT_BANQIQ105_03810_TODO_02","코테루리 파소리에게 <Sheet(EventItem,2002989,0)/> 전달"
+24,"TEXT_BANQIQ105_03810_TODO_00","在蛇行枝的<hex:02280CFF05>EObj<hex:F61EAF720103>使用<hex:022811FF0A>EventItem<hex:F61E90210103>"
+25,"TEXT_BANQIQ105_03810_TODO_01","和艾爾莎貝爾對話"
+26,"TEXT_BANQIQ105_03810_TODO_02","將<hex:022811FF0A>EventItem<hex:F61E902D0103>交給柯呫盧利·帕嗦利"
 27,"TEXT_BANQIQ105_03810_TODO_03",""
 28,"TEXT_BANQIQ105_03810_TODO_04",""
 29,"TEXT_BANQIQ105_03810_TODO_05",""
@@ -52,32 +50,14 @@ int32,str,str
 45,"TEXT_BANQIQ105_03810_TODO_21",""
 46,"TEXT_BANQIQ105_03810_TODO_22",""
 47,"TEXT_BANQIQ105_03810_TODO_23",""
-48,"TEXT_BANQIQ105_03810_QHOTERLPASOL_000_000","감사하게도 발란 님의 소개로
-똬리가지 마을이라는 인간의 마을과
-인연을 맺을 수 있게 되었사와요~!"
-49,"TEXT_BANQIQ105_03810_QHOTERLPASOL_000_001","그 과정에서 저희 키타리족의 전통인 '<Sheet(EventItem,2002977,0)/>'<13>FF15022811FF0A4576656E744974656DF61E90210103FF04EBA5BCFF04EC9D84</13>
-전해드렸더니, 굉장히 기뻐하시더라고요~."
-50,"TEXT_BANQIQ105_03810_QHOTERLPASOL_000_002","그래서 정기적으로 비료를 밭에 뿌리는 대신에
-그 밭에서 수확할 수 있는 신선한 야채를 받기로
-계약을 맺었답니다~!"
-51,"TEXT_BANQIQ105_03810_QHOTERLPASOL_000_003","그러하니 <Highlight>ObjectParameter(1)</Highlight> 님께서
-두 군데에 이 비료를 뿌려 주셨으면 해요~.
-끝나면 '에르사벨' 님께 보고해 주시어요~."
-52,"TEXT_BANQIQ105_03810_ERSABEL_000_010","……키타리족의 심부름으로 밭에 비료를 뿌렸어?
-어머나, 당신이 그걸 해줬구나!
-정말 고마워."
-53,"TEXT_BANQIQ105_03810_ERSABEL_000_011","<Sheet(EventItem,2002977,0)/><13>FF15022811FF0A4576656E744974656DF61E90210103FF04EB8A94FF04EC9D80</13> 효과가 좋더라고.
-야채의 싱싱함이 완전 다르다니까?"
-54,"TEXT_BANQIQ105_03810_ERSABEL_000_012","자, 여기 답례로 '<Sheet(EventItem,2002989,0)/>'<13>FF15022811FF0A4576656E744974656DF61E902D0103FF04EBA5BCFF04EC9D84</13> 가져가도록 해.
-방금 수확한 거라 신선할 거야.
-어서 '코테루리 파소리' 씨한테 가져가."
-55,"TEXT_BANQIQ105_03810_ERSABEL_000_020","비료를 뿌려줘서 고마워.
-어서 '<Sheet(EventItem,2002989,0)/>'<13>FF15022811FF0A4576656E744974656DF61E902D0103FF04EBA5BCFF04EC9D84</13>
-'코테루리 파소리' 씨한테 가져가도록 해."
-56,"TEXT_BANQIQ105_03810_QHOTERLPASOL_000_030","어서 오시어요~.
-'<Sheet(EventItem,2002989,0)/>'<13>FF15022811FF0A4576656E744974656DF61E902D0103FF04EB8A94FF04EC9D80</13> 받아오셨어요~?"
-57,"TEXT_BANQIQ105_03810_QHOTERLPASOL_000_031","어머나, 정말 멋져요~.
-굉장히 신선하고 땅의 힘이 넘치는 걸 보니
-마치 달란 신의 은총 같사와요~!"
-58,"TEXT_BANQIQ105_03810_QHOTERLPASOL_000_032","이 야채는 다 같이 맛있게 먹겠어요~.
-남편과 동료들의 기뻐하는 얼굴이 눈에 선하네요~!"
+48,"TEXT_BANQIQ105_03810_QHOTERLPASOL_000_000","多虧瓦蘭閣下的介紹，<hex:02100103>使得某等與蛇行枝的人類部落<hex:02100103>開始有了往來是也。"
+49,"TEXT_BANQIQ105_03810_QHOTERLPASOL_000_001","在此期間，某等將一族傳統的<hex:022811FF0A>EventItem<hex:F61E90210103>送給過對方，<hex:02100103>他們看起來非常高興是也。"
+50,"TEXT_BANQIQ105_03810_QHOTERLPASOL_000_002","此後某等相互之間就簽訂了協議，<hex:02100103>會定期將肥料施在他們的田地裡，<hex:02100103>然後他們會把田裡收的新鮮蔬菜送給某等是也。"
+51,"TEXT_BANQIQ105_03810_QHOTERLPASOL_000_003","某想請<hex:022903EB0203>閣下將肥料施在2處田地，<hex:02100103>施完肥後就去找艾爾莎貝爾閣下是也。"
+52,"TEXT_BANQIQ105_03810_ERSABEL_000_010","你是幫奇塔利族施肥料的人？<hex:02100103>哎呀，居然是你來幫忙，謝謝你。"
+53,"TEXT_BANQIQ105_03810_ERSABEL_000_011","<hex:022811FF0A>EventItem<hex:F61E90210103>真的非常管用，<hex:02100103>蔬菜比以前更加水靈好吃了呢。"
+54,"TEXT_BANQIQ105_03810_ERSABEL_000_012","來，這是回禮的<hex:022811FF0A>EventItem<hex:F61E902D0103>，<hex:02100103>剛剛摘下來的新鮮蔬菜，<hex:02100103>快拿去給柯呫盧利·帕嗦利吧。"
+55,"TEXT_BANQIQ105_03810_ERSABEL_000_020","謝謝你幫忙施肥，<hex:02100103>快把<hex:022811FF0A>EventItem<hex:F61E902D0103>拿去給柯呫盧利·帕嗦利吧。"
+56,"TEXT_BANQIQ105_03810_QHOTERLPASOL_000_030","歡迎回來，拿到<hex:022811FF0A>EventItem<hex:F61E902D0103>了嗎？"
+57,"TEXT_BANQIQ105_03810_QHOTERLPASOL_000_031","哇，這蔬菜真棒，<hex:02100103>非常新鮮，看起來營養十足，<hex:02100103>就好像是達藍神的恩惠是也。"
+58,"TEXT_BANQIQ105_03810_QHOTERLPASOL_000_032","這些蔬菜某就拿來給大家一起吃吧，<hex:02100103>現在就能想像丈夫開心的笑容了是也！"

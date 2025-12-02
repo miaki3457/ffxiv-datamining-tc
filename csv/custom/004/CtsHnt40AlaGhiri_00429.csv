@@ -1,58 +1,29 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_000","알라기리가 해방되었다는 소식을 듣고
-이 근방에 있는 마물을 사냥하러 왔어."
-1,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_001","알라기리가 해방되었다는 소식을 듣고
-이 근방에 있는 마물을 사냥하러 왔어.
-괜찮은 사냥감에 대해 좀 가르쳐줄까?"
-2,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_Q1_000_000","무엇을 물어보시겠습니까?"
-3,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_A1_000_001","B급: 수컷을 잡아먹는 악독한 여인 '독사의 종복'"
-4,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_A1_000_002","B급: 물고기를 잡아먹는 거한 '부카부'"
-5,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_A1_000_003","A급: 푸른 털을 가진 그리핀 '보크스타인'"
-6,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_A1_000_004","A급: 화염의 자식 '아크라부아멜루'"
-7,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_A1_000_005","S급: 마지막 폭군 '해골거미'"
-8,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_A1_000_006","취소"
-9,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_010","콩가마토라는 벌레는
-수컷보다 암컷이 몸집도 크고 힘도 세."
-10,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_011","교미가 끝나면 그 자리에서 암컷이 수컷을 잡아먹는
-포악한 성질을 가지고 있지.
-같은 남자로서는 수컷이 참 가엽더라……."
-11,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_012","아무튼 이 '독사의 종복'이라는 놈은
-악독한 여인이라고 불릴 정도로 무시무시한 콩가마토 암컷인데
-수컷을 몇 마리나 잡아먹었는지 덩치가 어마어마해."
-12,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_020","산악지대의 강에서 물고기를 잡는 어부들은
-자연에 감사하는 뜻으로 낚은 물고기 중 한 마리를 두고 간대."
-13,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_021","'부카부'는 원래 덩치가 워낙 작아서
-일족에게 따돌림을 당했던 모양인데
-어부들이 남기고 간 고기를 먹고 끈질기게 살아남았지……."
-14,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_022","그런데 언제부터인가 어부를 습격해서 물고기를 빼앗고
-심지어 사람까지 잡아먹는 괴물로 성장했어.
-정말 무섭지 않아?"
-15,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_030","기라바니아에서는 예부터 그리핀을 사육했는데
-'보크스타인'이라는 이름에는 특별한 의미가 있어.
-그게 명문 마수조련사의 가문 이름이거든……."
-16,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_031","보크스타인 가에서 기른 그리핀은
-알라미고의 왕후 귀족들에게도 사랑받았지.
-하지만 제국이 침공하면서 상황이 급변했어."
-17,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_032","제국군에게 그리핀을 빼앗기지 않으려고
-보크스타인 가의 당주가 축사의 문을 열어 버린 거야.
-그래서 그 사나운 포식자는 하늘로 풀려난 거지."
-18,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_040","제국군의 보급부대를 습격하는 존재가 있다고 하면
-다들 알라미고 해방군을 의심하겠지.
-하지만 실상은 달라……."
-19,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_041","'아크라부아멜루'라는 거대한 용암 전갈이
-여러 차례 보급부대를 습격하고 있어.
-마도 병기의 연료인 청린수를 노리고 말이야."
-20,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_042","청린수를 빼앗을 때마다 아크라부아멜루가 뿜는 화염은
-더욱 뜨거워져서, 추격하는 제국군 부대까지 불살라 버리지.
-놈은 그렇게 또 청린수를 차지하는 거야."
-21,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_050","한때 동방교역이 번성했을 때는 교역로를 지키기 위해
-수많은 용병을 고용해서 마물 사냥을 했었대.
-그러다가 멸종한 마물도 있을 정도였지."
-22,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_051","그런데 멸종한 줄 알았던 커다란 갑린강 마물이
-몇십 년 만에 나타나서 행상인을 공격한 거야."
-23,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_052","행상인에게 초코보를 빌려준 사람 말로는
-뼈 한 조각도 남아 있지 않았대…….
-그 사건 이후로 '해골거미'라는 별명이 생겼어."
+0,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_000","我聽說阿拉基利解放了，<hex:02100103>就趕到了這裡，想要狩獵這附近的怪物。"
+1,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_001","我聽說阿拉基利解放了，<hex:02100103>就趕到了這裡，想要狩獵這附近的怪物。<hex:02100103>我可以給你介紹介紹比較受關注的獵物。"
+2,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_Q1_000_000","想了解什麼？"
+3,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_A1_000_001","關於B級怪物：食夫毒婦——蛇仆螞蜓"
+4,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_A1_000_002","關於B級怪物：食魚巨漢——布卡卜"
+5,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_A1_000_003","關於A級怪物：藍毛獅鷲——弗克施泰因"
+6,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_A1_000_004","關於A級怪物：火炎驕子——熔骨炎蠍"
+7,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_A1_000_005","關於S級怪物：最後的暴君——爬骨怪龍"
+8,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_A1_000_006","取消"
+9,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_010","百蟲綱魔物恐甲螞蜓的雌性要比雄性體格強壯，<hex:02100103>而且更有力氣。"
+10,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_011","雌性恐甲螞蜓生性十分殘暴，<hex:02100103>甚至會在和雄性交尾後直接吃掉對方。<hex:02100103>我作為男人，不禁都要同情起雄性了……"
+11,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_012","有些堪稱毒婦的雌性恐甲螞蜓<hex:02100103>在吞噬多個雄性後身形會大得驚人，<hex:02100103>被當地人稱作蛇仆螞蜓。"
+12,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_020","據說在山區的河流捕魚的漁民們，<hex:02100103>會從捕到的魚中拿出一條扔掉，以表對大自然的感激。"
+13,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_021","而這個布卡卜因為個頭特別小，被一族排擠。<hex:02100103>但是它靠著吃漁師扔掉的魚，頑強地活了下來……"
+14,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_022","不知從什麼時候起，它開始襲擊漁師，<hex:02100103>掠奪他們的魚，甚至成長為了一個吃人的怪物。<hex:02100103>你不覺得這故事相當可怕嗎？"
+15,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_030","基拉巴尼亞自古就開始飼養獅鷲，<hex:02100103>而「弗克施泰因」這個名字有特殊的含義。<hex:02100103>那是一個操縱魔獸的名門世家的姓……"
+16,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_031","連阿拉米格的王公貴族們都十分喜愛弗克施泰因家飼養的獅鷲。<hex:02100103>但是，遭到帝國侵略後，情況就發生了翻天覆地的轉變。"
+17,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_032","因為不想讓獅鷲被帝國軍奪去，<hex:02100103>弗克施泰因家的家主就將牲畜棚的大門打開，<hex:02100103>讓這些凶猛的捕食者重返了藍天。"
+18,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_040","說到帝國軍補給部隊的襲擊者，<hex:02100103>一般會想到阿拉米格解放軍，<hex:02100103>但似乎也有例外。"
+19,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_041","有一種叫做「熔骨炎蠍」的巨大熔岩蠍<hex:02100103>幾次三番襲擊了帝國軍的補給部隊。<hex:02100103>它的目標就是魔導兵器的燃料——青磷水。"
+20,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_042","每當熔骨炎蠍奪取青磷水後，吐出的火焰熱量都會增加，<hex:02100103>甚至連追擊它的帝國軍部隊都束手無策。<hex:02100103>它不斷地重複著奪取青磷水的行為，威脅程度日益增加。"
+21,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_050","曾經，在東方貿易繁盛的時期，<hex:02100103>人們為了守護街道的安寧，僱傭了許多傭兵來狩獵魔物。<hex:02100103>甚至有物種因此遭到滅絕。"
+22,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_051","但是，原本已經滅絕的甲鱗綱大型魔物<hex:02100103>竟然時隔幾十年再次出現，並襲擊了旅行商人。"
+23,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_052","據租借陸行鳥的人說，<hex:02100103>那個旅行商人屍骨無存……<hex:02100103>自那之後，人們都稱那個魔物為「爬骨怪龍」。"
 24,"TEXT_CTSHNT40ALAGHIRI_00429_TALK_ACTOR","（★未使用／削除予定★）"

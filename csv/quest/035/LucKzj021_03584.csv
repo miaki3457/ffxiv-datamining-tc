@@ -1,8 +1,8 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_LUCKZJ021_03584_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-온도 바다웅덩이에 있는 나크쉬 콜은 안목이 좋은 사람을 찾고 있는 듯하다."
+0,"TEXT_LUCKZJ021_03584_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整<hex:0249020103><hex:0248020103><hex:02100103>鰭人潮池的納庫嘶·涳爾好像正在尋找識貨的人。"
 1,"TEXT_LUCKZJ021_03584_SEQ_01",""
 2,"TEXT_LUCKZJ021_03584_SEQ_02",""
 3,"TEXT_LUCKZJ021_03584_SEQ_03",""
@@ -26,8 +26,8 @@ int32,str,str
 21,"TEXT_LUCKZJ021_03584_SEQ_21",""
 22,"TEXT_LUCKZJ021_03584_SEQ_22",""
 23,"TEXT_LUCKZJ021_03584_SEQ_23",""
-24,"TEXT_LUCKZJ021_03584_TODO_00","<Sheet(EventItem,2002839,0)/> 입수"
-25,"TEXT_LUCKZJ021_03584_TODO_01","나크쉬 콜에게 <Sheet(EventItem,2002839,0)/> 전달"
+24,"TEXT_LUCKZJ021_03584_TODO_00","獲得<hex:022811FF0A>EventItem<hex:F61E8F970103>"
+25,"TEXT_LUCKZJ021_03584_TODO_01","將<hex:022811FF0A>EventItem<hex:F61E8F970103>交給納庫嘶·涳爾"
 26,"TEXT_LUCKZJ021_03584_TODO_02",""
 27,"TEXT_LUCKZJ021_03584_TODO_03",""
 28,"TEXT_LUCKZJ021_03584_TODO_04",""
@@ -50,25 +50,12 @@ int32,str,str
 45,"TEXT_LUCKZJ021_03584_TODO_21",""
 46,"TEXT_LUCKZJ021_03584_TODO_22",""
 47,"TEXT_LUCKZJ021_03584_TODO_23",""
-48,"TEXT_LUCKZJ021_03584_NAKSHSKOAL_000_000","우, 와……! 인간, 이다……!
-잘못, 했어요, 먹지, 마세요……!"
-49,"TEXT_LUCKZJ021_03584_NAKSHSKOAL_000_001","아…… 죄, 죄송해요…….
-나, 인간이랑, 처음 얘기해서…….
-인간, 생각보다, 안 무섭네요……?"
-50,"TEXT_LUCKZJ021_03584_NAKSHSKOAL_000_002","저기, 혹시 인간이 좋아하는 거, 가르쳐주실래요?
-인간과 교역, 다음에는 나도 가라고, 그러는데,
-뭐 갖고 싶은지, 몰라서요……."
-51,"TEXT_LUCKZJ021_03584_NAKSHSKOAL_000_003","온도 바다웅덩이 주변, 떠내려온 인간 물건, 떨어져있어요.
-당신이 봤을 때 '<Sheet(EventItem,2002839,0)/>', 4개쯤, 가져와, 주세요……!"
-52,"TEXT_LUCKZJ021_03584_NAKSHSKOAL_000_010","온도 바다웅덩이 주변, 떠내려온 인간 물건, 떨어져있어요.
-당신이 봤을 때 '<Sheet(EventItem,2002839,0)/>', 4개쯤, 가져와, 주세요……!"
-53,"TEXT_LUCKZJ021_03584_NAKSHSKOAL_000_020","와, 와……!
-'<Sheet(EventItem,2002839,0)/>', 벌써 모았어요……!?"
-54,"TEXT_LUCKZJ021_03584_NAKSHSKOAL_000_021","흠, 흠…….
-이게, 인간에게, 가치 있는 물건이구나.
-짤랑짤랑, 단단한 거, 많네요……."
-55,"TEXT_LUCKZJ021_03584_NAKSHSKOAL_000_022","고마워요, 무척 참고, 됐어요……!
-이제 인간과의 교역, 마음 놓고, 갈 수 있어요.
-당신 덕분!"
-56,"TEXT_LUCKZJ021_03584_NAKSHSKOAL_000_023","고마움의 표시로, 당신도, 조금, 가져가세요.
-이거, 당신한테도, 가치 있는 침몰품 맞죠?"
+48,"TEXT_LUCKZJ021_03584_NAKSHSKOAL_000_000","嗚、哇！是，人類！<hex:02100103>不好，意思，不要，吃我！"
+49,"TEXT_LUCKZJ021_03584_NAKSHSKOAL_000_001","啊……對、對不起……<hex:02100103>我，第一次，跟人類說話……<hex:02100103>人類，沒有想像的，那麼可怕啊……"
+50,"TEXT_LUCKZJ021_03584_NAKSHSKOAL_000_002","你，可以跟我，講講人類，都喜歡什麼東西嗎？<hex:02100103>聽說，下次要換我，跟人類進行交易了，<hex:02100103>但我不知道，人類想要什麼……"
+51,"TEXT_LUCKZJ021_03584_NAKSHSKOAL_000_003","鰭人潮池附近，有順水漂來的，人類的遺失物。<hex:02100103>你用人類的眼光，從那裡面，<hex:02100103>拿4個<hex:022811FF0A>EventItem<hex:F61E8F970103>來，給我看看吧！"
+52,"TEXT_LUCKZJ021_03584_NAKSHSKOAL_000_010","鰭人潮池附近，有順水漂來的，人類的遺失物。<hex:02100103>你用人類的眼光，從那裡面，<hex:02100103>拿4個<hex:022811FF0A>EventItem<hex:F61E8F970103>來，給我看看吧！"
+53,"TEXT_LUCKZJ021_03584_NAKSHSKOAL_000_020","哇，哇！<hex:02100103>你已經，拿到，<hex:022811FF0A>EventItem<hex:F61E8F970103>了嗎？！"
+54,"TEXT_LUCKZJ021_03584_NAKSHSKOAL_000_021","嗯，嗯……<hex:02100103>這就是，對人類來說，有價值的東西啊。<hex:02100103>有好多，嘩啦嘩啦，凹凸不平的東西……"
+55,"TEXT_LUCKZJ021_03584_NAKSHSKOAL_000_022","謝謝你，告訴我這些，很有參考意義！<hex:02100103>這樣，我就能，放心去，跟人類交易了。<hex:02100103>多虧了，你的幫助！"
+56,"TEXT_LUCKZJ021_03584_NAKSHSKOAL_000_023","讓我，給你一點，謝禮吧。<hex:02100103>這個，對你來說，算是有價值的東西吧？"

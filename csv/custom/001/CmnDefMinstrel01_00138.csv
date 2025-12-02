@@ -1,87 +1,40 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_100_000","황야에서 악의 무리가 꿈틀대는 것이 느껴져.
-놈들을 막아낼 자는 이방에서 온 떠돌이들…… 그리고, 너야.
-이번 사건에는 나도 직접 나서야겠어."
-1,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_100_001","……하지만 지금 이 시간만은 노래에 취해볼까 해.
-그래, 널 위한 노래에……."
-2,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_000","""달빛이 환하다 해도 반드시 새벽은 온다
- 그래도 혼돈의 땅에서 신은 사납게 날뛰리라"""
-3,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_001","""신을 사냥하는 빛의 검, 신을 정벌하는 어둠의 검
- 오직 한 자루만을 손에 쥐게 되리라"""
-4,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_002","시라는 건 참 아름다워.
-소리 내어 읊으면 아득한 옛사람들의 마음을 느낄 수 있어.
-까마득한 훗날, 미래 사람들도 그렇게 우리를 느끼겠지……."
-5,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_100_010","후후, 나도 현인들을 본받아서
-시를 한번 지어볼까?
-물론 네가 어둠의 검과 벌였던 전투를 소재로 말야."
-6,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_100_011","자, 그럼 들어봐.
-다른 사람도 아닌…… 바로 네 이야기를!"
-7,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_100_012","""동방의 늑대가 어둠 속에서 이빨을 드러내니
- 그에 맞서 귀인은 용기의 서광을 높이 드네……"""
-8,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_100_013","""동방의 늑대가 어둠 속에서 이빨을 드러내니
- 그에 맞서 나그네는 용기의 서광을 높이 드네……"""
-9,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_010","5년 전…… 제7재해가 일어나기 전이었어.
-머나먼 이국땅에서 에오르제아에 발을 들인 나는……"
-10,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_011","온몸을 바쳐 재해에 맞서는 모험가들의 모습을
-두 눈에 똑똑히 새기게 되었지."
-11,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_020","바로…… 너희 빛의 전사들의 용감한 모습을 말이야.
-나는 너희의 공을 결코 잊지 않을 거야."
-12,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_021","……내 생각은 이래.
-내가 이 시대에, 이 에오르제아에 있는 건
-너희가 이룩한 일에 대해 보답하기 위한 거라고."
-13,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_022","너희 이야기를 시로 만들어서 세상에 널리 알리고,
-동시에 후세의 에오르제아에도 남기기 위해
-이렇게 너희 활약상을 듣고 있는 거지."
-14,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_030","""여섯째 해가 저물고 일곱째 달이 빛나면
- 구름에서 불비가 내리고 나락의 어둠이 깨어나리라"""
-15,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_031","""그러나 잿더미 위에 새로운 씨앗이 뿌려졌으니
- 악을 물리칠 용기의 검으로 그대 빛을 밝히리라"""
-16,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_032","……제6성력 말기에 발견된
-예언시 '메자야의 예언' 제7절 중 일부야."
-17,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_033","이건 제7재해 때…… 빛의 전사들이 나타난 것과
-그들이 맞선 고난을 묘사한 것으로 추측되고 있어."
-18,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_034","하지만 실제로 제7재해를 겪으며 예언이 실현되는 걸 보면서
-나는 계속 마음에 걸리는 부분이 있었지……."
-19,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_035","""일곱째 달이 지고 일곱째 해 떠오를 때
- 하늘의 섭리가 흐트러지고 땅에 묻힌 주검이 일어나리라"""
-20,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_036","""그러나 별의 바다에서 귀인이, 타향에서 나그네가 당도하리니
- 과거를 보는 그대 미래를 열어가리라"""
-21,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_037","이건 아까 들려줬던 예언시의 뒷부분이야.
-여기서 언급된 '나그네'가 과연 누구인지,
-그리고 그 나그네가 에오르제아를 어디로 이끌어갈지……."
-22,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_038","내가 마음에 걸리던 게 바로 이 부분인데
-당시에는 나뿐만 아니라 세 도시 사람들도 무슨 뜻인지 몰랐고
-현인들조차 명확한 답을 내놓지 못했어."
-23,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_039","하지만 이제는 알 것 같아.
-나그네란 눈앞에 닥친 어려움을 모두 극복하고
-에오르제아를 미래로 이끄는 너희를 말하는 거야."
-24,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_040","내가 이렇게 너희 이야기를 듣는 건, 너희 활약이
-세상에 널리 알려지고 후세에 길이 남도록 하기 위해서야."
-25,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_041","나는 그것이 지금 이 시대를 살아가는
-빛의 전사인 너희에게 바치는
-최고의 찬사이자 감사가 될 거라고 믿어."
-26,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_050","""눈부신 빛줄기가 새벽을 고하지만
- 해가 밝게 빛날수록 그림자도 깊어지네"
-27,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_051"," 어둠과 빛이 섞여 색을 잃은 검으로
- 흰 땅에 검은 그림자를 드리우리라"""
-28,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_052","일찍이 현인 루이수아가 남긴 말에 따르면
-강한 빛의 반대편에는 짙은 어둠이 도사리고 있다고 하지……."
-29,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_053","'색을 잃은 검'이 무엇을 말하는지 지금은 알 수 없지만……
-'흰 땅'…… 북쪽 커르다스 지방이 어수선하다고 들었어.
-너는 조만간 더욱 힘들고 괴로운 싸움에 뛰어들게 될 거야."
-30,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_054","네가 더 멋진 활약을 보여주고 돌아오길 기도하고 있을게.
-언젠가 다시 만나면 새로운 모험담을 들려줘."
-31,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_060","""파멸의 날개가 뚫은 구멍으로 빛을 높이 든 자가 나아가니
- 어두운 바닥에서 기다리던 것은 그 옛날 추락한 흉조로다……"""
-32,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_061","""은빛 날개가 꺾인 새는 금빛 날개를 달고 날아오르니
- 위대한 용사조차 무릎을 꿇고 절망의 나락으로 내몰리도다……"""
-33,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_062","……이 시 기억나?
-네가 이뤄낸 업적 '메테오의 그림자' 조사에 대해 노래한 거야."
-34,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_063","이 주점에서 여러 번 불렀는데, 그때마다 이렇게 용맹한 노래는
-처음 듣는다고 모험가들한테 아주 인기가 많아.
-네 이야기가 사람들 마음에 불을 지피고 있는 거지."
-35,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_064","……너무 과장되게 표현하지 않았냐고?
-하하하, 글쎄…… 아예 없는 말을 지어낸 건 아니잖아?
-나중에 네가 새로운 업적을 달성하면 또 나한테 들려줘."
+0,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_100_000","我感覺到荒野之上，有惡徒在躁動。<hex:02100103>與之對抗的，是異國的訪客們……另外，還有你。<hex:02100103>我也打算起身前往，面對此次災難。"
+1,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_100_001","……不過，此刻還是先演奏一曲，沉浸在音符之中吧。<hex:02100103>沒錯，為你而譜寫的樂曲……"
+2,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_000","「月明流散，拂曉驅暗。<hex:02100103>混沌之地眾神亂。」"
+3,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_001","「鎮神白刃，征神黑劍。<hex:02100103>擇一而握命運變。」"
+4,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_002","詩歌真是美妙啊。<hex:02100103>每當吟誦之時，都可以和遙遠過去的古人產生共鳴。<hex:02100103>而且在無法預見的未來的人們也會有同樣的感受吧……"
+5,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_100_010","呵呵，我也想模仿賢者詠唱詩文了。<hex:02100103>題材當然就是你和黑劍之間的戰鬥。"
+6,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_100_011","來，聽我歌頌你的故事吧！"
+7,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_100_012","「東有狼焉，出於幽冥，齜牙咧嘴何狂哉。<hex:02100103>星海奇人，擊而斃之，彰其勇力表光輝……」"
+8,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_100_013","「東有狼焉，出於幽冥，齜牙咧嘴何狂哉。<hex:02100103>異鄉稀客，擊而斃之，彰其勇力表光輝……」"
+9,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_010","5年前……也就是第七靈災發生前。<hex:02100103>我從異國來到艾奧傑亞。"
+10,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_011","之後，親眼目睹了對抗第七靈災的冒險者們的英姿。"
+11,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_020","沒錯……就是你們，光之戰士的英姿。<hex:02100103>我永遠都不會忘記你們的功績。"
+12,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_021","……我一直都在想。<hex:02100103>我現在留在艾奧傑亞，是為了報答你們所做的一切。"
+13,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_022","我會將你們的故事寫在詩歌裡，<hex:02100103>讓它們在艾奧傑亞這片大地上永久流傳。<hex:02100103>為此，我就是像這樣，聆聽著你們的活躍事蹟。"
+14,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_030","「六陽將沒，七月當輝，<hex:02100103>群雲之上，紅蓮烈焰飛降，奈落之下，幽冥黑暗湧現。」"
+15,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_031","「然十二之神，以古之灰燼，孕育嶄新之種，<hex:02100103>其為斬魔之利刃，驅獸之燈明，未來之汝是也。」"
+16,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_032","……這是在第六星曆末期發現的預言詩，<hex:02100103>«梅薩亞的預言»第七節的一部分。"
+17,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_033","這講述的是第七靈災的事情……<hex:02100103>被認為是重點描述光之戰士以及他們向困難抗爭的詩句。"
+18,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_034","而我親身經歷了第七靈災，見證了預言成真……<hex:02100103>不過，我當時很擔心。"
+19,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_035","「七月將散，七陽當升，<hex:02100103>蒼天之理紛亂，伏地之骸蠢動。」"
+20,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_036","「然星海之奇人，異鄉之稀客，繽紛而至，<hex:02100103>其為往日之觀者，明日之拓者，命運之汝是也。」"
+21,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_037","這是剛剛那首預言詩的後續。<hex:02100103>這裡提到的「稀客」是指誰呢？<hex:02100103>而這個人又將會引導艾奧傑亞走向何方……"
+22,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_038","我當時在意的正是這一點。<hex:02100103>但那個時候，不管是我還是3城邦的人民，<hex:02100103>甚至連賢人們，都對這個答案不得而知。"
+23,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_039","不過，現在我明白了。<hex:02100103>打破了籠罩在這片大地的災難，<hex:02100103>引導艾奧傑亞走向明天的你們……就是詩中所指的「稀客」。"
+24,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_040","為了讓你們的活躍事蹟在艾奧傑亞這片大地上永久流傳，<hex:02100103>我就像這樣聆聽著。"
+25,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_041","因為我相信，這才是我能為當今的光之戰士……<hex:02100103>為你們所獻上的最大讚詞和謝意。"
+26,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_050","「拂曉引路，陽光閃耀。<hex:02100103>光強之處黑暗至。」"
+27,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_051","「光暗交織，失色之劍。<hex:02100103>白銀之地黑影落。」"
+28,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_052","賢者路易索瓦留下的詩篇中提到，<hex:02100103>身披光明之人，也會吸引身伴黑暗之人前來。"
+29,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_053","「失色之劍」指的是什麼現在我還不清楚……<hex:02100103>「白銀之地」……聽聞最近北邊的庫爾札斯很亂。<hex:02100103>你恐怕就要投身於更加嚴酷的戰鬥之中了。"
+30,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_054","我會祈禱你平安，願你能有更加出色的表現。<hex:02100103>等我們再次相會時，你可要給我講講新的故事。"
+31,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_060","「光輝戰士勇向前，毀滅之翼亦等閒。<hex:02100103>幽冥之底戰火起，墮落凶鳥重展顏……」"
+32,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_061","「銀翼墮地金光閃，百戰勇者折於前……」"
+33,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_062","……你還記得這首詩歌嗎？<hex:02100103>這是歌頌你的功績，講述有關在隕石背陰地展開調查的詩歌。"
+34,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_063","雖然我在酒館演唱了好多遍，<hex:02100103>但大家依然覺得沒有比這更能振奮人心的詩歌了，<hex:02100103>冒險者們也都很喜歡。你的故事點亮了人們心中的火把。"
+35,"TEXT_CMNDEFMINSTREL01_00138_WANDERINGMINSTREL_000_064","……覺得更加誇張了嗎？<hex:02100103>哈哈哈，這該怎麼說呢……<hex:02100103>等你完成新的冒險之後，請務必再讓我把它譜寫成詩歌。"

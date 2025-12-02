@@ -1,5 +1,6 @@
 ﻿key,0,1
 #,,
+offset,0,1
 int32,byte,bit&01
 0,0,False
 1,0,False
@@ -42,6 +43,3 @@ int32,byte,bit&01
 38,2,False
 39,2,False
 40,2,False
-41,2,False
-42,2,False
-43,2,False

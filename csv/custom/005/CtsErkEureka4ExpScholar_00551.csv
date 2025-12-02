@@ -1,239 +1,104 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_000","모험가님, 히다토스 지대에 어서 오십시오!
-'쿠루루' 님이 기다리고 있으니까
-먼저 말을 걸어 보세요!"
-1,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_010","마침내 이 섬에 얽힌 모든 일에 마침표를 찍을 때가 왔군요!
-미력하나마 저도 도울 테니까
-함께 노력해 주십시오!"
-2,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_040","'쿠루루' 님은 발 강 원류에 있는
-중부 마력 교각으로 가고 있을 겁니다!
-모험가님도 그리로 가 주십시오!"
-3,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_050","진척 상황을 확인하고 싶으시군요!
-마력교 기저부 동쪽에 있는 '<Sheet(EObj,2009686,0)/>'에
-지맥 제어기를 설치해 주십시오!"
-4,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_060","지맥 제어기의 설치를 완료하신 모양이군요!
-그렇다면 중부 마력 교각으로 돌아가
-'쿠루루' 님과 합류해 주세요!"
-5,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_070","'쿠루루 님'은 지금 중부 마력 교각을 조정 중이라고 합니다!
-완료 후에 말을 걸어 주세요!"
-6,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_071","다음 이야기는 
-'엘리멘탈레벨'이 '54' 이상일 때
-진행할 수 있습니다."
-7,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_080","첫 번째 마력 교각은 수리하신 모양이군요!
-다음 목표인 서부 마력 교각으로 가 주세요!"
-8,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_090","발 강 서부 북쪽에서 '<Sheet(EObj,2009687,0)/><13>FF1002280CFF05454F626AF61EAA570103FF04EBA5BCFF04EC9D84</13>' 수색 중이라고
-쿠루루 님에게 연락 받았습니다ㅣ!
-힘내십시오!"
-9,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_100","지맥 제어기의 설치는 완료하신 모양이군요!
-그렇다면 서부 마력 교각으로 돌아가서
-'쿠루루' 님과 합류해 주세요!"
-10,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_110","'쿠루루 님'은 지금 서부 마력 교각을 조정 중이라고 합니다!
-시간이 좀 지난 후에 가 봐 주세요!"
-11,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_111","다음 이야기는 
-'엘리멘탈레벨'이 '57' 이상일 때
-진행할 수 있습니다."
-12,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_120","두 번째 마력 교각도 수리하신 모양이군요!
-마지막 하나 남은 동부 마력 교각으로 가 주세요!"
-13,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_130","발 강 동부 북쪽에서 <Sheet(EObj,2009688,0)/><13>FF1002280CFF05454F626AF61EAA580103FF04EBA5BCFF04EC9D84</13> 수색 중이라고
-쿠루루 님에게 연락 받았습니다!
-힘내십시오!"
-14,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_140","지맥 제어기의 설치는 끝난 모양이군요!
-그럼 동부 마력 교각에서
-'쿠루루' 님과 합류해 주십시오!"
-15,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_150","'쿠루루 님'은 지금 동부 마력 교각을 조정 중이라고 합니다!
-시간이 좀 지난 후에 가 봐 주세요!"
-16,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_151","다음 이야기는
-'엘리멘탈레벨'이 '60' 이상일 때
-진행할 수 있습니다."
-17,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_160","모험가님 덕분에 마력교가 다시 작동되었습니다!
-돌입 전에 마력교 기저부에서 '쿠루루' 님과 합류해 주세요!"
-18,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_170","남은 건 이 섬의 탐색을 마무리하는 것뿐이네요!
-본부탑 내부는 마력교 기저부를 통해 들어갈 수 있습니다.
-모험가님, 무운을 빕니다!"
-19,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_180","모험가님, 수고하셨습니다!
-쿠루루 님과 에지카 님이 기다리고 계시니
-말을 걸어 보십시오!"
-20,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_190","에우레카 탐색과 창조신의 봉인, 수고 많으셨습니다!
-실은 뛰어난 실력의 소유자이신 모험가님께
-말씀 드리고 싶은 게 있습니다!"
-21,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_191","에지카 츤지카 님이 제공해 주신 조사 자료에 따르면,
-본부탑 상층에는 창조신 에우레카가 만든 무기가 있다는군요!
-발데시온 위원회가 발견하여 회수한 것이라고 합니다."
-22,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_192","그 물건들이 일련의 소동 때문에
-활성화되었을 가능성이 있다고 합니다!"
-23,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_193","창조신 에우레카가 만든 무기는 사용자를 집어삼켜
-유사 야만신으로 만드는 매우 위험한 물건입니다!
-그래서 토벌대를 편성해 파견해야 한다고 생각하고 있습니다!"
-24,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_194","그 조사 자료에 따르면 본부탑 상층은
-봉인 장벽으로 닫혀 있지만, 특정 기후일 때 발생하는
-지맥의 뒤틀림을 이용하면 외부에서 순간이동이 가능하다는군요!"
-25,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_195","혹시 모험가님만 괜찮으시다면 상층부 탐색에 참가해
-창조신의 무기 파괴에 도움을 주지 않으시겠습니까?
-모쪼록 부탁드리겠습니다!"
-26,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_YESNOCHECK_000_000","'발데시온 무기고'는
-'금단의 땅 에우레카'를 섭렵한 모험가라 할지라도
-입장 조건을 달성하는 것이 쉽지 않은 던전입니다.
-
-또 입장한다 해도
-수차례의 전멸이 예상될 정도의
-고난이도 던전입니다.
-
-발데시온 무기고를 공략하려면,
-'동료와의 유대감' '굴하지 않는 마음' '많은 시간'
-'지혜' '용기' '힘' 그리고 '운'이 필요합니다.
-
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>어설픈 각오로는 공략을 할 수 없으니
-이 점, 양해해 주시기 바랍니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-
-"
-27,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_CHECKBOX_000_000","주의 사항을 확인하셨습니까?"
-28,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_YESNO_000_001","주의 사항을 확인한 후 '진정한 각오'를 다지고
-'발데시온 무기고'에 도전하시겠습니까?"
-29,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_050_197","<UIForeground>F201FC</UIForeground>'발데시온 무기고'를 개방하여 입장 가능한 상태가 되었습니다!<UIForeground>01</UIForeground>"
-30,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_051_197","<UIForeground>F201FC</UIForeground>입장 조건과 내부의 특수 규칙에 대해서는
-'조사대 연구원'에게 들을 수 있으므로
-들어가기 전에 반드시 확인한 후 공략 준비를 하십시오.<UIForeground>01</UIForeground>"
-31,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_200","모험가님, 저기 뭐랄까…… 수고 많으셨습니다.
-'쿠루루' 님이 기다리고 있으니
-말을 걸어 보십시오……."
-32,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_210","저, 저기…… 에우레카 탐색, 수고하셨습니다!
-실은 모험가님께 드릴 말씀이 있습니다!"
-33,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_211","에지카 츤지카 님이 제공해 주신 조사 자료에 따르면,
-본부탑 상층에는 창조신 에우레카가 만든 무기가 있다는군요!
-발데시온 위원회가 발견하여 회수한 것이라고 합니다."
-34,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_212","그 물건들이 일련의 소동 때문에
-활성화되었을 가능성이 있다고 합니다!"
-35,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_213","창조신 에우레카가 만든 무기는 사용자를 집어삼켜
-유사 야만신으로 만드는 매우 위험한 물건입니다!
-그래서 토벌대를 편성해 파견해야 한다고 생각하고 있습니다!"
-36,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_214","그 조사 자료에 따르면 본부탑 상층은
-봉인 장벽으로 닫혀 있지만, 특정 기후일 때 발생하는
-지맥의 뒤틀림을 이용하면 외부에서 순간이동이 가능하다는군요!"
-37,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_215","혹시 모험가님만 괜찮으시다면 상층부 탐색에 참가해
-창조신의 무기 파괴에 도움을 주지 않으시겠습니까?
-모쪼록 부탁드리겠습니다!"
-38,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_YESNOCHECK_000_001","'발데시온 무기고'는
-'금단의 땅 에우레카'를 섭렵한 모험가라 할지라도
-입장 조건을 달성하기 쉽지 않은 던전입니다.
-
-또 입장한다 해도
-수차례의 전멸이 예상될 정도의
-고난이도 던전입니다.
-
-발데시온 무기고를 공략하려면,
-'동료와의 유대감' '굴하지 않는 마음' '많은 시간'
-'지혜' '용기' '힘' 그리고 '운'이 필요합니다.
-
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>어설픈 각오로는 공략을 할 수 없으니
-이 점, 양해해 주시기 바랍니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-
-"
-39,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_CHECKBOX_000_001","주의 사항을 확인하셨습니까?"
-40,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_YESNO_000_003","주의 사항을 확인한 후 '진정한 각오'를 다지고
-'발데시온 무기고'에 도전하시겠습니까?"
-41,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_050_217","<UIForeground>F201FC</UIForeground>'발데시온 무기고'를 개방하여 입장 가능한 상태가 되었습니다!<UIForeground>01</UIForeground>"
-42,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_051_217","<UIForeground>F201FC</UIForeground>입장 조건과 내부의 특수 규칙에 대해서는
-'조사대 연구원'에게 들을 수 있으므로
-들어가기 전에 반드시 확인한 후 공략 준비를 하십시오.<UIForeground>01</UIForeground>"
-43,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_Q1_000_000","무엇을 하시겠습니까?"
-44,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_A1_000_000","<Sheet(Item,24907,0)/> 교환"
-45,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_A1_000_001","발데시온 무기고에 대해서 묻기"
-46,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_A1_000_002","취소"
-47,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_Q2_000_000","무엇을 물어보시겠습니까?"
-48,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_A2_000_001","발데시온 무기고에 대해서"
-49,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_A2_000_002","입장 방법에 대해서"
-50,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_A2_000_003","에테르 교점에 대해서"
-51,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_A2_000_004","난령류 기후에 대해서"
-52,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_A2_000_005","<Sheet(Item,24907,0)/>에 대해서"
-53,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_A2_000_006","부활에 대해서"
-54,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_A2_000_007","퇴장에 대해서"
-55,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_A2_000_008","뒤로"
-56,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_220","모험가님께 부탁드리고 싶은 건
-유사 야만신화된 '창조신의 무기'가 있는
-본부탑 내 '발데시온 무기고'의 탐색입니다."
-57,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_221","'발데시온 무기고'는
-특수한 방법으로만 입장할 수 있는 공개 던전을
-최대 56명이 함께 공략해 나가는 임무입니다."
-58,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_222","강력한 적과 함정이 기다리고 있으므로
-다른 플레이어와 파티를 맺고
-협력하여 공략하십시오."
-59,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_230","발데시온 무기고는 봉인 장벽으로 막혀 있습니다!
-따라서 특정 기후일 때 발생하는 지맥의 뒤틀림을 이용해
-외부에서 순간이동하는 방법 외에는 들어갈 방법이 없습니다!"
-60,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_231","'발데시온 무기고'에 입장하려면
-'<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>'에 출현하는
-'에테르 교점'을 이용할 필요가 있습니다."
-61,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_232","한편 '발데시온 무기고'에 입장하려면
-'엘리멘탈레벨'이 '60'이고
-특정 강화 효과가 부여된 상태이어야 합니다."
-62,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_240","지맥의 뒤틀림을 이용한 전송법은
-에지카 츤지카 님이 정리하신 자료를 확인해 주십시오!"
-63,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_241","'에테르 교점'에는 2종류의 상태가 존재합니다.
-파랗게 반짝이는 '불안정' 상태와
-빨갛게 반짝이는 '안정' 상태입니다."
-64,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_242","불안정한 '에테르 교점'을 이용할 수 있는 건
-'<Sheet(Item,24907,0)/>'<13>FF0F02280BFF054974656DF2614B0103FF04EBA5BCFF04EC9D84</13> 소지한 캐릭터뿐.
-더구나 한 번 이용하면 이 아이템은 사라지고 맙니다."
-65,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_243","한편, 안정된 '에테르 교점'은 누구든 이용할 수 있습니다만,
-불안정한 상태에서 출현한 후, 일정 시간이 지나야
-안정된 상태의 교점이 출현합니다."
-66,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_244","어떤 '에테르 교점'이든 한 명만 이용이 가능하며
-한 번 사용하면 소멸되고 맙니다.
-또 사용하지 않은 상태에서 일정 시간이 지나도 소멸됩니다."
-67,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_245","'에테르 교점'의 출현은 난령류 기후와 관련이 있습니다.
-플레이어끼리 정보를 교환하며 조건을 찾아보세요."
-68,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_250","현재 지맥의 뒤틀림이 언제 발생할지는
-일기예보사도 예측할 수 없는 상황입니다!
-언제든 입장할 수 있게 준비해 두시기 바랍니다!"
-69,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_251","'난령류 기후'는 돌발적으로 발생하며
-언제 발생할지는 '조사대 일기예보사'도 예측하지 못합니다."
-70,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_252","한편 '난령류 기후'일 때만 출현하는
-악명 높은 마물의 토벌 시, 일정한 활약을 펼치면
-특정 강화 효과가 부여됩니다."
-71,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_260","에지카 츤지카 님이 고안한 어떤 특수 장치가 있으면
-불안정한 '에테르 교점'을 안전하게 이용할 수 있습니다!
-재료나 촉매를 가져와 주시면 제가 제작해 드리겠습니다!"
-72,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_261","'<Sheet(Item,24907,0)/>'<13>FF0F02280BFF054974656DF2614B0103FF04EBA5BCFF04EC9D84</13> 소지하고 있으면
-불안정한 '에테르 교점'을 이용할 수 있습니다.
-단, 교점을 이용한 시점에 1개가 소비됩니다."
-73,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_270","발데시온 무기고 안에서는 봉인 장벽의 간섭으로
-일부 부활 마법이 효과를 발휘하지 못한다는군요!
-탐색은 신중히 하시길 부탁드립니다!"
-74,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_271","'발데시온 무기고' 내부에서는
-약화 효과 '부활 제한'이 부여되어
-일부 부활 효과가 발휘되지 않습니다."
-75,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_272","리미트 브레이크나
-특정 로고스 기술에 의한 부활 효과는
-'부활 제한' 상태에서도 평소처럼 효과를 발휘합니다."
-76,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_280","발데시온 무기고를 벗어나면
-또다시 지맥의 뒤틀림을 이용한 전송법으로 입장해야 합니다.
-퇴장하실 때는 그 점도 고려하시기 바랍니다!"
-77,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_281","'발데시온 무기고'에서 퇴장하면
-'에테르 교점'을 사용하는 방법을 제외하고
-다시 들어갈 수 있는 방법은 없습니다."
-78,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_282","한편, '발데시온 무기고' 내부에서
-'데존'을 사용한 경우
-'중앙점'으로 전송되므로 주의하십시오."
-79,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_020","（★未使用／削除予定★）"
-80,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_030","（★未使用／削除予定★）"
-81,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_271","（★未使用／削除予定★）"
-82,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_272","（★未使用／削除予定★）"
-83,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_281","（★未使用／削除予定★）"
-84,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_282","（★未使用／削除予定★）"
-85,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_TALK_ACTOR","（★未使用／削除予定★）"
-86,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_YESNO_000","（★未使用／削除予定★）"
-87,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_YESNO_001","（★未使用／削除予定★）"
-88,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_196","（★未使用／削除予定★）"
-89,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_100_196","（★未使用／削除予定★）"
-90,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_110_196","（★未使用／削除予定★）"
-91,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_197","（★未使用／削除予定★）"
-92,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_YESNO_000_000","（★未使用／削除予定★）"
-93,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_216","（★未使用／削除予定★）"
-94,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_100_216","（★未使用／削除予定★）"
-95,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_110_216","（★未使用／削除予定★）"
-96,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_217","（★未使用／削除予定★）"
-97,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_YESNO_000_002","（★未使用／削除予定★）"
-98,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_100_197","（★未使用／削除予定★）"
-99,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_100_217","（★未使用／削除予定★）"
+0,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_000","冒險者，歡迎來到豐水地帶！<hex:02100103>可露兒在等著你呢，<hex:02100103>請你去跟她打聲招呼吧！"
+1,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_010","終於可以為在這座島嶼上發生的一切做個了結了！<hex:02100103>我也會貢獻出微薄之力來支援大家！<hex:02100103>我們一起努力吧！"
+2,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_040","可露兒應該前往了瓦爾河源流區域那裡的中央魔力橋腳！<hex:02100103>請冒險者你也過去一趟吧！"
+3,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_050","你想確認一下進展情況啊！<hex:02100103>請你到魔力橋基東邊的<hex:02280CFF05>EObj<hex:F61EAA560103>那裡，<hex:02100103>設定地脈控制器！"
+4,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_060","看來你設定完地脈控制器了啊！<hex:02100103>那就請你返回中央魔力橋腳，<hex:02100103>與那裡的可露兒會合吧！"
+5,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_070","可露兒好像正在對中央魔力橋腳進行調整！<hex:02100103>等她完成調整以後，請你跟她打聲招呼！"
+6,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_071","想要推進下一階段的劇情，<hex:02100103>需要將元素等級提升到54級。"
+7,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_080","看來第一個魔力橋腳已經修理完成了啊！<hex:02100103>接下來請你前往西部魔力橋腳！"
+8,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_090","我接到了可露兒發來的聯絡，<hex:02100103>聽說你們正在瓦爾河西岸的北部搜尋<hex:02280CFF05>EObj<hex:F61EAA570103>！<hex:02100103>請你加油吧！"
+9,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_100","看來你設定好了地脈控制器啊！<hex:02100103>那就請你返回西部魔力橋腳，<hex:02100103>與那裡的可露兒會合吧！"
+10,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_110","可露兒好像正在對西部魔力橋腳進行調整！<hex:02100103>請你等一會之後過去看看吧！"
+11,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_111","想要推進下一階段的劇情，<hex:02100103>需要將元素等級提升到57級。"
+12,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_120","看來已經修好了第二個魔力橋腳！<hex:02100103>請你前往最後的東部魔力橋腳吧！"
+13,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_130","我接到了可露兒發來的聯絡，<hex:02100103>聽說你們正在瓦爾河東岸的北部搜尋<hex:02280CFF05>EObj<hex:F61EAA580103>！<hex:02100103>請你加油吧！"
+14,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_140","看來所有的地脈控制器都已經設定完成了啊！<hex:02100103>那就請你到東部魔力橋腳，<hex:02100103>與那裡的可露兒會合吧！"
+15,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_150","可露兒好像正在對東部魔力橋腳進行調整！<hex:02100103>請你等一會之後過去看看吧！"
+16,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_151","想要推進下一階段的劇情，<hex:02100103>需要將元素等級提升到60級。"
+17,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_160","多虧了冒險者，魔力橋重新啟動了！<hex:02100103>在攻入之前，請先和魔力橋基的可露兒會合！"
+18,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_170","之後就差為這座島嶼的探索畫上句號了！<hex:02100103>你可以透過魔力橋基攻入到總部塔的內部！<hex:02100103>冒險者，祝你旗開得勝！"
+19,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_180","冒險者，辛苦你了！<hex:02100103>可露兒和艾吉卡在等你呢，<hex:02100103>請你去跟他們打聲招呼吧！"
+20,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_190","優雷卡的探索任務以及創神的封印工作，真是辛苦你了！<hex:02100103>其實我有話想對你這位老練的冒險者說！"
+21,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_191","根據艾吉卡·岑吉卡提供的調查資料來看，<hex:02100103>在總部塔的上層安放著巴爾德西昂委員會<hex:02100103>發現並回收的創神優雷卡創造的武具！"
+22,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_192","這些武具受到了這一連串事件的影響，<hex:02100103>很可能開始變得活性化了！"
+23,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_193","創神優雷卡創造的武具能夠控制使用者，<hex:02100103>並將其變為虛擬的蠻神，是十分危險的東西！<hex:02100103>因此我認為應該組成討伐隊前往總部塔！"
+24,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_194","根據那份調查資料來看，總部塔的上層雖然被封印障壁所封鎖，<hex:02100103>但在特定的天氣時會發生地脈紊亂，<hex:02100103>因此利用地脈的紊亂就可以直接從外部進行傳送！"
+25,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_195","如果冒險者你願意的話，能不能參加上層的探索，<hex:02100103>協助我們破壞創神武具？<hex:02100103>請你務必好好考慮一下！"
+26,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_YESNOCHECK_000_000","「巴爾德西昂兵武塔」的進入條件非常苛刻，<hex:02100103>就算是對禁地優雷卡非常精熟的冒險者也很難滿足相應要求。<hex:02100103><hex:02100103>此外，兵武塔為高難度迷宮。<hex:02100103>即便成功進入，也很可能會在攻略途中經歷數次的團滅。<hex:02100103><hex:02100103>若想成功攻略兵武塔，<hex:02100103>需要「同伴之間的默契」、「堅持不懈的決心」、「大量的時間」，<hex:02100103>還要有「智慧」、「勇氣」、「實力」，以及「運氣」。<hex:02100103><hex:02100103><hex:024804F201F403><hex:024904F201F503>只憑著模棱兩可的覺悟是無法成功攻略的，<hex:02100103>還請冒險者瞭解。<hex:0249020103><hex:0248020103><hex:02100103><hex:02100103>"
+27,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_CHECKBOX_000_000","注意事項是否已確認完畢？"
+28,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_YESNO_000_001","確定已經確認完注意事項，<hex:02100103>並做好了真正的覺悟以挑戰兵武塔嗎？"
+29,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_050_197","<hex:024804F201FC03>開放了巴爾德西昂兵武塔，可以進行攻略了！<hex:0248020103>"
+30,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_051_197","<hex:024804F201FC03>關於兵武塔的突入條件以及其內部的特殊規則，<hex:02100103>可以從調查隊的研究員那裡了解詳情。<hex:02100103>請務必在突入前進行確認，以方便進行攻略的準備。<hex:0248020103>"
+31,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_200","冒險者，那個，該怎麼說呢……辛苦你了。<hex:02100103>可露兒在等你呢，<hex:02100103>請你找她說一聲吧……"
+32,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_210","那、那個……優雷卡的探索任務，辛苦你了！<hex:02100103>我其實有話想跟冒險者你說！"
+33,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_211","根據艾吉卡·岑吉卡遺留下來的調查資料來看，<hex:02100103>在總部塔的上層安放著巴爾德西昂委員會<hex:02100103>發現並回收的創神優雷卡創造的武具！"
+34,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_212","這些武具受到了這一連串事件的影響，<hex:02100103>很可能開始變得活性化了！"
+35,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_213","創神優雷卡創造的武具能夠控制使用者，<hex:02100103>並將其變為虛擬的蠻神，是十分危險的東西！<hex:02100103>因此我認為應該組成討伐隊前往總部塔！"
+36,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_214","根據那份調查資料來看，總部塔的上層雖然被封印障壁所封鎖，<hex:02100103>但在特定的天氣時會發生地脈紊亂，<hex:02100103>因此利用地脈的紊亂就可以直接從外部進行傳送！"
+37,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_215","如果冒險者你願意的話，能不能參加上層的探索，<hex:02100103>協助我們破壞創神武具？<hex:02100103>請你務必好好考慮一下！"
+38,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_YESNOCHECK_000_001","「巴爾德西昂兵武塔」的進入條件非常苛刻，<hex:02100103>就算是對禁地優雷卡非常精熟的冒險者也很難滿足相應要求。<hex:02100103><hex:02100103>此外，兵武塔為高難度迷宮。<hex:02100103>即便成功進入，也很可能會在攻略途中經歷數次的團滅。<hex:02100103><hex:02100103>若想成功攻略兵武塔，<hex:02100103>需要「同伴之間的默契」、「堅持不懈的決心」、「大量的時間」，<hex:02100103>還要有「智慧」、「勇氣」、「實力」，以及「運氣」。<hex:02100103><hex:02100103><hex:024804F201F403><hex:024904F201F503>只憑著模棱兩可的覺悟是無法成功攻略的，<hex:02100103>還請冒險者瞭解。<hex:0249020103><hex:0248020103><hex:02100103><hex:02100103>"
+39,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_CHECKBOX_000_001","注意事項是否已確認完畢？"
+40,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_YESNO_000_003","確定已經確認完注意事項，<hex:02100103>並做好了真正的覺悟以挑戰兵武塔嗎？"
+41,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_050_217","<hex:024804F201FC03>開放了巴爾德西昂兵武塔，可以進行攻略了！<hex:0248020103>"
+42,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_051_217","<hex:024804F201FC03>關於兵武塔的突入條件以及其內部的特殊規則，<hex:02100103>可以從調查隊的研究員那裡了解詳情。<hex:02100103>請務必在突入前進行確認，以方便進行攻略的準備。<hex:0248020103>"
+43,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_Q1_000_000","要做什麼？"
+44,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_A1_000_000","交換<hex:02280BFF05>Item<hex:F2614B0103>"
+45,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_A1_000_001","詢問有關兵武塔"
+46,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_A1_000_002","取消"
+47,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_Q2_000_000","想了解什麼？"
+48,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_A2_000_001","關於巴爾德西昂兵武塔"
+49,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_A2_000_002","關於進入"
+50,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_A2_000_003","關於乙太之節"
+51,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_A2_000_004","關於亂靈流天氣"
+52,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_A2_000_005","關於<hex:02280BFF05>Item<hex:F2614B0103>"
+53,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_A2_000_006","關於復活"
+54,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_A2_000_007","關於退出"
+55,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_A2_000_008","返回"
+56,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_220","我想拜託冒險者去探索總部塔內的武具庫「巴爾德西昂兵武塔」！<hex:02100103>其內部安放著已經化為虛擬蠻神的創神武具。"
+57,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_221","兵武塔是只有透過特殊的方法才能突入的開放性迷宮。<hex:02100103>最多可以56人同時進行攻略。"
+58,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_222","等待玩家的將是強大的敵人以及強力的陷阱，<hex:02100103>因此請與其他玩家組隊，<hex:02100103>互相協助進行攻略！"
+59,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_230","兵武塔被封印障壁所封鎖！<hex:02100103>除了利用特定的天氣時發生的地脈紊亂直接從外部傳送外，<hex:02100103>沒有其他辦法進入！"
+60,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_231","進入巴爾德西昂兵武塔<hex:02100103>需要利用出現在「<hex:02281CFF17>ContentFinderCondition<hex:E8022C03>」的乙太之節。"
+61,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_232","另外，突入兵武塔之前，<hex:02100103>需要將元素等級提升到60級，<hex:02100103>並且必須處於某種特定的狀態效果中。"
+62,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_240","關於利用地脈的紊亂進行傳送的方法，<hex:02100103>請參考艾吉卡·岑吉卡整理的資料！"
+63,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_241","乙太之節存在有2種狀態。<hex:02100103>發出藍色光芒的是不穩定狀態，<hex:02100103>發出紅色光芒的是穩定狀態。"
+64,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_242","只有持有<hex:02280BFF05>Item<hex:F2614B0103>的玩家<hex:02100103>能夠利用不穩定狀態下的乙太之節。<hex:02100103>並且<hex:02280BFF05>Item<hex:F2614B0103>在使用一次後會被消耗掉。"
+65,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_243","與此相反的是任何人都可以利用處於穩定狀態下的乙太之節，<hex:02100103>但是在不穩定狀態的乙太之節出現後，需要經過一段時間，<hex:02100103>才會出現穩定狀態的乙太之節。"
+66,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_244","不管是處於哪種狀態下的乙太之節，能夠利用的人數只限一人。<hex:02100103>乙太之節在利用一次後就會消失。<hex:02100103>另外如果一定時間內沒有任何人利用的話也會消失。"
+67,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_245","乙太之節的出現與亂靈流天氣關係密切。<hex:02100103>請和其他玩家互相交換資訊，努力尋找出現條件。"
+68,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_250","現在這種會引起地脈紊亂的天氣<hex:02100103>就連天氣預報員都無法預測！<hex:02100103>建議提前做好準備工作，方便時機來臨時進入！"
+69,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_251","亂靈流天氣會隨機發生，<hex:02100103>因此無法透過天氣預報員進行確認。"
+70,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_252","此外，在亂靈流天氣時會出現特定的危險標的怪物，<hex:02100103>在討伐危險標的怪物的過程中做出一定貢獻後，<hex:02100103>會被賦予特定的狀態效果。"
+71,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_260","有了艾吉卡·岑吉卡設計的那個特殊的裝置，<hex:02100103>就能在安全的情況下利用不穩定的乙太之節。<hex:02100103>只要你能拿來素材或是觸媒，我就能給你做出來！"
+72,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_261","只要持有<hex:02280BFF05>Item<hex:F2614B0103>，<hex:02100103>就能利用不穩定狀態下的乙太之節。<hex:02100103>但是在利用節點之後，會消耗1個<hex:02280BFF05>Item<hex:F2614B0103>。"
+73,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_270","在兵武塔內因為受到封印障壁的干涉，<hex:02100103>一部分的復活魔法無法發揮效果！<hex:02100103>請慎重進行探索！"
+74,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_271","在兵武塔內部，<hex:02100103>玩家會被賦予限制復活的狀態效果，<hex:02100103>因此一部分復活效果會變為無效。"
+75,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_272","不過極限爆發或是特定文理技能的復活效果，<hex:02100103>不受限制復活狀態的影響，可以正常發揮效果。"
+76,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_280","如果離開了巴爾德西昂兵武塔，<hex:02100103>則只能重新利用不穩定乙太之節傳送進入。<hex:02100103>所以選擇退出前，請先慎重考慮清楚！"
+77,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_281","從兵武塔退出後，<hex:02100103>除非利用乙太之節，<hex:02100103>否則無法再次突入。"
+78,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_282","另外，如果在兵武塔的內部<hex:02100103>使用了「返回」的話，<hex:02100103>將會被傳送到中點，還請注意。"
+79,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_020",""
+80,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_030",""
+81,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_271",""
+82,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_272",""
+83,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_281",""
+84,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_282",""
+85,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_TALK_ACTOR",""
+86,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_YESNO_000",""
+87,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_YESNO_001",""
+88,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_196",""
+89,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_100_196",""
+90,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_110_196",""
+91,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_197",""
+92,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_YESNO_000_000",""
+93,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_216",""
+94,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_100_216",""
+95,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_110_216",""
+96,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_217",""
+97,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_YESNO_000_002",""
+98,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_100_197",""
+99,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_100_217",""

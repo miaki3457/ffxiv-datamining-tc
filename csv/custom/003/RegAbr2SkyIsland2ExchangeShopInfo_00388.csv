@@ -1,34 +1,16 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGABR2SKYISLAND2EXCHANGESHOPINFO_00388_COINTI_000_000","우린 마물에게 죽은 동료의 유품을 찾고 있어.
-하지만 여긴 바람이 세서, 작은 유품은 쉽게 날아가 버리지.
-그래서 우린 동료들이 생전에 착용했던 장비에 주목했어."
-1,"TEXT_REGABR2SKYISLAND2EXCHANGESHOPINFO_00388_COINTI_000_001","'에테르 장비'라고 알지?
-주인이 죽을 때 흩어진 에테르가 장비에 깃든 거 말이야.
-이건 바람에 날아가지 않으니, 찾아낼 수 있을 거야."
-2,"TEXT_REGABR2SKYISLAND2EXCHANGESHOPINFO_00388_COINTI_000_002","다만 요즘은 장비에 환영을 덧씌우는
-'환상의 프리즘'을 사용하는 사람이 많단 말이지."
-3,"TEXT_REGABR2SKYISLAND2EXCHANGESHOPINFO_00388_COINTI_000_003","그래서 동료들이 남긴 '에테르 장비'도
-다양한 환영이 덧씌워진 상태로 발견될 거야. "
-4,"TEXT_REGABR2SKYISLAND2EXCHANGESHOPINFO_00388_COINTI_000_004","여기서 찾은 '에테르 장비'를 가지고 오면
-'하늘도적의 전리품'으로 교환해줄게. "
-5,"TEXT_REGABR2SKYISLAND2EXCHANGESHOPINFO_00388_COINTI_000_005","'하늘도적의 전리품'은
-하늘도적들이 화폐 대용으로 쓰는 물건이야."
-6,"TEXT_REGABR2SKYISLAND2EXCHANGESHOPINFO_00388_COINTI_000_006","성도 '이슈가르드'에 있는 아유나르트 가 사람들도
-이걸 이용해서 하늘도적과 거래한다는 소문이 있지.
-어쨌든 가지고 있어서 손해 볼 일은 없어."
-7,"TEXT_REGABR2SKYISLAND2EXCHANGESHOPINFO_00388_COINTI_000_007","다만…… 너는 모험가이기도 하니까
-찾아낸 '에테르 장비'가 필요하면
-그냥 네가 사용해도 상관없어."
-8,"TEXT_REGABR2SKYISLAND2EXCHANGESHOPINFO_00388_COINTI_000_008","우리가 받아서 무덤에 묻어버리는 것보다는
-네가 써주는 게 죽은 동료들도 기뻐할 테니까 말이야.
-정말로 불필요한 '에테르 장비'만 내게 가져다주면 돼."
-9,"TEXT_REGABR2SKYISLAND2EXCHANGESHOPINFO_00388_SYSTEM_100_000","'디아뎀 제도'에서 찾을 수 있는 '에테르 장비'를
-디아뎀 제도 등지에 있는 '특수품 접수원'에게 건네면
-'하늘도적의 전리품: 놋쇠'를 받을 수 있습니다."
-10,"TEXT_REGABR2SKYISLAND2EXCHANGESHOPINFO_00388_SYSTEM_100_001","또한, '디아뎀 제도'에서 채집을 실행하면
-간혹 '하늘도적의 전리품: 강철'을 얻을 수 있습니다."
-11,"TEXT_REGABR2SKYISLAND2EXCHANGESHOPINFO_00388_SYSTEM_100_002","각 '하늘도적의 전리품'은
-디아뎀 제도 등지에 있는 '전리품 교환원'을 통해
-다양한 아이템으로 교환할 수 있습니다."
+0,"TEXT_REGABR2SKYISLAND2EXCHANGESHOPINFO_00388_COINTI_000_000","我們在尋找被魔物殺死的同伴們的遺物。<hex:02100103>但是這裡的風太大了，小件的遺物很容易被吹走。<hex:02100103>因此我們就把目標放在了同伴們穿著的裝備上。"
+1,"TEXT_REGABR2SKYISLAND2EXCHANGESHOPINFO_00388_COINTI_000_001","你知道乙太裝備吧？<hex:02100103>就是指那些寄宿了主人在死去的時候所釋放的乙太的裝備。<hex:02100103>這些東西是不會被風吹走的。"
+2,"TEXT_REGABR2SKYISLAND2EXCHANGESHOPINFO_00388_COINTI_000_002","但是想必你也知道，<hex:02100103>最近很多人喜歡在自己的裝備上用幻象棱晶附上幻影。"
+3,"TEXT_REGABR2SKYISLAND2EXCHANGESHOPINFO_00388_COINTI_000_003","所以你應該能找到一些被附上了各種幻影的乙太裝備，<hex:02100103>它們都是我同伴們的遺物。"
+4,"TEXT_REGABR2SKYISLAND2EXCHANGESHOPINFO_00388_COINTI_000_004","如果你能拿來在這裡獲得的乙太裝備，<hex:02100103>我就用空賊通貨跟你換。"
+5,"TEXT_REGABR2SKYISLAND2EXCHANGESHOPINFO_00388_COINTI_000_005","空賊通貨是一種類似貨幣的東西，<hex:02100103>在空賊之間流通。"
+6,"TEXT_REGABR2SKYISLAND2EXCHANGESHOPINFO_00388_COINTI_000_006","據說皇都伊修加爾德的艾因哈特家為了和空賊做交易，<hex:02100103>也會使用這種東西。<hex:02100103>不管怎麼說，你拿去這些終究沒有壞處。"
+7,"TEXT_REGABR2SKYISLAND2EXCHANGESHOPINFO_00388_COINTI_000_007","……不過，你是個冒險者。<hex:02100103>如果獲得的乙太裝備對你有用處，就自己留著用吧。"
+8,"TEXT_REGABR2SKYISLAND2EXCHANGESHOPINFO_00388_COINTI_000_008","這樣也比讓我們拿走埋在墓地裡要更有意義，<hex:02100103>同伴們和裝備也都會更開心吧。<hex:02100103>你只要把你不需要的乙太裝備拿給我就好了。"
+9,"TEXT_REGABR2SKYISLAND2EXCHANGESHOPINFO_00388_SYSTEM_100_000","可以用在雲冠群島獲得的乙太裝備<hex:02100103>和雲冠群島等地的特殊商品交易員<hex:02100103>交換「黃銅空賊通貨」。"
+10,"TEXT_REGABR2SKYISLAND2EXCHANGESHOPINFO_00388_SYSTEM_100_001","另外，在雲冠群島進行採集時，<hex:02100103>可以獲得「白鋼空賊通貨」。"
+11,"TEXT_REGABR2SKYISLAND2EXCHANGESHOPINFO_00388_SYSTEM_100_002","這兩種空賊通貨都可以和雲冠群島等地的通貨交易員<hex:02100103>換取各種各樣的商品。"

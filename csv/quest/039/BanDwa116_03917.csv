@@ -1,13 +1,11 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_BANDWA116_03917_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
-
-와츠의 망치 작업장에 있는 레기트는 열에 강한 부재를 제작해 주었으면 하는 듯하다."
-1,"TEXT_BANDWA116_03917_SEQ_01","와츠의 망치 작업장에 있는 시기트와 대화"
-2,"TEXT_BANDWA116_03917_SEQ_02","바위 다리 부근의 내열 시험 담당 드워프에게 의뢰받은 물품 납품"
-3,"TEXT_BANDWA116_03917_SEQ_03","레기트에게 보고"
+0,"TEXT_BANDWA116_03917_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整（限定職業）<hex:0249020103><hex:0248020103><hex:02100103>※本任務需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>沃茨之錘的雷吉圖想要冒險者製作耐熱的組件。"
+1,"TEXT_BANDWA116_03917_SEQ_01","和沃茨之錘的西吉圖交談"
+2,"TEXT_BANDWA116_03917_SEQ_02","將委託物品交給石橋附近的負責耐熱實驗的矮人"
+3,"TEXT_BANDWA116_03917_SEQ_03","向雷吉圖報告"
 4,"TEXT_BANDWA116_03917_SEQ_04",""
 5,"TEXT_BANDWA116_03917_SEQ_05",""
 6,"TEXT_BANDWA116_03917_SEQ_06",""
@@ -28,9 +26,9 @@ int32,str,str
 21,"TEXT_BANDWA116_03917_SEQ_21",""
 22,"TEXT_BANDWA116_03917_SEQ_22",""
 23,"TEXT_BANDWA116_03917_SEQ_23",""
-24,"TEXT_BANDWA116_03917_TODO_00","와츠의 망치 작업장에 있는 시기트와 대화"
-25,"TEXT_BANDWA116_03917_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>바위 다리 부근에 있는 내열 시험 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>바위 다리 부근에 있는 내열 시험 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>바위 다리 부근에 있는 내열 시험 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>바위 다리 부근에 있는 내열 시험 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>바위 다리 부근에 있는 내열 시험 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>바위 다리 부근에 있는 내열 시험 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>바위 다리 부근에 있는 내열 시험 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>바위 다리 부근에 있는 내열 시험 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If>"
-26,"TEXT_BANDWA116_03917_TODO_02","레기트에게 보고"
+24,"TEXT_BANDWA116_03917_TODO_00","和沃茨之錘的西吉圖對話"
+25,"TEXT_BANDWA116_03917_TODO_01","<hex:0208F20484E4E8050AFF83><hex:02087FE3E802E803FF36>製作筆記 友好部族任務：製作<hex:02280AFF05>Item<hex:E8060103><hex:FF41>將<hex:02280AFF05>Item<hex:E8060103>交給石橋附近的負責耐熱實驗的矮人<hex:03><hex:FFF203F8><hex:0208F203F2E4E8050BFF83><hex:02087FE3E802E803FF36>製作筆記 友好部族任務：製作<hex:02280AFF05>Item<hex:E8060103><hex:FF41>將<hex:02280AFF05>Item<hex:E8060103>交給石橋附近的負責耐熱實驗的矮人<hex:03><hex:FFF20366><hex:0208F20360E4E8050CFF83><hex:02087FE3E802E803FF36>製作筆記 友好部族任務：製作<hex:02280AFF05>Item<hex:E8060103><hex:FF41>將<hex:02280AFF05>Item<hex:E8060103>交給石橋附近的負責耐熱實驗的矮人<hex:03><hex:FFF202D4><hex:0208F202CEE4E80509FF83><hex:02087FE3E802E803FF36>製作筆記 友好部族任務：製作<hex:02280AFF05>Item<hex:E8060103><hex:FF41>將<hex:02280AFF05>Item<hex:E8060103>交給石橋附近的負責耐熱實驗的矮人<hex:03><hex:FFF20242><hex:0208F2023CE4E8050DFF83><hex:02087FE3E802E803FF36>製作筆記 友好部族任務：製作<hex:02280AFF05>Item<hex:E8060103><hex:FF41>將<hex:02280AFF05>Item<hex:E8060103>交給石橋附近的負責耐熱實驗的矮人<hex:03><hex:FFF201B0><hex:0208F201AAE4E8050EFF83><hex:02087FE3E802E803FF36>製作筆記 友好部族任務：製作<hex:02280AFF05>Item<hex:E8060103><hex:FF41>將<hex:02280AFF05>Item<hex:E8060103>交給石橋附近的負責耐熱實驗的矮人<hex:03><hex:FFF2011E><hex:0208F20118E4E8050FFF83><hex:02087FE3E802E803FF36>製作筆記 友好部族任務：製作<hex:02280AFF05>Item<hex:E8060103><hex:FF41>將<hex:02280AFF05>Item<hex:E8060103>交給石橋附近的負責耐熱實驗的矮人<hex:03><hex:FF8F><hex:02088BE4E80510FF83><hex:02087FE3E802E803FF36>製作筆記 友好部族任務：製作<hex:02280AFF05>Item<hex:E8060103><hex:FF41>將<hex:02280AFF05>Item<hex:E8060103>交給石橋附近的負責耐熱實驗的矮人<hex:03><hex:FF01><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03>"
+26,"TEXT_BANDWA116_03917_TODO_02","向雷吉圖報告"
 27,"TEXT_BANDWA116_03917_TODO_03",""
 28,"TEXT_BANDWA116_03917_TODO_04",""
 29,"TEXT_BANDWA116_03917_TODO_05",""
@@ -52,52 +50,22 @@ int32,str,str
 45,"TEXT_BANDWA116_03917_TODO_21",""
 46,"TEXT_BANDWA116_03917_TODO_22",""
 47,"TEXT_BANDWA116_03917_TODO_23",""
-48,"TEXT_BANDWA116_03917_REGITT_000_000","드워프 전차는 노르브란트를 일주하는 상단이 사용할 거야라리.
-즉, 굉장히 더운 아므 아랭에서도
-사용할 수 있도록 만들어야 해라리!"
-49,"TEXT_BANDWA116_03917_REGITT_000_001","그러기 위해서는 열에 강한 부재가 필요한데라리,
-아므 아랭에 가본 적 없는 우리들에겐
-어떤 부재가 필요한지 통 모르겠어라리……."
-50,"TEXT_BANDWA116_03917_REGITT_000_002","그래서 네가 참고가 될 만한
-'<Sheet(Item,31169,0)/>'<13>FF0F02280BFF054974656DF279C10103FF04EBA5BCFF04EC9D84</13> 만들어줬으면 해라리!
-일단은 '시기트'에게 필요한 걸 받아라리~."
-51,"TEXT_BANDWA116_03917_SHIGITT_000_010","훗…… '<Sheet(Item,31169,0)/>' 말이구나.
-협력해 준다니 고맙군.
-역시 더위를 실제로 느껴본 자의 협력이 꼭 필요한 법이니까."
-52,"TEXT_BANDWA116_03917_SHIGITT_000_020","그럼, 내가 엄선한 이 재료를 사용해서
-더운 날씨에도 휘어지지 않는 내열 바퀴를 3개 만들어주겠어?
-재료가 부족하면 재료 조달 자동인형에게 받도록 해."
-53,"TEXT_BANDWA116_03917_SHIGITT_000_030","그럼, 내가 엄선한 이 재료를 사용해서 차 내부를
-열로부터 차단할 수 있는 내열용 커버를 3장 만들어주겠어?
-재료가 부족하면 재료 조달 자동인형에게 받도록 해."
-54,"TEXT_BANDWA116_03917_SHIGITT_000_040","그럼, 내가 엄선한 이 재료를 사용해서
-열에도 성질이 변하지 않는 내열 오일을 3개 만들어주겠어?
-재료가 부족하면 재료 조달 자동인형에게 받도록 해."
-55,"TEXT_BANDWA116_03917_SHIGITT_000_050","완성한 부재는 바위 다리 부근에서 준비 중인
-'내열 시험 담당 드워프'에게 건네줘.
-잘 부탁한다!"
-56,"TEXT_BANDWA116_03917_AUTOMATON_000_070","삐삐…… 재료 필요해?
-……지금은 필요 없겠네."
-57,"TEXT_BANDWA116_03917_AUTOMATON_000_071","삐삐…… 재료 필요해?
-……지금은 필요 없겠네."
-58,"TEXT_BANDWA116_03917_AUTOMATON_000_072","삐삐…… 재료 필요해?
-……지금은 필요 없겠네."
-59,"TEXT_BANDWA116_03917_AUTOMATON_000_080","삐삐…… 재료 필요해?
-가져가ー."
-60,"TEXT_BANDWA116_03917_AUTOMATON_000_081","삐삐…… 재료 필요해?
-가져가ー."
-61,"TEXT_BANDWA116_03917_AUTOMATON_000_082","삐삐…… 재료 필요해?
-가져가ー."
-62,"TEXT_BANDWA116_03917_DWARF03917_000_090","라리호!
-레기트에게 네 이야기는 들었어.
-'<Sheet(Item,31169,0)/>'<13>FF0F02280BFF054974656DF279C10103FF04EB8A94FF04EC9D80</13> 가지고 왔어?"
-63,"TEXT_BANDWA116_03917_DWARF03917_000_100","오오, 이거구나!
-바로 아므 아랭에 가서 시험해봐야겠어!
-넌 '레기트'에게 보고해줘~!"
-64,"TEXT_BANDWA116_03917_REGITT_000_110","수고했어, 무사히 부재는 완성했구나라리.
-틀림없이 아므 아랭에서의 시험도 잘될 거야라리.
-협력해줘서 고마워라리~!"
-65,"TEXT_BANDWA116_03917_REGITT_000_111","그런데 아므 아랭은 어떤 곳이야라리?
-어마어마하게 덥다는 걸 보니, 마그마가 분출하고 막 그래!?
-……궁금해서 언제 한번 가보고 싶네라리~!!"
-66,"TEXT_BANDWA116_03917_SHIGITT_000_060","（★未使用／削除予定★）"
+48,"TEXT_BANDWA116_03917_REGITT_000_000","矮人戰車是給行走於諾弗蘭特各地的商隊使用的。<hex:02100103>也就是說，即使是到了炎熱的安穆·艾蘭，<hex:02100103>矮人戰車也得能正常執行才行！"
+49,"TEXT_BANDWA116_03917_REGITT_000_001","為此，耐熱的組件是很有必要的，<hex:02100103>可我們從未去過安穆·艾蘭，<hex:02100103>對於需要什麼樣的組件簡直是一頭霧水……"
+50,"TEXT_BANDWA116_03917_REGITT_000_002","因此希望你能利用自己的經驗，<hex:02100103>幫我們製作<hex:02280BFF05>Item<hex:F279C10103>！<hex:02100103>先去西吉圖那裡拿到必要的素材吧。"
+51,"TEXT_BANDWA116_03917_SHIGITT_000_010","呼……<hex:02280BFF05>Item<hex:F279C10103>啊。<hex:02100103>感謝你前來協助。<hex:02100103>果然還是得有實際體驗過那種酷熱的人來幫忙才行。"
+52,"TEXT_BANDWA116_03917_SHIGITT_000_020","那就用我精挑細選的這個素材<hex:02100103>製作3個即便在高溫炙烤下也不會變形的耐熱齒輪吧。<hex:02100103>素材不夠的話，可以從收集素材的自走人偶那裡拿。"
+53,"TEXT_BANDWA116_03917_SHIGITT_000_030","那就用我精挑細選的這個素材<hex:02100103>製作3個能在高溫炙烤下保持車內低溫的耐熱車蓋吧。<hex:02100103>素材不夠的話，可以從收集素材的自走人偶那裡拿。"
+54,"TEXT_BANDWA116_03917_SHIGITT_000_040","那就用我精挑細選的這個素材<hex:02100103>製作3瓶在高溫炙烤下也不會變質的耐熱油吧。<hex:02100103>素材不夠的話，可以從收集素材的自走人偶那裡拿。"
+55,"TEXT_BANDWA116_03917_SHIGITT_000_050","東西做好之後就交給在石橋附近做準備的<hex:02100103>負責耐熱實驗的矮人吧。<hex:02100103>拜託你了！"
+56,"TEXT_BANDWA116_03917_AUTOMATON_000_070","沙沙……需要素材？<hex:02100103>……現在好像並不需要。"
+57,"TEXT_BANDWA116_03917_AUTOMATON_000_071","沙沙……需要素材？<hex:02100103>……現在好像並不需要。"
+58,"TEXT_BANDWA116_03917_AUTOMATON_000_072","沙沙……需要素材？<hex:02100103>……現在好像並不需要。"
+59,"TEXT_BANDWA116_03917_AUTOMATON_000_080","沙沙……需要素材？<hex:02100103>好的。"
+60,"TEXT_BANDWA116_03917_AUTOMATON_000_081","沙沙……需要素材？<hex:02100103>好的。"
+61,"TEXT_BANDWA116_03917_AUTOMATON_000_082","沙沙……需要素材？<hex:02100103>好的。"
+62,"TEXT_BANDWA116_03917_DWARF03917_000_090","啦哩吼！<hex:02100103>雷吉圖已經跟我說過你的事了。<hex:02100103>所以你帶<hex:02280BFF05>Item<hex:F279C10103>來了嗎？"
+63,"TEXT_BANDWA116_03917_DWARF03917_000_100","噢噢！不愧是你做的東西！<hex:02100103>我這就拿去安穆·艾蘭做實驗！<hex:02100103>麻煩你和雷吉圖報告一聲！"
+64,"TEXT_BANDWA116_03917_REGITT_000_110","辛苦了，看來製作組件還算順利。<hex:02100103>在安穆·艾蘭進行的實驗肯定也能取得好成果啦哩！<hex:02100103>謝謝你的幫助！"
+65,"TEXT_BANDWA116_03917_REGITT_000_111","話說安穆·艾蘭是個怎樣的地方呢？<hex:02100103>我聽說那裡酷熱難耐，是不是會有岩漿噴出來啊？！<hex:02100103>……真是令人在意，總有一天我一定要親自去看看啦哩！"
+66,"TEXT_BANDWA116_03917_SHIGITT_000_060",""

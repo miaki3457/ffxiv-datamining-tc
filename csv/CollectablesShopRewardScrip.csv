@@ -1,5 +1,6 @@
 ﻿key,0,1,2,3,4,5,6
 #,Currency,LowReward,MidReward,HighReward,ExpRatioLow,ExpRatioMid,ExpRatioHigh
+offset,0,2,4,6,8,10,12
 int32,uint16,uint16,uint16,uint16,uint16,uint16,uint16
 0,0,0,0,0,0,0,0
 1,2,5,10,15,100,120,150

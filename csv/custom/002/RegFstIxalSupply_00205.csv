@@ -1,76 +1,34 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGFSTIXALSUPPLY_00205_PROCUREMENTIXAL_000_000","이 자식은 뭐야!?
-날개도 없는 주제에 우리 구역을 침범하다니 키잇!
-폐자재랑 같이 소각로에 처박히고 싶냐 키잇?"
-1,"TEXT_REGFSTIXALSUPPLY_00205_PROCUREMENTIXAL_000_010","이 자식아!
-너한테 부탁할 일이 있는데 키잇!
-거기에 대해 뭐 궁금한 점은 없냐 키잇!?"
-2,"TEXT_REGFSTIXALSUPPLY_00205_PROCUREMENTIXAL_000_020","이 자식아!
-부탁한 일은 다 됐냐 키잇?
-아니면 나한테 물어볼 게 있어서 온 거냐 키잇!?"
-3,"TEXT_REGFSTIXALSUPPLY_00205_PROCUREMENTIXAL_000_030","이 자식아!
-오늘은 그만 마무리 해라. 나머진 내가 할 거다 키잇!
-아니면 뭐 또 물어볼 거라도 있냐 키잇!?"
-4,"TEXT_REGFSTIXALSUPPLY_00205_Q1_000_000","무엇을 물어보시겠습니까?"
-5,"TEXT_REGFSTIXALSUPPLY_00205_A1_000_001","'납품 퀘스트'에 대해서"
-6,"TEXT_REGFSTIXALSUPPLY_00205_A1_000_002","'목표 공헌도'에 대해서"
-7,"TEXT_REGFSTIXALSUPPLY_00205_A1_000_003","납품 퀘스트 수주 시 주의점에 대해서"
-8,"TEXT_REGFSTIXALSUPPLY_00205_A1_000_004","납품 퀘스트 진행 시 알아둘 점에 대해서"
-9,"TEXT_REGFSTIXALSUPPLY_00205_A1_000_005","취소"
-10,"TEXT_REGFSTIXALSUPPLY_00205_PROCUREMENTIXAL_000_040","우리에게 필요한 건 비공정 재료뿐만이 아니다 키잇!
-직공 놈들의 요구를 들어주느라 자재에 무기에 식량에……
-실험장 창고가 아주 텅텅 비었다고 키잇!"
-11,"TEXT_REGFSTIXALSUPPLY_00205_PROCUREMENTIXAL_000_041","그래서 마침 널널해 보이는 너한테 부탁하는 거다 키잇!
-재고가 부족한 물건을 만들거나 슬쩍해와라 키잇!
-일은 얼마든지 있으니 백수 될 걱정은 안 해도 된다 키잇!"
-12,"TEXT_REGFSTIXALSUPPLY_00205_SYSTEM_000_050","이크살족의 '납품 퀘스트'는
-반복 가능한 '우호부족 일일 퀘스트' 중 하나로
-매일 갱신됩니다."
-13,"TEXT_REGFSTIXALSUPPLY_00205_SYSTEM_000_051","이 퀘스트에서는 '데즐 쿠알란호'에 사용하는 재료뿐 아니라
-현장에서 필요로 하는 다양한 아이템을 납품하게 됩니다."
-14,"TEXT_REGFSTIXALSUPPLY_00205_SYSTEM_000_052","'납품 퀘스트'를 받은 후
-해당 아이템을 제작하거나 채집을 통해 조달하여
-'비행단 창고지기'에게 납품합시다."
-15,"TEXT_REGFSTIXALSUPPLY_00205_SYSTEM_000_053","'납품 의뢰 목록'은 비행단 창고지기와 대화를 하거나
-주 메뉴의 '임무 정보'에서
-'임무 정보 목록'을 선택하여 확인할 수 있습니다."
-16,"TEXT_REGFSTIXALSUPPLY_00205_PROCUREMENTIXAL_000_060","의뢰를 받았으면 목표를 달성해라 키잇!
-일처리가 완벽한 녀석은
-언제든지 우리 동료로 환영이다 키잇!"
-17,"TEXT_REGFSTIXALSUPPLY_00205_SYSTEM_000_070","'납품 퀘스트'는 납품하는 아이템 별로 '공헌도'가 있으며
-그 합계가 '목표 공헌도'에 도달하면 퀘스트가 완료됩니다."
-18,"TEXT_REGFSTIXALSUPPLY_00205_SYSTEM_000_071","퀘스트를 완료하면 다른 일일 퀘스트와 마찬가지로
-완료 시의 클래스로 경험치를 획득하게 됩니다.
-또, 모험가에 대한 이크살족의 우호도도 높아집니다."
-19,"TEXT_REGFSTIXALSUPPLY_00205_SYSTEM_000_072","또한 '납품 퀘스트'가 완전히 완료되기 전에도
-아이템을 한 번 납품할 때마다
-그에 상응하는 클래스의 경험치를 얻을 수 있습니다."
-20,"TEXT_REGFSTIXALSUPPLY_00205_SYSTEM_100_072","퀘스트의 현재 공헌도와 목표 공헌도는
-할 일 목록 등을 통해 확인할 수 있습니다."
-21,"TEXT_REGFSTIXALSUPPLY_00205_PROCUREMENTIXAL_100_090","아 그렇지, 기억해둬라 키잇!
-이 일은 하루에 딱 한 번만 받을 수 있다 키잇!"
-22,"TEXT_REGFSTIXALSUPPLY_00205_SYSTEM_000_090","'납품 퀘스트'는 하루에 한 번만 수주 가능합니다.
-받은 퀘스트를 '완료'하거나 '포기'하면
-날짜가 바뀌기 전에는 다시 받을 수 없습니다."
-23,"TEXT_REGFSTIXALSUPPLY_00205_SYSTEM_000_091","또한, 도중에 퀘스트를 포기하더라도
-우호부족 일일 퀘스트 수주권을 이미 사용한 것으로 간주되므로
-남은 수주권 한도 안에서 야만족 일일 퀘스트를 받을 수 있습니다."
-24,"TEXT_REGFSTIXALSUPPLY_00205_SYSTEM_000_092","그러므로 포기할 경우, 날짜가 바뀌기 전까지는
-수주 가능한 '우호부족 일일 퀘스트' 수가 하나 줄어들게 됩니다.
-퀘스트 포기는 신중하게 결정하십시오."
-25,"TEXT_REGFSTIXALSUPPLY_00205_SYSTEM_100_092","날짜가 바뀌면 '납품 의뢰 목록' 내용도 갱신됩니다.
-퀘스트를 받은 채 다음 날로 넘어간 경우에는 주의하십시오.
-목록은 현실 시간으로 매일 <ResetTime>01</ResetTime><If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시에 갱신됩니다."
-26,"TEXT_REGFSTIXALSUPPLY_00205_PROCUREMENTIXAL_100_110","아 그렇지, 기억해둬라 키잇!
-정말 필요한 물건을 구해오거나 아주 열심히 일한 녀석한테는
-그만한 보수가 주어질 거다 키잇!"
-27,"TEXT_REGFSTIXALSUPPLY_00205_SYSTEM_000_110","비행단 창고지기 등을 통해 확인할 수 있는 '납품 의뢰 목록'
-항목 왼쪽에 <Gui(67)/> 표시가 붙은 것은 특히 수요가 높은 아이템입니다.
-납품하면 획득 경험치에 보너스가 붙습니다."
-28,"TEXT_REGFSTIXALSUPPLY_00205_SYSTEM_000_111","또한, 고품질 HQ 아이템을 납품한 경우에도
-보너스 경험치를 얻을 수 있습니다."
-29,"TEXT_REGFSTIXALSUPPLY_00205_SYSTEM_000_112","'납품 퀘스트'를 진행할 때는
-HQ 아이템이나 <Gui(67)/> 표시가 붙은 아이템을
-우선해서 납품합시다."
+0,"TEXT_REGFSTIXALSUPPLY_00205_PROCUREMENTIXAL_000_000","幹嘛？！<hex:02100103>無翼之徒敢在我們地盤上搗亂試試！<hex:02100103>當心我拿你和廢柴一塊扔到焚化爐裡燒了！"
+1,"TEXT_REGFSTIXALSUPPLY_00205_PROCUREMENTIXAL_000_010","幹嘛？！<hex:02100103>我這裡倒是有想交給你的工作！<hex:02100103>還是說你有什麼事想問啊！"
+2,"TEXT_REGFSTIXALSUPPLY_00205_PROCUREMENTIXAL_000_020","幹嘛？！<hex:02100103>我交給你的工作怎麼樣了？<hex:02100103>還是說你有什麼事想問啊！"
+3,"TEXT_REGFSTIXALSUPPLY_00205_PROCUREMENTIXAL_000_030","幹嘛？！<hex:02100103>今天你可以收工了，剩下就交給我們吧！<hex:02100103>還是說你有什麼事想問啊！"
+4,"TEXT_REGFSTIXALSUPPLY_00205_Q1_000_000","想了解什麼？"
+5,"TEXT_REGFSTIXALSUPPLY_00205_A1_000_001","關於「供應任務」"
+6,"TEXT_REGFSTIXALSUPPLY_00205_A1_000_002","關於「貢獻值目標」"
+7,"TEXT_REGFSTIXALSUPPLY_00205_A1_000_003","領取供應任務時的注意事項"
+8,"TEXT_REGFSTIXALSUPPLY_00205_A1_000_004","進行供應任務時的提示"
+9,"TEXT_REGFSTIXALSUPPLY_00205_A1_000_005","取消"
+10,"TEXT_REGFSTIXALSUPPLY_00205_PROCUREMENTIXAL_000_040","我們不僅需要飛空艇使用的元件！<hex:02100103>托那些任性工匠的福，實驗場的儲備從材料到武器、糧食，<hex:02100103>全都處於慢性供應不足的狀態！"
+11,"TEXT_REGFSTIXALSUPPLY_00205_PROCUREMENTIXAL_000_041","因此，這時候就輪到你這個閒人出場了！<hex:02100103>不管是自己做也好到哪裡順來也罷，你去籌備些庫存不足的東西！<hex:02100103>工作要多少有多少，不用擔心會失業！"
+12,"TEXT_REGFSTIXALSUPPLY_00205_SYSTEM_000_050","鳥人族的「供應任務」是一種可重複進行的友好部族日常任務，<hex:02100103>每天都會發行。"
+13,"TEXT_REGFSTIXALSUPPLY_00205_SYSTEM_000_051","供應的不僅是建造迪茲爾·庫瓦蘭號要用到的元件，<hex:02100103>還包括當地需要的各種物品，種類繁多。"
+14,"TEXT_REGFSTIXALSUPPLY_00205_SYSTEM_000_052","領取「供應任務」後，<hex:02100103>透過製作或採集等方式，籌備需要的道具，<hex:02100103>然後交給空力團倉庫管理員。"
+15,"TEXT_REGFSTIXALSUPPLY_00205_SYSTEM_000_053","和空力團倉庫管理員對話，或者透過設定選單打開任務情報，<hex:02100103>都可以查看供應委託列表。"
+16,"TEXT_REGFSTIXALSUPPLY_00205_PROCUREMENTIXAL_000_060","既然你接下了工作，那就得定個目標吧！<hex:02100103>我們會把那些能夠好好完成工作的傢伙視為夥伴的！"
+17,"TEXT_REGFSTIXALSUPPLY_00205_SYSTEM_000_070","在供應任務中，供應的每件物品都有「貢獻值」，<hex:02100103>合計的貢獻值達到「貢獻值目標」後，<hex:02100103>即可完成任務。"
+18,"TEXT_REGFSTIXALSUPPLY_00205_SYSTEM_000_071","和其他日常任務一樣，在任務完成後，<hex:02100103>會以完成任務時的職業獲得一定的經驗值。<hex:02100103>另外，也可以提升和鳥人族的關係程度。"
+19,"TEXT_REGFSTIXALSUPPLY_00205_SYSTEM_000_072","如果沒辦法完成供應任務，<hex:02100103>在交納道具時，<hex:02100103>也可以以相對應職業獲得經驗值。"
+20,"TEXT_REGFSTIXALSUPPLY_00205_SYSTEM_100_072","另外，可以在目的列表中查看目前的貢獻值和貢獻值目標。"
+21,"TEXT_REGFSTIXALSUPPLY_00205_PROCUREMENTIXAL_100_090","哦，那你可要聽好了！<hex:02100103>這工作可不是1天之內想接幾次就接幾次的！"
+22,"TEXT_REGFSTIXALSUPPLY_00205_SYSTEM_000_090","1天只能領取1次供應任務。<hex:02100103>領取任務後，不管是「完成」或「放棄」，<hex:02100103>當天都不能再領取任務。"
+23,"TEXT_REGFSTIXALSUPPLY_00205_SYSTEM_000_091","另外，如果放棄供應任務，<hex:02100103>接受該任務消費的「剩餘受理限額」也不會退還回來。"
+24,"TEXT_REGFSTIXALSUPPLY_00205_SYSTEM_000_092","這樣，在日期改變之前，<hex:02100103>同時可領取的友好部族日常任務數量會減少1個，<hex:02100103>在放棄任務時還請多加考慮。"
+25,"TEXT_REGFSTIXALSUPPLY_00205_SYSTEM_100_092","日期改變之後，供應委託列表的內容也會更新。<hex:02100103>在領取任務後如果經過了一天，還請注意列表的內容變化。<hex:02100103>列表在每天<hex:0206020103><hex:020821DBFF1D><hex:020919DB02030405060708090A0B0C0D0E0F10111213141516171803><hex:0103>點（地球時間）進行更新。"
+26,"TEXT_REGFSTIXALSUPPLY_00205_PROCUREMENTIXAL_100_110","對了，有一點你最好記住！<hex:02100103>如果能交給我急需的物品，或工作完成得出色，<hex:02100103>都會有相對應的回報的！"
+27,"TEXT_REGFSTIXALSUPPLY_00205_SYSTEM_000_110","在供應委託列表中，<hex:02100103>項目左側標有<hex:0212024403>記號的物品是一些急需的物品。<hex:02100103>如果供應這些物品，可獲得的經驗值會有所加成。"
+28,"TEXT_REGFSTIXALSUPPLY_00205_SYSTEM_000_111","另外，交納優質道具的話，經驗值也會有所加成。"
+29,"TEXT_REGFSTIXALSUPPLY_00205_SYSTEM_000_112","進行供應任務時，<hex:02100103>優先交納優質道具或標有<hex:0212024403>的道具吧。"

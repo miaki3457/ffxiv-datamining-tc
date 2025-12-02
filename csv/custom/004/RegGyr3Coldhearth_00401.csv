@@ -1,23 +1,15 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGGYR3COLDHEARTH_00401_GIBBON_000_000","어이쿠, 이런 벽촌까지 잘 왔구먼.
-아무것도 없는 곳이지만 천천히 머물다 가시게."
-1,"TEXT_REGGYR3COLDHEARTH_00401_Q1_000_000","무엇을 물어보시겠습니까?"
-2,"TEXT_REGGYR3COLDHEARTH_00401_A1_000_001","당신의 이야기를 들려달라고 한다"
-3,"TEXT_REGGYR3COLDHEARTH_00401_A1_000_002","여기는 어떤 곳인지 물어본다"
-4,"TEXT_REGGYR3COLDHEARTH_00401_A1_000_003","취소"
-5,"TEXT_REGGYR3COLDHEARTH_00401_GIBBON_000_010","나는 이 마을에 사는 기본이라고 하네.
-이래 봬도 젊을 적엔 꽤 날리는 용병이었지."
-6,"TEXT_REGGYR3COLDHEARTH_00401_GIBBON_000_011","하지만 세월은 이길 수가 없더군.
-결국 이렇게 고향으로 돌아왔다네.
-그 후 많은 일을 겪었지만, 지금은 매일 흙이나 만지면서 살고 있네."
-7,"TEXT_REGGYR3COLDHEARTH_00401_GIBBON_000_020","이 한촌은 잔불 마을이라고 하네.
-보다시피 아무것도 없는 곳이지."
-8,"TEXT_REGGYR3COLDHEARTH_00401_GIBBON_000_021","땅이 메말라서 얻을 수 있는 식량은 아주 적지…….
-주로 용병들이 벌어서 보내주는 돈으로 먹고 살고 있지.
-그것도 제국에게 지배당하기 전 일이지만."
-9,"TEXT_REGGYR3COLDHEARTH_00401_GIBBON_000_022","제국군은 젊은이들을 몽땅 끌고 가서 병사로 만들었지.
-남은 건 늙은이들과 얼마 없는 아녀자와 아이들뿐일세.
-……머지않아 이 마을은 사라질지도 모른다네."
-10,"TEXT_REGGYR3COLDHEARTH_00401_TALK_ACTOR",""
+0,"TEXT_REGGYR3COLDHEARTH_00401_GIBBON_000_000","哎呀，這偏僻的小村子居然會有客人來。<hex:02100103>雖然我們這什麼都沒有，但你可以放鬆身心好好休息一下。"
+1,"TEXT_REGGYR3COLDHEARTH_00401_Q1_000_000","想了解什麼？"
+2,"TEXT_REGGYR3COLDHEARTH_00401_A1_000_001","你是做什麼的？"
+3,"TEXT_REGGYR3COLDHEARTH_00401_A1_000_002","這裡是什麼地方？"
+4,"TEXT_REGGYR3COLDHEARTH_00401_A1_000_003","取消"
+5,"TEXT_REGGYR3COLDHEARTH_00401_GIBBON_000_010","我是這裡的居民，名叫基伯恩。<hex:02100103>別看我現在這樣，年輕的時候我可是做傭兵的，<hex:02100103>相當四處闖蕩了一番。"
+6,"TEXT_REGGYR3COLDHEARTH_00401_GIBBON_000_011","可惜歲月不饒人，上了年紀之後我就回到了這生我的故鄉。<hex:02100103>那之後的故事我就不一一跟你講了，<hex:02100103>總之現在我是靠耕地過活。"
+7,"TEXT_REGGYR3COLDHEARTH_00401_GIBBON_000_020","這偏僻的村落叫做寒爐村。<hex:02100103>如你所見，是個啥都沒有的窮村子。"
+8,"TEXT_REGGYR3COLDHEARTH_00401_GIBBON_000_021","由於土壤貧瘠，耕種只能種出最低限度的糧食來……<hex:02100103>所以我們主要都是靠出去做傭兵賺錢的年輕人往家裡寄的錢過活。<hex:02100103>不過這也是被帝國佔領前的事情了。"
+9,"TEXT_REGGYR3COLDHEARTH_00401_GIBBON_000_022","帝國軍把我們村裡的年輕人全都帶走了。<hex:02100103>剩下的只有我們這些老人還有個別幾個帶著小孩的女人。<hex:02100103>也許再過不久，這個村子就不復存在了吧。"
+10,"TEXT_REGGYR3COLDHEARTH_00401_TALK_ACTOR","（★未使用／削除予定★）"

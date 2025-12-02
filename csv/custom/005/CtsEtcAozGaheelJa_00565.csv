@@ -1,88 +1,47 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_000","쫓겨나지, 않을지, 걱정입니, 다……."
-1,"TEXT_CTSETCAOZGAHEELJA_00565_Q1_000_000","무엇을 하시겠습니까?"
-2,"TEXT_CTSETCAOZGAHEELJA_00565_A1_000_001","'청마법 우상' 입수"
-3,"TEXT_CTSETCAOZGAHEELJA_00565_A1_000_002","'청마도사'에 대해서 묻기"
-4,"TEXT_CTSETCAOZGAHEELJA_00565_A1_000_003","'청마도서'에 대해서 묻기"
-5,"TEXT_CTSETCAOZGAHEELJA_00565_A1_000_004","대화하기"
-6,"TEXT_CTSETCAOZGAHEELJA_00565_A1_000_005","취소"
-7,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_010","왈라키족 전통, 의 우상, 을 본떠, 서 만든 조각, 으로,
-청마법의 지, 식을 넣어둔, 것입,니다…….
-지금 당신, 은, 이것들을 잘 사용하실 수, 있을 것입, 니다."
-8,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_015","죄송합, 니다, 만,
-지금, <Highlight>ObjectParameter(1)</Highlight> 님께
-드릴 수 있, 는 청마법 우상은 없습니, 다……."
-9,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_020","청마도사, 의 기원은, 신대륙에 사는,
-소수 부족 '왈라키족'의, 마법입니, 다."
-10,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_021","온갖, 자연을 숭배하던, 그들은, 신앙대상에, 가까워지고자,
-짐승과 마물, 의 마법을, 자신들의 것, 으로 만드는 기술을,
-고안해낸, 것입니다."
-11,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_022","마법 발동, 의 열쇠가 되는 짐승이나, 마물의 적개심을,
-몸, 으로 받아, 마법현상을, 일으킨, 후 상대를, 쓰러뜨리고,
-생명의 원, 천인 에테르를 흡수, 하는 것."
-12,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_023","선생님께선, 이 비장의 기술, 을 배우는 것, 에 성공해,
-이, 를 '체득'이라 부르고 계십, 니다."
-13,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_024","그리고, 이 마법을, 왈라키족이 신성시, 하는 색을, 따서
-새로운 마법체계, '청마법' 이라고, 이름 붙여,
-선생님 스스로가, 청마도사의, 선구자, 가 되셨습니, 다."
-14,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_025","전 세계의, 짐승과 마물의 마법, 을 조종하는 청마도사, 의
-가능성은, 아직 미지수…… 무한대, 라 할 수 있습, 니다……."
-15,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_030","청마도서, 란, 선생님께서 에오르제아, 를 다니시며
-짐승과 마물한테서 습득한 청마법의, 체득 장소, 를 기록한, 책."
-16,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_031","왜, 체득 장소, 만 있느냐, 면,
-스스로 찾는 일, 도 수련의 일환이라서, 그렇다고, 합니다.
-이것을 들, 고 청마도서의 수련, 에, 임해, 주십시오."
-17,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_032","참고로, 수량 한정, 이라고 홍보, 했습니다만,
-재고는, 남아돌고, 있습, 니다……."
-18,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_040","나와 라토쟈, 도 일단 청마도사이긴, 합니, 다.
-마무쟈족, 중에서도, 우리들은 부네와족, 이라고 해서,
-천성적으, 로 풍부한 마력을, 소유하고 있습, 니다."
-19,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_050","선생님, 에게 왈라키족을 구한, 다는 큰 뜻이 있으셨, 다니.
-우리들, 한테도 말씀해, 주셨으면 좋았, 을 것을…….
-어차피, 도움은 못 되었, 겠지만, 요."
-20,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_060","아포칼리옵스, 즉, 바스트라흐 님, 은
-온갖, 청마법을 체득하신, 그야말로, 달인이십니, 다.
-이기려면, 수많은 청마법, 이 필요할 것, 입니다……."
-21,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_070","아포칼리옵스, 즉, 바스트라흐 님을, 이기시다니,
-명실공히, 선생님을, 뛰어넘으셨, 군요.
-앞으로, 도 기대하고, 있겠습, 니다!"
-22,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_080","당신, 의, 청마도서에, 새로운 청마법, 이 추가되, 었습니다.
-부디, 체득, 하시기를, 바랍니다.
-그런, 데, 선생님은, 대체, 어느 틈에, 쓰신 걸, 까요?"
-23,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_090","선생님이, 싸우게, 된, 지크프리드는,
-정규 투기장, 의 스타라고, 합니다.
-청마도사, 의 이름을 드높일, 기회일 수도, 있겠군, 요."
-24,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_100","새로, 운, 지크프리드는, 제국제 무기로, 무장하고
-다채로운 공격을, 한다고, 들었, 습니다.
-이기기 위한, 여러 가지 청마법, 을 체득해, 주십시오."
-25,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_110","멋지, 게, 지크프리드를, 쓰러뜨리고
-선생님의 원수, 를 갚아, 주셨군, 요.
-앞으로, 도, 많은 활약, 기대하고 있겠습, 니다!"
-26,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_200","당신, 의, 청마도서에, 또다시 청마법, 이 추가되, 었습니다.
-청마도사 길드, 에 소속되어 있는, 모험가들의, 성과, 입니다.
-부디, 체득, 에 힘써, 주십시, 오."
-27,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_210","고고는 가면 무투회의 마물, 의 기술을,
-차례차례, 체득하고 있는, 듯합니다.
-저도, 질 수는, 없지, 요."
-28,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_220","고고전의, 승리, 축하드립니, 다!
-앞으로, 도, 더 많은 활약, 기대하고 있습니, 다!"
-29,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_300","당신, 의, 청마도서에, 다시 청마법, 이 추가되, 었습니다.
-낯선, 지역까지 널리 퍼진, 청마도사들의 성과, 입니다.
-부디, 체득, 에 힘써, 주십시, 오."
-30,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_310","선생님과 당신, 의, 대결을, 볼 수 있다, 니……
-살아 있길, 잘했습, 니다."
-31,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_320","선생님과의, 대결, 몹시, 감동했, 습니다.
-앞으로, 도, 당신의 활약을, 기대하고 있겠, 습니다."
-32,"TEXT_CTSETCAOZGAHEELJA_00565_TALK_ACTOR","（★未使用／削除予定★）"
-33,"TEXT_CTSETCAOZGAHEELJA_00565_000_000","（★未使用／削除予定★）"
-34,"TEXT_CTSETCAOZGAHEELJA_00565_000_001","（★未使用／削除予定★）"
-35,"TEXT_CTSETCAOZGAHEELJA_00565_000_002","（★未使用／削除予定★）"
-36,"TEXT_CTSETCAOZGAHEELJA_00565_000_003","（★未使用／削除予定★）"
-37,"TEXT_CTSETCAOZGAHEELJA_00565_000_004","（★未使用／削除予定★）"
-38,"TEXT_CTSETCAOZGAHEELJA_00565_000_005","（★未使用／削除予定★）"
-39,"TEXT_CTSETCAOZGAHEELJA_00565_000_006","（★未使用／削除予定★）"
-40,"TEXT_CTSETCAOZGAHEELJA_00565_000_007","（★未使用／削除予定★）"
-41,"TEXT_CTSETCAOZGAHEELJA_00565_000_008","（★未使用／削除予定★）"
-42,"TEXT_CTSETCAOZGAHEELJA_00565_000_009","（★未使用／削除予定★）"
+0,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_000","真擔心、我們會不會被、趕出、去……"
+1,"TEXT_CTSETCAOZGAHEELJA_00565_Q1_000_000","要做什麼？"
+2,"TEXT_CTSETCAOZGAHEELJA_00565_A1_000_001","交換天青圖騰"
+3,"TEXT_CTSETCAOZGAHEELJA_00565_A1_000_002","詢問有關青魔道士"
+4,"TEXT_CTSETCAOZGAHEELJA_00565_A1_000_003","詢問有關青魔法書"
+5,"TEXT_CTSETCAOZGAHEELJA_00565_A1_000_004","進行談話"
+6,"TEXT_CTSETCAOZGAHEELJA_00565_A1_000_005","取消"
+7,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_010","這是仿照、瓦拉其族傳統、的圖騰，<hex:02100103>將青魔法、的知識封印、在裡面、的東西……<hex:02100103>現在、的你、應該可、以運用它、了吧。"
+8,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_015","非常、抱歉，<hex:02100103>現在無法、把天青圖騰、交給、你……"
+9,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_020","青魔道士、起源於、居住、在<hex:02100103>新大陸的、少數部落、瓦拉其族、的魔法。"
+10,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_021","崇拜、自然萬物、的他們為了、讓自己接近、信仰的對象，<hex:02100103>研究出了、能將野獸、魔物的魔法、化為己物的、技術。"
+11,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_022","也就是、挑起野獸、魔物的敵、意，<hex:02100103>引發魔法現象、後再將其、打倒，<hex:02100103>吸取其生命之源、的乙太。"
+12,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_023","大師、成功地學會了、這個秘技，<hex:02100103>並將其稱、為「學習」。"
+13,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_024","並取瓦拉其族、視為神聖、的顏色<hex:02100103>將這個、新的魔法體、繫命名、為青魔法。<hex:02100103>大師成為了、青魔道士、的第一人。"
+14,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_025","可以說、能夠操縱世界各地的野獸、魔物所使用、魔法的青魔道士，<hex:02100103>其可能性、是無限、的……"
+15,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_030","青魔法書、是大師在艾奧傑亞、旅行時，<hex:02100103>將從野獸、魔物那裡、學到的青魔法、記錄成的、書籍。"
+16,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_031","至於、為什麼、只記錄了、學習的地點，<hex:02100103>據大師說、自己出發、去尋找、也是修行的、一環。<hex:02100103>拿著這本、魔導書、你就努力、去修行吧。"
+17,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_032","順便說一句、雖然、宣傳說是、數量有限，<hex:02100103>但庫存、有很、多富餘……"
+18,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_040","我和拉圖加、也姑且算是、青魔道士。<hex:02100103>在輝鱗人中、我們被、稱為布涅瓦族，<hex:02100103>天生就、擁有強大、的魔力。"
+19,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_050","沒想到、大師有著、拯救瓦拉其族、的遠大志向。<hex:02100103>他要是、跟我們、表明就、好了……<hex:02100103>不過、我們倒是、也幫不上、忙。"
+20,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_060","扮演啟示者、的瓦斯特拉哈、先生是<hex:02100103>學會了、各種青魔法的、高手。<hex:02100103>若想贏他、需要學會更多的、青魔法、吧……"
+21,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_070","你居然、贏了扮演啟示者、的瓦斯特拉哈、先生，<hex:02100103>這樣你就、完全超越大師、了呢。<hex:02100103>今後也、期待你的、表現！"
+22,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_080","你的、青魔法書上、追記了、新的青魔法。<hex:02100103>請你努力、去學習。<hex:02100103>不過話說、大師到底、是什麼時候、寫上去的呢？"
+23,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_090","聽說、即將和大師戰鬥、的齊格弗里德、是正規鬥技場的、<hex:02100103>明星什麼的……<hex:02100103>這也是、青魔道士、出名的、好機會呢。"
+24,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_100","新裝的、齊格弗里德手持、帝國製的武器、<hex:02100103>有著、各式各樣的、攻擊方式。<hex:02100103>為了贏得、比賽、請你學會更多種類的、青魔法。"
+25,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_110","你漂亮地、打倒了齊格弗里德、<hex:02100103>為大師報仇了呢。<hex:02100103>今後我、也會期待你的、活躍表現！"
+26,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_200","你的、青魔法書上、又追記了、新的青魔法。<hex:02100103>這都、歸功於、青魔道士行會、的冒險者們。<hex:02100103>請努力、學習吧。"
+27,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_210","格格他、逐個學習了、假面狂歡裡的、魔物的技能，<hex:02100103>請你、千萬不要輸。"
+28,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_220","恭喜你、贏了格格！<hex:02100103>期待你、今後的、表現！"
+29,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_300","你的、青魔法書上、進一步加上了、新的青魔法。<hex:02100103>這都、歸功於、踏足未知土地、的青魔道士們。<hex:02100103>請努力、學習吧。"
+30,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_310","居然能、有幸看到、你和大師、的對決……<hex:02100103>活著、的感覺、真好。"
+31,"TEXT_CTSETCAOZGAHEELJA_00565_GAHEELJA_000_320","你和大師、的一戰、真是、振奮人心。<hex:02100103>期待你、今後的、表現。"
+32,"TEXT_CTSETCAOZGAHEELJA_00565_TALK_ACTOR",""
+33,"TEXT_CTSETCAOZGAHEELJA_00565_000_000",""
+34,"TEXT_CTSETCAOZGAHEELJA_00565_000_001",""
+35,"TEXT_CTSETCAOZGAHEELJA_00565_000_002",""
+36,"TEXT_CTSETCAOZGAHEELJA_00565_000_003",""
+37,"TEXT_CTSETCAOZGAHEELJA_00565_000_004",""
+38,"TEXT_CTSETCAOZGAHEELJA_00565_000_005",""
+39,"TEXT_CTSETCAOZGAHEELJA_00565_000_006",""
+40,"TEXT_CTSETCAOZGAHEELJA_00565_000_007",""
+41,"TEXT_CTSETCAOZGAHEELJA_00565_000_008",""
+42,"TEXT_CTSETCAOZGAHEELJA_00565_000_009",""

@@ -1,15 +1,10 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_CHRHDY451_04807_SEQ_00","<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>특수 규칙:  직업 고정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-알키미야 제약당에 있는 맨더빌 가 장인은 최종 개량 준비가 다 끝난 듯하다."
-1,"TEXT_CHRHDY451_04807_SEQ_01","※ 이 퀘스트에는 <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow> 직업 고정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 적용됩니다.
-   퀘스트 수락 시의 직업으로만 퀘스트를 진행할 수 있습니다.
-
-맨더빌 가 장인은 필요한 재료를 모아서 와달라고 부탁했다. '<Sheet(Item,41032,0)/>'<13>FF0F02280BFF054974656DF2A0480103FF04EBA5BCFF04EC9D84</13> 3개 모아서  '맨더빌 웨폰'을 소지한 상태로 알키미야 제약당에 있는 '맨더빌 가 장인'에게 건네자. 
-
-'<Sheet(Item,41032,0)/>'<13>FF0F02280BFF054974656DF2A0480103FF04EB8A94FF04EC9D80</13> 에테라이트 광장에 있는 '주브룬나'를 통해 교환할 수 있습니다."
-2,"TEXT_CHRHDY451_04807_SEQ_02","맨더빌 가 장인에게 <Sheet(Item,41032,0)/><13>FF0F02280BFF054974656DF2A0480103FF04EBA5BCFF04EC9D84</13> 건네고, 최종 개량한 맨더빌 웨폰을 받았다. 다른 맨더빌 웨폰을 최종 개량하고 싶을 때는 다시 맨더빌 가 장인에게 말을 걸자."
+0,"TEXT_CHRHDY451_04807_SEQ_00","<hex:024804F201F603><hex:024904F201F703>特殊規則： 職業固定<hex:0249020103><hex:0248020103><hex:02100103>鍊金術製藥堂的曼德維爾家的工匠已經做好了最終改良武器的萬全準備。"
+1,"TEXT_CHRHDY451_04807_SEQ_01","※本任務為<hex:024804F201F603><hex:024904F201F703><hex:0249020103><hex:0248020103> 職業固定任務，<hex:02100103>　需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>曼德維爾家的工匠委託改良武器所需的素材，收集3個<hex:02280BFF05>Item<hex:F2A0480103>並在攜帶曼德維爾武器的狀態下，交給鍊金術製藥堂的曼德維爾家的工匠。<hex:02100103><hex:02100103>可以在乙太之光廣場的玖布倫娜處交換<hex:02280BFF05>Item<hex:F2A0480103>。"
+2,"TEXT_CHRHDY451_04807_SEQ_02","將<hex:02280BFF05>Item<hex:F2A0480103>交給了曼德維爾家的工匠，改良了曼德維爾武器。如果還有其他想要改良的曼德維爾武器，可以再和曼德維爾家的工匠談談。"
 3,"TEXT_CHRHDY451_04807_SEQ_03",""
 4,"TEXT_CHRHDY451_04807_SEQ_04",""
 5,"TEXT_CHRHDY451_04807_SEQ_05",""
@@ -31,10 +26,7 @@ int32,str,str
 21,"TEXT_CHRHDY451_04807_SEQ_21",""
 22,"TEXT_CHRHDY451_04807_SEQ_22",""
 23,"TEXT_CHRHDY451_04807_SEQ_23",""
-24,"TEXT_CHRHDY451_04807_TODO_00","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))><Sheet(Item,41032,0)/><13>FF0F02280BFF054974656DF2A0480103FF04EBA5BCFF04EC9D84</13> 획득<Else/><If(Equal(IntegerParameter(4),19))><Sheet(Item,39920,0)/><13>FF0F02280BFF054974656DF29BF00103FF04EC9980FF04EAB3BC</13>
-<Sheet(Item,39939,0)/><13>FF0F02280BFF054974656DF29C030103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),20))><Sheet(Item,39921,0)/><13>FF0F02280BFF054974656DF29BF10103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),21))><Sheet(Item,39922,0)/><13>FF0F02280BFF054974656DF29BF20103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),22))><Sheet(Item,39923,0)/><13>FF0F02280BFF054974656DF29BF30103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),23))><Sheet(Item,39924,0)/><13>FF0F02280BFF054974656DF29BF40103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),24))><Sheet(Item,39928,0)/><13>FF0F02280BFF054974656DF29BF80103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),25))><Sheet(Item,39929,0)/><13>FF0F02280BFF054974656DF29BF90103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),27))><Sheet(Item,39930,0)/><13>FF0F02280BFF054974656DF29BFA0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),28))><Sheet(Item,39931,0)/><13>FF0F02280BFF054974656DF29BFB0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),30))><Sheet(Item,39925,0)/><13>FF0F02280BFF054974656DF29BF50103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),31))><Sheet(Item,39927,0)/><13>FF0F02280BFF054974656DF29BF70103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),32))><Sheet(Item,39926,0)/><13>FF0F02280BFF054974656DF29BF60103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),33))><Sheet(Item,39932,0)/><13>FF0F02280BFF054974656DF29BFC0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),34))><Sheet(Item,39933,0)/><13>FF0F02280BFF054974656DF29BFD0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),35))><Sheet(Item,39934,0)/><13>FF0F02280BFF054974656DF29BFE0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),37))><Sheet(Item,39935,0)/><13>FF0F02280BFF054974656DF298F70103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),38))><Sheet(Item,39936)/><13>FF0E02280AFF054974656DF19C0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),39))><Sheet(Item,39938,0)/><13>FF0F02280BFF054974656DF29C020103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),40))><Sheet(Item,39937,0)/><13>FF0F02280BFF054974656DF29C010103FF04EBA5BCFF04EC9D84</13><Else/></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If> 장비에서 해제하고
-소지품에 보유한 상태로
-맨더빌 가 장인에게 <Sheet(Item,41032,0)/> 전달</If>"
+24,"TEXT_CHRHDY451_04807_TODO_00","<hex:0208F2029BE3E802E803FF15>獲取<hex:02280BFF05>Item<hex:F2A0480103><hex:FFF2027C>卸下<hex:0208F20225E4E80514FF24><hex:02280BFF05>Item<hex:F29BF00103>與<hex:02100103><hex:02280BFF05>Item<hex:F29C030103><hex:FFF201F8><hex:0208F201F2E4E80515FF0F><hex:02280BFF05>Item<hex:F29BF10103><hex:FFF201DA><hex:0208F201D4E4E80516FF0F><hex:02280BFF05>Item<hex:F29BF20103><hex:FFF201BC><hex:0208F201B6E4E80517FF0F><hex:02280BFF05>Item<hex:F29BF30103><hex:FFF2019E><hex:0208F20198E4E80518FF0F><hex:02280BFF05>Item<hex:F29BF40103><hex:FFF20180><hex:0208F2017AE4E80519FF0F><hex:02280BFF05>Item<hex:F29BF80103><hex:FFF20162><hex:0208F2015CE4E8051AFF0F><hex:02280BFF05>Item<hex:F29BF90103><hex:FFF20144><hex:0208F2013EE4E8051CFF0F><hex:02280BFF05>Item<hex:F29BFA0103><hex:FFF20126><hex:0208F20120E4E8051DFF0F><hex:02280BFF05>Item<hex:F29BFB0103><hex:FFF20108><hex:0208F20102E4E8051FFF0F><hex:02280BFF05>Item<hex:F29BF50103><hex:FFF0EB><hex:0208F0E6E4E80520FF0F><hex:02280BFF05>Item<hex:F29BF70103><hex:FFF0CF><hex:0208CCE4E80521FF0F><hex:02280BFF05>Item<hex:F29BF60103><hex:FFB6><hex:0208B2E4E80522FF0F><hex:02280BFF05>Item<hex:F29BFC0103><hex:FF9C><hex:020898E4E80523FF0F><hex:02280BFF05>Item<hex:F29BFD0103><hex:FF82><hex:02087EE4E80524FF0F><hex:02280BFF05>Item<hex:F29BFE0103><hex:FF68><hex:020864E4E80526FF0F><hex:02280BFF05>Item<hex:F29BFF0103><hex:FF4E><hex:02084AE4E80527FF0E><hex:02280AFF05>Item<hex:F19C0103><hex:FF35><hex:020831E4E80528FF0F><hex:02280BFF05>Item<hex:F29C020103><hex:FF1B><hex:020817E4E80529FF0F><hex:02280BFF05>Item<hex:F29C010103><hex:FF01><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03>放入兵裝庫或背包<hex:02100103>將<hex:02280BFF05>Item<hex:F2A0480103>交給曼德維爾家的工匠<hex:03>"
 25,"TEXT_CHRHDY451_04807_TODO_01",""
 26,"TEXT_CHRHDY451_04807_TODO_02",""
 27,"TEXT_CHRHDY451_04807_TODO_03",""
@@ -58,94 +50,47 @@ int32,str,str
 45,"TEXT_CHRHDY451_04807_TODO_21",""
 46,"TEXT_CHRHDY451_04807_TODO_22",""
 47,"TEXT_CHRHDY451_04807_TODO_23",""
-48,"TEXT_CHRHDY451_04807_SYSTEM_000_000","퀘스트 '맨더빌한 맨더빌 웨폰'에서 획득할 수 있는 무기는
-현재 직업인 '<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>' 전용 맨더빌 웨폰입니다."
-49,"TEXT_CHRHDY451_04807_SYSTEM_000_001","'맨더빌한 맨더빌 웨폰'을
-<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If><14>FF3B020837E3E94509FF1202280EFF09436C6173734A6F62E9450103FF1E02081AE1E94513FF1202280EFF09436C6173734A6F62E9450103FF010303FF04EBA19CFF07EC9CBCEBA19C</14> 수락하시겠습니까?"
-50,"TEXT_CHRHDY451_04807_Q1_000_001","<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If> 전용 맨더빌 웨폰을 만드시겠습니까?"
-51,"TEXT_CHRHDY451_04807_A1_000_002","조금 더 생각한다"
-52,"TEXT_CHRHDY451_04807_A1_000_003","<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If> 전용 맨더빌 웨폰 만들기"
-53,"TEXT_CHRHDY451_04807_SYSTEM_000_005","맨더빌 웨폰을 만들고 싶은 직업으로 변경한 후
-다시 맨더빌 가 장인에게 말을 거십시오."
-54,"TEXT_CHRHDY451_04807_SYSTEM_000_006","이미 '<Sheet(Item,IntegerParameter(1),0)/>' 및
-'<Sheet(Item,IntegerParameter(2),0)/>'<13>FF0E02280AFF054974656DE8030103FF04EBA5BCFF04EC9D84</13> 획득했습니다.
-다른 직업으로 변경한 후 다시 맨더빌 가 장인에게 말을 거십시오."
-55,"TEXT_CHRHDY451_04807_SYSTEM_000_007","이미 '<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 획득했습니다.
-다른 직업으로 변경한 후 다시 말을 거십시오."
-56,"TEXT_CHRHDY451_04807_SYSTEM_000_008","'<Sheet(Item,IntegerParameter(1),0)/>' 및
-'<Sheet(Item,IntegerParameter(2),0)/>'<13>FF0E02280AFF054974656DE8030103FF04EBA5BCFF04EC9D84</13> 소지하거나
-장비하지 않으면……"
-57,"TEXT_CHRHDY451_04807_SYSTEM_100_008","'맨더빌한 맨더빌 웨폰'을 수락할 수 없습니다."
-58,"TEXT_CHRHDY451_04807_SYSTEM_000_009","'<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 소지하거나 장비하지 않으면
-'맨더빌한 맨더빌 웨폰'을 수락할 수 없습니다."
-59,"TEXT_CHRHDY451_04807_CRAFTER04653_000_010","맨더빌 웨폰의 최종 개량 말씀이시죠?
-맡겨만 주십시오, 이쪽 준비는 완벽합니다!
-안타깝게도 '<Sheet(Item,41032,0)/>'만 빼고 말입니다만……."
-60,"TEXT_CHRHDY451_04807_CRAFTER04653_000_011","계속 부탁드려 죄송하지만,
-'<Sheet(Item,41032,0)/>'만 구해주시면 됩니다.
-3개 정도만 있으면 충분하니 잘 부탁드립니다!"
-61,"TEXT_CHRHDY451_04807_SYSTEM_000_012","'<Sheet(Item,41032,0)/>'<13>FF0F02280BFF054974656DF2A0480103FF04EB8A94FF04EC9D80</13>
-에테라이트 광장에 있는 '주브룬나'를 통해
-교환할 수 있습니다."
-62,"TEXT_CHRHDY451_04807_CRAFTER04653_000_020","'<Sheet(Item,41032,0)/>'<13>FF0F02280BFF054974656DF2A0480103FF04EB8A94FF04EC9D80</13> 구해 오셨나요?
-이쪽은 언제든지 최종 개량에 착수할 준비가 되어 있습니다!"
-63,"TEXT_CHRHDY451_04807_SYSTEM_000_021","'<Sheet(Item,41032,0)/>'<13>FF0F02280BFF054974656DF2A0480103FF04EB8A94FF04EC9D80</13>
-에테라이트 광장에 있는 '주브룬나'를 통해
-교환할 수 있습니다."
-64,"TEXT_CHRHDY451_04807_CRAFTER04653_000_030","재료를 구해 오셨군요!
-그럼 이제 최종 개량을 하고 싶으니
-'맨더빌 웨폰'을 장비에서 해제해 주시겠습니까?"
-65,"TEXT_CHRHDY451_04807_CRAFTER04653_000_031","기다리고 있었습니다!
-구해 오신 '<Sheet(Item,41032,0)/>'<13>FF0F02280BFF054974656DF2A0480103FF04EBA5BCFF04EC9D84</13> 저에게 주세요. "
-66,"TEXT_CHRHDY451_04807_CRAFTER04653_000_040","감사합니다.
-곧바로 제약당 분들의 협력을 받아, 필요한 성분을 추출하고
-게롤트 씨의 힘을 빌려 최종 개량에 착수하겠습니다!"
-67,"TEXT_CHRHDY451_04807_MANDERVILALCHEMIST_000_041","지금부터 마무리로 맨더빌리안 기름을 바르겠습니다.
-기름의 조합 정도에 따라 무기 능력을 조정할 수 있으니
-사용자인 당신의 취향을 말씀해 주십시오."
-68,"TEXT_CHRHDY451_04807_MANDERVILALCHEMIST_000_042","어떤 능력을 희망하시는지
-잘 생각해서 결정하시길 바랍니다……."
-69,"TEXT_CHRHDY451_04807_Q2_000_000","무엇을 하시겠습니까?"
-70,"TEXT_CHRHDY451_04807_A2_000_001","'맨더빌 웨폰'의 능력치 조정하기"
-71,"TEXT_CHRHDY451_04807_A2_000_002","설명 듣기"
-72,"TEXT_CHRHDY451_04807_A2_000_003","취소"
-73,"TEXT_CHRHDY451_04807_SYSTEM_000_043","최종 개량한 맨더빌 웨폰에
-3종류의 능력치를 선택해서 부여할 수 있습니다.
-그중 하나는 부여할 수 있는 수치가 낮아집니다."
-74,"TEXT_CHRHDY451_04807_SYSTEM_000_044","능력치를 고르고 나서
-'부여'를 선택하면
-해당 능력치가 부여됩니다."
-75,"TEXT_CHRHDY451_04807_SYSTEM_000_045","재조정을 할 경우에도
-'<Sheet(Item,41032,0)/>'<13>FF0F02280BFF054974656DF2A0480103FF04EAB080FF04EC9DB4</13> 필요하므로
-신중하게 능력치를 조정하세요."
-76,"TEXT_CHRHDY451_04807_MANDERVILALCHEMIST_000_046","알겠습니다!
-그럼 마무리 작업을 하겠습니다……!"
-77,"TEXT_CHRHDY451_04807_GEROLT_000_047","좋아, 완성했어!
-그것이 바로 맨더빌 웨폰의 마지막 단계……"
-78,"TEXT_CHRHDY451_04807_GEROLT_000_048","'<Sheet(Item,IntegerParameter(1),0)/>',
-그리고 '<Sheet(Item,IntegerParameter(2),0)/>'<13>FF0E02280AFF054974656DE8030103FF04EB8BA4FF07EC9DB4EB8BA4</13>!"
-79,"TEXT_CHRHDY451_04807_GEROLT_000_049","'<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EB8BA4FF07EC9DB4EB8BA4</13>! "
-80,"TEXT_CHRHDY451_04807_CRAFTER04653_000_050","또 하나의 맨더빌 웨폰이 완성되었습니다!
-홀딱 반할 만한 완성도입니다!"
-81,"TEXT_CHRHDY451_04807_GEROLT_000_051","뭐, 거의 대부분 내 능력이지만,
-너희도 조금은 실력이 좋아진 것 같구만……."
-82,"TEXT_CHRHDY451_04807_CRAFTER04653_000_052","저, 정말입니까?
-게롤트 님께 인정을 받다니 분에 넘치는 영광입니다!"
-83,"TEXT_CHRHDY451_04807_GEROLT_000_053","아, 아니, 그렇다고 지금 그 춤을 출 필요는 없잖아?"
-84,"TEXT_CHRHDY451_04807_CRAFTER04653_000_054","'신사의 춤'은 물론 <Sheet(Item,41032,0)/>에서
-성분을 추출하기 위해 고안된 것이지만……
-맨더빌 가에서는 대대로 기쁨을 표현할 때마다 췄거든요!"
-85,"TEXT_CHRHDY451_04807_MANDERVILALCHEMIST_000_055","게롤트 님도 함께 추시는 게 어떨까요!?"
-86,"TEXT_CHRHDY451_04807_GEROLT_000_056","웃기지 마!
-내가 거기 왜 끼냐고!"
-87,"TEXT_CHRHDY451_04807_CRAFTER04653_000_060","또 하나 맨더빌 웨폰을 완성했군요!
-이것 또한 아주 훌륭한 완성도입니다!"
-88,"TEXT_CHRHDY451_04807_GEROLT_000_061","외계인의 기술이든 뭐든
-내 손만 거치면 무조건 일급품이 된다고!"
-89,"TEXT_CHRHDY451_04807_CRAFTER04653_000_070","자, 다른 맨더빌 웨폰의 최종 개량이 필요하다면
-또 저에게 말을 걸어 주십시오."
-90,"TEXT_CHRHDY451_04807_CRAFTER04653_000_071","'<Sheet(Item,41032,0)/>'만 조달해 주신다면
-저희가 최종 개량을 할 테니 기다리고 있겠습니다."
-91,"TEXT_CHRHDY451_04807_MANDERVILALCHEMIST_000_072","무기 능력치를 재조정하고 싶은 경우에는
-'<Sheet(Item,41032,0)/>'<13>FF0F02280BFF054974656DF2A0480103FF04EBA5BCFF04EC9D84</13> 준비한 뒤에
-저에게 말을 걸어주시면 대응해 드리겠습니다."
+48,"TEXT_CHRHDY451_04807_SYSTEM_000_000","「精美絕倫的曼德維爾武器」任務中獲得的武器，<hex:02100103>將是目前職業<hex:020837E3E94509FF12><hex:02280EFF09>ClassJob<hex:E9450103><hex:FF1E><hex:02081AE1E94513FF12><hex:02280EFF09>ClassJob<hex:E9450103><hex:FF01><hex:03><hex:03>的曼德維爾武器。"
+49,"TEXT_CHRHDY451_04807_SYSTEM_000_001","確定要以<hex:020837E3E94509FF12><hex:02280EFF09>ClassJob<hex:E9450103><hex:FF1E><hex:02081AE1E94513FF12><hex:02280EFF09>ClassJob<hex:E9450103><hex:FF01><hex:03><hex:03>接受「精美絕倫的曼德維爾武器」任務嗎？"
+50,"TEXT_CHRHDY451_04807_Q1_000_001","要製作<hex:020837E3E94509FF12><hex:02280EFF09>ClassJob<hex:E9450103><hex:FF1E><hex:02081AE1E94513FF12><hex:02280EFF09>ClassJob<hex:E9450103><hex:FF01><hex:03><hex:03>的曼德維爾武器嗎？"
+51,"TEXT_CHRHDY451_04807_A1_000_002","再考慮一下"
+52,"TEXT_CHRHDY451_04807_A1_000_003","製作<hex:020837E3E94509FF12><hex:02280EFF09>ClassJob<hex:E9450103><hex:FF1E><hex:02081AE1E94513FF12><hex:02280EFF09>ClassJob<hex:E9450103><hex:FF01><hex:03><hex:03>的曼德維爾武器"
+53,"TEXT_CHRHDY451_04807_SYSTEM_000_005","請切換成想製作曼德維爾武器的特職，<hex:02100103>再次與曼德維爾家的工匠對話。"
+54,"TEXT_CHRHDY451_04807_SYSTEM_000_006","已擁有<hex:02280AFF05>Item<hex:E8020103>和<hex:02280AFF05>Item<hex:E8030103>。<hex:02100103>請切換成其他特職再次與曼德維爾家的工匠對話。"
+55,"TEXT_CHRHDY451_04807_SYSTEM_000_007","已擁有<hex:02280AFF05>Item<hex:E8020103>。<hex:02100103>請切換成其他特職再次與曼德維爾家的工匠對話。"
+56,"TEXT_CHRHDY451_04807_SYSTEM_000_008","要接受任務「精美絕倫的曼德維爾武器」，<hex:02100103>需持有或裝備上<hex:02280AFF05>Item<hex:E8020103>與<hex:02280AFF05>Item<hex:E8030103>。"
+57,"TEXT_CHRHDY451_04807_SYSTEM_100_008","無法接受任務「精美絕倫的曼德維爾武器」。"
+58,"TEXT_CHRHDY451_04807_SYSTEM_000_009","要接受任務「精美絕倫的曼德維爾武器」，<hex:02100103>需持有或裝備上<hex:02280AFF05>Item<hex:E8020103>。"
+59,"TEXT_CHRHDY451_04807_CRAFTER04653_000_010","要最終改良曼德維爾武器是吧！<hex:02100103>素材我已經準備好了！<hex:02100103>不過還差3個<hex:02280BFF05>Item<hex:F2A0480103>……"
+60,"TEXT_CHRHDY451_04807_CRAFTER04653_000_011","真是抱歉。<hex:02100103>收集<hex:02280BFF05>Item<hex:F2A0480103>的事就拜託你了。"
+61,"TEXT_CHRHDY451_04807_SYSTEM_000_012","<hex:02280BFF05>Item<hex:F2A0480103>可以在乙太之光廣場的玖布倫娜處交換。"
+62,"TEXT_CHRHDY451_04807_CRAFTER04653_000_020","你收集到3個<hex:02280BFF05>Item<hex:F2A0480103>了嗎？<hex:02100103>我會在這裡邊做準備邊等你的！"
+63,"TEXT_CHRHDY451_04807_SYSTEM_000_021","<hex:02280BFF05>Item<hex:F2A0480103>可以在乙太之光廣場的玖布倫娜處交換。"
+64,"TEXT_CHRHDY451_04807_CRAFTER04653_000_030","看來你已經集齊素材了！<hex:02100103>那麼，請把你需要進行最終改良的曼德維爾武器一起拿來交給我吧！"
+65,"TEXT_CHRHDY451_04807_CRAFTER04653_000_031","我正在等你呢！<hex:02100103>請把收集到的<hex:02280BFF05>Item<hex:F2A0480103>給我吧。"
+66,"TEXT_CHRHDY451_04807_CRAFTER04653_000_040","謝謝！<hex:02100103>我這就和製藥堂的人一起提煉出需要的成分，<hex:02100103>再請蓋羅爾特閣下一起對你的武器進行最終改良！"
+67,"TEXT_CHRHDY451_04807_MANDERVILALCHEMIST_000_041","接下來我會開始往武器上塗抹曼德維爾星油。<hex:02100103>透過對油脂配比的調整，可以改變武器的能力，<hex:02100103>請說一下你的要求吧。"
+68,"TEXT_CHRHDY451_04807_MANDERVILALCHEMIST_000_042","至於你具體想要什麼樣的能力，<hex:02100103>我建議你慎重考慮後再做出決定……"
+69,"TEXT_CHRHDY451_04807_Q2_000_000","要做什麼？"
+70,"TEXT_CHRHDY451_04807_A2_000_001","調整曼德維爾武器的能力"
+71,"TEXT_CHRHDY451_04807_A2_000_002","聽取說明"
+72,"TEXT_CHRHDY451_04807_A2_000_003","取消"
+73,"TEXT_CHRHDY451_04807_SYSTEM_000_043","可以選擇為最終改良後的曼德維爾武器賦予3種屬性。<hex:02100103>其中一種屬性可賦予的數值會低於其他屬性。"
+74,"TEXT_CHRHDY451_04807_SYSTEM_000_044","選擇屬性後，點選「確定」按鈕，<hex:02100103>即可將選好的屬性賦予到武器上。"
+75,"TEXT_CHRHDY451_04807_SYSTEM_000_045","想要重新賦予屬性時，<hex:02100103>需要消耗<hex:02280BFF05>Item<hex:F2A0480103>。<hex:02100103>請經過慎重考慮後再進行武器的屬性調整。"
+76,"TEXT_CHRHDY451_04807_MANDERVILALCHEMIST_000_046","好的，我知道了！<hex:02100103>那就開始最後的步驟吧！"
+77,"TEXT_CHRHDY451_04807_GEROLT_000_047","做好了！<hex:02100103>這就是我們工匠魂鍛造出的最終階段的曼德維爾武器……"
+78,"TEXT_CHRHDY451_04807_GEROLT_000_048","<hex:02280AFF05>Item<hex:E8020103>和<hex:02280AFF05>Item<hex:E8030103>！"
+79,"TEXT_CHRHDY451_04807_GEROLT_000_049","<hex:02280AFF05>Item<hex:E8020103>！"
+80,"TEXT_CHRHDY451_04807_CRAFTER04653_000_050","曼德維爾武器的製作再次取得了成功！<hex:02100103>真是令人著迷的作品啊！"
+81,"TEXT_CHRHDY451_04807_GEROLT_000_051","雖說大部分都是本大爺的功勞，<hex:02100103>不過到了這個地步，我看你的手藝也進步了不少啊……"
+82,"TEXT_CHRHDY451_04807_CRAFTER04653_000_052","真、真的嗎？<hex:02100103>居然能夠得到蓋羅爾特閣下的認同，真是倍感光榮！"
+83,"TEXT_CHRHDY451_04807_GEROLT_000_053","喂、我說現在沒必要跳那個舞吧？"
+84,"TEXT_CHRHDY451_04807_CRAFTER04653_000_054","紳士之舞的確是為了從<hex:02280BFF05>Item<hex:F2A0480103>提取成分而編造的……<hex:02100103>但在曼德維爾家這邊一直都是用來表現喜悅的舞蹈！"
+85,"TEXT_CHRHDY451_04807_MANDERVILALCHEMIST_000_055","蓋羅爾特閣下也一起跳一次吧？！"
+86,"TEXT_CHRHDY451_04807_GEROLT_000_056","別給我得寸進尺！<hex:02100103>休想讓我加入到你們當中……"
+87,"TEXT_CHRHDY451_04807_CRAFTER04653_000_060","曼德維爾武器的製作再次取得了成功！<hex:02100103>這次也是令人著迷的作品啊！"
+88,"TEXT_CHRHDY451_04807_GEROLT_000_061","管它是外星人的技術還是什麼的，<hex:02100103>只要是我打造的武器，那肯定全都是上等貨！"
+89,"TEXT_CHRHDY451_04807_CRAFTER04653_000_070","那麼，如果你還有其他需要最終改良的曼德維爾武器的話，<hex:02100103>請再跟我聊聊吧。"
+90,"TEXT_CHRHDY451_04807_CRAFTER04653_000_071","只要你準備好足夠的<hex:02280BFF05>Item<hex:F2A0480103>，<hex:02100103>我們就會盡全力為你進行最終改良的！"
+91,"TEXT_CHRHDY451_04807_MANDERVILALCHEMIST_000_072","如果還想重新調整武器的能力，<hex:02100103>請準備好<hex:02280BFF05>Item<hex:F2A0480103>，<hex:02100103>找我說一聲就行。"

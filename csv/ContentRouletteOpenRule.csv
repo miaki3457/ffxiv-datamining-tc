@@ -1,5 +1,6 @@
 ﻿key,0,1
 #,,Type
+offset,4,0
 int32,bit&01,uint32
 0,False,2
 1,False,2

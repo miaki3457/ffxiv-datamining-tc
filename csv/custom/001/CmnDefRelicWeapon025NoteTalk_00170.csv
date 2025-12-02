@@ -1,25 +1,13 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_GJUSANA_000_000","'황도십이문서'…… 빛나는 무기를 가졌던
-고대 영웅들을 묘사한 고문서를 흔히 이렇게 부르지.
-이걸 가지고 싶다면, 음……."
-1,"TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_GJUSANA_000_001","고문서 1권당 <Sheet(Item,　28,0)/> 100개랑 교환하자.
-총 9권이 한 묶음으로 되어 있으니까
-1권씩 순서대로 건네줄게."
-2,"TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_010","'황도십이문서'에 적혀있는 과제를 모두 해결하면
-해당하는 '고대의 무기 아트마'의 성능이 향상됩니다."
-3,"TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_011","'황도십이문서'는 각 '고대의 무기 아트마'마다
-총 9권이 존재하며, 4종류 중에서 선택할 수 있습니다."
-4,"TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_012","잡 '나이트'의 경우에는 '검'에 7권,
-'방패'에 2권의 '황도십이문서'가 존재하며
-6종류 중에서 선택해 교환할 수 있습니다."
-5,"TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_013","획득한 '황도십이문서'에 있는 모든 목표를 완료한 후
-'그주사나'에게 오면 다른 '황도십이문서'를 교환할 수 있습니다."
-6,"TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_014","단, '황도십이문서'는 동시에 여러 권을 소지할 수 없습니다."
-7,"TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_015","다른 '황도십이문서'를 손에 넣고 싶을 때는
-기존에 가지고 있는 '황도십이문서'를 완료하거나
-파기해야 합니다."
-8,"TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_016","'황도십이문서'를 파기하고 싶을 때는
-'소지품'의 '임무용 아이템'에서 선택하여 파기하거나
-'그주사나'에게 파기해달라고 부탁하면 됩니다."
+0,"TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_GJUSANA_000_000","«黃道文書»……<hex:02100103>上面記載了上古英雄的事蹟，還有他們持有的光之武器。<hex:02100103>你要是想要的話……"
+1,"TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_GJUSANA_000_001","1卷古書需要拿100個<hex:02280FFF05>Item<hex:FF06>　28<hex:0103>來換。<hex:02100103>一套共有9卷，我會按順序一卷一卷地換給你的。"
+2,"TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_010","打倒黃道文書中記載的所有討伐目標，<hex:02100103>就能提升該上古武器·魂晶的效能。"
+3,"TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_011","每個上古武器·魂晶都配有9卷黃道文書，<hex:02100103>最開始只能交換其中的4種。"
+4,"TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_012","另外，「騎士」的黃道文書包含7卷「劍」和2卷「盾」，<hex:02100103>最開始只能交換其中的6種。"
+5,"TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_013","完成現有黃道文書中的內容後，<hex:02100103>就能和古·茱薩娜交換新的黃道文書。"
+6,"TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_014","但不能同時擁有多卷黃道文書。"
+7,"TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_015","如果想獲得其他黃道文書，<hex:02100103>就必須完成或丟棄現有的黃道文書。"
+8,"TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_016","如需丟棄黃道文書，<hex:02100103>可從「物品」的「任務道具」中選擇丟棄，<hex:02100103>也可以讓古·茱薩娜幫忙丟棄。"

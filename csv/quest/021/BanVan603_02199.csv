@@ -1,18 +1,14 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_BANVAN603_02199_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-나키 섬의 무나바누는 모험가에게 할 말이 있는 모양이다."
-1,"TEXT_BANVAN603_02199_SEQ_01","※ 이 퀘스트에는
- '<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정(직업 변경 제한)'<13>FF40024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA09528ECA781EC978520EBB380EAB2BD20ECA09CED959C29FF04EAB080FF04EC9DB4</13> 적용됩니다.
-   퀘스트 수락 시의 직업으로만 퀘스트를 진행할 수 있습니다.
-
-무나바누가 리누바누에게 말을 걸어보라고 한다. 나키 섬에 있는 '떼구름의 리누바누'와 대화하자."
-2,"TEXT_BANVAN603_02199_SEQ_02","리누바누가 분노한 조상의 영령을 진정시키기 위해 힘을 빌려달라고 부탁했다. 먼저 환상열석에 피는 <Sheet(EventItem,2001927,0)/><13>FF15022811FF0A4576656E744974656DF61E8C070103FF04EBA5BCFF04EC9D84</13> 손에 넣자."
-3,"TEXT_BANVAN603_02199_SEQ_03","<Sheet(EventItem,2001927,0)/><13>FF15022811FF0A4576656E744974656DF61E8C070103FF04EBA5BCFF04EC9D84</13> 손에 넣었다. 다음으로 오크 군두에 있는 <Sheet(EObj,2006695,0)/>에 <Sheet(EventItem,2001927,0)/><13>FF15022811FF0A4576656E744974656DF61E8C070103FF04EBA5BCFF04EC9D84</13> 바치자."
-4,"TEXT_BANVAN603_02199_SEQ_04","<Sheet(EventItem,2001927,0)/><13>FF15022811FF0A4576656E744974656DF61E8C070103FF04EBA5BCFF04EC9D84</13> 바쳤다. 마지막으로 <Sheet(EObj,2006696,0)/>에 감정 표현 '태양의 춤'을 사용하자."
-5,"TEXT_BANVAN603_02199_SEQ_05","'태양의 춤'을 추었다. 나키 섬에 있는 '떼구름의 리누바누'에게 보고하자."
-6,"TEXT_BANVAN603_02199_SEQ_06","리누바누에게 보고했다. 그는 모험가가 조상의 넋을 풀어준 것을 매우 고마워했다. 군두의 친구로서 앞으로도 그들을 도와주자."
+0,"TEXT_BANVAN603_02199_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整（限定職業）<hex:0249020103><hex:0248020103><hex:02100103>西風島的穆納瓦努有事情想要告訴冒險者。"
+1,"TEXT_BANVAN603_02199_SEQ_01","※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整（限定職業）任務，<hex:02100103>　需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>穆納瓦努希望冒險者去找利努瓦努。和西風島的群雲利努瓦努談談。"
+2,"TEXT_BANVAN603_02199_SEQ_02","利努瓦努希望冒險者協助他平息先祖英靈的怒火。先前往曲石祭壇，獲取<hex:022811FF0A>EventItem<hex:F61E8C070103>。"
+3,"TEXT_BANVAN603_02199_SEQ_03","獲得了<hex:022811FF0A>EventItem<hex:F61E8C070103>。再前往袞杜部落，向<hex:02280CFF05>EObj<hex:F61E9EA70103>獻上<hex:022811FF0A>EventItem<hex:F61E8C070103>。"
+4,"TEXT_BANVAN603_02199_SEQ_04","獻好了<hex:022811FF0A>EventItem<hex:F61E8C070103>。最後對著<hex:02280CFF05>EObj<hex:F61E9EA80103>獻上情感動作「太陽之舞」。"
+5,"TEXT_BANVAN603_02199_SEQ_05","獻上了「太陽之舞」。向西風島的群雲利努瓦努報告。"
+6,"TEXT_BANVAN603_02199_SEQ_06","向利努瓦努報告完畢。他十分感謝冒險者幫忙平息了先祖英靈的怒火。作為袞杜族的友人，今後也要幫助他們。"
 7,"TEXT_BANVAN603_02199_SEQ_07",""
 8,"TEXT_BANVAN603_02199_SEQ_08",""
 9,"TEXT_BANVAN603_02199_SEQ_09",""
@@ -30,11 +26,11 @@ int32,str,str
 21,"TEXT_BANVAN603_02199_SEQ_21",""
 22,"TEXT_BANVAN603_02199_SEQ_22",""
 23,"TEXT_BANVAN603_02199_SEQ_23",""
-24,"TEXT_BANVAN603_02199_TODO_00","떼구름의 리누바누와 대화"
-25,"TEXT_BANVAN603_02199_TODO_01","<Sheet(EventItem,2001927,0)/> 입수"
-26,"TEXT_BANVAN603_02199_TODO_02","<Sheet(EObj,2006695,0)/>에 <Sheet(EventItem,2001927,0)/> 놓기"
-27,"TEXT_BANVAN603_02199_TODO_03","<Sheet(EObj,2006696,0)/>에 '/태양의춤' 사용"
-28,"TEXT_BANVAN603_02199_TODO_04","떼구름의 리누바누에게 보고"
+24,"TEXT_BANVAN603_02199_TODO_00","和群雲利努瓦努對話"
+25,"TEXT_BANVAN603_02199_TODO_01","獲取<hex:022811FF0A>EventItem<hex:F61E8C070103>"
+26,"TEXT_BANVAN603_02199_TODO_02","將<hex:022811FF0A>EventItem<hex:F61E8C070103>放在<hex:02280CFF05>EObj<hex:F61E9EA70103>"
+27,"TEXT_BANVAN603_02199_TODO_03","對<hex:02280CFF05>EObj<hex:F61E9EA80103>做「太陽之舞」的情感動作"
+28,"TEXT_BANVAN603_02199_TODO_04","向群雲利努瓦努報告"
 29,"TEXT_BANVAN603_02199_TODO_05",""
 30,"TEXT_BANVAN603_02199_TODO_06",""
 31,"TEXT_BANVAN603_02199_TODO_07",""
@@ -54,32 +50,14 @@ int32,str,str
 45,"TEXT_BANVAN603_02199_TODO_21",""
 46,"TEXT_BANVAN603_02199_TODO_22",""
 47,"TEXT_BANVAN603_02199_TODO_23",""
-48,"TEXT_BANVAN603_02199_02199_MUNAVANU_000_001","<Highlight>ObjectParameter(1)</Highlight> 님, <Highlight>ObjectParameter(1)</Highlight> 님,
-리누바누 님이 찾으셨습니다.
-시간이 있으면 꼭 찾아와 달라시더군요."
-49,"TEXT_BANVAN603_02199_02199_MUNAVANU_000_010","（★未使用／削除予定★）"
-50,"TEXT_BANVAN603_02199_02199_LINUVANU_000_020","왔군, 왔군, <Highlight>ObjectParameter(1)</Highlight>.
-실은 아주 난처한 일이 생기는 바람에……
-자네에게 긴히 부탁하고 싶은 일이 있다."
-51,"TEXT_BANVAN603_02199_02199_LINUVANU_000_021","어제 게일리캣을 날려 길흉을 점쳤는데
-제자리를 빙글빙글 돌더니 구름바다 밑으로 추락하더군.
-조상님께서 우리 군두의 한심한 모습을 보고 노하신 게 확실해."
-52,"TEXT_BANVAN603_02199_02199_LINUVANU_000_022","영령의 노여움을 풀어드리려면, 군두의 친구가
-<Sheet(EObj,2006696,0)/> 앞에 <Sheet(EventItem,2001927,0)/><13>FF15022811FF0A4576656E744974656DF61E8C070103FF04EBA5BCFF04EC9D84</13> 바치고
-'태양의 춤'을 추어야 하는데……."
-53,"TEXT_BANVAN603_02199_02199_LINUVANU_000_023","부탁할 수 있는 사람이 자네밖에 없구나!
-환상열석에서 <Sheet(EventItem,2001927,0)/><13>FF15022811FF0A4576656E744974656DF61E8C070103FF04EBA5BCFF04EC9D84</13> 구해
-'오크 군두'에 계신 영령의 노여움을 가라앉혀다오!"
-54,"TEXT_BANVAN603_02199_02199_LINUVANU_000_030","영령의 노여움을 풀어드리려면, 군두의 친구가
-<Sheet(EObj,2006696,0)/> 앞에 <Sheet(EventItem,2001927,0)/><13>FF15022811FF0A4576656E744974656DF61E8C070103FF04EBA5BCFF04EC9D84</13> 바치고
-'태양의 춤'을 추어야 하는데……."
-55,"TEXT_BANVAN603_02199_02199_LINUVANU_000_035","부탁할 수 있는 사람이 자네밖에 없구나!
-환상열석에서 <Sheet(EventItem,2001927,0)/><13>FF15022811FF0A4576656E744974656DF61E8C070103FF04EBA5BCFF04EC9D84</13> 찾아 꽃을 꺾고
-'오크 군두'에 계신 영령의 노여움을 가라앉혀다오!"
-56,"TEXT_BANVAN603_02199_02199_SYSTEM_000_040","이곳에서 '태양의 춤'을 추면 되는 것 같다……."
-57,"TEXT_BANVAN603_02199_02199_LINUVANU_000_070","그래, 그래, <Sheet(EObj,2006696,0)/>에서
-'태양의 춤'을 추고 왔단 말이지…… 고맙다!
-이젠 조상님께서 노여움을 푸셨겠지."
-58,"TEXT_BANVAN603_02199_02199_LINUVANU_000_071","그나저나, 게일리캣이 구름바다 밑으로 떨어지다니……
-'구름바다넝쿨' 냄새에 취한 것도 아니었을 텐데 말이다.
-설마…… 아니, 괜한 생각이겠지."
+48,"TEXT_BANVAN603_02199_02199_MUNAVANU_000_001","<hex:022903EB0203>、<hex:022903EB0203>，<hex:02100103>利努瓦努大人有話捎給你，<hex:02100103>讓你有時間的時候去找他一趟。"
+49,"TEXT_BANVAN603_02199_02199_MUNAVANU_000_010","無"
+50,"TEXT_BANVAN603_02199_02199_LINUVANU_000_020","你來了、你來了，<hex:022903EB0203>，<hex:02100103>事態緊急，我需要你的幫助！"
+51,"TEXT_BANVAN603_02199_02199_LINUVANU_000_021","昨天我放飛風箏貓占卜了一下，<hex:02100103>結果它轉了好幾個圈最後掉到了雲海之下……<hex:02100103>這肯定預示著先祖的英靈在氣我們袞杜族太窩囊。"
+52,"TEXT_BANVAN603_02199_02199_LINUVANU_000_022","為了平息英靈的怒火，<hex:02100103>需要讓袞杜族的友人在<hex:02280CFF05>EObj<hex:F61E9EA80103>前獻上<hex:022811FF0A>EventItem<hex:F61E8C070103>，<hex:02100103>並跳上一支太陽之舞……"
+53,"TEXT_BANVAN603_02199_02199_LINUVANU_000_023","請你、請你去曲石祭壇採取<hex:022811FF0A>EventItem<hex:F61E8C070103>，<hex:02100103>然後在袞杜部落平息英靈的怒火！"
+54,"TEXT_BANVAN603_02199_02199_LINUVANU_000_030","為了平息英靈的怒火，<hex:02100103>需要讓袞杜族的友人在<hex:02280CFF05>EObj<hex:F61E9EA80103>前獻上<hex:022811FF0A>EventItem<hex:F61E8C070103>，<hex:02100103>並跳上一支太陽之舞……"
+55,"TEXT_BANVAN603_02199_02199_LINUVANU_000_035","請你、請你去曲石祭壇採取<hex:022811FF0A>EventItem<hex:F61E8C070103>，<hex:02100103>然後在袞杜部落平息英靈的怒火！"
+56,"TEXT_BANVAN603_02199_02199_SYSTEM_000_040","只要在這裡獻上「太陽之舞」就可以了……"
+57,"TEXT_BANVAN603_02199_02199_LINUVANU_000_070","回來啦、回來啦，<hex:02100103>你已經向<hex:02280CFF05>EObj<hex:F61E9EA80103>獻上太陽之舞了吧，<hex:02100103>謝謝你！這下先祖的英靈肯定能夠安息了。"
+58,"TEXT_BANVAN603_02199_02199_LINUVANU_000_071","但真沒想到風箏貓會掉進雲海裡。<hex:02100103>它不會是被雲海藤醺醉了吧……<hex:02100103>大概不會吧……"

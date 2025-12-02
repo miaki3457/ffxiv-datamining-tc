@@ -1,13 +1,12 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_JOBSCH520_01672_SEQ_00","방랑자의 궁전에 있는 스리토 카리토는 모험가에게 부탁하고 싶은 일이 있는 듯하다."
-1,"TEXT_JOBSCH520_01672_SEQ_01","스리토 카리토의 의뢰를 받았다. 고지 라노시아 '청동호수' 동쪽 유적에 있는 '알카 졸카'와 대화하자."
-2,"TEXT_JOBSCH520_01672_SEQ_02","알카 졸카와 대화했다. 청동호수 동쪽 유적에 있는 <Sheet(EObj,2005520,0)/><13>FF1002280CFF05454F626AF61E9A100103FF04EBA5BCFF04EC9D84</13> 손에 넣자."
-3,"TEXT_JOBSCH520_01672_SEQ_03","큰쐐기돌의 수호자를 물리치고 <Sheet(EventItem,2001586,0)/><13>FF15022811FF0A4576656E744974656DF61E8AB20103FF04EBA5BCFF04EC9D84</13> 손에 넣었다. 방랑자의 궁전에 있는 '스리토 카리토'에게 <Sheet(EventItem,2001586,0)/><13>FF15022811FF0A4576656E744974656DF61E8AB20103FF04EBA5BCFF04EC9D84</13> 건네자."
-4,"TEXT_JOBSCH520_01672_SEQ_04","스리토 카리토에게 <Sheet(EventItem,2001586,0)/><13>FF15022811FF0A4576656E744974656DF61E8AB20103FF04EBA5BCFF04EC9D84</13> 건넸다. 그는 방랑자의 궁전 일부를 중환자들과 함께 재봉인하고, 톤베리병 치료법을 반드시 찾아내겠다고 했다.
-
-※ 학자 레벨이 54 이상 되면 방랑자의 궁전에 있는 스리토 카리토에게 다음 학자 퀘스트를 받을 수 있습니다."
+0,"TEXT_JOBSCH520_01672_SEQ_00","放浪神古神殿的斯里托·卡里托有事情想要拜託冒險者。"
+1,"TEXT_JOBSCH520_01672_SEQ_01","接受了斯里托·卡里托的委託。和拉諾西亞高地石綠湖東部遺跡的阿爾卡·佐爾卡對話。"
+2,"TEXT_JOBSCH520_01672_SEQ_02","和阿爾卡·佐爾卡進行了交談。獲取石綠湖東部遺跡內的<hex:02280CFF05>EObj<hex:F61E9A100103>。"
+3,"TEXT_JOBSCH520_01672_SEQ_03","擊退了大楔石的守護者，獲得了<hex:022811FF0A>EventItem<hex:F61E8AB20103>。將<hex:022811FF0A>EventItem<hex:F61E8AB20103>交給放浪神古神殿的斯里托·卡里托。"
+4,"TEXT_JOBSCH520_01672_SEQ_04","將<hex:022811FF0A>EventItem<hex:F61E8AB20103>交給了斯里托·卡里托。他打算在重新封印放浪神古神殿一角的同時，研究出尼姆瘟疫的治療方法。<hex:02100103><hex:02100103>※學者的等級達到54級以上時，可以從放浪神古神殿的斯里托·卡里托那裡領取下一個學者任務。"
 5,"TEXT_JOBSCH520_01672_SEQ_05",""
 6,"TEXT_JOBSCH520_01672_SEQ_06",""
 7,"TEXT_JOBSCH520_01672_SEQ_07",""
@@ -27,9 +26,9 @@ int32,str,str
 21,"TEXT_JOBSCH520_01672_SEQ_21",""
 22,"TEXT_JOBSCH520_01672_SEQ_22",""
 23,"TEXT_JOBSCH520_01672_SEQ_23",""
-24,"TEXT_JOBSCH520_01672_TODO_00","청동호수 동쪽 유적에서 알카 졸카와 대화"
-25,"TEXT_JOBSCH520_01672_TODO_01","<Sheet(EventItem,2001586,0)/> 입수"
-26,"TEXT_JOBSCH520_01672_TODO_02","스리토 카리토에게 <Sheet(EventItem,2001586,0)/> 전달"
+24,"TEXT_JOBSCH520_01672_TODO_00","和石綠湖東部遺跡的阿爾卡·佐爾卡對話"
+25,"TEXT_JOBSCH520_01672_TODO_01","獲取<hex:022811FF0A>EventItem<hex:F61E8AB20103>"
+26,"TEXT_JOBSCH520_01672_TODO_02","將<hex:022811FF0A>EventItem<hex:F61E8AB20103>交給斯里托·卡里托"
 27,"TEXT_JOBSCH520_01672_TODO_03",""
 28,"TEXT_JOBSCH520_01672_TODO_04",""
 29,"TEXT_JOBSCH520_01672_TODO_05",""
@@ -51,65 +50,32 @@ int32,str,str
 45,"TEXT_JOBSCH520_01672_TODO_21",""
 46,"TEXT_JOBSCH520_01672_TODO_22",""
 47,"TEXT_JOBSCH520_01672_TODO_23",""
-48,"TEXT_JOBSCH520_01672_SURITOCARITO_000_000","좋은 소식이 있네, <Highlight>ObjectParameter(1)</Highlight> 군.
-방랑자의 궁전을 봉인하고 있던 <Sheet(EObj,2005520,0)/>의 소재를
-드디어 알아내었다네."
-49,"TEXT_JOBSCH520_01672_SURITOCARITO_000_001","이게 다 알카 졸카 군이 열성적으로 조사를 도와준 덕분이지.
-그 친구는 '니므'에 대해 상당히 열심히 연구한 모양이더군.
-유적에 대한 그의 풍부한 지식이 큰 도움이 되었네."
-50,"TEXT_JOBSCH520_01672_SURITOCARITO_000_002","알카 졸카 군은 먼저 현장에 가 있네.
-동쪽에 있는 유적에서 '알카 졸카' 군과 합류한 다음
-<Sheet(EObj,2005520,0)/><13>FF1002280CFF05454F626AF61E9A100103FF04EBA5BCFF04EC9D84</13> 손에 넣게나."
-51,"TEXT_JOBSCH520_01672_SURITOCARITO_000_003","……하지만 조심해야 하네.
-일반적으로 큰쐐기돌은 강력한 '수호자'가 지키고 있으니 말이야."
-52,"TEXT_JOBSCH520_01672_SURITOCARITO_000_004","알카 졸카 군은 먼저 현장에 가 있네.
-동쪽에 있는 유적에서 '알카 졸카' 군과 합류한 다음
-<Sheet(EObj,2005520,0)/><13>FF1002280CFF05454F626AF61E9A100103FF04EBA5BCFF04EC9D84</13> 손에 넣게나."
-53,"TEXT_JOBSCH520_01672_SURITOCARITO_000_005","……하지만 조심해야 하네.
-일반적으로 큰쐐기돌은 강력한 '수호자'가 지키고 있으니 말이야."
-54,"TEXT_JOBSCH520_01672_ALKAZOLKA_000_010","왔구나, <Highlight>ObjectParameter(1)</Highlight>!
-<Sheet(EObj,2005520,0)/><13>FF1002280CFF05454F626AF61E9A100103FF04EB8A94FF04EC9D80</13> 여기 있어!"
-55,"TEXT_JOBSCH520_01672_ALKAZOLKA_000_011","큰쐐기돌에 손을 대면 '수호자'가 나타날 거야…….
-하지만 우리 둘이 뭉치면 무서울 게 없지.
-자, 준비됐으면 <Sheet(EObj,2005520,0)/><13>FF1002280CFF05454F626AF61E9A100103FF04EBA5BCFF04EC9D84</13> 조사해봐!"
-56,"TEXT_JOBSCH520_01672_ALKAZOLKA_000_012","큰쐐기돌에 손을 대면 '수호자'가 나타날 거야…….
-하지만 우리 둘이 뭉치면 무서울 게 없지.
-자, 준비됐으면 <Sheet(EObj,2005520,0)/><13>FF1002280CFF05454F626AF61E9A100103FF04EBA5BCFF04EC9D84</13> 조사해봐!"
-57,"TEXT_JOBSCH520_01672_ALKAZOLKA_000_013","큰쐐기돌을 지키는 '수호자'를 조심하게……."
-58,"TEXT_JOBSCH520_01672_ALKAZOLKA_000_014","그럼 그렇지!
-<Highlight>ObjectParameter(1)</Highlight>, 같이 저놈을 쓰러뜨리자!"
-59,"TEXT_JOBSCH520_01672_ALKAZOLKA_000_015","이겼어, <Highlight>ObjectParameter(1)</Highlight>!
-우리 신생 '해병단'이 승리했어!"
-60,"TEXT_JOBSCH520_01672_ALKAZOLKA_000_016","무사히 <Sheet(EventItem,2001586,0)/><13>FF15022811FF0A4576656E744974656DF61E8AB20103FF04EBA5BCFF04EC9D84</13> 손에 넣었으니
-이제 스리토 카리토 님한테 가자!"
-61,"TEXT_JOBSCH520_01672_SURITOCARITO_000_020","어떤가, <Highlight>ObjectParameter(1)</Highlight> 군.
-<Sheet(EventItem,2001586,0)/><13>FF15022811FF0A4576656E744974656DF61E8AB20103FF04EB8A94FF04EC9D80</13> 찾았나?"
-62,"TEXT_JOBSCH520_01672_SURITOCARITO_000_021","오, 이걸세…… 바로 이거야……!
-이 <Sheet(EventItem,2001586,0)/>만 있으면
-봉인마법을 다시 걸 수 있네!"
-63,"TEXT_JOBSCH520_01672_ALKAZOLKA_000_022","저, 정말요!?"
-64,"TEXT_JOBSCH520_01672_SURITOCARITO_000_023","두 사람 다 정말 고맙네!
-이제 방랑자의 궁전 일부를 다시 봉인하여
-중환자들을 잠들게 할 준비를 해야겠어……."
-65,"TEXT_JOBSCH520_01672_SURITOCARITO_000_024","그들이 잠든 사이에 반드시……
-반드시 '톤베리병' 치료법을 찾아내고 말 걸세!"
-66,"TEXT_JOBSCH520_01672_ALKAZOLKA_000_025","이왕 이렇게 된 거 끝까지 돕겠습니다!
-그렇지, <Highlight>ObjectParameter(1)</Highlight>?"
-67,"TEXT_JOBSCH520_01672_SURITOCARITO_000_026","정말 고맙네, 알카 졸카 군…….
-그리고 <Highlight>ObjectParameter(1)</Highlight> 군은 잠시 못 본 사이에
-더욱더 뛰어난 학자가 되었구나."
-68,"TEXT_JOBSCH520_01672_SURITOCARITO_000_027","자네도 이제 니므 군학 석사만이 다룰 수 있는
-상급 군학마법 '불요불굴책'을 능히 다룰 수 있겠군…….
-새 시대의 학자여, 우리의 지식을 물려받게나!"
+48,"TEXT_JOBSCH520_01672_SURITOCARITO_000_000","好消息，<hex:022903EB0203>。<hex:02100103>我總算找到封印了古神殿的<hex:02280CFF05>EObj<hex:F61E9A100103>的所在之處了。"
+49,"TEXT_JOBSCH520_01672_SURITOCARITO_000_001","多虧有阿爾卡·佐爾卡協助我進行調查。<hex:02100103>他似乎很熱衷於對尼姆的研究，<hex:02100103>對於現存遺跡的豐富知識真是幫上大忙了。"
+50,"TEXT_JOBSCH520_01672_SURITOCARITO_000_002","地點就在東邊的遺跡，阿爾卡·佐爾卡已經趕過去了。<hex:02100103>我希望你能跟他會合，取回<hex:02280CFF05>EObj<hex:F61E9A100103>。"
+51,"TEXT_JOBSCH520_01672_SURITOCARITO_000_003","……不過有一點請你們小心。<hex:02100103>大楔石周圍必定會有強大的「守護者」守護在旁，<hex:02100103>這是自古以來的規矩。"
+52,"TEXT_JOBSCH520_01672_SURITOCARITO_000_004","地點就在東邊的遺跡，阿爾卡·佐爾卡已經趕過去了。<hex:02100103>我希望你能跟他會合，取回<hex:02280CFF05>EObj<hex:F61E9A100103>。"
+53,"TEXT_JOBSCH520_01672_SURITOCARITO_000_005","……不過有一點請你們小心。<hex:02100103>大楔石周圍必定會有強大的「守護者」守護在旁，<hex:02100103>這是自古以來的規矩。"
+54,"TEXT_JOBSCH520_01672_ALKAZOLKA_000_010","等你好久了，<hex:022903EB0203>！<hex:02100103>這個就是<hex:02280CFF05>EObj<hex:F61E9A100103>！"
+55,"TEXT_JOBSCH520_01672_ALKAZOLKA_000_011","一旦有人想帶走大楔石，守護者應該就會現身……<hex:02100103>不過我們合力的話，幹掉它應該沒什麼問題吧？<hex:02100103>好的，先做好戰鬥準備，再調查大楔石！"
+56,"TEXT_JOBSCH520_01672_ALKAZOLKA_000_012","一旦有人想帶走大楔石，守護者應該就會現身……<hex:02100103>不過我們合力的話，幹掉它應該沒什麼問題吧？<hex:02100103>好的，先做好戰鬥準備，再調查大楔石！"
+57,"TEXT_JOBSCH520_01672_ALKAZOLKA_000_013","要小心大楔石的守護者啊……"
+58,"TEXT_JOBSCH520_01672_ALKAZOLKA_000_014","果、果然出現了嗎！<hex:02100103><hex:022903EB0203>，總之我們先打倒這傢伙！"
+59,"TEXT_JOBSCH520_01672_ALKAZOLKA_000_015","幹得好，<hex:022903EB0203>！<hex:02100103>勝利屬於我們新生海兵團！"
+60,"TEXT_JOBSCH520_01672_ALKAZOLKA_000_016","<hex:022811FF0A>EventItem<hex:F61E8AB20103>也平安到手了，<hex:02100103>我們快回斯里托·卡里托先生那裡去吧！"
+61,"TEXT_JOBSCH520_01672_SURITOCARITO_000_020","怎麼樣，<hex:022903EB0203>，<hex:02100103>找到<hex:022811FF0A>EventItem<hex:F61E8AB20103>了嗎？"
+62,"TEXT_JOBSCH520_01672_SURITOCARITO_000_021","哦哦，就是這個……就是這個！<hex:02100103>只要有了這個<hex:022811FF0A>EventItem<hex:F61E8AB20103>，<hex:02100103>就能夠重新啟動封印魔法了！"
+63,"TEXT_JOBSCH520_01672_ALKAZOLKA_000_022","太、太好了！"
+64,"TEXT_JOBSCH520_01672_SURITOCARITO_000_023","謝謝你們！<hex:02100103>我這就將古神殿的一角再次封印起來，<hex:02100103>讓重症患者們沉睡……"
+65,"TEXT_JOBSCH520_01672_SURITOCARITO_000_024","在他們沉睡的這段時間裡無論如何……<hex:02100103>無論如何也要找到尼姆瘟疫的治療方法！"
+66,"TEXT_JOBSCH520_01672_ALKAZOLKA_000_025","幫人幫到底，我們會幫你到最後的！<hex:02100103>是吧，<hex:022903EB0203>！"
+67,"TEXT_JOBSCH520_01672_SURITOCARITO_000_026","謝謝你，阿爾卡·佐爾卡……<hex:02100103>還有，<hex:022903EB0203>……數日不見，你的學者技術似乎又有進步了呢。"
+68,"TEXT_JOBSCH520_01672_SURITOCARITO_000_027","如今的你，或許可以熟練運用只有尼姆軍事學者中的修士<hex:02100103>才能掌握的高級軍事魔法「不屈不撓之策」了……<hex:02100103>新時代的學者啊，繼承我等的知識吧！"
 69,"TEXT_JOBSCH520_01672_SYSTEM_000_028","（★未使用／削除予定★）"
-70,"TEXT_JOBSCH520_01672_QIB_001_TODO_1","큰쐐기돌의 수호자를 쓰러뜨려라!"
-71,"TEXT_JOBSCH520_01672_QIB_001_ALKAZOLKA_BATTLETALK_01","좋아, 내가 해병 기술로 적을 유인할게!
-너랑 요정은 뒤에서 날 도와줘!"
-72,"TEXT_JOBSCH520_01672_QIB_001_ALKAZOLKA_BATTLETALK_02","영혼석을 파괴하면
-골렘의 움직임을 잠깐 동안 멈출 수 있어!"
-73,"TEXT_JOBSCH520_01672_QIB_001_ALKAZOLKA_BATTLETALK_03","좋아, 지금이다!
-녀석이 멈춘 동안 공격을 퍼부어!"
-74,"TEXT_JOBSCH520_01672_QIB_001_ALKAZOLKA_BATTLETALK_04","아주 좋아, <Highlight>ObjectParameter(1)</Highlight>!"
-75,"TEXT_JOBSCH520_01672_QIB_001_ALKAZOLKA_BATTLETALK_05","이야아압! 이대로 밀어붙여!"
-76,"TEXT_JOBSCH520_01672_QIB_001_ALKAZOLKA_BATTLETALK_06","바, 방심했다…….
-뒷일을…… 부탁해……."
+70,"TEXT_JOBSCH520_01672_QIB_001_TODO_1","打倒大楔石的守護者！"
+71,"TEXT_JOBSCH520_01672_QIB_001_ALKAZOLKA_BATTLETALK_01","好的，我來用海兵戰技吸引敵人的注意力！<hex:02100103>支援治療就交給你和小仙女了！"
+72,"TEXT_JOBSCH520_01672_QIB_001_ALKAZOLKA_BATTLETALK_02","只要破壞掉魂石，<hex:02100103>應該就能暫時令魔像停止行動！"
+73,"TEXT_JOBSCH520_01672_QIB_001_ALKAZOLKA_BATTLETALK_03","好，現在是進攻的好機會！<hex:02100103>趁著它無法行動的空檔集中攻擊！"
+74,"TEXT_JOBSCH520_01672_QIB_001_ALKAZOLKA_BATTLETALK_04","狀態不錯嘛，不愧是<hex:022903EB0203>！"
+75,"TEXT_JOBSCH520_01672_QIB_001_ALKAZOLKA_BATTLETALK_05","嗚喔喔，一鼓作氣幹掉它！"
+76,"TEXT_JOBSCH520_01672_QIB_001_ALKAZOLKA_BATTLETALK_06","大、大意了……<hex:02100103>之後就……拜託你了……"

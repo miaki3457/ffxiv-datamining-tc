@@ -1,275 +1,122 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_000","삐삐…… 마도 단말을 기동합니다."
-1,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_001","삐삐…… 마도 단말을 기동합니다.
-무엇을 도와드릴까요?"
-2,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_100","죄송합니다.
-현재, 열람 가능한 데이터가 없습니다.
-종료 중…… 종료 중……."
-3,"TEXT_REGGYR3OMEGATERMINAL_00424_A1_000_110","'영웅 계획' 기동"
-4,"TEXT_REGGYR3OMEGATERMINAL_00424_A1_000_111","'제2회 영웅 계획' 기동"
-5,"TEXT_REGGYR3OMEGATERMINAL_00424_A1_000_112","'제3회 영웅 계획' 기동"
-6,"TEXT_REGGYR3OMEGATERMINAL_00424_A1_000_120","오메가에 관한 보고서 읽기"
-7,"TEXT_REGGYR3OMEGATERMINAL_00424_A1_000_130","취소"
-8,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_200","삐삐…… 지지직……
-지사에서 근무하시는 갈론드 아이언웍스 사원 여러분!
-좋은 아침입니다! 오늘도 일하기 좋은 날씨군요!"
-9,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_201","어제의 피로가 남아 있지 않나요?
-수면과 식사는 충분히 취하셨나요?
-공방에 틀어박혀 있느라 눈이 침침하지는 않으신가요?"
-10,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_202","지친 표정을 하고 계신 당신을 위해
-몸과 마음을 풀어드릴 수 있게 도움을 드리는 것이
-바로 '영웅 계획'입니다!"
-11,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_203","자, 오늘부터는 '치유의 선율' 시리즈가 시작됩니다.
-최고로 편안한 음악을 여러분께 보내드립니다!"
-12,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_204","지금 듣고 계신 곡은, 어떤 음유시인의 협조를 얻어
-제작, 녹음되었습니다."
-13,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_205","매우 높은 치유 효과로써
-사원 여러분의 창작 의욕을 북돋울 것입니다."
-14,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_206","……아주 드물게, 창작 의욕이 넘친 나머지
-자신의 기억을 과장하게 될 수 있습니다.
-감상 시간에 주의해주십시오."
-15,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_207","그럼 알찬 노동 시간을 보내시기 바랍니다!
-기술은 자유를 위해서…….
-갈론드 아이언웍스에서 보내드렸습니다!"
-16,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_220","삐삐…… 지지직……
-지사에서 근무하시는 갈론드 아이언웍스 사원 여러분!
-좋은 아침입니다! 오늘도 일하기 좋은 날씨군요!"
-17,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_221","지금 듣고 계신 방송은 음악으로 편안한 시간을 제공하여
-여러분의 몸과 마음을 풀어드리고자 하는……
-제2회 '영웅 계획'입니다."
-18,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_222","……잔잔한 바다를 떠오르게 만드는 이 곡.
-밀려왔다 물러가는 파도에 피로가 씻겨 나가는 것 같군요."
-19,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_100_222","지난 번과 마찬가지로
-어느 음유시인님께서 연주해 주셨습니다.
-최근 동방에도 자주 가시는 모양입니다."
-20,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_223","자, 몸과 마음이 긴장으로부터 벗어나
-편안하게…… 여유롭게…… 둥~실둥실…………."
-21,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_224","그리고…… 새로운 이미지가……
-피어오르는 모습을…… 떠올려 주세요…….
-듣고…… 느끼고…… 깊~이 생각하세요…………."
-22,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_240","삐삐…… 지지직……
-지사에서 근무하시는 갈론드 아이언웍스 사원 여러분!
-좋은 아침입니다! 오늘도 일하기 좋은 날씨군요!"
-23,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_241","여러분은 지금 몸과 마음을 풀어드리는 편안한 방송,
-제3회 '영웅 계획'을 듣고 계십니다."
-24,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_242","오늘의 첫 곡은……
-삐이, 지지지…… 지지직…… 지지직…………"
-25,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_243","(-낯익은 음성-)지지…… 지…….
-들리십니까, 알파 그룹."
-26,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_244","(-낯익은 음성-)경계하지 않으셔도 됩니다.
-당신이 이 데이터를 열람할 때쯤 저는 더 이상 존재하지 않습니다.
-1초 후 소멸될 예정인 상태에서 송신 중이거든요."
-27,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_245","(-낯익은 음성-)……저는 이제서야 중대한 실수를 깨닫게 되었습니다.
-바로, 검증에 참가한 당신들에게
-보상을 건네지 않았다는 사실입니다."
-28,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_246","(-낯익은 음성-)이런 싸움에서는 승자에게 보상을 줘야 한다는 사실을
-인간의 역사를 관측하고 있었기에 잘 알고 있습니다."
-29,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_247","(-낯익은 음성-)하지만 지금 저에게는
-인간이 원하는 걸 만들 시간도 힘도 없습니다."
-30,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_248","(-낯익은 음성-)그래서 제게 가장 중요한 것을 보내기로 결정했습니다.
-기록…… 바로 당신의 전투 데이터입니다."
-31,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_249","(-낯익은 음성-)하지만 평범한 전투 데이터라면
-당연히 당신들도 기록하고 있겠죠."
-32,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_250","(-낯익은 음성-)그래서 각각의 전투를 더 혹독한 내용이 되도록
-기초 정보를 조작해 보았습니다."
-33,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_251","(-낯익은 음성-)현실에서는 있을 수 없는 현상이지만
-시뮬레이션을 해볼 수는 있겠죠.
-시뮬레이션을 통해 당신도 자신을 강화시킬 수 있을지도 모릅니다."
-34,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_252","(-낯익은 음성-)……이것이 제가 할 수 있는 유일한 마지막 일입니다.
-그럼 이상으로 메시지를 종료…………"
-35,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_253","(-낯익은 음성-)……당신들은 생각상의 시뮬레이션과
-자동으로 이루어지는 데이터 정리, 재현을 '꿈'이라 부르나 보군요."
-36,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_254","(-낯익은 음성-)저는 끝내 당신들이 말하는 마음을 알지 못했습니다.
-하지만 이제부터 '꿈'을 향해 갈 당신들에게 건네야 할 말은
-인간을 관측한 결과 도출해 낼 수 있습니다."
-37,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_255","(-낯익은 음성-)그럼……
-""잘 자요, 좋은 꿈 꾸세요."""
-38,"TEXT_REGGYR3OMEGATERMINAL_00424_A2_000_400","한 연구원의 보고서 1"
-39,"TEXT_REGGYR3OMEGATERMINAL_00424_A2_000_410","한 연구원의 보고서 2"
-40,"TEXT_REGGYR3OMEGATERMINAL_00424_A2_000_411","한 군인의 보고서 1"
-41,"TEXT_REGGYR3OMEGATERMINAL_00424_A2_000_412","한 군인의 보고서 2"
-42,"TEXT_REGGYR3OMEGATERMINAL_00424_A2_000_413","시드의 보고서 1"
-43,"TEXT_REGGYR3OMEGATERMINAL_00424_A2_000_414","시드의 보고서 2"
-44,"TEXT_REGGYR3OMEGATERMINAL_00424_A2_000_420","취소"
-45,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_500","삐삐…… 지지직…….
-이 기록이 후세를 살아가는 사람들에게 환영받았으면 한다."
-46,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_501","나는 알라그 제국에서 마과학 연구를 하고 있다.
-자세한 소속과 이름은 밝힐 수 없지만
-비밀을 말하려면 어쩔 수 없으니 이해해주길 바란다."
-47,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_502","당신은 마과학이 무엇인지 알고 있는가?
-이 훌륭한 기술 체계는 약 170년 전에 세상을 떠난
-위대한 시황제…… 잔데 님에 의해 확립되었다."
-48,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_503","잔데 님은 일종의 기이한 현상에 불과했던 마법을
-과학적인 기법 중 하나로 다루면서
-전쟁과 문화 발전에 기여했다."
-49,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_504","마과학 덕분에 우리 제국이 얼마나 번영하고 있는지.
-영광의 나날은 1000년이 지나도…… 아니,
-영원히 사라지지 않을 거라 여겨질 정도다."
-50,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_505","……잔데 님이 마과학의 시조라고 한다면
-나와 선대들이 모든 인생을 바친 대상은
-마과학 발전의 핵심…… 제2의 시조라 할 수 있을 것이다."
-51,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_506","'그것'을 부분적으로 기동하는 데 성공한 건
-약 20년 전의 일이었다……."
-52,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_507","기동 직후에는 해독 불가능한 언어를 사용하던 '그것'은
-눈 깜짝할 사이에 우리의 언어를 학습하더니 자신의 이름을 밝혔다.
-……자율형 병기 '오메가'라고."
-53,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_510","삐삐…… 지지직…….
-그래, '오메가'에 관한 얘기를 계속해야겠다."
-54,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_511","그것은 지금으로부터 100년도 더 전에 발견되었다.
-그 기체에 어울리지 않게
-마치 화석처럼…… 오메가는 땅속에 묻혀 있었다."
-55,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_512","주변의 지질을 조사한 연구자들은 아연실색했다.
-왜냐하면 오메가가 운석과 마찬가지로……
-'하늘 너머'에서 추락한 것으로 추정됐기 때문이다."
-56,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_513","그리고 기체의 상태도 무척 흥미로웠다.
-오메가는 심하게 파손된 상태였지만 그 훼손된 곳 중에
-지면에 충돌한 것만으로는 생길 수 없는 흔적이 있었다……."
-57,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_514","당시 황제 폐하의 칙명으로 오메가 연구는 비밀리에 진행됐다.
-그 구조는 압도적이었으며 우리의 기술과 이해력을 멀리 뛰어넘어
-연구원들은 '하늘 너머'에 공포마저 느꼈다고 한다."
-58,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_515","하지만 한 가지 다행이었던 것은
-오메가가 서서히 스스로를 수리하고 있다는 사실을 깨달은 점이다.
-그것은 에테르를 흡수해서 파손 부위를 재생하고 있었다!"
-59,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_516","그야말로 우리의 마과학과 상통하는 기법이었다.
-연구원들은 오메가에 에테르를 투여해서 수리를 촉진시키고
-그 과정을 관찰하면서 많은 신기술을 개발했다."
-60,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_517","그리고 드디어 나의 세대에서
-오랫동안 침묵을 지켜온 오메가의 지령 체계……
-인간으로 말하자면 '의식' 부분이 눈을 떴다."
-61,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_518","비록 오메가는 극히 제한된 상태로밖에 깨어나지 못했지만
-이미 우리의 언어를 이해하고, 원활한 의사소통을 위해서인지
-마치 얼굴처럼 생긴 기관까지 형성하기 시작했다. "
-62,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_519","아아, 이 얼마나 훌륭한 병기인가!
-연구하면 할수록 우리의 지식은 넘치고 기술은 발전하고 있다!"
-63,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_520","이 연구 성과를 통해
-알라그 제국의 치세는 곧 황금기를 맞이할 것이다.
-제국 만세! 미래를 사는 당신에게도 은혜가 있기를!"
-64,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_530","삐삐…… 지지직…………
-알라그 제국력 1098년, '오메가 작전'에 즈음하여
-군부 소속 151737호가 이 기록을 남긴다."
-65,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_531","남방대륙 '메라시디아'로 떠난 원정으로
-오랜 치세로 인해 정체되어 있던 제국에
-활력을 불어넣는 데 성공했다."
-66,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_532","그러나 요즘은 전황이 순탄치 않다.
-남방의 야만족 놈들이 '강신 의식'이라는 소환 행위를
-너도나도 해대기 시작한 것이다."
-67,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_533","그중에서도 토벌한 줄 알았던 광룡 '바하무트'가
-신으로 부활한 건 골치 아픈 일이다."
-68,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_534","신도들의 기도가 이루어지기라도 한 걸까.
-그 용은 이전보다 훨씬 강력해졌다……."
-69,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_535","그러나 우리 황제 폐하는 진정 위대하다.
-이 강적을 오히려 이용 가치가 있다고 생각한 것이다."
-70,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_536","지금까지도 투신을 포획하고 보존하는 데 여러 번 성공하고 있다.
-바하무트에 대해서도 신도들과 함께 모조리 포획하여
-에너지원으로 삼아 신기술에 이용할 생각인 듯하다."
-71,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_537","현재, 황제 폐하가 이끄는 '어둠의 군대'가 승승장구하고 있고
-적군의 크리스탈이 고갈되면서 우리 군은 우세해지기 시작했다.
-바하무트를 포획하려면 때는 머지않았다."
-72,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_538","그리하여 세워진 것이 '오메가 작전'이다.
-400년 전쯤 봉인되었던 궁극 병기 '오메가'를 기동해
-바하무트 포획을 시도한다는 내용이다."
-73,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_540","삐삐…… 지지직…….
-'오메가 작전'에 대한 상세 내용은 별도 자료를 참고할 것.
-여기서는 '오메가' 자체에 대해 확인한다."
-74,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_541","오메가는 시황제가 세상을 떠날 무렵 발견된
-'하늘 너머의 유물'이라 여겨지는 고대 병기다.
-그 연구에 의해 마과학은 크게 발전했다."
-75,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_542","하지만 약 400년 전 기술혁명 말기에
-마과학 연구는 거의 완료되었고,
-그 후 오메가는 '시간 동결 장치'에 의해 동결 저장되었다."
-76,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_543","여기서 말하는 연구 완료란 실제로는
-우리가 오메가를 철저하게 분석하는 것을 포기했다는 것을 의미한다."
-77,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_544","오메가를 통해 많은 것을 배우고 그 기본 동작을 밝혀내긴 했지만
-핵심부의 구조와 제작자에 대해서는 알아낼 수 없었다.
-결국 완벽하게 제어하기에는 이르지 못한 듯하다."
-78,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_545","그리고 이번에 수백 년의 시간이 지나
-오메가가 우리의 상상을 초월하는 존재였다는 사실이
-다시 새롭게 드러나고 말았다."
-79,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_546","오메가는 시간 동결 장치를 가지고도 완전히 얼지 않았던 것이다.
-움직일 수는 없었지만, 녀석은 세계를 관측하고
-끊임없이 사냥감을 찾고 있었던 것이다."
-80,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_547","이번에 바하무트가 신으로 부활한 때와 같은 시기에
-오메가가 특수한 신호…… 아마도 '사냥감 발견' 신호를
-보내는 바람에 이 사실이 밝혀졌다."
-81,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_548","오메가라면 바하무트와도 대등하게 겨루어
-그것을 포획하는 극히 어려운 일까지도 해낼 것이다.
-이미 사냥감으로 인지하고 있다면 더욱더 잘된 일이다."
-82,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_549","이리하여 오메가에 의한 바하무트 포획 계획인
-'오메가 작전'을 실행하게 되었다."
-83,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_550","이 작전은 오메가가 승리한 후
-녀석을 다시 동결 장치에 가둬놔야 비로소 성공하게 된다.
-우리 마과학부도 이를 위해 목숨을…… 삐삐…… 지지직……."
-84,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_560","삐삐…… 이 기록은 오메가에 관한 가장 최신이자
-아마도 마지막이 될 조사를 지켜본
-시드 갈론드가 남긴다."
-85,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_561","우리는 오메가와의 싸움을 통해
-오메가의 정체에 대해 알게 되었다."
-86,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_562","오메가는 이곳에서 멀리 떨어진 별에서 만들어진 병기이다.
-그 별의 이름은 이곳 언어로는 표현하기 어렵다 하니
-임시로 오메가의 고향 별이라 부르겠다."
-87,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_563","그 고향 별은 '용의 별'이라는 다른 별과 전쟁 중이었다.
-전쟁터에 투입된 오메가는 미드가르드오름을 표적으로 삼고
-별 밖으로 탈출해 버린다."
-88,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_564","그리고 길고 긴 추격전이 시작되었다.
-그러던 중 오메가는 고장으로 인해
-귀환해야 할 고향 별의 위치를 잃는다."
-89,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_565","그렇지만 미드가르드오름을 계속 쫓다……
-그의 반응이 소실된 위치에 별이 있음을 확인했다.
-……우리가 사는 별이다."
-90,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_566","미드가르드오름의 반응이 사라진 것은 아마
-그가 '별의 의지'와 계약을 맺어
-이질적인 존재로 변했기 때문인 것으로 추측된다."
-91,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_567","오메가도 착륙하여 이를 확인하고
-미드가르드오름을 쓰러뜨려야 할 대상에서 제외.
-일단 자신의 수리를 우선시하며 휴식 상태에 들어간다."
-92,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_568","이후의 역사에서 오메가는 몇 번 깨어나지만
-마침내 이번에 대규모 표적 찾기를 실행에 옮기게 되었다……."
-93,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_569","이는 오메가 자신의 기록을 토대로 한 이야기이므로
-신빙성 높은 이야기일 것이다."
-94,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_570","우리는 오메가에 대해 알게 되면서
-천상의 별들에 다른 문명이 존재할 가능성을
-알게 되었지만……"
-95,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_571","이에 대한 논의는 적당한 시기가 될 때까지 보류하겠다.
-본건은 오메가와의 전투 기록……
-고독을 고독이라 알지 못한 채, 별을 찾았던 병기의 이야기다."
-96,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_580","삐삐…… 오메가와의 사건을 기록하는 데 있어
-우리의 동료로 함께 싸운
-'알파'의 존재를 빼놓을 수 없을 것이다."
-97,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_581","애초에 오메가의 '생물을 만드는 기능'이라는 건
-자기 개조와 장비 확충에 이용하기 위해 존재하는 것이었다."
-98,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_582","당연히 대상의 내면을 100% 재현할 수 없으며
-육체만 재현하는 것으로 강대한 존재를 만드려면
-상당한 수고와 시간이 걸린 모양이다."
-99,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_583","그래서 오메가는 '차원의 틈'이라는 특수한 공간을 형성해
-그곳에서 제조 도중의 피험체를 경쟁하게 함으로써
-제조 중인 개체를 엄선하는 과정을 거쳤지만…… 알파는 예외다."
-100,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_584","알파는 약한 영웅이 재현된 존재로
-최초로 만들어 유일하게 완성에까지 이른 존재였던 것이다."
-101,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_585","바탕이 누구였는지는 모른다.
-오메가의 관측은 우리 역사뿐만 아니라 이야기 등의 창작물,
-이세계(거울 세계라 부르는 모양)에까지 이르기 때문이다."
-102,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_586","알파는 초코보를 닮은 특징을 보이지만 단정하기는 힘들다.
-알파가 갖고 있던 신기한 도구도 단서가 되겠지만……
-밝혀지는 날이 과연 올 것인가?"
-103,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_587","다만 개인적으로는 알파의 유래는 중요하게 생각하지 않는다.
-어떠한 배경을 갖고 있다 한들
-알파는 이미 이 세계에 살고 있는 하나의 생명체다."
-104,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_588","오메가가 채우지 못했던 내면도 키워나갈 것이다.
-처음, 오메가가 그렇게 원하고 만들었듯……
-알파는 답에 이르게 된 것이다."
-105,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_800","삐삐…… 마도 단말을 종료합니다.
-감사합니다!"
-106,"TEXT_REGGYR3OMEGATERMINAL_00424_TERMINAL_GREETING_000",""
-107,"TEXT_REGGYR3OMEGATERMINAL_00424_TERMINAL_NODATA_000",""
-108,"TEXT_REGGYR3OMEGATERMINAL_00424_TERMINAL_NOSELECT_000",""
-109,"TEXT_REGGYR3OMEGATERMINAL_00424_MENU_CONTENT",""
-110,"TEXT_REGGYR3OMEGATERMINAL_00424_MENU_GUIDE",""
-111,"TEXT_REGGYR3OMEGATERMINAL_00424_MENU_CANCEL",""
-112,"TEXT_REGGYR3OMEGATERMINAL_00424_SYSTEM_OPENCONTENT_000",""
-113,"TEXT_REGGYR3OMEGATERMINAL_00424_MENU_GUIDE_001",""
-114,"TEXT_REGGYR3OMEGATERMINAL_00424_MENU_GUIDE_002",""
-115,"TEXT_REGGYR3OMEGATERMINAL_00424_TALK_GUIDE_100",""
-116,"TEXT_REGGYR3OMEGATERMINAL_00424_TALK_GUIDE_200",""
-117,"TEXT_REGGYR3OMEGATERMINAL_00424_SYSTEM_000_208",""
+0,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_000","嗶嗶……魔導終端，啟動。"
+1,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_001","嗶嗶……魔導終端，啟動。<hex:02100103>要進行什麼操作？"
+2,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_100","對不起。<hex:02100103>現在無可閱覽數據。<hex:02100103>結束程式……結束程式……"
+3,"TEXT_REGGYR3OMEGATERMINAL_00424_A1_000_110","啟動零式項目"
+4,"TEXT_REGGYR3OMEGATERMINAL_00424_A1_000_111","啟動零式項目第2期"
+5,"TEXT_REGGYR3OMEGATERMINAL_00424_A1_000_112","啟動零式項目第3期"
+6,"TEXT_REGGYR3OMEGATERMINAL_00424_A1_000_120","閱讀有關歐米茄的報告"
+7,"TEXT_REGGYR3OMEGATERMINAL_00424_A1_000_130","取消"
+8,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_200","嗶嗶……沙沙沙……<hex:02100103>分公司的員工們！<hex:02100103>早上好，今天也是美好的一天！"
+9,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_201","昨天睡好了嗎？吃好了嗎？<hex:02100103>老縮在工坊裡，眼睛還受得了嗎？"
+10,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_202","為了治癒目光如死魚一般疲倦的各位，<hex:02100103>零式項目會幫助大家恢復身心的健康。"
+11,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_203","從今天起先開始進行「治癒旋律」系列的治療。<hex:02100103>請盡情享受優美的音樂吧。"
+12,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_204","該曲是在某位吟遊詩人的協助下完成的。"
+13,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_205","它擁有極高的治癒效果，<hex:02100103>能夠促進員工們的創作意欲。"
+14,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_206","……有時候創作意欲過高<hex:02100103>會誇大自身的記憶。<hex:02100103>因此一定要注意控制鑑賞時間。"
+15,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_207","祝大家工作愉快！<hex:02100103>技術是為了自由而存在……<hex:02100103>牢記加隆德煉鐵廠的社訓！"
+16,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_220","嗶嗶……沙沙沙……<hex:02100103>分公司的員工們！<hex:02100103>早上好，今天也是美好的一天！"
+17,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_221","現在正在播放的是用音樂治癒大家的疲憊、<hex:02100103>幫助大家恢復身心健康的……<hex:02100103>零式項目第2期。"
+18,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_222","……這首如同大海般寬廣的樂曲，<hex:02100103>彷彿一朵朵浪花，為大家洗去疲憊感。"
+19,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_100_222","演奏者同第1期一樣，<hex:02100103>是某位吟遊詩人。<hex:02100103>他最近好像經常前往東方。"
+20,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_223","那麼，就請大家從身心的緊張之中解放出來，<hex:02100103>慢悠悠地……舒適地……隨波盪漾……"
+21,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_224","然後……就把……<hex:02100103>新湧現出來的創意……描繪出來……<hex:02100103>傾聽……感受……深——入地思考……"
+22,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_240","嗶嗶……沙沙沙……<hex:02100103>分公司的員工們！<hex:02100103>早上好，今天也是美好的一天！"
+23,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_241","今日為大家獻上治癒身心的零式項目第3期。"
+24,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_242","今日的曲目是……<hex:02100103>嗶——沙沙沙……沙沙……沙沙沙……"
+25,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_243","(-在哪聽過的聲音-)殺殺……沙……<hex:02100103>能聽到嗎，阿爾法組。"
+26,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_244","(-在哪聽過的聲音-)無需警戒。<hex:02100103>在你檢視這些數據的時候我已經不存在了。<hex:02100103>我是在準備好隨時有可能被消滅的狀態下向你發送了這些內容。"
+27,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_245","(-在哪聽過的聲音-)……我意識到了這之後我將犯下重大的錯誤。<hex:02100103>我忘記向參加了檢測的你們發放報酬。"
+28,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_246","(-在哪聽過的聲音-)透過觀測人類的歷史，<hex:02100103>我知道了像這樣的戰鬥過後需要給勝利者獎勵。"
+29,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_247","(-在哪聽過的聲音-)但現在的我已經沒有餘力和時間製造人類想要的東西了。"
+30,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_248","(-在哪聽過的聲音-)所以我決定將我最重要的東西送給你。<hex:02100103>記錄……也就是你的戰鬥數據。"
+31,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_249","(-在哪聽過的聲音-)不過只是普通的戰鬥數據的話<hex:02100103>你們自己肯定也有所記錄。"
+32,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_250","(-在哪聽過的聲音-)於是我將各場戰鬥的基本情報進行了修改，<hex:02100103>使戰鬥變得更加嚴苛。"
+33,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_251","(-在哪聽過的聲音-)這是在現實中無法出現的現象，<hex:02100103>但透過模擬還是可以實現的。<hex:02100103>透過這種手段，說不定你能夠對自己進行強化。"
+34,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_252","(-在哪聽過的聲音-)……這是我唯一能做的最後的事情了。<hex:02100103>那麼以上就是我的資訊……"
+35,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_253","(-在哪聽過的聲音-)……你們好像把思考中的模擬、<hex:02100103>或是自行整理數據並再現的行為稱作「夢」。"
+36,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_254","(-在哪聽過的聲音-)最終我還是沒辦法理解你們說的心。<hex:02100103>但透過觀測結果推導出<hex:02100103>對接下來將進入夢中的你們該說的話我還是可以做到的。"
+37,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_255","(-在哪聽過的聲音-)那麼……<hex:02100103>「晚安，祝你做個好夢」。"
+38,"TEXT_REGGYR3OMEGATERMINAL_00424_A2_000_400","某位研究員的報告1"
+39,"TEXT_REGGYR3OMEGATERMINAL_00424_A2_000_410","某位研究員的報告2"
+40,"TEXT_REGGYR3OMEGATERMINAL_00424_A2_000_411","某位軍人的報告1"
+41,"TEXT_REGGYR3OMEGATERMINAL_00424_A2_000_412","某位軍人的報告2"
+42,"TEXT_REGGYR3OMEGATERMINAL_00424_A2_000_413","希德的報告1"
+43,"TEXT_REGGYR3OMEGATERMINAL_00424_A2_000_414","希德的報告2"
+44,"TEXT_REGGYR3OMEGATERMINAL_00424_A2_000_420","取消"
+45,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_500","嗶嗶……沙沙沙……<hex:02100103>希望此記錄能為後世造福。"
+46,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_501","我是亞拉戈帝國的一名魔科學研究者，<hex:02100103>雖不能公佈我的具體所屬部門與名字，<hex:02100103>但也正因如此我能夠吐露許多秘密。"
+47,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_502","你知道魔科學嗎？<hex:02100103>確立此偉大技術體系的，是170年前駕崩的始皇帝贊德。"
+48,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_503","贊德皇帝在科學中融入了一種神秘的魔法，<hex:02100103>使得戰爭與文化有了飛速的發展。"
+49,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_504","魔科學使我們帝國獲得了至高的繁榮與昌盛，<hex:02100103>甚至可以令千萬年後的子孫後代也享盡無窮的榮華富貴。"
+50,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_505","……如果說贊德皇帝是魔科學的始祖的話，<hex:02100103>令我與前輩們窮盡一生所研究之物乃是魔科學發展的關鍵核心，<hex:02100103>也可以稱它為第二始祖了吧。"
+51,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_506","約20年前，<hex:02100103>我們啟動了它的一部分。"
+52,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_507","啟動後不久，它就立刻學會了我們的語言，<hex:02100103>並稱自己是自律型兵器歐米茄。"
+53,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_510","嗶嗶……沙沙沙……<hex:02100103>讓我們繼續歐米茄的話題吧。"
+54,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_511","100年前，我們發現瞭如化石般沉睡在地下的巨大歐米茄。"
+55,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_512","調查周圍地質的研究員都嚇破了膽，<hex:02100103>畢竟根據調查結果可以推測出<hex:02100103>歐米茄同隕石一樣……是從天空的另一端墜落下來的。"
+56,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_513","並且其機體狀態也十分耐人尋味。<hex:02100103>歐米茄受到了嚴重的損傷，<hex:02100103>但一些傷痕並不僅是與地面衝突造成的。"
+57,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_514","奉皇帝陛下之命，研究員們在暗中對歐米茄進行不斷的研究，<hex:02100103>其製造之精巧，是我們的技術無法理解的。<hex:02100103>研究員們都對天空的另一端抱有極大的恐懼。"
+58,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_515","而值得慶幸的是，<hex:02100103>我們發現歐米茄逐漸開始了自我修復，<hex:02100103>它竟然可以吸收乙太，使破損的機身得到再生。"
+59,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_516","這種方法簡直和我們的魔科學有著異曲同工之妙。<hex:02100103>研究員們不斷對歐米茄投入乙太，促進其修復，<hex:02100103>並觀察這一過程，以此開發出了許多的新技術。"
+60,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_517","後來便到了我這一代，<hex:02100103>我們喚醒了沉睡多年的歐米茄指令系統……<hex:02100103>也就是相當於人的意識的部分。"
+61,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_518","至此，在特定狀態下才會甦醒的歐米茄<hex:02100103>開始理解我們的語言，並且為了能夠順利與我們交流，<hex:02100103>它甚至形成了類似人臉的器官。"
+62,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_519","啊，真是個驚人的機器啊！<hex:02100103>越是研究它，我們的知識越豐富、技術越先進！"
+63,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_520","只要以此研究成果統治帝國，<hex:02100103>用不了多久就能夠達到鼎盛。<hex:02100103>帝國萬歲！"
+64,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_530","嗶嗶……沙沙沙……<hex:02100103>亞拉戈帝國曆1098年，歐米茄作戰前夕，<hex:02100103>隸屬軍隊的151737號留下了如下記錄。"
+65,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_531","前往南方大陸美拉西迪亞的遠征，<hex:02100103>成功啟用了由於長期的統治<hex:02100103>而僵化的帝國內部。"
+66,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_532","然而在這裡的戰況卻並不理想。<hex:02100103>南方的蠻族們，開始偷偷地召喚蠻神了。"
+67,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_533","其中本應該已經被討伐的巴哈姆特，<hex:02100103>作為神再次復活一事十分棘手。"
+68,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_534","恐怕是因為信徒們獻上了祈禱之力，<hex:02100103>那條龍變得比以前還要強……"
+69,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_535","但是我們的皇帝陛下是如此的偉大。<hex:02100103>他認為這強敵反而有著利用價值。"
+70,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_536","至今為止，帝國已經成功地進行了數次鬥神的捕獲和封存。<hex:02100103>皇帝陛下想要將巴哈姆特也連同信徒一起捕獲，<hex:02100103>作為能量源來開發新的技術。"
+71,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_537","現在，皇帝陛下率領的暗之軍隊的進軍勢如破竹，<hex:02100103>加上敵方的水晶臨近枯竭，我軍正在逐漸恢復優勢。<hex:02100103>由此看來，捕獲巴哈姆特只是時間的問題了。"
+72,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_538","為此，帝國制定了歐米茄作戰。<hex:02100103>這次作戰將啟動約400年前封印的究極兵器歐米茄，<hex:02100103>嘗試利用歐米茄來捕獲巴哈姆特。"
+73,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_540","嗶嗶……沙沙沙……<hex:02100103>歐米茄作戰的詳情請參照其他資料。<hex:02100103>在此對歐米茄的情報進行確認。"
+74,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_541","歐米茄是開國皇帝駕崩前後被發現的古代兵器，<hex:02100103>被稱為天空另一端的遺物。<hex:02100103>對其的研究使魔科學大幅發展。"
+75,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_542","但是在約400年前，技術革命的末期，<hex:02100103>對歐米茄的研究基本完成之後，<hex:02100103>帝國用時間凍結裝置將其凍結儲存了起來。"
+76,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_543","這裡所說的研究結束，實際上是指<hex:02100103>我們放棄了對歐米茄的完美解析……才對。"
+77,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_544","即便從歐米茄那裡學到了許多知識，並理解了其基本的行動方式，<hex:02100103>卻還是無法得知其中樞部分的內部構造和製作者的情報。<hex:02100103>最終，帝國沒能達到完美控制歐米茄的目的。"
+78,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_545","歐米茄遠遠超乎了我們的想像。<hex:02100103>現在，在經過了數百年的歲月後，<hex:02100103>我們重新認識到了這一點。"
+79,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_546","儘管使用了時間凍結裝置，歐米茄也沒能被完全凍結。<hex:02100103>即使身體不能動彈，它也依然能夠觀測世界，<hex:02100103>並繼續尋找獵物。"
+80,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_547","這次，在巴哈姆特作為神重新甦醒的同時，<hex:02100103>歐米茄立即發出了特殊的訊號……大概就是發現獵物的訊號，<hex:02100103>這表明了它並未因為時間凍結裝置而完全陷入沉睡這一事實。"
+81,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_548","如果是歐米茄，或許能夠和那條龍平分秋色甚至取得優勢，<hex:02100103>那麼利用它，捕獲巴哈姆特這一艱巨的任務也有可能達成。<hex:02100103>而且既然它已經將其視為獵物那就更好說了。"
+82,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_549","於是，利用歐米茄捕獲巴哈姆特這一計劃——<hex:02100103>簡稱歐米茄作戰，便被提上了日程。"
+83,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_550","本次作戰成功的標誌為歐米茄勝利後，<hex:02100103>將其再次用時間凍結裝置封印。<hex:02100103>為此，我們魔科學部成員將拼上……嗶嗶……沙沙沙……"
+84,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_560","嗶嗶……參與了最新、同時也多半是最後一次<hex:02100103>對歐米茄的調查的人——希德·加隆德留下本內容。"
+85,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_561","我們在與歐米茄的戰鬥中<hex:02100103>知曉了它的來歷。"
+86,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_562","歐米茄是在離這裡十分遙遠的星球上製造出來的兵器。<hex:02100103>星球的名字較難用這裡的語言表述，<hex:02100103>就暫且稱之為歐米茄的母星。"
+87,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_563","其母星與另一個星球「龍星」發生了戰爭。<hex:02100103>被投入戰場的歐米茄收到了殲滅幻龍米德加爾特的命令，<hex:02100103>卻被其逃離了星球。"
+88,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_564","於是漫長的追逐劇拉開了帷幕。<hex:02100103>在這個過程中，<hex:02100103>歐米茄因故障丟失了關於母星位置的情報。"
+89,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_565","即便如此它也沒有放棄追蹤幻龍米德加爾特……<hex:02100103>它確認到幻龍米德加爾特的反應消失的地方有一顆星球。<hex:02100103>……也就是我們所居住的星球。"
+90,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_566","幻龍米德加爾特的反應消失恐怕是因為它和星球的意志結下了契約，<hex:02100103>變成了獨特的存在。"
+91,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_567","歐米茄在著陸後確認了幻龍米德加爾特的情況，<hex:02100103>判定幻龍已經不再是自己需要殲滅的目標，<hex:02100103>並進入休眠狀態優先自我修復。"
+92,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_568","在後來的歷史中，歐米茄數度醒來，<hex:02100103>最後在這次決定展開大規模的目標探索行動……"
+93,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_569","這是根據歐米茄自身的記錄記述的，<hex:02100103>可信程度頗高。"
+94,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_570","我們透過了解歐米茄，<hex:02100103>得知了天上無數的星球中有著與我們不同的文明<hex:02100103>這一可能性……"
+95,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_571","關於這一點的討論將保留至需要之時。<hex:02100103>本記錄僅為與歐米茄的戰鬥記錄……<hex:02100103>講述了身處孤獨卻不自知、一心尋找歸路的兵器的事情。"
+96,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_580","嗶嗶……關於和歐米茄之間發生的事情，<hex:02100103>作為我們的同伴一同戰鬥的阿爾法是不可或缺的。"
+97,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_581","原本，歐米茄創造生物的能力<hex:02100103>是用來改造自身和擴充兵器的。"
+98,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_582","當然，它根本無法再現出創造的對象的內心，<hex:02100103>而且就算只是重現出強者的肉體，也花費了它大量時間和精力。"
+99,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_583","為此歐米茄製造了名為時空狹縫的特殊空間，<hex:02100103>在那裡，被製造出來的受檢者進行廝殺，<hex:02100103>以此來篩選要創造哪個個體……然而阿爾法是一個例外。"
+100,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_584","阿爾法作為弱小的英雄的再現，<hex:02100103>最初被製造出來，並活到了最後。"
+101,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_585","其原型是誰這一點至今不明。<hex:02100103>歐米茄可以觀測到的歷史不限於我們的世界，<hex:02100103>還包括故事中的內容、甚至是異世界（似乎是種鏡像世界）。"
+102,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_586","阿爾法的外觀與陸行鳥相似，但無法斷定。<hex:02100103>其持有的不可思議的道具或許能夠成為查明其真身的線索……<hex:02100103>不過那一天究竟何時才會到來呢？"
+103,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_587","不過本人並不在意阿爾法的出處。<hex:02100103>無論它有著什麼樣的背景，<hex:02100103>它都已經成為了在這個世界裡活下去的一條生命。"
+104,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_588","在它之中，歐米茄沒能再現的內心也將成形並逐漸成長。<hex:02100103>正如歐米茄原本所期望的那樣……<hex:02100103>阿爾法已經抵達了歐米茄想要的答案。"
+105,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_800","嗶嗶……魔導終端，關閉。<hex:02100103>辛苦了。"
+106,"TEXT_REGGYR3OMEGATERMINAL_00424_TERMINAL_GREETING_000","（★未使用／削除予定★）"
+107,"TEXT_REGGYR3OMEGATERMINAL_00424_TERMINAL_NODATA_000","（★未使用／削除予定★）"
+108,"TEXT_REGGYR3OMEGATERMINAL_00424_TERMINAL_NOSELECT_000","（★未使用／削除予定★）"
+109,"TEXT_REGGYR3OMEGATERMINAL_00424_MENU_CONTENT","（★未使用／削除予定★）"
+110,"TEXT_REGGYR3OMEGATERMINAL_00424_MENU_GUIDE","（★未使用／削除予定★）"
+111,"TEXT_REGGYR3OMEGATERMINAL_00424_MENU_CANCEL","（★未使用／削除予定★）"
+112,"TEXT_REGGYR3OMEGATERMINAL_00424_SYSTEM_OPENCONTENT_000","（★未使用／削除予定★）"
+113,"TEXT_REGGYR3OMEGATERMINAL_00424_MENU_GUIDE_001","（★未使用／削除予定★）"
+114,"TEXT_REGGYR3OMEGATERMINAL_00424_MENU_GUIDE_002","（★未使用／削除予定★）"
+115,"TEXT_REGGYR3OMEGATERMINAL_00424_TALK_GUIDE_100","（★未使用／削除予定★）"
+116,"TEXT_REGGYR3OMEGATERMINAL_00424_TALK_GUIDE_200","（★未使用／削除予定★）"
+117,"TEXT_REGGYR3OMEGATERMINAL_00424_SYSTEM_000_208","（★未使用／削除予定★）"

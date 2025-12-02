@@ -1,5 +1,6 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
 0,"TEXT_LUCKSA299_04041_SEQ_00",""
 1,"TEXT_LUCKSA299_04041_SEQ_01",""
@@ -49,42 +50,21 @@ int32,str,str
 45,"TEXT_LUCKSA299_04041_TODO_21",""
 46,"TEXT_LUCKSA299_04041_TODO_22",""
 47,"TEXT_LUCKSA299_04041_TODO_23",""
-48,"TEXT_LUCKSA299_04041_SYSTEM_000_000","'레지스탕스 웨폰 재조정'에서는
-레지스탕스 웨폰에 분배한 능력치의
-재조정을 할 수 있습니다."
-49,"TEXT_LUCKSA299_04041_MEMORIZESYSTEM_000_001","삐삐…… 이용해 주셔서 감사합니다!!
-레지스탕스 웨폰을 재조정하려면 '<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EAB080FF04EC9DB4</13>
-<Value>IntegerParameter(2)</Value>개 필요합니다!"
-50,"TEXT_LUCKSA299_04041_SYSTEM_000_002","'<Sheet(Item,32960,0)/>'<13>FF0F02280BFF054974656DF280C00103FF04EB8A94FF04EC9D80</13>
-망자의 종소리에 있는 '오리아나' 또는
-이딜샤이어에 있는 '히스메나'를 통해 교환할 수 있습니다."
-51,"TEXT_LUCKSA299_04041_Q1_000_100","무엇을 하시겠습니까?"
-52,"TEXT_LUCKSA299_04041_A1_000_100","'레지스탕스 웨폰'을 재조정한다"
-53,"TEXT_LUCKSA299_04041_A2_000_100","설명을 듣는다"
-54,"TEXT_LUCKSA299_04041_A3_000_100","취소"
-55,"TEXT_LUCKSA299_04041_SYSTEM_000_150","추억 시스템에 '<Sheet(Item,32960,0)/>'<13>FF0F02280BFF054974656DF280C00103FF04EBA5BCFF04EC9D84</13> 건네면
-능력치 4종류 중 하나를 강화할 수 있습니다."
-56,"TEXT_LUCKSA299_04041_SYSTEM_000_151","능력치를 분배한 후
-'분배'를 선택하면
-분배한 능력치에 맞춰 강화가 이루어집니다."
-57,"TEXT_LUCKSA299_04041_SYSTEM_000_152","재조정을 할 때마다 <Sheet(Item,32960,0)/><13>FF0F02280BFF054974656DF280C00103FF04EAB080FF04EC9DB4</13>
-필요하므로 신중하게 생각해서 능력치를 강화시키도록 하세요."
-58,"TEXT_LUCKSA299_04041_MEMORIZESYSTEM_000_190","에러…… 에러…….
-레지스탕스 웨폰을 재조정하려면 '<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EAB080FF04EC9DB4</13>
-<Value>IntegerParameter(2)</Value>개 필요합니다!"
-59,"TEXT_LUCKSA299_04041_MEMORIZESYSTEM_000_200","에러…… 에러…….
-재조정을 하고 싶으시면 '레지스탕스 웨폰'을
-장비한 다음 말을 걸어 주십시오……."
-60,"TEXT_LUCKSA299_04041_SYSTEM_000_210","재조정을 할 수 있는 레지스탕스 웨폰은
-현재 장비하고 있는 레지스탕스 웨폰입니다."
-61,"TEXT_LUCKSA299_04041_SYSTEM_000_211","<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>의 레지스탕스 웨폰의 능력치를
-재조정하시겠습니까?"
-62,"TEXT_LUCKSA299_04041_Q1_000_200","현재 장비하고 있는 '레지스탕스 웨폰'을 재조정하시겠습니까?"
-63,"TEXT_LUCKSA299_04041_MEMORIZESYSTEM_000_300","삐삐…… 재조정을 하고 싶은 경우에는
-재조정하고 싶은 '레지스탕스 웨폰'을
-장비해 주시기 바랍니다……."
-64,"TEXT_LUCKSA299_04041_MEMORIZESYSTEM_000_600","삐삐…… 기억 에테르, 해석. 선별…… 추출………….
-무기 코팅…… 및 기억 정착 작업을 완료!
-수고하셨, 습니다……!!"
-65,"TEXT_LUCKSA299_04041_SYSTEM_000_601","<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>의 레지스탕스 웨폰이
-재조정되었습니다."
+48,"TEXT_LUCKSA299_04041_SYSTEM_000_000","選擇「重新調整義軍武器」選項，<hex:02100103>可以對義軍武器的屬性進行重新分配。"
+49,"TEXT_LUCKSA299_04041_MEMORIZESYSTEM_000_001","嗶嗶……歡迎光臨！<hex:02100103>重新調整義軍武器需要<hex:022003E80303>個<hex:02280AFF05>Item<hex:E8020103>！"
+50,"TEXT_LUCKSA299_04041_SYSTEM_000_002","可以從喪靈鐘的奧里亞娜<hex:02100103>或田園郡的希絲梅娜處交換<hex:02280BFF05>Item<hex:F280C00103>。"
+51,"TEXT_LUCKSA299_04041_Q1_000_100","要做什麼？"
+52,"TEXT_LUCKSA299_04041_A1_000_100","重新調整義軍武器"
+53,"TEXT_LUCKSA299_04041_A2_000_100","聽取說明"
+54,"TEXT_LUCKSA299_04041_A3_000_100","取消"
+55,"TEXT_LUCKSA299_04041_SYSTEM_000_150","將<hex:02280BFF05>Item<hex:F280C00103>交給追憶系統後，<hex:02100103>可以從4種狀態參數中，選擇任意的屬性進行強化。"
+56,"TEXT_LUCKSA299_04041_SYSTEM_000_151","分配好屬性之後，<hex:02100103>選擇「進行分配」即可強化指定的屬性。"
+57,"TEXT_LUCKSA299_04041_SYSTEM_000_152","想重新調整的話，需要使用<hex:02280BFF05>Item<hex:F280C00103>，<hex:02100103>所以請經過充分思考，再選擇要強化的屬性。"
+58,"TEXT_LUCKSA299_04041_MEMORIZESYSTEM_000_190","發生錯誤……發生錯誤……<hex:02100103>重新調整義軍武器需要<hex:022003E80303>個<hex:02280AFF05>Item<hex:E8020103>！"
+59,"TEXT_LUCKSA299_04041_MEMORIZESYSTEM_000_200","發生錯誤……發生錯誤……<hex:02100103>請將想要進行重新調整的義軍武器裝備上之後，<hex:02100103>再次進行對話。"
+60,"TEXT_LUCKSA299_04041_SYSTEM_000_210","重新調整對象為目前裝備的義軍武器。"
+61,"TEXT_LUCKSA299_04041_SYSTEM_000_211","確定要對<hex:020837E3E94509FF12><hex:02280EFF09>ClassJob<hex:E9450103><hex:FF1E><hex:02081AE1E94513FF12><hex:02280EFF09>ClassJob<hex:E9450103><hex:FF01><hex:03><hex:03>的義軍武器屬性進行重新調整嗎？"
+62,"TEXT_LUCKSA299_04041_Q1_000_200","是否重新調整目前裝備的義軍武器？"
+63,"TEXT_LUCKSA299_04041_MEMORIZESYSTEM_000_300","嗶嗶……<hex:02100103>裝備上想要重新調整的義軍武器後，<hex:02100103>再次對話即可進行重新調整。"
+64,"TEXT_LUCKSA299_04041_MEMORIZESYSTEM_000_600","嗶嗶……正在解析和篩選記憶乙太……已提取……<hex:02100103>武器鍍層以及固定記憶作業已完成。<hex:02100103>辛苦了！"
+65,"TEXT_LUCKSA299_04041_SYSTEM_000_601","<hex:020837E3E94509FF12><hex:02280EFF09>ClassJob<hex:E9450103><hex:FF1E><hex:02081AE1E94513FF12><hex:02280EFF09>ClassJob<hex:E9450103><hex:FF01><hex:03><hex:03>的義軍武器已重新調整完畢。"

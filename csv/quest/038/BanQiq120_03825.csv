@@ -1,11 +1,9 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_BANQIQ120_03825_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
-
-호파루의 소반에 있는 코테루리 파소리는 석비를 관리하고 싶은 듯하다."
-1,"TEXT_BANQIQ120_03825_SEQ_01","코테루리 파소리에게 의뢰받은 물건을 납품"
+0,"TEXT_BANQIQ120_03825_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整（限定職業）<hex:0249020103><hex:0248020103><hex:02100103>※本任務需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>霍啪櫨古盤的柯呫盧利·帕嗦利想要維護石碑。"
+1,"TEXT_BANQIQ120_03825_SEQ_01","將柯呫盧利·帕嗦利委託的物品交給她"
 2,"TEXT_BANQIQ120_03825_SEQ_02",""
 3,"TEXT_BANQIQ120_03825_SEQ_03",""
 4,"TEXT_BANQIQ120_03825_SEQ_04",""
@@ -28,7 +26,7 @@ int32,str,str
 21,"TEXT_BANQIQ120_03825_SEQ_21",""
 22,"TEXT_BANQIQ120_03825_SEQ_22",""
 23,"TEXT_BANQIQ120_03825_SEQ_23",""
-24,"TEXT_BANQIQ120_03825_TODO_00","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>뮤릴의 향수의 광맥에서 <Sheet(Item,IntegerParameter(5),0)/> 채굴<Else/>코테루리 파소리에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>뮤릴의 향수의 약초밭에서 <Sheet(Item,IntegerParameter(5),0)/> 채집<Else/>코테루리 파소리에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>로차틀 강에서 <Sheet(Item,IntegerParameter(5),0)/> 낚기<Else/>코테루리 파소리에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If>"
+24,"TEXT_BANQIQ120_03825_TODO_00","<hex:0208F20151E4E80511FF69><hex:020865E3E802E803FF2F>在繆櫟的鄉愁的礦脈採取<hex:02280AFF05>Item<hex:E8060103><hex:FF2E>將<hex:02280AFF05>Item<hex:E8060103>交給柯呫盧利·帕嗦利<hex:03><hex:FFF0E0><hex:0208F0DBE4E80512FF69><hex:020865E3E802E803FF2F>在繆櫟的鄉愁的草場採取<hex:02280AFF05>Item<hex:E8060103><hex:FF2E>將<hex:02280AFF05>Item<hex:E8060103>交給柯呫盧利·帕嗦利<hex:03><hex:FF6C><hex:020868E4E80513FF60><hex:02085CE3E802E803FF26>在洛查特爾河釣取<hex:02280AFF05>Item<hex:E8060103><hex:FF2E>將<hex:02280AFF05>Item<hex:E8060103>交給柯呫盧利·帕嗦利<hex:03><hex:FF01><hex:03><hex:03><hex:03>"
 25,"TEXT_BANQIQ120_03825_TODO_01",""
 26,"TEXT_BANQIQ120_03825_TODO_02",""
 27,"TEXT_BANQIQ120_03825_TODO_03",""
@@ -52,35 +50,14 @@ int32,str,str
 45,"TEXT_BANQIQ120_03825_TODO_21",""
 46,"TEXT_BANQIQ120_03825_TODO_22",""
 47,"TEXT_BANQIQ120_03825_TODO_23",""
-48,"TEXT_BANQIQ120_03825_QHOTERLPASOL_000_000","석비의 상태를 유지하려면 꼼꼼하게 관리해야 한답니다~!
-숲의 습도 및 기온 등에 아주 섬세한 변화가 생겨도
-그게 쌓이고 쌓여서 석비가 풍화되어 버리니까요~."
-49,"TEXT_BANQIQ120_03825_QHOTERLPASOL_000_001","하여, <Highlight>ObjectParameter(1)</Highlight> 님께서
-관리용 도구를 만들기 위한 재료를 모아주셨으면 해요~.
-후세에 기록을 남기기 위한 것이니 부디 잘 부탁드려요~!"
-50,"TEXT_BANQIQ120_03825_QHOTERLPASOL_000_002","석비를 반짝반짝 매끈매끈하게 닦기 위해
-'<Sheet(Item,29532,0)/>'<13>FF0F02280BFF054974656DF2735C0103FF04EBA5BCFF04EC9D84</13> 모아서 가져와 주시어요~!
-뮤릴의 향수 부근에서 캐실 수 있을 거예요~!"
-51,"TEXT_BANQIQ120_03825_QHOTERLPASOL_000_003","석비에 쌓인 먼지와 낙엽을 슥슥 털어내기 위해
-'<Sheet(Item,29558,0)/>'<13>FF0F02280BFF054974656DF273760103FF04EBA5BCFF04EC9D84</13> 모아서 가져와 주시어요~!
-뮤릴의 향수 부근에서 채집하실 수 있을 거예요~!"
-52,"TEXT_BANQIQ120_03825_QHOTERLPASOL_000_004","석비를 반짝반짝 매끈매끈하게 닦기 위해
-단단한 비늘을 가진 '<Sheet(Item,29584,0)/>'<13>FF0F02280BFF054974656DF273900103FF04EBA5BCFF04EC9D84</13> 모아서 가져와 주시어요~.
-로차틀 강에서 <Sheet(Item,27582,0)/> 같은 미끼로 잡으세요~!"
-53,"TEXT_BANQIQ120_03825_QHOTERLPASOL_000_005","석비를 반짝반짝 매끈매끈하게 닦기 위해
-'<Sheet(Item,29532,0)/>'<13>FF0F02280BFF054974656DF2735C0103FF04EBA5BCFF04EC9D84</13> 모아서 가져와 주시어요~!
-뮤릴의 향수 부근에서 캐실 수 있을 거예요~!"
-54,"TEXT_BANQIQ120_03825_QHOTERLPASOL_000_006","석비에 쌓인 먼지와 낙엽을 슥슥 털어내기 위해
-'<Sheet(Item,29558,0)/>'<13>FF0F02280BFF054974656DF273760103FF04EBA5BCFF04EC9D84</13> 모아서 가져와 주시어요~!
-뮤릴의 향수 부근에서 채집하실 수 있을 거예요~!"
-55,"TEXT_BANQIQ120_03825_QHOTERLPASOL_000_007","석비를 반짝반짝 매끈매끈하게 닦기 위해
-단단한 비늘을 가진 '<Sheet(Item,29584,0)/>'<13>FF0F02280BFF054974656DF273900103FF04EBA5BCFF04EC9D84</13> 모아서 가져와 주시어요~.
-로차틀 강에서 <Sheet(Item,27582,0)/> 같은 미끼로 잡으세요~!"
-56,"TEXT_BANQIQ120_03825_QHOTERLPASOL_000_010","수고하셨습니다~!
-관리용 도구의 재료는 구해오셨어요~?"
-57,"TEXT_BANQIQ120_03825_QHOTERLPASOL_000_011","진심으로 감사드려요~!
-빗자루를 이용해 매일 청소하면서 찌든 때는
-물고기의 비늘이나 작은 자갈로 긁어서 말끔히 지울 거예요~."
-58,"TEXT_BANQIQ120_03825_QHOTERLPASOL_000_012","인내심이 필요한 일이긴 하지만
-다 같이 노력하여 재건한 석비를 후세에 물려줄 수 있다면
-지루한 작업이라도 힘을 낼 수 있을 것 같아요~!"
+48,"TEXT_BANQIQ120_03825_QHOTERLPASOL_000_000","想要維護石碑的狀態，需要精心護理才行！<hex:02100103>森林裡濕度和氣溫的微小變化，<hex:02100103>經過長年累月的累積，都很可能使石碑風化是也！"
+49,"TEXT_BANQIQ120_03825_QHOTERLPASOL_000_001","所以，某想請<hex:022903EB0203>閣下去幫忙收集<hex:02100103>維護石碑狀態用的素材是也。<hex:02100103>為了將記錄流傳後世，就拜託爾了！"
+50,"TEXT_BANQIQ120_03825_QHOTERLPASOL_000_002","想把石碑打磨得光亮，<hex:02100103>需要用到可以在繆櫟的鄉愁<hex:02100103>採集到的<hex:02280BFF05>Item<hex:F2735C0103>是也！"
+51,"TEXT_BANQIQ120_03825_QHOTERLPASOL_000_003","想把石碑上的灰塵和落葉清掃乾淨，<hex:02100103>需要用到可以在繆櫟的鄉愁<hex:02100103>採集到的<hex:02280BFF05>Item<hex:F273760103>是也！"
+52,"TEXT_BANQIQ120_03825_QHOTERLPASOL_000_004","想把石碑打磨得光亮，<hex:02100103>需要用到可以在洛查特爾河以<hex:02280BFF05>Item<hex:F26BBE0103>為釣餌<hex:02100103>釣到的<hex:02280BFF05>Item<hex:F273900103>的硬鱗是也！"
+53,"TEXT_BANQIQ120_03825_QHOTERLPASOL_000_005","想把石碑打磨得光亮，<hex:02100103>需要用到可以在繆櫟的鄉愁<hex:02100103>採集到的<hex:02280BFF05>Item<hex:F2735C0103>是也！"
+54,"TEXT_BANQIQ120_03825_QHOTERLPASOL_000_006","想把石碑上的灰塵和落葉清掃乾淨，<hex:02100103>需要用到可以在繆櫟的鄉愁<hex:02100103>採集到的<hex:02280BFF05>Item<hex:F273760103>是也！"
+55,"TEXT_BANQIQ120_03825_QHOTERLPASOL_000_007","想把石碑打磨得光亮，<hex:02100103>需要用到可以在洛查特爾河以<hex:02280BFF05>Item<hex:F26BBE0103>為釣餌<hex:02100103>釣到的<hex:02280BFF05>Item<hex:F273900103>的硬鱗是也！"
+56,"TEXT_BANQIQ120_03825_QHOTERLPASOL_000_010","辛苦爾了，拿到維護石碑用的素材了嗎？"
+57,"TEXT_BANQIQ120_03825_QHOTERLPASOL_000_011","非常感謝爾！<hex:02100103>現在就需要每天用掃帚打掃石碑，<hex:02100103>再用魚鱗和細小砂礫研磨石碑，清理頑固污漬是也！"
+58,"TEXT_BANQIQ120_03825_QHOTERLPASOL_000_012","這是一項需要耐心的工作……<hex:02100103>不過為了將大家努力再建的石碑流傳後世，<hex:02100103>某就算再不起眼的工作，也會努力完成是也！"

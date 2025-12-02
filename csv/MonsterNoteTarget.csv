@@ -1,5 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7,8
 #,BNpcName,Icon,Town,PlaceName{Zone}[0],PlaceName{Location}[0],PlaceName{Zone}[1],PlaceName{Location}[1],PlaceName{Zone}[2],PlaceName{Location}[2]
+offset,4,0,18,6,12,8,14,10,16
 int32,BNpcName,Image,Town,PlaceName,PlaceName,PlaceName,PlaceName,PlaceName,PlaceName
 0,0,0,0,0,0,0,0,0,0
 1,49,63036,1,30,161,54,68,42,261

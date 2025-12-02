@@ -1,5 +1,6 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
 0,"TEXT_LUCKYB006_03662_SEQ_00",""
 1,"TEXT_LUCKYB006_03662_SEQ_01",""
@@ -49,21 +50,13 @@ int32,str,str
 45,"TEXT_LUCKYB006_03662_TODO_21",""
 46,"TEXT_LUCKYB006_03662_TODO_22",""
 47,"TEXT_LUCKYB006_03662_TODO_23",""
-48,"TEXT_LUCKYB006_03662_PARALLELMINSTREL_000_001","아, 혹시 너는……."
-49,"TEXT_LUCKYB006_03662_PARALLELMINSTREL_000_002","응, 역시 맞군.
-<Highlight>ObjectParameter(1)</Highlight> 맞지?
-너의 활약상은 예전부터 듣고 있었어."
-50,"TEXT_LUCKYB006_03662_PARALLELMINSTREL_000_003","그렇게 나를 쳐다보는 데에는
-뭔가 마음에 걸리는 거라도 있는 거야?"
-51,"TEXT_LUCKYB006_03662_Q1_000_000","뭐라고 대답하시겠습니까?"
-52,"TEXT_LUCKYB006_03662_A1_000_001","어떻게 이 세계에 왔지?"
-53,"TEXT_LUCKYB006_03662_A1_000_002","원초세계에서 건너온 거야?"
-54,"TEXT_LUCKYB006_03662_PARALLELMINSTREL_000_005","무슨 말인지는 잘 모르겠지만……
-어디선가 나를 닮은 사람을 만난 적이 있나 보구나."
-55,"TEXT_LUCKYB006_03662_PARALLELMINSTREL_000_006","하지만 나에 대해 잘 알게 되면
-분명 다른 사람이라는 걸 알 게 될 거다."
-56,"TEXT_LUCKYB006_03662_PARALLELMINSTREL_000_007","이래 봬도 난 노래를 만들어 부르고 있거든.
-후세에 마땅히 전해야 하는 위업을 본인에게 직접 들음으로써
-풍부한 시상을 얻어 새로운 작품을 창조하고 있지."
-57,"TEXT_LUCKYB006_03662_PARALLELMINSTREL_000_008","그렇지, 괜찮다면 네 모험담을 내게 들려주겠어?
-네가 걸어온 길을 내가 노래할 수 있게 해줘."
+48,"TEXT_LUCKYB006_03662_PARALLELMINSTREL_000_001","哎呀，你莫非是……"
+49,"TEXT_LUCKYB006_03662_PARALLELMINSTREL_000_002","嗯，果然是。<hex:02100103>你就是<hex:022903EB0203>對吧？<hex:02100103>我聽說過不少關於你的事蹟。"
+50,"TEXT_LUCKYB006_03662_PARALLELMINSTREL_000_003","你這麼盯著我看，<hex:02100103>難道有什麼事情讓你很在意嗎？"
+51,"TEXT_LUCKYB006_03662_Q1_000_000","如何作答？"
+52,"TEXT_LUCKYB006_03662_A1_000_001","你怎麼來到這個世界的？"
+53,"TEXT_LUCKYB006_03662_A1_000_002","你是從原初世界過來的？"
+54,"TEXT_LUCKYB006_03662_PARALLELMINSTREL_000_005","我不懂你在說什麼……<hex:02100103>看來你在某個地方遇到過跟我長得很像的人物啊。"
+55,"TEXT_LUCKYB006_03662_PARALLELMINSTREL_000_006","不過，要是你更加深入地了解我的話，<hex:02100103>就一定能理解到我跟那個人物不是同一個人。"
+56,"TEXT_LUCKYB006_03662_PARALLELMINSTREL_000_007","別看我這身打扮，我可是很喜愛詩歌的。<hex:02100103>我會從當事人那裡直接了解值得流傳於後世的偉大事蹟，<hex:02100103>之後再用充滿了詩意的情感創造出新的作品。"
+57,"TEXT_LUCKYB006_03662_PARALLELMINSTREL_000_008","對了，如果可以的話，能不能將你的冒險經歷講述給我聽聽？<hex:02100103>我希望你能夠允許我歌唱出你走過的旅程。"

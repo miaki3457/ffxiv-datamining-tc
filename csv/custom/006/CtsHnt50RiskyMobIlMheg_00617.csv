@@ -1,78 +1,40 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_001","어디 강한 녀석 없나……."
-1,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_002","마물을 사냥한다는 것은 전투의 경험을 쌓는다는 것…….
-난 더욱더 강해질 수 있어!"
-2,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_003","여어, 마물 사냥은 즐기고 있나?
-될 수 있으면 호사가들의 안줏거리는 되지 마라."
-3,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_004","오늘은 날 죽여 줄 마물을 만나면 좋겠는데……."
-4,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_010","오, 너로군.
-일 메그에 서식한다고 알려진 정예 마물에 대해
-알고 싶어?"
-5,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_Q1_000_000","무엇을 물어보시겠습니까?"
-6,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_A1_000_001","B급: 나비를 잡아먹는 거대뱀 '불팡구에'"
-7,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_A1_000_002","B급: 요정의 벗 '도모보이'"
-8,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_A1_000_003","A급: 제2왕녀 '폴디아'"
-9,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_A1_000_004","A급: 되살아난 거대 여인 '진흙인간'"
-10,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_A1_000_005","S급: 푸른 하늘의 요정 '아글라오페'"
-11,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_A1_100_006","S급: 반역의 장군 '면죄된 폭동'"
-12,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_A1_000_006","취소"
-13,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_050","나비를 잡아먹는 거대뱀 '불팡구에'를 알아?
-푀부트 왕국 관련 문헌에 따르면 몸집은 커다랗지만
-나비나 곤충이 주식인 얌전한 존재라더군."
-14,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_051","그런데 일 메그에 잠입한 클랜원이 직접 봤다는 거야!
-모습을 드러내고 느긋하게 산책하던 픽시가 잡아먹히는 모습을!"
-15,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_052","평범한 나비라면 몰라도
-마력이 가득한 픽시를 잡아먹으면 어떻게 될지…….
-상상하기도 싫지 않아?"
-16,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_100","외로움을 많이 타는 픽시가
-자신의 벗 역할로 만든 마법 생물, 그게 바로 '도모보이'야."
+0,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_001","有沒有強者出現呢……"
+1,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_002","狩獵怪物就是累積戰鬥經驗，<hex:02100103>所以我還能變得更強更強！"
+2,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_003","喲，有在好好狩獵怪物嗎？<hex:02100103>可千萬小心別死在怪物手裡，<hex:02100103>最後變成別人茶餘飯後的談資啊。"
+3,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_004","今天會不會遇到能讓我體驗死亡的怪物呢……"
+4,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_010","哦，是你呀！<hex:02100103>想不想了解一下棲息在伊爾美格的怪物？"
+5,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_Q1_000_000","想了解什麼？"
+6,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_A1_000_001","關於B級怪物：食蝶大蛇——狐首虺"
+7,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_A1_000_002","關於B級怪物：仙子之友——杜莫伊"
+8,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_A1_000_003","關於A級怪物：王國二公主——保爾迪雅"
+9,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_A1_000_004","關於A級怪物：復甦的巨女——泥人"
+10,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_A1_000_005","關於S級怪物：青空妖精——阿格拉俄珀"
+11,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_A1_100_006","關於S級怪物：叛軍之將——得到寬恕的叛亂"
+12,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_A1_000_006","取消"
+13,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_050","你聽說過食蝶大蛇「狐首虺」嗎？<hex:02100103>根據孚布特王國的文獻記載，這種蛇雖然個頭巨大，<hex:02100103>但卻是以蝴蝶等昆蟲為食，性情十分溫和。"
+14,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_051","不過潛入伊爾美格的兵團成員卻看到了它<hex:02100103>將悠閒散步的仙子一口吞掉的場景！"
+15,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_052","只吃蝴蝶的話當然沒什麼問題，<hex:02100103>但如果它的食譜裡還包含了身具豐厚魔力的仙子族，<hex:02100103>那我已經不敢想像它最終會成長為一個什麼樣的怪物了。"
+16,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_100","杜莫伊是一個怕寂寞的仙子創造出的魔法生物夥伴。"
 17,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_101","（★未使用／削除予定★）"
-18,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_102","주인을 지키도록 설계된 도모보이는
-언제나 주인의 곁을 떠나지 않고 좋은 벗으로 남았다고 해.
-주인 픽시가 죄식자에게 습격당해 목숨을 잃기 전까지는……."
-19,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_103","그 후로 얼마나 시간이 흘렀는지는 몰라도……
-지금도 여전히 도모보이는 소중한 벗인 주인의 모습을 찾아
-일 메그를 떠돌고 있다고 들었어."
-20,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_150","1년 쯤 전, 푀부트 왕국 유적에 침입한 넝마주이가
-지하 깊은 곳의 감옥 안에서 사슬에 묶인 마물을 목격했대."
-21,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_151","그 감옥 문에는 '폴디아'라고 새겨져 있었다는데
-왕국이 멸망한 당시 제2왕녀의 이름과 똑같았어.
-그리고 벽에는 피로 이렇게 적혀 있었지."
-22,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_152","'왕위 계승권에 눈이 멀어, 그 사내의 말에 동조한 것이 실수였다.
- 감히 나를 장기 말처럼 이용하다 버릴 줄이야…….
- 아아, 부디 언니도 같은 말로를 걷기를!'이라고 말이야."
+18,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_102","據說被創造出的杜莫伊無論何時都忠實地守護在主人身邊，<hex:02100103>盡力扮演著好夥伴、好朋友的角色。<hex:02100103>直到那個仙子被食罪靈襲擊殞命為止……"
+19,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_103","經過漫長的時光後，<hex:02100103>杜莫伊至今還在伊爾美格四處徘徊，<hex:02100103>努力想找到自己的主人、自己最好的朋友。"
+20,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_150","大約一年前，進入孚布特王國遺跡拾荒的人<hex:02100103>在幽深的地牢中發現了被鎖鏈拴著的魔物。"
+21,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_151","那座牢房的大門上刻著「保爾迪雅」四個字。<hex:02100103>這是王國毀滅時期，當時的孚布特王國二公主的名字。<hex:02100103>牢內的牆壁上還有用血書寫下的文字。"
+22,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_152","「我真不該被王位繼承權迷昏了頭跑去相信那個男人的鬼話。<hex:02100103>他居然從頭到尾都只是在利用我而已……<hex:02100103>唉——只希望姐姐不要落得和我一樣的下場。」"
 23,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_153","（★未使用／削除予定★）"
-24,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_200","픽시가 못된 장난을 치는 건 알지?
-길을 잃고 요정의 도시에 들어온 자를 식물 인형……
-통칭 '풀인간'으로 만들어 버리는 것으로 유명해."
-25,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_201","그런 풀인간을, 어느 픽시가 변덕을 부려 되살리겠다고
-시도한 결과, 진흙투성이 괴물이 태어났다더군."
-26,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_202","풀인간이 '진흙인간'으로 변한 과정은 수수께끼지만
-원래는 통통하고 몸집이 큰 미스텔족 여자였다더라고.
-주홍빛 픽시에게 그 얘기를 듣고 내 귀를 의심했다니까."
+24,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_200","你知道仙子族喜歡性質惡劣的惡作劇吧？<hex:02100103>比如說把不慎踏入妖精之鄉的人變成名為「草人」的植物人偶。"
+25,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_201","據說有一個仙子心血來潮嘗試了讓草人復甦，<hex:02100103>結果一個滿身泥濘的怪物就這樣誕生了。"
+26,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_202","雖然不知道為什麼草人會變異成了泥人，<hex:02100103>但據說裡面的人本是一位豐滿高大的貓秘族女性。<hex:02100103>從緋紅色的仙子族那裡聽到這條訊息時我簡直懷疑自己的耳朵。"
 27,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_203","（★未使用／削除予定★）"
-28,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_250","'아글라오페'란
-푀부트 왕국의 옛 민화에 등장하는 푸른 하늘의 요정인데
-아름다운 목소리와 미모를 겸비한 귀여운 존재였다더군."
-29,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_251","그런 전설 속 존재를 동경한 픽시가
-자신에게 환혹 마법을 거듭해서 건 결과,
-꿈에 그리던 모습으로 변모했다는데……."
-30,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_252","여기까지만 들으면 해피 엔딩이지만
-문제는 변모한 후의 모습을 본 동료 픽시들의 반응이었어.
-커다랗고 무시무시하다며 조롱했다더군……."
-31,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_253","결국 '아글라오페'라는 이름을 쓰기 시작한 그 픽시는
-작고 아름다운 존재라면 다짜고짜 습격하는 악마가 되었대.
-질투심이란 참 무서워."
-32,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_300","미리 말해 두지만 이 녀석의 목격 정보는
-일 메그 이외의 지역에서도 보고되고 있어.
-즉, 노르브란트 전역에 출몰할 가능성이 있다는 뜻이지."
-33,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_301","소위 '떠돌이' 죄식자 중에서도 특히 강력한 개체인데
-전투 기능이 뛰어난 대상을 노리고 습격하기로 유명해."
-34,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_302","너츠 클랜에서도 특히 우수한 클랜원들이
-사냥에서 돌아오는 길에 습격당해 맥없이 희생당했지…….
-각지에 부하를 풀어서 늘 먹이를 찾고 있다더라고."
-35,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_303","'그림자의 왕'을 섬기며 레이크랜드 연방에 반역을 일으킨
-엘프족 장군이 죄식자로 변이한 거래.
-부하에게 정찰을 시키는 것도 생전의 습관이 이어진 게 아닐까?"
+28,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_250","阿格拉俄珀是在孚布特王國的民間故事中登場的青空妖精。<hex:02100103>據說她擁有著美妙的歌聲、美麗的外貌，非常非常的可愛。"
+29,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_251","某個憧憬這一故事人物的仙子不斷對自己施加幻惑之術，<hex:02100103>最終成功變為了理想的樣貌……"
+30,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_252","到這裡聽起來還是個挺美好的故事，但很快問題就發生了……<hex:02100103>同伴們看到她變異後的樣子後，<hex:02100103>都開始嘲笑她是又大又恐怖的怪物……"
+31,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_253","最後這位阿格拉俄珀成為了<hex:02100103>見到小巧美麗的事物就忍不住摧殘的惡魔。<hex:02100103>唉……嫉妒心真是可怕的東西。"
+32,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_300","事先跟你講清楚，關於這傢伙的目擊情報可不侷限於伊爾美格，<hex:02100103>整個諾弗蘭特都有可能發現它的身影。"
+33,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_301","據說在獨行食罪靈中，它也算是十分強大的個體，<hex:02100103>愛好是襲擊戰鬥能力高的強者。"
+34,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_302","我們狂熱兵團中就有十分優秀的團員們<hex:02100103>在狩獵歸還途中遭到了它的襲擊不幸身亡。<hex:02100103>它應該是將手下派到了各地不斷尋找著強大的獵物。"
+35,"TEXT_CTSHNT50RISKYMOBILMHEG_00617_HALLDOR_000_303","據說它在變成食罪靈前，<hex:02100103>是跟隨影之王對雷克蘭德聯邦舉起反旗的菁靈族將軍。<hex:02100103>也許知道派手下四處偵察是受了生前的影響吧。"

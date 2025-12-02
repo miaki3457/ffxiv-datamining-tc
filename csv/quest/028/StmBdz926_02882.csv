@@ -1,7 +1,8 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_STMBDZ926_02882_SEQ_00","포르타 프라이토리아에 있는 파미졸로는 모험가에게 부탁하고 싶은 것이 있는 듯하다. "
+0,"TEXT_STMBDZ926_02882_SEQ_00","天營門的帕米索洛有事想委託冒險者。"
 1,"TEXT_STMBDZ926_02882_SEQ_01",""
 2,"TEXT_STMBDZ926_02882_SEQ_02",""
 3,"TEXT_STMBDZ926_02882_SEQ_03",""
@@ -25,8 +26,8 @@ int32,str,str
 21,"TEXT_STMBDZ926_02882_SEQ_21",""
 22,"TEXT_STMBDZ926_02882_SEQ_22",""
 23,"TEXT_STMBDZ926_02882_SEQ_23",""
-24,"TEXT_STMBDZ926_02882_TODO_00","<Sheet(BNpcName,5723,0)/>한테서 <Sheet(EventItem,2002314,0)/>입수"
-25,"TEXT_STMBDZ926_02882_TODO_01","파미졸로에게 <Sheet(EventItem,2002314,0)/> 전달"
+24,"TEXT_STMBDZ926_02882_TODO_00","從<hex:02280FFF09>BNpcName<hex:F2165B0103>身上獲取<hex:022811FF0A>EventItem<hex:F61E8D8A0103>"
+25,"TEXT_STMBDZ926_02882_TODO_01","將<hex:022811FF0A>EventItem<hex:F61E8D8A0103>交給帕米索洛"
 26,"TEXT_STMBDZ926_02882_TODO_02",""
 27,"TEXT_STMBDZ926_02882_TODO_03",""
 28,"TEXT_STMBDZ926_02882_TODO_04",""
@@ -49,27 +50,14 @@ int32,str,str
 45,"TEXT_STMBDZ926_02882_TODO_21",""
 46,"TEXT_STMBDZ926_02882_TODO_22",""
 47,"TEXT_STMBDZ926_02882_TODO_23",""
-48,"TEXT_STMBDZ926_02882_PAMISOLAUX_000_000","자네는 드리유몽 경하고도 친한……
-미안하지만, 임무에 협력해줄 수 있을까?"
-49,"TEXT_STMBDZ926_02882_PAMISOLAUX_000_001","나는 하얀테 전초지에서 파견 나온 치료사야.
-아무리 이기는 싸움이라도 부상자는 반드시 나오기 마련인데…….
-비축해놓은 의료품이 바닥나고 있어."
-50,"TEXT_STMBDZ926_02882_PAMISOLAUX_000_002","그래서 이 부근에서 구할 수 있는 걸 이용해서
-치료에 필요한 물품을 보충했으면 해."
-51,"TEXT_STMBDZ926_02882_PAMISOLAUX_000_003","해방군한테 남쪽 방면에 <Sheet(BNpcName,5723,0)/><13>FF1302280FFF09424E70634E616D65F2165B0103FF04EAB080FF04EC9DB4</13> 서식한단 얘길 들었어.
-그걸 사냥해서 '<Sheet(EventItem,2002314,0)/>' 4개만 구해다 줄 수 있을까?"
-52,"TEXT_STMBDZ926_02882_PAMISOLAUX_000_004","해방군한테 남쪽 방면에 <Sheet(BNpcName,5723,0)/><13>FF1302280FFF09424E70634E616D65F2165B0103FF04EAB080FF04EC9DB4</13> 서식한단 얘길 들었어.
-그걸 사냥해서 '<Sheet(EventItem,2002314,0)/>' 4개만 구해다 줄 수 있을까?"
-53,"TEXT_STMBDZ926_02882_PAMISOLAUX_000_010","'<Sheet(EventItem,2002314,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8D8A0103FF04EB8A94FF04EC9D80</13> 구했어?"
-54,"TEXT_STMBDZ926_02882_PAMISOLAUX_000_011","이건……!! 아주 훌륭한 힘줄을 구했구나.
-좋아, 이거면 됐어."
-55,"TEXT_STMBDZ926_02882_PAMISOLAUX_000_012","<Sheet(EventItem,2002314,0)/><13>FF15022811FF0A4576656E744974656DF61E8D8A0103FF04EB8A94FF04EC9D80</13> 탄력이 있고 잘 끊어지지 않는 성질이 있어.
-붕대를 고정시킬 수도 있고 의수나 의족을 고정시키는 부품에도 쓰이지."
-56,"TEXT_STMBDZ926_02882_PAMISOLAUX_000_013","천년전쟁을 치렀던 이슈가르드에서는
-이러한 응급 처치 기술이 발전해왔어.
-치료 솜씨만 좋아지는 것 같아 마음이 좀 복잡하지만 말이야……."
-57,"TEXT_STMBDZ926_02882_PAMISOLAUX_000_014","눈앞에 구할 수 있는 생명이 있다면
-치료사 입장에선 그냥 놔둘 수 없잖아. 
-최선을 다해야지."
-58,"TEXT_STMBDZ926_02882_PAMISOLAUX_000_015","재미없는 얘기해서 미안해.
-도와줘서 고마워, 모험가."
+48,"TEXT_STMBDZ926_02882_PAMISOLAUX_000_000","你是和德里耶蒙閣下關係非常好的那個……<hex:02100103>抱歉，能不能協助我完成一下任務？"
+49,"TEXT_STMBDZ926_02882_PAMISOLAUX_000_001","我是從白雲崖前哨派過來的治療師。<hex:02100103>就算贏得了戰爭，也會出現死傷者……<hex:02100103>所以，醫療品的儲備量一直在減少。"
+50,"TEXT_STMBDZ926_02882_PAMISOLAUX_000_002","所以，我想用在這附近能獲取的東西，<hex:02100103>補充一下醫療用品。"
+51,"TEXT_STMBDZ926_02882_PAMISOLAUX_000_003","聽解放軍的人說，南邊棲息著<hex:02280FFF09>BNpcName<hex:F2165B0103>。<hex:02100103>能不能拜託你從它身上，<hex:02100103>獲取4個<hex:022811FF0A>EventItem<hex:F61E8D8A0103>，然後拿來給我呢？"
+52,"TEXT_STMBDZ926_02882_PAMISOLAUX_000_004","聽解放軍的人說，南邊棲息著<hex:02280FFF09>BNpcName<hex:F2165B0103>。<hex:02100103>能不能拜託你從它身上，<hex:02100103>獲取4個<hex:022811FF0A>EventItem<hex:F61E8D8A0103>，然後拿來給我呢？"
+53,"TEXT_STMBDZ926_02882_PAMISOLAUX_000_010","拿到<hex:022811FF0A>EventItem<hex:F61E8D8A0103>了嗎？"
+54,"TEXT_STMBDZ926_02882_PAMISOLAUX_000_011","這筋腱……很完美！<hex:02100103>嗯，這樣就沒問題了。"
+55,"TEXT_STMBDZ926_02882_PAMISOLAUX_000_012","<hex:022811FF0A>EventItem<hex:F61E8D8A0103>彈性十足，而且不易切斷。<hex:02100103>不僅可以用來固定繃帶，還能當做假肢的固定器。"
+56,"TEXT_STMBDZ926_02882_PAMISOLAUX_000_013","結束了千年戰爭的伊修加爾德，<hex:02100103>有著非常發達的應急處理技術。<hex:02100103>不過只有治療技術變這麼發達，也是心情複雜……"
+57,"TEXT_STMBDZ926_02882_PAMISOLAUX_000_014","但是，如果眼前有需要救助的人，<hex:02100103>作為治療師我會盡全力去救人。<hex:02100103>努力做到最好。"
+58,"TEXT_STMBDZ926_02882_PAMISOLAUX_000_015","抱歉，說了些無聊的話。<hex:02100103>總之謝謝你了，冒險者。"

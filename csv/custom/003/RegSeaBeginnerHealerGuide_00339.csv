@@ -1,30 +1,16 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGSEABEGINNERHEALERGUIDE_00339_HEALERCOACH00339_000_000","여긴 동료와 함께 싸우는 법을 배우는 '초보자의 집'이에요.
-당신은 이제 갓 모험을 시작하신 것 같군요.
-지금은 당신만의 모험에 집중하는 게 좋겠네요!"
-1,"TEXT_REGSEABEGINNERHEALERGUIDE_00339_SYSTEM_000_001","'초보자의 집'에서 진행하는 훈련은
-투사 또는 마법사 클래스가 '레벨 15' 이상 되면
-도전 자격이 주어집니다."
-2,"TEXT_REGSEABEGINNERHEALERGUIDE_00339_HEALERCOACH00339_000_010","여긴 동료와 함께 싸우는 법을 배우는 '초보자의 집'이에요.
-앞으로 모험을 계속하려면 한 번쯤은 도전해보는 게 좋을 거예요.
-안에 있는 '모험가 지도교관'에게 훈련을 받아보시겠어요?"
-3,"TEXT_REGSEABEGINNERHEALERGUIDE_00339_HEALERCOACH00339_000_020","……미안해요.
-저는 치유사의 훈련 내용밖에 모르거든요.
-지금 당신에게 적합한 교관은 따로 있는 것 같아요."
-4,"TEXT_REGSEABEGINNERHEALERGUIDE_00339_HEALERCOACH00339_000_030","어머, 훈련하러 오신 건가요?
-원하신다면 언제든지 함께할게요!
-안쪽에 있는 '모험가 지도교관'에게 가서 말씀하세요."
-5,"TEXT_REGSEABEGINNERHEALERGUIDE_00339_HEALERCOACH00339_000_040","'초보자의 집'에 오신 걸 환영해요!
-마지막 훈련을 돌파하셨으니, 실전도 잘 해내실 거예요!
-원하신다면 치유사의 전투 방법을 배워보시겠어요?"
-6,"TEXT_REGSEABEGINNERHEALERGUIDE_00339_Q1_000_000","무엇을 물어보시겠습니까?"
-7,"TEXT_REGSEABEGINNERHEALERGUIDE_00339_A1_000_001","아군과 함께 싸울 때는 어떻게 해야 하는지"
-8,"TEXT_REGSEABEGINNERHEALERGUIDE_00339_A1_000_002","아군을 회복시킬 필요가 없을 때는 무엇을 할지"
-9,"TEXT_REGSEABEGINNERHEALERGUIDE_00339_A1_000_003","취소"
-10,"TEXT_REGSEABEGINNERHEALERGUIDE_00339_HEALERCOACH00339_000_100","아군과 협동하여 싸울 때는 무엇보다 회복에 집중하세요.
-체력이 줄어든 사람이 있으면 바로 회복해줘야 해요!"
-11,"TEXT_REGSEABEGINNERHEALERGUIDE_00339_HEALERCOACH00339_000_110","아군과 함께 싸우는 것에 익숙해지면
-틈나는 대로 적을 공격해보는 것도 좋아요.
-단! 공격에 몰두하다 회복이 늦어지면 안 되겠죠?"
+0,"TEXT_REGSEABEGINNERHEALERGUIDE_00339_HEALERCOACH00339_000_000","這裡是學習如何與同伴一起戰鬥的初學者學堂。<hex:02100103>看來你才剛開始冒險不久，<hex:02100103>請先專注於完成你個人的冒險任務吧。"
+1,"TEXT_REGSEABEGINNERHEALERGUIDE_00339_SYSTEM_000_001","只有15級以上的戰鬥精英或魔法導師<hex:02100103>才能接受初學者學堂的訓練。"
+2,"TEXT_REGSEABEGINNERHEALERGUIDE_00339_HEALERCOACH00339_000_010","這裡是學習如何與同伴一起戰鬥的初學者學堂。<hex:02100103>如果你今後也準備做一名冒險者，來這裡學習是不會吃虧的。<hex:02100103>請你去找裡面的冒險者指導教官接受訓練。"
+3,"TEXT_REGSEABEGINNERHEALERGUIDE_00339_HEALERCOACH00339_000_020","……對不起，<hex:02100103>我只會教授有關治療職業的知識，所以教不了你。"
+4,"TEXT_REGSEABEGINNERHEALERGUIDE_00339_HEALERCOACH00339_000_030","你來接受訓練了啊。<hex:02100103>只要你願意，我隨時都願意奉陪！<hex:02100103>請你去找裡面的冒險者指導教官吧。"
+5,"TEXT_REGSEABEGINNERHEALERGUIDE_00339_HEALERCOACH00339_000_040","歡迎來到初學者學堂！<hex:02100103>你已經通過了最終訓練，想必在實戰中也如魚得水，戰鬥自如！<hex:02100103>你要是有時間的話，要不要來聽聽有關治療職業的知識啊？"
+6,"TEXT_REGSEABEGINNERHEALERGUIDE_00339_Q1_000_000","想了解什麼？"
+7,"TEXT_REGSEABEGINNERHEALERGUIDE_00339_A1_000_001","和同伴協作時要注意什麼？"
+8,"TEXT_REGSEABEGINNERHEALERGUIDE_00339_A1_000_002","無需幫同伴恢復HP時要怎麼辦？"
+9,"TEXT_REGSEABEGINNERHEALERGUIDE_00339_A1_000_003","取消"
+10,"TEXT_REGSEABEGINNERHEALERGUIDE_00339_HEALERCOACH00339_000_100","和同伴協作時，要注意把幫同伴恢復放在第一位。<hex:02100103>如果發現同伴的HP在減少，就馬上幫其恢復！"
+11,"TEXT_REGSEABEGINNERHEALERGUIDE_00339_HEALERCOACH00339_000_110","習慣了與同伴共同戰鬥後，<hex:02100103>可以看準時機不時攻擊一下敵人。<hex:02100103>但是要記住把恢復HP放在首位，你可不要本末倒置了哦。"

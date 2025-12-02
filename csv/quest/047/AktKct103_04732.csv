@@ -1,13 +1,10 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_AKTKCT103_04732_SEQ_00","<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>특수 규칙： 직업 고정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-중용의 공예관 앞에 있는 초라 조이는 '모웬 도구'를 개량하고 싶은 듯하다."
-1,"TEXT_AKTKCT103_04732_SEQ_01","※ 이 퀘스트에는 <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow> 직업 고정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 적용됩니다.
-   퀘스트 수락 시의 직업으로만 퀘스트를 진행할 수 있습니다.
-
-'모웬 도구'의 개량에 필요한 재료는 중용의 공예관 앞에 있는 '키나나'에게 거래 자본을 건네면 교환해준다고 한다. 중용의 공예관 앞에 있는 '초라 조이'에게 소지품 또는 장비함에 있는 '모웬 도구'와 재료를 주고 다음 단계로 개량해 달라고 하자."
-2,"TEXT_AKTKCT103_04732_SEQ_02","'모웬 도구'의 개량이 '3단계'에 도달했다. 성능을 더 향상시키고자 하는 초라 조이와 협력해서 '모웬 도구'를 개량하자."
+0,"TEXT_AKTKCT103_04732_SEQ_00","<hex:024804F201F603><hex:024904F201F703>特殊規則： 職業固定<hex:0249020103><hex:0248020103><hex:02100103>中庸工藝館前的喬菈·佐希望能繼續改良莫雯卓越工具。"
+1,"TEXT_AKTKCT103_04732_SEQ_01","※本任務為<hex:024804F201F603><hex:024904F201F703><hex:0249020103><hex:0248020103> 職業固定任務，<hex:02100103>　需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>改良莫雯卓越工具所需的材料，可使用交易資本品與秦娜娜兌換。將背包或兵裝庫中的莫雯卓越工具和材料交給中庸工藝館前的喬菈·佐，拜託她進行下一階段的改良。"
+2,"TEXT_AKTKCT103_04732_SEQ_02","莫雯卓越工具的改良工作進展到了第3階段。為了進一步提升工具的效能，與喬菈·佐等人一起繼續改良莫雯卓越工具。"
 3,"TEXT_AKTKCT103_04732_SEQ_03",""
 4,"TEXT_AKTKCT103_04732_SEQ_04",""
 5,"TEXT_AKTKCT103_04732_SEQ_05",""
@@ -29,12 +26,7 @@ int32,str,str
 21,"TEXT_AKTKCT103_04732_SEQ_21",""
 22,"TEXT_AKTKCT103_04732_SEQ_22",""
 23,"TEXT_AKTKCT103_04732_SEQ_23",""
-24,"TEXT_AKTKCT103_04732_TODO_00","<If(Equal(IntegerParameter(4),8))><Sheet(Item,38726,0)/><13>FF0F02280BFF054974656DF297460103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),9))><Sheet(Item,38727,0)/><13>FF0F02280BFF054974656DF297470103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),10))><Sheet(Item,38728,0)/><13>FF0F02280BFF054974656DF297480103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),11))><Sheet(Item,38729,0)/><13>FF0F02280BFF054974656DF297490103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),12))><Sheet(Item,38730,0)/><13>FF0F02280BFF054974656DF2974A0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),13))><Sheet(Item,38731,0)/><13>FF0F02280BFF054974656DF2974B0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),14))><Sheet(Item,38732,0)/><13>FF0F02280BFF054974656DF2974C0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),15))><Sheet(Item,38733,0)/><13>FF0F02280BFF054974656DF2974D0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),16))><Sheet(Item,38734,0)/><13>FF0F02280BFF054974656DF2974E0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),17))><Sheet(Item,38735,0)/><13>FF0F02280BFF054974656DF2974F0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),18))><Sheet(Item,38736,0)/><13>FF0F02280BFF054974656DF297500103FF04EBA5BCFF04EC9D84</13><Else/></If></If></If></If></If></If></If></If></If></If></If> 장비에서 해제하고 소지한 상태로
-<If(Equal(IntegerParameter(4),8))><Sheet(Item,38780,0)/><13>FF0F02280BFF054974656DF2977C0103FF04EBA5BCFF04EC9D84</13> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>90개<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 모아서<Else/><If(Equal(IntegerParameter(4),9))><Sheet(Item,38781,0)/><13>FF0F02280BFF054974656DF2977D0103FF04EBA5BCFF04EC9D84</13> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>90개<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 모아서<Else/><If(Equal(IntegerParameter(4),10))><Sheet(Item,38782,0)/><13>FF0F02280BFF054974656DF2977E0103FF04EBA5BCFF04EC9D84</13> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>90개<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 모아서<Else/><If(Equal(IntegerParameter(4),11))><Sheet(Item,38783,0)/><13>FF0F02280BFF054974656DF2977F0103FF04EBA5BCFF04EC9D84</13> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>90개<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 모아서<Else/><If(Equal(IntegerParameter(4),12))><Sheet(Item,38784,0)/><13>FF0F02280BFF054974656DF297800103FF04EBA5BCFF04EC9D84</13> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>90개<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 모아서<Else/><If(Equal(IntegerParameter(4),13))><Sheet(Item,38785,0)/><13>FF0F02280BFF054974656DF297810103FF04EBA5BCFF04EC9D84</13> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>90개<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 모아서<Else/><If(Equal(IntegerParameter(4),14))><Sheet(Item,38786,0)/><13>FF0F02280BFF054974656DF297820103FF04EBA5BCFF04EC9D84</13> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>90개<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 모아서<Else/><If(Equal(IntegerParameter(4),15))><Sheet(Item,38787,0)/><13>FF0F02280BFF054974656DF297830103FF04EBA5BCFF04EC9D84</13> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>90개<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 모아서<Else/><If(Equal(IntegerParameter(4),16))><Sheet(Item,38805,0)/> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>210개<UIGlow>01</UIGlow><UIForeground>01</UIForeground>와<Else/><If(Equal(IntegerParameter(4),17))><Sheet(Item,38804,0)/> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>210개<UIGlow>01</UIGlow><UIForeground>01</UIForeground>와<Else/><If(Equal(IntegerParameter(4),18))><Sheet(Item,38806,0)/> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>80개<UIGlow>01</UIGlow><UIForeground>01</UIForeground>와<Else/></If></If></If></If></If></If></If></If></If></If></If>
-<If(Equal(IntegerParameter(4),16))><Sheet(Item,38797,0)/><13>FF0F02280BFF054974656DF2978D0103FF04EBA5BCFF04EC9D84</13> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>210개<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 모아서
-<Else/><If(Equal(IntegerParameter(4),17))><Sheet(Item,38795,0)/><13>FF0F02280BFF054974656DF2978B0103FF04EBA5BCFF04EC9D84</13> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>210개<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 모아서
-<Else/><If(Equal(IntegerParameter(4),18))><Sheet(Item,38807,0)/><13>FF0F02280BFF054974656DF297970103FF04EBA5BCFF04EC9D84</13> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>80개<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 모아서
-<Else/></If></If></If>중용의 공예관 앞에 있는 초라 조이에게 전달"
+24,"TEXT_AKTKCT103_04732_TODO_00","卸下<hex:0208F20121E4E80509FF0F><hex:02280BFF05>Item<hex:F297460103><hex:FFF20109><hex:0208F20103E4E8050AFF0F><hex:02280BFF05>Item<hex:F297470103><hex:FFF0EC><hex:0208F0E7E4E8050BFF0F><hex:02280BFF05>Item<hex:F297480103><hex:FFF0D0><hex:0208CDE4E8050CFF0F><hex:02280BFF05>Item<hex:F297490103><hex:FFB7><hex:0208B3E4E8050DFF0F><hex:02280BFF05>Item<hex:F2974A0103><hex:FF9D><hex:020899E4E8050EFF0F><hex:02280BFF05>Item<hex:F2974B0103><hex:FF83><hex:02087FE4E8050FFF0F><hex:02280BFF05>Item<hex:F2974C0103><hex:FF69><hex:020865E4E80510FF0F><hex:02280BFF05>Item<hex:F2974D0103><hex:FF4F><hex:02084BE4E80511FF0F><hex:02280BFF05>Item<hex:F2974E0103><hex:FF35><hex:020831E4E80512FF0F><hex:02280BFF05>Item<hex:F2974F0103><hex:FF1B><hex:020817E4E80513FF0F><hex:02280BFF05>Item<hex:F297500103><hex:FF01><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03>放入兵裝庫或背包<hex:02100103><hex:0208F202B7E4E80509FF32>收集<hex:024804F2023B03><hex:024904F2023C03>90個<hex:0249020103><hex:0248020103><hex:02280BFF05>Item<hex:F2977C0103><hex:FFF2027C><hex:0208F20276E4E8050AFF32>收集<hex:024804F2023B03><hex:024904F2023C03>90個<hex:0249020103><hex:0248020103><hex:02280BFF05>Item<hex:F2977D0103><hex:FFF2023B><hex:0208F20235E4E8050BFF32>收集<hex:024804F2023B03><hex:024904F2023C03>90個<hex:0249020103><hex:0248020103><hex:02280BFF05>Item<hex:F2977E0103><hex:FFF201FA><hex:0208F201F4E4E8050CFF32>收集<hex:024804F2023B03><hex:024904F2023C03>90個<hex:0249020103><hex:0248020103><hex:02280BFF05>Item<hex:F2977F0103><hex:FFF201B9><hex:0208F201B3E4E8050DFF32>收集<hex:024804F2023B03><hex:024904F2023C03>90個<hex:0249020103><hex:0248020103><hex:02280BFF05>Item<hex:F297800103><hex:FFF20178><hex:0208F20172E4E8050EFF32>收集<hex:024804F2023B03><hex:024904F2023C03>90個<hex:0249020103><hex:0248020103><hex:02280BFF05>Item<hex:F297810103><hex:FFF20137><hex:0208F20131E4E8050FFF32>收集<hex:024804F2023B03><hex:024904F2023C03>90個<hex:0249020103><hex:0248020103><hex:02280BFF05>Item<hex:F297820103><hex:FFF0F7><hex:0208F0F2E4E80510FF32>收集<hex:024804F2023B03><hex:024904F2023C03>90個<hex:0249020103><hex:0248020103><hex:02280BFF05>Item<hex:F297830103><hex:FFBA><hex:0208B6E4E80511FF33>收集<hex:024804F2023B03><hex:024904F2023C03>210個<hex:0249020103><hex:0248020103><hex:02280BFF05>Item<hex:F297950103><hex:FF7C><hex:020878E4E80512FF33>收集<hex:024804F2023B03><hex:024904F2023C03>210個<hex:0249020103><hex:0248020103><hex:02280BFF05>Item<hex:F297940103><hex:FF3E><hex:02083AE4E80513FF32>收集<hex:024804F2023B03><hex:024904F2023C03>80個<hex:0249020103><hex:0248020103><hex:02280BFF05>Item<hex:F297960103><hex:FF01><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:02100103><hex:0208B0E4E80511FF31><hex:024804F2023B03><hex:024904F2023C03>210個<hex:0249020103><hex:0248020103><hex:02280BFF05>Item<hex:F2978D0103><hex:02100103><hex:FF78><hex:020874E4E80512FF31><hex:024804F2023B03><hex:024904F2023C03>210個<hex:0249020103><hex:0248020103><hex:02280BFF05>Item<hex:F2978B0103><hex:02100103><hex:FF3C><hex:020838E4E80513FF30><hex:024804F2023B03><hex:024904F2023C03>80個<hex:0249020103><hex:0248020103><hex:02280BFF05>Item<hex:F297970103><hex:02100103><hex:FF01><hex:03><hex:03><hex:03>交給中庸工藝館前的喬菈·佐"
 25,"TEXT_AKTKCT103_04732_TODO_01",""
 26,"TEXT_AKTKCT103_04732_TODO_02",""
 27,"TEXT_AKTKCT103_04732_TODO_03",""
@@ -58,217 +50,90 @@ int32,str,str
 45,"TEXT_AKTKCT103_04732_TODO_21",""
 46,"TEXT_AKTKCT103_04732_TODO_22",""
 47,"TEXT_AKTKCT103_04732_TODO_23",""
-48,"TEXT_AKTKCT103_04732_SYSTEM_000_001","퀘스트 '마음을 전하는 개량 계획'에서 획득할 수 있는 주 도구는
-현재 클래스인 '<Sheet(ClassJob,PlayerParameter(68),0)/>'의 모웬 도구입니다.
-'마음을 전하는 개량 계획'을 '<Sheet(ClassJob,PlayerParameter(68),0)/>'<14>FF1202280EFF09436C6173734A6F62E9450103FF04EBA19CFF07EC9CBCEBA19C</14> 수락하시겠습니까?"
-49,"TEXT_AKTKCT103_04732_Q1_000_000","<Sheet(ClassJob,PlayerParameter(68),0)/> 전용 모웬 도구를 개량하시겠습니까?"
-50,"TEXT_AKTKCT103_04732_A1_000_001","조금 더 고민해본다"
-51,"TEXT_AKTKCT103_04732_A1_000_002","<Sheet(ClassJob,PlayerParameter(68),0)/> 전용 모웬 도구를 개량한다"
-52,"TEXT_AKTKCT103_04732_SYSTEM_000_004","퀘스트 '마음을 전하는 개량 계획'을 수락하면
-퀘스트를 완료하거나 포기할 때까지
-다른 직업으로 '마음을 전하는 개량 계획'을 수락할 수 없습니다."
-53,"TEXT_AKTKCT103_04732_SYSTEM_000_005","개량하고 싶은 모웬 도구에 맞는 클래스로 변경한 뒤
-다시 초라 조이에게 말을 거십시오."
-54,"TEXT_AKTKCT103_04732_SYSTEM_000_006","'<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 소지하거나 장비하지 않으면
-퀘스트 '마음을 전하는 개량 계획'을 수락할 수 없습니다."
-55,"TEXT_AKTKCT103_04732_100_007","이미 '<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 획득했습니다.
-다른 클래스로 변경한 후 다시 초라 조이에게 말을 거십시오."
-56,"TEXT_AKTKCT103_04732_CHORAZOI_000_007","<Highlight>ObjectParameter(1)</Highlight> 님, 도구는 사용해보니 좀 어떠세요?
-그레놀트 님께서 설계하신 거니 확실하죠!?
-어서 다음 개량으로 넘어가도록 해요!"
-57,"TEXT_AKTKCT103_04732_CHORAZOI_000_008","저, 그레놀트 님!
-이번에는 어떤 식으로 할까요!?"
-58,"TEXT_AKTKCT103_04732_GRENOLDT_000_009","……귀공은 어떻게 하고 싶은가?"
-59,"TEXT_AKTKCT103_04732_CHORAZOI_000_010","……역시 전 그걸 생각해내는 게 어려워요.
-지난번엔 그레놀트 님의 설계도가 있어서
-망설임 없이 만들 수 있었지만……."
-60,"TEXT_AKTKCT103_04732_CHORAZOI_000_011","물론 몇 가지 안은 있지만,
-이것저것 생각하다 보면 뭐가 정답인지 모르겠어서……."
-61,"TEXT_AKTKCT103_04732_GRENOLDT_000_012","음, 그것 또한 성장의 증거겠지.
-쓸 수 있는 기술이 늘어나서 망설이게 된다면
-사용자의 의견을 물어보는 게 좋지 않을까?"
-62,"TEXT_AKTKCT103_04732_CHORAZOI_000_019","사용자…….
-그렇죠, 도구를 실제로 사용하는 장인에게 직접 의견을 들어야
-가장 적절한 개량의 방향성이 보이겠죠?"
-63,"TEXT_AKTKCT103_04732_CHORAZOI_000_020","<Highlight>ObjectParameter(1)</Highlight> 님……
-거래 자본을 마련하실 때 도구를 사용하셨잖아요.
-어떤 식으로 개량이 되면 좋을 것 같나요?"
-64,"TEXT_AKTKCT103_04732_Q2_000_000","뭐라고 대답하시겠습니까?"
-65,"TEXT_AKTKCT103_04732_A2_000_001","마음을 알아주는 도구가 좋아"
-66,"TEXT_AKTKCT103_04732_A2_000_002","뭔가 엄청난 게 좋아"
-67,"TEXT_AKTKCT103_04732_CHORAZOI_000_022","마음을 알아주는…… 그렇군요.
-사용자의 의도대로 쓰일 수 있는 도구 말이죠."
-68,"TEXT_AKTKCT103_04732_CHORAZOI_100_022","네? 엄청난 거……요?
-사용자조차도 놀라게 할 만한 요소를 말하는 건가요?"
-69,"TEXT_AKTKCT103_04732_CHORAZOI_000_023","그러고 보니 암흑물질 같은 정신 감응형 물질은
-사람의 마음에 따라 성질을 바꾸는 경우가 있죠."
-70,"TEXT_AKTKCT103_04732_CHORAZOI_000_024","고순도 정신 감응형 물질을 찾아내서
-도구의 손잡이에 잘 끼워 넣을 수만 있다면……
-'사용자의 마음을 알아주는 도구'를 만들 수 있을지도 몰라요!"
-71,"TEXT_AKTKCT103_04732_GRENOLDT_000_025","음…… 장인 초라 조이만의 답을,
-목표로 해야 할 '모웬 도구'의 형태를 찾은 것 같군.
-지금 당장 설계도를 조정하도록 하지."
-72,"TEXT_AKTKCT103_04732_GRENOLDT_000_026","하지만 고순도 정신 감응형 물질이라면
-제아무리 모웬 상회라도 구하는 데 애를 먹을 거야.
-대가로 교환할 거래 자본도 가치가 높은 것을 준비해야……."
-73,"TEXT_AKTKCT103_04732_CHORAZOI_000_027","'모웬 도구'를 개량하시려고요?
-물론 저에게 맡겨 주세요!
-늘 그랬듯이 거래 자본부터 마련해 주시면 돼요!"
-74,"TEXT_AKTKCT103_04732_CHORAZOI_000_028","그렇다면…… 이번에 필요한 희귀 재료는
-'<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EAB080FF04EC9DB4</13> 좋겠어요!"
-75,"TEXT_AKTKCT103_04732_CHORAZOI_100_028","희귀 재료와 교환할 거래 자본으로는
-<If(Equal(IntegerParameter(1),1))>'<Sheet(ItemMP,38764,0)/>'<13>FF1102280DFF074974656D4D50F2976C0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(1),2))>'<Sheet(ItemMP,38765,0)/>'<13>FF1102280DFF074974656D4D50F2976D0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(1),3))>'<Sheet(ItemMP,38766,0)/>'<13>FF1102280DFF074974656D4D50F2976E0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(1),4))>'<Sheet(ItemMP,38767,0)/>'<13>FF1102280DFF074974656D4D50F2976F0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(1),5))>'<Sheet(ItemMP,38768,0)/>'<13>FF1102280DFF074974656D4D50F297700103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(1),6))>'<Sheet(ItemMP,38769,0)/>'<13>FF1102280DFF074974656D4D50F297710103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(1),7))>'<Sheet(ItemMP,38770,0)/>'<13>FF1102280DFF074974656D4D50F297720103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(1),8))>'<Sheet(ItemMP,38771,0)/>'<13>FF1102280DFF074974656D4D50F297730103FF04EBA5BCFF04EC9D84</13><Else/></If></If></If></If></If></If></If></If> 준비해주시겠어요?"
-76,"TEXT_AKTKCT103_04732_CHORAZOI_000_029","그렇다면…… 이번에 필요한 희귀 재료는
-'<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EC9980FF04EAB3BC</13>
-'<Sheet(Item,IntegerParameter(2),0)/>'<13>FF0E02280AFF054974656DE8030103FF04EAB080FF04EC9DB4</13> 좋겠어요!"
-77,"TEXT_AKTKCT103_04732_CHORAZOI_100_029","상회에서 희귀 재료와 교환할 거래 자본으로는
-<If(Equal(IntegerParameter(1),9))>'<Sheet(ItemMP,38796,0)/>'<13>FF1102280DFF074974656D4D50F2978C0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(1),10))>'<Sheet(ItemMP,38794,0)/>'<13>FF1102280DFF074974656D4D50F2978A0103FF04EBA5BCFF04EC9D84</13><Else/></If></If> 준비해주시겠어요?"
-78,"TEXT_AKTKCT103_04732_CHORAZOI_200_029","그럼…… 이번에 필요한 희귀 재료는
-'<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EC9980FF04EAB3BC</13>
-'<Sheet(Item,IntegerParameter(2),0)/>'<13>FF0E02280AFF054974656DE8030103FF04EAB080FF04EC9DB4</13> 좋을 것 같네요!"
-79,"TEXT_AKTKCT103_04732_CHORAZOI_300_029","이 희귀 재료를 상회에서 받으려면
-거래 자본으로 '<Sheet(ItemMP,38798,0)/>'<13>FF1102280DFF074974656D4D50F2978E0103FF04EC9980FF04EAB3BC</13>
-'<Sheet(ItemMP,38799,0)/>'<13>FF1102280DFF074974656D4D50F2978F0103FF04EBA5BCFF04EC9D84</13> 준비해 주세요!"
-80,"TEXT_AKTKCT103_04732_CHORAZOI_000_030","거래 자본을 준비해주시는 순서는 지금까지와 같아요.
-반드시 개량한 '모웬 도구'를 사용해서
-구해 오셔야 하니 잘 부탁드려요!"
-81,"TEXT_AKTKCT103_04732_CHORAZOI_000_031","거래 자본을 마련한 다음엔 천막에 있는 '키나나' 님에게 건네면
-이번에도 상회가 취급하는 희귀 재료로 교환해주실 거예요.
-만약 순서가 헷갈린다면 그레놀트 님께 물어보세요!"
-82,"TEXT_AKTKCT103_04732_CHORAZOI_000_032","이번에도 개량 작업은 제가 할 거예요!
-필요한 재료가 다 모이면 '모웬 도구'와 함께
-저에게 가지고 와주세요!"
-83,"TEXT_AKTKCT103_04732_SYSTEM_000_033","중용의 공예관 앞에 있는 '초라 조이'에게
-주 도구와 개량에 필요한 희귀 재료를 건네면
-개량된 도구를 획득할 수 있습니다."
-84,"TEXT_AKTKCT103_04732_SYSTEM_000_034","주 도구를 개량하기 위해 필요한 재료는
-중용의 공예관 앞에 있는 '키나나'에게
-거래 자본을 건네면 입수할 수 있습니다."
-85,"TEXT_AKTKCT103_04732_SYSTEM_000_035","거래 자본은
-제작수첩의 '특수 제작법'에서
-'모웬 도구' 항목을 선택하면 제작할 수 있습니다."
-86,"TEXT_AKTKCT103_04732_SYSTEM_000_036","또한 거래 자본을 제작할 때는
-'모웬 도구'를 장비해야 합니다.
-또한 일부 희귀 재료는 '화폐'로 입수할 수 있습니다."
-87,"TEXT_AKTKCT103_04732_SYSTEM_000_037","거래 자본은
-채집수첩의 '모웬 도구' 항목을 선택하면
-채집 장소를 확인할 수 있습니다."
-88,"TEXT_AKTKCT103_04732_SYSTEM_000_038","또한 거래 자본을 채집할 때에는
-개량할 '모웬 도구'를 장비해야 합니다."
-89,"TEXT_AKTKCT103_04732_SYSTEM_000_039","거래 자본으로 쓰일 물고기는
-전용 미끼가 필요합니다.
-미끼도 마찬가지로 '키나나'를 통해 입수할 수 있습니다."
-90,"TEXT_AKTKCT103_04732_SYSTEM_000_040","또한 거래 자본으로 쓰일 물고기를 낚을 때는
-개량할 '모웬 도구'를 장비해야 합니다."
-91,"TEXT_AKTKCT103_04732_SYSTEM_000_041","이 퀘스트를 완료할 때에는
-개량할 '모웬 도구'를 장비하지 말고
-소지품 또는 장비함에 넣어 주세요."
-92,"TEXT_AKTKCT103_04732_GRENOLDT_000_042","순서를 잘 모르겠다고?
-먼저 그대는 거래 자본으로 쓰일 물자를 마련해야 해.
-'모웬 도구'를 사용해서 말이지."
-93,"TEXT_AKTKCT103_04732_GRENOLDT_000_043","마련한 거래 자본을 '키나나'에게 주면
-상회가 취급하는 희귀 재료로 교환해주기로 했어.
-필요한 것이 다 모이면 초라 조이에게 말을 걸도록 해."
-94,"TEXT_AKTKCT103_04732_SYSTEM_000_045","중용의 공예관 앞에 있는 '초라 조이'에게
-주 도구와 개량에 필요한 희귀 재료를 건네면
-개량된 도구를 획득할 수 있습니다."
-95,"TEXT_AKTKCT103_04732_SYSTEM_000_046","또한 희귀 재료는
-중용의 공예관 앞에 있는 '키나나'에게
-거래 자본으로 쓰일 아이템을 납품하면 입수할 수 있습니다."
-96,"TEXT_AKTKCT103_04732_SYSTEM_000_047","희귀 재료 교환에 필요한 거래 자본은
-제작수첩의 '특수 제작법'에서
-'모웬 도구' 항목을 선택하면 제작할 수 있습니다."
-97,"TEXT_AKTKCT103_04732_SYSTEM_000_048","또한 거래 자본을 제작할 때는
-'모웬 도구'를 장비해야 합니다.
-또한 일부 희귀 재료는 '화폐'로 입수할 수 있습니다."
-98,"TEXT_AKTKCT103_04732_SYSTEM_000_049","거래 자본은
-채집수첩의 '모웬 도구' 항목을 선택하면
-채집 장소를 확인할 수 있습니다."
-99,"TEXT_AKTKCT103_04732_SYSTEM_000_050","또한 거래 자본을 채집할 때는
-'모웬 도구'를 장비해야 합니다."
-100,"TEXT_AKTKCT103_04732_SYSTEM_000_051","거래 자본으로 쓰일 물고기는
-전용 미끼가 필요합니다.
-미끼도 마찬가지로 '키나나'를 통해 입수할 수 있습니다."
-101,"TEXT_AKTKCT103_04732_SYSTEM_000_052","또한 거래 자본으로 쓰일 물고기를 낚을 때는
-'모웬 도구'를 장비해야 합니다."
-102,"TEXT_AKTKCT103_04732_SYSTEM_000_053","이 퀘스트를 완료할 때에는
-'모웬 도구'를 장비하지 말고
-소지품 또는 장비함에 넣어 주세요."
-103,"TEXT_AKTKCT103_04732_CHORAZOI_000_060","<Highlight>ObjectParameter(1)</Highlight> 님, 감사합니다!
-필요한 희귀 재료를 다 갖고 오신 것 같으니
-'모웬 도구'와 함께 제게 주세요!"
-104,"TEXT_AKTKCT103_04732_CHORAZOI_000_061","이번에도 협력해주셔서 감사해요!
-지난번보다도 더 긴장되지만…… 준비는 완벽해요!"
-105,"TEXT_AKTKCT103_04732_GRENOLDT_000_062","이정도의 고순도 정신 감응형 물질을,
-도구 제작에 이용하는 건 나도 처음이다.
-뛰는 가슴을 숨길 수가 없군."
-106,"TEXT_AKTKCT103_04732_CHORAZOI_000_063","도구와 희귀 재료, 모두 잘 받았습니다!
-연철과의 설비를 빌려서 '모웬 도구'를 개량해 올게요.
-여기서 잠시 기다려주세요!"
-107,"TEXT_AKTKCT103_04732_GRENOLDT_000_065","(-기합이 들어간 그레놀트의 큰 목소리-)마무리는…… 이거다!!!"
-108,"TEXT_AKTKCT103_04732_CHORAZOI_000_064","무사히 공방에서 작업을 마치고 왔습니다……!
-'모웬 도구'를 새로운 단계로 개량했어요!"
-109,"TEXT_AKTKCT103_04732_CHORAZOI_000_066","하지만 그레놀트 님, 마지막에……
-도구에 뭔가 신비한 액체를 흩뿌리시던데
-그건 대체 뭐였나요?"
-110,"TEXT_AKTKCT103_04732_GRENOLDT_000_067","훗………… 그게 바로 내 기술의 진수!
-불순물이 조금도 섞이지 않은 엑스트라 버진 마무리 오일이다!!"
-111,"TEXT_AKTKCT103_04732_CHORAZOI_000_068","대, 대단해요!!!
-장인의 비법이군요, 그레놀트 님!"
-112,"TEXT_AKTKCT103_04732_CHORAZOI_000_069","장인의 비법도 들어간 엑스트라한 도구가 완성되었어요!
-<Highlight>ObjectParameter(1)</Highlight> 님, 그럼 바로 손에 들어보세요!"
-113,"TEXT_AKTKCT103_04732_GRENOLDT_100_070","음, 진심으로 더할 나위가 없군!
-그렇게 손에 들고만 있어도
-귀공에게 잘 어울리는 도구란 것을 알겠어!"
-114,"TEXT_AKTKCT103_04732_GRENOLDT_000_070","초라 조이.
-사용자의 마음에 다가가는 멋진 일을 해냈군.
-옆에서 보니 그런 진지한 자세가 몹시도 믿음직스럽더구나."
-115,"TEXT_AKTKCT103_04732_GRENOLDT_000_071","그리고 <Highlight>ObjectParameter(1)</Highlight> 공.
-개량한 도구는 사용자인 귀공의 뜨거운 열정에 따라
-드물긴 하겠지만, 엄청난 힘을 발휘할 수도 있을 거다."
-116,"TEXT_AKTKCT103_04732_GRENOLDT_100_071","상회가 구해준 고순도 정신 감응형 물질……
-그리고 비법인 마무리 오일의 효능까지 더해졌기 때문이지."
-117,"TEXT_AKTKCT103_04732_CHORAZOI_000_072","그 오일에는 그런 의미도 있었군요…….
-대체 어떻게 하면 그런 기상천외한 아이디어를
-생각할 수 있게 되나요?"
-118,"TEXT_AKTKCT103_04732_GRENOLDT_000_073","실은 기묘한 꿈을 꿨어.
-꿈속에서 머리가 다 벗겨진 나는 피땀 흘리며
-무기를 만들고 있었는데……"
-119,"TEXT_AKTKCT103_04732_GRENOLDT_000_074","엄청 힘이 센 남자가 나타나 날 기름투성이로 만들잖나!
-나는 너무 놀라서 침대에서 떨어지며 잠에서 깼는데,
-이게 하늘이 내린 계시였는지, 마무리 오일이 딱 떠오르더군."
-120,"TEXT_AKTKCT103_04732_MOWEN_000_076","도구 제작에 진척이 있다는 키나나의 보고를 받았습니다.
-당신들의 모습을 보아하니
-마침 새로운 도구가 완성된 모양이군요?"
-121,"TEXT_AKTKCT103_04732_MOWEN_000_077","그것 참 좋은 소식이군요.
-새로운 도구를 통해 산업을 활성화시키기 위해서라도
-앞으로 좋은 협력 관계를 키워나가고 싶네요."
-122,"TEXT_AKTKCT103_04732_GRENOLDT_000_078","네…… 지금까지의 노르브란트의 공예와 물류는
-생활을 지키고, 세계를 지속시키기 위한 기술이었죠.
-하지만 그런 시대에 이제 종지부를 찍었다고 할 수 있겠군요."
-123,"TEXT_AKTKCT103_04732_GRENOLDT_000_079","지금이라면 우리가 손을 잡고,
-세계를 풍요롭게 할 수 있는 새로운 힘을 만들 수 있어요!"
-124,"TEXT_AKTKCT103_04732_MOWEN_000_080","손을…… 잡고……!?"
-125,"TEXT_AKTKCT103_04732_GRENOLDT_000_081","아………… 아아아아!!?!
-그게, 바닷속에서 나와 젊은 장인과 '어둠의 전사'님과 협력하고
-그리고 모웬 공께서 재료를 구해다 주신 것까지 다 종합해서……!"
-126,"TEXT_AKTKCT103_04732_CHORAZOI_000_082","뭐, 아무튼 그건 알았고요!
-이번 성공을 기념하며 헤매는 계단 식당에서 건배라도 할까요?"
-127,"TEXT_AKTKCT103_04732_GRENOLDT_000_083","그래, 고마운 제안이긴 한데, 난 술을 전혀 못해서…….
-그것보다 나중을 위해서 설계도를 더 세밀하게 검토하고
-더 기술을 연마하고 싶군."
-128,"TEXT_AKTKCT103_04732_CHORAZOI_000_084","음…… 역시 그레놀트 님이세요!"
-129,"TEXT_AKTKCT103_04732_MOWEN_000_085","……후후!
-그런 부분도 예전과 달라지지 않으셨군요."
-130,"TEXT_AKTKCT103_04732_CHORAZOI_000_086","저는 <Highlight>ObjectParameter(1)</Highlight> 님과 그레놀트 님,
-두 분 덕분에 장인으로서 크게 성장할 수 있었어요!
-하지만 저도, '모웬 도구'도 아직 갈 길이 멀었다고 생각해요."
-131,"TEXT_AKTKCT103_04732_CHORAZOI_000_087","계속해서 협력을 부탁드려요.
-저희 장인의 손으로 미래를 만들어 나가요!"
-132,"TEXT_AKTKCT103_04732_CHORAZOI_000_088","이번에도 '모웬 도구'의 3단계 개량이 완료되었어요!
-새로운 빛을 띠는 '<Sheet(Item,IntegerParameter(1),0)/>',
-자, 손에 들어주세요!"
-133,"TEXT_AKTKCT103_04732_CHORAZOI_000_089","좋아요, 손에 착 달라붙는 느낌이네요!
-이런 도구를 만들 수 있어서 장인으로서 너무나 뿌듯해요…….
-언제나 감사합니다!"
-134,"TEXT_AKTKCT103_04732_SYSTEM_000_002","（★未使用／削除予定★）"
+48,"TEXT_AKTKCT103_04732_SYSTEM_000_001","在任務「回應思想的改良計劃」中將獲得目前職業<hex:02280EFF09>ClassJob<hex:E9450103>的主工具，<hex:02100103>確定要以<hex:02280EFF09>ClassJob<hex:E9450103>職業接受任務嗎？"
+49,"TEXT_AKTKCT103_04732_Q1_000_000","要改良<hex:02280EFF09>ClassJob<hex:E9450103>的莫雯卓越工具嗎？"
+50,"TEXT_AKTKCT103_04732_A1_000_001","再考慮一下"
+51,"TEXT_AKTKCT103_04732_A1_000_002","改良<hex:02280EFF09>ClassJob<hex:E9450103>的莫雯卓越工具"
+52,"TEXT_AKTKCT103_04732_SYSTEM_000_004","接受任務「回應思想的改良計劃」後，<hex:02100103>直至完成或放棄該任務，<hex:02100103>期間都無法同時以其他職業重複接受該任務。"
+53,"TEXT_AKTKCT103_04732_SYSTEM_000_005","請切換成想要改良的莫雯卓越工具所對應的職業，<hex:02100103>再次與喬菈·佐交談。"
+54,"TEXT_AKTKCT103_04732_SYSTEM_000_006","需持有或裝備上<hex:02280AFF05>Item<hex:E8020103>，<hex:02100103>才能進行任務「回應思想的改良計劃」。"
+55,"TEXT_AKTKCT103_04732_100_007","已擁有<hex:02280AFF05>Item<hex:E8020103>。<hex:02100103>請切換成其他職業，再次與喬菈·佐交談。"
+56,"TEXT_AKTKCT103_04732_CHORAZOI_000_007","<hex:022903EB0203>，改良過後的道具用起來感覺如何？<hex:02100103>畢竟是蓋雷諾爾特的設計，肯定是更好用了吧！<hex:02100103>那麼，讓我們趕快開始下一階段的改良吧！"
+57,"TEXT_AKTKCT103_04732_CHORAZOI_000_008","那個，蓋雷諾爾特！<hex:02100103>接下來我們應該怎麼做？"
+58,"TEXT_AKTKCT103_04732_GRENOLDT_000_009","……是你的話，會怎麼做？"
+59,"TEXT_AKTKCT103_04732_CHORAZOI_000_010","……思考這個問題對我來說，果然還是有點難。<hex:02100103>上一次是因為有蓋雷諾爾特的圖紙在，<hex:02100103>才能毫不迷茫地做出來的……"
+60,"TEXT_AKTKCT103_04732_CHORAZOI_000_011","當然，我其實有好幾個想法，<hex:02100103>但思來想去都不知道哪個才是正確答案……"
+61,"TEXT_AKTKCT103_04732_GRENOLDT_000_012","嗯，這也是你在成長的證明啊。<hex:02100103>能使用的改良技巧變多了，不知道該往哪個方向改良的時候，<hex:02100103>你該問的是實際使用這件工具的人，不是嗎？"
+62,"TEXT_AKTKCT103_04732_CHORAZOI_000_019","使用工具的人……<hex:02100103>是啊，讓工具更貼近工匠需求，<hex:02100103>就能找到最好的改良方向！"
+63,"TEXT_AKTKCT103_04732_CHORAZOI_000_020","<hex:022903EB0203>……<hex:02100103>這畢竟是你準備交易資本品使用的工具，<hex:02100103>你認為改良成什麼樣，對你來說最好用？"
+64,"TEXT_AKTKCT103_04732_Q2_000_000","如何回答？"
+65,"TEXT_AKTKCT103_04732_A2_000_001","能回應我想法的工具"
+66,"TEXT_AKTKCT103_04732_A2_000_002","想要個厲害的東西"
+67,"TEXT_AKTKCT103_04732_CHORAZOI_000_022","能回應想法的工具……原來如此，<hex:02100103>能理解使用者的想法，在使用時給出回應的工具。"
+68,"TEXT_AKTKCT103_04732_CHORAZOI_100_022","呃……厲害的東西？<hex:02100103>那種用的時候拿起來會大吃一驚的東西？"
+69,"TEXT_AKTKCT103_04732_CHORAZOI_000_023","這麼說來，像是黑暗物質之類的精神感應物質<hex:02100103>是會根據人的想法改變自己的性質的吧？"
+70,"TEXT_AKTKCT103_04732_CHORAZOI_000_024","如果能找到高純度的精神感應物質<hex:02100103>把它完美地融入工具的握把裡，<hex:02100103>是不是就能達成更貼近使用者需求的工具這一目標了！"
+71,"TEXT_AKTKCT103_04732_GRENOLDT_000_025","唔……作為工匠的喬菈·佐找到的是這個答案啊，<hex:02100103>看來你已經找到你想要的莫雯卓越工具是什麼樣了。<hex:02100103>我們現在就來調整設計圖吧。"
+72,"TEXT_AKTKCT103_04732_GRENOLDT_000_026","不過，高純度的精神感應物質，<hex:02100103>即使是莫雯卓越商會想要弄到也要花一些功夫了。<hex:02100103>作為代價的交易資本品也得準備更加高價的東西才行……"
+73,"TEXT_AKTKCT103_04732_CHORAZOI_000_027","要改良莫雯卓越工具？<hex:02100103>當然可以啦，交給我吧！<hex:02100103>現在就開始準備交易資本品吧！"
+74,"TEXT_AKTKCT103_04732_CHORAZOI_000_028","也就是說……這次的稀有材料，<hex:02100103>應該用<hex:02280AFF05>Item<hex:E8020103>比較合適。"
+75,"TEXT_AKTKCT103_04732_CHORAZOI_100_028","能麻煩你準備交換稀有材料所需的交易資本品嗎？<hex:02100103>需要的應該是<hex:0208F0DCE4E80202FF11><hex:02280DFF07>ItemMP<hex:F2976C0103><hex:FFC5><hex:0208C1E4E80203FF11><hex:02280DFF07>ItemMP<hex:F2976D0103><hex:FFA9><hex:0208A5E4E80204FF11><hex:02280DFF07>ItemMP<hex:F2976E0103><hex:FF8D><hex:020889E4E80205FF11><hex:02280DFF07>ItemMP<hex:F2976F0103><hex:FF71><hex:02086DE4E80206FF11><hex:02280DFF07>ItemMP<hex:F297700103><hex:FF55><hex:020851E4E80207FF11><hex:02280DFF07>ItemMP<hex:F297710103><hex:FF39><hex:020835E4E80208FF11><hex:02280DFF07>ItemMP<hex:F297720103><hex:FF1D><hex:020819E4E80209FF11><hex:02280DFF07>ItemMP<hex:F297730103><hex:FF01><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03>。"
+76,"TEXT_AKTKCT103_04732_CHORAZOI_000_029","也就是說……這次的稀有材料，<hex:02100103>應該用<hex:02280AFF05>Item<hex:E8020103><hex:02100103>和<hex:02280AFF05>Item<hex:E8030103>比較合適。"
+77,"TEXT_AKTKCT103_04732_CHORAZOI_100_029","能麻煩你準備交換稀有材料所需的交易資本品嗎？<hex:02100103>需要的應該是<hex:020835E4E8020AFF11><hex:02280DFF07>ItemMP<hex:F2978C0103><hex:FF1D><hex:020819E4E8020BFF11><hex:02280DFF07>ItemMP<hex:F2978A0103><hex:FF01><hex:03><hex:03>。"
+78,"TEXT_AKTKCT103_04732_CHORAZOI_200_029","也就是說……這次的稀有材料，<hex:02100103>應該用<hex:02280AFF05>Item<hex:E8020103><hex:02100103>和<hex:02280AFF05>Item<hex:E8030103>比較合適。"
+79,"TEXT_AKTKCT103_04732_CHORAZOI_300_029","能麻煩你準備交換稀有材料所需的交易資本品嗎？<hex:02100103>需要的應該是<hex:02280DFF07>ItemMP<hex:F2978E0103><hex:02100103>和<hex:02280DFF07>ItemMP<hex:F2978F0103>！"
+80,"TEXT_AKTKCT103_04732_CHORAZOI_000_030","準備交易資本品的手續和上次一樣。<hex:02100103>準備的過程中記得一定要使用需要改良的莫雯卓越工具。"
+81,"TEXT_AKTKCT103_04732_CHORAZOI_000_031","之後只要你將籌集到的交易資本品交給秦娜娜，<hex:02100103>她就能幫你把這次商會籌集的稀有材料準備好。<hex:02100103>你要是忘記了這些手續，可以過來請蓋雷諾爾特教你。"
+82,"TEXT_AKTKCT103_04732_CHORAZOI_000_032","改良的工作也會繼續由我來負責！<hex:02100103>準備好需要的材料之後，<hex:02100103>把莫雯卓越工具和材料一起拿到我這裡來就可以了。"
+83,"TEXT_AKTKCT103_04732_SYSTEM_000_033","將主工具以及改良所需要的稀有材料<hex:02100103>交給中庸工藝館前的喬菈·佐，<hex:02100103>可獲得經過改良的工具。"
+84,"TEXT_AKTKCT103_04732_SYSTEM_000_034","將交易資本品繳交給中庸工藝館前的秦娜娜<hex:02100103>就能獲得改良工具所需要的稀有材料。"
+85,"TEXT_AKTKCT103_04732_SYSTEM_000_035","要製作交易資本品，<hex:02100103>可以在製作筆記中選擇「特殊配方」，<hex:02100103>按照裡面的「莫雯卓越工具」項目進行製作。"
+86,"TEXT_AKTKCT103_04732_SYSTEM_000_036","此外，製作交易資本品時需要裝備莫雯卓越工具。<hex:02100103>部分素材可以透過工票獲得。"
+87,"TEXT_AKTKCT103_04732_SYSTEM_000_037","要採集交易資本品，<hex:02100103>可以透過採集筆記中的「莫雯卓越工具」項目來確認採集地點。"
+88,"TEXT_AKTKCT103_04732_SYSTEM_000_038","此外，採集交易資本品時需要裝備莫雯卓越工具。"
+89,"TEXT_AKTKCT103_04732_SYSTEM_000_039","可作為交易資本品的魚，<hex:02100103>需要用到專用的釣餌。<hex:02100103>釣餌可以從秦娜娜處獲得。"
+90,"TEXT_AKTKCT103_04732_SYSTEM_000_040","此外，釣可作為交易資本品的魚時需要裝備莫雯卓越工具。"
+91,"TEXT_AKTKCT103_04732_SYSTEM_000_041","完成本任務時，<hex:02100103>請卸下需要改良的莫雯卓越工具並放入背包或兵裝庫中。"
+92,"TEXT_AKTKCT103_04732_GRENOLDT_000_042","你忘記了改良的步驟嗎？<hex:02100103>首先麻煩你用莫雯卓越工具準備出需要的交易資本品。"
+93,"TEXT_AKTKCT103_04732_GRENOLDT_000_043","之後只要你將籌集到的交易資本品交給秦娜娜，<hex:02100103>她就能幫你把商會籌集的稀有材料準備好。<hex:02100103>一切都準備就緒後，你就去找喬菈·佐幫你改良工具吧。"
+94,"TEXT_AKTKCT103_04732_SYSTEM_000_045","將主工具以及改良所需要的稀有材料<hex:02100103>交給中庸工藝館前的喬菈·佐，<hex:02100103>可獲得經過改良的工具。"
+95,"TEXT_AKTKCT103_04732_SYSTEM_000_046","將交易資本品繳交給中庸工藝館前的秦娜娜<hex:02100103>就能獲得改良工具所需要的稀有材料。"
+96,"TEXT_AKTKCT103_04732_SYSTEM_000_047","要製作交易資本品，<hex:02100103>可以在製作筆記中選擇「特殊配方」，<hex:02100103>按照裡面的「莫雯卓越工具」項目進行製作。"
+97,"TEXT_AKTKCT103_04732_SYSTEM_000_048","此外，製作交易資本品時需要裝備莫雯卓越工具。<hex:02100103>部分素材可以透過工票獲得。"
+98,"TEXT_AKTKCT103_04732_SYSTEM_000_049","要採集交易資本品，<hex:02100103>可以透過採集筆記中的「莫雯卓越工具」項目來確認採集地點。"
+99,"TEXT_AKTKCT103_04732_SYSTEM_000_050","此外，採集交易資本品時需要裝備莫雯卓越工具。"
+100,"TEXT_AKTKCT103_04732_SYSTEM_000_051","可作為交易資本品的魚，<hex:02100103>需要用到專用的釣餌。<hex:02100103>釣餌可以從秦娜娜處獲得。"
+101,"TEXT_AKTKCT103_04732_SYSTEM_000_052","此外，釣可作為交易資本品的魚時需要裝備莫雯卓越工具。"
+102,"TEXT_AKTKCT103_04732_SYSTEM_000_053","完成本任務時，<hex:02100103>請卸下需要改良的莫雯卓越工具並放入背包或兵裝庫中。"
+103,"TEXT_AKTKCT103_04732_CHORAZOI_000_060","<hex:022903EB0203>！謝謝你！<hex:02100103>需要的稀有材料都集齊了！<hex:02100103>請把需要改良的工具和材料都交給我吧！"
+104,"TEXT_AKTKCT103_04732_CHORAZOI_000_061","這次謝謝你幫忙了！<hex:02100103>雖然我比上次還緊張……但我已經完全準備好了！"
+105,"TEXT_AKTKCT103_04732_GRENOLDT_000_062","竟然是這麼高純度的精神感應物質……<hex:02100103>我也是第一次用這種材料製作這樣的工具。<hex:02100103>我也覺得有點激動呢。"
+106,"TEXT_AKTKCT103_04732_CHORAZOI_000_063","工具和稀有材料我都收下了，<hex:02100103>我這就去借用金屬工藝部的裝置改良工具！<hex:02100103>請你在這裡稍等一會兒！"
+107,"TEXT_AKTKCT103_04732_GRENOLDT_000_065","(-充滿活力的蓋雷諾爾特的大吼-)再來一下！<hex:02100103>……完成啦！！"
+108,"TEXT_AKTKCT103_04732_CHORAZOI_000_064","在工坊的改良工作順利完成了。<hex:02100103>莫雯卓越工具的改良進入了新的階段！"
+109,"TEXT_AKTKCT103_04732_CHORAZOI_000_066","不過，蓋雷諾爾特在最後……<hex:02100103>向著工具撒上了一種奇奇怪怪的飛沫，<hex:02100103>那究竟是什麼東西啊？"
+110,"TEXT_AKTKCT103_04732_GRENOLDT_000_067","哼……這就是我工匠技法的核心！<hex:02100103>是一絲雜質都沒有的，特級初榨拋光油！"
+111,"TEXT_AKTKCT103_04732_CHORAZOI_000_068","好、好厲害！<hex:02100103>這就是蓋雷諾爾特作為匠人的執著嗎！"
+112,"TEXT_AKTKCT103_04732_CHORAZOI_000_069","就是這種匠人的執著，才能製成這頂級的工具！<hex:02100103><hex:022903EB0203>請快拿起來試試吧！"
+113,"TEXT_AKTKCT103_04732_GRENOLDT_100_070","哎呀，真是不知道該如何形容。<hex:02100103>光看見你把這工具拿起來，<hex:02100103>我就知道這是最適合你的工具了。"
+114,"TEXT_AKTKCT103_04732_GRENOLDT_000_070","喬菈·佐啊！<hex:02100103>看來你達成了更貼近使用者需求這一目標了啊。<hex:02100103>你這種真誠的態度，讓和你一同工作的我倍感你的可靠。"
+115,"TEXT_AKTKCT103_04732_GRENOLDT_000_071","還有<hex:022903EB0203>。<hex:02100103>改良之後的工具正因為有了你的熱情，<hex:02100103>才能在這樣少見的情況下進一步發揮力量。"
+116,"TEXT_AKTKCT103_04732_GRENOLDT_100_071","商會為我們準備的高純度精神感應物質……<hex:02100103>再加上我的秘傳拋光油，也起了很大作用。"
+117,"TEXT_AKTKCT103_04732_CHORAZOI_000_072","那個油原來有這樣的作用啊。<hex:02100103>你是經歷了怎樣的啟發<hex:02100103>才萌生了這樣的奇思妙想？"
+118,"TEXT_AKTKCT103_04732_GRENOLDT_000_073","其實我做了一個奇怪的夢。<hex:02100103>在那個夢裡，失去了頭髮的我正在揮灑汗水，<hex:02100103>製作武器……"
+119,"TEXT_AKTKCT103_04732_GRENOLDT_000_074","正在此時，一個健碩的男人突然出現，用油塗滿了我的全身！<hex:02100103>我在震驚之中從床上摔下去醒了過來，<hex:02100103>正是這次的天啟讓我創造出了拋光油。"
+120,"TEXT_AKTKCT103_04732_MOWEN_000_076","我從秦娜娜的報告裡瞭解了工具改良的進展情況。<hex:02100103>看你們這樣子，是剛剛完成了新的工具吧？"
+121,"TEXT_AKTKCT103_04732_MOWEN_000_077","那可真是個好消息。<hex:02100103>也算是希望能用新的工具帶動產業活力化的一環吧，<hex:02100103>我希望諸位能建立起良好的合作關係。"
+122,"TEXT_AKTKCT103_04732_GRENOLDT_000_078","是啊……至今為止的諾弗蘭特工藝技術和物流技術<hex:02100103>都是為了保障生活，為了在這個世界上多活一天誕生的技術。<hex:02100103>然而那樣艱苦的時代，現在可以說已經結束了。"
+123,"TEXT_AKTKCT103_04732_GRENOLDT_000_079","現在該是我們攜手，儘自己的努力<hex:02100103>創造出讓這個世界更加繁榮豐饒的嶄新力量！"
+124,"TEXT_AKTKCT103_04732_MOWEN_000_080","攜手……手拉手……？！"
+125,"TEXT_AKTKCT103_04732_GRENOLDT_000_081","什……什麼？！<hex:02100103>不不，我的意思是，我離開海底，和年輕工匠還有暗之戰士配合，<hex:02100103>然後莫、莫雯閣下你幫忙籌備材料，大家同心協力！"
+126,"TEXT_AKTKCT103_04732_CHORAZOI_000_082","廢話不多說！<hex:02100103>我們先去彷徨階梯亭喝一杯！慶祝一下這次的成功吧！"
+127,"TEXT_AKTKCT103_04732_GRENOLDT_000_083","不了不了，雖然你邀請我很開心，但我酒量太差了……<hex:02100103>不如還是留在這裡繼續累積鑽研，<hex:02100103>研究今後改良的設計圖。"
+128,"TEXT_AKTKCT103_04732_CHORAZOI_000_084","嗚嗚嗚！不愧是蓋雷諾爾特！"
+129,"TEXT_AKTKCT103_04732_MOWEN_000_085","……哼哼！<hex:02100103>這一點，你也還是和以前一樣呢！"
+130,"TEXT_AKTKCT103_04732_CHORAZOI_000_086","多虧了<hex:022903EB0203>、蓋雷諾爾特和大家的幫助，<hex:02100103>我覺得我作為工匠的能力也有了大幅度的提升。<hex:02100103>不過，不論是我還是莫雯卓越工具都還有更大的上升空間。"
+131,"TEXT_AKTKCT103_04732_CHORAZOI_000_087","還請你今後也多多幫忙！<hex:02100103>幫助我們這些工匠創造未來吧！"
+132,"TEXT_AKTKCT103_04732_CHORAZOI_000_088","這次我也順利地將工具改良到了第三階段。<hex:02100103>帶有嶄新光芒的<hex:02280AFF05>Item<hex:E8020103>，<hex:02100103>請你收好！"
+133,"TEXT_AKTKCT103_04732_CHORAZOI_000_089","嗯嗯！感覺和你的手十分貼合！<hex:02100103>能製作這樣的工具可真是我作為工匠的福氣啊！<hex:02100103>感謝你一直以來的關照！"
+134,"TEXT_AKTKCT103_04732_SYSTEM_000_002",""

@@ -1,27 +1,16 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGOTH3THERUBYPRICE_00406_TSURUGI_000_000","흐음…… 이방인이 '홍옥 포대'엔 무슨 일이지?
-쿠가네로 건너가려면 더 동쪽 바다 너머로 가야하는데."
-1,"TEXT_REGOTH3THERUBYPRICE_00406_Q1_000_000","무엇을 물어보시겠습니까?"
-2,"TEXT_REGOTH3THERUBYPRICE_00406_A1_000_001","당신의 이야기를 들려달라고 한다"
-3,"TEXT_REGOTH3THERUBYPRICE_00406_A1_000_002","여기는 어떤 곳인지 물어본다"
-4,"TEXT_REGOTH3THERUBYPRICE_00406_A1_000_003","취소"
-5,"TEXT_REGOTH3THERUBYPRICE_00406_TSURUGI_000_010","소생은 이 '홍옥 포대'에서
-동쪽 나라의 해안 경계선을 지키는 경비병이다!"
-6,"TEXT_REGOTH3THERUBYPRICE_00406_TSURUGI_000_011","동쪽 나라는 알다시피 수많은 섬으로 이루어진 섬나라다.
-소생은 그 중에서도 면적이 가장 넓은 섬
-'코슈' 출신이지."
-7,"TEXT_REGOTH3THERUBYPRICE_00406_TSURUGI_000_012","나는 막부의 지시를 받고
-머나먼 홍옥해까지 왔다.
-조국을 지키기 위해 3년 동안 임무를 다할 생각이다."
-8,"TEXT_REGOTH3THERUBYPRICE_00406_TSURUGI_000_020","이곳은 '동쪽 나라' 막부가 설치한 포대다!
-쉽게 말하자면 해상 포대라 할 수 있지.
-봐라, 정연하게 늘어선 저 포열을!"
-9,"TEXT_REGOTH3THERUBYPRICE_00406_TSURUGI_000_021","우리나라에 해를 끼치려는 배가 있다면
-저 대포로 마구 부숴 버릴 생각이다!"
-10,"TEXT_REGOTH3THERUBYPRICE_00406_TSURUGI_000_022","하지만 이 해역은 개항장 '쿠가네'와 가까운 곳이라
-우호적인 외국 선박이 종종 통과하기도 하지.
-그러니 오가는 배를 잘 보고 공격해야 한다."
-11,"TEXT_REGOTH3THERUBYPRICE_00406_TSURUGI_000_023","제대로 확인하지 않고 대포를 쐈다가
-갈레말 제국과 전쟁이라도 나면 그야말로 큰일일 테니."
+0,"TEXT_REGOTH3THERUBYPRICE_00406_TSURUGI_000_000","嗯，異國旅行者來這紅玉炮臺所為何事？<hex:02100103>想去黃金港的話還要再向東航行一陣子才能抵達。"
+1,"TEXT_REGOTH3THERUBYPRICE_00406_Q1_000_000","想了解什麼？"
+2,"TEXT_REGOTH3THERUBYPRICE_00406_A1_000_001","你是做什麼的？"
+3,"TEXT_REGOTH3THERUBYPRICE_00406_A1_000_002","這裡是什麼地方？"
+4,"TEXT_REGOTH3THERUBYPRICE_00406_A1_000_003","取消"
+5,"TEXT_REGOTH3THERUBYPRICE_00406_TSURUGI_000_010","在下是在這紅玉炮臺駐守遠東之國海域邊界的守衛！"
+6,"TEXT_REGOTH3THERUBYPRICE_00406_TSURUGI_000_011","遠東之國是由許許多多島嶼組成的島國，<hex:02100103>在下出身於其中面積最大的紅州。"
+7,"TEXT_REGOTH3THERUBYPRICE_00406_TSURUGI_000_012","由於幕府下達的調令，在下千里迢迢來到了這紅玉海，<hex:02100103>並要在此守護祖國的邊疆三年時間。"
+8,"TEXT_REGOTH3THERUBYPRICE_00406_TSURUGI_000_020","這裡是遠東之國的幕府設定的海上炮臺！<hex:02100103>看那整齊的炮列！"
+9,"TEXT_REGOTH3THERUBYPRICE_00406_TSURUGI_000_021","侵犯我國的敵艦只能在它們的火力下抱頭鼠竄！"
+10,"TEXT_REGOTH3THERUBYPRICE_00406_TSURUGI_000_022","不過由於這裡距離通商口岸黃金港非常近，<hex:02100103>所以時常也有友好的異國船隻通過。<hex:02100103>在下需要認真分辨來往船隻是否帶有敵意才行。"
+11,"TEXT_REGOTH3THERUBYPRICE_00406_TSURUGI_000_023","如果二話不說見船就打，<hex:02100103>打到加雷馬帝國的船挑起了戰爭的話，那就真是大事不妙了。"

@@ -1,5 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
 #,Weather[0],Rate[0],Weather[1],Rate[1],Weather[2],Rate[2],Weather[3],Rate[3],Weather[4],Rate[4],Weather[5],Rate[5],Weather[6],Rate[6],Weather[7],Rate[7]
+offset,0,32,4,33,8,34,12,35,16,36,20,37,24,38,28,39
 int32,Weather,byte,Weather,byte,Weather,byte,Weather,byte,Weather,byte,Weather,byte,Weather,byte,Weather,byte
 0,2,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,7,5,7,15,4,10,3,10,2,15,1,30,2,15,0,0
@@ -171,5 +172,3 @@ int32,Weather,byte,Weather,byte,Weather,byte,Weather,byte,Weather,byte,Weather,b
 167,193,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 168,1,10,2,45,3,15,7,10,190,15,191,5,0,0,0,0
 169,148,15,2,70,49,15,0,0,0,0,0,0,0,0,0,0
-170,198,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-171,2,60,3,20,7,20,0,0,0,0,0,0,0,0,0,0

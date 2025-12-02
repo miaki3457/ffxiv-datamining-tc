@@ -1,10 +1,11 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_SUBSEA154_01145_SEQ_00","맥주 항구의 알트푸트는 모험가에게 부탁할 게 있는 듯하다."
-1,"TEXT_SUBSEA154_01145_SEQ_01","알트푸트의 의뢰를 받았다. '맥주 항구' 주변에 있는 <Sheet(BNpcName,363,0)/><14>FF1302280FFF09424E70634E616D65F2016B0103FF04EBA19CFF07EC9CBCEBA19C</14>부터 <Sheet(EventItem,2000968,0)/><13>FF15022811FF0A4576656E744974656DF61E88480103FF04EBA5BCFF04EC9D84</13> 5개 손에 넣자."
-2,"TEXT_SUBSEA154_01145_SEQ_02","<Sheet(BNpcName,363,0)/><14>FF1302280FFF09424E70634E616D65F2016B0103FF04EBA19CFF07EC9CBCEBA19C</14>부터 <Sheet(EventItem,2000968,0)/><13>FF15022811FF0A4576656E744974656DF61E88480103FF04EBA5BCFF04EC9D84</13> 손에 넣었다. '맥주 항구'에 있는 '알트푸트'에게 <Sheet(EventItem,2000968,0)/><13>FF15022811FF0A4576656E744974656DF61E88480103FF04EBA5BCFF04EC9D84</13> 건네자."
-3,"TEXT_SUBSEA154_01145_SEQ_03","알트푸트에게 <Sheet(EventItem,2000968,0)/><13>FF15022811FF0A4576656E744974656DF61E88480103FF04EBA5BCFF04EC9D84</13> 건넸다. 그의 말에 따르면 박쥐는 어떤 상황에도 쉽게 적응하기 때문에 배울 점이 많은 마물이라고 한다."
+0,"TEXT_SUBSEA154_01145_SEQ_00","小麥酒港的阿爾德福特有事想要拜託冒險者。"
+1,"TEXT_SUBSEA154_01145_SEQ_01","接受了阿爾德福特的委託。從小麥酒港周圍的<hex:02280FFF09>BNpcName<hex:F2016B0103>身上得到5個<hex:022811FF0A>EventItem<hex:F61E88480103>。"
+2,"TEXT_SUBSEA154_01145_SEQ_02","從<hex:02280FFF09>BNpcName<hex:F2016B0103>身上得到了5個<hex:022811FF0A>EventItem<hex:F61E88480103>。將<hex:022811FF0A>EventItem<hex:F61E88480103>交給小麥酒港的阿爾德福特。"
+3,"TEXT_SUBSEA154_01145_SEQ_03","將<hex:022811FF0A>EventItem<hex:F61E88480103>交給了阿爾德福特。他認為蝙蝠擁有很強的環境適應力，應該向這種魔物學習。"
 4,"TEXT_SUBSEA154_01145_SEQ_04",""
 5,"TEXT_SUBSEA154_01145_SEQ_05",""
 6,"TEXT_SUBSEA154_01145_SEQ_06",""
@@ -25,8 +26,8 @@ int32,str,str
 21,"TEXT_SUBSEA154_01145_SEQ_21",""
 22,"TEXT_SUBSEA154_01145_SEQ_22",""
 23,"TEXT_SUBSEA154_01145_SEQ_23",""
-24,"TEXT_SUBSEA154_01145_TODO_00","<Sheet(BNpcName,363,0)/><14>FF1302280FFF09424E70634E616D65F2016B0103FF04EBA19CFF07EC9CBCEBA19C</14>부터 <Sheet(EventItem,2000968,0)/> 입수"
-25,"TEXT_SUBSEA154_01145_TODO_01","알트푸트에게 <Sheet(EventItem,2000968,0)/> 전달"
+24,"TEXT_SUBSEA154_01145_TODO_00","從<hex:02280FFF09>BNpcName<hex:F2016B0103>身上得到<hex:022811FF0A>EventItem<hex:F61E88480103>"
+25,"TEXT_SUBSEA154_01145_TODO_01","將<hex:022811FF0A>EventItem<hex:F61E88480103>交給阿爾德福特"
 26,"TEXT_SUBSEA154_01145_TODO_02",""
 27,"TEXT_SUBSEA154_01145_TODO_03",""
 28,"TEXT_SUBSEA154_01145_TODO_04",""
@@ -49,25 +50,11 @@ int32,str,str
 45,"TEXT_SUBSEA154_01145_TODO_21",""
 46,"TEXT_SUBSEA154_01145_TODO_22",""
 47,"TEXT_SUBSEA154_01145_TODO_23",""
-48,"TEXT_SUBSEA154_01145_AHLDFOET_000_000","앗, 너 모험가 아냐?
-마침 잘됐군. 혹시 <Sheet(BNpcName,363,0)/> 잡으러 갈 생각 없어?
-<Sheet(EventItem,2000968,0)/><13>FF15022811FF0A4576656E744974656DF61E88480103FF04EAB080FF04EC9DB4</13> 5장 정도 필요하거든."
-49,"TEXT_SUBSEA154_01145_AHLDFOET_000_001","응? 제발 부탁이야.
-그건 이 아저씨한테 부적 같은 거라고.
-사람 하나 살리는 셈 치고…… 꼭 좀 부탁해."
-50,"TEXT_SUBSEA154_01145_AHLDFOET_000_010","어떻게 됐어?
-아저씨가 부탁한 거 구했어?"
-51,"TEXT_SUBSEA154_01145_AHLDFOET_000_011","……오, 그래. 바로 이거야!
-고마워, <Switch(PlayerParameter(71))><Case(1)><If(PlayerParameter(4))>아가씨<Else/>형씨</If></Case><Case(2)><If(PlayerParameter(4))>누나<Else/>형씨</If></Case><Case(3)>작은 친구</Case><Case(4)><If(PlayerParameter(4))>고양이 아가씨<Else/>미코 형씨</If></Case><Case(5)><If(PlayerParameter(4))>멋진 누님<Else/>멋진 형씨</If></Case><Case(6)><If(PlayerParameter(4))>아가씨<Else/>형씨</If></Case><Case(7)><If(PlayerParameter(4))>누나<Else/>형씨</If></Case><Case(8)><If(PlayerParameter(4))>누나<Else/>형씨</If></Case></Switch>."
-52,"TEXT_SUBSEA154_01145_AHLDFOET_000_012","박쥐는 들짐승도 아니고 날짐승도 아닌 동물이지.
-그래서 흔히 사람들이 어정쩡한 존재라고
-생각하는 것 같은데, 사실은 그렇지 않아."
-53,"TEXT_SUBSEA154_01145_AHLDFOET_000_013","어떻게든 변할 수 있다는 건 오히려 상황판단과 임기응변이
-뛰어나다는 거거든. 아저씨 생각엔……
-박쥐의 판단력이나 결단력은 우리가 배워야 할 점인 것 같아."
-54,"TEXT_SUBSEA154_01145_AHLDFOET_000_014","이 근처 바다는 '환영 제도'가 있어서 암초가 많아.
-그래서 배가 암초에 걸리지 않도록 등대가 서 있긴 하지만,
-정작 중요한 시리우스 대등대가 고장 나서 바다가 너무 어두워."
-55,"TEXT_SUBSEA154_01145_AHLDFOET_000_015","바다 위에선 순간적인 판단이 생사를 가르는데 말이야.
-……아저씨는 한순간의 판단 실수로
-침몰한 배를 많이 봐왔거든."
+48,"TEXT_SUBSEA154_01145_AHLDFOET_000_000","你是冒險者吧？<hex:02100103>能請你去狩獵<hex:02280FFF09>BNpcName<hex:F2016B0103>，<hex:02100103>拿來5個<hex:022811FF0A>EventItem<hex:F61E88480103>嗎？"
+49,"TEXT_SUBSEA154_01145_AHLDFOET_000_001","可以的吧？<hex:02100103>對大叔來說，那東西是護身品。<hex:02100103>就當是助人為樂，拜託你了……好嗎？"
+50,"TEXT_SUBSEA154_01145_AHLDFOET_000_010","怎樣？<hex:02100103>拿到大叔拜託你的東西了嗎？"
+51,"TEXT_SUBSEA154_01145_AHLDFOET_000_011","……啊，就是這個就是這個。<hex:02100103>謝謝你，<hex:02099CE948FF17><hex:020813E905FF07>小姐<hex:FF07>小哥<hex:03><hex:FF17><hex:020813E905FF07>大姐<hex:FF07>兄弟<hex:03><hex:FF0A>小不點<hex:FF1D><hex:020819E905FF0A>小貓咪<hex:FF0A>貓小哥<hex:03><hex:FF17><hex:020813E905FF07>大姐<hex:FF07>大哥<hex:03><hex:FF17><hex:020813E905FF07>小姐<hex:FF07>小哥<hex:03><hex:FF07>小哥<hex:FF07>小姐<hex:03>。"
+52,"TEXT_SUBSEA154_01145_AHLDFOET_000_012","蝙蝠既不是鳥類也不是獸類。<hex:02100103>所以常有人認為它是不倫不類的異類，<hex:02100103>其實並不是那樣。"
+53,"TEXT_SUBSEA154_01145_AHLDFOET_000_013","它能夠臨機應變，根據狀況採取分屬鳥獸的行動。<hex:02100103>在大叔看來……<hex:02100103>它的判斷力和果斷值得學習。"
+54,"TEXT_SUBSEA154_01145_AHLDFOET_000_014","幻影群島就位於這附近的近海區域，礁石很多。<hex:02100103>雖然為了防止船隻觸礁設有燈塔，<hex:02100103>但最緊急的天狼星燈塔故障了，燈光很暗。"
+55,"TEXT_SUBSEA154_01145_AHLDFOET_000_015","在海上，一瞬間的判斷關係到生死存亡。<hex:02100103>……大叔知道很多船隻<hex:02100103>因為一瞬間的判斷失誤而覆沒了。"

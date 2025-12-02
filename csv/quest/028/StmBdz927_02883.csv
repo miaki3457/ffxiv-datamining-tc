@@ -1,7 +1,8 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_STMBDZ927_02883_SEQ_00","포르타 프라이토리아에 있는 자줄라 티아는 모험가에게 부탁하고 싶은 것이 있는 듯하다. "
+0,"TEXT_STMBDZ927_02883_SEQ_00","天營門的嘉·茲拉·提亞有事想拜託冒險者。"
 1,"TEXT_STMBDZ927_02883_SEQ_01",""
 2,"TEXT_STMBDZ927_02883_SEQ_02",""
 3,"TEXT_STMBDZ927_02883_SEQ_03",""
@@ -25,8 +26,8 @@ int32,str,str
 21,"TEXT_STMBDZ927_02883_SEQ_21",""
 22,"TEXT_STMBDZ927_02883_SEQ_22",""
 23,"TEXT_STMBDZ927_02883_SEQ_23",""
-24,"TEXT_STMBDZ927_02883_TODO_00","힘 빠지게 만든 <Sheet(BNpcName,5719,0)/>한테 <Sheet(EventItem,2002315,0)/> 사용해 포획"
-25,"TEXT_STMBDZ927_02883_TODO_01","자줄라 티아에게 <Sheet(EventItem,2002316,0)/> 전달 "
+24,"TEXT_STMBDZ927_02883_TODO_00","削弱<hex:02280FFF09>BNpcName<hex:F216570103> 使用<hex:022811FF0A>EventItem<hex:F61E8D8B0103>將其捕獲"
+25,"TEXT_STMBDZ927_02883_TODO_01","將<hex:022811FF0A>EventItem<hex:F61E8D8C0103>交給嘉·茲拉·提亞"
 26,"TEXT_STMBDZ927_02883_TODO_02",""
 27,"TEXT_STMBDZ927_02883_TODO_03",""
 28,"TEXT_STMBDZ927_02883_TODO_04",""
@@ -49,26 +50,12 @@ int32,str,str
 45,"TEXT_STMBDZ927_02883_TODO_21",""
 46,"TEXT_STMBDZ927_02883_TODO_22",""
 47,"TEXT_STMBDZ927_02883_TODO_23",""
-48,"TEXT_STMBDZ927_02883_JZULATIA_000_000","자네, 모험가 부대의 <Highlight>ObjectParameter(1)</Highlight> 맞지?
-좀 성가신 일을 부탁해도 되겠는가?"
-49,"TEXT_STMBDZ927_02883_JZULATIA_000_001","어떤 임무 때문에 마물을 몇 마리 포획하고 싶은데,
-좀 애를 먹고 있어서 말이네…….
-자넨 모험가로 명성도 높으니 마물 포획 같은 건 식은 죽 먹기겠지?"
-50,"TEXT_STMBDZ927_02883_JZULATIA_000_002","마물은 백염 육교의 남쪽에 사는 '<Sheet(BNpcName,5719,0)/>'일세.
-충분히 힘을 빼놓은 다음에 <Sheet(EventItem,2002315,0)/>에 넣어야 돼.
-안 그러면 날카로운 꼬리 때문에 찢어지니까 주의하도록 해."
-51,"TEXT_STMBDZ927_02883_JZULATIA_000_003","마물은 백염 육교의 남쪽에 사는 '<Sheet(BNpcName,5719,0)/>'일세.
-충분히 힘을 빼놓은 다음에 <Sheet(EventItem,2002315,0)/>에 넣어야 돼.
-안 그러면 날카로운 꼬리 때문에 찢어지니까 주의하도록 해."
-52,"TEXT_STMBDZ927_02883_JZULATIA_000_010","어때, <Sheet(BNpcName,5719,0)/><13>FF1302280FFF09424E70634E616D65F216570103FF04EB8A94FF04EC9D80</13> 잡았는가?"
-53,"TEXT_STMBDZ927_02883_JZULATIA_000_011","오오, 정말로 힘이 좋은 녀석이군!
-녀석을 잡은 주머니가 지금이라도 찢어질 것 같구만……
-하지만 이 정도가 아니면 의미가 없지."
-54,"TEXT_STMBDZ927_02883_JZULATIA_000_012","사실은 이 녀석을 사용해서
-제국군을 교란시키려는 작전이 비밀리에 진행 중이라네.
-제국 녀석들이 놀라서 도망가는 모습이 벌써부터 상상되는군."
-55,"TEXT_STMBDZ927_02883_JZULATIA_000_013","사실은 이 녀석을 써서 신병 훈련을 하려고 하네.
-언제 제국군이 식민지를 되찾으러 올지 모르니까 말이야.
-쫓아내긴 했지만 방심할 순 없거든."
-56,"TEXT_STMBDZ927_02883_JZULATIA_000_014","고맙네, <Highlight>ObjectParameter(1)</Highlight>.
-또 무슨 일 있으면 부탁하겠네."
+48,"TEXT_STMBDZ927_02883_JZULATIA_000_000","你是冒險者部隊的<hex:022903EB0203>吧？<hex:02100103>我有件麻煩事想拜託你。"
+49,"TEXT_STMBDZ927_02883_JZULATIA_000_001","為了某件任務，我需要捕獲幾隻魔物，<hex:02100103>不過，這魔物有些難對付……<hex:02100103>身為有名冒險者的你，捕獲魔物應該很輕鬆吧？"
+50,"TEXT_STMBDZ927_02883_JZULATIA_000_002","要捕獲的魔物是棲息在白陸橋南邊的<hex:02280FFF09>BNpcName<hex:F216570103>，<hex:02100103>記住要先讓它變弱，再對它使用<hex:022811FF0A>EventItem<hex:F61E8D8B0103>，<hex:02100103>否則它尖銳的尾巴會捅破<hex:022811FF0A>EventItem<hex:F61E8D8B0103>。"
+51,"TEXT_STMBDZ927_02883_JZULATIA_000_003","要捕獲的魔物是棲息在白陸橋南邊的<hex:02280FFF09>BNpcName<hex:F216570103>，<hex:02100103>記住要先讓它變弱，再對它使用<hex:022811FF0A>EventItem<hex:F61E8D8B0103>，<hex:02100103>否則它尖銳的尾巴會捅破<hex:022811FF0A>EventItem<hex:F61E8D8B0103>。"
+52,"TEXT_STMBDZ927_02883_JZULATIA_000_010","怎麼樣，抓到<hex:02280FFF09>BNpcName<hex:F216570103>了嗎？"
+53,"TEXT_STMBDZ927_02883_JZULATIA_000_011","哦哦，多麼活躍的傢伙啊！<hex:02100103>套在身上的袋子感覺隨時會被弄破……<hex:02100103>不過，活躍點才好。"
+54,"TEXT_STMBDZ927_02883_JZULATIA_000_012","其實，我們準備了一個秘密作戰，<hex:02100103>那就是用你抓來的這傢伙去擾亂帝國軍。<hex:02100103>我已經能看到帝國軍的傢伙們慌亂的姿態了。"
+55,"TEXT_STMBDZ927_02883_JZULATIA_000_013","其實，我們準備用你抓來的這傢伙去訓練新兵。<hex:02100103>因為不知道帝國軍何時會殺回來奪取屬州，<hex:02100103>所以不能說趕走他們了就放鬆警惕，要時刻做好準備。"
+56,"TEXT_STMBDZ927_02883_JZULATIA_000_014","這次真是謝謝你了，<hex:022903EB0203>。<hex:02100103>要是再有什麼事，還要拜託你了。"

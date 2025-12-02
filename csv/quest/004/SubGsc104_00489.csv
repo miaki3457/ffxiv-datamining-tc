@@ -1,5 +1,6 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
 0,"TEXT_SUBGSC104_00489_SEQ_00",""
 1,"TEXT_SUBGSC104_00489_SEQ_01",""
@@ -49,37 +50,19 @@ int32,str,str
 45,"TEXT_SUBGSC104_00489_TODO_21",""
 46,"TEXT_SUBGSC104_00489_TODO_22",""
 47,"TEXT_SUBGSC104_00489_TODO_23",""
-48,"TEXT_SUBGSC104_00489_WEEKLY_000_010","후후, 여기서는 자신의 운을 건 한판승부,
-'주간 복권'을 즐길 수 있답니다!
-제가 자세히 설명해드릴까요?"
-49,"TEXT_SUBGSC104_00489_Q1_000_000","'주간 복권'에 도전하시겠습니까?"
-50,"TEXT_SUBGSC104_00489_A1_000_001","예"
-51,"TEXT_SUBGSC104_00489_A1_000_002","아니요"
-52,"TEXT_SUBGSC104_00489_WEEKLY_000_020","어머…… 그래요?
-뭐, 사람마다 즐기고 싶은 놀이가 다른 법이니까요.
-마음이 바뀌면 언제든지 다시 찾아주세요!"
-53,"TEXT_SUBGSC104_00489_WEEKLY_000_030","어머, 관심을 가져줘서 기뻐요!
-그럼 지금부터 복권을 어떻게 즐기는지 설명해드릴게요."
-54,"TEXT_SUBGSC104_00489_WEEKLY_000_031","우선 맘에 드는 4자리 숫자를 골라주세요.
-그 숫자가 바로 당신의 '추첨번호'예요."
-55,"TEXT_SUBGSC104_00489_WEEKLY_000_032","당신이 고른 '추첨번호'와 발표된 '당첨번호'를
-일의 자리부터 차례대로 대조해서
-숫자가 어디까지 일치했는지에 따라 등수를 정한답니다."
-56,"TEXT_SUBGSC104_00489_WEEKLY_000_033","'추첨번호'와 '당첨번호'가 완벽히 일치하면
-'맨더빌 골드 소서 포인트(MGP)'뿐만 아니라
-멋진 경품도 받을 수 있어요!"
-57,"TEXT_SUBGSC104_00489_WEEKLY_000_034","또 '주간 복권'은 참가자가 많을수록
-받을 수 있는 MGP도 늘어나니까 친구들과 함께 도전해주세요!"
-58,"TEXT_SUBGSC104_00489_WEEKLY_000_035","추첨 결과 발표 및 보상 지급은
-제 옆에 있는 '당첨복권 교환원'이 담당하고 있어요."
-59,"TEXT_SUBGSC104_00489_WEEKLY_000_036","궁금한 점이 있으면 저한테 물어보세요.
-친절하고 자세하게 가르쳐드릴게요!"
-60,"TEXT_SUBGSC104_00489_SYSTEM_100_040","이제 '주간 복권'에 도전하실 수 있습니다."
-61,"TEXT_SUBGSC104_00489_SYSTEM_000_040","이제 '주간 복권'에 도전하실 수 있습니다!
-추첨 결과는 일주일에 한 번, 현실 시간으로
-매주 <ResetTime>1607</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시에 발표됩니다."
-62,"TEXT_SUBGSC104_00489_SYSTEM_000_041","또한, 당첨복권 교환은 결과 발표로부터 (현실 시간) 일주일 후,
-<ResetTime>1607</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시까지 가능합니다."
-63,"TEXT_SUBGSC104_00489_SYSTEM_000_042","교환 기간이 지나면
-'맨더빌 골드 소서 포인트(MGP)'와 경품을
-받을 수 없게 되니 주의하시기 바랍니다."
+48,"TEXT_SUBGSC104_00489_WEEKLY_000_010","客人您覺得今天的運勢如何呢？<hex:02100103>如果對自己很有信心，不妨來試一試「仙人仙彩」如何？<hex:02100103>如果您有興趣，人家會好好地教教您的哦？"
+49,"TEXT_SUBGSC104_00489_Q1_000_000","要試一試「仙人仙彩」嗎？"
+50,"TEXT_SUBGSC104_00489_A1_000_001","是"
+51,"TEXT_SUBGSC104_00489_A1_000_002","否"
+52,"TEXT_SUBGSC104_00489_WEEKLY_000_020","您沒興趣嗎？<hex:02100103>也是啦，在這裡玩什麼都隨客人們的喜好。<hex:02100103>不過如果您想玩一把，歡迎再回來哦！"
+53,"TEXT_SUBGSC104_00489_WEEKLY_000_030","哎呀，您有興趣嗎？人家真高興！<hex:02100103>那，人家就說明一下遊戲的規則吧！"
+54,"TEXT_SUBGSC104_00489_WEEKLY_000_031","首先，參加的時候請選擇一組喜歡的4位號碼！<hex:02100103>這就是客人您的抽選號碼。"
+55,"TEXT_SUBGSC104_00489_WEEKLY_000_032","以客人的號碼和每期發佈的中選號碼相對照，<hex:02100103>會根據個位起連續吻合的位數多少，來決定您能獲得的獎品。<hex:02100103>所以，關鍵就在於個位的號碼是否吻合！"
+56,"TEXT_SUBGSC104_00489_WEEKLY_000_033","如果數字完全一致……<hex:02100103>不僅能獲得大量的金碟幣，<hex:02100103>還會贈送您特別的豪·華·獎·品！"
+57,"TEXT_SUBGSC104_00489_WEEKLY_000_034","而且，隨著參加仙人仙彩的客人變多，<hex:02100103>當選時能獲得的金碟幣也會增加哦！<hex:02100103>所以請您帶上好朋友們一起加入吧！"
+58,"TEXT_SUBGSC104_00489_WEEKLY_000_035","關於抽選結果的發佈和獎品的發放，<hex:02100103>是由櫃台那邊的「獎品兌換員」負責的。"
+59,"TEXT_SUBGSC104_00489_WEEKLY_000_036","還有什麼不明白的，可以再來問人家哦。<hex:02100103>人家會用盡各種辦法，好——好地向您解釋清楚的！"
+60,"TEXT_SUBGSC104_00489_SYSTEM_100_040","開放了「仙人仙彩」有獎競猜"
+61,"TEXT_SUBGSC104_00489_SYSTEM_000_040","可以參加「仙人仙彩」有獎競猜了！<hex:02100103>每週<hex:020603170703><hex:02093ADDFF07>週日<hex:FF07>週一<hex:FF07>週二<hex:FF07>週三<hex:FF07>週四<hex:FF07>週五<hex:FF07>週六<hex:03>的<hex:020821DBFF1D><hex:020919DB02030405060708090A0B0C0D0E0F10111213141516171803><hex:0103>點（地球時間）<hex:02100103>將會公佈當期仙人仙彩的抽選結果。"
+62,"TEXT_SUBGSC104_00489_SYSTEM_000_041","另外，兌換時間是抽選結果發表後一週內，<hex:02100103>即下週<hex:020603170703><hex:02093ADDFF07>週日<hex:FF07>週一<hex:FF07>週二<hex:FF07>週三<hex:FF07>週四<hex:FF07>週五<hex:FF07>週六<hex:03>的<hex:020821DBFF1D><hex:020919DB02030405060708090A0B0C0D0E0F10111213141516171803><hex:0103>點（地球時間）為止。"
+63,"TEXT_SUBGSC104_00489_SYSTEM_000_042","請注意：一旦超過獎品領取時限，<hex:02100103>應得的金碟幣與獎品將會作廢，無法再次領取。"

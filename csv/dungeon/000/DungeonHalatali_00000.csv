@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_DUNGEONHALATALI_00000_BRONZEBULL_000_000","마지막 시련은 최정예 검투사들과의 난타전!
-진정한 '검투'의 시간이다!"
-1,"TEXT_DUNGEONHALATALI_00000_BRONZEBULL_000_001","거기까지!
-구경하는 내 피가 다 끓을 정도로 짜릿한 격전이었어!"
+0,"TEXT_DUNGEONHALATALI_00000_BRONZEBULL_000_000","最後的試鍊是與精銳劍鬥士們的亂戰！<hex:02100103>真正的「劍鬥」要開始了！"
+1,"TEXT_DUNGEONHALATALI_00000_BRONZEBULL_000_001","分出勝負了！<hex:02100103>我光是在旁邊看著就熱血沸騰了！<hex:02100103>真是場精彩絕倫的激戰啊！"

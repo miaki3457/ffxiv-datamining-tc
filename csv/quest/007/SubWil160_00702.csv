@@ -1,11 +1,12 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_SUBWIL160_00702_SEQ_00","불멸대 대령 스위프트는 모험가에게 내 초코보를 얻는 방법을 알려주려는 듯하다."
-1,"TEXT_SUBWIL160_00702_SEQ_01","보급 담당관에게 가서 군표를 <Sheet(Item,6019,0)/><14>FF0F02280BFF054974656DF217830103FF04EBA19CFF07EC9CBCEBA19C</14> 바꾼 다음 '미미군'에게 주면 '내 초코보'를 얻을 수 있다. 열심히 군표를 모으자."
-2,"TEXT_SUBWIL160_00702_SEQ_02","미미군이 '내 초코보'를 데리고 왔다. 초코보에게 멋진 이름을 지어주자."
-3,"TEXT_SUBWIL160_00702_SEQ_03","초코보의 이름을 <Highlight>ObjectParameter(55)</Highlight><13>FF07022903EB3803FF04EB9DBCFF07EC9DB4EB9DBC</13>고 지었다.'미미군'과 대화하자."
-4,"TEXT_SUBWIL160_00702_SEQ_04","미미군과 대화하고, 초코보 지급 절차를 마무리했다. <Highlight>ObjectParameter(55)</Highlight><13>FF07022903EB3803FF04EB8A94FF04EC9D80</13> 앞으로 여행길에 좋은 길동무가 될 것 같다."
+0,"TEXT_SUBWIL160_00702_SEQ_00","斯威夫特大鬥佐想要教給冒險者如何獲得專屬陸行鳥。"
+1,"TEXT_SUBWIL160_00702_SEQ_01","用軍票和補給負責人交換<hex:02280BFF05>Item<hex:F217830103>，再交給陸行鳥廄的米米古恩就能獲得專屬陸行鳥了。努力收集軍票。"
+2,"TEXT_SUBWIL160_00702_SEQ_02","米米古恩牽來了專屬陸行鳥。給陸行鳥取個好聽的名字。"
+3,"TEXT_SUBWIL160_00702_SEQ_03","給陸行鳥取了<hex:022903EB3803>這個名字。和米米古恩談談。"
+4,"TEXT_SUBWIL160_00702_SEQ_04","和米米古恩進行了交談，成功辦完了手續，領取了陸行鳥。今後的旅途將有<hex:022903EB3803>為伴。"
 5,"TEXT_SUBWIL160_00702_SEQ_05",""
 6,"TEXT_SUBWIL160_00702_SEQ_06",""
 7,"TEXT_SUBWIL160_00702_SEQ_07",""
@@ -25,9 +26,9 @@ int32,str,str
 21,"TEXT_SUBWIL160_00702_SEQ_21",""
 22,"TEXT_SUBWIL160_00702_SEQ_22",""
 23,"TEXT_SUBWIL160_00702_SEQ_23",""
-24,"TEXT_SUBWIL160_00702_TODO_00","미미군에게 <Sheet(Item,6019,0)/> 전달"
-25,"TEXT_SUBWIL160_00702_TODO_01","초코보 이름 짓기"
-26,"TEXT_SUBWIL160_00702_TODO_02","미미군과 대화"
+24,"TEXT_SUBWIL160_00702_TODO_00","將<hex:02280BFF05>Item<hex:F217830103>交給米米古恩"
+25,"TEXT_SUBWIL160_00702_TODO_01","給陸行鳥取名字"
+26,"TEXT_SUBWIL160_00702_TODO_02","和米米古恩對話"
 27,"TEXT_SUBWIL160_00702_TODO_03",""
 28,"TEXT_SUBWIL160_00702_TODO_04",""
 29,"TEXT_SUBWIL160_00702_TODO_05",""
@@ -49,54 +50,27 @@ int32,str,str
 45,"TEXT_SUBWIL160_00702_TODO_21",""
 46,"TEXT_SUBWIL160_00702_TODO_22",""
 47,"TEXT_SUBWIL160_00702_TODO_23",""
-48,"TEXT_SUBWIL160_00702_Swift_000","자네가 바로 <Highlight>ObjectParameter(1)</Highlight> <If(GreaterThan(PlayerParameter(54),0))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><13>FF29020825E1E93701FF1D022819FF14474352616E6B556C6461684D616C6554657874E9370103FF0103FF04EBA19CFF07EC9DB4EBA19C</13>군…….
-활약이 대단하다는 이야기는 들었네만,
-인상도 제법 믿음직하게 생겼군그래."
-49,"TEXT_SUBWIL160_00702_Swift_001","그런데 혹시 자네는 임무를 수행하러 다닐 때
-더 신속하게 이동하고 싶다는 생각은 안 해봤나?"
-50,"TEXT_SUBWIL160_00702_Swift_002","그럴 때 발 빠른 초코보가 있으면 도움이 많이 된다네.
-보아하니 자네는 아직 '내 초코보'가 없는 모양인데,
-자네같이 출중한 인원에게 지급하지 않으면 부대의 큰 손실이지."
-51,"TEXT_SUBWIL160_00702_Swift_003","보급 담당관에게 가서 군표를 내고 <Sheet(Item,6019,0)/><13>FF0F02280BFF054974656DF217830103FF04EBA5BCFF04EC9D84</13>
-받아 '미미군'에게 가져가보게.
-자네에게 딱 맞는 초코보를 마련해줄 걸세."
-52,"TEXT_SUBWIL160_00702_Swift_010","보급 담당관에게 가서 군표를 내고 <Sheet(Item,6019,0)/><13>FF0F02280BFF054974656DF217830103FF04EBA5BCFF04EC9D84</13>
-받아 '미미군'에게 가져가보게.
-자네에게 딱 맞는 초코보를 마련해줄 걸세."
-53,"TEXT_SUBWIL160_00702_MIMIGUN_000","어서 오세요. '내 초코보'가 필요하시다고요?
-그럼 저한테 <Sheet(Item,6019,0)/><13>FF0F02280BFF054974656DF217830103FF04EBA5BCFF04EC9D84</13> 건네주세요."
-54,"TEXT_SUBWIL160_00702_MIMIGUN_010","네, 총사령부에서 발행한
-<Sheet(Item,6019,0)/><13>FF0F02280BFF054974656DF217830103FF04EAB080FF04EC9DB4</13> 맞네요."
-55,"TEXT_SUBWIL160_00702_MIMIGUN_011","잘 받았습니다. 그럼 손님한테 딱 맞는
-멋진 초코보를 데려올 테니 잠시만 기다려주세요!"
-56,"TEXT_SUBWIL160_00702_MIMIGUN_012","얘가 손님이 오시기도 전부터 들떠서 어쩔 줄 모르더라고요.
-동물의 감으로 손님이 좋은 사람이라는 걸 아는 것 같네요."
-57,"TEXT_SUBWIL160_00702_MIMIGUN_013","자, 그럼 손님!
-어서 이 수컷 초코보한테 이름을 지어주세요!"
-58,"TEXT_SUBWIL160_00702_MIMIGUN_020","'내 초코보'가 필요하시다고요?
-그럼 총사령부 보급 담당관한테 가서
-<Sheet(Item,6019,0)/><13>FF0F02280BFF054974656DF217830103FF04EBA5BCFF04EC9D84</13> 받아오세요."
-59,"TEXT_SUBWIL160_00702_MIMIGUN_021","총사령부에서 맡긴 일을 하고 받는
-'군표'라는 걸 모아서 교환할 수 있다고 들었어요."
-60,"TEXT_SUBWIL160_00702_CHOCOBO_000","꾸엑!"
-61,"TEXT_SUBWIL160_00702_MIMIGUN_030","자, 그럼 손님!
-어서 이 수컷 초코보한테 이름을 지어주세요!"
-62,"TEXT_SUBWIL160_00702_MIMIGUN_040","초코보도 당신이 지어준 이름이
-아주 마음에 드는 모양이군요."
-63,"TEXT_SUBWIL160_00702_MIMIGUN_041","그럼 이제 이 <Sheet(Item,6001,0)/><13>FF0F02280BFF054974656DF217710103FF04EBA5BCFF04EC9D84</13> 드릴게요.
-이걸 불면 '내 초코보'가
-당신한테 달려올 거예요."
-64,"TEXT_SUBWIL160_00702_MIMIGUN_042","단, 사람이 많이 오가는 도시 안이나
-마물이 사는 동굴처럼 초코보가 싫어하는 곳에서는
-불러도 안 오니까 주의하시고요!"
-65,"TEXT_SUBWIL160_00702_MIMIGUN_043","아, 그리고 한 가지 더! 각 도시에서 발행하는
-'초급 초코보 면허'도 드릴게요."
-66,"TEXT_SUBWIL160_00702_MIMIGUN_044","이제 수속은 다 마쳤어요!
-어서 도시 밖으로 나가서 내 초코보와 함께
-즐거운 여행을 떠나보시면 어떨까요?"
-67,"TEXT_SUBWIL160_00702_CHOCOBO_PROMPT_TITLE","내 초코보의 이름을 입력하세요"
-68,"TEXT_SUBWIL160_00702_CHOCOBO_PROMPT_CAPTION","이름"
-69,"TEXT_SUBWIL160_00702_CHOCOBO_PROMPT_MES0","한글, 알파벳, 기호 '를 사용하여
-1글자 이상 6글자 이내의 이름을 입력하십시오."
+48,"TEXT_SUBWIL160_00702_Swift_000","你就是傳聞中的<hex:022903EB0203><hex:020831E1E93701FF29><hex:020825E3E93780FF1D><hex:022819FF14>GCRankUldahMaleText<hex:E9370103><hex:FF01><hex:03><hex:FF01><hex:03>吧……<hex:02100103>你的活躍表現我也有所耳聞。<hex:02100103>真是身手了得啊。"
+49,"TEXT_SUBWIL160_00702_Swift_001","對了，你想在執行任務時移動得更快嗎？"
+50,"TEXT_SUBWIL160_00702_Swift_002","這種時候就要找陸行鳥來幫你的忙了。<hex:02100103>看來你還沒有「專屬陸行鳥」呢。<hex:02100103>像你這樣的兵應該馬上獲得一隻。"
+51,"TEXT_SUBWIL160_00702_Swift_003","用軍票，從補給負責人那裡換來<hex:02280BFF05>Item<hex:F217830103>，<hex:02100103>然後將它交給陸行鳥廄的米米古恩。<hex:02100103>這樣他們就會為你準備一隻適合你的陸行鳥。"
+52,"TEXT_SUBWIL160_00702_Swift_010","用軍票，從補給負責人那裡換來<hex:02280BFF05>Item<hex:F217830103>，<hex:02100103>然後將它交給陸行鳥廄的米米古恩。<hex:02100103>這樣他們就會為你準備一隻適合你的陸行鳥。"
+53,"TEXT_SUBWIL160_00702_MIMIGUN_000","你想要專屬陸行鳥？<hex:02100103>那請把<hex:02280BFF05>Item<hex:F217830103>交給我。"
+54,"TEXT_SUBWIL160_00702_MIMIGUN_010","這的確是大國防聯軍發行的<hex:02280BFF05>Item<hex:F217830103>。"
+55,"TEXT_SUBWIL160_00702_MIMIGUN_011","那麼我就收下它，<hex:02100103>這就去找一隻適合你的陸行鳥。<hex:02100103>請稍等。"
+56,"TEXT_SUBWIL160_00702_MIMIGUN_012","在客人來之前這孩子就開始喧鬧起來，<hex:02100103>我想它一定是預感到要與客人見面了。"
+57,"TEXT_SUBWIL160_00702_MIMIGUN_013","來吧，快給這雄陸行鳥起個名字。"
+58,"TEXT_SUBWIL160_00702_MIMIGUN_020","你想要專屬陸行鳥？<hex:02100103>那請去大國防聯軍的補給負責人那裡，<hex:02100103>領取<hex:02280BFF05>Item<hex:F217830103>。"
+59,"TEXT_SUBWIL160_00702_MIMIGUN_021","完成大國防聯軍的任務能得到軍票，<hex:02100103>而你可以用收集下來的軍票進行交換。"
+60,"TEXT_SUBWIL160_00702_CHOCOBO_000","咕哎！"
+61,"TEXT_SUBWIL160_00702_MIMIGUN_030","來吧，快給這雄陸行鳥起個名字。"
+62,"TEXT_SUBWIL160_00702_MIMIGUN_040","看來陸行鳥也很喜歡你取的這個名字呢。"
+63,"TEXT_SUBWIL160_00702_MIMIGUN_041","請收下這<hex:02280BFF05>Item<hex:F217710103>。<hex:02100103>只要一吹它，專屬陸行鳥就會跑到你身邊來。"
+64,"TEXT_SUBWIL160_00702_MIMIGUN_042","不過請注意，<hex:02100103>如果是在人聲嘈雜的城市和魔物棲息的洞窟裡，<hex:02100103>是叫不來陸行鳥的，因為它們討厭這些地方。"
+65,"TEXT_SUBWIL160_00702_MIMIGUN_043","另外，我將各個城市發行的「初級騎乘證」也交給你。"
+66,"TEXT_SUBWIL160_00702_MIMIGUN_044","這樣一來所需手續就全辦完了。<hex:02100103>你可以馬上出城，享受和專屬陸行鳥的快樂旅程。"
+67,"TEXT_SUBWIL160_00702_CHOCOBO_PROMPT_TITLE","請輸入專屬陸行鳥的名字"
+68,"TEXT_SUBWIL160_00702_CHOCOBO_PROMPT_CAPTION","名字"
+69,"TEXT_SUBWIL160_00702_CHOCOBO_PROMPT_MES0","名字必須在1到6個文字之間。"
 70,"TEXT_SUBWIL160_00702_CHOCOBO_PROMPT_MES1",""
 71,"TEXT_SUBWIL160_00702_CHOCOBO_PROMPT_MES2",""

@@ -1,32 +1,19 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGROC2MARIORIE_00707_MARIORIE_000_000","<Highlight>ObjectParameter(1)</Highlight> 님, 또 와주셨군요!
-'창천 거리 부흥 기념 연주회'를 원하신다면
-바로 준비하겠습니다!"
-1,"TEXT_REGROC2MARIORIE_00707_MARIORIE_000_001","혹시 관심이 있으시다면
-더 난이도가 높은 연주 악보를 준비하겠습니다!"
-2,"TEXT_REGROC2MARIORIE_00707_SYSTEM_000_002","（★未使用／削除予定★）"
-3,"TEXT_REGROC2MARIORIE_00707_Q1_000_000","연주회를 시작하시겠습니까?"
-4,"TEXT_REGROC2MARIORIE_00707_A1_000_001","'창천 거리 부흥 기념 연주회(보통)'에 참가"
-5,"TEXT_REGROC2MARIORIE_00707_A1_000_002","'창천 거리 부흥 기념 연주회(어려움)'에 참가"
-6,"TEXT_REGROC2MARIORIE_00707_A1_000_003","잠깐 기다려줘"
-7,"TEXT_REGROC2MARIORIE_00707_A1_000_004","플레이 방법을 알려달라고 한다"
-8,"TEXT_REGROC2MARIORIE_00707_MARIORIE_000_003","알겠습니다!
-'창천 거리 부흥 기념 연주회'를 원하실 때는
-부담 없이 말을 걸어 주십시오!"
-9,"TEXT_REGROC2MARIORIE_00707_SYSTEM_000_004","'창천 거리 부흥 기념 연주회에서는 노트라 불리는 아이콘이
-리듬에 맞춰서 화면 위에 표시됩니다.
-노트에 맞춰 키를 눌러 음악회를 성공시키세요!"
-10,"TEXT_REGROC2MARIORIE_00707_SYSTEM_000_005","왼쪽 일반 노트: 마름모꼴이 겹쳐질 때 키를 누르세요.
-가운데 연타 노트: 겹쳐지면 일정 시간 키를 연타하세요.
-오른쪽 긴 노트: 겹쳐지면 일정 시간 키를 길게 누르세요."
-11,"TEXT_REGROC2MARIORIE_00707_SYSTEM_000_006","대응 키는 다음과 같습니다."
-12,"TEXT_REGROC2MARIORIE_00707_SYSTEM_000_007","<If(Equal(PlayerParameter(80),0))>마우스：화면에서 왼쪽 클릭, 오른쪽 클릭
-키보드：수식 키를 제외한 알파벳 등 표준 키
-플레이 중에는 빠른 대화를 할 수 없습니다<Else/><If(GreaterThan(PlayerParameter(75),0))>컨트롤러<Else/>게임패드</If>：<CommandIcon(18)/>를 제외한 각종 입력 전반　<CommandIcon(7)/> <CommandIcon(8)/> <CommandIcon(9)/> <CommandIcon(10)/> <CommandIcon(11)/>등</If>"
-13,"TEXT_REGROC2MARIORIE_00707_SYSTEM_000_008","［<If(Equal(PlayerParameter(78),3))>esc<Else/>Esc</If>］키, 또는 <CommandIcon(18)/> 버튼을 누르면
-'창천 거리 부흥 기념 연주회'를 도중에 끝낼 수 있습니다."
-14,"TEXT_REGROC2MARIORIE_00707_MARIORIE_000_999","앞으로도 연주회를 개최할 수 있도록
-절차를 진행해 놓을 테니
-나중에 또 들러주세요!"
+0,"TEXT_REGROC2MARIORIE_00707_MARIORIE_000_000","<hex:022903EB0203>，歡迎你過來！<hex:02100103>你要是想舉辦蒼天街重建紀念演奏會的話，<hex:02100103>我馬上就給你安排！"
+1,"TEXT_REGROC2MARIORIE_00707_MARIORIE_000_001","如果有興趣的話，<hex:02100103>我還可以為你準備更高難度的樂譜！"
+2,"TEXT_REGROC2MARIORIE_00707_SYSTEM_000_002",""
+3,"TEXT_REGROC2MARIORIE_00707_Q1_000_000","要開始演奏會嗎？"
+4,"TEXT_REGROC2MARIORIE_00707_A1_000_001","參加蒼天街重建紀念演奏會（普通難度）"
+5,"TEXT_REGROC2MARIORIE_00707_A1_000_002","參加蒼天街重建紀念演奏會（困難難度）"
+6,"TEXT_REGROC2MARIORIE_00707_A1_000_003","稍等一下"
+7,"TEXT_REGROC2MARIORIE_00707_A1_000_004","請說明一下演奏方法"
+8,"TEXT_REGROC2MARIORIE_00707_MARIORIE_000_003","好的！<hex:02100103>若想舉辦蒼天街重建紀念演奏會時，<hex:02100103>請來找我吧！"
+9,"TEXT_REGROC2MARIORIE_00707_SYSTEM_000_004","蒼天街重建紀念演奏會中，<hex:02100103>在畫面上會隨著節奏顯示出提示符。<hex:02100103>抓對時機按下按鍵，讓演奏會取得圓滿成功吧！"
+10,"TEXT_REGROC2MARIORIE_00707_SYSTEM_000_005","左邊的通常提示符：需要在光圈與提示符重合時按一下按鍵<hex:02100103>中央的連擊提示符：需要重合之後在一定時間內連擊按鍵<hex:02100103>右邊的長按提示符：需要重合之後在一定時間內長按按鍵"
+11,"TEXT_REGROC2MARIORIE_00707_SYSTEM_000_006","可用的按鍵如下："
+12,"TEXT_REGROC2MARIORIE_00707_SYSTEM_000_007","<hex:0208F20153E4E95101FFF0E0>滑鼠：在畫面上任意位置點選滑鼠左鍵或滑鼠右鍵<hex:02100103>鍵盤：點選鍵盤上alt等特殊鍵之外的正常英文字母等標準按鍵<hex:02100103>此外，在音樂會途中將無法使用直接聊天模式。<hex:FF6B><hex:020818E1E94C01FF0A>控器器<hex:FF07>手把<hex:03>：按下除<hex:021E021303>以外的所有按鍵皆可　<hex:021E020803> <hex:021E020903> <hex:021E020A03> <hex:021E020B03> <hex:021E020C03>等<hex:03>"
+13,"TEXT_REGROC2MARIORIE_00707_SYSTEM_000_008","透過按下<hex:02080FE4E94F04FF04>esc<hex:FF04>Esc<hex:03>鍵或者<hex:021E021303>鍵，<hex:02100103>可以在中途結束蒼天街重建紀念演奏會。"
+14,"TEXT_REGROC2MARIORIE_00707_MARIORIE_000_999","為了今後也能舉辦演奏會，<hex:02100103>我這邊也得去辦些手續，<hex:02100103>之後再來找我吧！"

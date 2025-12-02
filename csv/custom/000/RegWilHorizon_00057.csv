@@ -1,26 +1,16 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGWILHORIZON_00057_GISELBERDUS_000","뭐야, 너도 길을 잃었어?
-궁금한 게 있으면 다 물어봐."
-1,"TEXT_REGWILHORIZON_00057_SCENE00000Q","무엇을 물어보시겠습니까?"
-2,"TEXT_REGWILHORIZON_00057_SCENE00000A1","여기서 무슨 일을 하고 있는지 물어본다"
-3,"TEXT_REGWILHORIZON_00057_SCENE00000A2","이 마을은 어떤 곳인지 알려달라고 한다"
-4,"TEXT_REGWILHORIZON_00057_SCENE00000A3","취소"
-5,"TEXT_REGWILHORIZON_00057_GISELBERDUS_010","우리는 구리칼날단 장미연대 대원들이야.
-주로 이곳 지평선 관문을 경비하고 있어."
-6,"TEXT_REGWILHORIZON_00057_GISELBERDUS_011","구리칼날단은 상인들이 돈을 모아 만든 자경단이야.
-참고로 사병이라고 만만히 봤다간 큰코다칠 수 있어!"
-7,"TEXT_REGWILHORIZON_00057_GISELBERDUS_012","우린 상인들이 안심하고 거래할 수 있도록 신변을 지킨다.
-그렇게 해서 거래가 잘 성사되어 돈이 벌리면
-누이 좋고 매부 좋고 다 좋아지는 거지."
-8,"TEXT_REGWILHORIZON_00057_GISELBERDUS_020","이곳 지평선 관문은 물자를 유통하는 중계지야.
-바닷길을 통해 서쪽 '저녁별 만'으로 들어온 화물은
-이 마을을 거친 다음 울다하 방면으로 향하거든."
-9,"TEXT_REGWILHORIZON_00057_GISELBERDUS_021","지대가 낮은 저녁별 만 방면에서
-무거운 화물을 끌어 올리기 위한
-'도르래'도 완비되어 있고. 그야말로 물류의 핵심이지."
-10,"TEXT_REGWILHORIZON_00057_GISELBERDUS_022","덕분에 항상 상인들로 붐비고 있어서 마을에 활기가 넘쳐.
-물론 간혹 수상쩍은 놈들도 있지만……."
-11,"TEXT_REGWILHORIZON_00057_GISELBERDUS_023","그런 놈이 있으면 혼쭐내주려고
-우리 구리칼날단이 이렇게 경비를 서고 있는 거야."
+0,"TEXT_REGWILHORIZON_00057_GISELBERDUS_000","怎麼，你也迷路了嗎？<hex:02100103>如果有什麼疑問的話，我可以幫你解答。"
+1,"TEXT_REGWILHORIZON_00057_SCENE00000Q","想了解什麼？"
+2,"TEXT_REGWILHORIZON_00057_SCENE00000A1","你在這裡是做什麼的？"
+3,"TEXT_REGWILHORIZON_00057_SCENE00000A2","這裡是什麼村落？"
+4,"TEXT_REGWILHORIZON_00057_SCENE00000A3","取消"
+5,"TEXT_REGWILHORIZON_00057_GISELBERDUS_010","我們是銅刃團薔薇聯隊。<hex:02100103>主要負責地平關的警衛工作。"
+6,"TEXT_REGWILHORIZON_00057_GISELBERDUS_011","所謂銅刃團，就是商人們集資成立的自警團。<hex:02100103>啊，不要因為是私兵就小看我們。"
+7,"TEXT_REGWILHORIZON_00057_GISELBERDUS_012","我們為商人們提供警備服務，讓他們放心做買賣。<hex:02100103>開開心心賺錢，這樣一來財源也會滾滾而來。<hex:02100103>所謂你好，我好，大家好嘛。"
+8,"TEXT_REGWILHORIZON_00057_GISELBERDUS_020","地平關是物流的轉運站。<hex:02100103>透過海路運輸的貨物，在西面的黃昏灣卸貨，<hex:02100103>經這個村落中轉後，再向烏爾達哈方向運輸。"
+9,"TEXT_REGWILHORIZON_00057_GISELBERDUS_021","這裡備有捲揚機，<hex:02100103>可以將沉重的貨物從位於低地的黃昏灣運送到處於高地的這裡，<hex:02100103>可謂是物流的關鍵地點。"
+10,"TEXT_REGWILHORIZON_00057_GISELBERDUS_022","也正因如此，來往於這裡的商人絡繹不絕，<hex:02100103>讓這裡時時刻刻充滿著活力。<hex:02100103>當然，也不乏形跡可疑的傢伙混跡於其中……"
+11,"TEXT_REGWILHORIZON_00057_GISELBERDUS_023","為了整治這些傢伙，<hex:02100103>我們銅刃團才警衛執勤。"

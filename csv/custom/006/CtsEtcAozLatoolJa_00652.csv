@@ -1,39 +1,20 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_CTSETCAOZLATOOLJA_00652_Q1_000_000","무엇을 물어보시겠습니까?"
-1,"TEXT_CTSETCAOZLATOOLJA_00652_A1_000_001","'청마도사 임무'에 대해서"
-2,"TEXT_CTSETCAOZLATOOLJA_00652_A1_000_002","'주간 목표'에 대해서"
-3,"TEXT_CTSETCAOZLATOOLJA_00652_A1_000_003","취소"
-4,"TEXT_CTSETCAOZLATOOLJA_00652_LATOOLJA_000_010","'청마도사 임무'란, 선생님께서 주장하, 시는
-'청마도사 만능설'을 증명하기 위, 한, 실증 연구 기록, 입니다."
-5,"TEXT_CTSETCAOZLATOOLJA_00652_LATOOLJA_000_011","당신, 도, 청마도사만, 으로, 다양한 '위험지대'에 가서
-그, 기록, 을 해주셨으면, 합니, 다.
-물론, 보상은, 지불해, 드리겠습, 니다."
-6,"TEXT_CTSETCAOZLATOOLJA_00652_LATOOLJA_000_012","당신, 이 갖고 있는 '청마도서'에 연구 대상인 '위험지대'가
-정리되어, 있으, 니, 확인하신, 후에
-청마도사를, 모집하여, 들어가, 주십시오."
-7,"TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_000_020","'청마도사 임무'는 지정된 임무를
-청마도사만으로 파티를 구성해 공략하는 것이 목표입니다."
-8,"TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_000_021","조건을 충족했을 경우, 임무 공략 시에
-보상으로 길, 동맹 휘장, 알라그 석판을 획득할 수 있으며
-첫 회에 한해 보너스로 더 많은 보상을 얻을 수 있습니다."
-9,"TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_000_022","주 메뉴의 '청마도서'에 있는 탭을 통해
-'청마도사 임무' 메뉴를 열 수 있으며
-지정된 임무와 해당 공략 상황을 확인할 수 있습니다."
-10,"TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_000_023","또 '청마도사 임무' 메뉴에서 '파티 찾기'와
-'임무 찾기'를 열 수 있습니다.
-청마도사를 모집해 지정된 임무에 도전해 보십시오."
-11,"TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_000_024","청마도사 임무로 임무를 공략하기 위해서는
-인원수 제한을 해제하지 않고 미리 구성된 파티로 참가해 주십시오. "
-12,"TEXT_CTSETCAOZLATOOLJA_00652_LATOOLJA_000_040","'청마도사 임무'는 '주간 목표'라고, 부르는,
-특별히, 기록이 필요, 한 '위험지대'를, 지정하고, 있습니다.
-다른 것보다, 도 보상이 푸짐하니까, 꼭, 도전해 주십, 시오."
-13,"TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_000_041","'주간 목표'는
-지정된 임무를 공략하면
-보너스로 더 많은 보상을 얻을 수 있습니다."
-14,"TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_000_042","또 고난이도 임무가 지정되는
-'특별 임무'라는 것이 존재하며
-더 많은 보상을 얻을 수 있습니다. "
-15,"TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_100_043","대상 임무는 현실 시간으로
-매주 <ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시에 갱신됩니다."
+0,"TEXT_CTSETCAOZLATOOLJA_00652_Q1_000_000","想了解什麼？"
+1,"TEXT_CTSETCAOZLATOOLJA_00652_A1_000_001","詢問有關青魔道士記錄"
+2,"TEXT_CTSETCAOZLATOOLJA_00652_A1_000_002","關於每週目標"
+3,"TEXT_CTSETCAOZLATOOLJA_00652_A1_000_003","取消"
+4,"TEXT_CTSETCAOZLATOOLJA_00652_LATOOLJA_000_010","青魔道士記錄是用來、對大師提出的、<hex:02100103>「青魔道士萬能論」進行、實證研究的記錄。"
+5,"TEXT_CTSETCAOZLATOOLJA_00652_LATOOLJA_000_011","請你也以、僅由青魔道士組成的隊伍、前往各種危險地帶、<hex:02100103>記錄下、冒險的過程。<hex:02100103>至於報酬、自然、會付給你的。"
+6,"TEXT_CTSETCAOZLATOOLJA_00652_LATOOLJA_000_012","你持有的、青魔法書上、<hex:02100103>記載著、相關研究對象、的危險地帶。<hex:02100103>請你確認無誤後、召集青魔道士、進行攻略。"
+7,"TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_000_020","青魔道士記錄是隻限青魔道士組成的小隊進行攻略的任務。"
+8,"TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_000_021","滿足條件並完成任務時，<hex:02100103>將會得到Gil、同盟徽章、亞拉戈神典石等報酬，<hex:02100103>並且在首次完成任務時還將獲得首次達成報酬。"
+9,"TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_000_022","可以從設定選單「青魔法書」的標籤頁中打開「青魔道士記錄」，<hex:02100103>確認任務列表以及各個任務的攻略情況。"
+10,"TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_000_023","此外，在「青魔道士記錄」中<hex:02100103>可以進行「招募隊員」與「挑戰任務」。<hex:02100103>請招募青魔道士，一起挑戰指定任務。"
+11,"TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_000_024","以完成青魔道士記錄為目的攻略任務時，<hex:02100103>請勿解除人數限制，一定要按規定人數進行攻略。"
+12,"TEXT_CTSETCAOZLATOOLJA_00652_LATOOLJA_000_040","「青魔道士記錄」中、有一種被稱為「每週目標」的任務，<hex:02100103>該目標、會指定一些特別、需要進行記錄的「危險地帶」。<hex:02100103>報酬也比普通任務、要高不少、請你積極挑戰。"
+13,"TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_000_041","完成「每週目標」中指定的任務，<hex:02100103>即可獲得比通常更多的報酬。"
+14,"TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_000_042","此外還存在一種需要攻略高難度任務的「特別任務」，<hex:02100103>不過獲得的報酬也會進一步增加。"
+15,"TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_100_043","每週目標指定的任務將於每週<hex:020603120303><hex:02093ADDFF07>週日<hex:FF07>週一<hex:FF07>週二<hex:FF07>週三<hex:FF07>週四<hex:FF07>週五<hex:FF07>週六<hex:03>的<hex:020821DBFF1D><hex:020919DB02030405060708090A0B0C0D0E0F10111213141516171803><hex:0103>點（地球時間）更新。"

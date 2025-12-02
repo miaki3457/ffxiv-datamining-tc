@@ -1,5 +1,6 @@
 ﻿key,0,1
 #,,
+offset,2,0
 int32,byte,uint16
 0,0,0
 1,0,5

@@ -1,75 +1,40 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_000","음…… 모험가로군.
-만약 이슈가르드에서 행패를 부리면 용서치 않겠다……."
-1,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_001","음…… 모험가로군.
-이슈가르드의 은인인 귀공에게
-성도의 문은 언제나 활짝 열려있다……."
-2,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_002","음…… 이런 긴급 상황에서도 물어볼 게 있나?"
-3,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_003","이게 누군가! 사룡을 죽인 영웅님 아니신가!
-이슈가르드의 은인인 귀공에게
-성도의 문은 언제나 활짝 열려있다……."
-4,"TEXT_REGROC2ARCOFTHEWORTHY_00277_Q1_000_000","무엇을 물어보시겠습니까?"
-5,"TEXT_REGROC2ARCOFTHEWORTHY_00277_A1_000_001","당신의 이야기를 들려달라고 한다"
-6,"TEXT_REGROC2ARCOFTHEWORTHY_00277_A1_000_002","여기는 어떤 곳인지 물어본다"
-7,"TEXT_REGROC2ARCOFTHEWORTHY_00277_A1_000_003","취소"
-8,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_010","나는 교황청 직속 '신전기사단'의 일원이다.
-대심판의 문과 구름길을 지나 성도의 현관인
-이곳 '성도의 문'을 지키고 있지."
-9,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_011","드래곤족의 습격으로 부상당한 기병도 많지만
-여기는 이슈가르드를 지키는 최후의 보루이니만큼
-목숨을 바쳐서라도 지켜낼 셈이다."
-10,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_012","물론 성도에는 드래곤족과의 전투에 특화된
-'용기사단'의 정예병이 대기하고 있으니……
-이 이슈가르드가 쉽게 함락되는 일은 없을 것이다."
-11,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_100","나는 교황청 직속 '신전기사단'의 일원이다.
-대심판의 문과 구름길을 지나 성도의 현관인
-이곳 '성도의 문'을 지키고 있지."
-12,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_101","여기는 이슈가르드를 지키는 최후의 보루이다.
-아직 드래곤족의 위협이 완전히 사라진 것은 아니니
-한시라도 방비를 소홀히 해서는 안 되겠지."
-13,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_102","물론 성도에는 드래곤족과의 전투에 특화된
-'용기사단'의 정예병이 대기하고 있으니……
-이 이슈가르드가 쉽게 함락되는 일은 없을 것이다."
-14,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_110","나는 교황청 직속 '신전기사단'의 일원이다.
-성도의 현관인 이곳 '성도의 문'을 지키고 있지."
-15,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_111","여기는 이슈가르드를 지키는 최후의 보루이다.
-무슨 수를 써서라도 사수해야만 한다!"
-16,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_300","나는 교황청 직속 '신전기사단'의 일원이다.
-성도의 현관인 이곳 '성도의 문'을 지키고 있지."
-17,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_301","여기는 이슈가르드를 지키는 최후의 보루이다.
-사룡의 졸개들이 몰려왔을 때도
-한 발도 물러서지 않고 끝까지 싸워냈지."
-18,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_302","물론 아군도 큰 피해를 입었지만,
-'용기사단'의 정예병들이 달려와 준 덕분에
-나는 구사일생으로 살아남을 수 있었다."
-19,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_020","산악도시 이슈가르드의 현관에 해당하는 '성도의 문'이다.
-예로부터 적대해온 드래곤족의 공격을 막기 위해
-불철주야 눈을 부릅뜨고 경비에 임하고 있다."
-20,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_021","이슈가르드는 크게 '상층'과 '하층'으로 나뉘며,
-성도의 문이 있는 이곳은 '하층'에 해당된다.
-그 밖에도 여관과 주점, 신전기사단 본부 등의 시설이 존재하지."
-21,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_022","너희 모험가들도 이들 시설을 자주 이용하게 되겠지만……
-성도에는 외지인이 돌아다니는 걸 싫어하는 주민들도 많다.
-자기 주제를 잘 파악하고 행동하도록……."
-22,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_200","산악도시 이슈가르드의 현관에 해당하는 '성도의 문'이다.
-예로부터 적대해온 드래곤족의 공격을 막기 위해
-불철주야 눈을 부릅뜨고 경비에 임하고 있다."
-23,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_201","이슈가르드는 크게 '상층'과 '하층'으로 나뉘며,
-성도의 문이 있는 이곳은 '하층'에 해당된다.
-그 밖에도 여관과 주점, 신전기사단 본부 등의 시설이 존재하지."
-24,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_202","귀공 같은 모험가들도 이들 시설을 자주 이용하게 되겠지만……
-진실을 알고도 외지인을 싫어하는 자들도 적지 않다.
-그들이 무례한 태도를 보이더라도 너그럽게 봐주기 바란다."
-25,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000","（★未使用／削除予定★）"
-26,"TEXT_REGROC2ARCOFTHEWORTHY_00277_SCENE00000Q","（★未使用／削除予定★）"
-27,"TEXT_REGROC2ARCOFTHEWORTHY_00277_SCENE00000A1","（★未使用／削除予定★）"
-28,"TEXT_REGROC2ARCOFTHEWORTHY_00277_SCENE00000A2","（★未使用／削除予定★）"
-29,"TEXT_REGROC2ARCOFTHEWORTHY_00277_SCENE00000A3","（★未使用／削除予定★）"
-30,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_010","（★未使用／削除予定★）"
-31,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_011","（★未使用／削除予定★）"
-32,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_012","（★未使用／削除予定★）"
-33,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_020","（★未使用／削除予定★）"
-34,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_021","（★未使用／削除予定★）"
-35,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_022","（★未使用／削除予定★）"
+0,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_000","……嗯，是冒險者啊。<hex:02100103>你要是敢在伊修加爾德鬧事，小心吃不完兜著走……"
+1,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_001","……嗯，是冒險者啊。<hex:02100103>你是我們的恩人，皇都的大門時刻為你敞開……"
+2,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_002","……嗯，在這種緊張局勢之下，<hex:02100103>你還有想要問我的？"
+3,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_003","這不是殺死邪龍的英雄嗎！<hex:02100103>你是我們的恩人，皇都的大門時刻為你敞開……"
+4,"TEXT_REGROC2ARCOFTHEWORTHY_00277_Q1_000_000","想了解什麼？"
+5,"TEXT_REGROC2ARCOFTHEWORTHY_00277_A1_000_001","你是做什麼的？"
+6,"TEXT_REGROC2ARCOFTHEWORTHY_00277_A1_000_002","這裡是什麼地方？"
+7,"TEXT_REGROC2ARCOFTHEWORTHY_00277_A1_000_003","取消"
+8,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_010","我是教皇廳直屬神殿騎士團的一員，<hex:02100103>負責守衛皇都的大門……也就是從大審門穿過雲廊的「聖徒門」。"
+9,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_011","因受到龍族的襲擊，負傷的騎兵人數眾多，<hex:02100103>不過這裡是守護伊修加爾德的最後的要塞……<hex:02100103>不會那麼輕易被突破的。"
+10,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_012","畢竟皇都中駐守著龍騎士團的精銳們，<hex:02100103>他們掌握著特殊的對龍戰鬥技巧……<hex:02100103>我們伊修加爾德是不會那麼簡單就屈服的。"
+11,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_100","我是教皇廳直屬神殿騎士團的一員，<hex:02100103>負責守衛皇都的大門……也就是從大審門穿過雲廊的「聖徒門」。"
+12,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_101","這裡是守護伊修加爾德的最後的要塞……<hex:02100103>龍族的威脅並未消散……<hex:02100103>所以在防守上依然不可大意。"
+13,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_102","畢竟皇都中駐守著龍騎士團的精銳們，<hex:02100103>他們掌握著特殊的對龍戰鬥技巧……<hex:02100103>我們伊修加爾德是不會那麼簡單就屈服的。"
+14,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_110","我是教皇廳直屬神殿騎士團的一員，<hex:02100103>負責守衛皇都的大門……也就是這「聖徒門」。"
+15,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_111","這裡是守衛伊修加爾德的最後的要塞……<hex:02100103>說什麼也要死守下去！"
+16,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_300","我是教皇廳直屬神殿騎士團的一員，<hex:02100103>負責守衛皇都的大門……也就是這「聖徒門」。"
+17,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_301","這裡是守衛伊修加爾德的最後的要塞……<hex:02100103>即使在大量邪龍眷屬襲來的時候，<hex:02100103>我們也沒有退縮，與它們奮戰到了最後。"
+18,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_302","當然，同伴中也出現了大量死傷，<hex:02100103>不過，還好有龍騎士團的精銳們及時趕到。<hex:02100103>真可謂是九死一生。"
+19,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_020","這裡是山岳之都伊修加爾德的大門——聖徒門。<hex:02100103>為了阻擋自古以來便處於敵對關係的龍族的攻擊，<hex:02100103>這裡展開了最嚴密的警戒，進行防備。"
+20,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_021","伊修加爾德基本可以分為上下兩層，<hex:02100103>聖徒門所在的是「下層」。<hex:02100103>這裡還配備有旅店、酒館等設施，神殿騎士團的總部也在這一層。"
+21,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_022","雖然有不少設施可以給像你這樣的冒險者提供方便，<hex:02100103>不過也有很多人不喜歡外來者大搖大擺地在城裡走來走去。<hex:02100103>所以你最好還是認清自己的立場再進行活動吧……"
+22,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_200","這裡是山岳之都伊修加爾德的大門——聖徒門。<hex:02100103>為了阻擋自古以來便處於敵對關係的龍族的攻擊，<hex:02100103>這裡展開了最嚴密的警戒，進行防備。"
+23,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_201","伊修加爾德基本可以分為上下兩層，<hex:02100103>聖徒門所在的是「下層」。<hex:02100103>這裡還配備有旅店、酒館等設施，神殿騎士團的總部也在這一層。"
+24,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_202","雖然有不少設施可以給像你這樣的冒險者提供方便，<hex:02100103>不過也有很多人不喜歡外來者大搖大擺地在城裡走來走去。<hex:02100103>如果有人對你的態度惡劣，還請你不要在意……"
+25,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000","（未使用/預計刪除）"
+26,"TEXT_REGROC2ARCOFTHEWORTHY_00277_SCENE00000Q","（未使用/預計刪除）"
+27,"TEXT_REGROC2ARCOFTHEWORTHY_00277_SCENE00000A1","（未使用/預計刪除）"
+28,"TEXT_REGROC2ARCOFTHEWORTHY_00277_SCENE00000A2","（未使用/預計刪除）"
+29,"TEXT_REGROC2ARCOFTHEWORTHY_00277_SCENE00000A3","（未使用/預計刪除）"
+30,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_010","（未使用/預計刪除）"
+31,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_011","（未使用/預計刪除）"
+32,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_012","（未使用/預計刪除）"
+33,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_020","（未使用/預計刪除）"
+34,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_021","（未使用/預計刪除）"
+35,"TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_022","（未使用/預計刪除）"

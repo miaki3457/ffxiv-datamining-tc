@@ -1,18 +1,19 @@
 ﻿key,0,1,2,3
 #,,,,
+offset,0,4,8,12
 int32,str,int32,int32,byte
 0,"",0,0,0
-1,"PvP팀 [<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>]<13>FF1A020816E909FF1002280CFF074F626A537472E9090103EB0403FF04EAB080FF04EC9DB4</13> 등록되었습니다.",0,1,0
-2,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 가입했습니다.",2,0,0
-3,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 탈퇴했습니다.",2,0,0
-4,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 탈퇴했습니다.",2,0,0
+1,"戰隊“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”成立了。",0,1,0
+2,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>加入了戰隊。",2,0,0
+3,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>退出了戰隊。",2,0,0
+4,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>退出了戰隊。",2,0,0
 5,"",2,0,0
 6,"",2,0,0
-7,"팀 이름이 [<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>]<14>FF1A020816E909FF1002280CFF074F626A537472E9090103EB0403FF04EBA19CFF07EC9CBCEBA19C</14> 변경되었습니다.",0,1,0
-8,"팀 문장이 변경되었습니다.",0,0,0
-9,"팀이 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If> 등급으로 승급되었습니다.",0,3,0
-10,"팀이 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If> 등급으로 강등되었습니다.",0,3,0
-11,"새로운 시즌이 시작되었습니다.",0,0,0
-12,"일정 기간 동안 팀장이 접속하지 않아 팀장 권한이 <If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님에게 위임되었습니다.",2,0,0
-13,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 부팀장으로 임명되었습니다.",2,0,0
-14,"팀장 권한이 <If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님에게 위임되었습니다.",2,0,0
+7,"戰隊名已被修改為“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”。",0,1,0
+8,"戰隊徽章已變更。",0,0,0
+9,"戰隊段位已升至“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”。",0,3,0
+10,"戰隊段位已降至“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”。",0,3,0
+11,"新的賽季開始了。",0,0,0
+12,"因為隊長已經離開一定期間，<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>被任命為戰隊隊長。",2,0,0
+13,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>被任命為戰隊副隊長。",2,0,0
+14,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>被移交了戰隊隊長職務。",2,0,0

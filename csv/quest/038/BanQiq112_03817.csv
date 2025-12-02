@@ -1,11 +1,9 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_BANQIQ112_03817_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
-
-호파루의 소반에 있는 코테루리 파소리는 때를 벗겨내고 싶은 듯하다."
-1,"TEXT_BANQIQ112_03817_SEQ_01","코테루리 파소리에게 의뢰받은 물건을 납품"
+0,"TEXT_BANQIQ112_03817_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整（限定職業）<hex:0249020103><hex:0248020103><hex:02100103>※本任務需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>霍啪櫨古盤的柯呫盧利·帕嗦利想要清洗污漬。"
+1,"TEXT_BANQIQ112_03817_SEQ_01","將柯呫盧利·帕嗦利委託的物品交給她"
 2,"TEXT_BANQIQ112_03817_SEQ_02",""
 3,"TEXT_BANQIQ112_03817_SEQ_03",""
 4,"TEXT_BANQIQ112_03817_SEQ_04",""
@@ -28,7 +26,7 @@ int32,str,str
 21,"TEXT_BANQIQ112_03817_SEQ_21",""
 22,"TEXT_BANQIQ112_03817_SEQ_22",""
 23,"TEXT_BANQIQ112_03817_SEQ_23",""
-24,"TEXT_BANQIQ112_03817_TODO_00","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>투시 메키타 호수의 물속 바위터에서 <Sheet(Item,IntegerParameter(5),0)/> 캐기<Else/>코테루리 파소리에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>투시 메키타 호수의 물속 약초밭에서 <Sheet(Item,IntegerParameter(5),0)/> 채집<Else/>코테루리 파소리에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>투시 메키타 호수의 물속에서 <Sheet(Item,IntegerParameter(5),0)/> 작살질<Else/>코테루리 파소리에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If>"
+24,"TEXT_BANQIQ112_03817_TODO_00","<hex:0208F20154E4E80511FF69><hex:020865E3E802E803FF2F>在蛇水湖的水下石場採取<hex:02280AFF05>Item<hex:E8060103><hex:FF2E>將<hex:02280AFF05>Item<hex:E8060103>交給柯呫盧利·帕嗦利<hex:03><hex:FFF0E3><hex:0208F0DEE4E80512FF69><hex:020865E3E802E803FF2F>在蛇水湖的水下草場採取<hex:02280AFF05>Item<hex:E8060103><hex:FF2E>將<hex:02280AFF05>Item<hex:E8060103>交給柯呫盧利·帕嗦利<hex:03><hex:FF6F><hex:02086BE4E80513FF63><hex:02085FE3E802E803FF29>在蛇水湖的水下刺取<hex:02280AFF05>Item<hex:E8060103><hex:FF2E>將<hex:02280AFF05>Item<hex:E8060103>交給柯呫盧利·帕嗦利<hex:03><hex:FF01><hex:03><hex:03><hex:03>"
 25,"TEXT_BANQIQ112_03817_TODO_01",""
 26,"TEXT_BANQIQ112_03817_TODO_02",""
 27,"TEXT_BANQIQ112_03817_TODO_03",""
@@ -52,36 +50,15 @@ int32,str,str
 45,"TEXT_BANQIQ112_03817_TODO_21",""
 46,"TEXT_BANQIQ112_03817_TODO_22",""
 47,"TEXT_BANQIQ112_03817_TODO_23",""
-48,"TEXT_BANQIQ112_03817_QHOTERLPASOL_000_000","정말 해도 해도 너무하지 뭐여요~.
-대원들이 탐색에 나갔다 돌아오면
-옷에 묻은 흙먼지와 냄새가 너무나 심하답니다~!"
-49,"TEXT_BANQIQ112_03817_QHOTERLPASOL_000_001","키타리족은 청결을 중시하고 있사와요~.
-그런 먼지투성이 모습은 가엽기 그지없답니다~."
-50,"TEXT_BANQIQ112_03817_QHOTERLPASOL_000_010","다들 깨끗하게 씻을 수 있도록 투시 메키타 호수의 물속에서
-'<Sheet(Item,29526,0)/>'<13>FF0F02280BFF054974656DF273560103FF04EBA5BCFF04EC9D84</13> 3개 정도
-구해서 가져다 주시어요~."
-51,"TEXT_BANQIQ112_03817_QHOTERLPASOL_000_020","다들 깨끗하게 씻을 수 있도록 투시 메키타 호수의 물속에서
-'<Sheet(Item,29552,0)/>'<13>FF0F02280BFF054974656DF273700103FF04EBA5BCFF04EC9D84</13> 3개 정도
-구해서 가져다 주시어요~."
-52,"TEXT_BANQIQ112_03817_QHOTERLPASOL_000_030","다들 깨끗하게 씻을 수 있도록 투시 메키타 호수의 물속에서
-'<Sheet(Item,29578,0)/>'<13>FF0F02280BFF054974656DF2738A0103FF04EBA5BCFF04EC9D84</13> 잡아서 가져다 주시어요~.
-아마 작살질로 잡을 수 있을 거예요~."
-53,"TEXT_BANQIQ112_03817_SYSTEM_100_040","이 퀘스트를 진행하기 위해서는
-퀘스트 '작살질을 해보자'를 완료하여
-'작살질'을 개방해야 합니다."
-54,"TEXT_BANQIQ112_03817_QHOTERLPASOL_000_040","다들 깨끗하게 씻을 수 있도록 투시 메키타 호수의 물속에서
-'<Sheet(Item,29526,0)/>'<13>FF0F02280BFF054974656DF273560103FF04EBA5BCFF04EC9D84</13> 3개 정도
-구해서 가져다 주시어요~."
-55,"TEXT_BANQIQ112_03817_QHOTERLPASOL_000_050","다들 깨끗하게 씻을 수 있도록 투시 메키타 호수의 물속에서
-'<Sheet(Item,29552,0)/>'<13>FF0F02280BFF054974656DF273700103FF04EBA5BCFF04EC9D84</13> 3개 정도
-구해서 가져다 주시어요~."
-56,"TEXT_BANQIQ112_03817_QHOTERLPASOL_000_060","다들 깨끗하게 씻을 수 있도록 투시 메키타 호수의 물속에서
-'<Sheet(Item,29578,0)/>'<13>FF0F02280BFF054974656DF2738A0103FF04EBA5BCFF04EC9D84</13> 잡아서 가져다 주시어요~.
-아마 작살질로 잡을 수 있을 거예요~."
-57,"TEXT_BANQIQ112_03817_QHOTERLPASOL_000_070","탐색 후의 지저분한 모습은 도저히 봐줄 수가 없사와요~!
-의뢰드린 물건은 모아 오셨나요~?"
-58,"TEXT_BANQIQ112_03817_QHOTERLPASOL_000_080","감사드려요~.
-이게 있으면 묵은 때도 말끔하게 씻어내고
-몸도 마음도 개운해질 거예요~!"
-59,"TEXT_BANQIQ112_03817_QHOTERLPASOL_000_081","자, 그럼 먼저 가장 지저분한 남편과 우리 아이를
-귀 끝부터 발톱 끝까지 뽀득뽀득 씻기겠사와요~!"
+48,"TEXT_BANQIQ112_03817_QHOTERLPASOL_000_000","真是的，太過分了！<hex:02100103>要說什麼過分，那肯定是探索回來的人們<hex:02100103>身上的污漬與臭味是也！"
+49,"TEXT_BANQIQ112_03817_QHOTERLPASOL_000_001","奇塔利族喜歡乾淨。<hex:02100103>那種滿身是泥的樣子，太可憐了是也。"
+50,"TEXT_BANQIQ112_03817_QHOTERLPASOL_000_010","為了幫大家去除污漬，就麻煩爾去<hex:02100103>蛇水湖的水下採取3個<hex:02280BFF05>Item<hex:F273560103>了。<hex:02100103>拜託了是也。"
+51,"TEXT_BANQIQ112_03817_QHOTERLPASOL_000_020","為了幫大家去除污漬，就麻煩爾去<hex:02100103>蛇水湖的水下採取3個<hex:02280BFF05>Item<hex:F273700103>了。<hex:02100103>拜託了是也。"
+52,"TEXT_BANQIQ112_03817_QHOTERLPASOL_000_030","為了幫大家去除污漬，就麻煩爾去<hex:02100103>蛇水湖的水下抓<hex:02280BFF05>Item<hex:F2738A0103>了是也。<hex:02100103>據說得用刺魚才能抓到。"
+53,"TEXT_BANQIQ112_03817_SYSTEM_100_040","若訣竅取或繼續推進本任務，<hex:02100103>需完成任務「刺魚的方法」開放刺魚。"
+54,"TEXT_BANQIQ112_03817_QHOTERLPASOL_000_040","為了幫大家去除污漬，就麻煩爾去<hex:02100103>蛇水湖的水下採取3個<hex:02280BFF05>Item<hex:F273560103>了。<hex:02100103>拜託了是也。"
+55,"TEXT_BANQIQ112_03817_QHOTERLPASOL_000_050","為了幫大家去除污漬，就麻煩爾去<hex:02100103>蛇水湖的水下採取3個<hex:02280BFF05>Item<hex:F273700103>了。<hex:02100103>拜託了是也。"
+56,"TEXT_BANQIQ112_03817_QHOTERLPASOL_000_060","為了幫大家去除污漬，就麻煩爾去<hex:02100103>蛇水湖的水下抓<hex:02280BFF05>Item<hex:F2738A0103>了是也。<hex:02100103>據說得用刺魚才能抓到。"
+57,"TEXT_BANQIQ112_03817_QHOTERLPASOL_000_070","完全忍受不了探索回來後的骯髒樣子是也！<hex:02100103>爾拿到某想要的東西了嗎？"
+58,"TEXT_BANQIQ112_03817_QHOTERLPASOL_000_080","非常感謝。<hex:02100103>這下再頑固的污漬也能去除掉了，<hex:02100103>心情肯定會變得很舒暢是也。"
+59,"TEXT_BANQIQ112_03817_QHOTERLPASOL_000_081","好了，某得先去幫最髒的丈夫和兒子去除污漬才行，<hex:02100103>從頭到腳，要好好清理一遍才行是也。"

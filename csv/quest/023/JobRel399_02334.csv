@@ -1,5 +1,6 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
 0,"TEXT_JOBREL399_02334_SEQ_00",""
 1,"TEXT_JOBREL399_02334_SEQ_01",""
@@ -49,56 +50,30 @@ int32,str,str
 45,"TEXT_JOBREL399_02334_TODO_21",""
 46,"TEXT_JOBREL399_02334_TODO_22",""
 47,"TEXT_JOBREL399_02334_TODO_23",""
-48,"TEXT_JOBREL399_02334_SYSTEM_000_000","퀘스트 '인조 정령 재조정'에서는
-아니마 웨폰에 분배한 능력치를
-다시 조정할 수 있습니다."
-49,"TEXT_JOBREL399_02334_SYSTEM_000_001","재조정은 현재 장비하고 있는
-아니마 웨폰으로 진행됩니다."
-50,"TEXT_JOBREL399_02334_SYSTEM_000_002","<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>의 아니마 웨폰 능력치를
-재조정하시겠습니까?"
-51,"TEXT_JOBREL399_02334_Q1_000_000","<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>의 아니마 웨폰을 재조정하시겠습니까?"
-52,"TEXT_JOBREL399_02334_A1_000_001","조금 더 고민해본다"
-53,"TEXT_JOBREL399_02334_A2_000_002","<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>의 아니마 웨폰을 재조정한다"
-54,"TEXT_JOBREL399_02334_SYSTEM_000_003","아니마 웨폰의 능력치를 재조정하려면
-조정하고 싶은 아니마 웨폰을 장비한 다음
-울란과 대화하십시오."
-55,"TEXT_JOBREL399_02334_SYSTEM_100_003","아니마 웨폰의 능력치를 재조정하려면
-조정하고 싶은 아니마 웨폰의 검과 방패를 함께 장비하고
-울란과 대화하십시오."
-56,"TEXT_JOBREL399_02334_SYSTEM_000_004","아니마 웨폰의 능력치를 재조정하려면
-조정하고 싶은 아니마 웨폰을 장비한 다음
-울란과 대화하십시오."
-57,"TEXT_JOBREL399_02334_SYSTEM_100_004","아니마 웨폰의 능력치를 재조정하려면
-조정하고 싶은 아니마 웨폰의 검과 방패를 함께 장비하고
-울란과 대화하십시오."
-58,"TEXT_JOBREL399_02334_ULAN_000_000","안녕, <Highlight>ObjectParameter(1)</Highlight>.
-인조 정령의 능력을 조정하고 싶다고?"
-59,"TEXT_JOBREL399_02334_ULAN_000_001","좋아, 도와줄게.
-재조정을 진행하려면 지금까지 인조 정령이 얻은 능력을
-일단 지울 필요가 있어……."
-60,"TEXT_JOBREL399_02334_ULAN_000_002","없앤 능력만큼 새로 <Sheet(Item,15841,0)/><13>FF0F02280BFF054974656DF23DE10103FF04EBA5BCFF04EC9D84</13> 줘서
-다시 능력을 끌어올리는 거야."
-61,"TEXT_JOBREL399_02334_ULAN_000_003","여기까지 성장한 인조 정령이라면
-조정하지 않은 <Sheet(Item,15841,0)/>도 먹을 수 있을 테니까
-이제 따로 <Sheet(Item,15840,0)/><13>FF0F02280BFF054974656DF23DE00103FF04EBA5BCFF04EC9D84</13> 준비할 필요는 없어."
-62,"TEXT_JOBREL399_02334_ULAN_000_007","자, 바로 인조 정령을 재조정해 볼까?"
-63,"TEXT_JOBREL399_02334_Q1_000_020","무엇을 하시겠습니까?"
-64,"TEXT_JOBREL399_02334_A1_000_021","인조 정령 재조정"
-65,"TEXT_JOBREL399_02334_A2_000_022","<Sheet(Item,15841,0)/> 교환"
-66,"TEXT_JOBREL399_02334_A3_000_023","설명 듣기"
-67,"TEXT_JOBREL399_02334_A4_000_024","취소"
-68,"TEXT_JOBREL399_02334_ULAN_000_010","음? <Sheet(Item,15841,0)/><13>FF0F02280BFF054974656DF23DE10103FF04EBA5BCFF04EC9D84</13> 안 가지고 있구나.
-필요하다면 내가 구하는 물건을 모아오렴."
-69,"TEXT_JOBREL399_02334_ULAN_000_030","인조 정령의 능력을 재조정하려면
-지금까지 얻은 능력을 일단 지울 필요가 있어…….
-필요하다면 내가 조치할 테니, 말만 해."
-70,"TEXT_JOBREL399_02334_ULAN_000_031","그런 다음 <Sheet(Item,15841,0)/><13>FF0F02280BFF054974656DF23DE10103FF04EBA5BCFF04EC9D84</13> 다시 먹이면 돼.
-지금까지 했던 것처럼, 내가 구하는 물건을 모아오면
-얼마든지 제공해주지."
-71,"TEXT_JOBREL399_02334_ULAN_000_032","아, 참고로 앞으로는 <Sheet(Item,15840,0)/><13>FF0F02280BFF054974656DF23DE00103FF04EAB080FF04EC9DB4</13> 필요 없어.
-그대로 섭취해도 될 만큼 충분히 성장했거든."
-72,"TEXT_JOBREL399_02334_Q1_000_030","인조 정령 재조정을 마치시겠습니까?"
-73,"TEXT_JOBREL399_02334_ULAN_000_050","수고했어.
-나중에 또 인조 정령의 능력을 조정하고 싶으면 내게 말해."
-74,"TEXT_JOBREL399_02334_SYSTEM_000_006","<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>의 아니마 웨폰의 능력이
-재조정되었습니다."
+48,"TEXT_JOBREL399_02334_SYSTEM_000_000","選擇「重新調整人造聖靈」選項，<hex:02100103>可以對聖靈武器的屬性進行重新分配。"
+49,"TEXT_JOBREL399_02334_SYSTEM_000_001","重新調整對象為目前裝備的聖靈武器。"
+50,"TEXT_JOBREL399_02334_SYSTEM_000_002","確定要對<hex:020837E3E94509FF12><hex:02280EFF09>ClassJob<hex:E9450103><hex:FF1E><hex:02081AE1E94513FF12><hex:02280EFF09>ClassJob<hex:E9450103><hex:FF01><hex:03><hex:03>聖靈武器的屬性進行重新調整嗎？"
+51,"TEXT_JOBREL399_02334_Q1_000_000","是否重新調整<hex:020837E3E94509FF12><hex:02280EFF09>ClassJob<hex:E9450103><hex:FF1E><hex:02081AE1E94513FF12><hex:02280EFF09>ClassJob<hex:E9450103><hex:FF01><hex:03><hex:03>的聖靈武器？"
+52,"TEXT_JOBREL399_02334_A1_000_001","再考慮一下"
+53,"TEXT_JOBREL399_02334_A2_000_002","重新調整<hex:020837E3E94509FF12><hex:02280EFF09>ClassJob<hex:E9450103><hex:FF1E><hex:02081AE1E94513FF12><hex:02280EFF09>ClassJob<hex:E9450103><hex:FF01><hex:03><hex:03>的聖靈武器"
+54,"TEXT_JOBREL399_02334_SYSTEM_000_003","裝備上想要重新調整的聖靈武器後與烏蘭對話，<hex:02100103>即可對聖靈武器進行重新調整。"
+55,"TEXT_JOBREL399_02334_SYSTEM_100_003","裝備上想要重新調整的聖靈武器劍與配套的盾後與烏蘭對話，<hex:02100103>即可對聖靈武器進行重新調整。"
+56,"TEXT_JOBREL399_02334_SYSTEM_000_004","請先將想要進行重新調整的聖靈武器裝備上，<hex:02100103>再和烏蘭對話。"
+57,"TEXT_JOBREL399_02334_SYSTEM_100_004","請先將想要進行重新調整的聖靈武器劍與配套的盾裝備上，<hex:02100103>再和烏蘭對話。"
+58,"TEXT_JOBREL399_02334_ULAN_000_000","呀，<hex:022903EB0203>。<hex:02100103>你想對人造聖靈的能力進行調整？"
+59,"TEXT_JOBREL399_02334_ULAN_000_001","好的，我可以幫你。<hex:02100103>不過若想重新調整，需要將人造聖靈之前獲得的能力抹消掉。"
+60,"TEXT_JOBREL399_02334_ULAN_000_002","消失的能力需要透過重新餵食<hex:02280BFF05>Item<hex:F23DE10103>，<hex:02100103>令能力再一次成長起來。"
+61,"TEXT_JOBREL399_02334_ULAN_000_003","不過人造聖靈畢竟已經經歷過一次成長，<hex:02100103>所以可以直接攝取經調整前的<hex:02280BFF05>Item<hex:F23DE10103>。<hex:02100103>你就不再需要準備<hex:02280BFF05>Item<hex:F23DE00103>了。"
+62,"TEXT_JOBREL399_02334_ULAN_000_007","準備好的話，就讓我們快點開始進行重新調整吧！"
+63,"TEXT_JOBREL399_02334_Q1_000_020","要做什麼？"
+64,"TEXT_JOBREL399_02334_A1_000_021","重新調整人造聖靈"
+65,"TEXT_JOBREL399_02334_A2_000_022","交換<hex:02280BFF05>Item<hex:F23DE10103>"
+66,"TEXT_JOBREL399_02334_A3_000_023","聽取說明"
+67,"TEXT_JOBREL399_02334_A4_000_024","取消"
+68,"TEXT_JOBREL399_02334_ULAN_000_010","哎呀，你身上沒有<hex:02280BFF05>Item<hex:F23DE10103>了。<hex:02100103>想要的話就拿我需要的東西來換吧。"
+69,"TEXT_JOBREL399_02334_ULAN_000_030","若想重新調整人造聖靈的能力，<hex:02100103>需要將人造聖靈之前獲得的能力抹消掉……<hex:02100103>下定決心後你可以來找我幫你弄。"
+70,"TEXT_JOBREL399_02334_ULAN_000_031","之後，只需要再餵食<hex:02280BFF05>Item<hex:F23DE10103>就行了。<hex:02100103>你拿來我需要的那些東西，多少我都可以提供給你。"
+71,"TEXT_JOBREL399_02334_ULAN_000_032","啊對了，調整時就不再需要<hex:02280BFF05>Item<hex:F23DE00103>了。<hex:02100103>畢竟人造聖靈已經經歷過成長，<hex:02100103>現在可以直接攝取這種程度的<hex:02280BFF05>Item<hex:F23DE10103>乙太。"
+72,"TEXT_JOBREL399_02334_Q1_000_030","要結束對人造聖靈的重新調整嗎？"
+73,"TEXT_JOBREL399_02334_ULAN_000_050","辛苦了。<hex:02100103>又想調整人造聖靈的能力時還可以來找我。"
+74,"TEXT_JOBREL399_02334_SYSTEM_000_006","<hex:020837E3E94509FF12><hex:02280EFF09>ClassJob<hex:E9450103><hex:FF1E><hex:02081AE1E94513FF12><hex:02280EFF09>ClassJob<hex:E9450103><hex:FF01><hex:03><hex:03>的聖靈武器已重新調整完畢。"

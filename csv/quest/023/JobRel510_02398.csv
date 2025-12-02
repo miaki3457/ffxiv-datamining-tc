@@ -1,10 +1,11 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_JOBREL510_02398_SEQ_00","자동인형은 움직이지 않고 가만히 있다."
-1,"TEXT_JOBREL510_02398_SEQ_01","아르다시르가 로웨나를 불러달라고 부탁했다. 이딜샤이어에 있는 '로웨나'에게 말을 걸자."
-2,"TEXT_JOBREL510_02398_SEQ_02","로웨나가 먼저 돌아가라고 했다. 퀘스트 수락 시점의 직업으로 '아니마 웨폰'을 소지하거나 장비하고 아지스 라 '나선 발착장'에 있는 '아르다시르'에게 말을 걸자."
-3,"TEXT_JOBREL510_02398_SEQ_03","오래된 영혼석으로 제작한 '또 다른 인조 정령의 몸'을 아르다시르에게 받았다. 인조 정령과 함께 미지의 모험을 떠나보자."
+0,"TEXT_JOBREL510_02398_SEQ_00","停止的機關人偶靜靜癱在那裡。"
+1,"TEXT_JOBREL510_02398_SEQ_01","阿爾達希爾拜託冒險者把羅薇娜叫來。前往田園郡和羅薇娜談談。"
+2,"TEXT_JOBREL510_02398_SEQ_02","羅薇娜讓冒險者先返回螺旋港。使用接受任務時的職業並將聖靈武器裝備上或放在兵裝庫、背包中，和阿濟茲拉螺旋港的阿爾達希爾談談。"
+3,"TEXT_JOBREL510_02398_SEQ_03","阿爾達希爾將使用舊魂石製作的人造聖靈的另一個身體交給了冒險者。和人造聖靈一起踏上新的冒險之旅。"
 4,"TEXT_JOBREL510_02398_SEQ_04",""
 5,"TEXT_JOBREL510_02398_SEQ_05",""
 6,"TEXT_JOBREL510_02398_SEQ_06",""
@@ -25,9 +26,8 @@ int32,str,str
 21,"TEXT_JOBREL510_02398_SEQ_21",""
 22,"TEXT_JOBREL510_02398_SEQ_22",""
 23,"TEXT_JOBREL510_02398_SEQ_23",""
-24,"TEXT_JOBREL510_02398_TODO_00","이딜샤이어에서 로웨나와 대화"
-25,"TEXT_JOBREL510_02398_TODO_01","<If(Equal(IntegerParameter(4),19))><Sheet(Item,15251,0)/><13>FF0F02280BFF054974656DF23B930103FF04EC9980FF04EAB3BC</13> <Sheet(Item,15264,0)/><13>FF0F02280BFF054974656DF23BA00103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),20))><Sheet(Item,15252,0)/><13>FF0F02280BFF054974656DF23B940103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),21))><Sheet(Item,15253,0)/><13>FF0F02280BFF054974656DF23B950103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),22))><Sheet(Item,15254,0)/><13>FF0F02280BFF054974656DF23B960103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),23))><Sheet(Item,15255,0)/><13>FF0F02280BFF054974656DF23B970103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),24))><Sheet(Item,15259,0)/><13>FF0F02280BFF054974656DF23B9B0103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),25))><Sheet(Item,15260,0)/><13>FF0F02280BFF054974656DF23B9C0103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),27))><Sheet(Item,15261,0)/><13>FF0F02280BFF054974656DF23B9D0103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),28))><Sheet(Item,15262,0)/><13>FF0F02280BFF054974656DF23B9E0103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),30))><Sheet(Item,15256,0)/><13>FF0F02280BFF054974656DF23B980103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),31))><Sheet(Item,15258,0)/><13>FF0F02280BFF054974656DF23B9A0103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),32))><Sheet(Item,15257,0)/><13>FF0F02280BFF054974656DF23B990103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),33))><Sheet(Item,15263,0)/><13>FF0F02280BFF054974656DF23B9F0103FF04EBA5BCFF04EC9D84</13> <Else/></If></If></If></If></If></If></If></If></If></If></If></If></If>소지하거나 장비하고
-나선 발착장에서 아르다시르와 대화"
+24,"TEXT_JOBREL510_02398_TODO_00","和田園郡的羅薇娜對話"
+25,"TEXT_JOBREL510_02398_TODO_01","攜帶或裝備<hex:0208F2016EE4E80514FF20><hex:02280BFF05>Item<hex:F23B930103>與<hex:02280BFF05>Item<hex:F23BA00103><hex:FFF20145><hex:0208F2013FE4E80515FF0F><hex:02280BFF05>Item<hex:F23B940103><hex:FFF20127><hex:0208F20121E4E80516FF0F><hex:02280BFF05>Item<hex:F23B950103><hex:FFF20109><hex:0208F20103E4E80517FF0F><hex:02280BFF05>Item<hex:F23B960103><hex:FFF0EC><hex:0208F0E7E4E80518FF0F><hex:02280BFF05>Item<hex:F23B970103><hex:FFF0D0><hex:0208CDE4E80519FF0F><hex:02280BFF05>Item<hex:F23B9B0103><hex:FFB7><hex:0208B3E4E8051AFF0F><hex:02280BFF05>Item<hex:F23B9C0103><hex:FF9D><hex:020899E4E8051CFF0F><hex:02280BFF05>Item<hex:F23B9D0103><hex:FF83><hex:02087FE4E8051DFF0F><hex:02280BFF05>Item<hex:F23B9E0103><hex:FF69><hex:020865E4E8051FFF0F><hex:02280BFF05>Item<hex:F23B980103><hex:FF4F><hex:02084BE4E80520FF0F><hex:02280BFF05>Item<hex:F23B9A0103><hex:FF35><hex:020831E4E80521FF0F><hex:02280BFF05>Item<hex:F23B990103><hex:FF1B><hex:020817E4E80522FF0F><hex:02280BFF05>Item<hex:F23B9F0103><hex:FF01><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:02100103>和螺旋港的阿爾達希爾對話"
 26,"TEXT_JOBREL510_02398_TODO_02",""
 27,"TEXT_JOBREL510_02398_TODO_03",""
 28,"TEXT_JOBREL510_02398_TODO_04",""
@@ -50,119 +50,52 @@ int32,str,str
 45,"TEXT_JOBREL510_02398_TODO_21",""
 46,"TEXT_JOBREL510_02398_TODO_22",""
 47,"TEXT_JOBREL510_02398_TODO_23",""
-48,"TEXT_JOBREL510_02398_SYSTEM_000_001","<Sheet(Item,IntegerParameter(1),0)/> 및
-<Sheet(Item,IntegerParameter(2),0)/><13>FF0E02280AFF054974656DE8030103FF04EBA5BCFF04EC9D84</13> 소지하거나 장비하지 않으면
-퀘스트 '연구를 마무리하며'를 수락할 수 없습니다."
-49,"TEXT_JOBREL510_02398_SYSTEM_000_002","<Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13>
-소지하거나 장비하지 않으면
-퀘스트 '연구를 마무리하며'를 수락할 수 없습니다."
-50,"TEXT_JOBREL510_02398_ARDASHIR_100_001","<Highlight>ObjectParameter(1)</Highlight> 님, 좀 쉬셨나요?"
-51,"TEXT_JOBREL510_02398_ARDASHIR_200_001","후훗, 역시 궁금하신 모양이군요.
-하지만 아직 조정이 다 끝나지 않았으니
-그게 뭔지는 나중에 알려드릴게요."
-52,"TEXT_JOBREL510_02398_ARDASHIR_000_001","제가 조정하는 동안,
-<Highlight>ObjectParameter(1)</Highlight> 님께 부탁드릴 일이 있습니다."
-53,"TEXT_JOBREL510_02398_ARDASHIR_100_002","지금까지 연구를 지원해주신 로웨나 님께
-성과를 알려드리고 싶은데, 링크셸로 연락이 안 돼서요……."
-54,"TEXT_JOBREL510_02398_ARDASHIR_000_002","죄송하지만 이딜샤이어에 가서
-'로웨나' 님을 여기로 모셔와 주시겠어요?"
-55,"TEXT_JOBREL510_02398_ARDASHIR_000_003","번거로우시겠지만,
-<Highlight>ObjectParameter(1)</Highlight> 님께도 나쁠 건 없으니……
-부탁 좀 드릴게요!"
-56,"TEXT_JOBREL510_02398_SYSTEM_000_010","반응이 없다…….
-아직 아르다시르가 조정 중인 모양이다."
-57,"TEXT_JOBREL510_02398_ROWENA_000_010","어머, <Highlight>ObjectParameter(1)</Highlight>.
-아니마 웨폰 연구는 잘 돼가고 있어?"
-58,"TEXT_JOBREL510_02398_ROWENA_000_011","그래? 드디어 연구가 끝났구나.
-알았어, 아르다시르한테 가볼게.
-난 중요한 거래가 있어서 나중에 갈 테니까, 먼저 가 있어."
-59,"TEXT_JOBREL510_02398_ARDASHIR_100_020","오셨군요, <Highlight>ObjectParameter(1)</Highlight> 님!
-죄송하지만…… 제가 만든 대작을 공개하려면
-새로운 그릇으로 이식한 아니마 웨폰이 필요합니다."
-60,"TEXT_JOBREL510_02398_ARDASHIR_100_021","번거로우시겠지만
-<Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EC9980FF04EAB3BC</13>
-<Sheet(Item,IntegerParameter(2),0)/><13>FF0E02280AFF054974656DE8030103FF04EBA5BCFF04EC9D84</13> 가지고 와주세요!"
-61,"TEXT_JOBREL510_02398_ARDASHIR_200_020","번거로우시겠지만
-<Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 가지고 와주세요!"
-62,"TEXT_JOBREL510_02398_SYSTEM_000_020","<Sheet(Item,IntegerParameter(1),0)/> 및
-<Sheet(Item,IntegerParameter(2),0)/><13>FF0E02280AFF054974656DE8030103FF04EBA5BCFF04EC9D84</13> 소지하거나 장비하지 않으면
-퀘스트 '연구를 마무리하며'를 수락할 수 없습니다."
-63,"TEXT_JOBREL510_02398_SYSTEM_000_021","<Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13>
-소지하거나 장비하지 않으면
-퀘스트 '연구를 마무리하며'를 수락할 수 없습니다."
-64,"TEXT_JOBREL510_02398_SYSTEM_000_022","무기를 버린 경우,
-퀘스트 '연구를 마무리하며'를 포기한 후
-다시 무기를 창조해야 합니다."
-65,"TEXT_JOBREL510_02398_SYSTEM_000_023","무기를 버린 경우,
-퀘스트 '연구를 마무리하며'를 포기한 후
-다시 무기를 창조해야 합니다."
-66,"TEXT_JOBREL510_02398_ARDASHIR_000_020","그럼 로웨나 님을 기다리는 동안…….
-방금 막 완성한 제 걸작을 받으십시오!"
-67,"TEXT_JOBREL510_02398_ARDASHIR_000_021","이것은 오래된 영혼석을 이용해 만든
-인조 정령의 '또 다른 몸'입니다!
-……우선 인조 정령을 불러내 주시겠어요?"
-68,"TEXT_JOBREL510_02398_BUKINOSEIREI_000_022","주인님, 부르셨어요?
-……어머, 이 몸은…….
-실체화된 환체에 딱 맞네요!"
-69,"TEXT_JOBREL510_02398_BUKINOSEIREI_000_023","주인님, 무슨 일이십니까?
-……음, 이 몸은…….
-실체화된 환체에 딱 맞는군요!"
-70,"TEXT_JOBREL510_02398_ARDASHIR_000_024","인조 정령은 무기 안에서만 살아갈 수 있습니다.
-하지만 당신이 앞으로 여행을 계속하다 보면
-그 무기를 계속 쓸 수 없게 될지도 모르죠."
-71,"TEXT_JOBREL510_02398_ARDASHIR_000_025","그럴 때 이 몸을 가지고 있으면
-무기가 없더라도 인조 정령을 당신 곁에 둘 수 있어요."
-72,"TEXT_JOBREL510_02398_ARDASHIR_000_026","이 '또 다른 몸'은 제가 드리는 선물이에요.
-앞으로 <Highlight>ObjectParameter(1)</Highlight> 님에게 더 큰 힘이 되어주세요."
-73,"TEXT_JOBREL510_02398_BUKINOSEIREI_000_027","……물론이지요!
-주인님이 원한다면 항상 곁에 있을 거예요."
-74,"TEXT_JOBREL510_02398_BUKINOSEIREI_000_028","물론입니다.
-주인님이 원한다면 항상 곁에 있겠습니다."
-75,"TEXT_JOBREL510_02398_ROWENA_000_029","어머, 무슨 이야기를 그렇게 재미있게 하고 있어?"
-76,"TEXT_JOBREL510_02398_ROWENA_000_030","<Highlight>ObjectParameter(1)</Highlight>한테 들었어.
-……그 아이가 인조 정령이니?"
-77,"TEXT_JOBREL510_02398_BUKINOSEIREI_000_031","처음 뵙겠습니다. 저는 <Highlight>ObjectParameter(1)</Highlight>의 '단짝'이에요."
-78,"TEXT_JOBREL510_02398_BUKINOSEIREI_000_032","만나서 반갑습니다. 저는 <Highlight>ObjectParameter(1)</Highlight>의 '단짝'입니다."
-79,"TEXT_JOBREL510_02398_ARDASHIR_000_033","어떻습니까, 로웨나 님. 정말 멋지죠?
-무기에 깃들어 파트너로서 주인을 돕는 인조 정령……
-이것이 저희가 만들어낸 새로운 마법 생물입니다!"
-80,"TEXT_JOBREL510_02398_ROWENA_000_034","……흐음.
-잘 키우면 말 잘 듣는 인조 정령이 생긴다는 거구나……."
-81,"TEXT_JOBREL510_02398_ROWENA_000_035","이거 좋은 값에 거래할 수 있겠는데……."
-82,"TEXT_JOBREL510_02398_ROWENA_000_036","후훗…… 막대한 자금을 투자한 보람이 있었어.
-앞으로는 실용화를 향해 노력해주렴."
-83,"TEXT_JOBREL510_02398_ARDASHIR_000_037","<Highlight>ObjectParameter(1)</Highlight> 님과 게롤트 님께 받은
-수많은 가르침을 가슴에 새기고, 반드시 해내고 말겠습니다!"
-84,"TEXT_JOBREL510_02398_ARDASHIR_000_038","……그래서 말인데,
-저와 계속 붙어서 일할 수 있는 무기 장인을 찾으러
-잠시 고향에 돌아가려고 해요!"
-85,"TEXT_JOBREL510_02398_GEROLT_000_039","그래, 제발 좀 그래라!
-나도 이제 너 같은 꼬마놈 뒷바라지하기 지겹다.
-빚도 다 갚았으니, 코스타 델 솔에나 가서……."
-86,"TEXT_JOBREL510_02398_ROWENA_000_040","말 나온 김에 얘기하는데……
-당신…… 빚이 늘었어."
-87,"TEXT_JOBREL510_02398_GEROLT_000_041","………………뭐!?
-계약 내용이랑 다르잖아!
-연구가 끝났으니 내 빚은 다 사라진 거 아냐!?"
-88,"TEXT_JOBREL510_02398_ROWENA_000_042","물론, 지금까지 진 빚은 탕감해줄게.
-하지만…… 아르다시르랑 연구를 시작한 후로 발생한
-쓸데없는 교통비나 술값까지 경비로 처리해줄 수는 없어."
-89,"TEXT_JOBREL510_02398_ROWENA_000_043","펑펑 써댄 돈은 한 푼도 남김없이 받아낼 테니 그리 알아.
-참, 아르다시르의 '인조 정령 실용화'에 협조한다면
-액수를 조금은 줄여줄 수도 있지만……."
-90,"TEXT_JOBREL510_02398_ROWENA_000_044","그럼 난 다른 손님이랑 약속이 있어서 가볼게.
-다음에 봐, <Highlight>ObjectParameter(1)</Highlight>, 아르다시르."
-91,"TEXT_JOBREL510_02398_GEROLT_000_045","그럼 앞으로도 힘을 합쳐서 잘해 보자꾸나!
-좋지? 아르다시르!!"
-92,"TEXT_JOBREL510_02398_ARDASHIR_000_046","됐습니다.
-저는 고주망태 말고 성실한 무기 장인을 알아볼래요."
-93,"TEXT_JOBREL510_02398_GEROLT_000_047","그래? 그럼 결정된 거다.
-오늘부터 당분간 술을 끊을 테니까!
-앞으로도 잘 부탁하마!"
-94,"TEXT_JOBREL510_02398_ARDASHIR_000_048","잠깐, 뭘 혼자 결정하고 있어요?!
-꼬마놈은 지겹다면서요!
-어휴, 술 냄새 나니까 저리 좀 가요……!!"
-95,"TEXT_JOBREL510_02398_BUKINOSEIREI_000_049","……주인님, 슬슬 떠나지 않으실래요?
-미지의 새로운 모험을 향해……."
-96,"TEXT_JOBREL510_02398_BUKINOSEIREI_000_050","……주인님, 슬슬 떠나는 게 어떻습니까?
-미지의 새로운 모험을 향해……."
+48,"TEXT_JOBREL510_02398_SYSTEM_000_001","要接受任務「研究結束」，<hex:02100103>需持有或裝備上<hex:02280AFF05>Item<hex:E8020103>與<hex:02280AFF05>Item<hex:E8030103>。"
+49,"TEXT_JOBREL510_02398_SYSTEM_000_002","要接受任務「研究結束」，<hex:02100103>需持有或裝備上<hex:02280AFF05>Item<hex:E8020103>。"
+50,"TEXT_JOBREL510_02398_ARDASHIR_100_001","<hex:022903EB0203>，你休息好了嗎？"
+51,"TEXT_JOBREL510_02398_ARDASHIR_200_001","哈哈，你果然很在意這個吧。<hex:02100103>不過它還沒有最終調整完畢。<hex:02100103>究竟是什麼呢，請容我先賣個關子。"
+52,"TEXT_JOBREL510_02398_ARDASHIR_000_001","在我進行調整的這段時間裡，<hex:02100103>我想請你幫我一個小忙。"
+53,"TEXT_JOBREL510_02398_ARDASHIR_100_002","是這樣的，我想要向一直以來<hex:02100103>出資援助我們研究的羅薇娜女士進行報告。<hex:02100103>但她的通訊貝卻接不通……"
+54,"TEXT_JOBREL510_02398_ARDASHIR_000_002","不好意思，能請你去一趟田園郡，<hex:02100103>將羅薇娜女士叫過來嗎？"
+55,"TEXT_JOBREL510_02398_ARDASHIR_000_003","真是麻煩你了，<hex:02100103>不過我保證這次對你來說一定不會是件壞事，<hex:02100103>拜託了！"
+56,"TEXT_JOBREL510_02398_SYSTEM_000_010","沒有反應……<hex:02100103>阿爾達希爾還在進行調整。"
+57,"TEXT_JOBREL510_02398_ROWENA_000_010","啊，<hex:022903EB0203>。<hex:02100103>聖靈武器的研究有什麼進展了嗎？"
+58,"TEXT_JOBREL510_02398_ROWENA_000_011","哦？研究終於結束了呀。<hex:02100103>我知道了，一會我去阿爾達希爾那邊一趟。<hex:02100103>你先回去吧，我還有個重要的生意要談。"
+59,"TEXT_JOBREL510_02398_ARDASHIR_100_020","歡迎回來，<hex:022903EB0203>！<hex:02100103>不好意思，展示我的作品需要用到移植了新魂石的真聖靈武器。"
+60,"TEXT_JOBREL510_02398_ARDASHIR_100_021","請你將<hex:02280AFF05>Item<hex:E8020103>和<hex:02280AFF05>Item<hex:E8030103>帶來吧！"
+61,"TEXT_JOBREL510_02398_ARDASHIR_200_020","請你將<hex:02280AFF05>Item<hex:E8020103>帶來吧！"
+62,"TEXT_JOBREL510_02398_SYSTEM_000_020","需持有或裝備上<hex:02280AFF05>Item<hex:E8020103>與<hex:02280AFF05>Item<hex:E8030103>，<hex:02100103>才能進行任務「研究結束」。"
+63,"TEXT_JOBREL510_02398_SYSTEM_000_021","需持有或裝備上<hex:02280AFF05>Item<hex:E8020103>，<hex:02100103>才能進行任務「研究結束」。"
+64,"TEXT_JOBREL510_02398_SYSTEM_000_022","如果武器已被捨棄，<hex:02100103>請先放棄任務「研究結束」，然後再鑄聖靈武器。"
+65,"TEXT_JOBREL510_02398_SYSTEM_000_023","如果武器已被捨棄，<hex:02100103>請先放棄任務「研究結束」，然後再鑄聖靈武器。"
+66,"TEXT_JOBREL510_02398_ARDASHIR_000_020","在羅薇娜女士到來前，<hex:02100103>我就先將剛剛完成的作品交給你吧！"
+67,"TEXT_JOBREL510_02398_ARDASHIR_000_021","這是用舊魂石製作的人造聖靈的「另一副軀體」！<hex:02100103>能請你先將人造聖靈叫出來嗎？"
+68,"TEXT_JOBREL510_02398_BUKINOSEIREI_000_022","主人你叫我嗎？<hex:02100103>咦，這個身體和幻體好合！"
+69,"TEXT_JOBREL510_02398_BUKINOSEIREI_000_023","主人有什麼事？<hex:02100103>啊，這個身體……<hex:02100103>幻體進來時完全沒有不順暢感？！"
+70,"TEXT_JOBREL510_02398_ARDASHIR_000_024","人造聖靈只能在武器中生存，<hex:02100103>所以在今後的旅途中，<hex:02100103>肯定也會遇到人造聖靈無法與你相伴的情況。"
+71,"TEXT_JOBREL510_02398_ARDASHIR_000_025","但只要你帶著人造聖靈的這具身體，<hex:02100103>那就算沒有武器，人造聖靈也可以陪在你身邊了。"
+72,"TEXT_JOBREL510_02398_ARDASHIR_000_026","這「另一副軀體」是我送給你的禮物。<hex:02100103>今後請繼續在背後支援<hex:02080DE905FF04>她<hex:FF04>他<hex:03>吧。"
+73,"TEXT_JOBREL510_02398_BUKINOSEIREI_000_027","那還用說！<hex:02100103>只要主人不趕我走，我絕對不會離開主人半步。"
+74,"TEXT_JOBREL510_02398_BUKINOSEIREI_000_028","嗯，當然。<hex:02100103>只要主人同意，我願意一直陪在主人身邊。"
+75,"TEXT_JOBREL510_02398_ROWENA_000_029","你們聊得很開心嘛。"
+76,"TEXT_JOBREL510_02398_ROWENA_000_030","<hex:022903EB0203>已經都告訴我了，<hex:02100103>這孩子就是人造聖靈吧？"
+77,"TEXT_JOBREL510_02398_BUKINOSEIREI_000_031","初次見面，我是<hex:022903EB0203>的搭檔。"
+78,"TEXT_JOBREL510_02398_BUKINOSEIREI_000_032","初次見面，我是<hex:022903EB0203>的搭檔。"
+79,"TEXT_JOBREL510_02398_ARDASHIR_000_033","怎麼樣，羅薇娜女士，是不是很棒？<hex:02100103>寄宿在武器中為主人提供支援的人造聖靈……<hex:02100103>這就是我們的研究成果——魔法生物的新存在形式！"
+80,"TEXT_JOBREL510_02398_ROWENA_000_034","原來如此……<hex:02100103>能夠培養出順從的人造聖靈啊……"
+81,"TEXT_JOBREL510_02398_ROWENA_000_035","看起來很有賺頭……"
+82,"TEXT_JOBREL510_02398_ROWENA_000_036","不錯不錯，看來我的巨額投資沒有白費。<hex:02100103>今後就請朝確實用化的方向繼續努力吧。"
+83,"TEXT_JOBREL510_02398_ARDASHIR_000_037","我會牢記與<hex:022903EB0203>和蓋羅爾特先生合作時學到的東西，<hex:02100103>盡全力讓實用化產品面世！"
+84,"TEXT_JOBREL510_02398_ARDASHIR_000_038","為此，我打算回故鄉一趟，<hex:02100103>找一個專門協助我進行研究的武具工匠回來。"
+85,"TEXT_JOBREL510_02398_GEROLT_000_039","嗯嗯，去吧去吧！<hex:02100103>總算不用繼續陪著這臭小鬼了。<hex:02100103>現在一屁股債也都還清了，我就上太陽海岸好好……"
+86,"TEXT_JOBREL510_02398_ROWENA_000_040","關於這件事……<hex:02100103>你的債務，又增加了。"
+87,"TEXT_JOBREL510_02398_GEROLT_000_041","……哈？！<hex:02100103>這和說好的不一樣啊！<hex:02100103>不是說研究結束後我欠的錢都一筆勾銷嗎？！"
+88,"TEXT_JOBREL510_02398_ROWENA_000_042","當然，之前你欠的錢都可以一筆勾銷。<hex:02100103>但你和阿爾達希爾開始研究後花的那些多餘的交通費、酒錢，<hex:02100103>這可都不會算在研究經費裡面。"
+89,"TEXT_JOBREL510_02398_ROWENA_000_043","你花了多少，就得還我多少。<hex:02100103>不過呢，如果你幫阿爾達希爾進行人造聖靈實用化的研究，<hex:02100103>我倒是可以稍微少收你一點……"
+90,"TEXT_JOBREL510_02398_ROWENA_000_044","好了，我還有其他生意要談，先回去了。<hex:02100103><hex:022903EB0203>、阿爾達希爾，拜拜。"
+91,"TEXT_JOBREL510_02398_GEROLT_000_045","我們今後也要攜起手來、一起努力才是啊！<hex:02100103>你說是不是這樣呢，阿爾達希爾！！"
+92,"TEXT_JOBREL510_02398_ARDASHIR_000_046","心領了。<hex:02100103>我打算去找個不喝酒的武具工匠。"
+93,"TEXT_JOBREL510_02398_GEROLT_000_047","好，那就這麼決定了！<hex:02100103>從今天開始我要暫時禁酒！<hex:02100103>今後我也會多多關照你的！"
+94,"TEXT_JOBREL510_02398_ARDASHIR_000_048","喂，不要擅自決定呀！<hex:02100103>你不是討厭臭小鬼嗎？！<hex:02100103>哎呀，別往我這噴酒氣，臭死了！！"
+95,"TEXT_JOBREL510_02398_BUKINOSEIREI_000_049","主人，我們差不多該出發了吧？<hex:02100103>新的冒險在等著我們。"
+96,"TEXT_JOBREL510_02398_BUKINOSEIREI_000_050","主人，我們出發吧？<hex:02100103>新的冒險在等著我們。"

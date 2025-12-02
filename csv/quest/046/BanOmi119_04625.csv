@@ -1,12 +1,10 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_BANOMI119_04625_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
-
-리서치 A4에 있는 스티그마-4는 전달하고 싶은 의뢰가 있는 듯하다."
-1,"TEXT_BANOMI119_04625_SEQ_01","물건을 기다리는 이아에게 의뢰받은 물건 납품"
-2,"TEXT_BANOMI119_04625_SEQ_02","스티그마-4에게 보고"
+0,"TEXT_BANOMI119_04625_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整（限定職業）<hex:0249020103><hex:0248020103><hex:02100103>※本任務需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>A4調查平臺的斯提格瑪四有事想要委託冒險者。"
+1,"TEXT_BANOMI119_04625_SEQ_01","將委託物品交給等待物品的異亞"
+2,"TEXT_BANOMI119_04625_SEQ_02","向斯提格瑪四報告"
 3,"TEXT_BANOMI119_04625_SEQ_03",""
 4,"TEXT_BANOMI119_04625_SEQ_04",""
 5,"TEXT_BANOMI119_04625_SEQ_05",""
@@ -28,8 +26,8 @@ int32,str,str
 21,"TEXT_BANOMI119_04625_SEQ_21",""
 22,"TEXT_BANOMI119_04625_SEQ_22",""
 23,"TEXT_BANOMI119_04625_SEQ_23",""
-24,"TEXT_BANOMI119_04625_TODO_00","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>엘리시온의 해양 구획에서 <Sheet(Item,IntegerParameter(5),0)/> 캐기<Else/>이아 마을에 있는 물건을 기다리는 이아에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>엘리시온의 해양 구획에서 <Sheet(Item,IntegerParameter(5),0)/> 채집<Else/>이아 마을에 있는 물건을 기다리는 이아에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>엘리시온의 해양 구획에서 <Sheet(Item,IntegerParameter(5),0)/> 낚기<Else/>이아 마을에 있는 물건을 기다리는 이아에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If>"
-25,"TEXT_BANOMI119_04625_TODO_01","스티그마-4에게 보고"
+24,"TEXT_BANOMI119_04625_TODO_00","<hex:0208F20175E4E80511FF73><hex:02086FE3E802E803FF2C>在至福樂土海洋區採集<hex:02280AFF05>Item<hex:E8060103><hex:FF3B>將<hex:02280AFF05>Item<hex:E8060103>交給異亞村落的等待物品的異亞<hex:03><hex:FFF0FA><hex:0208F0F5E4E80512FF73><hex:02086FE3E802E803FF2C>在至福樂土海洋區採集<hex:02280AFF05>Item<hex:E8060103><hex:FF3B>將<hex:02280AFF05>Item<hex:E8060103>交給異亞村落的等待物品的異亞<hex:03><hex:FF7C><hex:020878E4E80513FF70><hex:02086CE3E802E803FF29>在至福樂土海洋區釣<hex:02280AFF05>Item<hex:E8060103><hex:FF3B>將<hex:02280AFF05>Item<hex:E8060103>交給異亞村落的等待物品的異亞<hex:03><hex:FF01><hex:03><hex:03><hex:03>"
+25,"TEXT_BANOMI119_04625_TODO_01","向斯提格瑪四報告"
 26,"TEXT_BANOMI119_04625_TODO_02",""
 27,"TEXT_BANOMI119_04625_TODO_03",""
 28,"TEXT_BANOMI119_04625_TODO_04",""
@@ -52,32 +50,18 @@ int32,str,str
 45,"TEXT_BANOMI119_04625_TODO_21",""
 46,"TEXT_BANOMI119_04625_TODO_22",""
 47,"TEXT_BANOMI119_04625_TODO_23",""
-48,"TEXT_BANOMI119_04625_STIGMA4_000_000","이아족으로부터 카페 '라스트 렘넌트'로 요청 연락.
-추천 해산물이 있으면 시도해보고 싶다고 함.
-이전에 유성 새우를 먹고 감명을 받았기 때문인 것으로 추측."
-49,"TEXT_BANOMI119_04625_STIGMA4_000_001","본 요청에 따라, 본 기체가 제공할 식재료를 선정했다.
-동맹자 <Highlight>ObjectParameter(1)</Highlight>에게 조달을 부탁한다."
-50,"TEXT_BANOMI119_04625_STIGMA4_000_002","엘리시온의 해양 구획에서 '<Sheet(Item,38292,0)/>'<13>FF0F02280BFF054974656DF295940103FF04EBA5BCFF04EC9D84</13> 채집해,
-이아 마을에 있는 '물건을 기다리는 이아'에게 배달할 것."
-51,"TEXT_BANOMI119_04625_STIGMA4_000_003","엘리시온의 해양 구획에서 '<Sheet(Item,38316,0)/>'<13>FF0F02280BFF054974656DF295AC0103FF04EBA5BCFF04EC9D84</13> 채집해,
-이아 마을에 있는 '물건을 기다리는 이아'에게 배달할 것."
-52,"TEXT_BANOMI119_04625_STIGMA4_000_004","엘리시온의 해양 구획에서 '<Sheet(Item,38340,0)/>'<13>FF0F02280BFF054974656DF295C40103FF04EBA5BCFF04EC9D84</13> 채집해,
-이아 마을에 있는 '물건을 기다리는 이아'에게 배달할 것.
-채집 시에는 <Sheet(Item,36588,0)/> 사용을 추천."
-53,"TEXT_BANOMI119_04625_STIGMA4_000_005","（★未使用／削除予定★）"
-54,"TEXT_BANOMI119_04625_STIGMA4_000_006","（★未使用／削除予定★）"
-55,"TEXT_BANOMI119_04625_STIGMA4_000_007","（★未使用／削除予定★）"
-56,"TEXT_BANOMI119_04625_EA04625_000_010","오오, 혹시 부탁한 걸 가져와 주었나?"
-57,"TEXT_BANOMI119_04625_EA04625_000_011","우와, 이것도 참 흥미로운 식재료구만……!
-고마워."
-58,"TEXT_BANOMI119_04625_EA04625_000_012","유성 새우 맛에 감동했다는 동료의 이야기를 듣고
-나도 신호 전달로 맛을 봤다가 그만 푹 빠져 버렸어."
-59,"TEXT_BANOMI119_04625_EA04625_000_013","새우만으로는 성에 안 차서, 다른 해산물에도 관심이 생겼지.
-이번엔 이 식재료의 맛을 신호 전달로 체험해볼게."
-60,"TEXT_BANOMI119_04625_STIGMA4_000_020","동맹자의 귀환을 확인.
-임무의 결과 보고를 요구……."
-61,"TEXT_BANOMI119_04625_STIGMA4_000_021","이아족에게 받은 의뢰는 달성한 것으로 판단.
-동맹자 <Highlight>ObjectParameter(1)</Highlight>의 협력을 높이 평가한다."
-62,"TEXT_BANOMI119_04625_STIGMA4_000_022","그들의 미각에 대한 관심이 점점 늘고 있음.
-추가로 수천 종류의 미각 데이터 수집이 필요할 것으로 추측.
-동맹자에게 협력 의뢰를 할 예정이니, 잠시 휴식을 취하기 바란다."
+48,"TEXT_BANOMI119_04625_STIGMA4_000_000","有異亞族向背世咖啡廳發來了請求。<hex:02100103>對方表示如果有推薦的海產品的話，希望能有機會嘗試一下。<hex:02100103>本機推測大概是因為對方以前食用流星蝦時留下了深刻印象。"
+49,"TEXT_BANOMI119_04625_STIGMA4_000_001","本機接受了這一請求，並選定了需要提供的食材。<hex:02100103>想請同盟者<hex:022903EB0203>幫忙進行籌備。"
+50,"TEXT_BANOMI119_04625_STIGMA4_000_002","請前往至福樂土海洋區採集<hex:02280BFF05>Item<hex:F295940103>，<hex:02100103>並交給異亞村落的等待物品的異亞。"
+51,"TEXT_BANOMI119_04625_STIGMA4_000_003","請前往至福樂土海洋區採集<hex:02280BFF05>Item<hex:F295AC0103>，<hex:02100103>並交給異亞村落的等待物品的異亞。"
+52,"TEXT_BANOMI119_04625_STIGMA4_000_004","請前往至福樂土海洋區採集<hex:02280BFF05>Item<hex:F295C40103>，<hex:02100103>並交給異亞村落的等待物品的異亞。<hex:02100103>採集時推薦使用<hex:02280BFF05>Item<hex:F28EEC0103>。"
+53,"TEXT_BANOMI119_04625_STIGMA4_000_005",""
+54,"TEXT_BANOMI119_04625_STIGMA4_000_006",""
+55,"TEXT_BANOMI119_04625_STIGMA4_000_007",""
+56,"TEXT_BANOMI119_04625_EA04625_000_010","哦哦，難道你把我委託的東西帶來了嗎？"
+57,"TEXT_BANOMI119_04625_EA04625_000_011","這食材還真是有意思！<hex:02100103>謝謝啦。"
+58,"TEXT_BANOMI119_04625_EA04625_000_012","我是聽同伴說對流星蝦的味道印象深刻，<hex:02100103>而自己也透過訊號傳遞品嚐到了這種味道，結果就上癮了。"
+59,"TEXT_BANOMI119_04625_EA04625_000_013","現在僅僅是蝦已經無法滿足我了，我對其他海產品也產生了興趣。<hex:02100103>這次我想透過訊號傳遞體驗一下味道。"
+60,"TEXT_BANOMI119_04625_STIGMA4_000_020","確認同盟者已返回。<hex:02100103>請報告任務結果……"
+61,"TEXT_BANOMI119_04625_STIGMA4_000_021","判定來自異亞族的委託已完成。<hex:02100103>對同盟者<hex:022903EB0203>的協助給予高度評價。"
+62,"TEXT_BANOMI119_04625_STIGMA4_000_022","異亞族對於味覺的興趣有擴大的傾向。<hex:02100103>因此本機推測接下來還需要收集數千種味覺數據。<hex:02100103>今後還會對同盟者發出很多協助委託，請好好休息，養精蓄銳。"

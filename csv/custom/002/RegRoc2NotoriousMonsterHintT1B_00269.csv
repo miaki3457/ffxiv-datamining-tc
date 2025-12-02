@@ -1,58 +1,29 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_000_000","드래곤족과 싸울 거라면 끝까지 방심하지 마.
-놈들은 머리가 아주 좋은 데다 교활하기까지 하거든."
-1,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_000_001","어머, 혹시 너…… 드래곤족을 사냥하러
-'드라바니아 구름바다'로 가려는 거야?
-잘됐네, 그럼 내가 좋은 걸 알려줄게."
-2,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_Q1_000_000","무엇을 물어보시겠습니까?"
-3,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_A1_000_001","B급: 우아한 노룡 '스키탈리스'에 대해서"
-4,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_A1_000_002","B급: 포악한 책략가 '허수아비전갈'에 대해서"
-5,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_A1_000_003","A급: 이단의 도망자 '부네'에 대해서"
-6,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_A1_000_004","A급: 검은 날개의 마룡 '아가토스'에 대해서"
-7,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_A1_000_005","S급: 사교의 교주 '간다르바'에 대해서 물어본다"
-8,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_A1_000_006","취소"
-9,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_000_010","비룡 와이번은 나이를 먹어 진화를 계속하다 보면
-비행에 적합하게 몸이 점점 매끄러운 형태로 변해가고,
-최종적으로는 뿔까지 사라져버리지."
-10,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_000_011","그런 장로 와이번 중에서 정예 마물로 지정된 놈이 있어.
-어떤 귀족이 부탁을 해서 그런데
-아들의 원수를 갚고 싶다나 뭐라나……."
-11,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_000_012","매끄럽고 아름다운 비늘을 가져서
-'스키탈리스'라는 별명이 붙은 녀석이래."
-12,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_000_020","영봉 솜 알을 조사하기 위해 파견된
-신전기사단 정찰대가 실종된 사건이 있었어.
-며칠 뒤, 추가로 파견된 수색대가 발견한 건……."
-13,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_000_021","용의 졸개인 식초전갈용의 시체와 그 앞에 서 있는 기사였어.
-그런데 생존자를 찾았다고 수색대원이 들떠서 다가간 순간
-쓰러져있던 식초전갈용이 벌떡 일어나서 덤벼들었다고 해."
-14,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_000_022","살해한 기병의 시체를 이용해서 수색대를 유인한 거지.
-이 교활한 졸개는 사냥을 끝내고 영봉 쪽으로 도망갔어…….
-지금쯤 아마 드라바니아 구름바다에 있을 거야."
-15,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_000_030","이단자는 대부분이 평민 출신이지만, 가끔 귀족인 경우도 있어.
-어떤 남성 귀족이 명문 귀족의 당주인 자기 부인을 이용해
-장기간에 걸쳐 신전기사단의 정보를 빼돌린 사건이 있었지."
-16,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_000_031","심지어 그 남자는 정보 수집을 끝내자
-'용의 피'를 마시고 드래곤족 졸개로 변했어.
-가족을 죽여서 증거를 인멸하기 위해……."
-17,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_000_032","다행히 신전기사단의 활약으로 최악의 사태는 면했지만
-졸개가 된 남자는 성도에서 달아나 모습을 감추었대.
-살아남은 그의 부인이 토벌을 요청해왔어."
-18,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_000_040","광장의 이름에도 사용된 성 발루아양이란 사람은
-약 200년 전에 실제로 존재했던 '푸른 용기사'야."
-19,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_000_041","그는 엄청난 실력을 자랑하는 용기사였지만
-격전 끝에 유일하게 놓친 용이 한 마리 있어…….
-바로 검은 날개의 마룡이라 불리는 '아가토스'야."
-20,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_000_042","최근 들어 드라바니아 상공을 날아다니는
-아가토스를 봤다는 사냥꾼이 있어서 화제가 되고 있어.
-전설에 종지부를 찍을 절호의 기회가 아닐까?"
-21,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_000_050","지금부터 약 500년 전에 어떤 사이비 종교가
-성도 뒷골목에서 유행한 적이 있었어."
-22,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_000_051","근동의 문화를 도입한 그 사이비 종교는
-특수한 꽃으로 만든 향과 묘한 금속으로 만든 제기를 사용하는
-기괴한 의식을 여러차례 거행했다고 해."
-23,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_000_052","결국 신전기사단에 적발되어 교단은 소탕되었지만
-'간다르바'라고 하는 교주는 혼자 영봉으로 도망친 모양이야.
-……드래곤족 졸개가 되어서 말이야."
-24,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_TALK_ACTOR","（★未使用／削除予定★）"
+0,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_000_000","和龍族戰鬥的話絕對不可大意。<hex:02100103>因為那些傢伙真的很聰明，而且很狡猾。"
+1,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_000_001","哎呀，你難道是……要去傳說中的德拉瓦尼亞雲海狩獵龍族嗎？<hex:02100103>那我可以告訴你一些有價值的情報。"
+2,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_Q1_000_000","想了解什麼？"
+3,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_A1_000_001","關於B級怪物：優雅老龍——斯奇塔利斯"
+4,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_A1_000_002","關於B級怪物：暴虐策略家——驚慌稻草龍"
+5,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_A1_000_003","關於A級怪物：異端逃亡者——布涅"
+6,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_A1_000_004","關於A級怪物：黑翼魔龍——阿伽托斯"
+7,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_A1_000_005","關於S級怪物：邪教教主——乾闥婆"
+8,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_A1_000_006","取消"
+9,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_000_010","雙足飛龍會隨著年齡的增長持續進化，<hex:02100103>然後會不斷進化成適合飛行的流暢形態。<hex:02100103>最後連角都會消失。"
+10,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_000_011","兵團接到某個貴族的委託，<hex:02100103>將這古老雙足飛龍作為危險標的怪物通緝。<hex:02100103>據說那個貴族是為了替自己的兒子報仇……"
+11,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_000_012","因為那條龍的鱗片光滑而優雅，<hex:02100103>所以被叫做「斯奇塔利斯」。"
+12,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_000_020","前去探查索姆阿爾靈峰情況的神殿騎士團偵察隊，<hex:02100103>在前往山麓後便行蹤不明。<hex:02100103>數日後，追派的搜索隊發現了……"
+13,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_000_021","龍族的眷屬醋蠍龍的屍體，以及站在它面前的騎士。<hex:02100103>但是，當搜索隊因發現倖存者而欣喜上前時，<hex:02100103>醋蠍龍突然站了起來，襲擊了搜索隊。"
+14,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_000_022","原來它是利用被殘殺的騎兵，把搜索隊引誘過去。<hex:02100103>這狡猾的眷屬在攻擊完搜索隊之後，向靈峰方向逃去了……<hex:02100103>現在恐怕正在德拉瓦尼亞雲海吧。"
+15,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_000_030","異端者大多都是平民出身，不過其中也有貴族。<hex:02100103>某個男性貴族利用身為名門貴族女主人的妻子，<hex:02100103>長年獲取騎士團的情報。"
+16,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_000_031","這個男人在收集完情報後，竟然喝下了龍血，<hex:02100103>變成了龍族的眷屬。<hex:02100103>然後為了毀滅證據，竟要殺害家人。"
+17,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_000_032","幸虧有神殿騎士團出手，事態才沒有向最糟糕的方向發展。<hex:02100103>但變成眷屬的男人逃出了皇都。<hex:02100103>提出討伐委託的就是倖存下來的那位妻子。"
+18,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_000_040","在伊修加爾德的廣場中留名的戰神的聖人<hex:02100103>「聖瓦勒魯瓦揚」是200多年前真實存在的蒼天之龍騎士。"
+19,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_000_041","唯一從那位身手高超的龍騎士手下逃脫的……<hex:02100103>正是恐怖的黑翼魔龍阿伽托斯。"
+20,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_000_042","近幾年，盛傳有獵人目擊到阿伽托斯在德拉瓦尼亞的上空飛舞，<hex:02100103>表明龍的休眠期已經結束。<hex:02100103>你難道不覺得這是給傳說寫下句號的大好機會嗎？"
+21,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_000_050","500多年前，曾有個異端的宗派在皇都的市井中流行。"
+22,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_000_051","這個邪教引進了近東的文化，<hex:02100103>使用以特殊花朵製成的香料、奇怪金屬製成的祭器，<hex:02100103>反覆舉行詭異的儀式。"
+23,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_EUSTACIA_000_052","結果這個邪教被神殿騎士團取締，最終被解散。<hex:02100103>但是，自稱「乾闥婆」的教主獨自逃亡到了靈峰……<hex:02100103>變成了龍族的眷屬。"
+24,"TEXT_REGROC2NOTORIOUSMONSTERHINTT1B_00269_TALK_ACTOR","（未使用/預計刪除）"

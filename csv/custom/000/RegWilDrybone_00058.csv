@@ -1,24 +1,14 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGWILDRYBONE_00058_RAULIN_000","당신은 모험가시군요.
-괜찮으시다면 제가 안내해드리죠."
-1,"TEXT_REGWILDRYBONE_00058_SCENE00000Q","무엇을 물어보시겠습니까?"
-2,"TEXT_REGWILDRYBONE_00058_SCENE00000A1","여기서 무슨 일을 하고 있는지 물어본다"
-3,"TEXT_REGWILDRYBONE_00058_SCENE00000A2","이 마을은 어떤 곳인지 알려달라고 한다"
-4,"TEXT_REGWILDRYBONE_00058_SCENE00000A3","취소"
-5,"TEXT_REGWILDRYBONE_00058_RAULIN_010","저는 여기서 안내인 비슷한 일을 하고 있습니다.
-원래는 근처 교회에 잠든 아내의 명복을 빌고자
-교회에 다니던 신도에 불과했지만요."
-6,"TEXT_REGWILDRYBONE_00058_RAULIN_011","그런데 점차 다른 유족들과 접하며
-장례식과 매장을 돕다 보니,
-어느새 이게 제 직업처럼 되어 있었습니다."
-7,"TEXT_REGWILDRYBONE_00058_RAULIN_012","인생이란 정말 어떻게 될지 알 수 없지요.
-유족들을 돕는 것이 죽은 아내를 위하는 거라 생각하며
-오늘도 열심히 일하고 있습니다."
-8,"TEXT_REGWILDRYBONE_00058_RAULIN_020","북서쪽에 있는 '성 아다마 란다마 교회'를 알고 계십니까?
-5년 전 재해가 덮쳤을 때, 도시에 수용하지 못하고 넘친
-수많은 시신을 받아준 교회입니다."
-9,"TEXT_REGWILDRYBONE_00058_RAULIN_021","이 마을은 교회 묘지를 방문하는 사람들이
-매장 준비를 하거나 잠시 휴식하기 위해 들르는 곳입니다.
-죽은 자의 명복을 비는 조용한 마을이죠."
+0,"TEXT_REGWILDRYBONE_00058_RAULIN_000","是冒險者啊。<hex:02100103>我可以為你介紹情況。"
+1,"TEXT_REGWILDRYBONE_00058_SCENE00000Q","想了解什麼？"
+2,"TEXT_REGWILDRYBONE_00058_SCENE00000A1","你在這裡是做什麼的？"
+3,"TEXT_REGWILDRYBONE_00058_SCENE00000A2","這裡是什麼村落？"
+4,"TEXT_REGWILDRYBONE_00058_SCENE00000A3","取消"
+5,"TEXT_REGWILDRYBONE_00058_RAULIN_010","我在這裡做類似導覽的工作。<hex:02100103>原本，我只是來這附近的教會，憑弔已故的妻子。"
+6,"TEXT_REGWILDRYBONE_00058_RAULIN_011","但在接觸了其他家屬，幫助其埋葬遺體後，<hex:02100103>不知不覺這變為了我的工作。"
+7,"TEXT_REGWILDRYBONE_00058_RAULIN_012","世事無常呢。<hex:02100103>我覺得給予他們幫助就是對妻子最好的供奉，<hex:02100103>這樣一想，工作起來就更加努力了。"
+8,"TEXT_REGWILDRYBONE_00058_RAULIN_020","你知道西北邊的聖阿達瑪·蘭達瑪教會嗎？<hex:02100103>在5年前的靈災時，<hex:02100103>該教會接納了眾多城區收容不下的遺體。"
+9,"TEXT_REGWILDRYBONE_00058_RAULIN_021","來這個村落的人多半是要去教會墓地，<hex:02100103>他們可以在這裡進行埋葬的準備或是稍作休息。<hex:02100103>這裡是一個為死者祈福的寂靜村落。"

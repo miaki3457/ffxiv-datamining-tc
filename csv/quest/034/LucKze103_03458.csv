@@ -1,15 +1,12 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_LUCKZE103_03458_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-좁 요새에 있는 칼레아는 난처해 보인다."
-1,"TEXT_LUCKZE103_03458_SEQ_01","※ 이 퀘스트에는 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정<13>FF2A024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA095FF04EAB080FF04EC9DB4</13>
- 적용됩니다.
-
-죄식자에게 공격받은 병사를 위해 혈청을 만들게 되었다. 재료를 모으기 위해 레이크랜드의 헤매는 양치기의 숲에서 '칼레아'와 대화하자."
-2,"TEXT_LUCKZE103_03458_SEQ_02","칼레아가 혈청의 재료가 되는 독 채취를 부탁했다. 헤매는 양치기의 숲에 있는 '<Sheet(BNpcName,8502,0)/>'에게서 간혹 얻을 수 있는 '<Sheet(EventItem,2002667,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8EEB0103FF04EBA5BCFF04EC9D84</13> 손에 넣자."
-3,"TEXT_LUCKZE103_03458_SEQ_03","<Sheet(EventItem,2002667,0)/><13>FF15022811FF0A4576656E744974656DF61E8EEB0103FF04EBA5BCFF04EC9D84</13> 손에 넣었다. 헤매는 양치기의 숲에 있는 '칼레아'에게 '<Sheet(EventItem,2002667,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8EEB0103FF04EBA5BCFF04EC9D84</13> 건네자."
-4,"TEXT_LUCKZE103_03458_SEQ_04","칼레아에게 <Sheet(EventItem,2002667,0)/><13>FF15022811FF0A4576656E744974656DF61E8EEB0103FF04EBA5BCFF04EC9D84</13> 건넸다. 이걸로 무사히 혈청을 만들 수 있을 것 같다."
+0,"TEXT_LUCKZE103_03458_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整<hex:0249020103><hex:0248020103><hex:02100103>喬布要塞的卡蕾雅在困擾著。"
+1,"TEXT_LUCKZE103_03458_SEQ_01","※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整任務。<hex:02100103><hex:02100103>冒險者需要為受到食罪靈的襲擊而受傷的士兵製作血清。為了收集材料，和雷克蘭德迷途牧羊人之森的卡蕾雅談談。"
+2,"TEXT_LUCKZE103_03458_SEQ_02","卡蕾雅委託冒險者去採取作為血清原料的毒液。討伐迷途牧羊人之森的<hex:02280FFF09>BNpcName<hex:F221360103>有機率獲得獲得<hex:022811FF0A>EventItem<hex:F61E8EEB0103>。"
+3,"TEXT_LUCKZE103_03458_SEQ_03","獲得了<hex:022811FF0A>EventItem<hex:F61E8EEB0103>。將<hex:022811FF0A>EventItem<hex:F61E8EEB0103>交給迷途牧羊人之森的卡蕾雅。"
+4,"TEXT_LUCKZE103_03458_SEQ_04","將<hex:022811FF0A>EventItem<hex:F61E8EEB0103>交給了卡蕾雅。這樣一來就可以順利做出血清了。"
 5,"TEXT_LUCKZE103_03458_SEQ_05",""
 6,"TEXT_LUCKZE103_03458_SEQ_06",""
 7,"TEXT_LUCKZE103_03458_SEQ_07",""
@@ -29,9 +26,9 @@ int32,str,str
 21,"TEXT_LUCKZE103_03458_SEQ_21",""
 22,"TEXT_LUCKZE103_03458_SEQ_22",""
 23,"TEXT_LUCKZE103_03458_SEQ_23",""
-24,"TEXT_LUCKZE103_03458_TODO_00","헤매는 양치기의 숲에서 칼레아와 대화"
-25,"TEXT_LUCKZE103_03458_TODO_01","<Sheet(BNpcName,8502,0)/>에게서 간혹 얻을 수 있는 <Sheet(EventItem,2002667,0)/> 입수"
-26,"TEXT_LUCKZE103_03458_TODO_02","칼레아에게 <Sheet(EventItem,2002667,0)/> 전달"
+24,"TEXT_LUCKZE103_03458_TODO_00","和迷途牧羊人之森的卡蕾雅對話"
+25,"TEXT_LUCKZE103_03458_TODO_01","討伐<hex:02280FFF09>BNpcName<hex:F221360103>後獲取其身上可能會掉落的<hex:022811FF0A>EventItem<hex:F61E8EEB0103>"
+26,"TEXT_LUCKZE103_03458_TODO_02","將<hex:022811FF0A>EventItem<hex:F61E8EEB0103>交給卡蕾雅"
 27,"TEXT_LUCKZE103_03458_TODO_03",""
 28,"TEXT_LUCKZE103_03458_TODO_04",""
 29,"TEXT_LUCKZE103_03458_TODO_05",""
@@ -53,51 +50,21 @@ int32,str,str
 45,"TEXT_LUCKZE103_03458_TODO_21",""
 46,"TEXT_LUCKZE103_03458_TODO_22",""
 47,"TEXT_LUCKZE103_03458_TODO_23",""
-48,"TEXT_LUCKZE103_03458_NIELDEN_100_000","상황이 좀 난처하게 됐어.
-자세한 이야기는 칼레아한테 들어다오."
-49,"TEXT_LUCKZE103_03458_CALLEA_000_000","실은 <Highlight>ObjectParameter(1)</Highlight> 님이
-크리스타리움에 가 계신 동안 응급 환자가 실려 왔어요.
-지금은 탑 안의 진료실에 잠들어 있는데……."
-50,"TEXT_LUCKZE103_03458_NIELDEN_000_001","실려 온 건 이 요새의 병사다.
-순찰을 돌던 중이었다는데, 동행했던 병사의 말로는
-죄식자에게 공격을 받았다는군."
-51,"TEXT_LUCKZE103_03458_NIELDEN_000_002","그 죄식자는 독을 지닌 개체였던 모양이야.
-이미 독소가 몸에 퍼져서
-더 움직여선 안 되는 상황이다."
-52,"TEXT_LUCKZE103_03458_CALLEA_000_003","유품을 정리하던 중에 아버지가 지금까지 만드신
-약 조합 방법이 쓰인 수기를 발견했습니다.
-이걸 참고하면 저도 혈청을 만들 수 있을 거예요."
-53,"TEXT_LUCKZE103_03458_CALLEA_000_004","……하지만 혈청을 조합하려면 원료인 독이 필요해요.
-게다가 그 독은 변질되기가 쉬워서
-채취하자마자 바로 조합을 해야 하고요……."
-54,"TEXT_LUCKZE103_03458_CALLEA_000_005","이 요새 분들은 모두 제게 큰 은혜를 베풀어주셨어요…….
-절대로 죽게 할 순 없습니다.
-필요한 독은 다행히 근처에 서식하는 마물에게서 채취할 수 있어요."
-55,"TEXT_LUCKZE103_03458_CALLEA_000_006","<Highlight>ObjectParameter(1)</Highlight> 님, 부탁드릴게요!
-독 채취를 도와주세요!
-저도 동행해서 즉석에서 조합할게요!"
-56,"TEXT_LUCKZE103_03458_NIELDEN_000_007","나도 데려가다오!
-이래 봬도 위병이다. 마물 퇴치라면……!"
-57,"TEXT_LUCKZE103_03458_CALLEA_000_008","아니에요, 닐덴 아저씨는 여기 남아서
-환자를 간병해주세요.
-진통제를 두고 갈게요!"
-58,"TEXT_LUCKZE103_03458_NIELDEN_000_009","……그러마. 조심해서 다녀오너라."
-59,"TEXT_LUCKZE103_03458_CALLEA_000_010","그럼 <Highlight>ObjectParameter(1)</Highlight> 님, 출발하시죠!
-'<Sheet(BNpcName,8502,0)/>'<13>FF1302280FFF09424E70634E616D65F221360103FF04EB8A94FF04EC9D80</13>
-요새 밖 서쪽으로 펼쳐진 숲에 서식할 거예요!"
-60,"TEXT_LUCKZE103_03458_CALLEA_000_020","이 부근에 서식하는 <Sheet(BNpcName,8502,0)/>한테서
-혈청 제작에 필요한 '<Sheet(EventItem,2002667,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8EEB0103FF04EBA5BCFF04EC9D84</13> 채취할 수 있을 겁니다.
-<Sheet(BNpcName,8502,0)/><13>FF1302280FFF09424E70634E616D65F221360103FF04EBA5BCFF04EC9D84</13> 해치우고 채취를 부탁드릴게요."
-61,"TEXT_LUCKZE103_03458_CALLEA_100_021","독은 금방 변질된다고 아버지의 수기에 쓰여있었어요.
-'<Sheet(EventItem,2002667,0)/>'의 상태가 좋지 않으면
-다른 <Sheet(BNpcName,8502,0)/><13>FF1302280FFF09424E70634E616D65F221360103FF04EBA5BCFF04EC9D84</13> 쓰러뜨려서 채취해보세요."
-62,"TEXT_LUCKZE103_03458_CALLEA_000_021","'<Sheet(EventItem,2002667,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8EEB0103FF04EBA5BCFF04EC9D84</13> 주시면
-여기서 바로 혈청 조합을 시작하겠습니다.
-쉽지 않은 작업이겠지만 잘 부탁드릴게요!"
-63,"TEXT_LUCKZE103_03458_CALLEA_000_022","이 부근에 서식하는 <Sheet(BNpcName,8502,0)/><13>FF1302280FFF09424E70634E616D65F221360103FF04EBA5BCFF04EC9D84</13> 해치워서
-'<Sheet(EventItem,2002667,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8EEB0103FF04EBA5BCFF04EC9D84</13> 채취해주세요.
-쉽지 않은 작업이겠지만 잘 부탁드릴게요!"
-64,"TEXT_LUCKZE103_03458_CALLEA_000_030","<Highlight>ObjectParameter(1)</Highlight> 님,
-독은 채취하셨나요……?"
-65,"TEXT_LUCKZE103_03458_CALLEA_000_031","아아, 감사합니다!
-이거라면 문제없이 혈청을 만들 수 있겠어요!"
+48,"TEXT_LUCKZE103_03458_NIELDEN_100_000","我這有了點麻煩事，<hex:02100103>詳細情況你去問問卡蕾雅吧。"
+49,"TEXT_LUCKZE103_03458_CALLEA_000_000","在你去水晶都的這段期間，<hex:02100103>有位急病患者被送到了這裡。<hex:02100103>現在正在塔裡面的診所休息著……"
+50,"TEXT_LUCKZE103_03458_NIELDEN_000_001","被送過來的患者是這個喬布要塞的士兵。<hex:02100103>據跟他一起行動的士兵說，<hex:02100103>他在巡邏警戒任務中被獨行食罪靈襲擊了。"
+51,"TEXT_LUCKZE103_03458_NIELDEN_000_002","而且那個食罪靈好像是有毒的。<hex:02100103>我看他已經中毒很深，<hex:02100103>不能再讓他隨意走動了。"
+52,"TEXT_LUCKZE103_03458_CALLEA_000_003","我在整理父親遺物的過程中，找到了一本筆記。<hex:02100103>裡面記載著父親之前製作過的藥品的配方。<hex:02100103>將這個作為參考的話，我想我應該也能做出血清吧。"
+53,"TEXT_LUCKZE103_03458_CALLEA_000_004","……不過血清的製作需要毒液作為材料。<hex:02100103>可是毒液卻很容易變質，<hex:02100103>所以必須在採取後就立刻開始進行製作……"
+54,"TEXT_LUCKZE103_03458_CALLEA_000_005","喬布要塞的人們都對我很親切友好，<hex:02100103>所以我絕對不想讓他們出任何事。<hex:02100103>幸好需要的毒液可以從棲息在這附近的魔物身上採取到。"
+55,"TEXT_LUCKZE103_03458_CALLEA_000_006","<hex:022903EB0203>，拜託你了！<hex:02100103>請你去幫我採些毒液吧！<hex:02100103>我也會跟著你一起去，然後當場做出血清！"
+56,"TEXT_LUCKZE103_03458_NIELDEN_000_007","那就也帶著我一起去！<hex:02100103>我好歹是個衛兵，論討伐魔物的話……"
+57,"TEXT_LUCKZE103_03458_CALLEA_000_008","不，涅爾登叔叔就留在這裡，<hex:02100103>我把止痛藥留給你，<hex:02100103>麻煩你去照看病人。"
+58,"TEXT_LUCKZE103_03458_NIELDEN_000_009","……我知道了，你們一路小心。"
+59,"TEXT_LUCKZE103_03458_CALLEA_000_010","那<hex:022903EB0203>，我們出發吧！<hex:02100103><hex:02280FFF09>BNpcName<hex:F221360103>應該棲息在西邊的森林裡！"
+60,"TEXT_LUCKZE103_03458_CALLEA_000_020","從棲息在這附近的<hex:02280FFF09>BNpcName<hex:F221360103>身上，<hex:02100103>應該能採到製作血清所需要的<hex:022811FF0A>EventItem<hex:F61E8EEB0103>。<hex:02100103>請你打倒<hex:02280FFF09>BNpcName<hex:F221360103>進行採取。"
+61,"TEXT_LUCKZE103_03458_CALLEA_100_021","父親的筆記中記載說毒液非常容易變質。<hex:02100103>要是不能採集到的優質的<hex:022811FF0A>EventItem<hex:F61E8EEB0103>，<hex:02100103>就請你繼續打倒別的<hex:02280FFF09>BNpcName<hex:F221360103>進行採取。"
+62,"TEXT_LUCKZE103_03458_CALLEA_000_021","採到<hex:022811FF0A>EventItem<hex:F61E8EEB0103>後就交給我吧。<hex:02100103>我會馬上在這裡開始製作血清……<hex:02100103>這想必不是一件輕鬆的工作，請你務必幫忙，拜託你了！"
+63,"TEXT_LUCKZE103_03458_CALLEA_000_022","從棲息在這附近的<hex:02280FFF09>BNpcName<hex:F221360103>身上，<hex:02100103>應該能採到製作血清所需要的<hex:022811FF0A>EventItem<hex:F61E8EEB0103>。<hex:02100103>請你打倒<hex:02280FFF09>BNpcName<hex:F221360103>進行採取。"
+64,"TEXT_LUCKZE103_03458_CALLEA_000_030","<hex:022903EB0203>，你採到毒液了嗎？"
+65,"TEXT_LUCKZE103_03458_CALLEA_000_031","啊，謝謝你！<hex:02100103>這樣就可以順利地製作出血清了！"

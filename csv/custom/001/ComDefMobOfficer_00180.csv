@@ -1,69 +1,33 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_COMDEFMOBOFFICER_00180_MOBOFFICER_000_000","'마물 수배 게시판'에 실려 있는 토벌 대상은
-하나같이 매우 위험한 존재이기 때문에
-실력이 뛰어난 장병만이 임무를 받을 수 있습니다."
-1,"TEXT_COMDEFMOBOFFICER_00180_MOBOFFICER_000_001","수고 많으십니다.
-'마물 사냥'에 관해 자세한 설명이 필요하시면
-언제든지 제게 물어보십시오."
-2,"TEXT_COMDEFMOBOFFICER_00180_Q1_000_000","무엇을 물어보시겠습니까?"
-3,"TEXT_COMDEFMOBOFFICER_00180_A1_000_001","'마물 수배서'에 대해서"
-4,"TEXT_COMDEFMOBOFFICER_00180_A1_100_002","'정예 마물'에 대해서"
-5,"TEXT_COMDEFMOBOFFICER_00180_A1_000_002","'정예 마물 수배서'에 대해서"
-6,"TEXT_COMDEFMOBOFFICER_00180_A1_000_003","'동맹 휘장'에 대해서"
-7,"TEXT_COMDEFMOBOFFICER_00180_A1_000_004","취소"
-8,"TEXT_COMDEFMOBOFFICER_00180_MOBOFFICER_000_002","'마물 사냥'에 관해 자세한 설명이 필요하시면
-소속 총사령부의 '마물 사냥 담당관'에게
-문의하시기 바랍니다."
-9,"TEXT_COMDEFMOBOFFICER_00180_MOBOFFICER_000_010","'마물 수배 게시판'에 실려 있는 수배전단 중 하나입니다.
-각지에 서식하는 마물 중에서
-특히 문제가 되는 마물을 토벌 대상으로 지정하고 있습니다."
-10,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_011","마물 수배 게시판에서 얻은 '마물 수배서'는
-임무용 아이템 칸에 들어갑니다."
-11,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_012","'마물 수배서'는 현실 시간으로 매일 <ResetTime>01</ResetTime><If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시에 갱신되지만,
-갱신 시간이 지난 후에도 이전 수배서를 가지고 있을 경우
-가지고 있는 수배서의 마물을 처치하면 보상이 주어집니다."
-12,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_013","수배서는 파기할 수도 있으며,
-'마물 수배 게시판'이 새로 갱신되기 전이라면
-같은 수배서를 다시 받을 수 있습니다."
-13,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_014","수배서 보상으로 받는 '동맹 휘장'은
-토벌 목표를 달성한 시점에 지급됩니다."
-14,"TEXT_COMDEFMOBOFFICER_00180_MOBOFFICER_000_020","마물 중에서도 특히 위험하고 악명 높은 존재를
-'정예 마물'로 지정하여 특별 수배하고 있습니다."
-15,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_021","'정예 마물'은 위험도에 따라 각각 등급이 있으며
-정해진 지역에 항상 나타나는 'B급' 및
-일정 조건이 충족돼야 나타나는 'A급', 'S급'이 있습니다."
-16,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_022","매우 강력한 '정예 마물'인 'A급'과 'S급'을 처치하면
-'동맹 휘장' 등의 보상을 얻을 수 있습니다.
-보상은 공헌도에 따라 달라집니다."
-17,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_023","한편 'B급'은 토벌 보상을 항상 받을 수 있는 것은 아니나
-'정예 마물 수배서'의 대상으로서
-수배서를 소지한 상태로 처치하면 보상이 지급됩니다."
-18,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_026","또한 정예 마물에 대한 자세한 정보를 알고 있는
-'마물 사냥꾼'이 각 마을에 머물고 있습니다.
-토벌에 도전하기 전에 이들에게 정보를 확인해보세요."
-19,"TEXT_COMDEFMOBOFFICER_00180_MOBOFFICER_000_025","'마물 수배 게시판'에 실린 수배서 중 하나입니다.
-마물 중에서도 특히 위험하고 악명 높은 존재를
-토벌 대상으로 지정하고 있습니다."
-20,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_100_030","마물 수배 게시판에서 얻은 '정예 마물 수배서'는
-임무용 아이템 칸에 들어갑니다."
-21,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_025","기본적으로 '마물 수배서'와 동일하나
-갱신 시기가 다르며 현실 시간으로 일주일에 1회,
-매주 <ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시에 갱신됩니다."
-22,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_101_030","토벌 대상은 'B급 정예 마물'입니다.
-'B급'은 특정 지역에서 항상 찾아볼 수 있으며
-그냥 처치하는 것으로는 보상을 받을 수 없습니다."
-23,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_102_030","단, '정예 마물 수배서'를 소지한 상태로 처치하면
-수배서에 적힌 대로 보상이 지급됩니다."
-24,"TEXT_COMDEFMOBOFFICER_00180_MOBOFFICER_000_030","에오르제아 도시군사동맹이 수여하는 일종의 훈장입니다.
-아이템과 교환하려면 제게 말씀하십시오."
-25,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_031","'동맹 휘장'을 얻으려면
-'A급' 또는 'S급'으로 지정된 '정예 마물'을 처치하거나
-수배서에 적힌 토벌 대상을 쓰러뜨려야 합니다."
-26,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_032","각 도시에 있는 '마물 사냥 담당관'을 통해서
-다양한 아이템으로 교환할 수 있으니 적극적으로 모아보세요.
-참고로, 교환 가능한 아이템은 각 총사령부마다 약간씩 다릅니다."
-27,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_033","'동맹 휘장'은 총사령부를 옮길 때에도
-그대로 가지고 갈 수 있습니다."
-28,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_024","（★未使用／削除予定★）"
+0,"TEXT_COMDEFMOBOFFICER_00180_MOBOFFICER_000_000","「狩獵任務告示板」上公佈的待討伐怪物全都是十分危險的。<hex:02100103>只有有實力的兵將才能接受任務。"
+1,"TEXT_COMDEFMOBOFFICER_00180_MOBOFFICER_000_001","辛苦了。<hex:02100103>你可以隨時找我了解有關「狩獵任務」的詳細說明。"
+2,"TEXT_COMDEFMOBOFFICER_00180_Q1_000_000","想了解什麼？"
+3,"TEXT_COMDEFMOBOFFICER_00180_A1_000_001","關於怪物通緝令"
+4,"TEXT_COMDEFMOBOFFICER_00180_A1_100_002","關於危險標的怪物"
+5,"TEXT_COMDEFMOBOFFICER_00180_A1_000_002","關於危險標的怪物通緝令"
+6,"TEXT_COMDEFMOBOFFICER_00180_A1_000_003","關於同盟徽章"
+7,"TEXT_COMDEFMOBOFFICER_00180_A1_000_004","取消"
+8,"TEXT_COMDEFMOBOFFICER_00180_MOBOFFICER_000_002","如果你想要了解有關「狩獵任務」的詳細說明，<hex:02100103>那麼請詢問所屬大國防聯軍的狩獵任務負責人。"
+9,"TEXT_COMDEFMOBOFFICER_00180_MOBOFFICER_000_010","這是「狩獵任務告示板」上張貼的一種通緝令。<hex:02100103>比如棲息在各地的魔物中有的會危害到治安，<hex:02100103>我們會將其中造成一定問題的作為討伐對象進行通緝。"
+10,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_011","從狩獵任務告示板上獲取的「怪物通緝令」<hex:02100103>會放入「物品」的「任務道具」中。"
+11,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_012","「怪物通緝令」會在每天<hex:0206020103><hex:020821DBFF1D><hex:020919DB02030405060708090A0B0C0D0E0F10111213141516171803><hex:0103>點（地球時間）更新，<hex:02100103>對於已經持有的通緝令，即使過了更新時間，<hex:02100103>在成功討伐之後依然可以領取報酬。"
+12,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_013","所持通緝令可以選擇丟棄。<hex:02100103>不過在狩獵任務告示板更新前可再次接受。"
+13,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_014","在討伐成功後即可獲得作為通緝令報酬的「同盟徽章」。"
+14,"TEXT_COMDEFMOBOFFICER_00180_MOBOFFICER_000_020","有一種特別危險且臭名昭彰的「怪物」，<hex:02100103>被指定為「危險標的怪物」，是被特殊通緝的。"
+15,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_021","並根據其危險性劃分了不同的等級。<hex:02100103>「B級」是經常會出現的一類，<hex:02100103>而「A級」和「S級」是在一定條件下才會出現的。"
+16,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_022","「A級」和「S級」的危險標的怪物尤為棘手，<hex:02100103>但成功討伐後可以得到同盟徽章等報酬。<hex:02100103>討伐時貢獻得越多，得到的報酬也就越多。"
+17,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_023","另外，B級的危險標的怪物在討伐時沒有報酬。<hex:02100103>但如果是作為「危險標的怪物通緝令」的通緝對象，<hex:02100103>在持有通緝令的狀態下進行討伐的話可以得到報酬。"
+18,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_026","另外，各地域的村落中會有十分了解危險標的怪物的「怪物獵人」。<hex:02100103>在挑戰之前可以找怪物獵人了解資訊。"
+19,"TEXT_COMDEFMOBOFFICER_00180_MOBOFFICER_000_025","這是「狩獵任務告示板」上張貼的一種通緝令。<hex:02100103>以危險且臭名昭彰的「怪物」為通緝對象。"
+20,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_100_030","從狩獵任務告示板上獲取的「危險標的怪物通緝令」<hex:02100103>會放入「物品」的「任務道具」中。"
+21,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_025","其結構基本和「怪物通緝令」相同，只是更新時間不同。<hex:02100103>「危險標的怪物通緝令」每週（地球時間）更新1次，<hex:02100103>在每週<hex:020603120303><hex:02093ADDFF07>週日<hex:FF07>週一<hex:FF07>週二<hex:FF07>週三<hex:FF07>週四<hex:FF07>週五<hex:FF07>週六<hex:03>的<hex:020821DBFF1D><hex:020919DB02030405060708090A0B0C0D0E0F10111213141516171803><hex:0103>點更新。"
+22,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_101_030","討伐對象是B級的危險標的怪物。<hex:02100103>B級的危險標的怪物經常會出現在某地，<hex:02100103>但如果只是單純將之討伐，那麼是得不到報酬的。"
+23,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_102_030","不過，如果在持有「危險標的怪物通緝令」的狀態下討伐，<hex:02100103>就可以獲得通緝令上所示的報酬。"
+24,"TEXT_COMDEFMOBOFFICER_00180_MOBOFFICER_000_030","這是艾奧傑亞城邦軍事同盟授予的一種勳章，<hex:02100103>你可以拿著它來找我交換報酬。"
+25,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_031","打倒A級或S級的危險標的怪物，<hex:02100103>或打倒通緝令中的討伐對象後可以獲得「同盟徽章」。"
+26,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_032","同盟徽章可以用來和各城邦的狩獵任務負責人交換各種物品，<hex:02100103>積極地進行收集吧。<hex:02100103>另外，不同城邦的大國防聯軍可交換的物品也多少有些不同。"
+27,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_033","在調到其他大國防聯軍後，<hex:02100103>所持的同盟徽章也可以保留下來。"
+28,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_024","（未使用/預計刪除）"

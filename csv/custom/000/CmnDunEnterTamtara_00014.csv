@@ -1,44 +1,25 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00000","이곳 탐타라 묘소는
-그리다니아 귀곡부대 제2창병조가 관할하는 구역이다."
-1,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00001","무슨 일로 왔습니까?"
-2,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00002","'탐타라 묘소' 시작 조건 묻기"
-3,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00003","'탐타라 묘소' 공략 시작"
-4,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00004","취소"
-5,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00005","'탐타라 묘소'는 특별 위험구역으로 지정되어 있다.
-인원수와 참가 자격에 제한이 있으니 주의하도록."
-6,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00006","'탐타라 묘소'에 도전하려면
-투사 또는 마법사 레벨 16 이상인 플레이어 4명이
-파티를 맺어야 합니다."
-7,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00101","그리고 퀘스트 '어두컴컴한 지하묘소'를 받아서
-일정 단계 이상 진행해놓아야 합니다.
-또한, 레벨이 20 이상이면 공략 중에는 레벨 19로 조율됩니다."
-8,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00102","(현실 시간) 90분이 경과하면
-'탐타라 묘소' 공략은 강제로 종료됩니다."
-9,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00103","전리품이 남은 상태에서 다른 파티원이 모두 퇴장하면
-전리품 목록에 있는 모든 아이템을 자동으로 획득합니다.
-획득하지 못한 아이템은 파기되므로 주의하십시오."
-10,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00009","'탐타라 묘소'를 시작하시겠습니까?"
-11,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00010","예"
-12,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00011","아니요"
-13,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00012","현재 많은 플레이어가 '탐타라 묘소'에 참가 중입니다.잠시 후에 다시 신청하십시오."
-14,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00013","'탐타라 묘소'에 다시 도전하려면
-일정 시간이 경과해야 합니다.
-다시 도전할 수 있는 시간은 '임무 대기 시간'을 참조하시기 바랍니다."
-15,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00014","'탐타라 묘소'를 시작하려면
-투사 또는 마법사 레벨 15 이상인 플레이어
-4명이 파티를 맺어야 합니다.	"
-16,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00015","파티원 중 누군가가 다른 임무를 수행 중입니다.
-임무가 끝난 후에 신청하십시오."
-17,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00016","파티원 중 누군가가 '탐타라 묘소'에
-진입할 수 없는 상태 이상에 걸려있습니다."
-18,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00017","<Sheet(InstanceContentTextData,IntegerParameter(1),0)/><Sheet(InstanceContent,IntegerParameter(2),3)/><13>FF3902281DFF18496E7374616E6365436F6E74656E745465787444617461E8020103022815FF10496E7374616E6365436F6E74656E74E8030403FF04EBA5BCFF04EC9D84</13> 시작하지 못했습니다.
-시작 조건을 확인하십시오."
-19,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00020","이 앞에 있는 '탐타라 묘소'는
-그리다니아 귀곡부대 제2창병조가 관할하는 구역이다.
-자격이 없는 자를 들여보낼 순 없다."
-20,"TEXT_CMNDUNENTERTAMTARA_00014_SYSTEM_20","'탐타라 묘소'에 도전할 자격을 얻으려면
-퀘스트 '어두컴컴한 지하묘소'를 받아서
-일정 단계 이상 진행해놓아야 합니다."
+0,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00000","裡面的塔姆·塔拉墓園是<hex:02100103>格里達尼亞「鬼哭隊第二槍隊」的管轄範圍。"
+1,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00001","有什麼事？"
+2,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00002","詢問「地下靈殿塔姆·塔拉墓園」的開始條件"
+3,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00003","開始「地下靈殿塔姆·塔拉墓園」"
+4,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00004","取消"
+5,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00005","塔姆·塔拉墓園已經被劃分到了高度危險區。<hex:02100103>所以請注意，參加人數與參加資格都有一定的限制。"
+6,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00006","開始「地下靈殿塔姆·塔拉墓園」，<hex:02100103>需要4名等級達到<hex:02100103>16級以上的戰鬥精英或魔法導師來組成隊伍。"
+7,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00101","另外，開始前需要先領取任務「在塔姆塔拉的深處」，<hex:02100103>並進行到指定階段。<hex:02100103>等級達到20級以上的玩家在攻略此任務時將視為19級。"
+8,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00102","任務開始之後經過90分鐘（地球時間）<hex:02100103>將強制結束「地下靈殿塔姆·塔拉墓園」。"
+9,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00103","在留有戰利品的狀態下離開「塔姆·塔拉墓園」的話，<hex:02100103>戰利品中的道具會自動轉移到背包裡。<hex:02100103>請注意：無法獲取的道具會自動丟棄。"
+10,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00009","要開始「地下靈殿塔姆·塔拉墓園」嗎？"
+11,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00010","是"
+12,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00011","否"
+13,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00012","現在參加「地下靈殿塔姆·塔拉墓園」的玩家數量過多。請過一段時間後再次嘗試。"
+14,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00013","完成或放棄任務之後，<hex:02100103>要等上一段時間才能再次挑戰「地下靈殿塔姆·塔拉墓園」。<hex:02100103>距離再次挑戰開始的時間，請參考「任務計時」。"
+15,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00014","開始「地下靈殿塔姆·塔拉墓園」，<hex:02100103>需要4名等級達到<hex:02100103>15級以上的戰鬥精英或魔法導師來組成隊伍。"
+16,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00015","隊伍中有成員已經參加了該任務。<hex:02100103>請完成後再次參加。"
+17,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00016","隊伍中有成員陷入異常狀態，<hex:02100103>不能開始「地下靈殿塔姆·塔拉墓園」。"
+18,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00017","未能開始<hex:02281DFF18>InstanceContentTextData<hex:E8020103>「<hex:022815FF10>InstanceContent<hex:E8030403>」。<hex:02100103>請確認開始條件。"
+19,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00020","裡面的塔姆·塔拉墓園是<hex:02100103>格里達尼亞「鬼哭隊第二槍隊」的管轄範圍。<hex:02100103>不具備資格的人員禁止進入。"
+20,"TEXT_CMNDUNENTERTAMTARA_00014_SYSTEM_20","要挑戰「地下靈殿塔姆·塔拉墓園」，<hex:02100103>需要領取任務「在塔姆塔拉的深處」，<hex:02100103>並將該任務進行到指定階段。"

@@ -1,128 +1,79 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_TITLE","용건을 말씀하세요."
-1,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_00","용병업"
-2,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_01","채집업"
-3,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_02","제작업"
-4,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_03","진영 의뢰"
-5,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_04","튜토리얼"
-6,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_05","수행이력 평가받기"
-7,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_06","설명 듣기"
-8,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_07","취소"
-9,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_08","흑와단 임무"
-10,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_09","쌍사당 임무"
-11,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_10","불멸대 임무"
-12,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_11","조달 임무"
-13,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_REWARD","보상 받기 "
-14,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_BATTLE_MULTI","대규모 용병업 (필요 수주권: <Sheet(LeveSystemDefine,87,1)/>장)"
-15,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_GATHER_MULTI","대규모 채집업 (필요 수주권: <Sheet(LeveSystemDefine,87,1)/>장)"
-16,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_CRAFT_MULTI","대규모 제작업 (필요 수주권: <Sheet(LeveSystemDefine,87,1)/>장)"
-17,"TEXT_GUILDLEVEASSIGNMENT_TALK_ADD_REWARD_BY_GATHERING","임무를 완수하고 받은 평가에 따라, 보상이 처음 제시된 금액에서 <Value>IntegerParameter(1)</Value>% 증가합니다."
-18,"TEXT_GUILDLEVEASSIGNMENT_TALK_ADD_REWARD_BY_GCLEVE","<If(IntegerParameter(1))>'소속 총사령부 보너스'<If(IntegerParameter(2))>・<Else/></If><Else/></If><If(IntegerParameter(2))>'임무내용 평가'<Else/></If>에 의해 보상이 증가합니다."
-19,"TEXT_GUILDLEVEASSIGNMENT_TALK_ADD_REWARD_BY_DIFFICULTY","<If(IntegerParameter(5))>또한, <Else/></If><If(IntegerParameter(1))>난이도<If(IntegerParameter(2))>・<Else/><If(IntegerParameter(3))>・<Else/></If></If><Else/></If><If(IntegerParameter(2))>빠른 달성<If(IntegerParameter(3))>・<Else/></If><Else/></If><If(IntegerParameter(3))>현상범 토벌<Else/></If>에 따른 보너스가 붙어
-보상이 <If(IntegerParameter(5))>추가로 <Else/></If><Value>IntegerParameter(4)</Value>단계 증가합니다."
-20,"TEXT_GUILDLEVEASSIGNMENT_TALK_ADD_REWARD_BY_BONUS","<If(IntegerParameter(1))>여기에 <Else/></If><If(IntegerParameter(2))>빠른 달성<If(IntegerParameter(3))>・<Else/></If><Else/></If><If(IntegerParameter(3))>현상범 토벌<Else/></If>에 따른 보상이 추가됩니다."
-21,"TEXT_GUILDLEVEASSIGNMENT_TALK_NOT_GET_REWARD_BATTLE","투사 혹은 마법사가 아니므로 경험치를 얻지 못했습니다."
-22,"TEXT_GUILDLEVEASSIGNMENT_TALK_NOT_ENOUGH_FACTION_TICKET","진영 명성이 부족해 의뢰를 받을 수 없습니다."
-23,"TEXT_GUILDLEVEASSIGNMENT_TALK_NOT_SELECTABLE","현재 선택할 수 없는 항목입니다."
-24,"TEXT_GUILDLEVEASSIGNMENT_EXPLAIN_MENU_TITLE","무엇을 물어보시겠습니까?"
-25,"TEXT_GUILDLEVEASSIGNMENT_EXPLAIN_MENU_00","'의뢰'란?"
-26,"TEXT_GUILDLEVEASSIGNMENT_EXPLAIN_MENU_01","수주권에 대해서"
-27,"TEXT_GUILDLEVEASSIGNMENT_EXPLAIN_MENU_02","의뢰 협동에 대해서"
-28,"TEXT_GUILDLEVEASSIGNMENT_EXPLAIN_MENU_03","용병업에 대해서"
-29,"TEXT_GUILDLEVEASSIGNMENT_EXPLAIN_MENU_04","채집업에 대해서"
-30,"TEXT_GUILDLEVEASSIGNMENT_EXPLAIN_MENU_05","제작업에 대해서"
-31,"TEXT_GUILDLEVEASSIGNMENT_EXPLAIN_MENU_06","현상범에 대해서"
-32,"TEXT_GUILDLEVEASSIGNMENT_EXPLAIN_MENU_07","보물상자에 대해서"
-33,"TEXT_GUILDLEVEASSIGNMENT_EXPLAIN_MENU_08","진영 의뢰에 대해서"
-34,"TEXT_GUILDLEVEASSIGNMENT_EXPLAIN_MENU_09","수행이력 평가에 대해서"
-35,"TEXT_GUILDLEVEASSIGNMENT_EXPLAIN_MENU_10","취소"
-36,"TEXT_GUILDLEVEASSIGNMENT_TALK_EXPLAIN_GUILDLEVE_00","한마디로 각지에서 들어오는 일거리입니다.
-그중에서도 특히 모험가분들께 드리는 일거리가 따로 있지요."
-37,"TEXT_GUILDLEVEASSIGNMENT_TALK_EXPLAIN_GUILDLEVE_01","의뢰 내용은 용병업, 채집업 등 각양각색이지만,
-목적을 달성하면 보상이 주어진다는 점은 동일합니다."
-38,"TEXT_GUILDLEVEASSIGNMENT_TALK_EXPLAIN_TICKET_00","모험가 길드에 소속된 모험가 전원이
-공평하게 임무를 분배받을 수 있도록
-의뢰에는 '수주권'이란 제도를 두고 있습니다."
-39,"TEXT_GUILDLEVEASSIGNMENT_TALK_EXPLAIN_TICKET_01","의뢰 수주 및 재도전에는 '수주권'이 1장 필요합니다.
-수주권은 현실 시간으로 12시간마다 3장씩 지급되며
-최대 100장까지 소지할 수 있습니다."
-40,"TEXT_GUILDLEVEASSIGNMENT_TALK_LEVE_LINK_00","용병업 임무의 경우,
-파티원이 모두 같은 의뢰를 받은 상태라면
-협동해서 의뢰를 수행할 수 있습니다."
-41,"TEXT_GUILDLEVEASSIGNMENT_TALK_LEVE_LINK_01","'의뢰 협동'이 적용되면, 의뢰 시작 시에
-자동으로 모든 파티원이 해당 의뢰를 진행하게 되어
-전원이 한 번에 의뢰를 수행할 수 있습니다."
-42,"TEXT_GUILDLEVEASSIGNMENT_TALK_BATTLE_LEVE_00","용병업 임무는 퀘스트 창을 통해 시작할 수 있습니다.
-임무에 필요한 정보도 퀘스트 창이나 화면 오른쪽의
-'할 일 목록'에서 확인할 수 있습니다."
-43,"TEXT_GUILDLEVEASSIGNMENT_TALK_GATHERING_LEVE_00","원예가, 광부 임무는
-퀘스트 창에서 시작할 수 있습니다.
-어부 임무는 제작업과 같은 방식으로 진행됩니다."
-44,"TEXT_GUILDLEVEASSIGNMENT_TALK_GATHERING_LEVE_01","또한 원예가, 광부 임무는
-채집도구를 장비하고
-파티에 속하지 않은 상태에서만 시작할 수 있습니다."
-45,"TEXT_GUILDLEVEASSIGNMENT_TALK_CRAFT_LEVE_00","제작업 임무는 시간 제한이 없습니다.
-의뢰인에게 지정 물품을 전달하면 달성한 것으로 처리됩니다."
-46,"TEXT_GUILDLEVEASSIGNMENT_TALK_CRAFT_LEVE_01","지정 물품과 의뢰인에 대한 정보는
-'퀘스트'나 '할 일 목록'에서 확인할 수 있습니다."
-47,"TEXT_GUILDLEVEASSIGNMENT_TALK_WANTED_00","용병업 임무를 진행하다 보면
-드물게 '현상범'이라는 특수한 적이 출현합니다."
-48,"TEXT_GUILDLEVEASSIGNMENT_TALK_WANTED_01","임무에 영향을 끼치지는 않지만
-토벌에 성공하면 보상이 증가합니다."
-49,"TEXT_GUILDLEVEASSIGNMENT_TALK_TREASURE_00","용병업 임무 중에는 드물게 '보물상자'가 출현합니다.
-'보물상자'를 열면 각종 아이템을 손에 넣을 수 있습니다."
-50,"TEXT_GUILDLEVEASSIGNMENT_TALK_TREASURE_01","또한 파티로 임무를 진행하는 경우에는
-모든 파티원이 보물상자에서 각기 아이템을 얻을 수 있습니다."
-51,"TEXT_GUILDLEVEASSIGNMENT_TALK_EXPLAIN_FACTION_00","모험가 길드에는 3종류의 주력 부대……
-통칭 '진영 부대'가 존재합니다."
-52,"TEXT_GUILDLEVEASSIGNMENT_TALK_EXPLAIN_FACTION_01","이종족 대책이 주 임무인 '부서진 칼날 부대',
-범죄조직 대책이 주 임무인 '아제마의 방패 부대',
-현장조사가 주 임무인 '뿔과 손 부대'……"
-53,"TEXT_GUILDLEVEASSIGNMENT_TALK_EXPLAIN_FACTION_02","임무에 따라 관할 부대가 다르며,
-관련 임무 달성 시 관할 부대에서 특별한 '명성'을 지급합니다."
-54,"TEXT_GUILDLEVEASSIGNMENT_TALK_EXPLAIN_FACTION_03","모험가의 실력을 증명하는 이 '진영 명성'을 쌓으면
-각 부대가 발행하는 특수 임무인
-'진영 의뢰'에 도전할 수 있게 됩니다."
-55,"TEXT_GUILDLEVEASSIGNMENT_TALK_EXPLAIN_HISTORY_00","'수행이력 평가'란 모험가의 실력에 맞추어
-적절한 의뢰를 알선하기 위한 제도입니다."
-56,"TEXT_GUILDLEVEASSIGNMENT_TALK_EXPLAIN_HISTORY_01","최근에 달성한 6~8가지의 의뢰로 실력을 평가한 후,
-가장 적절하다고 판단되는 의뢰를 추가 보상과 함께 제시합니다."
-57,"TEXT_GUILDLEVEASSIGNMENT_TALK_EXPLAIN_HISTORY_02","일반적인 의뢰와 마찬가지로 수주권을 사용하지만,
-진영 의뢰가 제시되더라도
-진영 명성을 소비하지 않고 수주할 수 있습니다."
-58,"TEXT_GUILDLEVEASSIGNMENT_TALK_EXPLAIN_HISTORY_03","또한 수행이력 평가를 통해 제시된 의뢰를 수주하면
-그 순간 이전 이력은 삭제됩니다."
-59,"TEXT_GUILDLEVEASSIGNMENT_TALK_EXPLAIN_COMPANY_LEVE00","이곳에서 제시하는 임무는 크게 두 가지로 나뉩니다.
-'총사령부 의뢰'와 '조달 임무'입니다."
-60,"TEXT_GUILDLEVEASSIGNMENT_TALK_EXPLAIN_COMPANY_LEVE01","'총사령부 의뢰'란
-각 도시 총사령부가 요청하는 특수 임무입니다."
-61,"TEXT_GUILDLEVEASSIGNMENT_TALK_EXPLAIN_COMPANY_LEVE02","에오르제아 동맹군 맹약에 따라
-소속 조직에 상관없이 의뢰를 받을 수 있습니다.
-단, 기밀 유지를 위해 임무 수행은 단독으로 해야 합니다."
-62,"TEXT_GUILDLEVEASSIGNMENT_TALK_EXPLAIN_COMPANY_LEVE03","또한, 자신이 소속된 총사령부가 의뢰한 임무를 달성하면
-보상이 증가합니다."
-63,"TEXT_GUILDLEVEASSIGNMENT_TALK_EXPLAIN_COMPANY_LEVE04","그리고 임무 중에 특정 조건을 달성한 경우에도
-보상이 증가하니 잘 기억해두시기 바랍니다."
-64,"TEXT_GUILDLEVEASSIGNMENT_TALK_EXPLAIN_COMPANY_LEVE05","'조달 임무'란 각 총사령부가
-필요로 하는 물품을 구해오는 임무입니다.
-지정된 물품을 납품하면 군표를 획득할 수 있습니다."
-65,"TEXT_GUILDLEVEASSIGNMENT_TALK_CRAFT_LEVE_HOWTO_00","제작업이란 제작자용 임무입니다."
-66,"TEXT_GUILDLEVEASSIGNMENT_TALK_CRAFT_LEVE_HOWTO_01","단순히 지정 물품을 제작하는 임무부터
-고품질 제작이나 대량 제작 요청 등의 다양한 임무가 있습니다."
-67,"TEXT_GUILDLEVEASSIGNMENT_TALK_GATHERING_LEVE_HOWTO_00","채집업이란 채집가용 임무입니다."
-68,"TEXT_GUILDLEVEASSIGNMENT_TALK_GATHERING_LEVE_HOWTO_01","원예가와 광부는 지정 물품을 채집하거나
-마물이 돌아다니는 위험한 장소에서 조사를 진행합니다."
-69,"TEXT_GUILDLEVEASSIGNMENT_TALK_GATHERING_LEVE_HOWTO_02","어부는 자신이 낚아 올린 어획물을
-각지에 있는 의뢰인에게 전달하는 일을 합니다."
-70,"TEXT_GUILDLEVEASSIGNMENT_TALK_COMPANY_LEVE_HOWTO_00","'총사령부 의뢰'란
-각 도시 총사령부가 요청하는 특수 임무입니다."
-71,"TEXT_GUILDLEVEASSIGNMENT_TALK_COMPANY_LEVE_HOWTO_01","에오르제아 동맹군 맹약에 따라
-소속 조직에 상관없이 의뢰를 받을 수 있습니다.
-단, 기밀 유지를 위해 임무 수행은 단독으로 해야 합니다."
-72,"TEXT_GUILDLEVEASSIGNMENT_TALK_COMPANY_LEVE_HOWTO_02","또한, 자신이 소속된 총사령부가 의뢰한 임무를 달성하면
-보상이 증가합니다."
-73,"TEXT_GUILDLEVEASSIGNMENT_TALK_COMPANY_LEVE_HOWTO_03","그리고 임무 중에 특정 조건을 달성한 경우에도
-보상이 증가하니 잘 기억해두시기 바랍니다."
-74,"TEXT_GUILDLEVEASSIGNMENT_TALK_NOT_SELECTABLE_ALPHA","α판에서는 선택할 수 없습니다."
+0,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_TITLE","有什麼事？"
+1,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_00","傭兵任務"
+2,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_01","採集任務"
+3,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_02","製作任務"
+4,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_03","特殊部隊理符"
+5,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_04","新手教程"
+6,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_05","接受履歷評價"
+7,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_06","聽取說明"
+8,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_07","取消"
+9,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_08","黑渦團任務"
+10,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_09","雙蛇黨任務"
+11,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_10","不滅隊任務"
+12,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_11","籌備任務"
+13,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_REWARD","領取報酬"
+14,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_BATTLE_MULTI","大規模 傭兵任務（所需受理限額:<hex:022815FF11>LeveSystemDefine<hex:580203>個）"
+15,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_GATHER_MULTI","大規模 採集任務（所需受理限額:<hex:022815FF11>LeveSystemDefine<hex:580203>個）"
+16,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_CRAFT_MULTI","大規模 製作任務（所需受理限額:<hex:022815FF11>LeveSystemDefine<hex:580203>個）"
+17,"TEXT_GUILDLEVEASSIGNMENT_TALK_ADD_REWARD_BY_GATHERING","根據任務結果的評價，報酬將會在初期提示的額度上增加<hex:022003E80203>%。"
+18,"TEXT_GUILDLEVEASSIGNMENT_TALK_ADD_REWARD_BY_GCLEVE","根據<hex:020826E802FF20>所屬軍隊加成<hex:02080AE803FF04>及<hex:FF01><hex:03><hex:FF01><hex:03><hex:020819E803FF13>任務內容評價<hex:FF01><hex:03>，報酬將有所提升。"
+19,"TEXT_GUILDLEVEASSIGNMENT_TALK_ADD_REWARD_BY_DIFFICULTY","<hex:020810E806FF0A>此外，<hex:FF01><hex:03>獲得了<hex:020827E802FF21>難度<hex:020817E803FF04>及<hex:FF0E><hex:02080AE804FF04>及<hex:FF01><hex:03><hex:03><hex:FF01><hex:03><hex:020820E803FF1A>快速完成<hex:02080AE804FF04>及<hex:FF01><hex:03><hex:FF01><hex:03><hex:020819E804FF13>討伐懸賞魔物<hex:FF01><hex:03>的額外獎勵，<hex:02100103>報酬<hex:02080DE806FF07>額外<hex:FF01><hex:03>提高<hex:022003E80503>檔。"
+20,"TEXT_GUILDLEVEASSIGNMENT_TALK_ADD_REWARD_BY_BONUS","<hex:020810E802FF0A>另外，<hex:FF01><hex:03>獲得了<hex:020820E803FF1A>快速完成<hex:02080AE804FF04>及<hex:FF01><hex:03><hex:FF01><hex:03><hex:020819E804FF13>討伐懸賞魔物<hex:FF01><hex:03>的額外獎勵！"
+21,"TEXT_GUILDLEVEASSIGNMENT_TALK_NOT_GET_REWARD_BATTLE","非戰鬥精英或魔導士的職業，無法獲得經驗值。"
+22,"TEXT_GUILDLEVEASSIGNMENT_TALK_NOT_ENOUGH_FACTION_TICKET","領取理符所需的特殊部隊信用點不足。"
+23,"TEXT_GUILDLEVEASSIGNMENT_TALK_NOT_SELECTABLE","目前無法選擇該項。"
+24,"TEXT_GUILDLEVEASSIGNMENT_EXPLAIN_MENU_TITLE","想了解什麼？"
+25,"TEXT_GUILDLEVEASSIGNMENT_EXPLAIN_MENU_00","什麼是理符？"
+26,"TEXT_GUILDLEVEASSIGNMENT_EXPLAIN_MENU_01","關於受理限額"
+27,"TEXT_GUILDLEVEASSIGNMENT_EXPLAIN_MENU_02","關於理符連線"
+28,"TEXT_GUILDLEVEASSIGNMENT_EXPLAIN_MENU_03","關於傭兵任務"
+29,"TEXT_GUILDLEVEASSIGNMENT_EXPLAIN_MENU_04","關於採集任務"
+30,"TEXT_GUILDLEVEASSIGNMENT_EXPLAIN_MENU_05","關於製作任務"
+31,"TEXT_GUILDLEVEASSIGNMENT_EXPLAIN_MENU_06","關於懸賞魔物"
+32,"TEXT_GUILDLEVEASSIGNMENT_EXPLAIN_MENU_07","關於寶箱"
+33,"TEXT_GUILDLEVEASSIGNMENT_EXPLAIN_MENU_08","關於特殊部隊理符"
+34,"TEXT_GUILDLEVEASSIGNMENT_EXPLAIN_MENU_09","關於履歷評價"
+35,"TEXT_GUILDLEVEASSIGNMENT_EXPLAIN_MENU_10","取消"
+36,"TEXT_GUILDLEVEASSIGNMENT_TALK_EXPLAIN_GUILDLEVE_00","就是指「工作的委任狀」。<hex:02100103>而其中主要面向冒險者發行的委任狀則稱之為「理符」。"
+37,"TEXT_GUILDLEVEASSIGNMENT_TALK_EXPLAIN_GUILDLEVE_01","工作根據內容分為傭兵任務、採集任務等各種任務，<hex:02100103>但其共通點是都可透過完成任務（理符）來獲取報酬。"
+38,"TEXT_GUILDLEVEASSIGNMENT_TALK_EXPLAIN_TICKET_00","為了能將工作公平地分配給冒險者，<hex:02100103>理符的受理設定了上限。"
+39,"TEXT_GUILDLEVEASSIGNMENT_TALK_EXPLAIN_TICKET_01","領取理符和再次挑戰都需要消耗1點「受理限額」。<hex:02100103>此外，以地球時間計算，每12小時可以獲得3點的受理限額，<hex:02100103>最多可以累積至100點。"
+40,"TEXT_GUILDLEVEASSIGNMENT_TALK_LEVE_LINK_00","開始執行傭兵任務時，<hex:02100103>如果隊伍中存在持有相同理符的隊員，<hex:02100103>將發動「理符連線」。"
+41,"TEXT_GUILDLEVEASSIGNMENT_TALK_LEVE_LINK_01","「理符連線」一旦發動，<hex:02100103>全體隊員將自動開始符合條件的理符，<hex:02100103>同時執行理符任務。"
+42,"TEXT_GUILDLEVEASSIGNMENT_TALK_BATTLE_LEVE_00","可以在「日誌」裡開始執行傭兵任務。<hex:02100103>執行任務所需的資訊也可以在「日誌」或「目的列表」中確認。"
+43,"TEXT_GUILDLEVEASSIGNMENT_TALK_GATHERING_LEVE_00","可以在「日誌」裡開始執行園藝師、採掘師的任務，<hex:02100103>漁師的任務和製作任務的流程相同。"
+44,"TEXT_GUILDLEVEASSIGNMENT_TALK_GATHERING_LEVE_01","此外，園藝師、採掘師的任務，<hex:02100103>如果沒有裝備採集工具，或者在組隊狀態下，<hex:02100103>將無法開始執行任務。"
+45,"TEXT_GUILDLEVEASSIGNMENT_TALK_CRAFT_LEVE_00","製作任務沒有時間限制。<hex:02100103>將指定物品交給委託人後即可完成任務。"
+46,"TEXT_GUILDLEVEASSIGNMENT_TALK_CRAFT_LEVE_01","可以在「日誌」或「目的列表」中確認指定物品或委託人的資訊。"
+47,"TEXT_GUILDLEVEASSIGNMENT_TALK_WANTED_00","在傭兵任務中，<hex:02100103>偶爾會出現一種被稱為「懸賞魔物」的特殊敵人。"
+48,"TEXT_GUILDLEVEASSIGNMENT_TALK_WANTED_01","這種敵人不會對任務的成敗造成影響，<hex:02100103>但成功將其討伐後可以獲得額外獎勵。"
+49,"TEXT_GUILDLEVEASSIGNMENT_TALK_TREASURE_00","在傭兵任務中，偶爾會出現「寶箱」。<hex:02100103>調查並打開「寶箱」後，<hex:02100103>即可獲得各種道具。"
+50,"TEXT_GUILDLEVEASSIGNMENT_TALK_TREASURE_01","如果在組隊執行任務的情況下出現了寶箱，<hex:02100103>各隊員都可以獲得「寶箱」。"
+51,"TEXT_GUILDLEVEASSIGNMENT_TALK_EXPLAIN_FACTION_00","冒險者行會中有3支主力部隊，<hex:02100103>通稱「特殊部隊」。"
+52,"TEXT_GUILDLEVEASSIGNMENT_TALK_EXPLAIN_FACTION_01","分別是主要負責對付異族的「破刃之劍中隊」、<hex:02100103>主要負責對付集團犯罪的「阿澤瑪之盾中隊」、<hex:02100103>主要負責現場調查的「獨角之手小隊」……"
+53,"TEXT_GUILDLEVEASSIGNMENT_TALK_EXPLAIN_FACTION_02","冒險者如果完成了他們管轄範圍內的行會理符，<hex:02100103>這些部隊將會授予冒險者特殊的信用點。"
+54,"TEXT_GUILDLEVEASSIGNMENT_TALK_EXPLAIN_FACTION_03","累積這些證明實力的特殊部隊信用點，<hex:02100103>便可以挑戰各部隊所發行的特殊任務「特殊部隊理符」。"
+55,"TEXT_GUILDLEVEASSIGNMENT_TALK_EXPLAIN_HISTORY_00","「履歷評價」指的是<hex:02100103>能將最合適的理符提供給冒險者的體系。"
+56,"TEXT_GUILDLEVEASSIGNMENT_TALK_EXPLAIN_HISTORY_01","根據冒險者最近完成的6～8個理符的組合，<hex:02100103>選出最合適的理符給玩家。該理符會有額外的報酬。"
+57,"TEXT_GUILDLEVEASSIGNMENT_TALK_EXPLAIN_HISTORY_02","領取理符的時候，需要消耗與普通理符相同的受理限額，<hex:02100103>如果是特殊部隊理符的話，<hex:02100103>將不會消耗特殊部隊信用點。"
+58,"TEXT_GUILDLEVEASSIGNMENT_TALK_EXPLAIN_HISTORY_03","此外，如果領取了履歷評價中所提示的理符，<hex:02100103>履歷就會清空。"
+59,"TEXT_GUILDLEVEASSIGNMENT_TALK_EXPLAIN_COMPANY_LEVE00","這裡發行的任務有兩種。<hex:02100103>分別是「軍隊理符任務」和「籌備任務」。"
+60,"TEXT_GUILDLEVEASSIGNMENT_TALK_EXPLAIN_COMPANY_LEVE01","軍隊理符任務指的是，<hex:02100103>各城邦的大國防聯軍所發行的特別任務。"
+61,"TEXT_GUILDLEVEASSIGNMENT_TALK_EXPLAIN_COMPANY_LEVE02","根據艾奧傑亞同盟軍的盟約，<hex:02100103>不論所屬哪個組織，都可以領取理符任務。<hex:02100103>不過，基於保護機密的考慮，任務需要獨自完成。"
+62,"TEXT_GUILDLEVEASSIGNMENT_TALK_EXPLAIN_COMPANY_LEVE03","如果完成的是自己所屬的大國防聯軍所發行的理符任務，<hex:02100103>即可獲得額外獎勵。"
+63,"TEXT_GUILDLEVEASSIGNMENT_TALK_EXPLAIN_COMPANY_LEVE04","此外，滿足特定條件，並完成任務時，<hex:02100103>可獲得更高的額外獎勵。這點也要好好記住了。"
+64,"TEXT_GUILDLEVEASSIGNMENT_TALK_EXPLAIN_COMPANY_LEVE05","籌備任務指的是，<hex:02100103>籌備各大國防聯軍所需物品的任務。<hex:02100103>透過交納指定的物品，即可獲得軍票。"
+65,"TEXT_GUILDLEVEASSIGNMENT_TALK_CRAFT_LEVE_HOWTO_00","製作任務是面向能工巧匠的任務。"
+66,"TEXT_GUILDLEVEASSIGNMENT_TALK_CRAFT_LEVE_HOWTO_01","其任務內容包括製作指定物品的簡單任務，<hex:02100103>以及製作高品質物品或製作大量物品等等。"
+67,"TEXT_GUILDLEVEASSIGNMENT_TALK_GATHERING_LEVE_HOWTO_00","採集任務是面向大地使者的任務。"
+68,"TEXT_GUILDLEVEASSIGNMENT_TALK_GATHERING_LEVE_HOWTO_01","園藝師和採掘師的任務內容包括採集指定物品，<hex:02100103>以及去魔物徘徊的危險地區調查。"
+69,"TEXT_GUILDLEVEASSIGNMENT_TALK_GATHERING_LEVE_HOWTO_02","而漁師的任務內容是，<hex:02100103>將釣魚獲得的水產交給各地的委託人。"
+70,"TEXT_GUILDLEVEASSIGNMENT_TALK_COMPANY_LEVE_HOWTO_00","軍隊理符任務指的是，<hex:02100103>各城邦的大國防聯軍所發行的特別任務。"
+71,"TEXT_GUILDLEVEASSIGNMENT_TALK_COMPANY_LEVE_HOWTO_01","根據艾奧傑亞同盟軍的盟約，<hex:02100103>不論所屬哪個組織，都可以領取理符任務。<hex:02100103>不過，基於保護機密的考慮，任務需要獨自完成。"
+72,"TEXT_GUILDLEVEASSIGNMENT_TALK_COMPANY_LEVE_HOWTO_02","如果完成的是自己所屬的大國防聯軍所發行的理符任務，<hex:02100103>即可獲得額外獎勵。"
+73,"TEXT_GUILDLEVEASSIGNMENT_TALK_COMPANY_LEVE_HOWTO_03","此外，滿足特定條件，並完成任務時，<hex:02100103>可獲得更高的額外獎勵。這點也要好好記住了。"
+74,"TEXT_GUILDLEVEASSIGNMENT_TALK_NOT_SELECTABLE_ALPHA","在內測版不能選擇。"

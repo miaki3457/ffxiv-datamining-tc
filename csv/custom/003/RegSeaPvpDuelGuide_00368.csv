@@ -1,66 +1,32 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGSEAPVPDUELGUIDE_00368_DUELOFFICER_000_000","대인 훈련은 잘되고 있나?
-'개인 훈련장'에서 지켜야 할 절차와 규칙에 대해
-궁금한 점이 있으면 가르쳐주지."
-1,"TEXT_REGSEAPVPDUELGUIDE_00368_DUELOFFICER_000_005","저 앞에 있는 '개인 훈련장'에서는
-훈련장의 특별한 절차와 규칙만 잘 지킨다면
-다른 모험가와 진지하게 결투할 수 있다."
-2,"TEXT_REGSEAPVPDUELGUIDE_00368_DUELOFFICER_000_006","지금부터 설명하는 내용을 머릿속에 잘 새겨넣고
-다양한 상대와 함께 대인전 경험을 쌓아라!"
-3,"TEXT_REGSEAPVPDUELGUIDE_00368_Q1_000_000","무엇을 물어보시겠습니까?"
-4,"TEXT_REGSEAPVPDUELGUIDE_00368_A1_000_001","개인 훈련장에 대해서"
-5,"TEXT_REGSEAPVPDUELGUIDE_00368_A1_000_002","제한되는 행동에 대해서"
-6,"TEXT_REGSEAPVPDUELGUIDE_00368_A1_000_003","결투 신청에 대해서"
-7,"TEXT_REGSEAPVPDUELGUIDE_00368_A1_000_004","승리 조건에 대해서"
-8,"TEXT_REGSEAPVPDUELGUIDE_00368_A1_000_005","대결 규칙에 대해서"
-9,"TEXT_REGSEAPVPDUELGUIDE_00368_A1_000_006","취소"
-10,"TEXT_REGSEAPVPDUELGUIDE_00368_DUELOFFICER_000_010","개인 훈련장은 대인전에서 숙련도를
-향상시키기 위해 흑와단이 개방한 시설이다."
-11,"TEXT_REGSEAPVPDUELGUIDE_00368_DUELOFFICER_000_011","여기서는 서로 합의만 하면 누구와도 싸울 수 있지.
-늑대우리에서 싸우기 전에 몸을 풀거나
-전술을 연구하는 데 활용하도록."
-12,"TEXT_REGSEAPVPDUELGUIDE_00368_SYSTEM_000_012","개인 훈련장에서는 조건을 갖춘 모험가에게 결투를 신청해
-일대일로 싸울 수 있습니다."
-13,"TEXT_REGSEAPVPDUELGUIDE_00368_SYSTEM_000_013","단, 결투를 신청하려면 일정 조건을 충족해야 합니다.
-또한, 개인 훈련장 내부에서는 일부 행동이 제한됩니다."
-14,"TEXT_REGSEAPVPDUELGUIDE_00368_DUELOFFICER_000_020","여기는 비록 훈련이지만 진지하게 대결하는 장소다 보니,
-위험을 방지하기 위해 금지된 행위도 있다.
-잘 기억해 두도록……."
-15,"TEXT_REGSEAPVPDUELGUIDE_00368_SYSTEM_000_021","개인 훈련장 안에서는 다음 행동을 할 수 없습니다.
-직업 변경, 장비 변경, 마테리아 장착 의뢰,
-거래 신청 및 실행."
-16,"TEXT_REGSEAPVPDUELGUIDE_00368_SYSTEM_000_022","파티에 참가한 상태로 결투하는 것은 가능하나,
-결투 중인 파티원에게 공격이나 회복을 실행할 수는 없습니다."
-17,"TEXT_REGSEAPVPDUELGUIDE_00368_DUELOFFICER_000_030","개인 훈련장에 있는 모험가에게 결투를 신청하고
-이를 상대가 받아들이면 전투가 시작된다.
-단, 결투를 신청하려면 일정한 조건을 갖춰야 하지."
-18,"TEXT_REGSEAPVPDUELGUIDE_00368_SYSTEM_000_031","결투를 희망할 경우, 자신과 상대 모두가
-개인 훈련장에 있는 상태에서 대상을 지정하고
-세부 메뉴에서 '결투 신청'을 선택하세요."
-19,"TEXT_REGSEAPVPDUELGUIDE_00368_SYSTEM_100_031","또, 결투를 신청할 때
-아이템 레벨 조율을 적용할지
-지정할 수 있습니다. "
-20,"TEXT_REGSEAPVPDUELGUIDE_00368_SYSTEM_000_032","다른 모험가에게 결투 신청을 받은 경우,
-제한시간 내에 '수락' 버튼을 누르면
-결투가 시작됩니다."
-21,"TEXT_REGSEAPVPDUELGUIDE_00368_SYSTEM_000_033","이때, '거절' 버튼을 누르거나
-제한시간을 초과하면 신청이 취소됩니다."
-22,"TEXT_REGSEAPVPDUELGUIDE_00368_SYSTEM_000_034","또한, 파티원에게도 결투를 신청할 수 있습니다.
-단, 이미 결투 신청을 받은 상대나
-결투 중인 상대에게는 신청할 수 없으니 주의하시기 바랍니다."
-23,"TEXT_REGSEAPVPDUELGUIDE_00368_DUELOFFICER_000_040","개인 훈련장에서 시행되는 대결 훈련은
-시간제한이 없는 진지한 승부다.
-어느 한쪽이 쓰러질 때까지 사투가 계속되지."
-24,"TEXT_REGSEAPVPDUELGUIDE_00368_SYSTEM_000_041","결투 상대를 전투불능 상태로 만들면 승리합니다.
-단, 대결 중에 개인 훈련장에서 퇴장하면 패배 처리되며,
-훈련장에 남아있는 사람이 승리합니다."
-25,"TEXT_REGSEAPVPDUELGUIDE_00368_SYSTEM_000_042","개인 훈련장에서 직접 나갔을 때는 물론,
-임무 찾기로 인해 자리를 벗어난 경우에도
-패배로 간주합니다."
-26,"TEXT_REGSEAPVPDUELGUIDE_00368_DUELOFFICER_000_050","개인 훈련장에서는 실력이 전부다.
-실력이 비슷한 상대는 물론이고,
-더욱 강한 자에게 한 수 배울 수도 있지."
-27,"TEXT_REGSEAPVPDUELGUIDE_00368_SYSTEM_000_051","결투 중에는 투쟁심 및 마테리아 효과는 사라집니다.
-단, 미리 적용된 강화 및 약화 효과는 유지됩니다."
+0,"TEXT_REGSEAPVPDUELGUIDE_00368_DUELOFFICER_000_000","對戰訓練還順利嗎？<hex:02100103>關於「個人練習場」的使用規則和規定如果有不明白的地方，<hex:02100103>可以隨時來問我。"
+1,"TEXT_REGSEAPVPDUELGUIDE_00368_DUELOFFICER_000_005","我身後的場地是個人練習場，<hex:02100103>只要遵守練習場的使用規則和規定，<hex:02100103>就可以和想要過招的冒險者一決勝負。"
+2,"TEXT_REGSEAPVPDUELGUIDE_00368_DUELOFFICER_000_006","牢記我接下來要說的話，<hex:02100103>在和形形色色的對手交手的過程中，累積對戰經驗吧！"
+3,"TEXT_REGSEAPVPDUELGUIDE_00368_Q1_000_000","想了解什麼？"
+4,"TEXT_REGSEAPVPDUELGUIDE_00368_A1_000_001","什麼是個人練習場"
+5,"TEXT_REGSEAPVPDUELGUIDE_00368_A1_000_002","關於受限行為"
+6,"TEXT_REGSEAPVPDUELGUIDE_00368_A1_000_003","關於對戰申請"
+7,"TEXT_REGSEAPVPDUELGUIDE_00368_A1_000_004","關於勝利條件"
+8,"TEXT_REGSEAPVPDUELGUIDE_00368_A1_000_005","（★未使用／削除予定★）"
+9,"TEXT_REGSEAPVPDUELGUIDE_00368_A1_000_006","取消"
+10,"TEXT_REGSEAPVPDUELGUIDE_00368_DUELOFFICER_000_010","個人練習場是黑渦團<hex:02100103>為那些想要磨練對戰技能的冒險者開放的訓練場。"
+11,"TEXT_REGSEAPVPDUELGUIDE_00368_DUELOFFICER_000_011","在這裡可以和任何人自由對戰，只要對方同意。<hex:02100103>你可以在這裡進行狼獄鬥技場前的熱身，或是研究戰術。"
+12,"TEXT_REGSEAPVPDUELGUIDE_00368_SYSTEM_000_012","可以在個人練習場向滿足條件的冒險者申請一對一的對戰。"
+13,"TEXT_REGSEAPVPDUELGUIDE_00368_SYSTEM_000_013","不過，申請對戰需要滿足一定條件。<hex:02100103>另外，在個人練習場內部，部分行動會受到限制。"
+14,"TEXT_REGSEAPVPDUELGUIDE_00368_DUELOFFICER_000_020","在個人練習場的對戰雖說是訓練，但也是真刀真槍的上。<hex:02100103>為了防止出現意外，有一些行為是被禁止的。<hex:02100103>你要好好記牢了……"
+15,"TEXT_REGSEAPVPDUELGUIDE_00368_SYSTEM_000_021","在個人練習場內，以下行動會受到限制。<hex:02100103>轉換職業或特職、更改裝備、委託鑲嵌魔晶石。<hex:02100103>發起或進行交易。"
+16,"TEXT_REGSEAPVPDUELGUIDE_00368_SYSTEM_000_022","另外，在加入小隊的狀態下雖然可以申請或進行決鬥，<hex:02100103>但是無法對對戰中的成員進行攻擊或恢復。"
+17,"TEXT_REGSEAPVPDUELGUIDE_00368_DUELOFFICER_000_030","對身處個人練習場的冒險者提出對戰申請，<hex:02100103>如果對方接受的話即可展開對戰。<hex:02100103>不過，申請對戰需要滿足一定的條件。"
+18,"TEXT_REGSEAPVPDUELGUIDE_00368_SYSTEM_000_031","想要進行決鬥時，對戰雙方需要身處個人練習場，<hex:02100103>然後選中對手，從子選單中選擇「申請決鬥」。"
+19,"TEXT_REGSEAPVPDUELGUIDE_00368_SYSTEM_100_031","（★未使用／削除予定★）"
+20,"TEXT_REGSEAPVPDUELGUIDE_00368_SYSTEM_000_032","收到來自其他冒險者的決鬥申請時，<hex:02100103>在限定時間內按下「接受」按鈕後，<hex:02100103>即可展開對戰。"
+21,"TEXT_REGSEAPVPDUELGUIDE_00368_SYSTEM_000_033","這時，如果按下「拒絕」按鈕，<hex:02100103>或者是超過了限定時間，則申請將會被取消。"
+22,"TEXT_REGSEAPVPDUELGUIDE_00368_SYSTEM_000_034","另外，也可以申請與小隊成員決鬥。<hex:02100103>但是無法向已經收到決鬥申請和正在對戰中的人申請決鬥。"
+23,"TEXT_REGSEAPVPDUELGUIDE_00368_DUELOFFICER_000_040","在個人練習場上展開的對戰訓練是沒有時間限制的。<hex:02100103>直到有一方倒下，戰鬥才會結束。<hex:02100103>可謂是真刀真槍的死鬥。"
+24,"TEXT_REGSEAPVPDUELGUIDE_00368_SYSTEM_000_041","如果對手陷入無法戰鬥狀態，則戰鬥勝利。<hex:02100103>但是，如果在對戰中途退出個人練習場的話會被視為敗北，<hex:02100103>留在練習場的一方為勝利。"
+25,"TEXT_REGSEAPVPDUELGUIDE_00368_SYSTEM_000_042","除了透過移動的方式離開個人練習場之外，<hex:02100103>透過任務搜尋器或大型任務搜尋器離開個人練習場也會被視為敗北。"
+26,"TEXT_REGSEAPVPDUELGUIDE_00368_DUELOFFICER_000_050","（★未使用／削除予定★）"
+27,"TEXT_REGSEAPVPDUELGUIDE_00368_SYSTEM_000_051","（★未使用／削除予定★）"

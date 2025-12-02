@@ -1,5 +1,6 @@
 ﻿key,0,1,2,3,4
 #,Experience{Supply},Experience{Provisioning},Seals{ExpertDelivery},Seals{Supply},Seals{Provisioning}
+offset,0,4,8,12,16
 int32,uint32,uint32,uint32,uint32,uint32
 0,0,0,0,0,0
 1,420,840,6,8,12

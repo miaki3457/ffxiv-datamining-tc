@@ -1,852 +1,514 @@
 ﻿key,0
 #,
+offset,0
 int32,str
 0,""
-1,"<CommandIcon(10)/>아이템 회수"
-2,"<CommandIcon(12)/>+ <CommandIcon(13)/>붙여넣기 <CommandIcon(10)/>삭제 <If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/>가상 키보드<Else/><CommandIcon(11)/>화상 키보드</If><Else/><Indent/></If>"
-3,"<CommandIcon(8)/>파티원 순서 변경  <CommandIcon(10)/>세부 메뉴"
-4,"<CommandIcon(11)/>이 조건으로 검색"
-5,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(8)/>구매  <CommandIcon(11)/>판매할 아이템 선택"
-6,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>명령어 목록 보기"
-7,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(11)/>새 편지 쓰기"
-8,"<CommandIcon(10)/>세부 메뉴"
-9,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴  <CommandIcon(9)/>돌아가기"
-10,"<CommandIcon(8)/>첨부할 아이템 선택"
-11,"<CommandIcon(10)/>할 일 목록 위쪽에 표시/목록에서 빼기  <CommandIcon(24)/>상세 정보 스크롤"
-12,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(9)/>돌아가기"
-13,"<CommandIcon(12)/>"
-14,"<CommandIcon(13)/>"
-15,"<CommandIcon(10)/>단축바에 등록 <CommandIcon(8)/>실행"
-16,"<CommandIcon(10)/>세부 메뉴"
-17,"<CommandIcon(23)/>스크롤 <CommandIcon(11)/>범위 전환 <CommandIcon(12)/>+<CommandIcon(23)/>확대/축소 <CommandIcon(8)/>지역 지도"
-18,"<CommandIcon(23)/>스크롤 <CommandIcon(11)/>범위 전환 <CommandIcon(12)/>+<CommandIcon(10)/>연결 지역 <CommandIcon(12)/>+<CommandIcon(23)/>확대/축소 <CommandIcon(8)/>지역 지도"
-19,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴"
-20,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴"
-21,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴"
-22,"<CommandIcon(10)/>세부 메뉴"
-23,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(11)/>건넬 아이템 선택"
-24,"<CommandIcon(8)/>출품  <CommandIcon(10)/>세부 메뉴"
-25,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴  <CommandIcon(11)/>출품할 아이템 선택"
-26,"<CommandIcon(10)/>세부 메뉴"
-27,"<CommandIcon(10)/>세부 메뉴"
-28,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(9)/>뒤로"
-29,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(9)/>뒤로"
-30,"<CommandIcon(8)/>의뢰 수락 <CommandIcon(11)/>퀘스트 확인 <CommandIcon(24)/>상세 정보 스크롤"
-31,"<CommandIcon(11)/>검색"
-32,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(8)/>매물 목록 보기 <CommandIcon(9)/>뒤로"
-33,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(8)/>매물 목록 보기 <CommandIcon(9)/>뒤로 <CommandIcon(12)/><CommandIcon(13)/>페이지 넘기기"
-34,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴"
-35,"<CommandIcon(11)/>새로 고침  <CommandIcon(10)/>세부 메뉴  <CommandIcon(8)/>상세 정보"
-36,"<CommandIcon(11)/>이 조건으로 검색"
-37,"<CommandIcon(10)/><CommandIcon(11)/>방어 / 회복 / 공격 / 자유 / 불필요 순으로 역할 전환  <CommandIcon(8)/>특정 클래스/잡 지정"
-38,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(8)/>교환"
-39,"<CommandIcon(10)/>세부 메뉴"
-40,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(8)/>결정 <CommandIcon(9)/>닫기"
-41,"<CommandIcon(13)/>"
-42,"<CommandIcon(12)/>"
-43,"<CommandIcon(23)/>스크롤 <CommandIcon(11)/>범위 전환 <CommandIcon(12)/>+<CommandIcon(23)/>확대/축소 <CommandIcon(8)/>텔레포 실행"
-44,"<CommandIcon(10)/>세부 메뉴"
-45,"<CommandIcon(8)/><CommandIcon(10)/> 세부 메뉴"
-46,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>매크로 관리 <CommandIcon(24)/>상세 정보 스크롤"
-47,"<CommandIcon(8)/>선택 <CommandIcon(11)/>목록으로 돌아가기"
-48,"<CommandIcon(8)/>선택 해제 <CommandIcon(11)/>소지품에서 선택"
-49,"<CommandIcon(11)/>소지품에서 선택"
-50,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>이 아이템 찾기"
-51,"<CommandIcon(20)/>이동  <CommandIcon(25)/>회전  <CommandIcon(12)/>+<CommandIcon(24)/>확대/축소"
-52,"<CommandIcon(12)/><CommandIcon(13)/>목록 전환"
-53,"<CommandIcon(24)/>상세 정보 스크롤"
-54,"<CommandIcon(10)/>선택 취소"
-55,"<CommandIcon(8)/>개인실로 이동  <CommandIcon(10)/>개인실 정보 보기"
-56,"<CommandIcon(8)/> 훈련시키기 <CommandIcon(10)/> 세부 메뉴"
-57,"<CommandIcon(8)/> 훈련시키기 <CommandIcon(10)/> 세부 메뉴"
-58,"<CommandIcon(11)/>탐험 기록 표시 <CommandIcon(10)/>세부 메뉴"
-59,"<CommandIcon(11)/>탐험의 실마리 표시 <CommandIcon(10)/>세부 메뉴"
-60,"<CommandIcon(10)/>단축바에 등록 <CommandIcon(8)/>실행"
-61,"<CommandIcon(10)/> 세부 메뉴"
-62,"<CommandIcon(11)/> 보유카드 표시 방법 변경  <CommandIcon(10)/> 세부 메뉴"
-63,"<CommandIcon(10)/> 세부 메뉴"
-64,"<CommandIcon(11)/>결정"
-65,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(8)/>선택"
-66,"<CommandIcon(10)/>세부 메뉴"
-67,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(1)/>로그 선택 <CommandIcon(11)/>로그 확대"
-68,"<CommandIcon(1)/>로그 선택 <CommandIcon(11)/>로그 확대"
-69,"<CommandIcon(8)/>보조 기술로 등록"
-70,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(8)/>선택"
-71,"<CommandIcon(8)/>장비 변경  <CommandIcon(10)/>세부 메뉴  <CommandIcon(12)/><CommandIcon(13)/>부위 변경"
-72,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(1)/>로그 선택 <CommandIcon(2)/>탭 전환 <CommandIcon(11)/>로그 확대"
-73,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(9)/>대화 입력으로 돌아가기  <CommandIcon(11)/>로그 확대"
-74,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(9)/>대화 입력으로 돌아가기  <CommandIcon(11)/>로그를 보통 크기로 되돌리기"
-75,"<CommandIcon(5)/>이력 <CommandIcon(12)/>+ <CommandIcon(13)/>붙여넣기 <CommandIcon(10)/>삭제 <CommandIcon(13)/>상용구 <If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/>가상 키보드<Else/><CommandIcon(11)/>화상 키보드</If><Else/><Indent/></If>"
-76,"<CommandIcon(3)/>뒤로  <CommandIcon(4)/>앞으로  <CommandIcon(13)/>상용구"
-77,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(11)/>적용"
-78,"<CommandIcon(11)/>적용  <CommandIcon(10)/>설정 삭제"
-79,"<CommandIcon(8)/>건너뛰기  <CommandIcon(9)/>취소"
-80,"<CommandIcon(12)/><CommandIcon(13)/>클래스 선택"
-81,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴  <CommandIcon(11)/>검색 조건 설정"
-82,"<CommandIcon(5)/>순서 바꾸기  <CommandIcon(8)/>결정  <CommandIcon(9)/>취소"
-83,"<CommandIcon(7)/>이동  <CommandIcon(8)/>결정  <CommandIcon(9)/>취소"
-84,"<CommandIcon(11)/>부대 게시판 편집"
-85,"<CommandIcon(10)/>세부 메뉴"
-86,"<CommandIcon(8)/>접속 상태 확인  <CommandIcon(10)/>세부 메뉴"
-87,"<CommandIcon(11)/>적용"
-88,"<CommandIcon(11)/>적용"
-89,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(11)/>적용"
-90,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(9)/>뒤로"
-91,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(9)/>뒤로"
-92,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(9)/>뒤로"
-93,"<CommandIcon(8)/>장비함에 넣기  <CommandIcon(10)/>세부 메뉴"
-94,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(12)/><CommandIcon(13)/>부위 변경"
-95,"<CommandIcon(8)/>소지품에 넣기  <CommandIcon(12)/><CommandIcon(13)/>부위 변경"
-96,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(12)/><CommandIcon(13)/>부위 변경  <CommandIcon(9)/>뒤로"
-97,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(12)/><CommandIcon(13)/>부위 변경  <CommandIcon(9)/>뒤로"
-98,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(12)/><CommandIcon(13)/>부위 변경  <CommandIcon(9)/>뒤로"
-99,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(12)/><CommandIcon(13)/>부위 변경  <CommandIcon(9)/>뒤로"
-100,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(12)/><CommandIcon(13)/>부위 변경  <CommandIcon(9)/>뒤로"
-101,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(12)/><CommandIcon(13)/>부위 변경  <CommandIcon(9)/>뒤로"
-102,"<CommandIcon(10)/>세부 메뉴"
-103,"<CommandIcon(12)/><CommandIcon(13)/>범주 선택"
-104,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(3)/><CommandIcon(4)/>페이지 넘기기"
-105,"<CommandIcon(8)/>접속 상태 확인  <CommandIcon(10)/>세부 메뉴  <CommandIcon(3)/><CommandIcon(4)/>페이지 넘기기"
-106,"<CommandIcon(24)/>상세 정보 스크롤"
-107,"<CommandIcon(8)/>사용  <CommandIcon(10)/>세부 메뉴"
-108,"<CommandIcon(10)/>단축바에 등록"
-109,"<CommandIcon(10)/>선택 <CommandIcon(11)/>참가 결정하고 닫기 <CommandIcon(24)/>상세 정보 스크롤"
-110,"<CommandIcon(10)/>첨부한 아이템 되돌리기"
-111,"<CommandIcon(8)/>건넬 아이템 선택"
-112,"<CommandIcon(5)/>스크롤"
-113,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(11)/>넣을 아이템 선택"
-114,"<CommandIcon(7)/>이동  <CommandIcon(8)/>결정  <CommandIcon(9)/>취소"
-115,"<CommandIcon(8)/>꺼내기  <CommandIcon(11)/>넣을 아이템 선택"
-116,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(9)/>뒤로"
-117,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(12)/><CommandIcon(13)/>부위 변경  <CommandIcon(9)/>뒤로"
-118,"<CommandIcon(10)/>단축바에 등록"
-119,"<CommandIcon(10)/>세부 메뉴"
-120,"<CommandIcon(8)/>장비 탈착"
-121,"<CommandIcon(11)/>무작위 선택"
-122,"<CommandIcon(8)/>부대 문장 선택  <CommandIcon(11)/>무작위 선택"
-123,"<CommandIcon(8)/>선택  <CommandIcon(11)/>무작위 선택"
-124,"<CommandIcon(24)/>상세 정보 스크롤"
-125,"<CommandIcon(3)/><CommandIcon(4)/>이동 <CommandIcon(8)/>결정"
-126,"<CommandIcon(11)/>적용"
-127,"<CommandIcon(11)/>넣을 아이템 선택"
-128,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(1)/>로그 선택 <CommandIcon(11)/>로그를 보통 크기로 되돌리기"
-129,"<Gui(17)/>창 크기 조절 <CommandIcon(11)/>보이기/숨기기"
-130,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>내용 확인"
-131,"<CommandIcon(8)/>대표적인 낚시터 표시"
-132,"<CommandIcon(23)/>지도 스크롤"
-133,"<CommandIcon(23)/>지도 스크롤 <CommandIcon(8)/>어류도감 표시"
-134,"<CommandIcon(1)/>로그 선택 <CommandIcon(2)/>탭 전환 <CommandIcon(11)/>로그 확대"
-135,"<CommandIcon(1)/>로그 선택 <CommandIcon(11)/>로그를 보통 크기로 되돌리기"
-136,"<CommandIcon(11)/>넣을 아이템 선택"
-137,"<CommandIcon(10)/>변경 전으로 되돌리기"
-138,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>가구 및 조경물 목록"
-139,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>소지품 <If(Equal(PlayerParameter(105),0))> <CommandIcon(14)/><CommandIcon(15)/>창고/설치 목록 전환<Else/></If>"
-140,"<CommandIcon(11)/>이동"
-141,"<CommandIcon(20)/>이동 <CommandIcon(25)/>회전 <CommandIcon(12)/>+<CommandIcon(24)/>확대/축소"
-142,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(20)/>이동 <CommandIcon(25)/>회전 <CommandIcon(12)/>+<CommandIcon(24)/>확대/축소"
-143,"<CommandIcon(10)/>단축바에 등록"
-144,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(1)/>로그 선택 <CommandIcon(2)/>탭 전환"
-145,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(9)/>뒤로"
-146,"<CommandIcon(1)/>로그 선택 <CommandIcon(2)/>탭 전환"
-147,"<CommandIcon(12)/><CommandIcon(13)/>탭 전환"
-148,"<CommandIcon(9)/>대화 입력으로 돌아가기  <CommandIcon(11)/>로그 확대"
-149,"<CommandIcon(9)/>대화 입력으로 돌아가기  <CommandIcon(11)/>로그를 보통 크기로 되돌리기"
-150,"<CommandIcon(23)/>스크롤 <CommandIcon(11)/>범위 전환 <CommandIcon(12)/>+<CommandIcon(23)/>확대/축소"
-151,"<CommandIcon(10)/>세부 메뉴"
-152,"<CommandIcon(9)/>뒤로"
-153,"<CommandIcon(1)/>로그 선택 <CommandIcon(2)/>탭 전환"
-154,"<CommandIcon(12)/><CommandIcon(13)/>클래스 선택"
-155,"<CommandIcon(12)/><CommandIcon(13)/>범주 선택 <CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>제작하기"
-156,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>제작"
-157,"<CommandIcon(9)/>닫기 버튼 선택"
-158,"<CommandIcon(9)/>닫기 버튼 선택"
-159,"<CommandIcon(10)/>세부 메뉴"
-160,"<CommandIcon(10)/>세부 메뉴"
-161,"<CommandIcon(10)/>세부 메뉴"
-162,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(20)/>이동 <CommandIcon(25)/>회전 <CommandIcon(12)/>+<CommandIcon(24)/>확대/축소"
-163,"<CommandIcon(23)/>스크롤 <CommandIcon(11)/>범위 전환 <CommandIcon(12)/>+<CommandIcon(23)/>확대/축소 <CommandIcon(12)/>+<CommandIcon(13)/>위치 링크"
-164,"<CommandIcon(23)/>스크롤 <CommandIcon(11)/>범위 전환 <CommandIcon(12)/>+<CommandIcon(10)/>연결 지역 <CommandIcon(12)/>+<CommandIcon(23)/>확대/축소 <CommandIcon(12)/>+<CommandIcon(13)/>위치 링크"
-165,"<CommandIcon(11)/>번호를 무작위로 입력"
-166,"<CommandIcon(10)/>세부 메뉴"
-167,"<CommandIcon(10)/>세부 메뉴"
-168,"<CommandIcon(11)/>단어를 무작위로 입력"
-169,"<CommandIcon(10)/>세부 메뉴"
-170,"<CommandIcon(11)/>규칙 설명"
-171,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(8)/>아이템 선택"
-172,"<CommandIcon(9)/>닫기 버튼 선택"
-173,"------------------------
-lua 5.1.4 / MIT License
-------------------------
-Copyright (C) 1994-2008 Lua.org, PUC-Rio.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the ""Software""), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: 
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-
-------------------------
-rsa-md5 / RSA Data Security License
-------------------------
-Copyright (C) 1991-2, RSA Data Security, Inc. Created 1991. All rights reserved.
-
-License to copy and use this software is granted provided that it is identified as the ""RSA Data Security, Inc. MD5 Message-Digest Algorithm"" in all material mentioning or referencing this software or this function.
-
-License is also granted to make and use derivative works provided that such works are identified as ""derived from the RSA Data Security, Inc. MD5 Message-Digest Algorithm"" in all material mentioning or referencing the derived work.
-
-RSA Data Security, Inc. makes no representations concerning either the merchantability of this software or the suitability of this software for any particular purpose. It is provided ""as is"" without express or implied warranty of any kind.
-
-These notices must be retained in any copies of any part of this documentation and/or software. 
-
-
-------------------------
-SHA-1 (Internet Society)
-------------------------
-Copyright (C) The Internet Society (2001). All Rights Reserved.
-
-This document and translations of it may be copied and furnished to others, and derivative works that comment on or otherwise explain it or assist in its implementation may be prepared, copied, published and distributed, in whole or in part, without restriction of any kind, provided that the above copyright notice and this paragraph are included on all such copies and derivative works. However, this document itself may not be modified in any way, such as by removing the copyright notice or references to the Internet Society or other Internet organizations, except as needed for the purpose of developing Internet standards in which case the procedures for copyrights defined in the Internet Standards process must be followed, or as required to translate it into languages other than English.
-
-The limited permissions granted above are perpetual and will not be revoked by the Internet Society or its successors or assigns.
-
-This document and the information contained herein is provided on an ""AS IS"" basis and THE INTERNET SOCIETY AND THE INTERNET ENGINEERING TASK FORCE DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTY THAT THE USE OF THE INFORMATION HEREIN WILL NOT INFRINGE ANY RIGHTS OR ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
-
-Acknowledgement
-
-Funding for the RFC Editor function is currently provided by the Internet Society.
-
-
-----------------
-zstream.h (zlib)
-----------------
-Copyright (c) 1997
-Christian Michelsen Research AS
-Advanced Computing
-Fantoftvegen 38, 5036 BERGEN, Norway
-http://www.cmr.no
-
-Permission to use, copy, modify, distribute and sell this software and its documentation for any purpose is hereby granted without fee, provided that the above copyright notice appear in all copies and that both that copyright notice and this permission notice appear in supporting documentation. Christian Michelsen Research AS makes no representations about the suitability of this software for any purpose. It is provided ""as is"" without express or implied warranty.
-
-
-------
-LIBRARY FOR DUALSHOCK®4 & DualSense™ WIRELESS CONTROLLER
-------
-""DUALSHOCK"" and ""DualSense"" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 Sony Interactive Entertainment Inc."
-174,"<CommandIcon(12)/><CommandIcon(13)/>범주 선택"
-175,"<CommandIcon(12)/><CommandIcon(13)/>작업 공정 전환 <CommandIcon(10)/>세부 메뉴"
-176,"<CommandIcon(12)/><CommandIcon(13)/>작업 공정 전환 <CommandIcon(10)/>세부 메뉴"
-177,"<CommandIcon(9)/>한 단계 뒤로  <CommandIcon(11)/>탐사 출항"
-178,"<CommandIcon(10)/>세부 메뉴"
-179,"<CommandIcon(8)/>선택 <CommandIcon(9)/>닫기 <CommandIcon(11)/>결정하고 닫기"
-180,"<CommandIcon(5)/>이력 <CommandIcon(12)/>+ <CommandIcon(13)/>붙여넣기 <CommandIcon(10)/>삭제 <If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/>가상 키보드<Else/><CommandIcon(11)/>화상 키보드</If><Else/><Indent/></If>"
-181,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>적용하고 닫기"
-182,"<CommandIcon(9)/>적용하고 닫기"
-183,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>꼬마 친구 목록 보이기"
-184,"<CommandIcon(8)/>불러내기"
-185,"<CommandIcon(24)/>도움말 스크롤"
-186,"<CommandIcon(10)/>단축바에 등록 <CommandIcon(11)/>꼬마 친구 단축바 편집 <CommandIcon(8)/>실행"
-187,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>각 시설의 기능을 알아봅시다!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>비전석<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
- 양 진영에 각 3개씩 설치되어 있습니다. 적의 비전석을 모두 파괴하면 승리합니다.
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>소환진<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
- 꼬마 친구는 선택한 소환진을 통해 소환됩니다. 또, 아군 소환진에 꼬마 친구가 들어가면 꼬마 친구의 HP가 회복됩니다. 소환진이 파괴되어도 소환은 가능하지만, 꼬마 친구가 소환진을 출입할 수 없게 됩니다.
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>탐색의 눈<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
- 적 꼬마 친구의 위치를 파악하는 시설입니다. 파괴되면 아군으로부터 멀리 떨어진 적 꼬마 친구가 보이지 않게 됩니다.
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>방어막<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
- 비전석을 지키는 시설입니다. 파괴되면 비전석이 적에게 받는 피해량이 증가합니다.
-
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>시설 파괴 및 복구에 대해서<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
- 비전석을 제외한 모든 시설은 파괴되면 일시적으로 기능을 상실합니다. 단, 파괴 후 일정 시간이 지나면 복구되어 본래 기능을 발휘할 수 있게 됩니다.
- ※ 파괴된 시설 가까이에 꼬마 친구를 배치하면 복구 속도가 향상됩니다.
-
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>'파괴 특화'를 활용하세요<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
- '파괴 특화'란, 시설을 공격할 때 더 큰 피해를 줄 수 있는 능력입니다. 일부 꼬마 친구는 각 시설의 종류에 대응하는 '파괴 특화' 능력을 가지고 있습니다.
-
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>'특수기'로 역전을 노리세요<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
- '특수기'를 발동하려면 다음 조건을 만족해야 합니다.
- ・같은 종류의 꼬마 친구가 '4마리 이상' 모여있을 것
- ・가까이 모인 꼬마 친구 4마리의 '특수기 포인트'가 가득 차 있을 것
-   ('특수기 포인트'는 시간이 흐르면 축적됩니다.)
- 위 조건을 만족하는 꼬마 친구 하나를 선택하고, 메뉴에서 '특수기 발동'을 선택하면 발동됩니다.
-
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>'함정'을 활용하세요<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
- 일부 꼬마 친구는 특수기로 '함정'을 설치할 수 있습니다. 함정은 설치 후 10초가 지나야 발동 가능해집니다. 함정을 발동할 때는 메뉴에서 '함정 발동'을 선택하세요.
- ※ 함정은 한 번에 1개만 설치할 수 있습니다.
-
-<If(GreaterThan(PlayerParameter(80),0))><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow><If(GreaterThan(PlayerParameter(75),0))>컨트롤러<Else/>게임패드</If> 조작 방법<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>꼬마 친구 선택<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
- ・꼬마 친구 하나 선택
-   <CommandIcon(12)/>+<CommandIcon(7)/>: 꼬마 친구 파티 목록에서 꼬마 친구를 선택
- ・꼬마 친구 여럿 선택
-   <CommandIcon(11)/>: 조준원 안에 들어온 꼬마 친구를 선택
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>특수 기능<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
- ・일반 조작법
-   <Gui(17)/>: 다음 소환진 선택
-   <CommandIcon(15)/>: 꼬마 친구 파티 목록 표시 전환
-   <Gui(16)/>: 소환 예약 목록 선택
-   <CommandIcon(12)/>+<Gui(10)/>: 특수기 발동
-   <CommandIcon(13)/>+<CommandIcon(20)/>: 지면 대상 지점 이동
-   <CommandIcon(18)/>: 도움말 표시
- ・꼬마 친구 선택
-   <CommandIcon(12)/>+<Gui(11)/>: 선택한 꼬마 친구와 같은 주위 꼬마 친구 모두 선택
-   <CommandIcon(12)/>+<Gui(8)/>: 선택한 꼬마 친구 주위 아군 꼬마 친구 모두 선택
-   <CommandIcon(12)/>+<Gui(9)/>: 선택한 대상과 같은 아군 꼬마 친구 모두 선택
- ・미니맵 조작
-   <CommandIcon(14)/> 누르고 있는 동안: 맵 이동 지점 기록=버튼을 떼면 해당 위치로 이동
-   <CommandIcon(14)/>+<CommandIcon(23)/>: 맵 이동 지점 선택
-   <CommandIcon(14)/>+<Gui(17)/>: 맵 이동 지점 초기화
-
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>마우스 조작 방법<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>꼬마 친구 선택<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
- 왼쪽 클릭: 꼬마 친구 하나 선택
-   ※ 선택한 꼬마 친구를 다시 왼쪽 클릭하면 주변에 있는 같은 꼬마 친구를 모두 선택합니다.
- 왼쪽 끌기: 범위 안의 꼬마 친구를 모두 선택
-<Else/><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>마우스 조작 방법<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>꼬마 친구 선택<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
- 왼쪽 클릭: 꼬마 친구 하나 선택
-   ※ 선택한 꼬마 친구를 다시 왼쪽 클릭하면 주변에 있는 같은 꼬마 친구를 모두 선택합니다.
- 왼쪽 끌기: 범위 안의 꼬마 친구를 모두 선택
-
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow><If(GreaterThan(PlayerParameter(75),0))>컨트롤러<Else/>게임패드</If> 조작 방법<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>꼬마 친구 선택<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
- ・꼬마 친구 하나 선택
-   <CommandIcon(12)/>+<CommandIcon(7)/>: 꼬마 친구 파티 목록에서 꼬마 친구를 선택
- ・꼬마 친구 여럿 선택
-   <CommandIcon(11)/>: 조준원 안에 들어온 꼬마 친구를 선택
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>특수 기능<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
- ・일반 조작법
-   <Gui(17)/>: 다음 소환진 선택
-   <CommandIcon(15)/>: 꼬마 친구 파티 목록 표시 전환
-   <Gui(16)/>: 소환 예약 목록 선택
-   <CommandIcon(12)/>+<Gui(10)/>: 특수기 발동
-   <CommandIcon(13)/>+<CommandIcon(20)/>: 지면 대상 지점 이동
-   <CommandIcon(13)/>＋<Gui(16)/>: 지면 대상 지점 초기화
-   <CommandIcon(18)/>: 도움말 표시
- ・꼬마 친구 선택
-   <CommandIcon(12)/>+<Gui(11)/>: 선택한 꼬마 친구와 같은 주위 꼬마 친구 모두 선택
-   <CommandIcon(12)/>+<Gui(8)/>: 선택한 꼬마 친구 주위 아군 꼬마 친구 모두 선택
-   <CommandIcon(12)/>+<Gui(9)/>: 선택한 대상과 같은 아군 꼬마 친구 모두 선택
- ・미니맵 조작
-   <CommandIcon(14)/> 누르고 있는 동안: 맵 이동 지점 기록=버튼을 떼면 해당 위치로 이동
-   <CommandIcon(14)/>+<CommandIcon(23)/>: 맵 이동 지점 선택
-   <CommandIcon(14)/>+<Gui(17)/>: 맵 이동 지점 초기화
-</If>
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>키보드 단축키<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-대결 중에는 다음과 같이 키 기능이 변경됩니다.
-<If(Equal(PlayerParameter(75),1))><Else/>  단축바 1의 1~12번 칸: 꼬마 친구 단축바 하단
-  꼬마 친구 단축바 상단: 단축바 2의 1~12번 칸
-  단축바 3의 1번 칸: 특수기 발동
-  단축바 3의 2번 칸: 함정 발동
-  단축바 3의 3번 칸: 귀환
-</If>  점프: 조준원 켜기
-  무기 넣기/꺼내기: 다음 소환진 선택
-  꼬마 친구 목록: 꼬마 친구 공방전 목록"
-188,"<CommandIcon(8)/>선택 <CommandIcon(11)/>탐사 출항 <CommandIcon(24)/>상세 정보 스크롤"
-189,"<CommandIcon(8)/>메뉴 순서 및 계층 변경  <CommandIcon(10)/>표시/표시 끄기  <CommandIcon(11)/>적용"
-190,"<CommandIcon(10)/>세부 메뉴"
-191,"<CommandIcon(5)/>순서 바꾸기  <CommandIcon(6)/>계층 변경  <CommandIcon(8)/><CommandIcon(9)/>결정  <CommandIcon(10)/>표시하기/끄기  <CommandIcon(11)/>적용"
-192,"<CommandIcon(12)/><CommandIcon(13)/>분류 선택 <CommandIcon(8)/>미리 듣기 <CommandIcon(11)/>재생할 곡으로 설정<CommandIcon(10)/>세부 메뉴"
-193,"<CommandIcon(12)/><CommandIcon(13)/>분류 선택 <CommandIcon(8)/>재생할 곡으로 설정 <CommandIcon(11)/>미리 듣기 중지<CommandIcon(10)/>세부 메뉴"
-194,"<CommandIcon(12)/><CommandIcon(13)/>분류 선택 <CommandIcon(8)/>재생 중지<CommandIcon(10)/>세부 메뉴"
-195,"<CommandIcon(12)/><CommandIcon(13)/>분류 선택 <CommandIcon(8)/>재생 중지<CommandIcon(10)/>세부 메뉴"
-196,"<CommandIcon(8)/>재매입"
-197,"<CommandIcon(10)/>장비 세부 메뉴"
-198,"<CommandIcon(20)/>이동 <CommandIcon(25)/>회전 <CommandIcon(12)/>+<CommandIcon(24)/>확대/축소"
-199,"<CommandIcon(10)/>장비 세부 메뉴 <CommandIcon(20)/>이동 <CommandIcon(25)/>회전 <CommandIcon(12)/>+<CommandIcon(24)/>확대/축소"
-200,"<CommandIcon(8)/>선택 <CommandIcon(11)/>시작 <CommandIcon(24)/>상세 정보 스크롤"
-201,"<CommandIcon(12)/><CommandIcon(13)/>분류 선택"
-202,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴 <CommandIcon(12)/><CommandIcon(13)/>선택 목록 전환"
-203,"<CommandIcon(8)/>역할 순서 변경  <CommandIcon(11)/>적용"
-204,"<CommandIcon(5)/>순서 바꾸기 <CommandIcon(8)/><CommandIcon(9)/>결정 <CommandIcon(11)/>적용"
-205,"<CommandIcon(10)/>선택 <CommandIcon(11)/>참가 결정하고 닫기 <CommandIcon(24)/>상세 정보 스크롤"
-206,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>내용 확인"
-207,"<CommandIcon(9)/>닫기 <CommandIcon(24)/>스크롤"
-208,"<CommandIcon(9)/>닫기 <CommandIcon(24)/>상세 정보 스크롤"
-209,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(8)/>결정 <CommandIcon(9)/>취소"
-210,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(8)/>결정 <CommandIcon(9)/>취소"
-211,"<CommandIcon(8)/>미리 듣기 <CommandIcon(11)/>재생<CommandIcon(10)/>세부 메뉴"
-212,"<CommandIcon(8)/>재생 <CommandIcon(11)/>미리 듣기 중지<CommandIcon(10)/>세부 메뉴"
-213,"<CommandIcon(8)/>재생 중지<CommandIcon(10)/>세부 메뉴"
-214,"<CommandIcon(11)/>부대 편성"
-215,"<CommandIcon(8)/>결정  <CommandIcon(9)/>닫기"
-216,"<CommandIcon(10)/>세부 메뉴"
-217,"<CommandIcon(10)/>세부 메뉴"
-218,"<CommandIcon(10)/>세부 메뉴"
-219,"<CommandIcon(14)/><CommandIcon(15)/>고정 시점 카메라 전환 <CommandIcon(18)/>메뉴 표시"
-220,"<CommandIcon(8)/>개인실로 이동  <CommandIcon(10)/>개인실 정보 보기"
-221,"<CommandIcon(10)/>세부 메뉴"
-222,"<CommandIcon(10)/>세부 메뉴"
-223,"<CommandIcon(23)/>스크롤  <CommandIcon(12)/>+<CommandIcon(23)/>확대/축소  <CommandIcon(13)/>고정 시점 카메라 전환"
-224,"<CommandIcon(10)/>세부 메뉴"
-225,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>환경 전환"
-226,"<CommandIcon(9)/>닫기 <CommandIcon(24)/>스크롤"
-227,"<CommandIcon(12)/><CommandIcon(13)/>분류 선택 <CommandIcon(8)/>추가 <CommandIcon(10)/>세부 메뉴"
-228,"<CommandIcon(10)/>세부 메뉴"
-229,"<CommandIcon(10)/>세부 메뉴"
-230,"<CommandIcon(10)/>장비 세부 메뉴"
-231,"<CommandIcon(10)/>장비 세부 메뉴 <CommandIcon(20)/>이동 <CommandIcon(25)/>회전 <CommandIcon(12)/>+<CommandIcon(24)/>확대/축소"
-232,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴"
-233,"<CommandIcon(10)/>세부 메뉴"
-234,"<CommandIcon(10)/>세부 메뉴"
-235,"<CommandIcon(10)/>단축바에 등록 <CommandIcon(8)/>실행"
-236,"<CommandIcon(8)/>PvP 역할 기술로 설정"
-237,"<CommandIcon(10)/>단축바에 등록 <CommandIcon(8)/>실행"
-238,"<CommandIcon(3)/><CommandIcon(4)/>이동 <CommandIcon(8)/>결정"
-239,"<CommandIcon(23)/>스크롤 <CommandIcon(11)/>범위 전환 <CommandIcon(12)/>+<CommandIcon(10)/>연결 지역 <CommandIcon(12)/>+<CommandIcon(23)/>확대/축소"
-240,"<CommandIcon(8)/>PvP 특성으로 설정"
-241,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴"
-242,"<CommandIcon(9)/> 포기 선택"
-243,"<CommandIcon(9)/> 닫기 선택"
-244,"<CommandIcon(5)/>스크롤 <CommandIcon(9)/>닫기"
-245,"<CommandIcon(11)/>부대 편성"
-246,"<CommandIcon(8)/>접속 상태 확인  <CommandIcon(10)/>세부 메뉴"
-247,"악기 연주를 이용하여 제삼자의 권리를 침해할 음악을 연주하는 행위는
-엄격히 금지되어 있습니다.
-파이널판타지14 저작물 이용 허락 조건에 따르는 범위 내에서
-자신의 연주를 기록 후 업로드 하실 수 있으며,
-동시에 다른 유저들도 타인의 연주를 기록하거나 업로드 가능하며,
-이에 동의합니다.
-단, 타인의 공개된 연주를 무단으로 수정하거나 이윤을 추구하는
-판매행위는 불가합니다."
-248,"<CommandIcon(10)/>세부 메뉴"
-249,"<CommandIcon(11)/>시작/포기"
-250,"<CommandIcon(11)/>시작/재도전 <CommandIcon(10)/>닫기"
-251,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(11)/>넣을 아이템 선택"
-252,"<CommandIcon(7)/>이동  <CommandIcon(8)/>결정  <CommandIcon(9)/>취소"
-253,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(9)/>뒤로"
-254,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(9)/>뒤로"
-255,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(12)/><CommandIcon(13)/>부위 변경  <CommandIcon(9)/>뒤로"
-256,"<CommandIcon(11)/>적용"
-257,"<CommandIcon(8)/>현재 속성에 마정석 추가　<CommandIcon(10)/>현재 속성에서 마정석 해제"
-258,"<CommandIcon(11)/>창 전환  <CommandIcon(10)/>세부 메뉴"
-259,"<CommandIcon(9)/><CommandIcon(11)/>창 전환  <CommandIcon(10)/>세부 메뉴"
-260,"<CommandIcon(10)/>세부 메뉴"
-261,"<CommandIcon(9)/>투영세트로 돌아가기"
-262,"<CommandIcon(10)/>세부 메뉴　<CommandIcon(9)/>투영세트로 돌아가기"
-263,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(20)/>이동  <CommandIcon(25)/>회전  <CommandIcon(12)/>+<CommandIcon(24)/>확대/축소"
-264,"<CommandIcon(10)/>세부 메뉴"
-265,"<CommandIcon(10)/>세부 메뉴"
-266,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴"
-267,"<CommandIcon(9)/>닫기"
-268,"<CommandIcon(10)/>세부 메뉴"
-269,"<CommandIcon(11)/>모두 선택/해제"
-270,"<CommandIcon(10)/>세부 메뉴"
-271,"<CommandIcon(8)/>기부 취소 <CommandIcon(11)/>기부할 아이템 선택"
-272,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴  <CommandIcon(9)/>뒤로"
-273,"<CommandIcon(24)/>상세 정보 스크롤"
-274,"<CommandIcon(10)/><CommandIcon(8)/>세부 메뉴"
-275,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>위치 변경"
-276,"<CommandIcon(11)/>기부할 아이템 선택"
-277,"<CommandIcon(8)/>부르기/돌려보내기 <CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>꼬마 친구 단축바 편집"
-278,"<CommandIcon(8)/>부르기/돌려보내기 <CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>위치 변경"
-279,"<CommandIcon(7)/>이동 <CommandIcon(11)/><CommandIcon(8)/>결정 <CommandIcon(9)/>취소"
-280,"<CommandIcon(5)/>이력 <CommandIcon(12)/>+ <CommandIcon(13)/>붙여넣기 <If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/>가상 키보드<Else/><CommandIcon(11)/>화상 키보드</If><Else/><Indent/></If>"
-281,"<CommandIcon(5)/>이동 <CommandIcon(8)/>부르기/돌려보내기 <CommandIcon(10)/>세부 메뉴"
-282,"<CommandIcon(8)/>실행 <CommandIcon(10)/>세부 메뉴"
-283,"<CommandIcon(8)/>실행 <CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>위치 변경"
-284,"<CommandIcon(7)/>이동 <CommandIcon(11)/><CommandIcon(8)/>결정 <CommandIcon(9)/>취소"
-285,"<CommandIcon(5)/>이력 <CommandIcon(12)/>+ <CommandIcon(13)/>붙여넣기 <If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/>가상 키보드<Else/><CommandIcon(11)/>화상 키보드</If><Else/><Indent/></If>"
-286,"<CommandIcon(5)/>이동 <CommandIcon(8)/>실행 <CommandIcon(10)/>세부 메뉴"
-287,"<CommandIcon(7)/>이동 <CommandIcon(11)/><CommandIcon(8)/><CommandIcon(10)/>결정 <CommandIcon(9)/>취소"
-288,"<CommandIcon(8)/>부르기/돌려보내기 <CommandIcon(10)/>세부 메뉴"
-289,"<CommandIcon(11)/>새 편지 쓰기"
-290,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(8)/>받기"
-291,"<CommandIcon(8)/>활성 기술 등록"
-292,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(8)/>위치 변경"
-293,"<CommandIcon(7)/>이동  <CommandIcon(8)/>결정  <CommandIcon(9)/>취소"
-294,"<CommandIcon(9)/>닫기"
-295,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(8)/>선택  <CommandIcon(9)/>융합기  <CommandIcon(11)/>로고스 기술"
-296,"<CommandIcon(8)/>발동  <CommandIcon(11)/>닫기"
-297,"<CommandIcon(11)/>로고스 샤드  <CommandIcon(10)/>세부 메뉴"
-298,"<CommandIcon(10)/><CommandIcon(8)/>세부 메뉴"
-299,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(9)/><CommandIcon(11)/>융합기"
-300,"<CommandIcon(11)/>로고스 샤드  <CommandIcon(9)/>닫기"
-301,"<CommandIcon(10)/>세부 메뉴"
-302,"<CommandIcon(10)/>세부 메뉴"
-303,"<CommandIcon(8)/><CommandIcon(10)/>개인실 정보 보기"
-304,"<CommandIcon(8)/><CommandIcon(10)/>개인실 정보 보기"
-305,"<CommandIcon(10)/>삭제<If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/>가상 키보드<Else/><CommandIcon(11)/>화상 키보드</If><Else/><Indent/></If>"
-306,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴"
-307,"<CommandIcon(8)/>실행 <CommandIcon(10)/>단축바에 등록 <CommandIcon(11)/>꼬마 친구 단축바 편집"
-308,"<CommandIcon(8)/>실행 <CommandIcon(10)/>단축바에 등록 "
-309,"<CommandIcon(8)/>실행 <CommandIcon(10)/>단축바에 등록 "
-310,"<CommandIcon(12)/><CommandIcon(13)/>페이즈 전환"
-311,"<CommandIcon(8)/>결정 <CommandIcon(24)/>상세 정보 스크롤"
-312,"<CommandIcon(8)/>결정"
-313,"<CommandIcon(10)/>부르기 설정 변경 <CommandIcon(11)/>보조 기능 메뉴"
-314,"<CommandIcon(8)/>접속 상태 확인  <CommandIcon(10)/>세부 메뉴  <CommandIcon(9)/>돌아가기"
-315,"<CommandIcon(12)/><CommandIcon(13)/>페이즈 전환　<CommandIcon(8)/>유효한 상태 이상 확인"
-316,"<CommandIcon(8)/>선택  <CommandIcon(10)/>세부 메뉴"
-317,"<CommandIcon(8)/>선택  <CommandIcon(10)/>세부 메뉴"
-318,"<CommandIcon(5)/>스크롤"
-319,"<CommandIcon(8)/>건넬 아이템 선택"
-320,"<CommandIcon(8)/>파티원 선택/해제"
-321,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(8)/>파티원 선택/해제"
-322,"<CommandIcon(8)/>선택/취소  <CommandIcon(10)/>분류 내 다른 조건 선택/취소  <CommandIcon(11)/>결정"
-323,"<CommandIcon(9)/>닫기 <CommandIcon(24)/>상세 정보 스크롤"
-324,"<CommandIcon(8)/>선택 <CommandIcon(9)/>닫기 <CommandIcon(11)/>결정 후 닫기 <CommandIcon(24)/>상세 정보 스크롤"
-325,"<CommandIcon(8)/>상세 정보로 이동  <CommandIcon(24)/>상세 정보 스크롤  <CommandIcon(10)/>세부 메뉴"
-326,"<CommandIcon(10)/>세부 메뉴"
-327,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>간이 채집 켜기/끄기"
-328,"<CommandIcon(8)/>상세 정보 표시  <CommandIcon(24)/>상세 정보 스크롤  <CommandIcon(10)/>세부 메뉴"
-329,"<CommandIcon(10)/>세부 메뉴"
-330,"<CommandIcon(10)/>세부 메뉴"
-331,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(12)/><CommandIcon(13)/>페이지 넘기기"
-332,"<CommandIcon(10)/>세부 메뉴"
-333,"<CommandIcon(10)/>단축바에 등록 <CommandIcon(8)/>실행"
-334,"<CommandIcon(24)/>상세 정보 스크롤"
-335,"<CommandIcon(10)/>세부 메뉴"
-336,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>제작 UI로 돌아가기 <CommandIcon(9)/>닫기"
-337,"<CommandIcon(10)/>세부 메뉴"
-338,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(8)/>선택"
-339,"<CommandIcon(11)/>적용"
-340,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(12)/><CommandIcon(13)/>페이지 넘기기"
-341,"<CommandIcon(10)/>세부 메뉴"
-342,"<CommandIcon(9)/>퍼즐 더미로 돌아가기"
-343,"<CommandIcon(9)/>닫기 버튼으로"
-344,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴  <CommandIcon(9)/>돌아가기"
-345,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(8)/>실행"
-346,"<CommandIcon(8)/>사용하기  <CommandIcon(11)/>전과 정보로 돌아가기"
-347,"<CommandIcon(7)/>이동  <CommandIcon(8)/>패널 뒤집기"
-348,"<CommandIcon(8)/>로스트 휴대함에 넣기  <CommandIcon(10)/>세부 메뉴  <CommandIcon(11)/>로스트 휴대함 조작"
-349,"<CommandIcon(8)/>사용하기  <CommandIcon(10)/>세부 메뉴  <CommandIcon(11)/>전과 정보로 돌아가기"
-350,"<CommandIcon(8)/>로스트 보관함에 넣기  <CommandIcon(10)/>세부 메뉴  <CommandIcon(11)/>로스트 보관함 조작"
-351,"<CommandIcon(11)/>전과 정보로 돌아가기"
-352,"<CommandIcon(11)/>로스트 보관함 조작"
-353,"<CommandIcon(11)/>추천 편성"
-354,"<CommandIcon(9)/>닫기"
-355,"<CommandIcon(24)/>상세 정보 스크롤"
-356,"<CommandIcon(10)/>세부 메뉴"
-357,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(8)/>교환"
-358,"<CommandIcon(10)/>세부 메뉴"
-359,"<CommandIcon(10)/>지도 표시"
-360,"<CommandIcon(1)/>"
-361,"<CommandIcon(2)/>"
-362,"<CommandIcon(3)/>"
-363,"<CommandIcon(4)/>"
-364,"<CommandIcon(5)/>"
-365,"<CommandIcon(6)/>"
-366,"<CommandIcon(7)/>"
-367,"<CommandIcon(8)/>"
-368,"<CommandIcon(9)/>"
-369,"<CommandIcon(10)/>"
-370,"<CommandIcon(11)/>"
-371,"<CommandIcon(12)/>"
-372,"<CommandIcon(13)/>"
-373,"<CommandIcon(14)/>"
-374,"<CommandIcon(15)/>"
-375,"<Gui(16)/>"
-376,"<Gui(17)/>"
-377,"<CommandIcon(18)/>"
-378,"<CommandIcon(19)/>"
-379,"<CommandIcon(20)/>"
-380,"<CommandIcon(21)/>"
-381,"<CommandIcon(22)/>"
-382,"<CommandIcon(23)/>"
-383,"<CommandIcon(24)/>"
-384,"<CommandIcon(25)/>"
-385,"<CommandIcon(11)/>빠른 스크롤 <CommandIcon(10)/>세부 메뉴"
-386,"<CommandIcon(5)/>이력 <CommandIcon(12)/>+ <CommandIcon(13)/>붙여넣기 <CommandIcon(10)/>삭제 <If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/>가상 키보드<Else/><CommandIcon(11)/>화상 키보드</If><Else/><Indent/></If>"
-387,"<CommandIcon(8)/>보상 받기  <CommandIcon(10)/>세부 메뉴"
-388,"<CommandIcon(10)/>세부 메뉴"
-389,"<CommandIcon(10)/>세부 메뉴"
-390,"<CommandIcon(12)/><CommandIcon(13)/>분류 선택 <CommandIcon(10)/>세부 메뉴"
-391,"<CommandIcon(12)/><CommandIcon(13)/>분류 선택  <CommandIcon(8)/>지도 열기"
-392,"<CommandIcon(5)/>에테라이트 선택 <CommandIcon(8)/>이동 <CommandIcon(11)/>직전 이동 지점 <CommandIcon(23)/>맵 조작"
-393,"<CommandIcon(23)/>스크롤 <CommandIcon(7)/>목록 조작 <CommandIcon(11)/>직전 이동 지점"
-394,"<CommandIcon(23)/>스크롤 <CommandIcon(8)/>이동 <CommandIcon(11)/>직전 이동 지점 <CommandIcon(7)/>목록 조작"
-395,"<CommandIcon(10)/>역할 변경  <CommandIcon(8)/>특정 직업 지정  <CommandIcon(11)/>이 조건으로 검색"
-396,"<CommandIcon(10)/>전체 선택/해제  <CommandIcon(11)/>이 조건으로 검색"
-397,"<CommandIcon(10)/>역할/개별 직업 선택 전환"
-398,"<CommandIcon(10)/>전체 지역/개별 지역 선택 전환"
-399,"<CommandIcon(11)/>결정하고 닫기"
-400,"<CommandIcon(23)/>스크롤 <CommandIcon(11)/>범위 전환 <CommandIcon(12)/>+<CommandIcon(10)/>연결 지역 <CommandIcon(12)/>+<CommandIcon(23)/>확대/축소 <CommandIcon(8)/>텔레포 실행"
-401,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>참가 결정하고 닫기 <CommandIcon(24)/>상세 정보 스크롤"
-402,"<CommandIcon(9)/>목록으로 돌아가기 <CommandIcon(24)/>상세 정보 스크롤"
-403,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(24)/>상세 정보 스크롤"
-404,"<CommandIcon(24)/>상세 정보 스크롤"
-405,"<CommandIcon(8)/><CommandIcon(11)/>미리보기 <CommandIcon(10)/>세부 메뉴 <CommandIcon(20)/>이동 <CommandIcon(25)/>회전 <CommandIcon(12)/>+<CommandIcon(24)/>확대/축소"
-406,"<CommandIcon(11)/>입장 결정하고 닫기  <CommandIcon(10)/>파티원 편성"
-407,"<CommandIcon(8)/>파티원 선택/해제  <CommandIcon(9)/>편성 종료"
-408,"트러스트"
-409,"주요 퀘스트에서 공략한 레벨 71 이후의 일반 던전은
-동료 NPC의 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>환영체<UIGlow>01</UIGlow><UIForeground>01</UIForeground>와 함께 다시 공략할 수 있습니다.
-공략에 참가한 환영체는 경험치를 얻고 레벨을 올릴 수 있습니다.
-
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※ '트러스트'를 이용하여 일반 던전을 공략할 경우,
-일부 보물 상자의 내용물이 줄어들며 일부 적에게서 보상을 얻을 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-410,"장비 투영"
-411,"80레벨에 도달한 동료 NPC의 환영체는
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>장비 투영<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 할 수 있습니다.
-파티원 선택 화면의 상세 정보 칸에서
-장비 투영 아이콘을 누르거나
-캐릭터 세부 메뉴에서 '장비 투영'을 선택하면
-외형을 변경할 수 있습니다."
-412,"환영체 제한"
-413,"환영체 중에는 일부 던전에 동행할 수 없는 환영체도 있습니다."
-414,"던전 입장 방법"
-415,"던전에는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>지원 NPC와 함께 혼자 입장<UIGlow>01</UIGlow><UIForeground>01</UIForeground>하거나
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>매칭 기능을 이용<UIGlow>01</UIGlow><UIForeground>01</UIForeground>하여 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>다른 플레이어와 함께 입장<UIGlow>01</UIGlow><UIForeground>01</UIForeground>할 수 있습니다.
-
-물론 미리 파티를 짜서 입장할 수도 있으며,
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>입장 방법이 달라도 똑같이 던전을 공략할 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※ 지원 NPC와 함께 공략할 경우, 형평성을 위해
-일부 보물 상자의 내용물이 줄어들며 일부 적에게서 보상을 얻을 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-416,"임무 지원"
-417,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>지원 NPC<UIGlow>01</UIGlow><UIForeground>01</UIForeground>의 도움을 받으며
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>혼자서 던전을 공략할 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-이 시스템을 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 지원<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이라고 부릅니다.
-
-임무 지원을 이용할 수 있는 던전 입구에는
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>진입 지점<UIGlow>01</UIGlow><UIForeground>01</UIForeground>과 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 지원 아이콘<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 배치되어 있습니다.
-진입 지점을 클릭하여 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>지원 NPC와 입장<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 선택하면
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 지원 창<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 열립니다.
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>지원 NPC의 직업<UIGlow>01</UIGlow><UIForeground>01</UIForeground>은 플레이어의 현재 직업에 따라
-가장 적절한 조합으로 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>자동 조정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>됩니다.
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>입장<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 누르고 NPC와 함께 던전을 공략해 보세요!"
-418,"입장 확인"
-419,"입장 준비가 완료되면 알림음이 울립니다.
-입장 확인 창에서 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>입장<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 눌러 임무에 도전하세요!
-
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>제한 시간 안에 입장하지 않으면 자동으로 입장 거부가 되며
-입장할 던전 선택부터 다시 시작해야 합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-420,"공략 가능 임무"
-421,"당신이 성장할수록, 공략할 수 있는 던전/토벌전도 늘어납니다.
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 지원을 이용할 수 없는 임무<UIGlow>01</UIGlow><UIForeground>01</UIForeground>는
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 찾기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 이용해서 도전해 보세요.
-
-이미 공략을 완료했더라도, 몇 번이고 다시 같은 던전/토벌전에 도전할 수 있습니다.
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>주 메뉴<UIGlow>01</UIGlow><UIForeground>01</UIForeground>의 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 정보<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에서
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 찾기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>나 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 지원<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 통해 다시 도전할 수 있습니다."
-422,"파티 편성"
-423,"주요 퀘스트에서 방문하게 되는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>레벨 71 이후<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 일반 던전/토벌전은
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>지원 NPC로 파티를 편성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>하여 입장할 수 있습니다.
-
-현재 파티원을 클릭하면 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>파티원 선택<UIGlow>01</UIGlow><UIForeground>01</UIForeground>창이 열리며,
-던전에 같이 갈 수 있는 지원 NPC가 표시됩니다."
-424,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴"
-425,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴"
+1,"<hex:021E020B03>收回物品"
+2,"<hex:021E020D03>+ <hex:021E020E03>貼上 <hex:021E020B03>刪除 <hex:020839E95FFF2F><hex:02082BE4E94F64FF12><hex:021E020C03>虛擬鍵盤<hex:FF12><hex:021E020C03>螢幕鍵盤<hex:03><hex:FF05><hex:021D0103><hex:03>"
+3,"<hex:021E020903>改變隊員排列順序  <hex:021E020B03>次要指令"
+4,"<hex:021E020C03>開始搜尋"
+5,"<hex:021E020B03>次要指令 <hex:021E020903>購買 <hex:021E020C03>選擇要出售的道具"
+6,"<hex:021E020B03>次要指令  <hex:021E020C03>文本指令一覽"
+7,"<hex:021E020B03>次要指令  <hex:021E020C03>寫新郵件"
+8,"<hex:021E020B03>次要指令"
+9,"<hex:021E020903><hex:021E020B03>次要指令  <hex:021E020A03>返回"
+10,"<hex:021E020903>選擇附件道具"
+11,"<hex:021E020B03>在任務清單中優先顯示或隱藏  <hex:021E021903>捲動查看詳細情報"
+12,"<hex:021E020B03>次要指令  <hex:021E020A03>返回"
+13,"<hex:021E020D03>"
+14,"<hex:021E020E03>"
+15,"<hex:021E020B03>設置快速鍵  <hex:021E020903>發動"
+16,"<hex:021E020B03>裝備欄次要指令"
+17,"<hex:021E021803>捲動  <hex:021E020C03>切換地圖類型  <hex:021E020D03>+ <hex:021E021803>縮放  <hex:021E020903>切換地圖"
+18,"<hex:021E021803>捲動  <hex:021E020C03>切換地圖類型  <hex:021E020D03>+ <hex:021E020B03>切換  <hex:021E020D03>+ <hex:021E021803>縮放  <hex:021E020903>切換地圖"
+19,"<hex:021E020903><hex:021E020B03>次要指令"
+20,"<hex:021E020903><hex:021E020B03>次要指令"
+21,"<hex:021E020903><hex:021E020B03>次要指令"
+22,"<hex:021E020B03>次要指令"
+23,"<hex:021E020B03>次要指令  <hex:021E020C03>選擇交易道具"
+24,"<hex:021E020903>出售  <hex:021E020B03>次要指令"
+25,"<hex:021E020903><hex:021E020B03>次要指令  <hex:021E020C03>選擇出售商品"
+26,"<hex:021E020B03>次要指令"
+27,"<hex:021E020B03>次要指令"
+28,"<hex:021E020B03>次要指令  <hex:021E020A03>返回"
+29,"<hex:021E020B03>次要指令  <hex:021E020A03>返回"
+30,"<hex:021E020903>確認接受  <hex:021E020C03>查看日誌  <hex:021E021903>捲動查看詳細情報"
+31,"<hex:021E020C03>搜尋"
+32,"<hex:021E020B03>次要指令  <hex:021E020903>查看市場情況  <hex:021E020A03>返回"
+33,"<hex:021E020B03>次要指令  <hex:021E020903>查看市場情況  <hex:021E020A03>返回  <hex:021E020D03><hex:021E020E03>翻頁"
+34,"<hex:021E020903><hex:021E020B03>次要指令"
+35,"<hex:021E020C03>重新讀取隊員招募清單　<hex:021E020B03>次要指令　<hex:021E020903>查看詳情"
+36,"<hex:021E020C03>開始搜尋"
+37,"<hex:021E020B03><hex:021E020C03>在各個職能間依次切換　<hex:021E020903>指定具體職業"
+38,"<hex:021E020B03>次要指令  <hex:021E020903>交換"
+39,"<hex:021E020B03>次要指令"
+40,"<hex:021E020B03>次要指令  <hex:021E020903>確定  <hex:021E020A03>關閉"
+41,"<hex:021E020E03>"
+42,"<hex:021E020D03>"
+43,"<hex:021E021803>捲動  <hex:021E020C03>切換地圖類型  <hex:021E020D03>+ <hex:021E021803>縮放  <hex:021E020903>傳送"
+44,"<hex:021E020B03>次要指令"
+45,"<hex:021E020903><hex:021E020B03> 次要指令"
+46,"<hex:021E020B03>次要指令  <hex:021E020C03>編輯巨集指令  <hex:021E021903>捲動查看詳細情報"
+47,"<hex:021E020903>選擇  <hex:021E020C03>返回列表"
+48,"<hex:021E020903>解除選擇  <hex:021E020C03>切換到物品視窗"
+49,"<hex:021E020C03>切換到物品視窗"
+50,"<hex:021E020B03>次要指令  <hex:021E020C03>搜尋道具"
+51,"<hex:021E021503>移動  <hex:021E021A03>旋轉  <hex:021E020D03>+ <hex:021E021903>縮放"
+52,"<hex:021E020D03><hex:021E020E03>切換列表"
+53,"<hex:021E021903>捲動查看詳細情報"
+54,"<hex:021E020B03>取消選擇"
+55,"<hex:021E020903>移動到個人房間  <hex:021E020B03>查看個人房間資料"
+56,"<hex:021E020903>訓練  <hex:021E020B03>次要指令"
+57,"<hex:021E020903>訓練  <hex:021E020B03>次要指令"
+58,"<hex:021E020C03>顯示探索記錄 <hex:021E020B03>次要指令"
+59,"<hex:021E020C03>顯示風景印象 <hex:021E020B03>次要指令"
+60,"<hex:021E020B03>設置快速鍵  <hex:021E020903>召喚"
+61,"<hex:021E020B03>次要指令"
+62,"<hex:021E020C03>切換表示方式  <hex:021E020B03>次要指令"
+63,"<hex:021E020B03>次要指令"
+64,"<hex:021E020C03>確定"
+65,"<hex:021E020B03>次要指令  <hex:021E020903>選擇"
+66,"<hex:021E020B03>次要指令"
+67,"<hex:021E020B03>次要指令  <hex:021E020203>選擇消息視窗  <hex:021E020C03>放大消息視窗"
+68,"<hex:021E020203>選擇消息視窗  <hex:021E020C03>放大消息視窗"
+69,"<hex:021E020903>設置到擴展技能欄中"
+70,"<hex:021E020B03>次要指令  <hex:021E020903>選擇"
+71,"<hex:021E020903>更換裝備  <hex:021E020B03>次要指令  <hex:021E020D03><hex:021E020E03>切換部位"
+72,"<hex:021E020B03>次要指令  <hex:021E020203>選擇消息視窗  <hex:021E020303>切換所選分欄  <hex:021E020C03>放大消息視窗"
+73,"<hex:021E020B03>次要指令  <hex:021E020A03>返回聊天操作  <hex:021E020C03>放大消息視窗"
+74,"<hex:021E020B03>次要指令  <hex:021E020A03>返回聊天操作  <hex:021E020C03>將消息視窗恢復原尺寸"
+75,"<hex:021E020603>履歷 <hex:021E020D03>+ <hex:021E020E03>貼上 <hex:021E020B03>刪除 <hex:021E020E03>指定文字 <hex:020839E95FFF2F><hex:02082BE4E94F64FF12><hex:021E020C03>虛擬鍵盤<hex:FF12><hex:021E020C03>螢幕鍵盤<hex:03><hex:FF05><hex:021D0103><hex:03>"
+76,"<hex:021E020403>返回  <hex:021E020503>前進  <hex:021E020E03>指定文字"
+77,"<hex:021E020B03>次要指令  <hex:021E020C03>應用"
+78,"<hex:021E020C03>應用  <hex:021E020B03>刪除設置　"
+79,"<hex:021E020903>跳過劇情  <hex:021E020A03>取消"
+80,"<hex:021E020D03><hex:021E020E03>選擇職業分類"
+81,"<hex:021E020903><hex:021E020B03>次要指令  <hex:021E020C03>設置搜尋條件"
+82,"<hex:021E020603>順序移動  <hex:021E020903>確定  <hex:021E020A03>取消"
+83,"<hex:021E020803>移動  <hex:021E020903>確定  <hex:021E020A03>取消"
+84,"<hex:021E020C03>編輯公會公告"
+85,"<hex:021E020B03>次要指令"
+86,"<hex:021E020903>讀取線上狀態  <hex:021E020B03>次要指令"
+87,"<hex:021E020C03>應用"
+88,"<hex:021E020C03>應用"
+89,"<hex:021E020B03>次要指令  <hex:021E020C03>應用"
+90,"<hex:021E020B03>次要指令  <hex:021E020A03>返回"
+91,"<hex:021E020B03>次要指令  <hex:021E020A03>返回"
+92,"<hex:021E020B03>次要指令  <hex:021E020A03>返回"
+93,"<hex:021E020903>放入兵裝庫  <hex:021E020B03>次要指令"
+94,"<hex:021E020B03>次要指令  <hex:021E020D03><hex:021E020E03>切換部位"
+95,"<hex:021E020903>從物品欄中取出  <hex:021E020D03><hex:021E020E03>切換部位"
+96,"<hex:021E020B03>次要指令  <hex:021E020D03><hex:021E020E03>切換部位  <hex:021E020A03>返回"
+97,"<hex:021E020B03>次要指令  <hex:021E020D03><hex:021E020E03>切換部位  <hex:021E020A03>返回"
+98,"<hex:021E020B03>次要指令  <hex:021E020D03><hex:021E020E03>切換部位  <hex:021E020A03>返回"
+99,"<hex:021E020B03>次要指令  <hex:021E020D03><hex:021E020E03>切換部位  <hex:021E020A03>返回"
+100,"<hex:021E020B03>次要指令  <hex:021E020D03><hex:021E020E03>切換部位  <hex:021E020A03>返回"
+101,"<hex:021E020B03>次要指令  <hex:021E020D03><hex:021E020E03>切換部位  <hex:021E020A03>返回"
+102,"<hex:021E020B03>裝備欄次要指令"
+103,"<hex:021E020D03><hex:021E020E03>選擇分類"
+104,"<hex:021E020B03>次要指令  <hex:021E020403><hex:021E020503>翻頁"
+105,"<hex:021E020903>讀取線上狀態  <hex:021E020B03>次要指令  <hex:021E020403><hex:021E020503>翻頁"
+106,"<hex:021E021903>捲動查看詳細情報"
+107,"<hex:021E020903>使用  <hex:021E020B03>次要指令"
+108,"<hex:021E020B03>設置快速鍵"
+109,"<hex:021E020B03>選擇  <hex:021E020C03>確定參加並關閉視窗  <hex:021E021903>捲動查看詳細情報"
+110,"<hex:021E020B03>返回附件道具"
+111,"<hex:021E020903>選擇交易道具"
+112,"<hex:021E020603>捲動"
+113,"<hex:021E020B03>次要指令  <hex:021E020C03>選擇要放入的道具"
+114,"<hex:021E020803>移動  <hex:021E020903>確定  <hex:021E020A03>取消"
+115,"<hex:021E020903>取出  <hex:021E020C03>選擇要放入的道具"
+116,"<hex:021E020B03>次要指令  <hex:021E020A03>返回"
+117,"<hex:021E020B03>次要指令  <hex:021E020D03><hex:021E020E03>切換部位  <hex:021E020A03>返回"
+118,"<hex:021E020B03>設置快速鍵"
+119,"<hex:021E020B03>次要指令"
+120,"<hex:021E020903>穿脫裝備"
+121,"<hex:021E020C03>隨機選擇"
+122,"<hex:021E020903>選擇用色  <hex:021E020C03>隨機選擇"
+123,"<hex:021E020903>選擇  <hex:021E020C03>隨機選擇"
+124,"<hex:021E021903>捲動查看詳細情報"
+125,"<hex:021E020403><hex:021E020503>移動  <hex:021E020903>確定"
+126,"<hex:021E020C03>應用"
+127,"<hex:021E020C03>選擇要放入的道具"
+128,"<hex:021E020B03>次要指令  <hex:021E020203>選擇消息視窗  <hex:021E020C03>將消息視窗恢復原尺寸"
+129,"<hex:0212021203>縮放視窗  <hex:021E020C03>切換顯示內容"
+130,"<hex:021E020B03>次要指令  <hex:021E020C03>查看內容"
+131,"<hex:021E020903>顯示典型釣場"
+132,"<hex:021E021803>捲動查看地圖"
+133,"<hex:021E021803>捲動查看地圖  <hex:021E020903>打開魚類圖鑑"
+134,"<hex:021E020203>選擇消息視窗  <hex:021E020303>切換所選分欄  <hex:021E020C03>放大消息視窗"
+135,"<hex:021E020203>選擇消息視窗  <hex:021E020C03>將消息視窗恢復原尺寸"
+136,"<hex:021E020C03>選擇要放入的道具"
+137,"<hex:021E020B03>撤銷變更部分"
+138,"<hex:021E020B03>次要指令  <hex:021E020C03>傢俱清單"
+139,"<hex:021E020B03>次要指令 <hex:021E020C03>物品<hex:02082AE4E96A01FF22> <hex:021E020F03><hex:021E021003>切換已佈置/倉庫<hex:FF01><hex:03>"
+140,"<hex:021E020C03>移動"
+141,"<hex:021E021503>移動  <hex:021E021A03>轉向  <hex:021E020D03>+ <hex:021E021903>縮放"
+142,"<hex:021E020B03>裝備欄次要指令  <hex:021E021503>移動  <hex:021E021A03>轉向  <hex:021E020D03>+ <hex:021E021903>縮放"
+143,"<hex:021E020B03>設置快速鍵"
+144,"<hex:021E020B03>次要指令  <hex:021E020203>選擇消息視窗  <hex:021E020303>切換所選分欄"
+145,"<hex:021E020B03>次要指令  <hex:021E020A03>返回"
+146,"<hex:021E020203>選擇消息視窗  <hex:021E020303>切換所選分欄"
+147,"<hex:021E020D03><hex:021E020E03>切換消息欄"
+148,"<hex:021E020A03>返回聊天操作  <hex:021E020C03>放大消息視窗"
+149,"<hex:021E020A03>返回聊天操作  <hex:021E020C03>將消息視窗恢復原尺寸"
+150,"<hex:021E021803>捲動  <hex:021E020C03>切換地圖類型  <hex:021E020D03>+ <hex:021E021803>縮放"
+151,"<hex:021E020B03>次要指令"
+152,"<hex:021E020A03>返回"
+153,"<hex:021E020203>選擇消息視窗  <hex:021E020303>切換所選分欄"
+154,"<hex:021E020D03><hex:021E020E03>選擇職業"
+155,"<hex:021E020D03><hex:021E020E03>選擇分類  <hex:021E020B03>次要指令  <hex:021E020C03>開始製作"
+156,"<hex:021E020B03>次要指令  <hex:021E020C03>開始製作"
+157,"<hex:021E020A03>選擇關閉按鈕"
+158,"<hex:021E020A03>選擇關閉按鈕"
+159,"<hex:021E020B03>次要指令"
+160,"<hex:021E020B03>次要指令"
+161,"<hex:021E020B03>次要指令"
+162,"<hex:021E020B03>裝備欄次要指令  <hex:021E021503>移動  <hex:021E021A03>轉向  <hex:021E020D03>+ <hex:021E021903>縮放"
+163,"<hex:021E021803>捲動  <hex:021E020C03>切換地圖類型  <hex:021E020D03>+ <hex:021E021803>縮放  <hex:021E020D03>+ <hex:021E020E03>地圖連結"
+164,"<hex:021E021803>捲動  <hex:021E020C03>切換地圖類型  <hex:021E020D03>＋ <hex:021E020B03>切換  <hex:021E020D03>+ <hex:021E021803>縮放  <hex:021E020D03>+ <hex:021E020E03>地圖連結"
+165,"<hex:021E020C03>隨機選擇號碼"
+166,"<hex:021E020B03>次要指令"
+167,"<hex:021E020B03>次要指令"
+168,"<hex:021E020C03>隨機選詞"
+169,"<hex:021E020B03>次要指令"
+170,"<hex:021E020C03>規則"
+171,"<hex:021E020B03>次要指令  <hex:021E020903>選擇道具"
+172,"<hex:021E020A03>選擇關閉按鈕"
+173,"------------------------<hex:02100103>lua 5.1.4 / MIT License<hex:02100103>------------------------<hex:02100103>Copyright (C) 1994-2008 Lua.org, PUC-Rio.<hex:02100103><hex:02100103>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the ""Software""), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: <hex:02100103><hex:02100103>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<hex:02100103><hex:02100103>THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.<hex:02100103><hex:02100103><hex:02100103>------------------------<hex:02100103>rsa-md5 / RSA Data Security License<hex:02100103>------------------------<hex:02100103>Copyright (C) 1991-2, RSA Data Security, Inc. Created 1991. All rights reserved.<hex:02100103><hex:02100103>License to copy and use this software is granted provided that it is identified as the ""RSA Data Security, Inc. MD5 Message-Digest Algorithm"" in all material mentioning or referencing this software or this function.<hex:02100103><hex:02100103>License is also granted to make and use derivative works provided that such works are identified as ""derived from the RSA Data Security, Inc. MD5 Message-Digest Algorithm"" in all material mentioning or referencing the derived work.<hex:02100103><hex:02100103>RSA Data Security, Inc. makes no representations concerning either the merchantability of this software or the suitability of this software for any particular purpose. It is provided ""as is"" without express or implied warranty of any kind.<hex:02100103><hex:02100103>These notices must be retained in any copies of any part of this documentation and/or software. <hex:02100103><hex:02100103><hex:02100103>------------------------<hex:02100103>SHA-1 (Internet Society)<hex:02100103>------------------------<hex:02100103>Copyright (C) The Internet Society (2001). All Rights Reserved.<hex:02100103><hex:02100103>This document and translations of it may be copied and furnished to others, and derivative works that comment on or otherwise explain it or assist in its implementation may be prepared, copied, published and distributed, in whole or in part, without restriction of any kind, provided that the above copyright notice and this paragraph are included on all such copies and derivative works. However, this document itself may not be modified in any way, such as by removing the copyright notice or references to the Internet Society or other Internet organizations, except as needed for the purpose of developing Internet standards in which case the procedures for copyrights defined in the Internet Standards process must be followed, or as required to translate it into languages other than English.<hex:02100103><hex:02100103>The limited permissions granted above are perpetual and will not be revoked by the Internet Society or its successors or assigns.<hex:02100103><hex:02100103>This document and the information contained herein is provided on an ""AS IS"" basis and THE INTERNET SOCIETY AND THE INTERNET ENGINEERING TASK FORCE DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTY THAT THE USE OF THE INFORMATION HEREIN WILL NOT INFRINGE ANY RIGHTS OR ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.<hex:02100103><hex:02100103>Acknowledgement<hex:02100103><hex:02100103>Funding for the RFC Editor function is currently provided by the Internet Society.<hex:02100103><hex:02100103><hex:02100103>----------------<hex:02100103>zstream.h (zlib)<hex:02100103>----------------<hex:02100103>Copyright (c) 1997<hex:02100103>Christian Michelsen Research AS<hex:02100103>Advanced Computing<hex:02100103>Fantoftvegen 38, 5036 BERGEN, Norway<hex:02100103>http://www.cmr.no<hex:02100103><hex:02100103>Permission to use, copy, modify, distribute and sell this software and its documentation for any purpose is hereby granted without fee, provided that the above copyright notice appear in all copies and that both that copyright notice and this permission notice appear in supporting documentation. Christian Michelsen Research AS makes no representations about the suitability of this software for any purpose. It is provided ""as is"" without express or implied warranty.<hex:02100103><hex:02100103><hex:02100103>------<hex:02100103>LIBRARY FOR DUALSHOCK®4 & DualSense™ WIRELESS CONTROLLER<hex:02100103>------<hex:02100103>""DUALSHOCK"" and ""DualSense"" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.<hex:02100103>Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 Sony Interactive Entertainment Inc."
+174,"<hex:021E020D03><hex:021E020E03>選擇分類"
+175,"<hex:021E020D03><hex:021E020E03>切換工程  <hex:021E020B03>次要指令"
+176,"<hex:021E020D03><hex:021E020E03>切換工程  <hex:021E020B03>次要指令"
+177,"<hex:021E020A03>取消  <hex:021E020C03>出發"
+178,"<hex:021E020B03>次要指令"
+179,"<hex:021E020B03>選擇 <hex:021E020A03>關閉 <hex:021E020C03>確定並關閉"
+180,"<hex:021E020603>履歷 <hex:021E020D03>+ <hex:021E020E03>貼上 <hex:021E020B03>刪除 <hex:020839E95FFF2F><hex:02082BE4E94F64FF12><hex:021E020C03>虛擬鍵盤<hex:FF12><hex:021E020C03>螢幕鍵盤<hex:03><hex:FF05><hex:021D0103><hex:03>"
+181,"<hex:021E020B03>次要指令 <hex:021E020C03>保存更改並關閉"
+182,"<hex:021E020A03>保存更改並關閉"
+183,"<hex:021E020B03>次要指令  <hex:021E020C03>打開寵物一覽"
+184,"<hex:021E020903>召喚"
+185,"<hex:021E021903>捲動查看説明資訊"
+186,"<hex:021E020B03>設置快速鍵  <hex:021E020C03>編輯寵物快速鍵  <hex:021E020903>召喚"
+187,"<hex:024804F201F403><hex:024904F201F503>掌握住各種設施的功能<hex:0249020103><hex:0248020103><hex:02100103><hex:024804F201FA03><hex:024904F201FB03>　＜奧秘核石＞<hex:0249020103><hex:0248020103><hex:02100103>　　我方與敵方分別設有三個核石，<hex:02100103>　　將敵方的核石全部破壞便可以取得勝利。<hex:02100103><hex:024804F201FA03><hex:024904F201FB03>　＜萌寵之門＞<hex:0249020103><hex:0248020103><hex:02100103>　　召喚寵物時可以選擇使用哪個門來召喚。<hex:02100103>　　我方的寵物進入我方的萌寵之門時會恢復HP。<hex:02100103>　　即使門被破壞了也能召喚寵物，不過這樣一來寵物就無法移動到門外了。<hex:02100103>　　而且門外的寵物也無法移動到門內了。<hex:02100103><hex:024804F201FA03><hex:024904F201FB03>　＜探索眼＞<hex:0249020103><hex:0248020103><hex:02100103>　　可以顯示出敵方寵物情況的設施。<hex:02100103>　　如果遭到破壞，便無法觀察到遠離我方的敵方寵物。<hex:02100103><hex:024804F201FA03><hex:024904F201FB03>　＜防禦盾＞<hex:0249020103><hex:0248020103><hex:02100103>　　保護奧秘核石的設施。<hex:02100103>　　遭到破壞之後，核石所受到的傷害會增加。<hex:02100103><hex:02100103><hex:024804F201F403><hex:024904F201F503>關於設施的破壞與重啟<hex:0249020103><hex:0248020103><hex:02100103>　奧秘核石之外的設施在遭到攻擊時會暫時停止功能的運作。<hex:02100103>　經過一段時間之後會通過重啟來恢復原本的功能。<hex:02100103>　※重啟過程中將我方的寵物放到設施附近能夠縮短重啟的時間。<hex:02100103><hex:02100103><hex:024804F201F403><hex:024904F201F503>靈活運用設施特效<hex:0249020103><hex:0248020103><hex:02100103>　在對設施發起攻擊時，有特定的寵物會對特定的設施有更好的效果。<hex:02100103>　為了應對各種設施，準備好相應的寵物才是上策。<hex:02100103><hex:02100103><hex:024804F201F403><hex:024904F201F503>使用特殊技來瞬間逆轉<hex:0249020103><hex:0248020103><hex:02100103>　滿足下列兩個條件時可以發動特殊技。<hex:02100103>　　·附近聚集了4隻或更多的同一種寵物<hex:02100103>　　·聚集的4隻寵物都累積了特殊技點數<hex:02100103>　　（“特殊技點數”會隨時間經過而增加）<hex:02100103>　滿足條件之後選中某一隻寵物，<hex:02100103>　可以在功能表裡選擇“發動特殊技”來發動。<hex:02100103><hex:02100103><hex:024804F201F403><hex:024904F201F503>靈活使用陷阱<hex:0249020103><hex:0248020103><hex:02100103>　有部分寵物的特殊技是在場地上設下“陷阱”。<hex:02100103>　設好的陷阱在10秒後會開始起效。<hex:02100103>　此時在功能表中選擇“發動陷阱”來發動。<hex:02100103>　※每次只能設置一個陷阱。<hex:02100103><hex:02100103><hex:0208F20C8EE1E95101FFF20641><hex:024804F201F403><hex:024904F201F503><hex:02081BE1E94C01FF0A>控制器<hex:FF0A>控制器<hex:03>操作模式<hex:0249020103><hex:0248020103><hex:02100103><hex:024804F201FA03><hex:024904F201FB03>　＜選擇寵物＞<hex:0249020103><hex:0248020103><hex:02100103>　　·選擇單個寵物<hex:02100103>　　　<hex:021E020D03>+ <hex:021E020803>　：選擇寵物小隊列表中的寵物<hex:02100103>　　·選擇多個寵物<hex:02100103>　　　<hex:021E020C03>　　　：打開選擇圈並選中圈內的寵物<hex:02100103><hex:024804F201FA03><hex:024904F201FB03>　＜特殊功能＞<hex:0249020103><hex:0248020103><hex:02100103>　　·整體操作<hex:02100103>　　　<hex:0212021203>　　　：切換萌寵之門<hex:02100103>　　　<hex:021E021003>　　　：切換顯示寵物小隊清單<hex:02100103>　　　<hex:0212021103>　　　：選擇召喚預約列表<hex:02100103>　　　<hex:021E020D03>+ <hex:0212020B03>　：發動特殊技<hex:02100103>　　　<hex:021E020E03>+ <hex:021E021503>　：移動地圖上的指標指標<hex:02100103>　　　<hex:021E020E03>+ <hex:0212021103>  ：重置指標指針的位置<hex:02100103>　　　<hex:021E021303>　：顯示遊戲內説明<hex:02100103>　　·選擇寵物的操作<hex:02100103>　　　<hex:021E020D03>+ <hex:0212020C03>　：選擇目前選中寵物附近的同種類寵物<hex:02100103>　　　<hex:021E020D03>+ <hex:0212020903>　：選擇目前選中寵物附近的所有我方寵物<hex:02100103>　　　<hex:021E020D03>+ <hex:0212020A03>　：選擇與目前選中寵物同種類的所有我方寵物<hex:02100103>　　·小地圖操作<hex:02100103>　　　按住<hex:021E020F03>　：記憶地圖跳躍點（鬆開後會移動到該地點）<hex:02100103>　　　<hex:021E020F03>+ <hex:021E021803>　：移動地圖跳躍點<hex:02100103>　　　<hex:021E020F03>+ <hex:0212021203>　：重置地圖跳躍點<hex:02100103><hex:02100103><hex:024804F201F403><hex:024904F201F503>滑鼠操作模式<hex:0249020103><hex:0248020103><hex:02100103><hex:024804F201FA03><hex:024904F201FB03>　＜選擇寵物＞<hex:0249020103><hex:0248020103><hex:02100103>　　左鍵按一下：選擇單個寵物<hex:02100103>　　　　　　　　 ※左鍵按一下已選中的寵物時<hex:02100103>　　　　　　　　　 會選中附近的同種類寵物。<hex:02100103>　　左鍵拖曳：選擇範圍內的所有寵物<hex:02100103><hex:FFF20641><hex:024804F201F403><hex:024904F201F503>滑鼠操作模式<hex:0249020103><hex:0248020103><hex:02100103><hex:024804F201FA03><hex:024904F201FB03>　＜選擇寵物＞<hex:0249020103><hex:0248020103><hex:02100103>　　左鍵按一下：選擇單個寵物<hex:02100103>　　　　　　　　 ※左鍵按一下已選中的寵物時<hex:02100103>　　　　　　　　　 會選中附近的同種類寵物。<hex:02100103>　　左鍵拖曳：選擇範圍內的所有寵物<hex:02100103><hex:02100103><hex:024804F201F403><hex:024904F201F503><hex:02081BE1E94C01FF0A>控制器<hex:FF0A>控制器<hex:03>操作模式<hex:0249020103><hex:0248020103><hex:02100103><hex:024804F201FA03><hex:024904F201FB03>　＜選擇寵物＞<hex:0249020103><hex:0248020103><hex:02100103>　　·選擇單個寵物<hex:02100103>　　　<hex:021E020D03>+ <hex:021E020803>　：選擇寵物小隊列表中的寵物<hex:02100103>　　·選擇多個寵物<hex:02100103>　　　<hex:021E020C03>　　　：打開選擇圈並選中圈內的寵物<hex:02100103><hex:024804F201FA03><hex:024904F201FB03>　＜特殊功能＞<hex:0249020103><hex:0248020103><hex:02100103>　　·整體操作<hex:02100103>　　　<hex:0212021203>　　　：切換萌寵之門<hex:02100103>　　　<hex:021E021003>　　　：切換顯示寵物小隊清單<hex:02100103>　　　<hex:0212021103>　　　：選擇召喚預約列表<hex:02100103>　　　<hex:021E020D03>+ <hex:0212020B03>　：發動特殊技<hex:02100103>　　　<hex:021E020E03>+ <hex:021E021503>　：移動地圖上的指標指標<hex:02100103>　　　<hex:021E020E03>+ <hex:0212021103>  ：重置指標指針的位置<hex:02100103>　　　<hex:021E021303>　：顯示遊戲內説明<hex:02100103>　　·選擇寵物的操作<hex:02100103>　　　<hex:021E020D03>+ <hex:0212020C03>　：選擇目前選中寵物附近的同種類寵物<hex:02100103>　　　<hex:021E020D03>+ <hex:0212020903>　：選擇目前選中寵物附近的所有我方寵物<hex:02100103>　　　<hex:021E020D03>+ <hex:0212020A03>　：選擇與目前選中寵物同種類的所有我方寵物<hex:02100103>　　·小地圖操作<hex:02100103>　　　按住<hex:021E020F03>　：記憶地圖跳躍點（鬆開後會移動到該地點）<hex:02100103>　　　<hex:021E020F03>+ <hex:021E021803>　：移動地圖跳躍點<hex:02100103>　　　<hex:021E020F03>+ <hex:0212021203>　：重置地圖跳躍點<hex:02100103><hex:03><hex:02100103><hex:024804F201F403><hex:024904F201F503>鍵盤快捷鍵<hex:0249020103><hex:0248020103><hex:02100103>　在萌寵之王中可以對以下功能進行鍵位設置。<hex:02100103><hex:0208F20131E4E94C02FF01><hex:FFF20127>　　寵物快速鍵上行：快速鍵2的技能欄1～12<hex:02100103>　　寵物快速鍵下行：快速鍵1的技能欄1～12<hex:02100103>　　發動特殊技　　：快速鍵3的技能欄1<hex:02100103>　　發動陷阱　　　：快速鍵3的技能欄2<hex:02100103>　　返回　　　　　：快速鍵3的技能欄3<hex:02100103><hex:03>　　打開選擇圈　　：跳躍<hex:02100103>　　切換萌寵之門　：拔出/收回武器<hex:02100103>　　萌寵之王列表　：寵物一覽"
+188,"<hex:021E020903>選擇  <hex:021E020C03>出港探索  <hex:021E021903>捲動查看詳細情報"
+189,"<hex:021E020903>改變指令排列順序或層級 <hex:021E020B03>顯示/不顯示 <hex:021E020C03>應用"
+190,"<hex:021E020B03>次要指令"
+191,"<hex:021E020603>改變排列順序 <hex:021E020703>改變層級 <hex:021E020903><hex:021E020A03>確定 <hex:021E020B03>顯示/不顯示 <hex:021E020C03>應用"
+192,"<hex:021E020D03><hex:021E020E03>選擇分類 <hex:021E020903>試聽 <hex:021E020C03>設為房屋背景樂曲 <hex:021E020B03>次要指令"
+193,"<hex:021E020D03><hex:021E020E03>選擇分類 <hex:021E020903>設為房屋背景樂曲 <hex:021E020C03>停止試聽 <hex:021E020B03>次要指令"
+194,"<hex:021E020D03><hex:021E020E03>選擇分類 <hex:021E020903>不再設為房屋背景樂曲 <hex:021E020B03>次要指令"
+195,"<hex:021E020D03><hex:021E020E03>選擇分類 <hex:021E020903>設為房屋背景樂曲 <hex:021E020B03>次要指令"
+196,"<hex:021E020903>購回"
+197,"<hex:021E020B03>裝備欄次要指令"
+198,"<hex:021E021503>移動 <hex:021E021A03>旋轉 <hex:021E020D03>+ <hex:021E021903>縮放"
+199,"<hex:021E020B03>裝備欄次要指令 <hex:021E021503>移動 <hex:021E021A03>旋轉 <hex:021E020D03>+ <hex:021E021903>縮放"
+200,"<hex:021E020903>選擇 <hex:021E020C03>開始 <hex:021E021903>捲動查看詳細情報"
+201,"<hex:021E020D03><hex:021E020E03>選擇分類"
+202,"<hex:021E020903><hex:021E020B03>次要指令 <hex:021E020D03><hex:021E020E03>切換選擇列表"
+203,"<hex:021E020903>改變職能排列順序  <hex:021E020C03>應用"
+204,"<hex:021E020603>順序移動 <hex:021E020903><hex:021E020A03>確定 <hex:021E020C03>應用"
+205,"<hex:021E020B03>選擇 <hex:021E020C03>確定參加並關閉視窗 <hex:021E021903>捲動查看詳細情報"
+206,"<hex:021E020B03>次要指令 <hex:021E020C03>查看內容"
+207,"<hex:021E020A03>關閉 <hex:021E021903>捲動"
+208,"<hex:021E020A03>關閉 <hex:021E021903>捲動查看詳細情報"
+209,"<hex:021E020B03>次要指令 <hex:021E020903>確定 <hex:021E020A03>取消"
+210,"<hex:021E020B03>次要指令 <hex:021E020903>確定 <hex:021E020A03>取消"
+211,"<hex:021E020903>試聽 <hex:021E020C03>設為房屋背景樂曲 <hex:021E020B03>次要指令"
+212,"<hex:021E020903>設為房屋背景樂曲 <hex:021E020C03>停止試聽 <hex:021E020B03>次要指令"
+213,"<hex:021E020903>不再設為房屋背景樂曲 <hex:021E020B03>次要指令"
+214,"<hex:021E020C03>組編分隊"
+215,"<hex:021E020903>確定  <hex:021E020A03>關閉"
+216,"<hex:021E020B03>次要指令"
+217,"<hex:021E020B03>次要指令"
+218,"<hex:021E020B03>次要指令"
+219,"<hex:021E020F03><hex:021E021003>定点カメラの切り替え <hex:021E021303>メニュー表示"
+220,"<hex:021E020903>移動到公寓房間  <hex:021E020B03>查看公寓房間資料"
+221,"<hex:021E020B03>次要指令"
+222,"<hex:021E020B03>次要指令"
+223,"<hex:021E021803>捲動  <hex:021E020D03>+ <hex:021E021803>縮放  <hex:021E020E03>切換固定視角"
+224,"<hex:021E020B03>次要指令"
+225,"<hex:021E020B03>次要指令 <hex:021E020C03>環境切換"
+226,"<hex:021E020A03>關閉 <hex:021E021903>捲動"
+227,"<hex:021E020D03><hex:021E020E03>選擇分類 <hex:021E020903>添加 <hex:021E020B03>次要指令"
+228,"<hex:021E020B03>次要指令"
+229,"<hex:021E020B03>次要指令"
+230,"<hex:021E020B03>裝備欄次要指令"
+231,"<hex:021E020B03>裝備欄次要指令 <hex:021E021503>移動 <hex:021E021A03>旋轉 <hex:021E020D03>+ <hex:021E021903>縮放"
+232,"<hex:021E020903><hex:021E020B03>次要指令"
+233,"<hex:021E020B03>次要指令"
+234,"<hex:021E020B03>次要指令"
+235,"<hex:021E020B03>設置快速鍵  <hex:021E020903>發動"
+236,"<hex:021E020903>設置PvP額外技能"
+237,"<hex:021E020B03>次要指令 <hex:021E020903>選擇"
+238,"<hex:021E020403><hex:021E020503>移動 <hex:021E020903>確定"
+239,"<hex:021E021803>捲動 <hex:021E020C03>切換地圖類型 <hex:021E020D03>+ <hex:021E020B03>切換 <hex:021E020D03>+ <hex:021E021803>縮放"
+240,"<hex:021E020903>設置PvP特性"
+241,"<hex:021E020903><hex:021E020B03>次要指令"
+242,"<hex:021E020A03>選擇放棄按鈕"
+243,"<hex:021E020A03>選擇關閉按鈕"
+244,"<hex:021E020603>捲動 <hex:021E020A03>關閉"
+245,"<hex:021E020C03>組編分隊"
+246,"<hex:021E020903>讀取線上狀態  <hex:021E020B03>次要指令"
+247,"禁止通過樂器演奏功能侵犯協力廠商的權利。<hex:02100103><hex:02100103>玩家可在«FINAL FANTASY XIV»版權與使用者協議的允許範圍內上傳自己的演奏作品，<hex:02100103>但無權阻止他人散播或使用自己的作品。<hex:02100103><hex:02100103>"
+248,"<hex:021E020B03>次要指令"
+249,"<hex:021E020C03>開始遊戲/結束遊戲"
+250,"<hex:021E020C03>開始遊戲/再次挑戰 <hex:021E020B03>關閉"
+251,"<hex:021E020B03>次要指令  <hex:021E020C03>選擇要放入的道具"
+252,"<hex:021E020803>移動  <hex:021E020903>決定  <hex:021E020A03>取消"
+253,"<hex:021E020B03>次要指令  <hex:021E020A03>返回"
+254,"<hex:021E020B03>次要指令  <hex:021E020A03>返回"
+255,"<hex:021E020B03>次要指令  <hex:021E020D03><hex:021E020E03>切換部位  <hex:021E020A03>返回"
+256,"<hex:021E020C03>應用"
+257,"<hex:021E020903>增加該屬性的魔素石　<hex:021E020B03>減少該屬性的魔素石"
+258,"<hex:021E020C03> 切換焦點  <hex:021E020B03> 次要指令"
+259,"<hex:021E020C03> 切換焦點  <hex:021E020B03> 次要指令"
+260,"<hex:021E020B03> 次要指令"
+261,"<hex:021E020A03> 返回投影範本"
+262,"<hex:021E020B03>次要指令　<hex:021E020A03>返回投影範本"
+263,"<hex:021E020B03> 次要指令 <hex:021E021503>移動 <hex:021E021A03>轉向 <hex:021E020D03>+ <hex:021E021903>縮放"
+264,"<hex:021E020B03> 次要指令"
+265,"<hex:021E020B03>次要指令"
+266,"<hex:021E020903><hex:021E020B03>次要指令"
+267,"<hex:021E020A03>關閉"
+268,"<hex:021E020B03>次要指令"
+269,"<hex:021E020C03>全部勾選/全部解除"
+270,"<hex:021E020B03>次要指令"
+271,"<hex:021E020903>取消　<hex:021E020C03>選擇道具"
+272,"<hex:021E020903><hex:021E020B03>次要指令  <hex:021E020A03>返回"
+273,"<hex:021E021903>捲動查看詳細情報"
+274,"<hex:021E020B03><hex:021E020903>次要指令"
+275,"<hex:021E020B03>次要指令 <hex:021E020C03>移動常用清單中情感動作的位置"
+276,"<hex:021E020C03>選擇出讓的道具"
+277,"<hex:021E020903>召喚/收回 <hex:021E020B03>次要指令 <hex:021E020C03>編輯寵物快速鍵"
+278,"<hex:021E020903>召喚/收回 <hex:021E020B03>次要指令 <hex:021E020C03>移動常用清單中寵物的位置"
+279,"<hex:021E020803>移動 <hex:021E020C03><hex:021E020903>確定 <hex:021E020A03>取消"
+280,"<hex:021E020603>履歷 <hex:021E020D03>+ <hex:021E020E03>貼上 <hex:020839E95FFF2F><hex:02082BE4E94F64FF12><hex:021E020C03>虛擬鍵盤<hex:FF12><hex:021E020C03>螢幕鍵盤<hex:03><hex:FF05><hex:021D0103><hex:03>"
+281,"<hex:021E020603>移動 <hex:021E020903>召喚/收回 <hex:021E020B03>次要指令"
+282,"<hex:021E020903>召喚 <hex:021E020B03>次要指令"
+283,"<hex:021E020903>召喚 <hex:021E020B03>次要指令 <hex:021E020C03>移動常用清單中坐騎的位置"
+284,"<hex:021E020803>移動 <hex:021E020C03><hex:021E020903>確定 <hex:021E020A03>取消"
+285,"<hex:021E020603>履歷 <hex:021E020D03>+ <hex:021E020E03>貼上 <hex:020839E95FFF2F><hex:02082BE4E94F64FF12><hex:021E020C03>虛擬鍵盤<hex:FF12><hex:021E020C03>螢幕鍵盤<hex:03><hex:FF05><hex:021D0103><hex:03>"
+286,"<hex:021E020603>移動 <hex:021E020903>召喚 <hex:021E020B03>次要指令"
+287,"<hex:021E020803>移動 <hex:021E020C03><hex:021E020903><hex:021E020B03>確定 <hex:021E020A03>取消"
+288,"<hex:021E020903>召喚/收回 <hex:021E020B03>次要指令"
+289,"<hex:021E020C03>寫新郵件"
+290,"<hex:021E020B03>次要指令  <hex:021E020903>領取"
+291,"<hex:021E020903>設置有效技能"
+292,"<hex:021E020B03>次要指令  <hex:021E020903>改變位置"
+293,"<hex:021E020803>移動  <hex:021E020903>確定  <hex:021E020A03>取消"
+294,"<hex:021E020A03>關閉"
+295,"<hex:021E020B03>次要指令  <hex:021E020903>放入  <hex:021E020A03>融合器  <hex:021E020C03>文理技能"
+296,"<hex:021E020903>使用  <hex:021E020C03>關閉"
+297,"<hex:021E020C03>選擇文理碎晶  <hex:021E020B03>次要指令"
+298,"<hex:021E020B03><hex:021E020903>次要指令"
+299,"<hex:021E020B03>次要指令  <hex:021E020A03><hex:021E020C03>融合器"
+300,"<hex:021E020C03>選擇文理碎晶  <hex:021E020A03>關閉"
+301,"<hex:021E020B03>次要指令"
+302,"<hex:021E020B03>次要指令"
+303,"<hex:021E020903><hex:021E020B03>查看個人房間資料"
+304,"<hex:021E020903><hex:021E020B03>查看公寓房間資料"
+305,"<hex:021E020B03>刪除<hex:02083BE95FFF31><hex:02082DE4E94F64FF13> <hex:021E020C03>虛擬鍵盤<hex:FF13> <hex:021E020C03>螢幕鍵盤<hex:03><hex:FF05><hex:021D0103><hex:03>"
+306,"<hex:021E020903><hex:021E020B03>次要指令"
+307,"<hex:021E020903>召喚 <hex:021E020B03>設置快速鍵 <hex:021E020C03>編輯寵物快速鍵"
+308,"<hex:021E020903>召喚 <hex:021E020B03>設置快速鍵"
+309,"<hex:021E020903>召喚 <hex:021E020B03>設置快速鍵"
+310,"<hex:021E020D03><hex:021E020E03>切換關卡信息"
+311,"<hex:021E020903>確定 <hex:021E021903>捲動查看詳細情報"
+312,"<hex:021E020903>確定"
+313,"<hex:021E020B03>鳴牌設置切換 <hex:021E020C03>協助工具"
+314,"<hex:021E020903>讀取線上狀態  <hex:021E020B03>次要指令  <hex:021E020A03>返回"
+315,"<hex:021E020D03><hex:021E020E03>切換關卡資訊　<hex:021E020903>確認有效的異常狀態"
+316,"<hex:021E020903>選擇  <hex:021E020B03>次要指令"
+317,"<hex:021E020903>選擇 <hex:021E020B03>次要指令"
+318,"<hex:021E020603>捲動"
+319,"<hex:021E020903>選擇交易道具"
+320,"<hex:021E020903>隊員選定或解除"
+321,"<hex:021E020B03>次要指令  <hex:021E020903>隊員選定或解除"
+322,"<hex:021E020903>選中/解除  <hex:021E020B03>選中/解除組內其他項  <hex:021E020C03>確定"
+323,"<hex:021E020A03>關閉 <hex:021E021903>捲動查看詳細情報"
+324,"<hex:021E020903>選擇 <hex:021E020A03>關閉 <hex:021E020C03>確定並關閉 <hex:021E021903>捲動查看詳細情報"
+325,"<hex:021E020903>移動到詳細情報  <hex:021E021903>捲動查看詳細情報  <hex:021E020B03>次要指令"
+326,"<hex:021E020B03>次要指令"
+327,"<hex:021E020B03>次要指令 <hex:021E020C03>簡易採集 開啟/關閉"
+328,"<hex:021E020903>顯示詳細情報  <hex:021E021903>捲動查看詳細情報  <hex:021E020B03>次要指令"
+329,"<hex:021E020B03>次要指令"
+330,"<hex:021E020B03>次要指令"
+331,"<hex:021E020B03>次要指令 <hex:021E020D03><hex:021E020E03>換頁"
+332,"<hex:021E020B03>次要指令"
+333,"<hex:021E020B03>設置快速鍵 <hex:021E020903>執行"
+334,"<hex:021E021903>捲動查看詳細情報"
+335,"<hex:021E020B03>次要指令"
+336,"<hex:021E020B03>次要指令 <hex:021E020C03>返回製作介面 <hex:021E020A03>關閉"
+337,"<hex:021E020B03>次要指令"
+338,"<hex:021E020B03>次要指令  <hex:021E020903>選擇"
+339,"<hex:021E020C03>應用"
+340,"<hex:021E020B03>次要指令 <hex:021E020D03><hex:021E020E03>翻頁"
+341,"<hex:021E020B03>次要指令"
+342,"<hex:021E020A03>返回玩具箱"
+343,"<hex:021E020A03>選擇關閉按鈕"
+344,"<hex:021E020903><hex:021E020B03>次要指令 <hex:021E020A03>返回"
+345,"<hex:021E020B03>次要指令 <hex:021E020903>執行"
+346,"<hex:021E020903>使用  <hex:021E020C03>返回戰果情報"
+347,"<hex:021E020803>移動  <hex:021E020903>翻開拼圖"
+348,"<hex:021E020903>放入失傳技能庫  <hex:021E020B03>次要指令  <hex:021E020C03>編輯失傳技能庫"
+349,"<hex:021E020903>使用  <hex:021E020B03>次要指令 <hex:021E020C03>返回戰果情報"
+350,"<hex:021E020903>放回失傳技能保管箱  <hex:021E020B03>次要指令 <hex:021E020C03>編輯失傳技能保管箱"
+351,"<hex:021E020C03>返回戰果情報"
+352,"<hex:021E020C03>編輯失傳技能保管箱"
+353,"<hex:021E020C03>推薦"
+354,"<hex:021E020A03>關閉"
+355,"<hex:021E021903>捲動查看詳細情報"
+356,"<hex:021E020B03>次要指令"
+357,"<hex:021E020B03>次要指令  <hex:021E020903>交換"
+358,"<hex:021E020B03>次要指令"
+359,"<hex:021E020B03>地圖"
+360,"<hex:021E020203>"
+361,"<hex:021E020303>"
+362,"<hex:021E020403>"
+363,"<hex:021E020503>"
+364,"<hex:021E020603>"
+365,"<hex:021E020703>"
+366,"<hex:021E020803>"
+367,"<hex:021E020903>"
+368,"<hex:021E020A03>"
+369,"<hex:021E020B03>"
+370,"<hex:021E020C03>"
+371,"<hex:021E020D03>"
+372,"<hex:021E020E03>"
+373,"<hex:021E020F03>"
+374,"<hex:021E021003>"
+375,"<hex:0212021103>"
+376,"<hex:0212021203>"
+377,"<hex:021E021303>"
+378,"<hex:021E021403>"
+379,"<hex:021E021503>"
+380,"<hex:021E021603>"
+381,"<hex:021E021703>"
+382,"<hex:021E021803>"
+383,"<hex:021E021903>"
+384,"<hex:021E021A03>"
+385,"<hex:021E020C03>快速捲動 <hex:021E020B03>次要指令"
+386,"<hex:021E020603>履歷 <hex:021E020D03>+ <hex:021E020E03>貼上 <hex:021E020B03>刪除 <hex:020839E95FFF2F><hex:02082BE4E94F64FF12><hex:021E020C03>虛擬鍵盤<hex:FF12><hex:021E020C03>螢幕鍵盤<hex:03><hex:FF05><hex:021D0103><hex:03>"
+387,"<hex:021E020903>領取獎勵  <hex:021E020B03>次要指令"
+388,"<hex:021E020B03>次要指令"
+389,"<hex:021E020B03>次要指令"
+390,"<hex:021E020D03><hex:021E020E03>選擇職業分類 <hex:021E020B03>次要指令"
+391,"<hex:021E020D03><hex:021E020E03>選擇職業分類  <hex:021E020903>打開地圖"
+392,"<hex:021E020603>選擇目的地 <hex:021E020903>傳送 <hex:021E021803>轉為控制地圖"
+393,"<hex:021E021803>捲動 <hex:021E020803>轉為控制列表"
+394,"<hex:021E021803>捲動 <hex:021E020903>傳送 <hex:021E020803>轉為控制列表"
+395,"<hex:021E020B03>在各個職能間依次切換  <hex:021E020903>指定具體職業  <hex:021E020C03>開始搜尋"
+396,"<hex:021E020B03>全選/反選  <hex:021E020C03>開始搜尋"
+397,"<hex:021E020B03>切換職能/單一職業"
+398,"<hex:021E020B03>切換該區域全選/單一地點"
+399,"<hex:021E020C03>確定並關閉"
+400,"<hex:021E021803>捲動 <hex:021E020C03>切換地圖類型 <hex:021E020D03>+ <hex:021E020B03>切換 <hex:021E020D03>+ <hex:021E021803>縮放 <hex:021E020903>傳送"
+401,"<hex:021E020B03>次要指令 <hex:021E020C03>確定參加並關閉視窗 <hex:021E021903>捲動查看詳細情報"
+402,"<hex:021E020A03>返回列表 <hex:021E021903>捲動查看詳細情報"
+403,"<hex:021E020B03>次要指令 <hex:021E021903>捲動查看詳細情報"
+404,"<hex:021E021903>捲動查看詳細情報"
+405,"<hex:021E020B03> 次要指令 <hex:021E021503>移動 <hex:021E021A03>轉向 <hex:021E020D03>+ <hex:021E021903>縮放"
+406,"<hex:021E020C03>確定進入並關閉視窗 <hex:021E020B03>編成小隊"
+407,"<hex:021E020903>隊員選定或解除 <hex:021E020A03>結束編成"
+408,"親信戰友"
+409,"主線任務中需要前往的71級以上的迷宮<hex:02100103>都可選擇與非玩家同伴角色的<hex:024804F201FA03><hex:024904F201FB03>幻體<hex:0249020103><hex:0248020103>一同前往。<hex:02100103>幻體可通過攻略迷宮而獲得經驗、升級。<hex:02100103><hex:02100103><hex:024804F201F403><hex:024904F201F503>※使用“親信戰友”系統挑戰迷宮時部分寶箱中的內容會減少，<hex:02100103>另外擊敗部分怪物時將無法獲得獎勵。<hex:0249020103><hex:0248020103>"
+410,"投影"
+411,"等級達到80級的幻體會開放<hex:024804F201FA03><hex:024904F201FB03>投影<hex:0249020103><hex:0248020103>功能。<hex:02100103>可以在同伴選擇畫面上通過次要指令中的投影選項<hex:02100103>對幻體的外觀進行修改。<hex:02100103>投影開放後，同伴的詳細情報處的投影按鍵就會生效。"
+412,"幻體的限制"
+413,"有些幻體無法前往全部的迷宮。"
+414,"進入迷宮的兩種方法"
+415,"進入迷宮有兩種方法，<hex:02100103>第一種是<hex:024804F201FA03><hex:024904F201FB03>和輔助隊員組成小隊單獨進入<hex:0249020103><hex:0248020103>，<hex:02100103>第二種是<hex:024804F201FA03><hex:024904F201FB03>利用匹配功能與其他玩家組成小隊進入<hex:0249020103><hex:0248020103>。<hex:02100103><hex:02100103>當然，玩家也可以在進入迷宮前，事先與其他玩家組成小隊共同參與迷宮挑戰。<hex:02100103><hex:024804F201FA03><hex:024904F201FB03>不管以上述何種方式進入迷宮，均可參與迷宮挑戰<hex:0249020103><hex:0248020103>。<hex:02100103><hex:02100103><hex:024804F201F403><hex:024904F201F503>※和輔助隊員挑戰迷宮時，為了平衡報酬獲得量，部分寶箱中的內容會減少。<hex:02100103>另外擊敗部分怪物時將無法獲得獎勵。<hex:0249020103><hex:0248020103>"
+416,"劇情輔助器"
+417,"作為玩家，你可以憑藉<hex:024804F201FA03><hex:024904F201FB03>輔助隊員<hex:0249020103><hex:0248020103>的協助，<hex:024804F201FA03><hex:024904F201FB03>獨自挑戰迷宮<hex:0249020103><hex:0248020103>。<hex:02100103>我們將這個系統稱呼為<hex:024804F201FA03><hex:024904F201FB03>劇情輔助器<hex:0249020103><hex:0248020103>。<hex:02100103><hex:02100103>可以使用劇情輔助器的迷宮，在入口處會設有<hex:024804F201FA03><hex:024904F201FB03>進入點和劇情輔助器可用的圖示<hex:0249020103><hex:0248020103>。<hex:02100103>訪問進入點，選擇<hex:024804F201FA03><hex:024904F201FB03>和輔助隊員進入<hex:0249020103><hex:0248020103>後，<hex:02100103>將會打開<hex:024804F201FA03><hex:024904F201FB03>劇情輔助器視窗<hex:0249020103><hex:0248020103>。<hex:02100103><hex:02100103><hex:024804F201FA03><hex:024904F201FB03>輔助隊員的職業或特職<hex:0249020103><hex:0248020103>會根據你當前的職業或特職<hex:024804F201FA03><hex:024904F201FB03>自動調整<hex:0249020103><hex:0248020103>為最佳組合。<hex:02100103><hex:024804F201FA03><hex:024904F201FB03>按下進入按鈕後<hex:0249020103><hex:0248020103>就可以與非玩家角色一同挑戰迷宮了！"
+418,"出發確認視窗"
+419,"<hex:024804F201FA03><hex:024904F201FB03>做好出發準備<hex:0249020103><hex:0248020103>後會有<hex:024804F201FA03><hex:024904F201FB03>聲音提示，並彈出視窗<hex:0249020103><hex:0248020103>。<hex:02100103><hex:024804F201FA03><hex:024904F201FB03>按下出發按鈕<hex:0249020103><hex:0248020103>就可以進行挑戰了！<hex:02100103><hex:02100103><hex:024804F201F403><hex:024904F201F503>若沒有在限制時間內出發，將會取消參加，需要重新進行選擇。<hex:0249020103><hex:0248020103>"
+420,"可以挑戰的任務"
+421,"隨著你的冒險不斷推進，可以挑戰的迷宮、討伐殲滅戰的數量也會不斷增加。<hex:02100103><hex:024804F201FA03><hex:024904F201FB03>當前不可使用劇情輔助器的迷宮及任務<hex:0249020103><hex:0248020103>請多<hex:024804F201FA03><hex:024904F201FB03>利用任務搜尋器<hex:0249020103><hex:0248020103>參與挑戰！<hex:02100103><hex:02100103>此外成功挑戰過的迷宮、討伐殲滅戰也可以重複進行挑戰。<hex:02100103>可以從<hex:024804F201FA03><hex:024904F201FB03>設定選單<hex:0249020103><hex:0248020103>的<hex:024804F201FA03><hex:024904F201FB03>任務情報<hex:0249020103><hex:0248020103>功能表選擇<hex:024804F201FA03><hex:024904F201FB03>任務搜尋器<hex:0249020103><hex:0248020103><hex:02100103>或<hex:024804F201FA03><hex:024904F201FB03>劇情輔助器<hex:0249020103><hex:0248020103>再次進行挑戰。"
+422,"編成小隊"
+423,"主線任務中需要前往的<hex:024804F201FA03><hex:024904F201FB03>71級以上<hex:0249020103><hex:0248020103>的迷宮、討伐殲滅戰<hex:02100103>都可在<hex:024804F201FA03><hex:024904F201FB03>輔助隊員<hex:0249020103><hex:0248020103>一覽中<hex:024804F201FA03><hex:024904F201FB03>編成小隊<hex:0249020103><hex:0248020103>並出發挑戰。<hex:02100103><hex:02100103>可以通過點擊小隊成員來打開該任務<hex:024804F201FA03><hex:024904F201FB03>可同行的輔助隊員<hex:0249020103><hex:0248020103>視窗。"
+424,"<hex:021E020903><hex:021E020B03>次要指令"
+425,"<hex:021E020903><hex:021E020B03>次要指令"
 426,""
 427,""
-428,"임무 찾기"
-429,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 찾기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 이용하여 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>다른 플레이어와 함께<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-던전에 입장할 수 있습니다.
-
-진입 지점을 클릭하여 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>다른 플레이어와 입장<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 선택하면
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 찾기 창<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 열립니다."
-430,"임무 참가 신청"
-431,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>가고 싶은 던전을 선택<UIGlow>01</UIGlow><UIForeground>01</UIForeground>한 다음 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>참가 신청<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 누르면
-목적지가 같은 플레이어를 찾아 자동으로 파티를 구성해 줍니다.
-이 과정을 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>매칭<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이라고 부릅니다.
-
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※ 동시에 최대 5개 임무를 선택하여 참가 신청할 수 있습니다.
-
-※ 자물쇠 표시는 참가 조건을 갖추지 못했음을 뜻합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-432,"신청 예약 상황"
-433,"참가 신청을 하면 할 일 목록에 임무 찾기 아이콘이 표시되고,
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>예약 상황<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 확인할 수 있습니다.
-
-예약 상황에는 파티 구성 현황과 서버 예약 상황 등이 표시됩니다."
-434,"입장 확인"
-435,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>매칭이 성립<UIGlow>01</UIGlow><UIForeground>01</UIForeground>되면 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>알림음<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 울립니다.
-이때 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>입장<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 누르면 임무에 도전할 수 있습니다.
-
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>제한 시간 안에 입장하지 않으면 자동으로 입장 거부가 되며
-입장할 던전 선택부터 다시 시작해야 합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-436,"공략 가능 던전"
-437,"당신이 성장할수록, 공략할 수 있는 던전도 늘어납니다.
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 지원을 이용할 수 없는 던전이나 임무<UIGlow>01</UIGlow><UIForeground>01</UIForeground>는
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 찾기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 이용해서 도전해 보세요.
-
-이미 공략을 완료했더라도, 몇 번이고 다시 같은 던전에 도전할 수 있습니다.
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>주 메뉴<UIGlow>01</UIGlow><UIForeground>01</UIForeground>의 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 정보<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에서
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 찾기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>나 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 지원<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 통해 던전에 다시 도전할 수 있습니다."
-438,"<CommandIcon(20)/>이동 <CommandIcon(25)/>회전 <CommandIcon(12)/>+<CommandIcon(24)/>확대/축소"
-439,"<CommandIcon(10)/>세부 메뉴"
-440,"<CommandIcon(10)/>세부 메뉴"
-441,"다시보기 재생 중 조작 방법"
-442,"※ 마우스 및 키보드는 초기 설정 기준입니다.
-<If(Equal(PlayerParameter(75),0))>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>카메라 방향 조작<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-[W, A, S, D] 키(이동 키) / <CommandIcon(20)/> 스틱
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>카메라 방향 초기화<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-[Z] 키(무기 넣기/무기 꺼내기) / <Gui(16)/> 버튼
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>카메라 주시 대상 변경<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-[<If(Equal(PlayerParameter(78),3))>tab, shift+tab<Else/>Tab, Shift+Tab</If>] 키 / <CommandIcon(7)/> 방향키
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>다시보기 일시 정지 및 재생<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-[<If(Equal(PlayerParameter(78),3))>스페이스 바<Else/>스페이스 바</If>](점프) / <CommandIcon(11)/> 버튼
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>조작 메뉴 열기/닫기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-[R] 키,  버튼(자동 달리기) / <CommandIcon(10)/> 버튼<Else/>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>카메라 방향 조작<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<CommandIcon(20)/> 스틱 / [W, A, S, D] 키(이동 키)
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>카메라 방향 초기화<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<Gui(16)/> 버튼 / [Z] Key (무기 넣기/무기 꺼내기)
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>카메라 주시 대상 변경<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<CommandIcon(7)/> <If(Equal(PlayerParameter(106),99))>방향패드<Else/>방향키</If> / [<If(Equal(PlayerParameter(78),3))>tab, shift+tab<Else/>Tab, Shift+Tab</If>] 키
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>다시보기 일시 정지 및 재생<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<CommandIcon(11)/> 버튼 / [<If(Equal(PlayerParameter(78),3))>스페이스 바<Else/>스페이스 바</If>](점프)
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>조작 메뉴 열기/닫기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<CommandIcon(10)/> 버튼 / [R] 키,  버튼(자동 달리기)</If>"
-443,"다시보기 녹화 방법"
-444,"녹화하려면 아래의 조건이 갖춰져야 합니다.
-　1. 다시보기 녹화가 활성화되어 있어야 합니다.
-　2. 다시보기 녹화가 가능한 임무여야 합니다.
-　3. 규정 인원수로 파티를 미리 구성하여 임무에 입장해야 합니다.
-　4. 다시보기 준비 확인을 실행해야 합니다.
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>1. 다시보기 녹화가 활성화되어 있어야 합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-자신의 플레이 환경에서 다시보기를 녹화할 것인지 설정합니다.
-이 설정을 켠 상태에서 다른 기록 조건을 충족하면 임무 다시보기 녹화가 실행됩니다.
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>2. 다시보기 녹화가 가능한 임무여야 합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-다시보기는 최신 버전의 일부 임무에서만 녹화할 수 있습니다.
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>3. 규정 인원수로 파티를 미리 구성하여 임무에 입장해야 합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-해당 임무에 규정되어 있는 인원수로 파티를 구성하여 입장했을 때에만 다시보기 녹화가 가능합니다.
-매칭을 이용하는 경우 녹화가 실행되지 않습니다.
-'제한 해제' 상태일 때에는 규정 인원수로 파티를 구성하여 입장해도 녹화가 실행되지 않습니다.
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>4. 다시보기 준비 확인을 실행해야 합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-다시보기 녹화를 시작해도 되는지 파티원에게 확인하는 단계입니다.
-다시보기 준비 확인을 실행한 후에 전원이 '예'를 눌러야만 기록이 시작됩니다.
-※ 다시보기 준비 확인은 임무 입장 후 5분 이내에 실행해야 합니다.
-
-위의 조건이 모두 충족되어야 다시보기 기록이 생성됩니다.
-다시보기는 최대 3개까지 보존할 수 있으며, 3개를 초과하여 녹화할 경우 가장 오래된 기록을 덮어씁니다.
-※ 덮어쓰고 싶지 않은 기록은 2개까지 잠금 설정할 수도 있습니다."
-445,"다시 보기 재생 방법"
-446,"다시보기 기록을 재생하려면 아래의 조건을 갖춰야 합니다.
-　1. 여관에 있어야 합니다.
-　2. 녹화한 기록이 최신 버전 임무여야 합니다.
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>1. 여관에 있어야 합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-다시보기는 각 대도시의 여관에서만 재생할 수 있습니다.
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>2. 녹화한 기록이 최신 버전 임무여야 합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-다시보기는 현재 버전의 데이터만 재생할 수 있습니다.
-대규모 업데이트 외에 소규모 패치나 긴급 수정 등이 적용되어도 이용할 수 없게 되니 주의하시기 바랍니다."
-447,"다시보기 재생 중 조작 방법"
-448,"※ 마우스 및 키보드는 초기 설정 기준입니다.
-<If(Equal(PlayerParameter(75),0))>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>카메라 방향 조작<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-[W, A, S, D] 키(이동 키) / <CommandIcon(20)/> 스틱
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>카메라 방향 초기화<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-[Z] 키(무기 넣기/무기 꺼내기) / <Gui(16)/> 버튼
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>카메라 주시 대상 변경<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-[<If(Equal(PlayerParameter(78),3))>tab, shift+tab<Else/>Tab, Shift+Tab</If>] 키 / <CommandIcon(7)/> 방향키
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>다시보기 일시 정지 및 재생<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-[<If(Equal(PlayerParameter(78),3))>스페이스 바<Else/>스페이스 바</If>](점프) / <CommandIcon(11)/> 버튼
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>조작 메뉴 열기/닫기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-[R] 키,  버튼(자동 달리기) / <CommandIcon(10)/> 버튼<Else/>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>카메라 방향 조작<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<CommandIcon(20)/> 스틱 / [W, A, S, D] 키(이동 키)
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>카메라 방향 초기화<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<Gui(16)/> 버튼 / [Z] Key (무기 넣기/무기 꺼내기)
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>카메라 주시 대상 변경<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<CommandIcon(7)/> <If(Equal(PlayerParameter(106),99))>방향패드<Else/>방향키</If> / [<If(Equal(PlayerParameter(78),3))>tab, shift+tab<Else/>Tab, Shift+Tab</If>] 키
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>다시보기 일시 정지 및 재생<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<CommandIcon(11)/> 버튼 / [<If(Equal(PlayerParameter(78),3))>스페이스 바<Else/>스페이스 바</If>](점프)
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>조작 메뉴 열기/닫기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<CommandIcon(10)/> 버튼 / [R] 키,  버튼(자동 달리기)</If>"
-449,"조작 메뉴 설명"
-450,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>다시보기 일시 정지 및 재생<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-다시보기를 일시 정지하거나 재생합니다.
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>구간 선택<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-다시보기 기록 생성 시에 구간이 설정됩니다.
-목록에서 원하는 구간을 선택하면, 그 구간으로 건너뜁니다.
-※ 선택 구간을 재생할 때까지 시간이 걸릴 수도 있습니다.
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>이전 구간<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-바로 앞 구간으로 이동합니다.
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>다음 구간<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-바로 뒤 구간으로 이동합니다.
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>HUD 표시 전환<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-각종 HUD의 표시/비표시를 전환합니다.
-※ 이 설정은 다음 재생 시에도 보존됩니다.
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>주시 대상 설정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-카메라가 보는 대상을 주시 대상으로 설정합니다.
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>다시보기 종료<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-다시보기를 종료합니다."
-451,"<CommandIcon(10)/> 세부 메뉴"
-452,"<CommandIcon(24)/>스크롤"
-453,"<CommandIcon(8)/>열기  <CommandIcon(24)/>상세 정보 스크롤"
-454,"<CommandIcon(24)/>상세 정보 스크롤"
-455,"<CommandIcon(10)/> 세부 메뉴"
-456,"<CommandIcon(8)/>꼬마 친구 꺼내놓기  <CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>위치 변경"
-457,"<CommandIcon(10)/> 세부 메뉴"
-458,"<CommandIcon(10)/> 세부 메뉴"
-459,"<CommandIcon(10)/> 세부 메뉴"
-460,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(24)/>상세 정보 스크롤"
-461,"<CommandIcon(5)/>이동 <CommandIcon(8)/>꼬마 친구 꺼내놓기 <CommandIcon(10)/>세부 메뉴"
-462,"<CommandIcon(8)/>꼬마 친구 꺼내놓기 <CommandIcon(10)/>세부 메뉴"
-463,"<CommandIcon(10)/> 세부 메뉴"
+428,"任務搜尋器"
+429,"<hex:024804F201FA03><hex:024904F201FB03>任務搜尋器<hex:0249020103><hex:0248020103>是供<hex:024804F201FA03><hex:024904F201FB03>不同玩家<hex:0249020103><hex:0248020103>組成小隊<hex:02100103>一起挑戰迷宮等任務的<hex:024804F201FA03><hex:024904F201FB03>便利功能<hex:0249020103><hex:0248020103>。<hex:02100103>訪問進入點，選擇<hex:024804F201FA03><hex:024904F201FB03>與其他玩家一同進入<hex:0249020103><hex:0248020103>後，<hex:02100103>將會打開<hex:024804F201FA03><hex:024904F201FB03>任務搜尋器視窗<hex:0249020103><hex:0248020103>。"
+430,"申請參加任務"
+431,"<hex:024804F201FA03><hex:024904F201FB03>勾選想要挑戰的迷宮名稱<hex:0249020103><hex:0248020103>，然後<hex:024804F201FA03><hex:024904F201FB03>按下參加按鈕<hex:0249020103><hex:0248020103>，<hex:02100103>系統就會自動地將參加相同任務的玩家組成小隊。<hex:02100103>這個過程被稱為<hex:024804F201FA03><hex:024904F201FB03>匹配<hex:0249020103><hex:0248020103>。<hex:02100103><hex:02100103><hex:024804F201F403><hex:024904F201F503>※最多只能同時申請參加5個任務。<hex:02100103><hex:02100103>※帶有鎖頭圖案的任務表示當前狀態沒有完全符合參加條件，無法申請參加。<hex:0249020103><hex:0248020103>"
+432,"申請的預約狀況"
+433,"開始申請之後，目的清單中會出現搜尋器的圖示，可以隨時查看<hex:024804F201FA03><hex:024904F201FB03>預約狀況<hex:0249020103><hex:0248020103>。<hex:02100103><hex:02100103>預約狀況視窗中會顯示當前的隊伍情況和伺服器預約情況。"
+434,"出發確認視窗"
+435,"<hex:024804F201FA03><hex:024904F201FB03>匹配完成<hex:0249020103><hex:0248020103>時會有<hex:024804F201FA03><hex:024904F201FB03>聲音提示，並彈出視窗<hex:0249020103><hex:0248020103>。<hex:02100103><hex:024804F201FA03><hex:024904F201FB03>按下出發按鈕<hex:0249020103><hex:0248020103>就可以進行挑戰了！<hex:02100103><hex:02100103><hex:024804F201F403><hex:024904F201F503>若沒有在限制時間內出發，將會取消參加，需要重新進行選擇。<hex:0249020103><hex:0248020103>"
+436,"可以挑戰的迷宮"
+437,"隨著你的冒險不斷推進，可以挑戰的迷宮數量也會不斷增加。<hex:02100103><hex:024804F201FA03><hex:024904F201FB03>當前不可使用劇情輔助器的迷宮及任務<hex:0249020103><hex:0248020103>請多<hex:024804F201FA03><hex:024904F201FB03>利用任務搜尋器<hex:0249020103><hex:0248020103>參與挑戰！<hex:02100103><hex:02100103>此外成功挑戰過的迷宮也可以重複進行挑戰。<hex:02100103>可以從<hex:024804F201FA03><hex:024904F201FB03>設定選單<hex:0249020103><hex:0248020103>的<hex:024804F201FA03><hex:024904F201FB03>任務情報<hex:0249020103><hex:0248020103>功能表選擇<hex:024804F201FA03><hex:024904F201FB03>任務搜尋器<hex:0249020103><hex:0248020103><hex:02100103>或<hex:024804F201FA03><hex:024904F201FB03>劇情輔助器<hex:0249020103><hex:0248020103>再次進行挑戰。"
+438,"<hex:021E021503>移動 <hex:021E021A03>旋轉 <hex:021E020D03>+ <hex:021E021903>縮放"
+439,"<hex:021E020B03>次要指令"
+440,"<hex:021E020B03> 次要指令"
+441,"任務回顧中的基本操作"
+442,"※鍵盤滑鼠模式顯示的是初始預設鍵位。<hex:02100103> <hex:0208F2044FE4E94C01FFF20211> <hex:02100103> <hex:024804F201FA03><hex:024904F201FB03>調整視角<hex:0249020103><hex:0248020103><hex:02100103> [W,A,S,D]鍵（移動）／ <hex:021E021503>控制器<hex:02100103> <hex:02100103> <hex:024804F201FA03><hex:024904F201FB03>重置視角<hex:0249020103><hex:0248020103><hex:02100103> [Z]鍵（拔出/收回武器）／ <hex:0212021103>鍵<hex:02100103> <hex:02100103> <hex:024804F201FA03><hex:024904F201FB03>切換注視目標<hex:0249020103><hex:0248020103><hex:02100103> [<hex:020823E4E94F04FF0E>tab,shift+tab<hex:FF0E>Tab,Shift+Tab<hex:03>]鍵／ <hex:021E020803>方向鍵上下左右<hex:02100103> <hex:02100103> <hex:024804F201FA03><hex:024904F201FB03>暫停／繼續<hex:0249020103><hex:0248020103><hex:02100103> [<hex:020813E4E94F04FF06>space<hex:FF06>Space<hex:03>]鍵（跳躍）／ <hex:021E020C03>鍵<hex:02100103> <hex:02100103> <hex:024804F201FA03><hex:024904F201FB03>開啟關閉操作功能表<hex:0249020103><hex:0248020103><hex:02100103> [R]鍵、鍵（自動前進）／ <hex:021E020B03>鍵<hex:FFF20232> <hex:02100103> <hex:024804F201FA03><hex:024904F201FB03>調整視角<hex:0249020103><hex:0248020103><hex:02100103> <hex:021E021503>控制器／[W,A,S,D]鍵（移動）<hex:02100103> <hex:02100103> <hex:024804F201FA03><hex:024904F201FB03>重置視角<hex:0249020103><hex:0248020103><hex:02100103> <hex:0212021103>鍵／[Z]鍵（拔出/收回武器） <hex:02100103> <hex:02100103> <hex:024804F201FA03><hex:024904F201FB03>切換注視目標<hex:0249020103><hex:0248020103><hex:02100103> <hex:021E020803><hex:020833E4E96B64FF16>方向鍵上下左右<hex:FF16>方向鍵上下左右<hex:03>／[<hex:020823E4E94F04FF0E>tab,shift+tab<hex:FF0E>Tab,Shift+Tab<hex:03>]鍵<hex:02100103> <hex:02100103> <hex:024804F201FA03><hex:024904F201FB03>暫停／繼續<hex:0249020103><hex:0248020103><hex:02100103> <hex:021E020C03>鍵／[<hex:020813E4E94F04FF06>space<hex:FF06>Space<hex:03>]鍵（跳躍）<hex:02100103> <hex:02100103> <hex:024804F201FA03><hex:024904F201FB03>開啟關閉操作功能表<hex:0249020103><hex:0248020103><hex:02100103> <hex:021E020B03>鍵／[R]鍵、鍵（自動前進）<hex:02100103><hex:03>"
+443,"任務記錄方法"
+444,"想要將攻略任務的過程記錄下來，需要滿足以下條件。<hex:02100103>　1.任務記錄設置設為開啟<hex:02100103>　2.進入的任務適用任務回顧功能<hex:02100103>　3.以規定人數進入任務<hex:02100103>　4.進行記錄準備確認<hex:02100103><hex:02100103><hex:024804F201FA03><hex:024904F201FB03>1.任務記錄設置設為開啟<hex:0249020103><hex:0248020103><hex:02100103>設定是否對任務過程進行記錄。<hex:02100103>將本設置設為開啟後，滿足其他條件時即會對任務過程進行記錄。<hex:02100103>將本設置設為關閉後，滿足其他條件時自身角色不會對任務過程進行記錄。<hex:02100103><hex:02100103><hex:024804F201FA03><hex:024904F201FB03>2.進入的任務適用任務回顧功能<hex:0249020103><hex:0248020103><hex:02100103>任務回顧功能僅對部分任務適用。<hex:02100103>因此需要進入適用的任務才可進行記錄。<hex:02100103><hex:02100103><hex:024804F201FA03><hex:024904F201FB03>3.以規定人數進入任務<hex:0249020103><hex:0248020103><hex:02100103>只有以規定人數進入任務時才能對任務進行記錄。<hex:02100103>※規定人數以下組隊匹配進任務時無法進行記錄。<hex:02100103>※解除限制後，即便以規定人數進入任務也不會進行記錄。<hex:02100103><hex:024804F201FA03><hex:024904F201FB03>4.進行記錄準備確認<hex:0249020103><hex:0248020103><hex:02100103>開始記錄任務前需要通過記錄準備確認來確認隊友們是否同意進行記錄。<hex:02100103>只有全員同意時才能開始記錄。<hex:02100103>※記錄準備確認需要在進入任務後5分鐘內發起。<hex:02100103><hex:02100103>滿足上述條件後即會對任務過程進行記錄。<hex:02100103>記錄已滿時，新的記錄會覆蓋最老的記錄。<hex:02100103>※可鎖定最多2條記錄禁止覆蓋。<hex:02100103>"
+445,"回顧記錄的方法"
+446,"回顧記錄需要滿足以下條件。<hex:02100103>　1.在旅店中<hex:02100103>　2.任務記錄為最新版本<hex:02100103><hex:02100103><hex:024804F201FA03><hex:024904F201FB03>1.在旅店中<hex:0249020103><hex:0248020103><hex:02100103>只有在旅店中能回顧記錄好的任務。<hex:02100103><hex:02100103><hex:024804F201FA03><hex:024904F201FB03>2.任務記錄為最新版本<hex:0249020103><hex:0248020103><hex:02100103>任務回顧僅能回顧最新版本的記錄。<hex:02100103>不只大版本更新，小版本或更新也會導致從前的記錄失效，敬請注意。"
+447,"任務回顧中的基本操作"
+448,"※鍵盤滑鼠模式顯示的是初始預設鍵位。<hex:02100103> <hex:0208F2044FE4E94C01FFF20211> <hex:02100103> <hex:024804F201FA03><hex:024904F201FB03>調整視角<hex:0249020103><hex:0248020103><hex:02100103> [W,A,S,D]鍵（移動）／ <hex:021E021503>控制器<hex:02100103> <hex:02100103> <hex:024804F201FA03><hex:024904F201FB03>重置視角<hex:0249020103><hex:0248020103><hex:02100103> [Z]鍵（拔出/收回武器）／ <hex:0212021103>鍵<hex:02100103> <hex:02100103> <hex:024804F201FA03><hex:024904F201FB03>切換注視目標<hex:0249020103><hex:0248020103><hex:02100103> [<hex:020823E4E94F04FF0E>tab,shift+tab<hex:FF0E>Tab,Shift+Tab<hex:03>]鍵／ <hex:021E020803>方向鍵上下左右<hex:02100103> <hex:02100103> <hex:024804F201FA03><hex:024904F201FB03>暫停／繼續<hex:0249020103><hex:0248020103><hex:02100103> [<hex:020813E4E94F04FF06>space<hex:FF06>Space<hex:03>]鍵（跳躍）／ <hex:021E020C03>鍵<hex:02100103> <hex:02100103> <hex:024804F201FA03><hex:024904F201FB03>開啟關閉操作功能表<hex:0249020103><hex:0248020103><hex:02100103> [R]鍵、鍵（自動前進）／ <hex:021E020B03>鍵<hex:FFF20232> <hex:02100103> <hex:024804F201FA03><hex:024904F201FB03>調整視角<hex:0249020103><hex:0248020103><hex:02100103> <hex:021E021503>控制器／[W,A,S,D]鍵（移動）<hex:02100103> <hex:02100103> <hex:024804F201FA03><hex:024904F201FB03>重置視角<hex:0249020103><hex:0248020103><hex:02100103> <hex:0212021103>鍵／[Z]鍵（拔出/收回武器） <hex:02100103> <hex:02100103> <hex:024804F201FA03><hex:024904F201FB03>切換注視目標<hex:0249020103><hex:0248020103><hex:02100103> <hex:021E020803><hex:020833E4E96B64FF16>方向鍵上下左右<hex:FF16>方向鍵上下左右<hex:03>／[<hex:020823E4E94F04FF0E>tab,shift+tab<hex:FF0E>Tab,Shift+Tab<hex:03>]鍵<hex:02100103> <hex:02100103> <hex:024804F201FA03><hex:024904F201FB03>暫停／繼續<hex:0249020103><hex:0248020103><hex:02100103> <hex:021E020C03>鍵／[<hex:020813E4E94F04FF06>space<hex:FF06>Space<hex:03>]鍵（跳躍）<hex:02100103> <hex:02100103> <hex:024804F201FA03><hex:024904F201FB03>開啟關閉操作功能表<hex:0249020103><hex:0248020103><hex:02100103> <hex:021E020B03>鍵／[R]鍵、鍵（自動前進）<hex:02100103><hex:03>"
+449,"操作功能表上的機能"
+450,"<hex:024804F201FA03><hex:024904F201FB03>暫停／繼續<hex:0249020103><hex:0248020103><hex:02100103>暫停或繼續進行回顧。<hex:02100103><hex:02100103><hex:024804F201FA03><hex:024904F201FB03>章節選擇<hex:0249020103><hex:0248020103><hex:02100103>顯示記錄時設定的章節列表，選擇其中任意章節後可跳至該章節進行回顧。<hex:02100103>※跳轉所需時間根據所選章節不同會有所差距。<hex:02100103><hex:02100103><hex:024804F201FA03><hex:024904F201FB03>上一個章節<hex:0249020103><hex:0248020103><hex:02100103>跳到先前的章節。<hex:02100103><hex:02100103><hex:024804F201FA03><hex:024904F201FB03>下一個章節<hex:0249020103><hex:0248020103><hex:02100103>跳到之後的章節。<hex:02100103><hex:02100103><hex:024804F201FA03><hex:024904F201FB03>顯示／隱藏介面<hex:0249020103><hex:0248020103><hex:02100103>將各種介面在顯示與隱藏間切換。<hex:02100103>※選為隱藏後在下次回顧時會自動隱藏介面開始回顧。<hex:02100103><hex:02100103><hex:024804F201FA03><hex:024904F201FB03>設定／解除焦點目標<hex:0249020103><hex:0248020103><hex:02100103>將注視目標設為焦點目標。<hex:02100103><hex:02100103><hex:024804F201FA03><hex:024904F201FB03>結束回顧<hex:0249020103><hex:0248020103><hex:02100103>結束回顧退出。"
+451,"<hex:021E020B03> 次要指令"
+452,"<hex:021E021903>捲動"
+453,"<hex:021E020903>打開  <hex:021E021903>捲動"
+454,"<hex:021E021903>捲動"
+455,"<hex:021E020B03> 次要指令"
+456,"<hex:021E020903>放養寵物  <hex:021E020B03>次要指令 <hex:021E020C03>變更寵物"
+457,"<hex:021E020B03> 次要指令"
+458,"<hex:021E020B03> 次要指令"
+459,"<hex:021E020B03> 次要指令"
+460,"<hex:021E020B03>次要指令  <hex:021E021903>捲動"
+461,"<hex:021E020603>移動 <hex:021E020903>放養寵物 <hex:021E020B03>次要指令"
+462,"<hex:021E020903>放養寵物 <hex:021E020B03>次要指令"
+463,"<hex:021E020B03> 次要指令"
 464,""
 465,""
 466,""
-467,"<CommandIcon(8)/>플레이어 추천 결정"
-468,"<CommandIcon(24)/>상세 정보 스크롤"
-469,"<CommandIcon(11)/>보상 수령 <CommandIcon(24)/>상세 정보 스크롤"
-470,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(24)/>상세 정보 스크롤"
-471,"<CommandIcon(11)/>보상 수령<CommandIcon(10)/>세부 메뉴 <CommandIcon(24)/>상세 정보 스크롤"
-472,"<CommandIcon(10)/>세부 메뉴"
-473,"<CommandIcon(10)/>세부 메뉴"
-474,"<CommandIcon(11)/>탐색지 결정"
-475,"<CommandIcon(10)/>단축바에 등록 <CommandIcon(12)/><CommandIcon(13)/>페이지 넘기기"
-476,"<CommandIcon(12)/><CommandIcon(13)/>페이지 넘기기"
-477,"<CommandIcon(8)/>대표적인 어장 표시"
-478,"<CommandIcon(10)/>세부 메뉴"
-479,"<CommandIcon(10)/>세부 메뉴"
-480,"<CommandIcon(10)/>세부 메뉴"
-481,"<CommandIcon(18)/>무인도 조경물 투영 설치 종료"
-482,"<Gui(13)/>＋<Gui(20)/>이동 <CommandIcon(14)/><CommandIcon(15)/>회전 <CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/><If(IntegerParameter(1))>눈금 보정 기능 켜기<Else/>눈금 보정 기능 끄기</If>"
-483,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>무인도 조경물 목록"
-484,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>소지품<If(Equal(PlayerParameter(105),0))> <CommandIcon(14)/><CommandIcon(15)/>등록/투영 설치 목록 전환<Else/></If>"
-485,"<CommandIcon(11)/>적용"
-486,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/><If(IntegerParameter(1))>눈금 보정 기능 켜기<Else/>눈금 보정 기능 끄기</If>"
-487,"<CommandIcon(10)/>세부 메뉴"
-488,"<CommandIcon(18)/>조경물 염색 종료"
-489,"<CommandIcon(18)/>조경물 설치 종료"
-490,"<Gui(13)/>＋<Gui(20)/>이동 <CommandIcon(14)/><CommandIcon(15)/>회전 <CommandIcon(11)/><If(IntegerParameter(1))>눈금 보정 기능 켜기<Else/>눈금 보정 기능 끄기</If>"
-491,"<CommandIcon(11)/><If(IntegerParameter(1))>눈금 보정 기능 켜기<Else/>눈금 보정 기능 끄기</If>"
-492,"<CommandIcon(8)/>선택"
-493,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(8)/>장착"
-494,"<CommandIcon(11)/>간이 채집 켜기/끄기"
-495,"<CommandIcon(11)/>제작 시작"
-496,"<CommandIcon(10)/>세부 메뉴"
-497,"<CommandIcon(10)/>세부 메뉴"
-498,"<CommandIcon(11)/>적용"
-499,"<CommandIcon(24)/>상세 정보 스크롤"
-500,"<CommandIcon(24)/>상세 정보 스크롤"
-501,"<CommandIcon(24)/>상세 정보 스크롤"
-502,"<CommandIcon(10)/>세부 메뉴"
-503,"<CommandIcon(10)/>지도 표시"
+467,"<hex:021E020903>選擇最優隊員"
+468,"<hex:021E021903>捲動查看詳細情報"
+469,"<hex:021E020C03>領取獎勵 <hex:021E021903>捲動查看詳細情報"
+470,"<hex:021E020B03>次要指令 <hex:021E021903>捲動查看詳細情報"
+471,"<hex:021E020C03>領取獎勵 <hex:021E020B03>次要指令 <hex:021E021903>捲動查看詳細情報"
+472,"<hex:021E020B03>次要指令"
+473,"<hex:021E020B03>子選單"
+474,"<hex:021E020C03>確定探索目的地"
+475,"<hex:021E020B03>設置快速鍵 <hex:021E020D03><hex:021E020E03>翻頁"
+476,"<hex:021E020D03><hex:021E020E03>翻頁"
+477,"<hex:021E020903>顯示典型漁場"
+478,"<hex:021E020B03>次要指令"
+479,"<hex:021E020B03>次要指令"
+480,"<hex:021E020B03>子選單"
+481,"<hex:021E021303>無人島庭具投影佈置完成"
+482,"<hex:0212020E03>＋<hex:0212021503>移動 <hex:021E020F03><hex:021E021003>轉向 <hex:021E020B03>次要指令 <hex:021E020C03><hex:020843E802FF1F>開啟網格移動調整功能<hex:FF1F>關閉網格移動調整功能<hex:03>"
+483,"<hex:021E020B03>次要指令  <hex:021E020C03>無人島庭具列表"
+484,"<hex:021E020B03>次要指令 <hex:021E020C03>物品 <hex:020833E4E96A01FF2B> <hex:021E020F03><hex:021E021003>切換已收錄/已佈置投影<hex:FF01><hex:03>"
+485,"<hex:021E020C03>應用"
+486,"<hex:021E020B03>次要指令 <hex:021E020C03><hex:020843E802FF1F>開啟網格移動調整功能<hex:FF1F>關閉網格移動調整功能<hex:03>"
+487,"<hex:021E020B03>次要指令"
+488,"<hex:021E021303>退出染色"
+489,"<hex:021E021303>庭具佈置完成"
+490,"<hex:0212020E03>＋<hex:0212021503>移動 <hex:021E020F03><hex:021E021003>轉向 <hex:021E020C03><hex:020843E802FF1F>開啟網格移動調整功能<hex:FF1F>關閉網格移動調整功能<hex:03>"
+491,"<hex:021E020C03><hex:020843E802FF1F>開啟網格移動調整功能<hex:FF1F>關閉網格移動調整功能<hex:03>"
+492,"<hex:021E020903>選擇"
+493,"<hex:021E020B03>次要指令 <hex:021E020903>裝備"
+494,""
+495,""
+496,""
+497,""
+498,""
+499,""
+500,""
+501,""
+502,""
+503,""
 504,""
-505,"<CommandIcon(8)/>열기/닫기/미리보기 <CommandIcon(11)/>미리보기 <CommandIcon(20)/>이동 <CommandIcon(25)/>회전 <CommandIcon(12)/>+<CommandIcon(24)/>확대/축소"
-506,"<CommandIcon(11)/>적용"
+505,""
+506,""
 507,""
 508,""
 509,""
@@ -941,422 +603,84 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 598,""
 599,""
 600,""
-1000,"신고를 접수하지 못했습니다.
-다시 시도하십시오."
+1000,"報告發送失敗。<hex:02100103>請重新發送。"
 1001,""
 1002,""
-1003,"동아리 설명"
-1004,"동아리는 비슷한 관심사를 가진 플레이어들의 모임입니다.
-최대 1,000명의 구성원이 가입하여 교류할 수 있습니다.
-
-자신이 직접 동아리를 결성하여 다른 플레이어를 초대할 수도 있고
-동아리 찾기에서 원하는 동아리를 찾아 가입할 수도 있습니다.
-다른 서버의 동아리를 포함하여 최대 10개까지 가입할 수 있습니다.
-동아리 모집 현황은 주 메뉴의 '플레이어 간 교류' 메뉴에 있는
-'동아리 찾기'에서 확인할 수 있습니다.
-
-동아리에 가입한 구성원은
-동아리를 창립한 플레이어 또는 그 권한을 양도받은 '마스터'와
-마스터가 임명한 '운영자', 그 외 구성원으로 나뉩니다.
-
-가입한 후에는 동아리의 각종 기능을 이용할 수 있습니다."
-1005,"'일반' 탭 설명"
-1006,"■ 운영자 메시지
-마스터 및 운영자가 회원들에게 하고 싶은 말을
-적을 수 있습니다.
-
-■ 설문조사
-설문 항목은 마스터 및 운영자만 작성할 수 있습니다.
-구성원 모두가 설문조사에 응할 수 있으며,
-1개의 설문조사에는 한 번만 투표할 수 있습니다.
-
-■ 공지
-공지 게시물은 5개까지 작성할 수 있습니다.
-마스터 및 운영자만 작성할 수 있습니다."
-1007,"'게시판' 탭 설명"
-1008,"동아리 구성원이라면 누구든지 게시물을 작성할 수 있습니다.
-게시물은 최대 100개까지 저장되며,
-100개가 넘으면 오래된 것부터 차례대로 삭제됩니다.
-또한, 마스터와 운영자는 게시물을 삭제할 수 있는 권한이 있습니다.
-
-※ 무료 체험 중인 플레이어는 가입한 지 14일이 지나야
-   게시물을 작성할 수 있습니다."
-1009,"'구성원' 탭 설명"
-1010,"동아리에 가입한 플레이어 목록입니다.
-
-세부 메뉴에서 구성원에 관련된 설정을 할 수 있습니다.
-마스터는 구성원을 운영자로 임명할 수 있으며,
-마스터 권한을 양도할 수도 있습니다.
-
-마스터는 다른 사람에게 불편을 주는 플레이어를
-동아리 차단 목록에 등록할 수 있습니다.
-동아리 차단 목록에 등록되면 동아리에서 제명되며
-해당 동아리에 가입할 수 없습니다."
-1011,"기타 설명"
-1012,"■ 동아리 설정
-설정은 마스터만 변경할 수 있습니다.
-동아리 이름 변경, 주요 활동 설정,
-동아리 차단 목록 확인, 동아리 해체를 할 수 있습니다.
-해체하면 동아리는 완전히 사라집니다.
-
-■ 동아리 모집하기
-동아리 구성원을 새로 모집할 수 있습니다.
-모집 정원에 다다르거나, 일주일이 지나거나,
-모집을 취소할 때까지 동아리 모집창에 모집글이 게시됩니다.
-
-■ 기타
-동아리 마스터는 함께 동아리를 운영할 구성원을 선택하여
-'운영자'로 임명할 수 있습니다.
-
-마스터 권한은 '운영자'인 플레이어 중 한 명에게 양도할 수 있습니다.
-또한, 마스터는 동아리에서 탈퇴할 수 없습니다.
-"
-1013,"동아리 찾기 설명"
-1014,"동아리 찾기서는 구성원을 모집하고 있는 동아리를 확인할 수 있습니다.
-
-동아리 검색 시에는 주요 활동으로 검색 조건을 설정할 수 있습니다."
-1015,"악기 연주 주의 사항"
-1016,"<UIForeground>F20202</UIForeground>■ 악기 연주 주의 사항<UIForeground>01</UIForeground>
-악기 연주로 제삼자의 권리를 침해하는 음악을 연주하는 행위는
-엄격히 금지되어 있습니다.
-파이널판타지14 저작물 이용 허가 조건에 따르는 범위 내에서
-자신의 연주를 녹화 및 업로드하실 수 있으며,
-타인의 연주를 녹화하거나 업로드할 수도 있습니다.
-단, 타인의 연주를 무단으로 수정하거나 이윤을 추구하는
-판매행위는 불가합니다."
-1017,"합주 보조"
-1018,"<UIForeground>F20202</UIForeground>■ 합주 보조<UIForeground>01</UIForeground>
-합주 보조는 주위에 있는 플레이어에게
-자신의 속한 파티의 연주가 조화롭게 들리도록 도와주는 기능입니다.
-
-<UIForeground>F20202</UIForeground>■ 합주 보조 사용 시의 특징<UIForeground>01</UIForeground>
-합주 보조를 사용하면 파티원들의 연주를 서버에서 합하여 주위에 있는 플레이어에게 들려주므로, 들리는 방식이 일반 연주와 다릅니다.
-때문에 연주 시에는 자신의 연주음을 어떻게 들을 것인지 선택할 수 있습니다.
-※ 어떤 설정을 선택하든, 주위 플레이어에게는
-   파티원들의 연주가 맞춰져서 들립니다.
-
-내 연주음만:
-  다른 파티원의 연주는 들리지 않으며
-  자신의 연주음만 재생됩니다.
-
-파티원 전원:
-  파티원들의 연주를 서버에서 동기화한 뒤에 재생하므로
-  자신의 연주가 조금 늦게 재생됩니다.
-
-<UIForeground>F20202</UIForeground>■ 합주 보조 이용 방법<UIForeground>01</UIForeground>
-합주 보조는 다음 조작을 통해 이용할 수 있습니다.
- 1. 메트로놈의 '합주 준비 확인'을 눌러서 설명 화면을 엽니다.
- 2. 설정 화면에 있는 '합주 보조 사용하기'를 켜고
-    합주 준비 확인을 실행합니다.
- 3. 합주 준비 확인이 완료된 시점부터 합주 모드가 적용됩니다.
-
-<UIForeground>F20202</UIForeground>■ 합주 보조 이용 조건<UIForeground>01</UIForeground>
-합주 보조를 이용하려면 다음 조건을 충족해야 합니다.
- 1. 파티장이 연주 모드를 실행 중이어야 합니다.
- 2. 연주가 가능한 지역이어야 합니다.(여관/막사 제외)
- 3. 각 지역에서 합주 모드를 이용할 수 있는 파티의 수가 초과되지 않아야 합니다.
-    ※ 동시에 합주할 수 있는 인원 수는 지역별로 제한되어 있습니다."
-1019,"연주 보조"
-1020,"<UIForeground>F20202</UIForeground>■ '연주 보조'란?<UIForeground>01</UIForeground>
-지시에 따라 건반을 누르면 곡을 연주할 수 있는 보조 기능입니다.
-
-<UIForeground>F20202</UIForeground>■ 연주 보조 이용 방법<UIForeground>01</UIForeground>
-연주 보조는 다음과 같이 조작하여 이용할 수 있습니다.
- 1. 건반 위에 있는 '연주 보조'를 실행합니다.
- 2. 연주할 곡을 선택합니다.
- 3. 재생할 곡의 박자와 메트로놈 사용 여부를 설정합니다.
-
-<UIForeground>F20202</UIForeground>■ 연주 보조 실행 시 주의 사항<UIForeground>01</UIForeground>
-연주 보조를 실행하면 합주 준비 확인을 수락하지 못하고
-강제로 '아니오'로 답변하게 됩니다.
-파티에서 합주를 할 때에는 주의하시기 바랍니다."
-1021,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>'남부 보즈야 전선'은 독자적인 규칙과 전용 시스템이 다수 포함된 임무입니다!
-임무 특징을 파악하고 갈레말 제국 제IV군단과 싸워 승리합시다!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-
-<UIForeground>0F</UIForeground>※ 다음 페이지부터 '남부 보즈야 전선'의 특수 규칙을 설명합니다.
-설명을 잘 읽고 새로운 대규모 임무를 즐겨 주십시오.<UIForeground>01</UIForeground>"
-1022,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ 임무 참가 직업의 레벨이 80으로 특수 조율됩니다!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-
-'남부 보즈야 전선'은 레벨 71 이상 잡으로 입장할 수 있습니다.
-임무에 입장하고 나면 레벨 80으로 특수 조율됩니다.
-또한 어떤 장비든 아이템 레벨이 최적의 상태로 조정되므로
-장비를 갖출 필요가 없습니다.
-
-<UIForeground>0F</UIForeground>※ 임무 안에서는 레벨 80까지의 기술을 모두 사용할 수 있습니다.<UIForeground>01</UIForeground>"
-1023,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ 전과를 거두어 레지스탕스 랭크를 올리세요!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-
-'남부 보즈야 전선'에서는 임무 안에서만 적용되는 '레지스탕스 랭크'가 존재합니다.
-'전과'는 '돌발 교전' 및 '비상 교전'이라고 불리는
-작전에 참가하여 일정 이상 평가를 얻으면 올라갑니다.
-
-<UIForeground>0F</UIForeground>※ 전과는 적을 쓰러뜨리는 것만으로는 얻을 수 없습니다.
-교전을 완료했을 때에만 얻을 수 있으니 주의하세요!<UIForeground>01</UIForeground>"
-1024,"어느 정도 전과가 모이면 거점으로 돌아가
-'저항군 사령부 장교(랭크 담당자)'에게 보고하세요.
-일정 이상의 전과를 모으면 레지스탕스 랭크를 올릴 수 있습니다.
-
-레지스탕스 랭크가 일정 수치에 도달하면 퀘스트를 진행할 수 있으며, 행동 범위가 넓어집니다.
-유리하게 활동하려면 레지스탕스 랭크를 적극적으로 올리세요.
-
-<UIForeground>0F</UIForeground>※ 레지스탕스 랭크는 전과를 보고하기 전에는 올라가지 않습니다.
-전과를 모은 다음 장교에게 보고하는 것을 잊지 마세요!<UIForeground>01</UIForeground>"
-1025,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ 전투 직업 레벨링에 활용하세요!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-
-'돌발 교전'과 '비상 교전'을 완료하면 전과와 더불어 경험치도 얻을 수 있습니다.
-
-직업 레벨은 전과와 달리 보고할 필요가 없으며 평소처럼 자동으로 레벨이 올라갑니다.
-
-레벨 80 미만인 직업이 있다면 보즈야 전선에서 레벨을 올려 보세요."
-1026,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ 모르겠다 싶을 때에는……<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-
-기타 규칙과 시스템은 강고스에 있는 '셰로슈'나 보즈야 전선에 있는 NPC들이 설명해 줍니다.
-모르는 게 생기면 NPC를 찾아가 보세요!"
-1027,"소장품 설명"
-1028,"'소장품'이란 '소장 가치'를 갖는 특별한 아이템입니다.
-
-'소장 가치'는 소장품별로 부여되는 가치를 나타냅니다.
-
-NPC가 소장품을 요구할 때는　필요한 소장 가치를 알려줍니다.
-
-요구한 소장 가치에 부합하는 소장품을 채집하세요."
-1029,"소장품 채집"
-1030,"광부와 원예가로 소장품을 채집할 때는
-소장품 채집 전용 창이 나타납니다.
-
-소장품 채집 창에서 소장 가치를 올리고
-가치를 올린 소장품을 채집할 수 있습니다."
-1031,"소장 가치 올리기"
-1032,"'순화 기술'을 사용하면 소장 가치를 올릴 수 있습니다.
-
-소장품 채집 창에서 '순화 기술'을 사용하면
-소장품에서 불순물을 제거하고 소장 가치를 높일 수 있습니다.
-
-대신 '내구도'가 소비되기 때문에, 순화 기술을 사용할 때는
-남은 내구도에 주의하시기 바랍니다.
-
-내구도는 소장품을 채집할 때에도 소비되므로
-소장 가치를 더 올릴지, 그만 올리고 소장품을 채집할지를
-신중하게 판단해야 합니다."
-1033,"순화 기술"
-1034,"순화 기술은 '순화', '대담한 순화', '신중한 순화' 3종류가 존재합니다.
-이 기술을 사용하면 채집 장소의 내구도가 1씩 깎입니다.
-
-▼ 순화
-소장 가치를 안정적으로 올릴 수 있는 기본적인 기술입니다.
-
-▼ 대담한 순화
-일정 범위 안에서 소장 가치 상승량이 변동하는 기술입니다.
-운이 좋으면 소장 가치가 대폭 올라갑니다.
-원하는 소장품을 채집할 수 있는 장소가 여러 곳일 경우에 사용하면 더 효율적으로 채집할 수도 있습니다.
-
-▼ 신중한 순화
-'순화'보다 소장 가치 상승량은 낮지만, 운이 좋으면 내구도를 소비하지 않습니다.
-목표 소장 가치에 확실히 도달할 수 있을 때 사용해 보세요.
-
-※ '획득력'을 올리면 순화 기술의 효과가 높아집니다."
-1035,"소장품 입수"
-1036,"소장 가치가 충분히 올랐다면 소장품을 채집하세요.
-'소장품 채집'을 사용하면 소장품을 1개 채집하여 소지품에 넣습니다.
-
-채집을 실행할 때마다 채집 장소의 내구도가 1 깎이며,
-내구도가 0이 되면 더는 아이템을 채집할 수 없습니다.
-
-소장 가치를 올리는 동안에 되도록 내구도를 절약한다면
-그만큼 채집 횟수가 늘어나므로, 항상 내구도를 확인하세요.
-
-※ 획득률 100% 미만일 경우는 소장품을 얻지 못할 수도 있습니다."
-1037,"강화 기술"
-1038,"소장품 관련 기술 중에는 순화 기술을 강화하는 기술도 있습니다.
-
-'집중 검사'를 사용하면 순화 기술 사용 시 소장 가치 상승량이 증가합니다.
-
-강화 기술은 내구도는 소비하지 않지만 GP를 소비합니다.
-
-※ '기술력'을 올리면 '집중 검사'의 효과가 높아집니다."
-1039,"가치 상향"
-1040,"순화 기술을 사용하면 '가치 상향'이 발생할 때가 있습니다.
-
-'가치 상향'은 순화가 잘 되었음을 의미하며, 평소보다 소장 가치가 더 많이 오릅니다.
-
-※ '기술력'을 올리면 가치 상향 발생률이 높아집니다.
-
-※ 강화 기술 '가치 집중'을 사용하면 가치 상향 발생률이 높아집니다."
-1041,"활안"
-1042,"순화 기술을 사용하면 '활안' 효과가 부여될 때가 있습니다.
-
-'활안'은 불순물을 확실히 찾아낼 수 있는 상태로, '신중한 순화'와 '대담한 순화'의 소장 가치 상승량이 크게 증가합니다.
-
-효과가 발생하면 '신중한 순화'나 '대담한 순화'를 적극적으로 사용해 보세요."
-1043,"그 밖의 기술"
-1044,"소장품 채집 중에는 순화 기술과 강화 기술 외에도 아래 채집가 기술을 사용할 수 있습니다.
-
-・획득률에 영향을 주는 기술
-(광부 '뚜렷한 시야', 원예가 '현장 경험' 등)
-
-・내구도/채집 가능 횟수에 영향을 주는 기술
-(광부 '석공의 이론', 원예가 '농부의 지혜')
-
-이 기술은 일반적인 채집과 마찬가지로 단축바를 통해 사용할 수 있습니다."
-1045,"무정형성 아이템과 승화"
-1046,"무정형성이 있는 소장품은
-소장 가치를 최대로 높여서 정제하면
-귀중한 아이템이 나오기도 합니다.
-
-무정형성 소장품의 소장 가치를
-최대로 올려 채집하면
-승화하는 경우가 있습니다.
-
-승화한 소장품을 정제하면
-귀중한 아이템이 반드시 나옵니다.
-
-플레이어의 획득력이 높을수록
-무정형성 소장품이 승화할 확률이 증가합니다."
-1047,"소장 가치"
-1048,"소장 가치란, 소장품의 가치를 수치로 나타낸 것입니다.
-
-소장품을 채집할 때, 납품에 필요한 소장 가치가
-'요구 소장 가치'로 표시됩니다.
-이 수치를 참고하여 소장 가치를 올린 다음, 채집을 실행하세요.
-
-※ 소장품 정제로 크리스탈이 아닌 아이템을 얻으려면
-'요구 소장 가치'를 충족해야 합니다."
+1003,"關於同好會"
+1004,"同好會是擁有相同興趣的玩家組建的團體。<hex:02100103>每個同好會最多可容納1000名成員。<hex:02100103><hex:02100103>玩家可選擇自己創建同好會，<hex:02100103>也可通過邀請或同好招募召集同好或加入別人創建的同好會。<hex:02100103>同好會可跨服，每個角色最多可同時隸屬於10個同好會。<hex:02100103>在設定選單的社交中可以看到同好招募選項。<hex:02100103><hex:02100103>同好會成員分為會長（創建同好會的玩家或被移交了會長許可權的玩家），<hex:02100103>會長任命的管理員，<hex:02100103>還有除此之外的一般成員。<hex:02100103><hex:02100103>加入同好會後，即可使用同好會相關的各項機能。"
+1005,"關於“一覽”"
+1006,"■公告板<hex:02100103>會長或管理員可將想要通知同好會成員的內容寫在此處。<hex:02100103><hex:02100103>■投票問卷<hex:02100103>會長或管理員可以設置投票問卷。<hex:02100103>同好會內所有成員均可對問捲進行投票。<hex:02100103>每人對每份問卷僅有一次投票權利。<hex:02100103><hex:02100103>■備忘<hex:02100103>會長或管理員可以編輯備忘資訊。<hex:02100103>備忘最多同時能記錄5條。"
+1007,"關於“留言板”"
+1008,"隸屬於同好會的所有成員皆可在留言板上留言。<hex:02100103>留言會保留最新的100條，超過後老的留言會被自動刪除。<hex:02100103>會長和管理員擁有刪除留言的許可權。<hex:02100103><hex:02100103>※免費試用期的玩家加入同好會14天以上才可進行留言。"
+1009,"關於“成員”"
+1010,"此為加入了當前同好會的成員一覽。<hex:02100103><hex:02100103>通過子選單可以對成員進行各種設置。<hex:02100103>會長可以任命管理員，也可以移交會長許可權。<hex:02100103><hex:02100103>遭遇騷擾時會長可以將玩家加入同好會黑名單。<hex:02100103>被加入同好會黑名單後，該玩家將會被踢出對應同好會，並無法重新加入。"
+1011,"其他補充"
+1012,"■同好會設置修改<hex:02100103>只有會長能進行操作。<hex:02100103>可以修改同好會名稱、設置同好會的主要活動、<hex:02100103>查看同好會黑名單、解散同好會。<hex:02100103>解散後同好會會完全消失。<hex:02100103><hex:02100103>■同好招募<hex:02100103>可以募集同好加入自己的同好會。<hex:02100103>募集開啟後，會在招到指定人數或經過1周時間後自動關閉。<hex:02100103><hex:02100103>■其他<hex:02100103>會長可以將成員任命為管理員協助自己管理同好會。<hex:02100103><hex:02100103>會長無法退出同好會，只有將會長許可權轉移給管理員後才可退出。"
+1013,"關於同好招募"
+1014,"在同好招募中可以看到當前正在招募成員的各同好會資訊。<hex:02100103><hex:02100103>可以通過搜索功能對同好會的主要活動等條件進行篩選查看。"
+1015,"樂器演奏的注意事項"
+1016,"<hex:024804F2020203>■樂器演奏的注意事項<hex:0248020103><hex:02100103>禁止通過樂器演奏功能侵犯協力廠商的權利。<hex:02100103>玩家可在«FINAL FANTASY XIV»版權與使用者協議的允許範圍內上傳自己的演奏作品，但無權阻止他人散播或使用自己的作品。"
+1017,"合奏助手"
+1018,"<hex:024804F2020203>■什麼是合奏助手？<hex:0248020103><hex:02100103>合奏助手是將隊內的演奏音整合起來播放給周圍玩家的功能。<hex:02100103><hex:02100103><hex:024804F2020203>■合奏助手與通常演奏的不同<hex:0248020103><hex:02100103>由於合奏助手啟動中會將隊內的演奏音在伺服器上經過整合後再播放給周圍的玩家，所以聲音相比於通常演奏會有一定的延遲。<hex:02100103>因此，玩家可選擇收聽自己演奏音的模式。<hex:02100103>※該選項不會影響周圍玩家的收聽模式。<hex:02100103><hex:02100103>只聽自己：<hex:02100103>　遮罩隊員的演奏音，只能聽見自己的演奏音。<hex:02100103><hex:02100103>隊伍整體：<hex:02100103>　將隊內的演奏音在伺服器上同步後再進行播放，<hex:02100103>　聽到自己的演奏音時會有延遲。<hex:02100103><hex:02100103><hex:024804F2020203>■合奏助手的使用方法<hex:0248020103><hex:02100103>合奏助手的使用方法如下：<hex:02100103> 1.點擊節拍器的“合奏準備確認”，打開設置介面<hex:02100103> 2.勾選“使用合奏助手”後開始合奏準備確認<hex:02100103> 3.合奏準備確認結束時合奏模式即會開啟<hex:02100103><hex:02100103><hex:024804F2020203>■合奏助手的使用條件<hex:0248020103><hex:02100103>使用合奏助手時有以下限制：<hex:02100103> 1.小隊隊長處於演奏模式<hex:02100103> 2.處於可演奏區域（不包括旅店、軍營）<hex:02100103> 3.當前區域內使用合奏的隊伍數未達到上限<hex:02100103>    ※每個區域都設有一個上限"
+1019,"演奏助手"
+1020,"<hex:024804F2020203>■什麼是演奏助手？<hex:0248020103><hex:02100103>演奏助手是根據提示操作即可完成演奏的輔助機能。<hex:02100103><hex:02100103><hex:024804F2020203>■演奏助手的使用方法<hex:0248020103><hex:02100103>演奏助手的使用方法如下：<hex:02100103> 1.點擊琴鍵邊的“演奏助手”<hex:02100103> 2.選擇演奏的樂曲<hex:02100103> 3.設置樂曲倍速與是否使用節拍器<hex:02100103><hex:02100103><hex:024804F2020203>■演奏助手中的注意事項<hex:0248020103><hex:02100103>使用演奏助手時會自動拒絕合奏準備確認。<hex:02100103>隊內準備進行合奏時需要注意。"
+1021,"<hex:0248020803><hex:0249020403>南方博茲雅戰線是採用多個特殊規則和專用系統的任務！<hex:02100103>請充分理解該任務的特徵，戰勝加雷馬帝國第四軍團吧！<hex:0249020103><hex:0248020103><hex:02100103><hex:02100103><hex:0248020F03>※下一頁將介紹南方博茲雅戰線的特殊規則。<hex:02100103>請務必仔細閱讀，以便充分體驗該任務。<hex:0248020103>"
+1022,"<hex:0248020803><hex:0249020403>■參加本任務時的職業等級將被同步到80級！<hex:0249020103><hex:0248020103><hex:02100103><hex:02100103>南方博茲雅戰線任務中，只要任意職業達到71級即可參加。<hex:02100103>在參加任務時，當前職業等級將被同步到80級。<hex:02100103>此外，不論現有裝備如何，都將被自動調整至最合適的品級，<hex:02100103>因此無需提前準備裝備。<hex:02100103><hex:02100103><hex:0248020F03>※參加任務的職業可以使用當前職業80級以內（包含80級）的全部技能。<hex:0248020103>"
+1023,"<hex:0248020803><hex:0249020403>■獲得戰果提升義軍等級！<hex:0249020103><hex:0248020103><hex:02100103><hex:02100103>南方博茲雅戰線任務中專門設置了一種義軍等級。<hex:02100103>戰果可以通過參加“衝突戰”、“緊急遭遇戰”等大規模作戰行動，<hex:02100103>並取得一定的評價後得到提升。<hex:02100103><hex:02100103><hex:0248020F03>※僅打倒魔獸或帝國兵無法獲得戰果。<hex:02100103>戰果將在作戰行動完成時獲得，敬請注意！<hex:0248020103>"
+1024,"戰果累積到一定程度時，<hex:02100103>可以向據點內的義軍司令部軍官（義軍等級）報告。<hex:02100103>當戰果達到一定程度，義軍等級將會提升。<hex:02100103><hex:02100103>隨著義軍等級的提升，行動的範圍會越來越廣，任務也會繼續推進。<hex:02100103>為了今後更為有利地展開作戰活動，請積極地提升義軍等級。<hex:02100103><hex:02100103><hex:0248020F03>※義軍等級必須經過戰果報告才能提升。<hex:02100103>當戰果累積到一定程度時，請不要忘記向軍官報告！<hex:0248020103>"
+1025,"<hex:0248020803><hex:0249020403>■善用職業的等級同步規則！<hex:0249020103><hex:0248020103><hex:02100103><hex:02100103>在完成大規模作戰行動的“衝突戰”以及“緊急遭遇戰”時<hex:02100103>可以獲得提升職業等級的經驗值。<hex:02100103><hex:02100103>獲得的經驗值與戰果不同，無需經過報告即可像通常一樣，<hex:02100103>在累積到規定的數值時將自動提升職業等級。<hex:02100103><hex:02100103>如果目前還有未滿80級的職業，請務必積極地善用等級同步規則！"
+1026,"<hex:0248020803><hex:0249020403>■不知道該怎麼辦了！　這種時候……<hex:0249020103><hex:0248020103><hex:02100103><hex:02100103>甘戈斯的謝羅斯以及任務內的其他非玩家角色<hex:02100103>將會為你解說規則及系統等事項。<hex:02100103>如有不明，請積極地向非玩家角色詢問！"
+1027,"收藏品"
+1028,"收藏品就是擁有特殊收藏價值的道具。<hex:02100103><hex:02100103>收藏價值用於表示每個收藏品的價值。<hex:02100103><hex:02100103>有時非玩家角色會要求玩家交納收藏品，<hex:02100103>同時也會標明需求的收藏品需要具備的收藏價值。<hex:02100103><hex:02100103>請努力採集滿足指定收藏價值的收藏品。"
+1029,"如何獲得收藏品"
+1030,"採掘師以及園藝師獲得收藏品的方式不同於通常的採集，<hex:02100103>需要通過收藏品採集視窗進行採集。<hex:02100103><hex:02100103>通過收藏品採集視窗<hex:02100103>可以提升收藏品的價值並採集到具有該收藏價值的收藏品。"
+1031,"如何提高收藏價值"
+1032,"提升收藏價值時需要使用提煉技能。<hex:02100103><hex:02100103>通過收藏品採集視窗使用提煉技能，<hex:02100103>可以除去收藏品的雜質，從而提升收藏價值。<hex:02100103><hex:02100103>不過作為代價，將會消耗本次採集的耐久，<hex:02100103>請留意剩餘的耐久。<hex:02100103><hex:02100103>除了提煉技能以外，採集收藏品時也會消耗耐久，<hex:02100103>是優先提高收藏品價值還是專注於採集收藏品，<hex:02100103>需要玩家慎重考慮。"
+1033,"提煉技能"
+1034,"提煉技能有三種，<hex:02100103>分別是提煉、大膽提煉、慎重提煉。<hex:02100103>不論使用其中哪種技能，都會消耗1點耐久。<hex:02100103><hex:02100103>▼提煉<hex:02100103>能夠穩定地提升收藏價值，是最基本的提煉技能。<hex:02100103><hex:02100103>▼大膽提煉<hex:02100103>該技能會在一定範圍內提升收藏品價值，<hex:02100103>運氣好的話收藏品價值將得到大幅提升。<hex:02100103>如果能夠採集到目標收藏品的地點較多，<hex:02100103>可以試著使用該技能，也許能夠更高效地獲得收藏品。<hex:02100103><hex:02100103>▼慎重提煉<hex:02100103>雖然比提煉提升的收藏價值要低，<hex:02100103>不過運氣好的話，有可能不會消耗耐久。<hex:02100103>如果使用慎重提煉即可提升到目標的收藏價值，<hex:02100103>則可以積極地使用該技能。<hex:02100103><hex:02100103>※提煉技能的效果<hex:02100103>會隨著玩家獲得力的提高而上升，<hex:02100103>請通過裝備提升自己的獲得力。"
+1035,"獲得收藏品"
+1036,"將收藏價值提升到目標數值後，可以通過使用收藏品採集技能，<hex:02100103>採集到1個擁有該收藏價值的收藏品。<hex:02100103><hex:02100103>此時將會消耗1點耐久。<hex:02100103>當耐久變為0時，將無法繼續進行採集。<hex:02100103><hex:02100103>在提升收藏價值時，耐久剩餘的越多，<hex:02100103>採集收藏品的次數也就越多。<hex:02100103><hex:02100103>請時刻注意耐久的剩餘。<hex:02100103><hex:02100103>※此外，收藏品的採集會受到獲得率的影響，<hex:02100103>如果獲得率沒有達到100%的話，則有可能無法獲得收藏品。"
+1037,"增幅技能"
+1038,"技能中除了提升收藏價值的提煉技能以外，<hex:02100103>還有提供輔助效果的增幅技能。<hex:02100103><hex:02100103>通過使用集中檢查，<hex:02100103>可以進一步增強提煉技能提升收藏價值的效果。<hex:02100103><hex:02100103>雖然使用增幅技能不會消耗耐久，<hex:02100103>但會消耗GP，因此需要注意剩餘的GP。<hex:02100103><hex:02100103>※集中檢查的效果<hex:02100103>會隨著玩家鑑別力的提高而上升，<hex:02100103>請透過裝備提升自己的鑑別力。"
+1039,"價值提升"
+1040,"使用提煉技能時，<hex:02100103>有可能會出現價值提升的效果。<hex:02100103><hex:02100103>價值提升代表採集時有了良好的手感，<hex:02100103>此時使用提煉技能，將會比通常提升更多收藏價值。<hex:02100103><hex:02100103>※價值提升的發生率<hex:02100103>會隨著玩家鑑別力的提高而上升，<hex:02100103>請透過裝備提升自己的鑑別力。<hex:02100103><hex:02100103>※增幅技能“價值矚目”也能提高價值提升的發生率。"
+1041,"洞察"
+1042,"使用提煉技能後，<hex:02100103>有時會對玩家賦予洞察的效果。<hex:02100103><hex:02100103>在洞察效果中，<hex:02100103>能夠準確地捕捉到收藏品的雜質，<hex:02100103>從而大幅增強慎重提煉以及大膽提煉提升收藏價值的效果。<hex:02100103><hex:02100103>洞察效果中，<hex:02100103>請積極使用慎重提煉或大膽提煉。"
+1043,"其他技能"
+1044,"採集收藏品時，<hex:02100103>除了提煉技能、增幅技能，<hex:02100103>還可以使用以下的大地使者技能。<hex:02100103><hex:02100103>·影響獲得率的技能<hex:02100103>採掘師（敏銳視野）、園藝師（環境探知）等<hex:02100103><hex:02100103>·影響耐久/採集次數的技能<hex:02100103>採掘師（石工之理）、園藝師（農夫之智）<hex:02100103><hex:02100103>這些技能均可透過快速鍵使用，<hex:02100103>請運用這些技能，高效地採集收藏品。"
+1045,"不定性道具與昇華"
+1046,"具有不定性性質的收藏品在收藏價值達到最大值的狀態下<hex:02100103>通過精選可以有一定機率獲得稀有的道具。<hex:02100103><hex:02100103>此外在收藏價值達到最大值的狀態下，<hex:02100103>採集具有不定性性質的收藏品時<hex:02100103>有可能會引發昇華現象。<hex:02100103><hex:02100103>對昇華後的收藏品進行精選後<hex:02100103>必定會獲得稀有道具。<hex:02100103><hex:02100103>收藏品昇華的機率與玩家的獲得力有關，<hex:02100103>獲得力越高昇華的機率也會隨之提升。"
+1047,"收藏價值"
+1048,"收藏價值是一個體現收藏品所具價值的數值。<hex:02100103><hex:02100103>採集收藏品時顯示的“所需收藏價值”正是交貨時需要的收藏價值基準，<hex:02100103>請以此數值為目標，提升收藏價值後進行採集。<hex:02100103><hex:02100103>※對於能夠進行精選的收藏品，<hex:02100103>只有達到“所需收藏價值”後，精選時才能獲取到水晶以外的道具。"
 1049,""
-1050,"특수 던전 탐색 방법"
-1051,"전담 NPC와 대화하거나 주 메뉴 '임무 정보'에 있는
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>특수 던전 탐색<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 선택하면 열리는 전용 창을 통해
-특수 던전 탐색 임무에 입장할 수 있습니다.
-
-입장할 때에 필요한 정보는 전용 창에 표시되며,
-각종 설정 또한 이곳에서 조정할 수 있습니다."
-1052,"변형 던전 공략"
-1053,"특수 던전 중 하나인 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>변형 던전<UIGlow>01</UIGlow><UIForeground>01</UIForeground>은
-1~4명으로 공략할 수 있으며,
-파티원 수에 따라 난이도가 <UIForeground>0F</UIForeground>자동 조정<UIForeground>01</UIForeground>됩니다.
-
-손발이 맞는 친구와 파티를 짜서 갈 수도 있으며,
-매칭을 이용하여 도전할 수도 있습니다.
-혼자서도 공략할 수 있지만, 꽤 힘든 여정이 될 것입니다.
-
-혼자서 또는 미리 구성된 파티로 공략하는 경우에는
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>매칭을 이용하여 입장합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 옵션을 해제하고 입장하시기 바랍니다.
-(초기 상태: 해제)
-
-매칭을 이용하여 4인 파티로 입장하고 싶다면
-이 옵션을 선택하고 입장 버튼을 누르십시오."
-1054,"변형 기술"
-1055,"역할에 구애받지 않고 즐길 수 있도록, 변형 던전에는
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>변형 기술<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이라는 특수한 기술이 마련되어 있습니다.
-
-예를 들면, 방어 역할이나 공격 역할이 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>케알<UIGlow>01</UIGlow><UIForeground>01</UIForeground>과 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>레이즈<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 쓸 수 있으며,
-회복 역할이 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>철벽 방어<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 쓸 수도 있습니다.
-
-공략 중에 사용할 수 있는 변형 기술 2개는
-전용 창에서 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>변형 기술 설정<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 버튼을 누르면 열리는
-변형 기술 목록에서 언제든지 변경할 수 있습니다."
-1056,"이야기를 찾는 탐험"
-1057,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>변형 던전<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이란, 그 장소에 관련된 인물과 함께 던전에 입장하여
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>여러 갈래로 나뉜 경로<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 탐험하면서
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>이야기를 발견<UIGlow>01</UIGlow><UIForeground>01</UIForeground>해 나가는, 새로운 형식의 임무입니다.
-
-발견한 이야기는 수기나 기록 같은 형태로 남습니다.
-
-전용 창에서 인물을 클릭하면, 지금까지 찾아낸 이야기를 읽을 수 있는 창이 열립니다."
-1058,"파생 던전에 도전하기"
-1059,"고난도 특수 던전, <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>파생 던전<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에 도전할 수 있습니다.
-
-전용 창 상단의 탭을 누르면 파생 던전으로 전환됩니다.
-
-파생 던전에서는 NPC가 동행하지 않으며,
-분기점이나 발견할 이야기도 없습니다.
-
-파생 던전으로 전환하면 참가 가능한 파생 던전 목록과
-공략 시 얻을 수 있는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>전용 화폐<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 등이 표시됩니다."
-1060,"파생 던전 제한 사항"
-1061,"파생 던전은 변형 던전과는 달리
-입장 후에 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>직업을 변경할 수 없습니다<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
-전투불능이 되면 레이즈 등 직업 기술로는 부활할 수 없고,
-변형 기술을 통해서만 부활할 수 있습니다.
-
-또한 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>파생 던전(영웅)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에서는
-변형 기술을 아예 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>사용할 수 없습니다<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
-
-파생 던전(영웅)에 입장하려면
-조건을 갖춘 플레이어 4명을 모아 미리 파티를 구성해야 합니다."
-1062,"주택 강제 추방"
-1063,"'주택 강제 추방' 기능을 이용하면 특정 플레이어를 주택 안이나 정원에서 강제로 추방하고, 일정 기간 들어올 수 없도록 설정할 수 있습니다.
-
-주 메뉴 '플레이어 간 교류'의 '하우징'에 있는 '주택 설정'에서 '주택 강제 추방 권한 설정'을 선택하면 표시되는 창에서 각종 설정을 변경할 수 있습니다."
-1064,"기능 이용 권한"
-1065,"주택 강제 추방 기능은 해당 주택에서 권한이 있는 플레이어만 이용할 수 있습니다.
-주 권한자는 주택의 종류에 따라 자동으로 설정됩니다. 보조 권한자를 설정할 수 있는 주택도 있습니다.
-
-【자유부대 주택】
-・ 주 권한자: 부대장
-・ 보조 권한자: 부대원 중 최대 4명까지 지정 가능
-
-【개인 주택】
-・ 주 권한자: 집주인
-・ 보조 권한자: 동거인
-
-【아파트 및 개인실】
-・ 주 권한자: 방주인
-・ 보조 권한자: 지정 불가"
-1066,"강제 추방자 목록"
-1067,"'강제 추방자 목록'은 주택에서 강제로 추방할 플레이어가 등록된 목록입니다.
-주 권한자 또는 보조 권한자는 '주택 강제 추방 권한 설정' 창에서 해당 목록을 열 수 있습니다.
-강제 추방자는 10일 동안 목록에 계정이 등록되며, 주택 안으로 들어갈 수 없고 정원에서 쫓겨납니다.
-
-주 권한자 또는 보조 권한자가 권리가 있는 부지 안에 있을 때, 등록 대상 플레이어의 세부 메뉴에 표시되는 '하우징 부지 침입 관리' 항목에서 '강제 추방자 목록에 등록하기'를 선택하면 표시되는 확인 화면에서 해당 플레이어를 강제 추방자 목록에 등록할 수 있습니다.
-
-또한 주 권한자는 '강제 추방 목록'에 등록된 플레이어를 목록에서 제외할 수 있습니다."
-1068,"권한자의 차단 목록 참조"
-1069,"차단 목록 참조 기능은 각 권한자의 차단 목록에 등록된 플레이어가 주택으로 들어오지 못하게 하는 기능입니다.
-
-권한의 종류를 불문하고 차단 목록을 참조한 권한자가 주택 안에 있을 때, 해당 권한자의 차단 목록에 등록된 플레이어가 주택에 들어오지 못하게 하며, 들어오려고 하면 강제 추방자 목록에 자동으로 등록됩니다.
-
-주 권한자가 각 권한자의 이름 왼쪽에 있는 체크박스에서 참조 여부를 결정할 수 있습니다."
-1070,"주택 강제 추방 제외 대상"
-1071,"각 주택마다 강제 추방자로 등록할 수 없는 플레이어가 있습니다.
-또한 등록을 하더라도 강제 추방 대상이 되지 않습니다.
-
-【강제 추방 제외 대상】
-・ 주 권한자
-・ 자유부대 주택: 소속 부대원
-・ 개인 주택: 동거인"
-1072,"내장 스타일 변경 설명"
-1073,"'내장 스타일 변경' 기능은
-주택의 내부 디자인을 변경하는 기능입니다.
-
-주 메뉴 '플레이어 간 교류'의 '하우징'에 있는
-'내장 스타일 변경'을 선택하면 표시되는 창에서
-원하는 스타일을 골라 실행할 수 있습니다.
-
-'내장 스타일 변경'에서는
-내벽, 바닥, 천장 조명을 제외한 전체적인 디자인이 변경됩니다.
-계단 위치나 바닥 모양이 변경되는 경우도 있습니다."
-1074,"내장 스타일 변경 이용 조건"
-1075,"'내장 스타일 변경'은 소형, 중형, 대형 토지에서 이용할 수 있습니다.
-개인실 및 아파트에서는 이용할 수 없습니다.
-
-또한, '내장 스타일 변경'은 디자인이 크게 변경되므로
-설치된 가구는 모두 창고에 수납됩니다.
-따라서 창고에 공간이 부족한 경우에는
-'내장 스타일 변경'을 실행할 수 없습니다.
-
-덧붙여 주택의 자동 철거일까지 15일 이하로 남은 경우에도
-실행할 수 없습니다."
-1076,"내장 스타일 변경 이용 권한"
-1077,"'내장 스타일 변경'은
-해당 주택의 내장 스타일 변경 권한을 가진 캐릭터만 실행할 수 있습니다.
-
-자유부대 주택의 경우
-'외장 및 내장 변경' 권한 및 
-'소품 추가, 제거, 배치 가능' 권한을
-모두 가지고 있는 부대원만 실행할 수 있습니다.
-
-개인 주택의 경우 주택 소유자 외에
-'외장, 내장, 소품 추가/제거/배치/염색' 권한을 가진
-동거인이 실행할 수 있습니다."
+1050,"探索特殊迷宮的方法"
+1051,"和專用的非玩家角色對話，或者選擇設定選單“任務情報”內的<hex:02100103>“<hex:024804F201FA03><hex:024904F201FB03>特殊迷宮探索器<hex:0249020103><hex:0248020103>”打開專用的視窗，<hex:02100103>進入特殊迷宮探索任務。<hex:02100103><hex:02100103>進入任務時所需的情報都會顯示在專用視窗內，<hex:02100103>同時也可以進行各種設定。"
+1052,"多變迷宮"
+1053,"特殊迷宮探索之一的<hex:024804F201FA03><hex:024904F201FB03>多變迷宮<hex:0249020103><hex:0248020103><hex:02100103>可以以1～4人的任意人數進行探索，<hex:02100103>難度將會根據探索人數進行<hex:024804F201FA03><hex:024904F201FB03>自動調整<hex:0249020103><hex:0248020103>。<hex:02100103>單人進行探索時，難度可能會相對難一些。<hex:02100103><hex:02100103>想要自己進行探索，或是僅與小隊同伴進行探索時，<hex:02100103>需要關閉<hex:024804F201FA03><hex:024904F201FB03>隊伍不滿4人時進行匹配<hex:0249020103><hex:0248020103>的選項。<hex:02100103>（初期狀態為關閉）<hex:02100103><hex:02100103>想要自動匹配為4人小隊再進行探索時，<hex:02100103>需要打開<hex:024804F201FA03><hex:024904F201FB03>隊伍不滿4人時進行匹配<hex:0249020103><hex:0248020103>的選項。"
+1054,"多變技能"
+1055,"在多變迷宮內可以使用“<hex:024804F201FA03><hex:024904F201FB03>多變技能<hex:0249020103><hex:0248020103>”，<hex:02100103>以方便冒險者通過任意職業構成探索迷宮。<hex:02100103><hex:02100103>無論是防護職業還是進攻職業，<hex:02100103>都可以使用<hex:0248020F03>特殊的療傷和復活<hex:0248020103>來擔任治療職業的職責，<hex:02100103>當然，其他的職業同樣也準備了不同的<hex:0248020F03>特殊技能<hex:0248020103>。<hex:02100103><hex:02100103>探索時可以使用2種不同的多變技能。<hex:02100103>在專用的視窗選擇<hex:024804F201FA03><hex:024904F201FB03>設置多變技能<hex:0249020103><hex:0248020103>，<hex:02100103>就可以隨時從顯示的多變技能一覽中挑選、設置多變技能了。"
+1056,"找出迷宮內的故事"
+1057,"多變迷宮需要和相關人物一起探索<hex:02100103>迷宮內的<hex:024804F201FA03><hex:024904F201FB03>分歧路線<hex:0249020103><hex:0248020103>，<hex:02100103>找出藏在迷宮內的<hex:024804F201FA03><hex:024904F201FB03>故事<hex:0249020103><hex:0248020103>。<hex:02100103><hex:02100103>找到的故事會一個一個<hex:02100103>記載到多變迷宮專用的筆記或記錄冊上。<hex:02100103><hex:02100103>點擊視窗內的人物，可以打開專用的人物視窗，<hex:02100103>在人物視窗內可以閱讀已發現的故事。"
+1058,"挑戰異聞迷宮"
+1059,"開放了特殊迷宮探索的高難度任務——<hex:024804F201FA03><hex:024904F201FB03>異聞迷宮<hex:0249020103><hex:0248020103>。<hex:02100103><hex:02100103>通過點擊視窗上方的<hex:024804F201FA03><hex:024904F201FB03>異聞迷宮<hex:0249020103><hex:0248020103>，<hex:02100103>可以將視窗內的資訊改為異聞迷宮的資訊。<hex:02100103><hex:02100103>異聞迷宮中沒有同行的非玩家角色和分歧路線，<hex:02100103>也沒有發現故事等要素。<hex:02100103>異聞迷宮視窗內會顯示<hex:024804F201FA03><hex:024904F201FB03>異聞迷宮清單<hex:0249020103><hex:0248020103>，<hex:02100103>以及在挑戰迷宮時可以獲得的<hex:024804F201FA03><hex:024904F201FB03>專用貨幣<hex:0249020103><hex:0248020103>。"
+1060,"異聞迷宮的限制"
+1061,"異聞迷宮與多變迷宮不同，<hex:02100103>任務中無法進行<hex:024804F201FA03><hex:024904F201FB03>特職轉換<hex:0249020103><hex:0248020103>。<hex:02100103>同時，復活等普通技能無法解除無法戰鬥狀態，<hex:02100103>只有專用的多變復活技能可以解除無法戰鬥狀態。<hex:02100103><hex:02100103>此外，<hex:024804F201FA03><hex:024904F201FB03>零式<hex:0249020103><hex:0248020103>異聞迷宮中，<hex:02100103>將<hex:024804F201FA03><hex:024904F201FB03>無法使用<hex:0249020103><hex:0248020103>多變技能。<hex:02100103><hex:02100103>零式異聞迷宮只有組滿4人且全員滿足條件後才可進入。"
+1062,"強制請離房屋"
+1063,"利用“強制請離房屋”功能，<hex:02100103>可以將特定玩家從室內或庭院中強制請離，<hex:02100103>或者使其一段時間內無法進入。<hex:02100103><hex:02100103>通過設定選單→社交→房屋→住房設置→強制請離房屋許可權設置，可以從顯示視窗中進行各種設定。"
+1064,"功能的使用權限"
+1065,"能夠使用“強制請離房屋”功能的，<hex:02100103>只有在該房屋中擁有許可權的角色。<hex:02100103>主許可權人會根據房屋類型自動設置。<hex:02100103>另外可以根據房屋類型追加副許可權人。<hex:02100103><hex:02100103>公會房屋的話，公會長擁有主許可權，<hex:02100103>可以從公會成員中最多追加4人。<hex:02100103><hex:02100103>個人房屋的話，房主擁有主許可權，<hex:02100103>可以從正在進行房屋共用的角色中追加。<hex:02100103><hex:02100103>公寓和個人房間的話，房間主人擁有主許可權，無法追加。"
+1066,"禁止進入名單"
+1067,"禁止進入名單指的是被列為強制請離房屋對象的角色名單。<hex:02100103>擁有主許可權或副許可權的角色<hex:02100103>均可以通過“強制請離房屋許可權設置”視窗打開名單。<hex:02100103>被列入禁止進入名單的角色10天之內都會被記錄在名單中，<hex:02100103>期間角色禁止進入室內，會從庭院強制請離。<hex:02100103><hex:02100103>如果想加入禁止進入名單，<hex:02100103>需各許可權人在擁有許可權的土地範圍內，<hex:02100103>打開登記目標角色的子選單→房屋與庭院入侵者管理→加入禁止進入名單，從顯示的確認畫面進行登記。<hex:02100103><hex:02100103>另外主許可權人也有權從禁止進入名單中解除角色的登記。"
+1068,"參照許可權人的黑名單"
+1069,"黑名單參照功能指的是<hex:02100103>限制登記在各許可權人黑名單中的玩家進入房屋的功能。<hex:02100103><hex:02100103>無論是主許可權還是副許可權，<hex:02100103>開啟了黑名單參照功能的許可權人在房屋內時，<hex:02100103>登記在該許可權人黑名單中的玩家將被禁止進入室內，<hex:02100103>如果試圖強制入室的話，<hex:02100103>就會被自動加入禁止進入名單。<hex:02100103><hex:02100103>主許可權人可通過各許可權人名左邊的勾選來切換有效或無效。"
+1070,"非強制請離房屋目標"
+1071,"每個房屋都會有無法登記的角色。<hex:02100103>另外即使被登記了，也不會成為強制請離目標。<hex:02100103><hex:02100103>【非強制請離目標】<hex:02100103>·主許可權人<hex:02100103>·公會房屋所屬成員<hex:02100103>·個人房屋中處於房屋共用狀態的角色"
+1072,"內部改建是什麽"
+1073,"“內部改建”是一個用來修改房屋室內設計風格的功能。<hex:02100103><hex:02100103>通過設定選單→社交→房屋→內部改建可以打開對應視窗，<hex:02100103>打開視窗後可以在其中選擇想要的裝修風格。<hex:02100103><hex:02100103>內部改建所更改的，<hex:02100103>是除了內部裝潢配件（內牆、地板、屋頂照明）外，<hex:02100103>室內整體的裝修風格。<hex:02100103>樓梯的位置或地面的形狀等都可能在修改範圍內。<hex:02100103>"
+1074,"內部改建的使用條件"
+1075,"大、中、小號的房屋都可以使用“內部改建”功能。<hex:02100103>個人房間和公寓則無法使用此功能。<hex:02100103><hex:02100103>此外，由於內部改建會大幅變更室內布局，<hex:02100103>所以已布置的家具會被全部收入倉庫。<hex:02100103>因此，當倉庫容量不足時，會無法使用內部改建功能。<hex:02100103><hex:02100103>另外，當房屋距離被自動拆除剩餘不到15天時，<hex:02100103>也無法使用內部改建功能。<hex:02100103>"
+1076,"內部改建的必要權限"
+1077,"執行內部改建需要對應的房屋權限。<hex:02100103><hex:02100103>公會房屋的執行人需要有“更改內外裝潢”、<hex:02100103>“可以追加、收回或布置家具庭具”兩項權限。<hex:02100103><hex:02100103>個人房屋的執行人如果不是房主，則需要<hex:02100103>“內外裝潢、家具、庭具的追加、收回、布置、染色”權限。<hex:02100103>"
 1078,""
 1079,""
 1080,""

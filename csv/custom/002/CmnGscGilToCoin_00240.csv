@@ -1,18 +1,10 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_CMNGSCGILTOCOIN_00240_TALK_ACTOR","골드 소서에 오신 것을 환영합니다!
-이곳에서는 소지금을 '맨더빌 골드 소서 포인트(MGP)'로
-교환하실 수 있습니다!"
-1,"TEXT_CMNGSCGILTOCOIN_00240_ERROR_GIL","……죄송합니다.
-소지금이 부족하신 것 같네요.
-소지하신 길을 다시 한번 확인하시기 바랍니다."
-2,"TEXT_CMNGSCGILTOCOIN_00240_ERROR_COIN_MAX","손님께선 이미 교환 한도보다 많은
-맨더빌 골드 소서 포인트(MGP)를 소지하고 계시군요."
-3,"TEXT_CMNGSCGILTOCOIN_00240_ERROR_COIN_MAX_SYSTEM_000","'MGP 교환원'을 통해 교환할 수 있는
-맨더빌 골드 소서 포인트(MGP)의 상한은
-최대 <Value>IntegerParameter(1)</Value> MGP입니다."
-4,"TEXT_CMNGSCGILTOCOIN_00240_ERROR_COIN_MAX_SYSTEM_001","그보다 많은 MGP를 얻고자 할 경우에는
-관내 이벤트나 미니 게임 등에 참가해서
-포인트를 늘려보세요!"
+0,"TEXT_CMNGSCGILTOCOIN_00240_TALK_ACTOR","歡迎光臨金碟遊樂園！<hex:02100103>我可以為您將Gil兌換成金碟幣。"
+1,"TEXT_CMNGSCGILTOCOIN_00240_ERROR_GIL","……非常遺憾，您的Gil不夠了。<hex:02100103>請確保帶有足夠的Gil後再來。"
+2,"TEXT_CMNGSCGILTOCOIN_00240_ERROR_COIN_MAX","啊，客人您已持有足夠的金碟幣，無法再進行兌換了。"
+3,"TEXT_CMNGSCGILTOCOIN_00240_ERROR_COIN_MAX_SYSTEM_000","只有在所持金碟幣不足<hex:022003E80203>枚時才能與金碟幣兌換員進行兌換。<hex:02100103>最多隻可兌換至持有<hex:022003E80203>枚金碟幣。"
+4,"TEXT_CMNGSCGILTOCOIN_00240_ERROR_COIN_MAX_SYSTEM_001","更多金碟幣請透過參加遊樂園內的活動與小遊戲獲取。"
 5,"TEXT_CMNGSCGILTOCOIN_00240_ERROR_QUEST","（★未使用／削除予定★）"

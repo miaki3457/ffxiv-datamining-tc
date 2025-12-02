@@ -1,34 +1,19 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGNOT5LOGISTIKONALPHA_00743_DRENIELDAN_000_000","당신은…… 외국에서 오신 분인가요?
-궁금한 점이 있으시다면 제게 물어보세요."
-1,"TEXT_REGNOT5LOGISTIKONALPHA_00743_DRENIELDAN_000_001","저희의 미래는 여러분에게 달렸어요.
-모두 무사하시길 기원합니다."
-2,"TEXT_REGNOT5LOGISTIKONALPHA_00743_DRENIELDAN_000_002","무사 귀환을 저희 직원 일동은 기뻐하고 있습니다.
-자, 궁금한 점이 있으시다면 제게 물어보세요."
-3,"TEXT_REGNOT5LOGISTIKONALPHA_00743_Q1_000_000","무엇을 물어보시겠습니까?"
-4,"TEXT_REGNOT5LOGISTIKONALPHA_00743_A1_000_001","당신의 이야기를 들려달라고 한다"
-5,"TEXT_REGNOT5LOGISTIKONALPHA_00743_A1_000_002","여기는 어떤 곳인지 물어본다"
-6,"TEXT_REGNOT5LOGISTIKONALPHA_00743_A1_000_003","취소"
-7,"TEXT_REGNOT5LOGISTIKONALPHA_00743_DRENIELDAN_000_010","저는 기상 제어사입니다.
-기상 예보사와 헷갈리지 말아 주세요."
-8,"TEXT_REGNOT5LOGISTIKONALPHA_00743_DRENIELDAN_000_011","내일 날씨를 예측하는 게 아니라
-라비린토스의 날씨를 정하고 제어하는 일을 하고 있어요.
-즉, 저희를 화나게 하면 매일 폭풍을…… 이건 농담입니다."
-9,"TEXT_REGNOT5LOGISTIKONALPHA_00743_DRENIELDAN_000_020","이 건물은 로기스티콘 알파입니다.
-라비린토스 전체의 습도나 기류 같은
-기상을 제어하기 위한 시설이죠."
-10,"TEXT_REGNOT5LOGISTIKONALPHA_00743_DRENIELDAN_000_021","퍼 올린 지하수를 수증기로 만들어 내보내서
-인공 구름이나 인공 비를 만들기도 하고
-시설 위쪽의 회전판으로 기류를 발생시기키도 합니다."
-11,"TEXT_REGNOT5LOGISTIKONALPHA_00743_DRENIELDAN_000_022","자료를 보관하거나 생체 샘플을 유지하기 위해서는
-최적의 환경을 만드는 게 중요하거든요."
-12,"TEXT_REGNOT5LOGISTIKONALPHA_00743_DRENIELDAN_000_023","그리고 이 시설은 기밀성이 높은 연구를 하는
-속둘레의 입구이기도 합니다. 철학자 의회의 허가가 없는 사람은
-절대로 들여보낼 수 없지만 말이죠……."
-13,"TEXT_REGNOT5LOGISTIKONALPHA_00743_DRENIELDAN_000_025","지금이니까 하는 말인데, 여기서는 행성 탈출 후에
-다른 별로 이주했을 때를 전제로, 환경 변조 연구도 하고 있었습니다."
-14,"TEXT_REGNOT5LOGISTIKONALPHA_00743_DRENIELDAN_000_026","당신 덕분에 대이동은 피했지만
-그래도 저희의 기술은 황야나 극지 진출에 도움이 될 겁니다.
-앞으로도 연구에 매진하겠습니다."
+0,"TEXT_REGNOT5LOGISTIKONALPHA_00743_DRENIELDAN_000_000","你是……來自異國的人吧？<hex:02100103>如果有什麼不明白的，儘管問我好了。"
+1,"TEXT_REGNOT5LOGISTIKONALPHA_00743_DRENIELDAN_000_001","我們的未來就託付給你們了。<hex:02100103>願大家此行平安順遂。"
+2,"TEXT_REGNOT5LOGISTIKONALPHA_00743_DRENIELDAN_000_002","你們能平安歸來，我和職員們都非常開心。<hex:02100103>那麼如果有什麼不明白的，儘管問我好了。"
+3,"TEXT_REGNOT5LOGISTIKONALPHA_00743_Q1_000_000","想了解什麼？"
+4,"TEXT_REGNOT5LOGISTIKONALPHA_00743_A1_000_001","你是做什麼的？"
+5,"TEXT_REGNOT5LOGISTIKONALPHA_00743_A1_000_002","這裡是什麼地方？"
+6,"TEXT_REGNOT5LOGISTIKONALPHA_00743_A1_000_003","取消"
+7,"TEXT_REGNOT5LOGISTIKONALPHA_00743_DRENIELDAN_000_010","我是天氣控制員。<hex:02100103>可別把我跟天氣預報員弄混了啊？"
+8,"TEXT_REGNOT5LOGISTIKONALPHA_00743_DRENIELDAN_000_011","我的工作不是預測明天的天氣，<hex:02100103>而是負責決定、控制迷津的天氣。<hex:02100103>所以要是激怒我的話，那就要狂風暴雨……開玩笑的啦。"
+9,"TEXT_REGNOT5LOGISTIKONALPHA_00743_DRENIELDAN_000_020","這個建築是理性其一。<hex:02100103>是負責控制迷津整體的濕度和氣流等氣象的設施。"
+10,"TEXT_REGNOT5LOGISTIKONALPHA_00743_DRENIELDAN_000_021","其工作原理是提取地下水並將其變為水蒸氣釋放出來，<hex:02100103>製成人工雲和人工雨，<hex:02100103>或透過設施頂部的大型風扇裝置產生氣流。"
+11,"TEXT_REGNOT5LOGISTIKONALPHA_00743_DRENIELDAN_000_022","為了方便保管資料和儲存生物樣本，<hex:02100103>創造舒適的環境是非常重要的。"
+12,"TEXT_REGNOT5LOGISTIKONALPHA_00743_DRENIELDAN_000_023","另外這個設施還是通往<hex:02100103>正在進行著絕密研究的內環的入口。<hex:02100103>沒有獲得哲學家議會許可之人是絕對無法通過的……"
+13,"TEXT_REGNOT5LOGISTIKONALPHA_00743_DRENIELDAN_000_025","我現在還可以告訴你，為了應對逃往星外<hex:02100103>移居到其他星球的情況，這裡還在進行著改變生態環境的研究。"
+14,"TEXT_REGNOT5LOGISTIKONALPHA_00743_DRENIELDAN_000_026","雖然多虧了你成功避免了大撤退，<hex:02100103>但我們的這項技術依然會對前往荒野和極地有幫助。<hex:02100103>今後我們也會繼續努力推進自己的研究。"

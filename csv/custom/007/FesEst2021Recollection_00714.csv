@@ -1,111 +1,59 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_FESEST2021RECOLLECTION_00714_NONOTTA_000_045","모험가님, 마침 잘 오셨어요!
-계속해서 답례품을 나눠드리고 있는데요,
-잠깐 쉬고 싶으니까 저랑 교대해 주셨으면 해요~!"
-1,"TEXT_FESEST2021RECOLLECTION_00714_SYSTEM_000_046","퀘스트 '알 사냥 축제를 더욱 즐겁게'의
-답례품 나눠주기를 다시 한번 플레이할 수 있습니다."
-2,"TEXT_FESEST2021RECOLLECTION_00714_Q1_000_000","나눠주기를 시작하시겠습니까?"
-3,"TEXT_FESEST2021RECOLLECTION_00714_KANESENNA_000_020","장식 다는 일이 다 끝나서
-그 사실을 보고하러 왔습니다."
-4,"TEXT_FESEST2021RECOLLECTION_00714_KANESENNA_000_021","도시의 주민들이 모두 '알 사냥 축제'를 즐길 수 있도록
-저도 장식 다는 일을 돕기로 했답니다.
-잠깐 동안의 축제를 당신도 재미있게 즐겨 주세요."
-5,"TEXT_FESEST2021RECOLLECTION_00714_KANESENNA_000_022","답례품을 나눠주고 계시다고요?
-뭔가를 받을 만한 일은 하지 않은 것 같지만,
-이것도 축제의 일환…… 감사히 받겠습니다."
-6,"TEXT_FESEST2021RECOLLECTION_00714_Q4_000_000","무엇을 건네시겠습니까?"
-7,"TEXT_FESEST2021RECOLLECTION_00714_A4_000_001","토끼와 닭 인형"
-8,"TEXT_FESEST2021RECOLLECTION_00714_A4_000_002","구운 과자가 들어 있는 장식용 달걀"
-9,"TEXT_FESEST2021RECOLLECTION_00714_A4_000_003","화려한 현자의 알"
-10,"TEXT_FESEST2021RECOLLECTION_00714_KANESENNA_000_023","어머나, 참 귀여운 인형이로군요."
-11,"TEXT_FESEST2021RECOLLECTION_00714_KANESENNA_000_024","그럼 저는 닭 인형을 갖고,
-이 토끼 인형은 당신에게 드릴게요."
-12,"TEXT_FESEST2021RECOLLECTION_00714_BODYGUARD01623_000_025","앗, 감사합니다……!!
-집안의 보물로 간직하겠습니다!"
-13,"TEXT_FESEST2021RECOLLECTION_00714_KANESENNA_000_026","어머나, 멋진 장식용 달걀…….
-게다가 이 고소한 냄새, 구운 과자가 들어 있군요.
-나중에 차랑 같이 먹을게요."
-14,"TEXT_FESEST2021RECOLLECTION_00714_KANESENNA_000_027","어머, 멋지게 장식한 현자의 알…….
-축제의 기념이 될 만한 굉장히 아름다운 공예품이군요.
-이번 일의 추억으로 소중히 장식해 둘게요."
-15,"TEXT_FESEST2021RECOLLECTION_00714_KANESENNA_000_028","그럼 당신도 멋진 하루를 보내세요."
-16,"TEXT_FESEST2021RECOLLECTION_00714_MIOUNNE_000_030","오, 너도 '알 사냥 축제'에 참가하고 있나 보네.
-난 모험가 길드 회의 차 왔다가
-장식 다는 일을 돕게 됐어."
-17,"TEXT_FESEST2021RECOLLECTION_00714_MOMODI_000_031","알 사냥 축제의 계절이 되면
-매번 울다하까지 장식을 해주니까
-이번엔 나도 도와야겠다고 생각했거든."
-18,"TEXT_FESEST2021RECOLLECTION_00714_BADERON_000_032","협력자에게 답례품을 돌리고 있다고?
-그렇다면 사양 않고 받을게."
-19,"TEXT_FESEST2021RECOLLECTION_00714_Q5_000_000","무엇을 건네시겠습니까?"
-20,"TEXT_FESEST2021RECOLLECTION_00714_A5_000_001","토끼와 닭 인형"
-21,"TEXT_FESEST2021RECOLLECTION_00714_A5_000_002","구운 과자가 들어 있는 장식용 달걀"
-22,"TEXT_FESEST2021RECOLLECTION_00714_A5_000_003","화려한 현자의 알"
-23,"TEXT_FESEST2021RECOLLECTION_00714_MOMODI_000_033","어머나, 굉장히 귀여운 인형이네요.
-모래늪에는 좀 안 어울리지만,
-제 방에 장식해놓을까 봐요……."
-24,"TEXT_FESEST2021RECOLLECTION_00714_MIOUNNE_000_034","장식용 달걀 안에 구운 과자가 들어 있구나.
-장식 다느라 피곤할 땐 역시 단것을 먹어줘야지."
-25,"TEXT_FESEST2021RECOLLECTION_00714_BADERON_000_035","그럼 림사 로민사로 돌아가기 전에
-뮨이 끓여주는 차라도 한잔 마시면서 먹을까나."
-26,"TEXT_FESEST2021RECOLLECTION_00714_MOMODI_000_036","후후후, 그것도 좋은 생각이네요."
-27,"TEXT_FESEST2021RECOLLECTION_00714_BADERON_000_037","우와, 이건 장식에 공 좀 들인 현자의 알이잖아!
-물에 빠진 돌고래 주점에 놔두면 취객들이 깨뜨릴 것 같으니
-어디에 장식할지 생각 좀 해봐야겠는걸……."
-28,"TEXT_FESEST2021RECOLLECTION_00714_MIOUNNE_000_038","그럼 우린 이제 가서 쉴게.
-나중에 칼라인 카페에 얼굴 좀 비쳐."
-29,"TEXT_FESEST2021RECOLLECTION_00714_KURENAI_000_040","당신도 이 기묘한 축제에 참가하고 계셨을 줄이야.
-후후후, 홍옥해 밖에서도 만나다니 굉장히 신선한 느낌이네요!"
-30,"TEXT_FESEST2021RECOLLECTION_00714_SANANA_000_041","내가 시장 조사를 위해 잠시 여기 다녀오겠다고 했더니
-자기도 '바깥세상'을 공부하겠다며 같이 오겠다잖아.
-부탁이니 시오사이에겐 비밀로 해줘."
-31,"TEXT_FESEST2021RECOLLECTION_00714_KURENAI_000_042","답례품을 주신다고요?
-달걀을 장식한다는 신비한 체험도 하게 해주셨는데
-선물까지…… 이리도 후하게 대접해 주시다니 감사드립니다……!"
-32,"TEXT_FESEST2021RECOLLECTION_00714_Q6_000_000","무엇을 건네시겠습니까?"
-33,"TEXT_FESEST2021RECOLLECTION_00714_A6_000_001","토끼와 닭 인형"
-34,"TEXT_FESEST2021RECOLLECTION_00714_A6_000_002","구운 과자가 들어 있는 장식용 달걀"
-35,"TEXT_FESEST2021RECOLLECTION_00714_A6_000_003","화려한 현자의 알"
-36,"TEXT_FESEST2021RECOLLECTION_00714_KURENAI_000_043","토끼와 닭 인형인가요…….
-귀여운 용모도 좋지만,
-이 폭신폭신한 감촉이 정말 멋진 물건이군요!"
-37,"TEXT_FESEST2021RECOLLECTION_00714_SANANA_000_044","하하, 안에 구운 과자가 들어 있단 말인가.
-과자는 소량이지만, 포장 덕분에 특별한 느낌을 주고 있어.
-이게 판매 상품이라면 생각 잘한 것 같군……."
-38,"TEXT_FESEST2021RECOLLECTION_00714_KURENAI_000_045","어머나, 너무나도 훌륭한 장식이 새겨진 공예품.
-'현자의 알'이라는 물건이군요…….
-이렇게나 좋은 것을 받아도 되는 걸까요."
-39,"TEXT_FESEST2021RECOLLECTION_00714_SANANA_000_046","모처럼 '바깥세상'에 왔잖아.
-사양하지 말고 감사히 받도록 해."
-40,"TEXT_FESEST2021RECOLLECTION_00714_KURENAI_000_047","그렇네요……!
-후후, 이건 히스이로 가져갈 선물로 하면 되겠어요."
-41,"TEXT_FESEST2021RECOLLECTION_00714_KURENAI_000_048","……자, 그럼 조금 더 돌아보고 돌아가겠어요.
-푸른 물구슬에서 또 만나요……!"
-42,"TEXT_FESEST2021RECOLLECTION_00714_FUFUCHA_000_050","장식을 달고 있는데 닭이 저에게 오더라구요…….
-나중에 봤더니 계속 절 따라다니고 있던데,
-포울린 씨의 닭이었나요?"
-43,"TEXT_FESEST2021RECOLLECTION_00714_FUFUCHA_000_051","닭을 돌보느라 고생하시는 건 알고 있었거든요.
-처음에는 놀랐지만 얌전한 아이라서 다행이었어요.
-무사히 장식도 다 달았고요."
-44,"TEXT_FESEST2021RECOLLECTION_00714_FUFUCHA_000_052","답례품을 받을 수 있다고요?
-장식 다는 것도 정말 재미있었는데
-이런 것까지 챙겨주시다니…… 감사합니다."
-45,"TEXT_FESEST2021RECOLLECTION_00714_Q7_000_000","무엇을 건네시겠습니까?"
-46,"TEXT_FESEST2021RECOLLECTION_00714_A7_000_001","토끼와 닭 인형"
-47,"TEXT_FESEST2021RECOLLECTION_00714_A7_000_002","구운 과자가 들어 있는 장식용 달걀"
-48,"TEXT_FESEST2021RECOLLECTION_00714_A7_000_003","화려한 현자의 알"
-49,"TEXT_FESEST2021RECOLLECTION_00714_FUFUCHA_000_053","이 인형의 감촉이 너무 좋아서요,
-어떤 식물을 재료로 썼을지 궁금하더라고요.
-후후, 이런 걸 직업병이라고 하는 걸까요?"
-50,"TEXT_FESEST2021RECOLLECTION_00714_FUFUCHA_000_054","이 장식용 달걀에는 과자가 들어있군요.
-어쩐지 굉장히 좋은 냄새가 난다 싶었어요.
-밭일 하다가 쉴 때 먹으면 되겠어요."
-51,"TEXT_FESEST2021RECOLLECTION_00714_FUFUCHA_000_055","이 현자의 알은 섬세한 장식이 아름다워요.
-전 재료를 채집해서 장인 분들에게 드리는 입장이지만,
-이렇게나 멋진 물건으로 만드신 걸 보니 정말 기쁘네요."
-52,"TEXT_FESEST2021RECOLLECTION_00714_2021ESTCHICKEN_000_056","꼬끼오!!"
-53,"TEXT_FESEST2021RECOLLECTION_00714_FUFUCHA_000_057","혹시 당신도 마음에 드나요?
-그렇다면 이건 당신과의 추억의 물건이라 생각할게요."
-54,"TEXT_FESEST2021RECOLLECTION_00714_FUFUCHA_000_058","그럼 이 아이를 포울린 씨에게 데려다 줄게요."
+0,"TEXT_FESEST2021RECOLLECTION_00714_NONOTTA_000_045","冒險者，你來得正好！<hex:02100103>目前謝禮的分發還在繼續，<hex:02100103>我想稍微休息一會，能請你替一下班嗎！"
+1,"TEXT_FESEST2021RECOLLECTION_00714_SYSTEM_000_046","可以再次領取任務「彩蛋狩獵添彩」發放禮品了。"
+2,"TEXT_FESEST2021RECOLLECTION_00714_Q1_000_000","要開始幫忙嗎？"
+3,"TEXT_FESEST2021RECOLLECTION_00714_KANESENNA_000_020","我們負責的部分已經裝飾好了。"
+4,"TEXT_FESEST2021RECOLLECTION_00714_KANESENNA_000_021","為了能讓市民們盡情享受彩蛋狩獵的樂趣，我也來幫忙了，<hex:02100103>雖然活動時間不長，不過我希望你也能好好放鬆一下。"
+5,"TEXT_FESEST2021RECOLLECTION_00714_KANESENNA_000_022","你是在分發謝禮嗎？<hex:02100103>雖然我並不認為自己做了什麼值得被感謝的事情，<hex:02100103>不過這也是活動的一環……我就心懷感激地收下吧。"
+6,"TEXT_FESEST2021RECOLLECTION_00714_Q4_000_000","要送出哪種謝禮？"
+7,"TEXT_FESEST2021RECOLLECTION_00714_A4_000_001","兔子和小雞的玩偶"
+8,"TEXT_FESEST2021RECOLLECTION_00714_A4_000_002","裝著烤點心的裝飾彩蛋"
+9,"TEXT_FESEST2021RECOLLECTION_00714_A4_000_003","華麗的預言蛋"
+10,"TEXT_FESEST2021RECOLLECTION_00714_KANESENNA_000_023","哎呀，這些玩偶真可愛。"
+11,"TEXT_FESEST2021RECOLLECTION_00714_KANESENNA_000_024","那麼，我就收下這個小雞玩偶了，<hex:02100103>還請你收下這隻兔子玩偶。"
+12,"TEXT_FESEST2021RECOLLECTION_00714_BODYGUARD01623_000_025","謝、謝謝您……！！<hex:02100103>我會把它當成傳家寶供起來的！"
+13,"TEXT_FESEST2021RECOLLECTION_00714_KANESENNA_000_026","哎呀，這個裝飾彩蛋真漂亮……<hex:02100103>而且這個香味，裡面是放了烤點心吧。<hex:02100103>等下我會配上茶慢慢享用的。"
+14,"TEXT_FESEST2021RECOLLECTION_00714_KANESENNA_000_027","哎呀，好漂亮的預言蛋……<hex:02100103>如此美麗的工藝品用來作活動的紀念再好不過。<hex:02100103>我會好好裝飾這顆飽含回憶的預言蛋的。"
+15,"TEXT_FESEST2021RECOLLECTION_00714_KANESENNA_000_028","那麼，希望你也能享受這美好的一天。"
+16,"TEXT_FESEST2021RECOLLECTION_00714_MIOUNNE_000_030","啊，你也參加了彩蛋狩獵啊。<hex:02100103>因為冒險者行會要商量些事情，我們幾個人正好都在森都，<hex:02100103>就順便來幫忙裝飾了。"
+17,"TEXT_FESEST2021RECOLLECTION_00714_MOMODI_000_031","只要到了彩蛋狩獵的季節，<hex:02100103>主辦方都會為烏爾達哈裝飾可愛的彩蛋，<hex:02100103>所以這回我也想來幫忙了。"
+18,"TEXT_FESEST2021RECOLLECTION_00714_BADERON_000_032","你在給協助人分發謝禮？<hex:02100103>哈哈，那我就不客氣地收下了。"
+19,"TEXT_FESEST2021RECOLLECTION_00714_Q5_000_000","要送出哪種謝禮？"
+20,"TEXT_FESEST2021RECOLLECTION_00714_A5_000_001","兔子和小雞的玩偶"
+21,"TEXT_FESEST2021RECOLLECTION_00714_A5_000_002","裝著烤點心的裝飾彩蛋"
+22,"TEXT_FESEST2021RECOLLECTION_00714_A5_000_003","華麗的預言蛋"
+23,"TEXT_FESEST2021RECOLLECTION_00714_MOMODI_000_033","好可愛的玩偶啊，<hex:02100103>不過不太適合流沙屋，<hex:02100103>就放在我自己的房間裡好了……"
+24,"TEXT_FESEST2021RECOLLECTION_00714_MIOUNNE_000_034","這個裝飾彩蛋裡放了烤點心吧。<hex:02100103>剛好忙了一天也累了，吃些甜食正合適。"
+25,"TEXT_FESEST2021RECOLLECTION_00714_BADERON_000_035","那我們在解散之前就去繆恩那裡，<hex:02100103>邊享用她泡的茶邊吃烤點心吧。"
+26,"TEXT_FESEST2021RECOLLECTION_00714_MOMODI_000_036","呵呵，這主意不錯。"
+27,"TEXT_FESEST2021RECOLLECTION_00714_BADERON_000_037","真是顆做工考究的預言蛋啊！<hex:02100103>把它放在沉溺海豚亭的話，恐怕會被那些醉鬼打壞，<hex:02100103>我得好好想想把它裝飾在哪裡……"
+28,"TEXT_FESEST2021RECOLLECTION_00714_MIOUNNE_000_038","好了，我們差不多也該去休息了。<hex:02100103>等你有空了，再來魔女咖啡館露露臉吧。"
+29,"TEXT_FESEST2021RECOLLECTION_00714_KURENAI_000_040","沒想到你也參加了這個奇妙的活動。<hex:02100103>呵呵呵，在紅玉海之外遇到你還真是新鮮呢！"
+30,"TEXT_FESEST2021RECOLLECTION_00714_SANANA_000_041","我都說了我只是做個市場調查暫時回這邊一趟，<hex:02100103>結果這傢伙非說自己也要了解一下外面的情況，就跟來了。<hex:02100103>拜託你可千萬要對潮騷保密啊。"
+31,"TEXT_FESEST2021RECOLLECTION_00714_KURENAI_000_042","沒想到除了裝飾雞蛋這種不可思議的體驗之外，<hex:02100103>居然還能得到禮物……如此好意，真是太感謝了！"
+32,"TEXT_FESEST2021RECOLLECTION_00714_Q6_000_000","要送出哪種謝禮？"
+33,"TEXT_FESEST2021RECOLLECTION_00714_A6_000_001","兔子和小雞的玩偶"
+34,"TEXT_FESEST2021RECOLLECTION_00714_A6_000_002","裝著烤點心的裝飾彩蛋"
+35,"TEXT_FESEST2021RECOLLECTION_00714_A6_000_003","華麗的預言蛋"
+36,"TEXT_FESEST2021RECOLLECTION_00714_KURENAI_000_043","這是……兔子和小雞的玩偶吧，<hex:02100103>不但外形憨態可掬，軟綿綿的手感也讓人心醉，<hex:02100103>真是一件逸品啊！"
+37,"TEXT_FESEST2021RECOLLECTION_00714_SANANA_000_044","哈哈，這裡面裝了烤點心吧。<hex:02100103>雖然點心份量不多，但因為包裝精美顯得十分獨特呢。<hex:02100103>要是把這個拿去賣的話，一定會很暢銷……"
+38,"TEXT_FESEST2021RECOLLECTION_00714_KURENAI_000_045","哎呀，這個工藝品裝飾得真漂亮。<hex:02100103>是叫做預言蛋吧？<hex:02100103>如此精美的謝禮，我真的可以收下嗎……"
+39,"TEXT_FESEST2021RECOLLECTION_00714_SANANA_000_046","你難得來外面一趟，<hex:02100103>就別客氣了，心懷感激地收下吧。"
+40,"TEXT_FESEST2021RECOLLECTION_00714_KURENAI_000_047","你說得對！<hex:02100103>嘿嘿，這個就當特產帶回去送給翡翠好了。"
+41,"TEXT_FESEST2021RECOLLECTION_00714_KURENAI_000_048","好了，我再四處參觀一會就要回去了。<hex:02100103>我們來日碧玉水見！"
+42,"TEXT_FESEST2021RECOLLECTION_00714_FUFUCHA_000_050","我在幫忙裝飾的時候，這隻小雞十分親近我……<hex:02100103>回過神時，它就一直跟到這裡了，<hex:02100103>應該是波林先生養的小雞吧。"
+43,"TEXT_FESEST2021RECOLLECTION_00714_FUFUCHA_000_051","原本以為照顧小雞會很辛苦，開始還有點慌呢，<hex:02100103>不過這孩子倒是很乖巧。<hex:02100103>裝飾工作也順利完成了呢。"
+44,"TEXT_FESEST2021RECOLLECTION_00714_FUFUCHA_000_052","要給我幫忙裝飾的謝禮？<hex:02100103>裝飾工作已經讓我得到不少樂趣了，<hex:02100103>居然還費心準備了謝禮……謝謝。"
+45,"TEXT_FESEST2021RECOLLECTION_00714_Q7_000_000","要送出哪種謝禮？"
+46,"TEXT_FESEST2021RECOLLECTION_00714_A7_000_001","兔子和小雞的玩偶"
+47,"TEXT_FESEST2021RECOLLECTION_00714_A7_000_002","裝著烤點心的裝飾彩蛋"
+48,"TEXT_FESEST2021RECOLLECTION_00714_A7_000_003","華麗的預言蛋"
+49,"TEXT_FESEST2021RECOLLECTION_00714_FUFUCHA_000_053","這個玩偶摸起來手感真好呀，<hex:02100103>真好奇究竟是用了哪種植物做材料。<hex:02100103>呵呵，這就是職業病吧。"
+50,"TEXT_FESEST2021RECOLLECTION_00714_FUFUCHA_000_054","嗯？這個裝飾彩蛋裡裝了烤點心啊，<hex:02100103>難怪聞起來這麼香。<hex:02100103>就等農活忙完休息時享用吧。"
+51,"TEXT_FESEST2021RECOLLECTION_00714_FUFUCHA_000_055","這個預言蛋上面的纖細裝飾真美呀。<hex:02100103>我採集的素材交給各位工匠後居然能製出如此精美的逸品，<hex:02100103>簡直太欣慰了。"
+52,"TEXT_FESEST2021RECOLLECTION_00714_2021ESTCHICKEN_000_056","咯咯噠！！"
+53,"TEXT_FESEST2021RECOLLECTION_00714_FUFUCHA_000_057","莫非你也很喜歡？<hex:02100103>哈哈哈，那就把它當作與你相遇的紀念品吧。"
+54,"TEXT_FESEST2021RECOLLECTION_00714_FUFUCHA_000_058","我去把這孩子送回波林先生身邊。"

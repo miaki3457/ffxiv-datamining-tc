@@ -1,256 +1,98 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_000_000","오, 무슨 일이지?
-창천 거리를 보러 왔나?"
-1,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_010_000","오, <Highlight>ObjectParameter(1)</Highlight>.
-창천 거리의 공공사업에 참여하겠다면
-내가 설명을 좀 해주지."
-2,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_010_010","당신이 제일 먼저 알아둬야 하는 건
-바로 이 '<Sheet(EObj,2010775,0)/>'<13>FF1002280CFF05454F626AF61EAE970103FF04EC95BCFF07EC9DB4EC95BC</13>.
-창천 거리에 관한 부흥 사업 정보가 붙어 있거든."
-3,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_010_020","뭐, 주요 내용은
-신입 일꾼을 위한 안내와 사업의 진척 상황이야.
-사업 상황은 과거 이력도 살펴볼 수 있게 되어 있어."
-4,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_010_021","뭐, 주 내용은 신입을 위한 안내라고 할 수 있지.
-나머지는 과거의 사업 이력을 되돌아보도록 되어 있어."
-5,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_010_030","대규모 의뢰와 행사 공지도 여기에 게시하고 있으니
-관심이 있으면 자주 보러 오도록 해."
-6,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_010_040","그래서 기본적으로 장인분들에게는
-창천 거리에 필요한 물품을 납품해달라고 부탁하고 있지."
-7,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_010_050","그 부분은 실제로 창구에 가서 얘기하는 편이 빠를 테니
-'포트킨'이라는 녀석에게 설명을 듣도록 해.
-현장 사람과 얼굴도 익혀야 할 테니 겸사겸사 잘 부탁해."
-8,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_010_060","여어, <Highlight>ObjectParameter(1)</Highlight>.
-지난번에는 부흥 계획에 부족한 점이 많다 보니……
-여러모로 힘들게 한 것 같아 미안했어."
-9,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_010_070","새로운 부흥 계획이 시작되었으니 또 협력해줬으면 해.
-필요한 물자는 지난번과 달라졌으니
-'포트킨'한테 가서 확인해 주지 않겠나?"
-10,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_020_000","장인에게 부탁하고 싶은 일이 무엇인지는
-'포트킨'이라는 녀석에게 자세한 설명을 들어줘.
-현장 사람과 얼굴도 익혀야 할 테니 겸사겸사 잘 부탁해."
-11,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_030_000","포트킨 녀석과 얘기하는 모습은 여기서 지켜보고 있었어.
-그 녀석, 동경하던 영웅과 얘기한다고 긴장한 것 같던데……
-일 내용은 제대로 들었나?"
-12,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_030_010","아 참, 그리고 '에니'한테도 설명을 들어두면 좋을 거야.
-그 녀석은 장인용 상품을 취급하고 있거든."
-13,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_130_000","포트킨한테서 쿠뽀 복권 얘기는 들었나?
-'리즈베스'한테서 더 자세한 얘기를 들을 수 있을 거야."
-14,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_140_000","자원을 어디서 구할 수 있는지, 설명은 들었나?
-괜찮다면 '플로파상'한테 설명을 듣도록 해."
-15,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_150_000","디아뎀 제도에 관해서는
-그거야 뭐 '오르바엘' 도련님이 제일 잘 알고 있지.
-이야기는 벌써 들었나?"
-16,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_160_000","당신이 장인으로서 더 성장하고 싶다면……
-'루도브랭'이라는 귀족에게 말을 걸어봐.
-재미있는 이야기를 들을 수 있을걸?"
-17,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_000","아, 돌아왔군.
-부흥 사업의 흐름은 대체적으로 이해했나?"
-18,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_010","뭐, 다시 한번 확인하고 싶으면
-<Sheet(EObj,2010775,0)/>에도 쓰여 있으니까
-그걸 보도록 해."
-19,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_020","그래서 이 도시의 사업에 대해서 말인데
-'부흥 공동 작업'에 대한 설명을 깜박했더라고."
-20,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_030","'부흥 공동 작업'이란 건
-장인들이 주축이 되어 실시하는 대규모 공사를 말해.
-물자가 모이는 대로 착공하기로 되어 있지."
-21,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_040","하지만 예고도 없이 시작하면 사람들이 안 모이지 않겠나.
-그래서 이 <Sheet(EObj,2010775,0)/>에
-사전에 예고를 붙여놓기로 했어."
-22,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_050","그러니 자주 <Sheet(EObj,2010775,0)/><13>FF1002280CFF05454F626AF61EAE970103FF04EBA5BCFF04EC9D84</13> 들여다보면
-놓치지 않을 수 있을 거야.
-시간이 맞아서 협력해준다면 더 고맙고."
-23,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_060","자, 그럼 이제 당신의 활약을 기대하고 있을게!
-영웅이면서 부흥에도 참여해주는,
-고마운 <Highlight>ObjectParameter(1)</Highlight> 씨!"
-24,"TEXT_CTSHWDINFORMATION_00633_SYSTEM_040_070","'부흥 공동 작업'은
-제작자 및 채집가로 참여할 수 있는
-창천 거리의 임무입니다."
-25,"TEXT_CTSHWDINFORMATION_00633_SYSTEM_040_080","부흥에 필요한 물자가 필요한 수량만큼 납품되면
-<Sheet(EObj,2010775,0)/>에 실시 일시가 공지되므로
-부흥이 어느 정도 진척됐는지 확인하면서 참여해 보세요!"
-26,"TEXT_CTSHWDINFORMATION_00633_SYSTEM_040_090","'이슈가르드 하층'의 에테라이트 광장에서
-'창천 거리'로 이동할 수 있습니다.
-꼭 이용해 보세요!"
-27,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_100","새로운 사업에 대해서 대략 파악이 되었나?
-여러 조직이 모여서 부흥을 지원하고 있다 보니
-조금 복잡할지도 모르겠군."
-28,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_110","모르는 것이 있으면
-대개는 <Sheet(EObj,2010775,0)/>에 쓰여 있으니 확인해 보도록 해.
-무리하지 말고 자신의 역량에 맞는 작업에 참여하도록."
-29,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_120","부흥의 진척에 대해서는
-게시판을 봐도 되고, 나에게 물어봐도 돼.
-최대한 상세히 대답할 테니 언제든 말을 걸어줘."
-30,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_130","<Highlight>ObjectParameter(1)</Highlight>, 마침 잘 왔어!
-새로운 부흥 사업 계획이 시작되어서 협력을 부탁하고 싶어!"
-31,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_140","재료는 계속해서 디아뎀 제도에서 채집할 수 있지만……
-사업 내용이 바뀌면 필요한 재료도 달라지는 법이지."
-32,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_150","앞으로는 제3차 부흥 사업용 의뢰품을
-납품할 수 있도록 주의해줘."
-33,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_160","에니와 리즈베스도 열심히
-복권과 진흥권 답례품의 가짓수를 늘리고 있으니
-한번 들여다 봐. 그럼 잘 부탁해!"
-34,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_170","<Highlight>ObjectParameter(1)</Highlight>, 마침 잘 왔어!
-제4차 부흥 사업 계획이 시작되었으니 꼭 좀 협력 부탁해.
-드디어 이번이 마지막 부흥 사업 계획이야."
-35,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_180","의뢰 물자에 변경 사항이 있으니 확인 부탁해.
-제3차까지의 사업 계획 물자도 계속 받고 있지만,
-제4차 사업만큼의 사례는 할 수 없으니 주의해줘."
-36,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_190","재료는 여전히 디아뎀 제도에서 채집할 수 있지만……
-또다시 대규모 에테르에 변화가 생겨서 식생이 바뀌었어.
-따뜻하게 대비하고 가도록 해."
-37,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_200","에니와 리즈베스도 여전히
-복권과 진흥권 답례품의 가짓수를 늘리고 있으니
-관심 있으면 한번 들여다 봐."
-38,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_210","아아, 그리고 이번에는……
-사업 계획의 일부 기간 중 가장 공헌을 많이 한 제작자 클래스의
-기념비를 세울 예정이니 관심 있으면 참가해줘."
-39,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_220","장인분들에게 신세를 지는 것도 이번이 마지막이야.
-잘 부탁해."
-40,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_230","<Highlight>ObjectParameter(1)</Highlight>, 잘 왔어!
-보다시피 장인분들 덕에 창천 거리의 부흥을 완수했어."
-41,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_240","하지만 계속해서 물자 납품은 받고 있어.
-보수할 때나 장비로서 고맙게 사용할 테니 꼭 좀 납품해줘."
-42,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_250","가장 많이 필요한 건 제4차 부흥 계획의 물자야.
-제3차까지의 사업 계획 물자도 계속 받고 있지만,
-제4차 사업 물자가 우선이라 그만큼 사례금은 못 주니 주의해줘. "
-43,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_260","재료는 여전히 디아뎀 제도에서 채집할 수 있지만……
-또다시 대규모 에테르에 변화가 생겨 이전과는 식생이 바뀌었어.
-따뜻하게 대비하고 가도록 해."
-44,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_270","에니와 리즈베스도 여전히
-복권과 진흥권 답례품의 가짓수를 늘리고 있으니
-관심 있으면 한번 들여다 봐."
-45,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_050_000","물론 언젠가는 이 안쪽도 다시 지을 생각이지만,
-그러려면 엄청난 시간과 인력, 그리고 물자가 필요해.
-서두르지 않고 눈앞에 닥친 일부터 하나씩 진행할 생각이야."
-46,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_050_010","뭐, 아무튼 일단 이 광장을 어떻게든 해야겠지.
-거점이 좀 그럴듯해야 납품을 할 마음도 생기지 않겠어?"
-47,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_060_000","여어, <Highlight>ObjectParameter(1)</Highlight>!
-지금은 '부흥 공동 작업' 기간이야!
-지금은 창구 주변 시설을 건설 중이니 당신도 협력 부탁해!"
-48,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_070_000","공지를 보고 와준 장인분들 덕분에
-포트킨 일행이 일하는 창구 시설이 완성되었어!
-이제 조금은 일이 편해지겠지."
-49,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_070_010","앞으로 더 많은 사람이 늘어날 테고
-서쪽에도 창구가 하나 더 있었으면 하는데,
-당신도 그렇게 생각하지 않나?"
-50,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_080_000","지금은 서쪽에 창구 시설을 건설하는
-'부흥 공동 작업'이 한창이야!
-부흥 사업 인력을 늘려야 하니 잘 부탁해!"
-51,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_090_000","프란셀 도련님 쪽에서
-새로운 사업 계획을 세우고 있다는군.
-서쪽 창구에도 빠른 시일 내에 사람이 투입될 거야."
-52,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_090_010","인력도 계속 모이고 있고 이 광장도 점점 정비되고 있어.
-장인 및 토목 작업자들이 조금이라도 일하기 편한
-환경을 만들어 나가야 할 텐데 말이지."
-53,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_100_000","앗, 마침 잘 왔어!
-이 광장에 놓여 있던 도구를 정돈하는
-'부흥 공동 작업' 중이니 당신도 참여해줘!"
-54,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_110_000","여어, <Highlight>ObjectParameter(1)</Highlight>.
-장인분들 덕분에 이 광장의 정비는 모두 끝났어."
-55,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_110_010","다음 사업 계획이 결정될 때까지 공동 작업은 이제 없지만,
-계속해서 물자 납품은 받고 있으니,
-앞으로도 협력 부탁해!"
-56,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_170_000","이번 정비 계획의 중심은 창천 거리 남동쪽에 있는
-'새보금자리 거주구'야."
-57,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_170_010","건물 잔해와 쓰러진 탑 등 전쟁 흔적이 남아 있는 곳이지만……
-최종적으로는 그곳에 주택을 건설하고 싶어.
-성도에는 전쟁 때문에 집을 잃은 사람도 많으니 말이지."
-58,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_170_020","일단은 중앙으로 통하는 '곡괭이 거리'부터 시작할 거야.
-여긴 앞으로 부흥 작업의 주요 거점이 될 곳이거든.
-납품과 공동 작업에 협력을 부탁해."
-59,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_180_000","장인분들 덕분에
-'곡괭이 거리'가 완성되었어!"
-60,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_180_010","이 통로를 완성했으니,
-진척도로 치면 전체 계획 중에서 25%는 달성한 셈이지."
-61,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_180_020","다음엔 '성 로엘 광장'의 정비를 시작하자.
-광장이 완성되면 드디어 거주구 건설을 할 수 있게 돼.
-거길 정비해서 집을 건축하는 게 이번 정비 계획의 목적이니까!"
-62,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_190_000","'성 로엘 광장'을 완성했어!
-이게 다 장인분들 덕분 아니겠어? 참 고마운 일이야."
-63,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_190_010","성 로엘 광장이 완성되었으니,
-진척도로 치면 이제 전체 계획의 50%를 달성한 셈이군."
-64,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_190_020","드디어 '새보금자리 거주구' 정비에 들어갈 수 있겠어.
-집을 건축할 수 있도록 잔해를 철거하고 계단, 통로 정비까지……
-그리고 필요한 물자의 납품을 잘 부탁해."
-65,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_200_000","'새보금자리 거주구' 정비가 끝났어!
-그 덕에 인력과 물자의 이동이 편해졌지."
-66,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_200_010","거주구를 정비 완료했으니,
-진척도로 치면 이제 전체 계획의 80%를 달성한 셈이군."
-67,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_200_020","드디어 집 건축이 시작돼.
-거주하게 될 사람들이 외풍 때문에 춥지 않도록
-꼼꼼하게 일을 해주도록."
-68,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_210_000","장인분들 덕분에 이번 부흥 계획을 모두 완수했어!
-새보금자리 거주구에는 지금 계속해서 이주자가 찾아오고 있어.
-멋진 집을 보고 다들 안심한 듯한 표정을 짓더군."
-69,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_210_010","이 도시도 점점 북적거리게 되었군.
-당신도 한번 돌아보고 오도록 해."
-70,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_210_020","계속해서 물자 납품도 받고 있으니
-그쪽도 잘 부탁해!"
-71,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_120_000","아 그래, '포트킨'의 설명은 집중해서 잘 듣도록.
-자재를 구하는 일이랑 납품에 협력해줄 거라면
-하나라도 놓쳐선 안 되거든."
-72,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_120_010","그래, 당신 혹시 채집도 잘한다면
-'오르바엘' 도련님에게 상세한 얘기를 듣고 오도록 해.
-그 사람은 좀 덜렁거리니까 놓치는 얘기가 있으면 안 되거든."
-73,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_220_000","이번 부흥 사업은 크게 나눠서 세 곳을 계획하고 있어.
-대규모 시설의 건설도 계획하고 있으니
-계속해서 일손이 많이 필요할 거야. 협력 부탁해!"
-74,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_230_000","여어, <Highlight>ObjectParameter(1)</Highlight>!
-깃털비 상업구의 정비는 순조롭게 진행 중이야!
-땅고르기가 끝나서 걷기 편해졌지?"
-75,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_230_010","이 부근엔 아무래도 계단과 언덕이 많거든.
-이렇게 땅이 평평하게 정비되면
-작업 효율이 확 올라갈 거야."
-76,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_240_000","<Highlight>ObjectParameter(1)</Highlight>, 잘 왔어!
-깃털비 상업구 정비는 완료됐고
-지금은 주판 거리를 수선하고 있는 중이야."
-77,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_240_010","그러고 보니
-이름 없는 자들의 광장 옆에 생긴 시설은 보고 왔나?
-그곳은 하늘강철 기공방의 분관이야."
-78,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_240_020","최첨단 기공 기술로 부흥 사업에 협력해 주고 있어.
-에테르 착암기도 저기서 대량생산되고 있고,
-우와…… 가슴이 두근거리지 않나?"
-79,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_250_000","주판 거리가 완성됐다!
-상인들이 주판을 튕기는 소리가
-앞으로 이곳에 울려퍼질 거야!"
-80,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_250_010","지금 작업 중인 흰서리 관사는
-이 거리에서는 꽤 커다란 건물에 속하게 될 거다.
-기합 넣고 열심히 해보자고!"
-81,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_260_000","<Highlight>ObjectParameter(1)</Highlight>!
-이번 부흥 사업 계획이 완료됐어!
-이미 거리는 다 둘러보고 왔나?"
-82,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_260_010","장인분들 덕분에 이 거리도 상당히 깔끔해졌어.
-다음 부흥 사업 계획이 결정될 때까지
-쉬도록 해!"
-83,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_270_000","드디어 제4차 부흥 사업 계획이 시작됐군.
-이번에는 부흥시 문화구 서쪽, 시인의 문,
-그리고 문화구 동쪽의 순서로 부흥 사업을 진행할 예정이야."
-84,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_270_010","일단은 부흥시 문화구 서쪽 정비부터 시작해야겠지.
-협력 잘 부탁해!"
-85,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_280_000","안녕, <Highlight>ObjectParameter(1)</Highlight>!
-지금은 부흥시 문화구 서쪽 거주지를 건설 중이야.
-부흥 공동 작업에 협력하려면 창천 거리의 안내인에게 안내를 부탁해."
-86,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_290_000","현재 보수 중인 시인의 문은 이슈가르드 상층과 연결되어 있어.
-이곳이 완성되면 시민들의 교통이 편해질 거야."
-87,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_300_000","부흥시 문화구 동쪽 정비가 시작되었어!
-전체 진척도로 치면 약 반 정도 진행된 셈이야.
-계속해서 협력을 부탁할게."
-88,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_310_000","지금은 부흥시 문화구 동쪽의 거주지를 건설 중이야.
-이 계획으로 창천 거리의 거주지 건설은 완료하게 돼.
-주민들을 위해서 조금만 더 노력하면 돼!"
-89,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_320_000","부흥시 문화구 보수 작업은 완료했지만,
-제멜 가의 높은 분이 설계한 욕탕을 건설 중이야!
-완성하면 실컷 목욕을 즐겨봐!"
-90,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_330_000","기술 점수 집계 기간 중에
-가장 공헌도가 높았던 제작자 클래스가 뭔지 알고 있나?
-정답은 기념비가 세워지면 알게 될 테니 기대하도록!"
-91,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_340_000","장인분들이 힘써준 덕분에 부흥 사업 계획은 완수되었어.
-그런데도 이 거리에 와주다니, 당신은 정말 좋은 사람이군!
-<Highlight>ObjectParameter(1)</Highlight>!"
-92,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_350_000","창천 거리 부흥 축제가 시작되니
-이 거리도 활기가 넘치는군!"
-93,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_350_010","부흥 축제가 끝난 뒤에도
-부지런히 창천 거리에 와주니 기쁘군그래!
-고맙네, <Highlight>ObjectParameter(1)</Highlight>!"
+0,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_000_000","喲，怎麼了？<hex:02100103>你是來看蒼天街情況的嗎？"
+1,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_010_000","喲，<hex:022903EB0203>。<hex:02100103>你要是想參加蒼天街的公共建設，<hex:02100103>就先稍微聽我說明一下吧。"
+2,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_010_010","首先我希望你記住這個<hex:02280CFF05>EObj<hex:F61EAE970103>。<hex:02100103>這上面貼著關於蒼天街重建工程的情報。"
+3,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_010_020","主要內容就是面向新人的說明以及工程的進度報告。<hex:02100103>也可以查看過去的工程情況。"
+4,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_010_021","主要內容就是面向新人的說明，<hex:02100103>也可以查看過去的工程情況。"
+5,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_010_030","大規模的委託或是活動的通知也會貼在這裡，<hex:02100103>有興趣的話就常來看看。"
+6,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_010_040","工匠們要做的基本就是交納蒼天街所需要的物資。"
+7,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_010_050","這部分還是實際去跟窗口的人談談比較好，<hex:02100103>你就去找一個叫波特金的傢伙聊聊吧。<hex:02100103>順便就當是在現場互相認識一下，拜託你了。"
+8,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_010_060","喲，<hex:022903EB0203>。<hex:02100103>上回的重建計劃多有不到之處……<hex:02100103>非常抱歉給你添麻煩了。"
+9,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_010_070","此次又有了新的重建計劃，請你再次幫忙吧。<hex:02100103>需要的物資也跟之前的不一樣了，<hex:02100103>麻煩你去波特金那裡確認一下好嗎？"
+10,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_020_000","關於委託給工匠的工作，<hex:02100103>請你去找一個叫波特金的傢伙談談，<hex:02100103>順便就當是在現場互相認識一下，拜託你了。"
+11,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_030_000","我看見你和波特金談話了。<hex:02100103>那傢伙在憧憬的英雄面前好像很緊張啊……<hex:02100103>你順利打聽到工作的內容了嗎？"
+12,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_030_010","啊，對了，你順便再去跟艾妮談談吧。<hex:02100103>那傢伙負責販賣工匠相關的商品。"
+13,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_130_000","你從波特金那裡聽說咕波好運道的事情了嗎？<hex:02100103>你可以去找莉茲貝絲為你詳細介紹一下。"
+14,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_140_000","你聽說過資源採集地的事情了嗎？<hex:02100103>如果方便的話，就去找弗洛帕桑諮詢一下吧。"
+15,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_150_000","關於雲冠群島的事情，<hex:02100103>那自然是奧瓦艾爾少爺最熟悉情況了。<hex:02100103>你已經跟他談過了嗎？"
+16,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_160_000","你如果打算以工匠的身份努力邁向巔峰的話……<hex:02100103>那就去找一個名叫呂多佛蘭的貴族談談吧。<hex:02100103>我想你應該能夠打聽到有意思的事情。"
+17,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_000","哦，你回來了啊。<hex:02100103>重建工程的流程你大致明白了嗎？"
+18,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_010","要是想再確認一遍的話，<hex:02100103>可以看看<hex:02280CFF05>EObj<hex:F61EAE970103>，<hex:02100103>那上面也寫著。"
+19,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_020","對了，關於蒼天街的工程……<hex:02100103>我忘了跟你說明什麼是「聯合重建工程」了。"
+20,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_030","「聯合重建工程」指的就是工匠們一起進行大規模的施工作業。<hex:02100103>等待物資湊齊後便可以開始施工。"
+21,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_040","不過話雖然是這樣說，<hex:02100103>可是要不事先通知一下的話也湊不齊人手。<hex:02100103>所以到時候會在這個<hex:02280CFF05>EObj<hex:F61EAE970103>上提前貼出預告。"
+22,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_050","說白了就是只要常來看看確認一下的話，<hex:02100103>就不會出什麼問題了。<hex:02100103>你要是有時間來幫幫忙，那自然是再好不過。"
+23,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_060","不過話說回來，身為英雄的你居然願意參加重建工程，<hex:02100103><hex:022903EB0203>你還真是奇特呢。<hex:02100103>那我就期待著你的活躍表現了！"
+24,"TEXT_CTSHWDINFORMATION_00633_SYSTEM_040_070","「聯合重建工程」是能工巧匠與大地使者才可參加的蒼天街任務。"
+25,"TEXT_CTSHWDINFORMATION_00633_SYSTEM_040_080","交納重建工程所需數量的物資後，<hex:02100103>將在<hex:02280CFF05>EObj<hex:F61EAE970103>上通知施工日期，<hex:02100103>請確認重建工程的進度，積極參加吧！"
+26,"TEXT_CTSHWDINFORMATION_00633_SYSTEM_040_090","可以透過伊修加爾德下層的乙太之光傳送到蒼天街。<hex:02100103>請積極利用！"
+27,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_100","你大致了解過新的工程計劃了嗎？<hex:02100103>畢竟有各種各樣的組織聚在一起支撐著重建工作，<hex:02100103>所以可能容易引起混亂。"
+28,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_110","如果有不明白的事情，<hex:02100103>就去到<hex:02280CFF05>EObj<hex:F61EAE970103>那裡確認一下，說明都寫在那裡。<hex:02100103>還有不要勉強自己，做好自己能力範圍內的工作就好。"
+29,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_120","關於重建工程的進度，<hex:02100103>可以透過公告板確認，也可以來問我。<hex:02100103>我會給你儘量詳細解答的，隨時來找我吧。"
+30,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_130","<hex:022903EB0203>，你來了啊！<hex:02100103>我們開始了新的重建工程計劃，想請你務必來幫忙啊！"
+31,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_140","素材可以繼續從雲冠群島進行採集……<hex:02100103>不過工程內容變了，需要的資材自然也會有所不同。"
+32,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_150","之後為第三期重建工程交納委託品時，<hex:02100103>希望你能夠注意一下。"
+33,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_160","艾妮和莉茲貝絲他們也努力了一把，<hex:02100103>擴充了抽獎以及振興票交換的禮品種類，有空你去看看吧。<hex:02100103>那就拜託你了！"
+34,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_170","<hex:022903EB0203>，你來了啊！<hex:02100103>第四期重建工程已經開始了，請你務必過來幫忙。<hex:02100103>順便一提，這回將是最後一期的重建工程了。"
+35,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_180","需要你幫忙籌備的物資內容跟上期相比有所不同，還請你確認一下。<hex:02100103>雖然前幾期的重建工程物資仍然可以交納，<hex:02100103>不過目前的重點都放在了第四期工程上，所以無法給你那麼多謝禮。"
+36,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_190","此外雖然素材可以從雲冠群島那裡採集到……<hex:02100103>不過那裡發生了大規模的乙太變化，導致植物生態產生了變異。<hex:02100103>請你做好準備再去。"
+37,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_200","艾妮和莉茲貝絲再次擴充了抽獎以及振興票交換的禮品種類，<hex:02100103>如果有興趣的話就去看看吧。"
+38,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_210","啊，對了……這次重建工程決定為<hex:02100103>指定期間內貢獻最大的能工巧匠職業建造紀念碑，<hex:02100103>有興趣的話你就過來參加吧。"
+39,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_220","這回也將是最後一次勞煩工匠們了。<hex:02100103>那就拜託了。"
+40,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_230","<hex:022903EB0203>，你來了啊！<hex:02100103>正如你所見到的，多虧了工匠們的努力，<hex:02100103>蒼天街重建工程終於全面竣工了。"
+41,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_240","不過我們仍然在接受物資的交納。<hex:02100103>這些物資將用於修補設施或是存作備用組件，<hex:02100103>請你積極地交納物資吧。"
+42,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_250","我們最需要的是用於第四期重建工程的物資。<hex:02100103>雖然前幾期的重建工程物資仍然可以交納，<hex:02100103>不過無法給你那麼多謝禮，請注意一下。"
+43,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_260","此外雖然素材可以從雲冠群島那裡採集到……<hex:02100103>不過那裡發生了大規模的乙太變化，導致植物生態產生了變異。<hex:02100103>請你做好準備再去。"
+44,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_270","艾妮和莉茲貝絲再次擴充了抽獎以及振興票交換的禮品種類，<hex:02100103>如果有興趣的話就去看看吧。"
+45,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_050_000","這裡面將來肯定也要重建起來，<hex:02100103>不過為此需要大量的時間、人員與物資。<hex:02100103>所以現在不能操之過急，把眼前的事情逐一做好再說。"
+46,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_050_010","目前的首要目標是先把這個廣場弄好。<hex:02100103>要是據點都沒個樣子，想必工匠們也拿不出幹勁交納物資吧？"
+47,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_060_000","喲，<hex:022903EB0203>！<hex:02100103>現在正處於「聯合重建工程」期間，<hex:02100103>大家都在建設窗口周邊的設施，請你也來幫忙吧！"
+48,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_070_000","多虧了工匠們看了通知過來幫忙搭建，<hex:02100103>波特金他們的交易窗口小屋已經建成了！<hex:02100103>這樣一來，工作就能輕鬆不少了。"
+49,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_070_010","今後還會有更多的人參加到重建工程中，<hex:02100103>這樣的話西邊估計也需要建些小屋，<hex:02100103>你也是這麼想的吧？"
+50,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_080_000","現在正在透過「聯合重建工程」建設西側的小屋，<hex:02100103>為今後招募更多的工程建設人員作準備。<hex:02100103>拜託你一起幫忙了！"
+51,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_090_000","弗朗塞爾少爺他們好像在制定新的工程計劃。<hex:02100103>西側的小屋應該也在近期就會有人入駐了。"
+52,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_090_010","人手越來越充足，這座廣場也逐漸整備好了。<hex:02100103>得為工匠和土木作業人員整頓好環境，<hex:02100103>方便他們幹活才行。"
+53,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_100_000","哦，你來得正是時候！<hex:02100103>現在透過「聯合重建工程」正在對廣場上放置的物品進行修繕，<hex:02100103>請你也來參加吧！"
+54,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_110_000","喲，<hex:022903EB0203>。<hex:02100103>多虧了工匠們的努力，這座廣場的修繕作業完成了。"
+55,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_110_010","在下次重建計劃確立之前，不會再進行聯合重建工程了，<hex:02100103>不過我們還在繼續接收交納的物資。<hex:02100103>今後也請你多幫忙了！"
+56,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_170_000","本期的整備計劃是以蒼天街東南側的新巢居住區為中心進行的。"
+57,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_170_010","那裡到處都是倒塌的石塔、斷壁殘垣以及戰爭留下的爪痕……<hex:02100103>不過最終我想把那裡建成住宅區。<hex:02100103>畢竟皇都有很多在戰爭中失去了家的人。"
+58,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_170_020","首先要從通往中央的十字鎬大街開始動工。<hex:02100103>這裡將會成為今後重建工程的重要據點。<hex:02100103>拜託你到時候協助交納物資以及參加聯合重建工程。"
+59,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_180_000","多虧了工匠們的努力，<hex:02100103>十字鎬大街終於完工了！"
+60,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_180_010","這條大街完工後，<hex:02100103>本期工程的整體進度應該達到25%了吧。"
+61,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_180_020","下一步就該對聖羅艾勒廣場進行整備了。<hex:02100103>等廣場完工後則是開始建設居住區。<hex:02100103>本期的最終目標就是清理居住區，建造住房！"
+62,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_190_000","聖羅艾勒廣場完工了！<hex:02100103>這也是多虧了工匠們的幫忙啊，真是十分感謝。"
+63,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_190_010","聖羅艾勒廣場完工後，<hex:02100103>本期工程的整體進度應該達到50%了吧。"
+64,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_190_020","終於要開始對新巢居住區進行整備了。<hex:02100103>為了建設新房子，需要清掃瓦礫，對臺階以及大道進行整備……<hex:02100103>為此請你協助籌集必要的物資吧。"
+65,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_200_000","新巢居住區整備完成了！<hex:02100103>人員移動和搬運物資也因此變得輕鬆了許多。"
+66,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_200_010","居住區整備完成後，<hex:02100103>本期工程的整體進度應該達到80%了吧。"
+67,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_200_020","終於要開始建設房子了。<hex:02100103>為了避免入住者挨凍，<hex:02100103>請一定要認真仔細！"
+68,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_210_000","多虧了工匠們，本期的重建計劃全部完成了！<hex:02100103>現在已經陸續有移居者來到了新巢居住區。<hex:02100103>大家在看到壯觀的房子後都露出了安心的表情。"
+69,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_210_010","這條街真是不斷熱鬧起來了啊。<hex:02100103>你也去好好逛逛吧。"
+70,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_210_020","我們還會繼續接受物資的交納，<hex:02100103>這方面也依舊拜託你了！"
+71,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_120_000","對了，如果你想幫我們籌集資材交納物資的話，<hex:02100103>就去仔細聽聽波特金的說明吧。<hex:02100103>千萬要聽仔細，別有什麼遺漏。"
+72,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_120_010","對了，如果你還精通採集的話，<hex:02100103>就去找奧瓦艾爾少爺詳細談談吧。<hex:02100103>那個人有點冒失，要是忘說了什麼可就不好了。"
+73,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_220_000","本期的重建工程將分成3個地點進行。<hex:02100103>由於還計劃建造大規模的設施，<hex:02100103>所以仍然需要大量的人手，就拜託你幫忙了！"
+74,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_230_000","喲，<hex:022903EB0203>！<hex:02100103>落羽商業區正在順利整備中！"
+75,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_230_010","因為選地的問題，這邊的階梯和坡道比較多。<hex:02100103>所以像這樣平整地面以後，<hex:02100103>作業的效率就會提升不少。"
+76,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_240_000","<hex:022903EB0203>，你來了啊！<hex:02100103>落羽商業區整備完成了，<hex:02100103>現在正在著手算盤大街的修繕工作。"
+77,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_240_010","話說回來，<hex:02100103>你看見無名眾人廣場旁邊新建的設施了嗎？<hex:02100103>那裡是天鋼機工坊的分館。"
+78,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_240_020","他們在用最先進的機工技術支援著重建工程。<hex:02100103>乙太鑽孔機也是在那裡進行量產的，<hex:02100103>你難道不覺得……這很浪漫嗎？"
+79,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_250_000","算盤大街完工了！<hex:02100103>今後，商人們撥動算盤發出的美妙聲音<hex:02100103>將會在這條大街上不斷地響起！"
+80,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_250_010","現在處於作業中的白霜官舍<hex:02100103>在這條街上也算得上是相當大的建築。<hex:02100103>打起精神干吧！"
+81,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_260_000","<hex:022903EB0203>！<hex:02100103>這期的重建工程計劃完工了！<hex:02100103>你已經去逛過了嗎？"
+82,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_260_010","多虧了工匠們，這條街也變得相當漂亮了呢。<hex:02100103>在下次重建工程計劃制定下來前，<hex:02100103>先去歇歇吧！"
+83,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_270_000","第四期重建工程終於開始了。<hex:02100103>這回預定按照西升歌文化區、詩伯門、<hex:02100103>東昇歌文化區的順序依次開工。"
+84,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_270_010","首先是西升歌文化區的整備。<hex:02100103>拜託你幫忙了。"
+85,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_280_000","喲，<hex:022903EB0203>！<hex:02100103>現在正在建設西升歌文化區的住房。<hex:02100103>如果你想參加聯合重建工程，就去找蒼天街的導覽吧。"
+86,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_290_000","現在正在修繕中的詩伯門連線著伊修加爾德上層，<hex:02100103>完工後市民們的外出會方便很多。"
+87,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_300_000","東昇歌文化區的整備工作已經開始了！<hex:02100103>全體的進度已經過半。<hex:02100103>請繼續協助我們。"
+88,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_310_000","現在正在建設東昇歌文化區的住房。<hex:02100103>這次完工後就能宣告蒼天街的住房建設工程全部完成了。<hex:02100103>為了居民們，請再加一把勁！"
+89,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_320_000","雖然修繕好了升歌文化區，<hex:02100103>不過澤梅爾家的大人物設計的浴場還在建設中！<hex:02100103>等完成之後，你可以來盡情地泡澡！"
+90,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_330_000","你知道技巧點的統計期間內<hex:02100103>哪種能工巧匠職業的貢獻最大嗎？<hex:02100103>等到紀念碑建成後，答案自然會揭曉！"
+91,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_340_000","多虧了工匠們的努力，重建工程全面竣工了。<hex:02100103>不過沒想到完工之後你還會來到這條街，<hex:02100103><hex:022903EB0203>，你這個人可真是不錯啊！"
+92,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_350_000","真讓人感慨啊，這裡竟然變得如此熱鬧！<hex:02100103>當初誰能想到這裡會舉辦蒼天街復興慶典呢？"
+93,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_350_010","就算重建已經完成了，也希望你能經常來這裡！<hex:02100103>感謝你的幫忙，<hex:022903EB0203>！"

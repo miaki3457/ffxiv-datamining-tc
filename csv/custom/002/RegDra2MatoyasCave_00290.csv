@@ -1,34 +1,18 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_000","개굴개굴…….
-이 동굴에 손님이라니, 별일이 다 있네!
-무슨 일로 왔어개굴?"
-1,"TEXT_REGDRA2MATOYASCAVE_00290_Q1_000_050","무엇을 물어보시겠습니까?"
-2,"TEXT_REGDRA2MATOYASCAVE_00290_A1_000_051","당신의 이야기를 들려달라고 한다"
-3,"TEXT_REGDRA2MATOYASCAVE_00290_A1_000_052","여기는 어떤 곳인지 물어본다"
-4,"TEXT_REGDRA2MATOYASCAVE_00290_A1_000_053","취소"
-5,"TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_070","개굴개굴…….
-난 마토야 님의 사역마인 '토로 로고'야개굴."
-6,"TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_071","마토야 님의 고향인 지식의 도시 샬레이안에서는
-지혜 없는 것에게 지혜를 주어
-사역마로 삼는 마법이 전해지고 있었어개굴."
-7,"TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_072","그 마법으로 지혜와 이름을 얻은 두꺼비……
-그게 바로 우리 '포록고'야개굴."
-8,"TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_073","동굴 밖에도 포록고가 있긴 하지만
-저것들은 '대이동' 때 주인한테 버림받은 사역마야개굴.
-가까이 가면 분별없이 덤벼드니까 조심해개굴."
-9,"TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_074","마토야 님은 우리 포록고 말고도
-마법 걸린 빗자루를 사역마로 쓰고 계셔개굴.
-연구 보조랑 집안일 등 …… 의외로 할 일이 많아서 바쁘지개굴!"
-10,"TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_090","이름 그대로 마토야 님께서 은둔해 계신 동굴이야개굴.
-입구를 막는 바위문은 우리 사역마 아니면
-마토야 님을 아는 극소수의 인간밖에 열 수 없어개굴."
-11,"TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_091","마토야 님이 살기 시작하신 당시 이 동굴은
-마물의 뼈가 여기저기 굴러다니는 음산한 곳이었대개굴."
-12,"TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_092","하지만 마토야 님의 마법과
-청소를 삶의 보람으로 삼는 빗자루들 덕분에
-지금은 제법 살기 좋은 장소가 되었어개굴."
-13,"TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_093","물론 우리 포록고가 있는 한
-습기 때문에 눅눅한 건 어쩔 수 없지개굴.
-개~굴개굴개굴!"
+0,"TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_000","呱呱……<hex:02100103>沒想到會有客人來到這個洞穴，真是太罕見了！<hex:02100103>不知你有何貴幹呱？"
+1,"TEXT_REGDRA2MATOYASCAVE_00290_Q1_000_050","想了解什麼？"
+2,"TEXT_REGDRA2MATOYASCAVE_00290_A1_000_051","你是做什麼的？"
+3,"TEXT_REGDRA2MATOYASCAVE_00290_A1_000_052","這裡是什麼地方？"
+4,"TEXT_REGDRA2MATOYASCAVE_00290_A1_000_053","取消"
+5,"TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_070","呱呱……<hex:02100103>我是瑪托雅大人的使魔，名字叫特羅·羅格呱。"
+6,"TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_071","在瑪托雅大人的故鄉、知識之都薩雷安，<hex:02100103>有一種魔法可以給予沒有智慧的物品以智慧，<hex:02100103>用作使魔呱。"
+7,"TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_072","像我這樣，被施加了那種魔法、獲得了智慧和名字的青蛙，<hex:02100103>就被稱作是智蛙呱。"
+8,"TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_073","雖然洞穴外面也有智蛙，<hex:02100103>不過那是在「大撤退」時被遺棄後失去主人的使魔呱。<hex:02100103>它們失去了判斷力，會胡亂襲擊路人，所以一定要小心呱。"
+9,"TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_074","除了我們智蛙，瑪托雅大人還對掃把施加了魔法，用作使魔呱。<hex:02100103>它們會協助瑪托雅大人進行研究，做一些瑣事……<hex:02100103>做的事出乎意料得多呱！"
+10,"TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_090","聽名字或許你就能知道，這裡是瑪托雅大人隱居的洞穴呱。<hex:02100103>只有我們使魔和少數幾個認識瑪托雅大人的人才能打開入口的石門。"
+11,"TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_091","這個洞穴在瑪托雅大人剛開始居住的時候，<hex:02100103>到處都堆積著魔物的骨頭，可陰森了呱。"
+12,"TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_092","不過，憑藉瑪托雅大人的魔法，<hex:02100103>還有那些愛乾淨的掃把們的本性，<hex:02100103>現在這裡比看起來要舒服得多呱。"
+13,"TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_093","不過，只要有我們智蛙在，<hex:02100103>不管怎樣都是濕漉漉黏糊糊的呱。<hex:02100103>呱呱呱！"

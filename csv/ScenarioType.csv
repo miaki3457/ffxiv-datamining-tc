@@ -1,5 +1,6 @@
 ﻿key,0,1
 #,Type,
+offset,0,4
 int32,str,sbyte
 0,"C",3
 1,"L",2

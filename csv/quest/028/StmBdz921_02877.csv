@@ -1,7 +1,8 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_STMBDZ921_02877_SEQ_00","포르타 프라이토리아에 있는 무니프리드는 전투 경험이 풍부한 모험가에게 임무를 부탁하고 싶어 하는 듯하다. "
+0,"TEXT_STMBDZ921_02877_SEQ_00","天營門的穆尼弗里德有任務想委託給戰鬥經驗豐富的冒險者。"
 1,"TEXT_STMBDZ921_02877_SEQ_01",""
 2,"TEXT_STMBDZ921_02877_SEQ_02",""
 3,"TEXT_STMBDZ921_02877_SEQ_03",""
@@ -25,8 +26,8 @@ int32,str,str
 21,"TEXT_STMBDZ921_02877_SEQ_21",""
 22,"TEXT_STMBDZ921_02877_SEQ_22",""
 23,"TEXT_STMBDZ921_02877_SEQ_23",""
-24,"TEXT_STMBDZ921_02877_TODO_00","<Sheet(BNpcName,5945,0)/> 처치"
-25,"TEXT_STMBDZ921_02877_TODO_01","무니프리드에게 보고"
+24,"TEXT_STMBDZ921_02877_TODO_00","討伐<hex:02280FFF09>BNpcName<hex:F217390103>"
+25,"TEXT_STMBDZ921_02877_TODO_01","向穆尼弗里德報告"
 26,"TEXT_STMBDZ921_02877_TODO_02",""
 27,"TEXT_STMBDZ921_02877_TODO_03",""
 28,"TEXT_STMBDZ921_02877_TODO_04",""
@@ -49,24 +50,11 @@ int32,str,str
 45,"TEXT_STMBDZ921_02877_TODO_21",""
 46,"TEXT_STMBDZ921_02877_TODO_22",""
 47,"TEXT_STMBDZ921_02877_TODO_23",""
-48,"TEXT_STMBDZ921_02877_MUNIFRID_000_000","<If(GreaterThan(PlayerParameter(52),0))><If(GreaterThan(PlayerParameter(52),0))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(GreaterThan(PlayerParameter(53),0))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(GreaterThan(PlayerParameter(54),0))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If> 님.
-당신은 전투 경험이 풍부한 모험가라고 들었습니다. "
-49,"TEXT_STMBDZ921_02877_MUNIFRID_000_001","제 임무는 포르타 프라이토리아 주변을 순찰하는 것입니다만,
-<Sheet(BNpcName,5945,0)/><13>FF1302280FFF09424E70634E616D65F217390103FF04EAB080FF04EC9DB4</13> 순찰길에 살고 있어요.
-그곳을 순찰 지역에서 빼면 제국에게 빈틈을 보이게 될 겁니다."
-50,"TEXT_STMBDZ921_02877_MUNIFRID_000_002","군대를 상대로 하는 전투라면 자신 있습니다.
-하지만 좁은 협곡을 자유로이 날아다니는 마물에게
-사람한테 했던 전투 방식은 거의 소용이 없더라고요."
-51,"TEXT_STMBDZ921_02877_MUNIFRID_000_003","동료 순찰병도 피해를 입은 터라
-언제 목숨을 잃는 자가 발생할지 모르는 상황입니다.
-그래서 경험이 풍부한 모험가님께 그놈의 처치를 부탁하고 싶습니다. "
-52,"TEXT_STMBDZ921_02877_MUNIFRID_000_004","<Sheet(BNpcName,5945,0)/><13>FF1302280FFF09424E70634E616D65F217390103FF04EB8A94FF04EC9D80</13> 북동쪽의 좁은 바위터가 근거지입니다.
-역전의 모험가에게 드릴 말씀은 아닌 것 같지만,
-그래도…… 조심하시길 바랍니다."
-53,"TEXT_STMBDZ921_02877_MUNIFRID_000_005","<Sheet(BNpcName,5945,0)/><13>FF1302280FFF09424E70634E616D65F217390103FF04EB8A94FF04EC9D80</13> 북동쪽의 좁은 바위터가 근거지입니다.
-역전의 모험가에게 드릴 말씀은 아닌 것 같지만,
-그래도…… 조심하시길 바랍니다."
-54,"TEXT_STMBDZ921_02877_MUNIFRID_000_010","오오, 녀석을 처치해주셨군요!?
-역시 전문가에게 맡기길 잘했습니다."
-55,"TEXT_STMBDZ921_02877_MUNIFRID_000_011","누군가 목숨을 잃기 전에 해결할 수 있어 정말 다행입니다.
-협력해주셔서 감사합니다!"
+48,"TEXT_STMBDZ921_02877_MUNIFRID_000_000","<hex:02084FE1E93501FF47><hex:020843E3E93580FF3B><hex:022903EB0203><hex:020831E1E93501FF29><hex:020825E3E93580FF1D><hex:022819FF14>GCRankLimsaMaleText<hex:E9350103><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03><hex:020852E1E93601FF4A><hex:020846E3E93680FF3E><hex:022903EB0203><hex:020834E1E93601FF2C><hex:020828E3E93680FF20><hex:02281CFF17>GCRankGridaniaMaleText<hex:E9360103><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03><hex:02084FE1E93701FF47><hex:020843E3E93780FF3B><hex:022903EB0203><hex:020831E1E93701FF29><hex:020825E3E93780FF1D><hex:022819FF14>GCRankUldahMaleText<hex:E9370103><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03>閣下。<hex:02100103>我聽說你是一名戰鬥經驗非常豐富的冒險者。"
+49,"TEXT_STMBDZ921_02877_MUNIFRID_000_001","我的任務是巡邏天營門的周邊，<hex:02100103>不過，巡邏路線上棲息著<hex:02280FFF09>BNpcName<hex:F217390103>。<hex:02100103>如果避開它，很可能會給帝國帶來可乘之機。"
+50,"TEXT_STMBDZ921_02877_MUNIFRID_000_002","如果是軍隊之間的戰鬥，我肯定不會落後於人。<hex:02100103>可是，在與狹小山谷間自由飛行的魔物的戰鬥中，<hex:02100103>我擬定的對人戰術，根本沒有作用。"
+51,"TEXT_STMBDZ921_02877_MUNIFRID_000_003","現在，有巡邏兵也因魔物受了傷，<hex:02100103>隨時都可能會有人因此喪命。<hex:02100103>所以，我想委託經驗豐富的冒險者閣下，去討伐那個魔物。"
+52,"TEXT_STMBDZ921_02877_MUNIFRID_000_004","<hex:02280FFF09>BNpcName<hex:F217390103>將東北邊的狹小石場劃為了自己的領地。<hex:02100103>或許我對經驗豐富的冒險者說什麼都是多餘，<hex:02100103>不過……還請小心。"
+53,"TEXT_STMBDZ921_02877_MUNIFRID_000_005","<hex:02280FFF09>BNpcName<hex:F217390103>將東北邊的狹小石場劃為了自己的領地。<hex:02100103>或許我對經驗豐富的冒險者說什麼都是多餘，<hex:02100103>不過……還請小心。"
+54,"TEXT_STMBDZ921_02877_MUNIFRID_000_010","哦哦，你打倒那傢伙了嗎？！<hex:02100103>果然交給專家是正確的。"
+55,"TEXT_STMBDZ921_02877_MUNIFRID_000_011","能在出現死者之前解決問題真是太好了。<hex:02100103>感謝你的協助！"

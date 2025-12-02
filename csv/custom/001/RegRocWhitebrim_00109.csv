@@ -1,50 +1,26 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGROCWHITEBRIM_00109_ELIASSIN_000_000","용건이 뭔가?
-나는 바쁜 몸이니 용건이 없으면 썩 물러가게."
-1,"TEXT_REGROCWHITEBRIM_00109_ELIASSIN_000_100","어서 오십시오.
-탈환한 돌방패 경계초소를 재건하느라 바쁜 나머지
-공로자이신 당신께 차 한 잔 내드리지 못해 송구합니다."
-2,"TEXT_REGROCWHITEBRIM_00109_ELIASSIN_000_101","어서 오십시오.
-공로자이신 당신께 차 한잔 내드리지 못해 송구합니다."
-3,"TEXT_REGROCWHITEBRIM_00109_Q1_000_000","무엇을 물어보시겠습니까?"
-4,"TEXT_REGROCWHITEBRIM_00109_A1_000_001","당신의 이야기를 들려달라고 한다"
-5,"TEXT_REGROCWHITEBRIM_00109_A1_000_002","여기는 어떤 곳인지 물어본다"
-6,"TEXT_REGROCWHITEBRIM_00109_A1_000_003","취소"
-7,"TEXT_REGROCWHITEBRIM_00109_ELIASSIN_000_010","나는 이슈가르드에서도 특출난 명문으로 유명한
-'뒤랑데르 가'를 섬기는 기병일세."
-8,"TEXT_REGROCWHITEBRIM_00109_ELIASSIN_000_011","드래곤족과는 오랫동안 전장에서 부딪쳐 왔지만
-놈들의 기세와 사악함은 결코 만만히 여길 수 없지."
-9,"TEXT_REGROCWHITEBRIM_00109_ELIASSIN_000_012","이 땅에 평화를 이루기 위해서는
-하루빨리 드래곤족을 제거해야 하네."
-10,"TEXT_REGROCWHITEBRIM_00109_ELIASSIN_000_110","저는 이슈가르드에서도 특출난 명문으로 유명한
-'뒤랑데르 가'를 섬기는 기병입니다."
-11,"TEXT_REGROCWHITEBRIM_00109_ELIASSIN_000_111","당신 또한 직접 겪어봐서 아시겠지만
-드래곤족의 기세와 사악함은 결코 만만히 여길 수 없습니다."
-12,"TEXT_REGROCWHITEBRIM_00109_ELIASSIN_000_112","돌방패 경계초소를 탈환하는 데는 성공했으나
-아직 드래곤족과의 싸움이 끝난 것은 아닙니다.
-승리와 영광을 얻을 때까지 우리는 앞으로도 싸울 것입니다."
-13,"TEXT_REGROCWHITEBRIM_00109_ELIASSIN_000_210","저는 이슈가르드에서도 특출난 명문으로 유명한
-'뒤랑데르 가'를 섬기는 기병입니다."
-14,"TEXT_REGROCWHITEBRIM_00109_ELIASSIN_000_211","당신 또한 직접 겪어봐서 아시겠지만
-드래곤족의 기세와 사악함은 결코 만만히 여길 수 없습니다."
-15,"TEXT_REGROCWHITEBRIM_00109_ELIASSIN_000_212","사룡 니드호그 토벌에는 성공했으나
-모든 졸개가 사라진 것은 아닙니다.
-성도의 안전을 지키기 위해, 우리는 앞으로도 싸울 것입니다."
-16,"TEXT_REGROCWHITEBRIM_00109_ELIASSIN_000_020","이곳은 드래곤과 싸우기 위한 전초기지일세.
-돌방패 경계초소 탈환 작전을 실행하고자
-뒤랑데르 가를 따르는 기병들이 모여있지."
-17,"TEXT_REGROCWHITEBRIM_00109_ELIASSIN_000_021","머지않아 싸움이 시작될 거야.
-드래곤족 섬멸은 우리의 숙원이니,
-어설프게 나섰다가 우리 기병들을 방해하지나 말게."
-18,"TEXT_REGROCWHITEBRIM_00109_ELIASSIN_000_120","이곳은 드래곤과 싸우기 위한 전초기지입니다.
-모험가님과 함께 탈환한 돌방패 경계초소를 재건하고자
-뒤랑데르 가를 따르는 기사들이 모여있지요."
-19,"TEXT_REGROCWHITEBRIM_00109_ELIASSIN_000_121","성도 이슈가르드 방어를 굳건히 하고,
-진정한 평화를 쟁취하기 위해…….
-우리는 계속 싸워나갈 겁니다."
-20,"TEXT_REGROCWHITEBRIM_00109_ELIASSIN_000_122","이곳에는 뒤랑데르 가를 따르는 기사들이 모여 있습니다."
-21,"TEXT_REGROCWHITEBRIM_00109_ELIASSIN_000_123","성도 이슈가르드 방어를 굳건히 하고,
-진정한 평화를 쟁취하기 위해……
-우리는 계속 싸워나갈 것입니다."
+0,"TEXT_REGROCWHITEBRIM_00109_ELIASSIN_000_000","你有什麼事？<hex:02100103>我很忙，沒事就趕快離開。"
+1,"TEXT_REGROCWHITEBRIM_00109_ELIASSIN_000_100","歡迎。<hex:02100103>因為目前我們正在忙著重建奪回的石衛塔，<hex:02100103>如果對你這個大功臣有招待不週的地方，還希望你能見諒。"
+2,"TEXT_REGROCWHITEBRIM_00109_ELIASSIN_000_101","歡迎。<hex:02100103>對你這個大功臣有招待不週的地方，還希望你能見諒。"
+3,"TEXT_REGROCWHITEBRIM_00109_Q1_000_000","想了解什麼？"
+4,"TEXT_REGROCWHITEBRIM_00109_A1_000_001","你是做什麼的？"
+5,"TEXT_REGROCWHITEBRIM_00109_A1_000_002","這裡是什麼地方？"
+6,"TEXT_REGROCWHITEBRIM_00109_A1_000_003","取消"
+7,"TEXT_REGROCWHITEBRIM_00109_ELIASSIN_000_010","我是伊修加爾德最有名望的名門狄蘭達爾家的騎兵。"
+8,"TEXT_REGROCWHITEBRIM_00109_ELIASSIN_000_011","雖然我們長年征戰，但依然不可輕視龍族的強大和邪惡。"
+9,"TEXT_REGROCWHITEBRIM_00109_ELIASSIN_000_012","為了讓這片大地回歸和平，必須要早日剷除龍族。"
+10,"TEXT_REGROCWHITEBRIM_00109_ELIASSIN_000_110","我是伊修加爾德最有名望的名門狄蘭達爾家的騎兵。"
+11,"TEXT_REGROCWHITEBRIM_00109_ELIASSIN_000_111","你可能也已經深有體會了，<hex:02100103>我們不能小看龍族的強大和邪惡。"
+12,"TEXT_REGROCWHITEBRIM_00109_ELIASSIN_000_112","雖然我們成功奪回了石衛塔，<hex:02100103>但這並不意味著和龍族的戰鬥就此終了。<hex:02100103>我們會為了勝利和榮光，繼續戰鬥。"
+13,"TEXT_REGROCWHITEBRIM_00109_ELIASSIN_000_210","我是伊修加爾德最有名望的名門狄蘭達爾家的騎兵。"
+14,"TEXT_REGROCWHITEBRIM_00109_ELIASSIN_000_211","你可能也已經深有體會了，<hex:02100103>我們不能小看龍族的強大和邪惡。"
+15,"TEXT_REGROCWHITEBRIM_00109_ELIASSIN_000_212","雖然成功討伐了邪龍尼德霍格，<hex:02100103>但並不意味著消滅了所有眷屬。<hex:02100103>為了守護皇都的安全，我們只有繼續戰鬥下去。"
+16,"TEXT_REGROCWHITEBRIM_00109_ELIASSIN_000_020","這裡是對龍族作戰的前哨基地。<hex:02100103>為了收復石衛塔，在此召集狄蘭達爾家的騎兵。"
+17,"TEXT_REGROCWHITEBRIM_00109_ELIASSIN_000_021","應該馬上就會開戰了。<hex:02100103>殲滅龍族是我們的夙願，<hex:02100103>你不要隨便搗亂，給騎兵添麻煩。"
+18,"TEXT_REGROCWHITEBRIM_00109_ELIASSIN_000_120","這裡是對龍族作戰的前哨基地。<hex:02100103>我們召集了狄蘭達爾家的騎兵，<hex:02100103>重建奪回的石衛塔。"
+19,"TEXT_REGROCWHITEBRIM_00109_ELIASSIN_000_121","為了鞏固皇都伊修加爾德的防禦，<hex:02100103>也為了贏得真正的和平和穩定……<hex:02100103>我們會一直戰鬥下去。"
+20,"TEXT_REGROCWHITEBRIM_00109_ELIASSIN_000_122","這裡聚集著狄蘭達爾家的騎兵。"
+21,"TEXT_REGROCWHITEBRIM_00109_ELIASSIN_000_123","為了鞏固皇都伊修加爾德的防禦，<hex:02100103>也為了贏得真正的和平和穩定……<hex:02100103>我們會一直戰鬥下去的。"

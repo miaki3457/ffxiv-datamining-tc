@@ -1,5 +1,6 @@
 ﻿key,0,1,2,3,4,5,6
 #,MainHand,OffHand,Head,Body,Gloves,Legs,Feet
+offset,0,4,8,12,16,20,24
 int32,Item,Item,Item,Item,Item,Item,Item
 0,0,0,0,0,0,0,0
 1,1639,2260,0,3149,3614,3386,0

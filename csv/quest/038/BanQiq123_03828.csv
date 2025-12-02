@@ -1,11 +1,9 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_BANQIQ123_03828_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
-
-호파루의 소반에 있는 코테루리 파소리는 발굴대원의 건강을 걱정하고 있는 듯하다."
-1,"TEXT_BANQIQ123_03828_SEQ_01","코테루리 파소리에게 의뢰받은 물건을 납품"
+0,"TEXT_BANQIQ123_03828_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整（限定職業）<hex:0249020103><hex:0248020103><hex:02100103>※本任務需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>霍啪櫨古盤的柯呫盧利·帕嗦利，非常擔心採掘隊員的身體狀況。"
+1,"TEXT_BANQIQ123_03828_SEQ_01","將柯呫盧利·帕嗦利委託的物品交給她"
 2,"TEXT_BANQIQ123_03828_SEQ_02",""
 3,"TEXT_BANQIQ123_03828_SEQ_03",""
 4,"TEXT_BANQIQ123_03828_SEQ_04",""
@@ -28,7 +26,7 @@ int32,str,str
 21,"TEXT_BANQIQ123_03828_SEQ_21",""
 22,"TEXT_BANQIQ123_03828_SEQ_22",""
 23,"TEXT_BANQIQ123_03828_SEQ_23",""
-24,"TEXT_BANQIQ123_03828_TODO_00","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>익스 마야 숲의 광맥에서 <Sheet(Item,IntegerParameter(5),0)/> 채굴<Else/>코테루리 파소리에게 <Sheet(Item,IntegerParameter(5),0)/>납품</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>익스 마야 숲의 약초밭에서 <Sheet(Item,IntegerParameter(5),0)/> 채집<Else/>코테루리 파소리에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>피의 술잔 부근에서 <Sheet(Item,IntegerParameter(5),0)/> 낚기<Else/>코테루리 파소리에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If>"
+24,"TEXT_BANQIQ123_03828_TODO_00","<hex:0208F20160E4E80511FF72><hex:02086EE3E802E803FF38>在伊奇絲瑪雅艾禁林的礦脈採取<hex:02280AFF05>Item<hex:E8060103><hex:FF2E>將<hex:02280AFF05>Item<hex:E8060103>交給柯呫盧利·帕嗦利<hex:03><hex:FFF0E6><hex:0208F0E1E4E80512FF72><hex:02086EE3E802E803FF38>在伊奇絲瑪雅艾禁林的草場採取<hex:02280AFF05>Item<hex:E8060103><hex:FF2E>將<hex:02280AFF05>Item<hex:E8060103>交給柯呫盧利·帕嗦利<hex:03><hex:FF69><hex:020865E4E80513FF5D><hex:020859E3E802E803FF23>在血盅附近釣取<hex:02280AFF05>Item<hex:E8060103><hex:FF2E>將<hex:02280AFF05>Item<hex:E8060103>交給柯呫盧利·帕嗦利<hex:03><hex:FF01><hex:03><hex:03><hex:03>"
 25,"TEXT_BANQIQ123_03828_TODO_01",""
 26,"TEXT_BANQIQ123_03828_TODO_02",""
 27,"TEXT_BANQIQ123_03828_TODO_03",""
@@ -52,35 +50,15 @@ int32,str,str
 45,"TEXT_BANQIQ123_03828_TODO_21",""
 46,"TEXT_BANQIQ123_03828_TODO_22",""
 47,"TEXT_BANQIQ123_03828_TODO_23",""
-48,"TEXT_BANQIQ123_03828_QHOTERLPASOL_000_000","물뱀님의 인도 덕분에 병이 나았사와요~.
-……하지만 평상시 영양분을 제대로 섭취하여
-병마에 지지 않는 튼튼한 몸이 되어야 하겠지요~!"
-49,"TEXT_BANQIQ123_03828_QHOTERLPASOL_000_001","발굴대는 언제 위험한 상황에 맞닥뜨릴지 알 수 없답니다~.
-그러니 평상시에 제대로 영양분을 섭취하여
-튼튼한 몸으로 만들어야 하겠지요~!"
-50,"TEXT_BANQIQ123_03828_QHOTERLPASOL_000_002","하여, 부디 발굴대의 건강과 자양 강장을 위해서
-영양가 높은 식재료를 채집해서 가져와 주시겠어요~?"
-51,"TEXT_BANQIQ123_03828_QHOTERLPASOL_000_003","익스 마야 숲의 바위를 캐면
-'<Sheet(Item,29534,0)/>'<13>FF0F02280BFF054974656DF2735E0103FF04EAB080FF04EC9DB4</13> 나올 거예요~.
-영양 만점에다 맛도 좋아 3개면 키타리족이 좋아하는 먹거리랍니다~!"
-52,"TEXT_BANQIQ123_03828_QHOTERLPASOL_000_004","익스 마야 숲의 약초밭에는
-'<Sheet(Item,29560,0)/>'<13>FF0F02280BFF054974656DF273780103FF04EBA5BCFF04EC9D84</13> 만들 수 있는 게 있을 거예요~.
-그 로열 젤리 3개를 먹으면 면역력을 높이는 효과가 있답니다~!"
-53,"TEXT_BANQIQ123_03828_QHOTERLPASOL_000_005","피의 술잔 부근에서 <Sheet(Item,27582,0)/> 등을 미끼로 써서
-'<Sheet(Item,29586,0)/>'<13>FF0F02280BFF054974656DF273920103FF04EBA5BCFF04EC9D84</13> 잡아와 주시어요~.
-암컷의 알에는 풍부한 영양소가 가득 들어 있답니다~!"
-54,"TEXT_BANQIQ123_03828_QHOTERLPASOL_000_006","익스 마야 숲의 바위를 파서
-'<Sheet(Item,29534,0)/>'<13>FF0F02280BFF054974656DF2735E0103FF04EBA5BCFF04EC9D84</13> 3개쯤 가져와 주시어요~."
-55,"TEXT_BANQIQ123_03828_QHOTERLPASOL_000_007","익스 마야 숲의 약초밭에서
-'<Sheet(Item,29560,0)/>'<13>FF0F02280BFF054974656DF273780103FF04EBA5BCFF04EC9D84</13> 3개쯤 가져와 주시어요~."
-56,"TEXT_BANQIQ123_03828_QHOTERLPASOL_000_008","피의 술잔 부근에서
-'<Sheet(Item,29586,0)/>'<13>FF0F02280BFF054974656DF273920103FF04EBA5BCFF04EC9D84</13> 잡아서 가져와 주시어요~.
-<Sheet(Item,27582,0)/> 같은 미끼가 가장 적합할 거예요~."
-57,"TEXT_BANQIQ123_03828_QHOTERLPASOL_000_010","수고하셨습니다~.
-영양가가 높은 식재료를 구해오셨나요~?"
-58,"TEXT_BANQIQ123_03828_QHOTERLPASOL_000_011","너무나도 훌륭한 식재료, 더할 나위 없사와요~!
-어서 맛있게 요리해서 체력과 면역력을 길러줘야겠어요~!
-협력해 주셔서 감사합니다~!"
-59,"TEXT_BANQIQ123_03828_SYSTEM_000_020","퀘스트 수행 중에 일반 품질 아이템이 채집되었습니다.
-HQ 아이템이 아니면 퀘스트를 완료할 수 없으며 판매 불가이므로
-소지품 공간이 부족하다면 버리셔도 됩니다."
+48,"TEXT_BANQIQ123_03828_QHOTERLPASOL_000_000","多虧了水蛇大人的引導，才得以熬過了此次病疫是也。<hex:02100103>所以……平日就多多攝取營養，<hex:02100103>擁有一副不輸給病疫的身體是非常重要的事是也！"
+49,"TEXT_BANQIQ123_03828_QHOTERLPASOL_000_001","採掘隊身邊一直都有未知的危險，<hex:02100103>所以……平日就多多攝取營養，<hex:02100103>擁有一副健壯的身體是非常重要的事是也！"
+50,"TEXT_BANQIQ123_03828_QHOTERLPASOL_000_002","為此，某希望爾能弄來一些營養價值高的食材，<hex:02100103>這樣就可以為採掘隊員補充營養了是也。"
+51,"TEXT_BANQIQ123_03828_QHOTERLPASOL_000_003","在伊奇絲瑪雅艾禁林的礦脈，<hex:02100103>能找到<hex:02280BFF05>Item<hex:F2735E0103>是也。<hex:02100103>又好吃又有營養，3個就能成為奇塔利族豐盛的一餐！"
+52,"TEXT_BANQIQ123_03828_QHOTERLPASOL_000_004","在伊奇絲瑪雅艾禁林的草場，<hex:02100103>能找到<hex:02280BFF05>Item<hex:F273780103>是也。<hex:02100103>從巢穴中採到的濃縮蜂王漿只要吃3份就可以有效提高免疫力！"
+53,"TEXT_BANQIQ123_03828_QHOTERLPASOL_000_005","在血盅附近用<hex:02280BFF05>Item<hex:F26BBE0103>當作釣餌，<hex:02100103>可以釣取到<hex:02280BFF05>Item<hex:F273920103>是也。<hex:02100103>雌性的卵有著豐富的營養！"
+54,"TEXT_BANQIQ123_03828_QHOTERLPASOL_000_006","請去伊奇絲瑪雅艾禁林的礦脈<hex:02100103>採集3個<hex:02280BFF05>Item<hex:F2735E0103>是也。"
+55,"TEXT_BANQIQ123_03828_QHOTERLPASOL_000_007","請去伊奇絲瑪雅艾禁林的草場<hex:02100103>採集3份<hex:02280BFF05>Item<hex:F273780103>是也。"
+56,"TEXT_BANQIQ123_03828_QHOTERLPASOL_000_008","請去血盅附近以<hex:02280BFF05>Item<hex:F26BBE0103>用作釣餌，<hex:02100103>釣取<hex:02280BFF05>Item<hex:F273920103>是也。"
+57,"TEXT_BANQIQ123_03828_QHOTERLPASOL_000_010","辛苦爾了，弄到營養價值高的食材了嗎？"
+58,"TEXT_BANQIQ123_03828_QHOTERLPASOL_000_011","這真是非常棒的食材，無可挑剔！<hex:02100103>就趕快製作美味的飯菜，來提高大家的體力和免疫力吧是也。<hex:02100103>真的非常感謝爾！"
+59,"TEXT_BANQIQ123_03828_SYSTEM_000_020","（★未使用／削除予定★）"

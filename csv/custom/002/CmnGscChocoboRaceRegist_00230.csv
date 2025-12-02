@@ -1,42 +1,22 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_CMNGSCCHOCOBORACEREGIST_00230_TALK_ACTOR","경주 초코보 등록을 하러 왔구나!
-어느 '신입 초코보'를 '경주 초코보'로 등록할래?"
-1,"TEXT_CMNGSCCHOCOBORACEREGIST_00230_TALK_ACTOR_02","'초코보 경주'의 기본적인 내용은 배웠나 보네?
-그럼 이번에는 경주 초코보를 육성하는 방법을 설명할게!"
-2,"TEXT_CMNGSCCHOCOBORACEREGIST_00230_TALK_ACTOR_03","경주 초코보의 능력은 '조련'을 통해 강화할 수 있어.
-그리고 '특수 능력'이라고 해서
-경주 시에 쓸 수 있는 특별한 기술도 가르칠 수 있지."
-3,"TEXT_CMNGSCCHOCOBORACEREGIST_00230_TALK_ACTOR_04","경주 초코보를 육성하고 싶어지면 내게 말해.
-더 높은 클래스를 향해 열심히 키워보자!"
-4,"TEXT_CMNGSCCHOCOBORACEREGIST_00230_REGISTRATION_DONE","좋아, <Highlight>StringParameter(1)</Highlight><13>FF07022903EA0203FF04EBA5BCFF04EC9D84</13>
-경주 초코보로 등록했어.
-이제 언제든지 경주에 출전할 수 있어!"
-5,"TEXT_CMNGSCCHOCOBORACEREGIST_00230_REGISTRATION_GUIDE","'케이트링' 씨는 만나고 왔지?
-그럼 '경주 초코보' 등록을 시작하자.
-네 파트너가 될 초코보의 이름을 정해줘!"
-6,"TEXT_CMNGSCCHOCOBORACEREGIST_00230_REGISTRATION_DONE_02","좋아, <Highlight>StringParameter(1)</Highlight><13>FF07022903EA0203FF04EBA5BCFF04EC9D84</13>
-경주 초코보로 등록했어!"
-7,"TEXT_CMNGSCCHOCOBORACEREGIST_00230_REGISTRATION_DONE_03","이제 바로 '출전 접수원'한테 가봐!
-'초코보 경주'의 기본적인 내용을 가르쳐줄 거야."
-8,"TEXT_CMNGSCCHOCOBORACEREGIST_00230_ERROR_001_01","……흐음.
-이미 경주 초코보로 등록된 아이가 있는 것 같은데?"
-9,"TEXT_CMNGSCCHOCOBORACEREGIST_00230_ERROR_001_02","이미 다른 초코보가 경주 초코보로 등록되어 있습니다.
-등록된 초코보를 은퇴시키지 않으면
-다른 초코보를 등록할 수 없습니다."
-10,"TEXT_CMNGSCCHOCOBORACEREGIST_00230_ERROR_001_03","……응? 경주 초코보 등록은 되어 있는데?
-일단 '출전 접수원'한테 가봐.
-'초코보 경주'의 기본적인 내용을 가르쳐줄 거야."
-11,"TEXT_CMNGSCCHOCOBORACEREGIST_00230_ERROR_002_01","……어?
-넌 경주 초코보로 등록할 수 있는 초코보를
-보유하고 있지 않은 것 같은데."
-12,"TEXT_CMNGSCCHOCOBORACEREGIST_00230_ERROR_002_02","경주 초코보 등록을 하려면
-'신입 초코보 등록증'을 가지고 있어야 합니다."
-13,"TEXT_CMNGSCCHOCOBORACEREGIST_00230_ERROR_003_01","……미안하지만 그 이름으로는 등록할 수 없어."
-14,"TEXT_CMNGSCCHOCOBORACEREGIST_00230_ERROR_003_02","사용된 단어에 따라서는
-경주 초코보 이름을 등록할 수 없는 경우가 있습니다.
-다른 이름으로 다시 시도하십시오."
+0,"TEXT_CMNGSCCHOCOBORACEREGIST_00230_TALK_ACTOR","你是準備登記新的競賽陸行鳥吧！<hex:02100103>想將哪一隻新陸行鳥登記為競賽陸行鳥呢？"
+1,"TEXT_CMNGSCCHOCOBORACEREGIST_00230_TALK_ACTOR_02","你已經學習到了陸行鳥競賽的基本規則嗎？<hex:02100103>那接下來為你介紹培育競賽陸行鳥的方法吧！"
+2,"TEXT_CMNGSCCHOCOBORACEREGIST_00230_TALK_ACTOR_03","競賽陸行鳥可以透過「訓練」這一手段獲得成長。<hex:02100103>另外，還可以讓它學習名為「競賽能力」的陸行鳥專用技能。"
+3,"TEXT_CMNGSCCHOCOBORACEREGIST_00230_TALK_ACTOR_04","今後你若是想提高競賽陸行鳥的能力，請一定再來找我。<hex:02100103>讓競賽陸行鳥不斷地變強，向著更高的目標衝刺吧！"
+4,"TEXT_CMNGSCCHOCOBORACEREGIST_00230_REGISTRATION_DONE","好的，這樣<hex:022903EA0203>就登記為競賽陸行鳥了！<hex:02100103>接下來就讓它參加陸行鳥競賽吧！"
+5,"TEXT_CMNGSCCHOCOBORACEREGIST_00230_REGISTRATION_GUIDE","看來你已經見過負責配種的工作人員了呢。<hex:02100103>那麼，就先辦理競賽陸行鳥的登記手續吧！<hex:02100103>請你先為你的搭檔選擇一個名字！"
+6,"TEXT_CMNGSCCHOCOBORACEREGIST_00230_REGISTRATION_DONE_02","好的，<hex:022903EA0203>已經登記為競賽陸行鳥了！"
+7,"TEXT_CMNGSCCHOCOBORACEREGIST_00230_REGISTRATION_DONE_03","你現在應該先去和參賽登記員談談，<hex:02100103>可以向她了解到有關陸行鳥競賽的一些規則哦。"
+8,"TEXT_CMNGSCCHOCOBORACEREGIST_00230_ERROR_001_01","嗯……似乎你已經有登記過的競賽陸行鳥了。"
+9,"TEXT_CMNGSCCHOCOBORACEREGIST_00230_ERROR_001_02","已經擁有登記過的競賽陸行鳥。<hex:02100103>要登記一隻新的競賽陸行鳥，<hex:02100103>需要先讓已經登記過的競賽陸行鳥退役。"
+10,"TEXT_CMNGSCCHOCOBORACEREGIST_00230_ERROR_001_03","喔，你已經登記了一隻競賽陸行鳥？<hex:02100103>那你可以先去和競賽登記員談一談，<hex:02100103>了解一下陸行鳥競賽的一些基本規則。"
+11,"TEXT_CMNGSCCHOCOBORACEREGIST_00230_ERROR_002_01","嗯？似乎你並沒有可以登記為競賽陸行鳥的新陸行鳥哦？"
+12,"TEXT_CMNGSCCHOCOBORACEREGIST_00230_ERROR_002_02","要將新陸行鳥登記為競賽陸行鳥，<hex:02100103>需要「陸行鳥出賽登記書」。"
+13,"TEXT_CMNGSCCHOCOBORACEREGIST_00230_ERROR_003_01","抱歉，我們無法登記這個名字……"
+14,"TEXT_CMNGSCCHOCOBORACEREGIST_00230_ERROR_003_02","某些字詞的組合無法為競賽陸行鳥命名。<hex:02100103>請嘗試其它的組合。"
 15,"TEXT_CMNGSCCHOCOBORACEREGIST_00230_TALK_SYSTEM_05","（★未使用／削除予定★）"
 16,"TEXT_CMNGSCCHOCOBORACEREGIST_00230_REGISTRATION_Q1","（★未使用／削除予定★）"
 17,"TEXT_CMNGSCCHOCOBORACEREGIST_00230_REGISTRATION_A1","（★未使用／削除予定★）"

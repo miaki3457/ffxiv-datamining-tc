@@ -1,5 +1,6 @@
 ﻿key,0,1
 #,Boss,Position
+offset,0,2
 int32,AOZContentBriefingBNpc,uint16
 0,0,0
 1,9,313

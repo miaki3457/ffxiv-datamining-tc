@@ -1,45 +1,25 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_1","어서 오십시오.
-이곳은 펜던트 거주관입니다."
-1,"TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_2","하지만 죄송합니다…….
-현재는 빈방이 없어서 신규 입주는 받고 있지 않습니다."
-2,"TEXT_WARPINNCRYSTARIUM_Q1_000_1","무엇을 물어보시겠습니까?"
-3,"TEXT_WARPINNCRYSTARIUM_A1_000_1","펜던트 거주관이란?"
-4,"TEXT_WARPINNCRYSTARIUM_A1_000_2","취소"
-5,"TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_3","펜던트 거주관은 이곳 '크리스타리움' 내 여러 곳에 있는
-거주 시설 중 하나입니다."
-6,"TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_4","작은 방이 무수히 늘어서 있는 게 보이십니까?
-한 명이라도 많은 사람을 효율적으로 수용하기 위해서
-이런 형태로 지어졌다고 들었습니다."
-7,"TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_5","하지만 죄송합니다…….
-현재는 빈방이 없어서 신규 입주는 받고 있지 않습니다."
-8,"TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_10","이곳은 펜던트 거주관입니다.
-거주실로 이동하시겠습니까?"
-9,"TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_11","어둠의 전사님, 방문을 환영합니다!
-이곳은 펜던트 거주관입니다.
-거주실로 이동하시겠습니까?"
-10,"TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_12","어서 오십시오.
-이곳은 펜던트 거주관입니다……
-앞으로도 변함없이 당신의 방이 있는 곳입니다."
-11,"TEXT_WARPINNCRYSTARIUM_Q2_000_1","무엇을 하시겠습니까?"
-12,"TEXT_WARPINNCRYSTARIUM_A2_000_1","거주실로 이동한다"
-13,"TEXT_WARPINNCRYSTARIUM_A2_000_2","펜던트 거주관이란?"
-14,"TEXT_WARPINNCRYSTARIUM_A2_000_3","취소"
-15,"TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_20","알겠습니다.
-그럼 편안한 시간 보내십시오."
-16,"TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_30","펜던트 거주관은 이곳 '크리스타리움' 내 여러 곳에 있는
-집합 주택 중 하나입니다."
-17,"TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_31","작은 방이 무수히 늘어서 있는 게 보이십니까?
-한 명이라도 많은 사람을 효율적으로 수용하기 위해서
-이런 형태로 지어졌다고 들었습니다."
-18,"TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_32","최근에는 밤의 어둠에 대응하기 위해
-야간 조명 시설의 확충에도 힘쓰고 있답니다.
-덕분에 바빠지긴 했습니다만 행복한 비명이기도 하죠."
-19,"TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_33","거주자 분들을 위해 힘들게 야간 조명을 준비했었습니다만
-또다시 하늘에 빛이 넘치게 되어 소용없어져 버렸습니다.
-두 배로 낙담하게 되네요."
-20,"TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_34","중용의 공예관 장인들과 협력하여
-조명 시설을 갖추었기 때문에 어두운 밤에도 문제없습니다!
-방은 조금 좁지만, 멋진 거주 시설이랍니다!"
+0,"TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_1","歡迎光臨。<hex:02100103>這裡是懸掛公館。"
+1,"TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_2","只不過非常抱歉……<hex:02100103>現在所有房間都已經住滿了，<hex:02100103>無法接收新的人員入住。"
+2,"TEXT_WARPINNCRYSTARIUM_Q1_000_1","想了解什麼？"
+3,"TEXT_WARPINNCRYSTARIUM_A1_000_1","什麼是懸掛公館？"
+4,"TEXT_WARPINNCRYSTARIUM_A1_000_2","取消"
+5,"TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_3","在水晶都有著很多處的懸掛公館，<hex:02100103>懸掛公館是一種用來居住的設施。"
+6,"TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_4","你能看見好多小房間在那裡嗎？<hex:02100103>為了更多更有效率的容納人們居住，<hex:02100103>最終就採用如此形狀的房間。"
+7,"TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_5","只不過非常抱歉……<hex:02100103>現在所有房間都已經住滿了，<hex:02100103>無法接收新的人員入住。"
+8,"TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_10","歡迎光臨。<hex:02100103>這裡是懸掛公館。<hex:02100103>要前往起居室嗎？"
+9,"TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_11","暗之戰士，歡迎光臨！<hex:02100103>這裡是懸掛公館。<hex:02100103>你要前往起居室嗎？"
+10,"TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_12","你好，這裡是懸掛公館。<hex:02100103>你的房間我們一直都有定期清掃，歡迎回家。"
+11,"TEXT_WARPINNCRYSTARIUM_Q2_000_1","要做什麼？"
+12,"TEXT_WARPINNCRYSTARIUM_A2_000_1","移動到休息室"
+13,"TEXT_WARPINNCRYSTARIUM_A2_000_2","什麼是懸掛公館？"
+14,"TEXT_WARPINNCRYSTARIUM_A2_000_3","取消"
+15,"TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_20","好的。<hex:02100103>請你好好休息。"
+16,"TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_30","懸掛公館是在水晶都中存在的眾多集合住宅的一種。"
+17,"TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_31","你能看見好多小房間在那裡嗎？<hex:02100103>為了更多更有效率的容納人們居住，<hex:02100103>最終就採用如此形狀的房間。"
+18,"TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_32","最近為了應對夜晚的黑暗，<hex:02100103>目前全館正在努力擴充夜間用的照明裝置。<hex:02100103>雖然變得十分繁忙，不過在繁忙之中還是能感到有些高興呢。"
+19,"TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_33","為了居住者花了很大的力氣準備了夜間的照明，<hex:02100103>可是因為天空再次充滿了光芒，一切的努力都白費了。<hex:02100103>簡直是給心裡雙重打擊啊。"
+20,"TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_34","本館與中庸工藝館的工匠們合作，<hex:02100103>準備好了照明裝置，可以完美地應對夜晚的黑暗！<hex:02100103>雖然房間稍微狹小，不過這裡也是我們引以為傲的居住設施！"

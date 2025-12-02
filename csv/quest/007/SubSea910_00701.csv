@@ -1,11 +1,12 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_SUBSEA910_00701_SEQ_00","흑와단 대령 르아샤는 모험가에게 내 초코보 얻는 방법을 알려주고자 한다."
-1,"TEXT_SUBSEA910_00701_SEQ_01","보급 담당관에게 가서 군표를 <Sheet(Item,6017,0)/><14>FF0F02280BFF054974656DF217810103FF04EBA19CFF07EC9CBCEBA19C</14> 바꾼 다음 초코보 관리인 '프레이가임'에게 주면 '내 초코보'를 얻을 수 있다. 군표를 열심히 모으자."
-2,"TEXT_SUBSEA910_00701_SEQ_02","프레이가임이 '내 초코보'를 데리고 왔다. 초코보에게 멋진 이름을 지어주자."
-3,"TEXT_SUBSEA910_00701_SEQ_03","초코보에게 <Highlight>ObjectParameter(55)</Highlight><13>FF07022903EB3803FF04EB9DBCFF07EC9DB4EB9DBC</13>는 이름을 지어주었다. '프레이가임'과 대화하자."
-4,"TEXT_SUBSEA910_00701_SEQ_04","초코보 지급 절차를 마쳤다. <Highlight>ObjectParameter(55)</Highlight><13>FF07022903EB3803FF04EB8A94FF04EC9D80</13> 앞으로 여행길에 좋은 길동무가 될 것 같다."
+0,"TEXT_SUBSEA910_00701_SEQ_00","爾·阿夏·里奇大甲佐想要教給冒險者如何獲得專屬陸行鳥。"
+1,"TEXT_SUBSEA910_00701_SEQ_01","用軍票和補給負責人交換<hex:02280BFF05>Item<hex:F217810103>，再交給陸行鳥廄的弗雷蓋姆就能獲得專屬陸行鳥了。努力收集軍票。"
+2,"TEXT_SUBSEA910_00701_SEQ_02","弗雷蓋姆牽來了專屬陸行鳥。給陸行鳥取個好聽的名字。"
+3,"TEXT_SUBSEA910_00701_SEQ_03","給陸行鳥取了<hex:022903EB3803>這個名字。和弗雷蓋姆談談。"
+4,"TEXT_SUBSEA910_00701_SEQ_04","和弗雷蓋姆進行了交談，成功辦完了手續，領取了陸行鳥。今後的旅途將有<hex:022903EB3803>為伴。"
 5,"TEXT_SUBSEA910_00701_SEQ_05",""
 6,"TEXT_SUBSEA910_00701_SEQ_06",""
 7,"TEXT_SUBSEA910_00701_SEQ_07",""
@@ -25,9 +26,9 @@ int32,str,str
 21,"TEXT_SUBSEA910_00701_SEQ_21",""
 22,"TEXT_SUBSEA910_00701_SEQ_22",""
 23,"TEXT_SUBSEA910_00701_SEQ_23",""
-24,"TEXT_SUBSEA910_00701_TODO_00","프레이가임에게 <Sheet(Item,6017,0)/> 전달"
-25,"TEXT_SUBSEA910_00701_TODO_01","초코보 이름 짓기"
-26,"TEXT_SUBSEA910_00701_TODO_02","프레이가임과 대화"
+24,"TEXT_SUBSEA910_00701_TODO_00","將<hex:02280BFF05>Item<hex:F217810103>交給弗雷蓋姆"
+25,"TEXT_SUBSEA910_00701_TODO_01","給陸行鳥取名字"
+26,"TEXT_SUBSEA910_00701_TODO_02","和弗雷蓋姆對話"
 27,"TEXT_SUBSEA910_00701_TODO_03",""
 28,"TEXT_SUBSEA910_00701_TODO_04",""
 29,"TEXT_SUBSEA910_00701_TODO_05",""
@@ -49,56 +50,27 @@ int32,str,str
 45,"TEXT_SUBSEA910_00701_TODO_21",""
 46,"TEXT_SUBSEA910_00701_TODO_22",""
 47,"TEXT_SUBSEA910_00701_TODO_23",""
-48,"TEXT_SUBSEA910_00701_Rashaht_000","그래, <Highlight>ObjectParameter(1)</Highlight> <If(GreaterThan(PlayerParameter(52),0))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If> 맞지?
-네 활약상은 익히 들었다! 정말 고생이 많군.
-솜씨가 제법 괜찮다면서?"
-49,"TEXT_SUBSEA910_00701_Rashaht_001","바쁜 자네라면 임무를 하러 다닐 때
-되도록 빠르게 이동하고 싶을 거야, 그렇지 않나?"
-50,"TEXT_SUBSEA910_00701_Rashaht_002","그럴 때 도움이 되는 게 바로
-개인용 초코보인 '내 초코보'라네.
-이제 너 정도면 하나쯤 가지고 있을 만도 해."
-51,"TEXT_SUBSEA910_00701_Rashaht_003","보급 담당관에게 군표를 주면 <Sheet(Item,6017,0)/><14>FF0F02280BFF054974656DF217810103FF04EBA19CFF07EC9CBCEBA19C</14> 바꿀 수 있거든?
-그걸 산들바람 관문에 있는 '프레이가임'한테 가져가면 돼.
-그럼 너랑 꼭 맞는 파트너를 소개해줄 거야."
-52,"TEXT_SUBSEA910_00701_Rashaht_010","보급 담당관에게 군표를 주고 교환한 <Sheet(Item,6017,0)/><13>FF0F02280BFF054974656DF217810103FF04EBA5BCFF04EC9D84</13>
-산들바람 관문에 있는 '프레이가임'한테 가져가면 돼.
-그럼 너랑 꼭 맞는 파트너를 소개해줄 거야."
-53,"TEXT_SUBSEA910_00701_Fraegeim_000","'내 초코보'를 원하신다고요?
-그럼 저한테 <Sheet(Item,6017,0)/><13>FF0F02280BFF054974656DF217810103FF04EBA5BCFF04EC9D84</13> 건네주세요."
-54,"TEXT_SUBSEA910_00701_Fraegeim_010","네, 총사령부에서 발행한
-<Sheet(Item,6017,0)/><13>FF0F02280BFF054974656DF217810103FF04EAB080FF04EC9DB4</13> 맞네요."
-55,"TEXT_SUBSEA910_00701_Fraegeim_011","그럼 손님하고 꼭 맞는
-멋진 초코보를 데려올 테니 잠시만 기다려주세요."
-56,"TEXT_SUBSEA910_00701_Fraegeim_012","손님이 오시기 조금 전부터 기분이 좋은지
-계속 들떠있던 아이가 있거든요.
-손님하고 만날 걸 예감한 건지도 모르겠네요."
-57,"TEXT_SUBSEA910_00701_Fraegeim_013","자, 그럼 손님!
-어서 이 수컷 초코보한테 이름을 지어주세요."
-58,"TEXT_SUBSEA910_00701_Fraegeim_020","'내 초코보'를 원하신다고요?
-그럼 혹시 총사령부 보급 담당관이 발행한
-<Sheet(Item,6017,0)/><13>FF0F02280BFF054974656DF217810103FF04EBA5BCFF04EC9D84</13> 가지고 계신가요?"
-59,"TEXT_SUBSEA910_00701_Fraegeim_021","<Sheet(Item,6017,0)/><13>FF0F02280BFF054974656DF217810103FF04EB8A94FF04EC9D80</13>
-총사령부에서 맡긴 일을 하고 받는 '군표'를 모아서
-교환받을 수 있습니다."
-60,"TEXT_SUBSEA910_00701_CHOCOBO_000","꾸에~엑!"
-61,"TEXT_SUBSEA910_00701_Fraegeim_030","자, 그럼 손님!
-어서 이 수컷 초코보한테 이름을 지어주세요."
-62,"TEXT_SUBSEA910_00701_Fraegeim_040","초코보도 당신이 지어준 이름이
-아주 마음에 드는 모양이군요."
-63,"TEXT_SUBSEA910_00701_Fraegeim_041","자, 이 <Sheet(Item,6001,0)/><13>FF0F02280BFF054974656DF217710103FF04EBA5BCFF04EC9D84</13> 받으세요.
-이걸 불면 '내 초코보'가
-당신한테 달려올 거예요."
-64,"TEXT_SUBSEA910_00701_Fraegeim_042","단, 사람이 많이 오가는 도시 안이나
-마물이 사는 동굴처럼 초코보가 싫어하는 곳으로는
-불러도 안 오니까 주의하시고요."
-65,"TEXT_SUBSEA910_00701_Fraegeim_043","아, 그리고 한 가지 더! 각 도시에서 발행하는
-'초급 초코보 면허'도 드릴게요."
-66,"TEXT_SUBSEA910_00701_Fraegeim_044","이제 수속은 다 마쳤어요.
-어서 도시 밖으로 나가서 내 초코보와 함께
-즐거운 여행을 떠나보시면 어떨까요?"
-67,"TEXT_SUBSEA910_00701_CHOCOBO_PROMPT_TITLE","내 초코보의 이름을 입력해주세요"
-68,"TEXT_SUBSEA910_00701_CHOCOBO_PROMPT_CAPTION","이름"
-69,"TEXT_SUBSEA910_00701_CHOCOBO_PROMPT_MES0","한글, 알파벳, 기호 '를 사용하여
-1글자 이상 6글자 이내의 이름을 입력하십시오."
+48,"TEXT_SUBSEA910_00701_Rashaht_000","喲，你是<hex:022903EB0203><hex:020831E1E93501FF29><hex:020825E3E93580FF1D><hex:022819FF14>GCRankLimsaMaleText<hex:E9350103><hex:FF01><hex:03><hex:FF01><hex:03>吧？<hex:02100103>辛苦了！你的活躍表現我都有所耳聞。<hex:02100103>真是身手了得啊。"
+49,"TEXT_SUBSEA910_00701_Rashaht_001","對了，你想在執行任務時移動得更快嗎？"
+50,"TEXT_SUBSEA910_00701_Rashaht_002","這種時候就要找陸行鳥來幫你的忙了。<hex:02100103>有一隻屬於自己的「專屬陸行鳥」會方便很多。<hex:02100103>像你這樣的士兵應該馬上獲得一隻。"
+51,"TEXT_SUBSEA910_00701_Rashaht_003","用軍票，從補給負責人那裡換來<hex:02280BFF05>Item<hex:F217810103>，<hex:02100103>然後將它交給和風陸門附近陸行鳥廄的弗雷蓋姆。<hex:02100103>這樣他們就會為你準備一隻適合你的陸行鳥。"
+52,"TEXT_SUBSEA910_00701_Rashaht_010","用軍票，從補給負責人那裡換來<hex:02280BFF05>Item<hex:F217810103>，<hex:02100103>然後將它交給和風陸門附近陸行鳥廄的弗雷蓋姆。<hex:02100103>這樣他們就會為你準備一隻適合你的陸行鳥。"
+53,"TEXT_SUBSEA910_00701_Fraegeim_000","你想要專屬陸行鳥？<hex:02100103>那請把<hex:02280BFF05>Item<hex:F217810103>交給我。"
+54,"TEXT_SUBSEA910_00701_Fraegeim_010","這的確是大國防聯軍發行的<hex:02280BFF05>Item<hex:F217810103>。"
+55,"TEXT_SUBSEA910_00701_Fraegeim_011","那麼我這就去找一隻適合你的陸行鳥。<hex:02100103>請稍等。"
+56,"TEXT_SUBSEA910_00701_Fraegeim_012","在客人來之前這孩子就開始鬧起來，<hex:02100103>我想它一定是預感到要與客人見面了。"
+57,"TEXT_SUBSEA910_00701_Fraegeim_013","來吧，快給這雄陸行鳥起個名字。"
+58,"TEXT_SUBSEA910_00701_Fraegeim_020","你想要專屬陸行鳥？<hex:02100103>那請去大國防聯軍的補給負責人那裡，<hex:02100103>領取<hex:02280BFF05>Item<hex:F217810103>。"
+59,"TEXT_SUBSEA910_00701_Fraegeim_021","完成大國防聯軍的任務能得到軍票，<hex:02100103>而你可以用收集下來的軍票交換<hex:02280BFF05>Item<hex:F217810103>。"
+60,"TEXT_SUBSEA910_00701_CHOCOBO_000","咕哎！"
+61,"TEXT_SUBSEA910_00701_Fraegeim_030","來吧，快給這雄陸行鳥起個名字。"
+62,"TEXT_SUBSEA910_00701_Fraegeim_040","看來陸行鳥也很喜歡你取的這個名字呢。"
+63,"TEXT_SUBSEA910_00701_Fraegeim_041","請收下這<hex:02280BFF05>Item<hex:F217710103>。<hex:02100103>只要一吹它，專屬陸行鳥就會跑到你身邊來。"
+64,"TEXT_SUBSEA910_00701_Fraegeim_042","不過請注意，<hex:02100103>如果是在人聲嘈雜的城市和魔物棲息的洞窟裡，<hex:02100103>是叫不來陸行鳥的，因為它們討厭這些地方。"
+65,"TEXT_SUBSEA910_00701_Fraegeim_043","另外，我將各個城市發行的「初級騎乘證」也交給你。"
+66,"TEXT_SUBSEA910_00701_Fraegeim_044","這樣一來所需手續就全辦完了。<hex:02100103>你可以馬上出城，享受和專屬陸行鳥的快樂旅程。"
+67,"TEXT_SUBSEA910_00701_CHOCOBO_PROMPT_TITLE","請輸入專屬陸行鳥的名字"
+68,"TEXT_SUBSEA910_00701_CHOCOBO_PROMPT_CAPTION","名字"
+69,"TEXT_SUBSEA910_00701_CHOCOBO_PROMPT_MES0","名字必須在1到6個文字之間。"
 70,"TEXT_SUBSEA910_00701_CHOCOBO_PROMPT_MES1",""
 71,"TEXT_SUBSEA910_00701_CHOCOBO_PROMPT_MES2",""

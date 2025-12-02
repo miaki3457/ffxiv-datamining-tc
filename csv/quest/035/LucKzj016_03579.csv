@@ -1,8 +1,8 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_LUCKZJ016_03579_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-온도 바다웅덩이에 있는 소라쉬 콜은 암벽을 바라보고 있다."
+0,"TEXT_LUCKZJ016_03579_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整<hex:0249020103><hex:0248020103><hex:02100103>鰭人潮池的索拉嘶·涳爾在凝視著岩壁。"
 1,"TEXT_LUCKZJ016_03579_SEQ_01",""
 2,"TEXT_LUCKZJ016_03579_SEQ_02",""
 3,"TEXT_LUCKZJ016_03579_SEQ_03",""
@@ -26,9 +26,8 @@ int32,str,str
 21,"TEXT_LUCKZJ016_03579_SEQ_21",""
 22,"TEXT_LUCKZJ016_03579_SEQ_22",""
 23,"TEXT_LUCKZJ016_03579_SEQ_23",""
-24,"TEXT_LUCKZJ016_03579_TODO_00","<Sheet(EObj,2010107,0)/>에서 기다리다가
- <Sheet(BNpcName,8999,0)/><13>FF1302280FFF09424E70634E616D65F223270103FF04EAB080FF04EC9DB4</13> 나타나면 처치"
-25,"TEXT_LUCKZJ016_03579_TODO_01","소라쉬 콜에게 <Sheet(EventItem,2002594,0)/> 전달"
+24,"TEXT_LUCKZJ016_03579_TODO_00","在<hex:02280CFF05>EObj<hex:F61EABFB0103>等待<hex:02100103>討伐出現的<hex:02280FFF09>BNpcName<hex:F223270103>"
+25,"TEXT_LUCKZJ016_03579_TODO_01","將<hex:022811FF0A>EventItem<hex:F61E8EA20103>交給索拉嘶·涳爾"
 26,"TEXT_LUCKZJ016_03579_TODO_02",""
 27,"TEXT_LUCKZJ016_03579_TODO_03",""
 28,"TEXT_LUCKZJ016_03579_TODO_04",""
@@ -51,32 +50,14 @@ int32,str,str
 45,"TEXT_LUCKZJ016_03579_TODO_21",""
 46,"TEXT_LUCKZJ016_03579_TODO_22",""
 47,"TEXT_LUCKZJ016_03579_TODO_23",""
-48,"TEXT_LUCKZJ016_03579_SORASHSKOAL_000_000","육지 사람, 저 높은 곳에 있는 문, 보여?
-고대인, 만든 건물인데,
-지금은 온도가, 빌려서 쓰고 있어."
-49,"TEXT_LUCKZJ016_03579_SORASHSKOAL_000_001","높은 곳이라서, 물 없어지니까 올라갈 수 없게 됐어.
-뛰어올라서 돌아갈 수는 있지만…….
-타고 올라갈 수 있는 거, 있으면 좋겠다."
-50,"TEXT_LUCKZJ016_03579_SORASHSKOAL_000_002","큰 뼈 같은 거, 좋겠어.
-하지만 큰 생물, 돌아다니니까 찾기 어렵다.
-마을 주변에서 보일 때, 가끔 있어."
-51,"TEXT_LUCKZJ016_03579_SORASHSKOAL_000_003","사례할 테니까, '<Sheet(BNpcName,8999,0)/>' 쓰러뜨려서
-'<Sheet(EventItem,2002594,0)/>' 가져와줘.
-나, 물 없으면 못 쓰러뜨리니까, 너한테 부탁할게."
-52,"TEXT_LUCKZJ016_03579_SORASHSKOAL_000_005","사례할 테니까, '<Sheet(BNpcName,8999,0)/>' 쓰러뜨려서
-'<Sheet(EventItem,2002594,0)/>' 가져와 줘.
-나는 콜이어서, 물 없으면 못 쓰러뜨리니까, 너한테 부탁할게."
-53,"TEXT_LUCKZJ016_03579_SYETEM_000_005","주변에 <Sheet(BNpcName,8999,0)/>의 모습은 보이지 않는다…….
-다른 곳을 찾아보자."
-54,"TEXT_LUCKZJ016_03579_SORASHSKOAL_000_010","<Sheet(EventItem,2002594,0)/>, 가져왔어?"
-55,"TEXT_LUCKZJ016_03579_SORASHSKOAL_000_011","오오, 고맙다, 고마워……!
-이제 나, 내 침실로 돌아갈 수 있다."
-56,"TEXT_LUCKZJ016_03579_SORASHSKOAL_000_012","내 침실, 저 높은 곳의 문 안쪽에 있어.
-안에는 작은 방, 많이 있다.
-거기서 모두, 해조 깔아서 침실 만들지."
-57,"TEXT_LUCKZJ016_03579_SORASHSKOAL_000_013","온도족 콜, 아직 어려서 알 못 받으니까, 높은 곳에 산다.
-온, 알 받을 수 있는 어른, 낮은 곳에 산다.
-어미왕과 암컷, 그리고 우두머리 수컷, 해저 가까이 살 수 있어."
-58,"TEXT_LUCKZJ016_03579_SORASHSKOAL_000_014","그러니까 어린 콜, 물 없으면 힘들다.
-바닷물, 빨리 돌아왔으면 좋겠지만,
-이 뼈 있으면, 당분간은 괜찮아. 고마워."
+48,"TEXT_LUCKZJ016_03579_SORASHSKOAL_000_000","陸地上的人，你看到，那個高處的大門了嗎？<hex:02100103>那是遠古之人，建起的，建築物，<hex:02100103>現在，由鰭人族，借用了。"
+49,"TEXT_LUCKZJ016_03579_SORASHSKOAL_000_001","因為很高，沒有水，無法游上去。<hex:02100103>雖然飛上去，也不失為，一個辦法……<hex:02100103>不過還是想找個辦法，能讓我們游著往來那裡。"
+50,"TEXT_LUCKZJ016_03579_SORASHSKOAL_000_002","我覺得巨大的骨頭，是個不錯的想法。<hex:02100103>但是，巨大的生物，都游回去了，找不到。<hex:02100103>部落周圍，偶爾會，見到它們。"
+51,"TEXT_LUCKZJ016_03579_SORASHSKOAL_000_003","我會，給你謝禮，請你打倒<hex:02280FFF09>BNpcName<hex:F223270103>，<hex:02100103>幫我拿來，<hex:022811FF0A>EventItem<hex:F61E8EA20103>。<hex:02100103>我是涳爾，沒有水，無法打敗它，拜託你了。"
+52,"TEXT_LUCKZJ016_03579_SORASHSKOAL_000_005","我會，給你謝禮，請你打倒<hex:02280FFF09>BNpcName<hex:F223270103>，<hex:02100103>幫我拿來，<hex:022811FF0A>EventItem<hex:F61E8EA20103>。<hex:02100103>我是涳爾，沒有水，無法打敗它，拜託你了。"
+53,"TEXT_LUCKZJ016_03579_SYETEM_000_005","附近好像沒有<hex:02280FFF09>BNpcName<hex:F223270103>……<hex:02100103>去別的地方看看。"
+54,"TEXT_LUCKZJ016_03579_SORASHSKOAL_000_010","你拿到，<hex:022811FF0A>EventItem<hex:F61E8EA20103>了嗎？"
+55,"TEXT_LUCKZJ016_03579_SORASHSKOAL_000_011","哦，謝天謝地，謝天謝地！<hex:02100103>這樣，我就能，回到自己的床上去了。"
+56,"TEXT_LUCKZJ016_03579_SORASHSKOAL_000_012","我的床，在那高高的門處，再往裡面。<hex:02100103>那裡面，有很多，小房間。<hex:02100103>大家在那裡，用海藻，堆成床。"
+57,"TEXT_LUCKZJ016_03579_SORASHSKOAL_000_013","鰭人族的涳爾，在還小沒有卵的時候，只能住在高處。<hex:02100103>等成了澳恩，有卵就成了出色的大人，就住在低處。<hex:02100103>母王大人和雌鰭人族，以及偉大的雄鰭人族，都住在海底。"
+58,"TEXT_LUCKZJ016_03579_SORASHSKOAL_000_014","所以年輕的涳爾，沒有水，就很困難。<hex:02100103>希望潮水，能快點回來，<hex:02100103>不過，有這個骨頭，暫時應該沒問題，謝謝你。"

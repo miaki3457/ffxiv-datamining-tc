@@ -1,17 +1,13 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_BANVAN504_02196_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-나키 섬의 무나바누는 일손이 부족해 고민에 빠진 듯하다."
-1,"TEXT_BANVAN504_02196_SEQ_01","※ 이 퀘스트에는
- '<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정(직업 변경 제한)'<13>FF40024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA09528ECA781EC978520EBB380EAB2BD20ECA09CED959C29FF04EAB080FF04EC9DB4</13> 적용됩니다.
-   퀘스트 수락 시의 직업으로만 퀘스트를 진행할 수 있습니다.
-
-무나바누가 함정을 이용해 파이싸를 잡아달라고 부탁했다. 오크 군두 서쪽에 있는 <Sheet(EObj,2006694,0)/>에 함정을 파자."
-2,"TEXT_BANVAN504_02196_SEQ_02","함정을 팠다. 오크 군두 서쪽에 있는 <Sheet(EObj,2006699,0)/>에서 대기하자."
-3,"TEXT_BANVAN504_02196_SEQ_03","모험가가 판 함정에 파이싸가 빠진 듯하다. 함정에 빠진 '기운찬 파이싸'에게 <Sheet(EventItem,2001935,0)/><13>FF15022811FF0A4576656E744974656DF61E8C0F0103FF04EBA5BCFF04EC9D84</13> 사용해 사로잡자."
-4,"TEXT_BANVAN504_02196_SEQ_04","<Sheet(EventItem,2001923,0)/><13>FF15022811FF0A4576656E744974656DF61E8C030103FF04EBA5BCFF04EC9D84</13> 사로잡았다. 나키 섬에 있는 '무나바누'에게 <Sheet(EventItem,2001923,0)/><13>FF15022811FF0A4576656E744974656DF61E8C030103FF04EBA5BCFF04EC9D84</13> 가져다주자."
-5,"TEXT_BANVAN504_02196_SEQ_05","무나바누에게 <Sheet(EventItem,2001923,0)/><13>FF15022811FF0A4576656E744974656DF61E8C030103FF04EBA5BCFF04EC9D84</13> 건넸다. 그는 바누바누족이 즐기는 '파이싸 싸움'이라는 경기에서 이기기 위해, 잡아온 파이싸를 훈련시키려는 듯하다."
+0,"TEXT_BANVAN504_02196_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整（限定職業）<hex:0249020103><hex:0248020103><hex:02100103>西風島的穆納瓦努正因人手不足而煩惱。"
+1,"TEXT_BANVAN504_02196_SEQ_01","※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整（限定職業）任務，<hex:02100103>　需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>穆納瓦努委託冒險者利用陷阱捕捉猴面雀。前往袞杜部落的西邊，在<hex:02280CFF05>EObj<hex:F61E9EA60103>挖陷阱。"
+2,"TEXT_BANVAN504_02196_SEQ_02","挖好了陷阱。在袞杜部落西邊的<hex:02280CFF05>EObj<hex:F61E9EAB0103>等待。"
+3,"TEXT_BANVAN504_02196_SEQ_03","猴面雀掉進了冒險者挖的陷阱裡。對掉進陷阱的活蹦亂跳的猴面雀使用<hex:022811FF0A>EventItem<hex:F61E8C0F0103>將其捕獲。"
+4,"TEXT_BANVAN504_02196_SEQ_04","獲得了<hex:022811FF0A>EventItem<hex:F61E8C030103>。將<hex:022811FF0A>EventItem<hex:F61E8C030103>交給西風島的穆納瓦努。"
+5,"TEXT_BANVAN504_02196_SEQ_05","將<hex:022811FF0A>EventItem<hex:F61E8C030103>交給了穆納瓦努。為了在瓦努族的「鬥猴面雀」比賽中獲勝，穆納瓦努打算狠狠訓練抓來的猴面雀。"
 6,"TEXT_BANVAN504_02196_SEQ_06",""
 7,"TEXT_BANVAN504_02196_SEQ_07",""
 8,"TEXT_BANVAN504_02196_SEQ_08",""
@@ -30,10 +26,10 @@ int32,str,str
 21,"TEXT_BANVAN504_02196_SEQ_21",""
 22,"TEXT_BANVAN504_02196_SEQ_22",""
 23,"TEXT_BANVAN504_02196_SEQ_23",""
-24,"TEXT_BANVAN504_02196_TODO_00","<Sheet(EObj,2006694,0)/>에 함정 파기"
-25,"TEXT_BANVAN504_02196_TODO_01","<Sheet(EObj,2006699,0)/>에서 대기"
-26,"TEXT_BANVAN504_02196_TODO_02","기운찬 파이싸에게 <Sheet(EventItem,2001935,0)/><13>FF15022811FF0A4576656E744974656DF61E8C0F0103FF04EBA5BCFF04EC9D84</13> 사용하여 포획"
-27,"TEXT_BANVAN504_02196_TODO_03","무나바누에게 <Sheet(EventItem,2001923,0)/> 전달"
+24,"TEXT_BANVAN504_02196_TODO_00","在<hex:02280CFF05>EObj<hex:F61E9EA60103>挖陷阱"
+25,"TEXT_BANVAN504_02196_TODO_01","在<hex:02280CFF05>EObj<hex:F61E9EAB0103>等待"
+26,"TEXT_BANVAN504_02196_TODO_02","對活蹦亂跳的猴面雀使用<hex:022811FF0A>EventItem<hex:F61E8C0F0103> 將其捕獲"
+27,"TEXT_BANVAN504_02196_TODO_03","將<hex:022811FF0A>EventItem<hex:F61E8C030103>交給穆納瓦努"
 28,"TEXT_BANVAN504_02196_TODO_04",""
 29,"TEXT_BANVAN504_02196_TODO_05",""
 30,"TEXT_BANVAN504_02196_TODO_06",""
@@ -54,25 +50,12 @@ int32,str,str
 45,"TEXT_BANVAN504_02196_TODO_21",""
 46,"TEXT_BANVAN504_02196_TODO_22",""
 47,"TEXT_BANVAN504_02196_TODO_23",""
-48,"TEXT_BANVAN504_02196_02196_MUNAVANU_000_001","끄응, 끄응…… 이걸 어찌해야 하나…….
-앗, <Highlight>ObjectParameter(1)</Highlight> 님!
-마침 딱 필요할 때 찾아와 주시는군요!"
-49,"TEXT_BANVAN504_02196_02196_MUNAVANU_000_002","제가 '기운찬 파이싸'가 꼭 필요한데,
-당장 해야 할 일이 산더미처럼 쌓여있어서……
-도저히 함정을 파러 갈 시간이 없습니다."
-50,"TEXT_BANVAN504_02196_02196_MUNAVANU_000_003","부탁입니다, 부탁입니다, <Highlight>ObjectParameter(1)</Highlight> 님.
-'오크 군두' 서쪽에 함정을 파서
-'기운찬 파이싸'를 이 자루에 잡아다 주십시오!"
-51,"TEXT_BANVAN504_02196_02196_MUNAVANU_000_010","（★未使用／削除予定★）"
-52,"TEXT_BANVAN504_02196_02196_SYSTEM_000_040","함정에 빠진 '기운찬 파이싸'를 잡았습니다!"
-53,"TEXT_BANVAN504_02196_02196_MUNAVANU_000_050","앗, <Highlight>ObjectParameter(1)</Highlight> 님!
-혹시, 혹시, 파이싸는 잡으셨습니까?"
-54,"TEXT_BANVAN504_02196_02196_MUNAVANU_000_051","이렇게, 이렇게, 훌륭할 데가!
-소나기구름처럼 힘차고 용맹한 파이싸로군요!
-이 녀석이 있으면 꼭 이길 수 있겠습니다!"
-55,"TEXT_BANVAN504_02196_02196_MUNAVANU_000_052","이런…… 제가 너무 흥분했군요.
-실은 '너그러운 준두'족 친구와 부족의 명예를 걸고
-'파이싸 싸움'을 벌이게 됐습니다."
-56,"TEXT_BANVAN504_02196_02196_MUNAVANU_000_053","비록 상대는 우리를 구해준 은인이지만
-신성한 '파이싸 싸움'에서 봐주는 일은 있을 수 없지요.
-이 파이싸를 훈련시켜 반드시 승리하겠습니다!"
+48,"TEXT_BANVAN504_02196_02196_MUNAVANU_000_001","哎喲喂、哎呦喂……這下該怎麼辦才好……<hex:02100103>哎呀，<hex:022903EB0203>！<hex:02100103>你來得可太是時候啦！"
+49,"TEXT_BANVAN504_02196_02196_MUNAVANU_000_002","我現在急需活蹦亂跳的猴面雀。<hex:02100103>但村子裡的工作堆積如山，<hex:02100103>實在是沒有時間去挖陷阱捉猴面雀……"
+50,"TEXT_BANVAN504_02196_02196_MUNAVANU_000_003","請你、請你在袞杜部落的西邊挖個陷阱，<hex:02100103>然後用這個袋子抓住掉進陷阱裡的活蹦亂跳的猴面雀！"
+51,"TEXT_BANVAN504_02196_02196_MUNAVANU_000_010","無"
+52,"TEXT_BANVAN504_02196_02196_SYSTEM_000_040","抓住了掉進陷阱裡的活蹦亂跳的猴面雀！"
+53,"TEXT_BANVAN504_02196_02196_MUNAVANU_000_050","啊！<hex:022903EB0203>！<hex:02100103>怎麼樣、怎麼樣，抓住猴面雀了嗎？"
+54,"TEXT_BANVAN504_02196_02196_MUNAVANU_000_051","真是、真是太棒了！<hex:02100103>好一隻如積雨雲般強而有力的猴面雀！<hex:02100103>有了它就肯定能贏了！肯定能贏了！"
+55,"TEXT_BANVAN504_02196_02196_MUNAVANU_000_052","哎呀……我有點興奮過頭了。<hex:02100103>其實是我與豁達的尊杜族的友人約好，<hex:02100103>要賭上部落的名聲來一場「鬥猴面雀」比賽。"
+56,"TEXT_BANVAN504_02196_02196_MUNAVANU_000_053","就算對手是救了我們的恩人，<hex:02100103>我也不會在神聖的「鬥猴面雀」比賽中放水。<hex:02100103>我一定會好好訓練這隻猴面雀，取得勝利！"

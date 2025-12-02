@@ -1,75 +1,41 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000","모험가가 여긴 무슨 일이냐?"
-1,"TEXT_REGWILRINGOFASH_00143_SCENE00000Q","무엇을 물어보시겠습니까?"
-2,"TEXT_REGWILRINGOFASH_00143_SCENE00000A1","당신의 이야기를 들려달라고 한다"
-3,"TEXT_REGWILRINGOFASH_00143_SCENE00000A2","여기는 어떤 곳인지 물어본다"
-4,"TEXT_REGWILRINGOFASH_00143_SCENE00000A3","취소"
-5,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_010","내 이름은 룬 가.
-자랑스러운 '잿빛 일당'의 전사다."
-6,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_011","내 육신은 비록 미코테처럼 보일지 몰라도
-영혼에는 아말쟈족과 똑같은 불꽃이 깃들어있다.
-너 같은 인간과는 차원이 달라!"
-7,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_012","이 가면은 내 결의와 각오를 나타내기 위해 쓰고 있는 거다.
-난 하무지 가 아저씨한테 이 가면을 받은 순간부터
-모든 과거를 버렸으니까!"
-8,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_020","이곳은 우리 '잿빛 일당'의 본거지인 '잿빛 진영'이다.
-하무지 가 아저씨가 이끄는 아말쟈족 마을이지."
-9,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_021","아저씨는 나약한 아말쟈족 놈들한테 실망하고
-부족의 긍지를 이어받은 자들을 모아 이 마을을 만든 거다."
-10,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_022","우리 목적은 단 하나, 극강의 경지를 추구하는 것이다!
-화염신에만 매달리는 비실비실한 놈들은 상대도 안 돼!"
-11,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_050","어, <Highlight>ObjectParameter(1)</Highlight> 왔네!
-무슨 일 있어?"
-12,"TEXT_REGWILRINGOFASH_00143_Q2_000_000","무엇을 물어보시겠습니까?"
-13,"TEXT_REGWILRINGOFASH_00143_A2_000_001","근황에 대해서 이야기한다"
-14,"TEXT_REGWILRINGOFASH_00143_A2_000_002","여기는 어떤 곳인지 물어본다"
-15,"TEXT_REGWILRINGOFASH_00143_A2_000_003","취소"
-16,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_100","우리 '잿빛 일당'이야 항상 똑같지.
-'불꽃송곳니회' 잔당이나 잔라크에 있는 아말쟈족 놈들이랑
-밤낮 없이 싸우고 있어."
-17,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_101","우린 놈들이 숭배하는 화염신의 불씨를 끄고
-가호를 깨뜨릴 수 있는 극강의 힘을 반드시 손에 넣을 거다!
-그날이 올 때까지 우리는 싸우고 또 싸울 거야!"
-18,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_102","어이, <Highlight>ObjectParameter(1)</Highlight>.
-나랑 약속했던 건 잊지 않았겠지?
-너도 어디 가서 절대 지지 마!"
-19,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_103","그리고…… 시간 나면 언제 한번 큰 도시에 데려가 줘.
-뭐랄까…… 인간 세상이 어떻게 생겨먹었는지
-아주 살짝 관심이 생겼거든……."
-20,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_104","……흐, 흥! 촌놈이라 미안하다!"
-21,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_110","이곳은 너도 잘 알다시피 '잿빛 진영'이다.
-우리 '잿빛 일당'의 본거지이자
-하무지 가 아저씨가 이끄는 아말쟈족 마을이지."
-22,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_111","우리 아저씨는 나약한 아말쟈족 놈들한테 실망한 후
-부족의 긍지를 이어받은 자들을 모아 이 마을을 만든 거다."
-23,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_112","우리 목적은 단 하나, 극강의 경지를 추구하는 것이다!
-화염신에만 매달리는 비실비실한 놈은 상대도 안 돼!"
-24,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_150","어, <Highlight>ObjectParameter(1)</Highlight> 왔네!
-반갑다. 무슨 일 있어?"
-25,"TEXT_REGWILRINGOFASH_00143_Q3_000_000","무엇을 물어보시겠습니까?"
-26,"TEXT_REGWILRINGOFASH_00143_A3_000_001","근황에 대해서 이야기한다"
-27,"TEXT_REGWILRINGOFASH_00143_A3_000_002","여기는 어떤 곳인지 물어본다"
-28,"TEXT_REGWILRINGOFASH_00143_A3_000_003","취소"
-29,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_200","우리 '잿빛 일당'이야 항상 똑같지.
-'불꽃송곳니회' 잔당이나 잔라크에 있는 아말쟈족 놈들이랑
-밤낮 없이 싸우고 있어."
-30,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_201","나도 저번 납치 사건을 겪고 실력이 부족하단 걸 통감했어.
-그 쓰레기 같은 미코테 놈한테 처참히 패배하고 말았으니.
-극강의 길은 아직도 한참 멀었군……."
-31,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_202","더 열심히 힘을 길러서 엄청나게 강해진 다음
-언젠가 하무지 가 아저씨한테 인정받을 거야!
-그리고 울다하에 다시 쳐들어가 복수하고 말겠어!"
-32,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_203","……참고로 그때 그 하늘거리는 드레스 같은 건
-이제 두 번 다시 안 입을 거야. 알겠어?"
-33,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_204","야! 너…… 지금 웃었지!
-그때 내 꼴을 생각하면서 웃었지!? ……이 자식 봐라!
-너도 언젠가 내가 뛰어넘을 테니 각오해!"
-34,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_210","이곳은 너도 잘 알다시피 '잿빛 진영'이다.
-우리 '잿빛 일당'의 본거지이자
-하무지 가 아저씨가 이끄는 아말쟈족 마을이지."
-35,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_211","우리 아저씨는 나약한 아말쟈족 놈들한테 실망한 후
-부족의 긍지를 이어받은 자들을 모아 이 마을을 만든 거다."
-36,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_212","우리 목적은 단 하나, 극강의 경지를 추구하는 것이다!
-화염신에만 매달리는 비실비실한 놈은 상대도 안 돼!"
+0,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000","冒險者，你有什麼事嗎？"
+1,"TEXT_REGWILRINGOFASH_00143_SCENE00000Q","想了解什麼？"
+2,"TEXT_REGWILRINGOFASH_00143_SCENE00000A1","你是做什麼的？"
+3,"TEXT_REGWILRINGOFASH_00143_SCENE00000A2","這裡是什麼地方？"
+4,"TEXT_REGWILRINGOFASH_00143_SCENE00000A3","取消"
+5,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_010","我是璐恩·夏，<hex:02100103>是光榮的灰黨戰士。"
+6,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_011","或許從外表上來看，你會認為我是貓魅族，<hex:02100103>不過我的靈魂中寄宿著和蜥蜴人族同胞一樣的火焰。<hex:02100103>不要把我和你們人類混為一談！"
+7,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_012","這個面具是我從哈姆基·夏老爹那裡繼承來的，<hex:02100103>象徵著我的決心和覺悟。<hex:02100103>自那一刻起，我就捨棄了過去！"
+8,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_020","這裡是我們灰黨的陣地「灰陣營」。<hex:02100103>是以哈姆基·夏老爹為首的蜥蜴人族村落。"
+9,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_021","老爹因為唾棄那些軟弱的蜥蜴人族，<hex:02100103>召集繼承了高傲部族精神的同伴，建造了這個村落。"
+10,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_022","我們的目的只有一個，那就是追求獨一無二的強大！<hex:02100103>我們根本不會將那些依賴火神的懦夫放在眼裡！"
+11,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_050","哦，這不是<hex:022903EB0203>嗎！<hex:02100103>怎麼了，你有什麼事嗎？"
+12,"TEXT_REGWILRINGOFASH_00143_Q2_000_000","想了解什麼？"
+13,"TEXT_REGWILRINGOFASH_00143_A2_000_001","最近怎麼樣？"
+14,"TEXT_REGWILRINGOFASH_00143_A2_000_002","這裡是什麼地方？"
+15,"TEXT_REGWILRINGOFASH_00143_A2_000_003","取消"
+16,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_100","我們灰黨一如既往地在與炎牙眾的殘黨，<hex:02100103>還有贊拉克的蜥蜴人族戰鬥。"
+17,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_101","我們要熄滅那些傢伙崇拜的火神火種，<hex:02100103>打破其加護，獲得最強的力量！<hex:02100103>在此之前，我們的戰鬥是不會結束的！"
+18,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_102","<hex:022903EB0203>，你應該沒有忘記和我的約定吧？<hex:02100103>我一定不會輸給你的！"
+19,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_103","還有……如果你方便的話，下次帶我去大點的城市看看吧。<hex:02100103>該怎麼說呢……我對人類的世界稍微有些興趣了……"
+20,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_104","……哼、哼，沒見過鄉下人啊！"
+21,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_110","這裡是你也十分熟悉了的灰陣營。<hex:02100103>是我們灰黨的陣地，<hex:02100103>是以哈姆基·夏老爹為首的蜥蜴人族村落。"
+22,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_111","老爹因為唾棄那些軟弱的蜥蜴人族，<hex:02100103>召集繼承了高傲部族精神的同伴，建造了這個村落。"
+23,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_112","我們的目的只有一個，那就是追求獨一無二的強大！<hex:02100103>我們根本不會將那些依賴火神的懦夫放在眼裡！"
+24,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_150","哦，這不是<hex:022903EB0203>嗎！<hex:02100103>歡迎，你有什麼事嗎？"
+25,"TEXT_REGWILRINGOFASH_00143_Q3_000_000","想了解什麼？"
+26,"TEXT_REGWILRINGOFASH_00143_A3_000_001","最近怎麼樣？"
+27,"TEXT_REGWILRINGOFASH_00143_A3_000_002","這裡是什麼地方？"
+28,"TEXT_REGWILRINGOFASH_00143_A3_000_003","取消"
+29,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_200","我們灰黨一如既往地在與炎牙眾的殘黨，<hex:02100103>還有贊拉克的蜥蜴人族戰鬥。"
+30,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_201","在之前的誘拐事件中，我也確實地感覺到自己的能力不足。<hex:02100103>那個混蛋貓魅族，被他擺了一道。<hex:02100103>我需要加倍進行磨練才行……"
+31,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_202","我要不斷磨練，變得更強，<hex:02100103>讓哈姆基·夏老爹認可我！<hex:02100103>然後，我會再到烏爾達哈找他報仇！"
+32,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_203","……還有……我是不會再穿那種輕飄飄的裙子了！"
+33,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_204","啊！你……剛剛是不是笑了！<hex:02100103>是又想起來所以覺得好笑是不是！你這傢伙！<hex:02100103>我總有一天也要超越你的！你等著瞧吧！"
+34,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_210","這裡是你也十分熟悉了的灰陣營。<hex:02100103>是我們灰黨的陣地，<hex:02100103>是以哈姆基·夏老爹為首的蜥蜴人族村落。"
+35,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_211","老爹因為唾棄那些軟弱的蜥蜴人族，<hex:02100103>召集繼承了高傲部族精神的同伴，建造了這個村落。"
+36,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_212","我們的目的只有一個，那就是追求獨一無二的強大！<hex:02100103>我們根本不會將那些依賴火神的懦夫放在眼裡！"

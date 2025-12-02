@@ -1,5 +1,6 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
 0,"TEXT_KINGYR104_05006_SEQ_00",""
 1,"TEXT_KINGYR104_05006_SEQ_01",""
@@ -49,45 +50,26 @@ int32,str,str
 45,"TEXT_KINGYR104_05006_TODO_21",""
 46,"TEXT_KINGYR104_05006_TODO_22",""
 47,"TEXT_KINGYR104_05006_TODO_23",""
-48,"TEXT_KINGYR104_05006_ELSEBEEIRONHEART_000_000","앗, 그거 '탐험수첩'이잖아?
-어디서 났어?"
-49,"TEXT_KINGYR104_05006_ELSEBEEIRONHEART_000_001","……아, 밀리스한테 받았구나.
-그렇다면 내 소개를 해야겠네.
-밀리스의 사촌 언니인 엘스비 아이언하트야."
-50,"TEXT_KINGYR104_05006_ELSEBEEIRONHEART_000_002","난 에오르제아에는 없는 탐험을 찾아
-쌍둥이 여동생과 함께 투랄 대륙을 찾아왔어."
-51,"TEXT_KINGYR104_05006_ELSEBEEIRONHEART_000_003","그런데 이 대륙이 워낙 넓어서
-우선은 각자 흥미가 생긴 지역부터 돌기로 했거든.
-난 요카 투랄을, 동생은 사카 투랄을 선택했지."
-52,"TEXT_KINGYR104_05006_ELSEBEEIRONHEART_000_004","그래서 말인데…… '탐험수첩' 좀 줘 볼래?
-쓸데없는 참견일지도 모르겠지만."
-53,"TEXT_KINGYR104_05006_ELSEBEEIRONHEART_000_005","후후, 에오르제아가 그리워지네…….
-여기를 이렇게 하면…… 좋아, 완성!"
-54,"TEXT_KINGYR104_05006_ELSEBEEIRONHEART_000_006","'탐험수첩'에 내가 조사한 요카 투랄과
-동생에게 들은 사카 투랄의 정보를 추가했어.
-뭐, 사카 투랄 쪽은 일부밖에 없지만."
-55,"TEXT_KINGYR104_05006_ELSEBEEIRONHEART_000_007","정보가 더 필요하면
-내 동생…… 에멜린에게 듣도록 해.
-너라면 분명 만날 수 있을 거야."
-56,"TEXT_KINGYR104_05006_ELSEBEEIRONHEART_000_008","자, 내 얘기는 여기까지.
-이제부터는 네가 걸어갈, 눈부신 새 탐험이 시작될 거야!"
-57,"TEXT_KINGYR104_05006_SYSTEM_000_009","'탐험수첩'에 '황금편' 항목이 추가되었습니다!"
-58,"TEXT_KINGYR104_05006_SYSTEM_000_010","'황금편'은 레벨 90 이상의 직업으로만
-요구 조건을 달성할 수 있으며
-달성 시에는 경험치를 획득할 수 있습니다."
-59,"TEXT_KINGYR104_05006_SYSTEM_000_011","한정된 정보를 토대로 해당하는 장소와 조건을 추측하여
-새로운 항목을 채워 나갑시다!"
-60,"TEXT_KINGYR104_05006_ELSEBEEIRONHEART_100_020","흠, 너는…… 아직 경험이 좀 부족한 것 같네.
-탐험이란 건 어떤 기술과 능력이 도움이 될지 모르는 법이거든.
-다시 경험을 쌓으면 그때 이야기를 나눠보자."
-61,"TEXT_KINGYR104_05006_SYSTEM_100_021","이 퀘스트를 진행하려면
-하나 이상의 직업이 레벨 90 이상이어야 합니다."
-62,"TEXT_KINGYR104_05006_ELSEBEEHIRONHEART_000_000","（★未使用／削除予定★）"
-63,"TEXT_KINGYR104_05006_ELSEBEEHIRONHEART_000_001","（★未使用／削除予定★）"
-64,"TEXT_KINGYR104_05006_ELSEBEEHIRONHEART_000_002","（★未使用／削除予定★）"
-65,"TEXT_KINGYR104_05006_ELSEBEEHIRONHEART_000_003","（★未使用／削除予定★）"
-66,"TEXT_KINGYR104_05006_ELSEBEEHIRONHEART_000_004","（★未使用／削除予定★）"
-67,"TEXT_KINGYR104_05006_ELSEBEEHIRONHEART_000_005","（★未使用／削除予定★）"
-68,"TEXT_KINGYR104_05006_ELSEBEEHIRONHEART_000_006","（★未使用／削除予定★）"
-69,"TEXT_KINGYR104_05006_ELSEBEEHIRONHEART_000_007","（★未使用／削除予定★）"
-70,"TEXT_KINGYR104_05006_ELSEBEEHIRONHEART_000_008","（★未使用／削除予定★）"
+48,"TEXT_KINGYR104_05006_ELSEBEEIRONHEART_000_000","哎呀，你手裡拿的莫非是探索筆記？<hex:02100103>你從哪裡得到的？"
+49,"TEXT_KINGYR104_05006_ELSEBEEIRONHEART_000_001","原來如此，是米莉絲給你的啊。<hex:02100103>那自我介紹一下，<hex:02100103>我是她的堂姐艾爾絲碧·艾恩哈特。"
+50,"TEXT_KINGYR104_05006_ELSEBEEIRONHEART_000_002","我四處尋求著艾奧傑亞上沒有的探險，<hex:02100103>如今和我的親生妹妹一起來到了這片圖拉爾大陸。"
+51,"TEXT_KINGYR104_05006_ELSEBEEIRONHEART_000_003","只不過這片大陸太廣闊了，<hex:02100103>所以我們決定分頭到各自感興趣的地域去探險。<hex:02100103>我前往的是尤卡圖拉爾，妹妹前往的則是薩卡圖拉爾。"
+52,"TEXT_KINGYR104_05006_ELSEBEEIRONHEART_000_004","所以……稍微把探索筆記借給我用一下。<hex:02100103>就全當是我多管閒事吧。"
+53,"TEXT_KINGYR104_05006_ELSEBEEIRONHEART_000_005","呵呵，看到這個讓我開始有點懷念艾奧傑亞了呢……<hex:02100103>將這裡這樣弄一下……好了，完成！"
+54,"TEXT_KINGYR104_05006_ELSEBEEIRONHEART_000_006","我在你的探索筆記上追加了我調查過的尤卡圖拉爾，<hex:02100103>還有聽妹妹說過的薩卡圖拉爾的情報。<hex:02100103>不過關於薩卡圖拉爾的情報並不完整。"
+55,"TEXT_KINGYR104_05006_ELSEBEEIRONHEART_000_007","如果你想了解更多的話，<hex:02100103>就去問問我的妹妹艾米琳吧。<hex:02100103>我相信你一定會在哪裡遇見她的。"
+56,"TEXT_KINGYR104_05006_ELSEBEEIRONHEART_000_008","好了，我想說的就這麼多。<hex:02100103>接下來該你踏上旅程，展開嶄新的光輝探險了！"
+57,"TEXT_KINGYR104_05006_SYSTEM_000_009","探索筆記中追加了「黃金之章」！"
+58,"TEXT_KINGYR104_05006_SYSTEM_000_010","只有等級在90級以上的職業才能達成黃金之章的目的地條件，<hex:02100103>達成時會獲得經驗值。"
+59,"TEXT_KINGYR104_05006_SYSTEM_000_011","從有限情報中推測對應地點及條件，<hex:02100103>來完成新的項目吧！"
+60,"TEXT_KINGYR104_05006_ELSEBEEIRONHEART_100_020","唔，你看起來經驗尚淺啊。<hex:02100103>探險中誰也不知道會有什麼樣的危險，會用到什麼樣的技能。<hex:02100103>等你攢攢經驗之後再來找我吧。"
+61,"TEXT_KINGYR104_05006_SYSTEM_100_021","若要領取或繼續推進本任務，<hex:02100103>需要任意職業的等級在90級以上。"
+62,"TEXT_KINGYR104_05006_ELSEBEEHIRONHEART_000_000",""
+63,"TEXT_KINGYR104_05006_ELSEBEEHIRONHEART_000_001",""
+64,"TEXT_KINGYR104_05006_ELSEBEEHIRONHEART_000_002",""
+65,"TEXT_KINGYR104_05006_ELSEBEEHIRONHEART_000_003",""
+66,"TEXT_KINGYR104_05006_ELSEBEEHIRONHEART_000_004",""
+67,"TEXT_KINGYR104_05006_ELSEBEEHIRONHEART_000_005",""
+68,"TEXT_KINGYR104_05006_ELSEBEEHIRONHEART_000_006",""
+69,"TEXT_KINGYR104_05006_ELSEBEEHIRONHEART_000_007",""
+70,"TEXT_KINGYR104_05006_ELSEBEEHIRONHEART_000_008",""

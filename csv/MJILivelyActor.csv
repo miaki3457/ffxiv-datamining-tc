@@ -1,5 +1,6 @@
 ﻿key,0,1,2,3,4,5
 #,ENPC,Behavior,X,Y,Z,Rot
+offset,16,20,0,4,8,12
 int32,ENpcResident,Behavior,single,single,single,single
 0.0,0,0,0,0,0,0
 1.0,0,0,0,0,0,0

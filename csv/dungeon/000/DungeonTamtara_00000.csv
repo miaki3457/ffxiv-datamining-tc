@@ -1,10 +1,8 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_DUNGEONTAMTARA_00000_EDDA_000_000","에이비어, 우릴 축복해주려고
-사람들이 선물을 가져왔어."
-1,"TEXT_DUNGEONTAMTARA_00000_EDDA_000_001","당신이 부러워하던 모험가도 왔네?
-봐, 튼튼한 몸을 선물해주겠대!"
-2,"TEXT_DUNGEONTAMTARA_00000_EDDA_000_010","안 돼, 이러지 마……
-아아…… 에이비어…… 에이비어……!"
-3,"TEXT_DUNGEONTAMTARA_00000_GALVANTH_000_1","（★未使用／削除予定★）"
+0,"TEXT_DUNGEONTAMTARA_00000_EDDA_000_000","為了祝福我和阿維爾<hex:02100103>大家帶來了好多禮物呢"
+1,"TEXT_DUNGEONTAMTARA_00000_EDDA_000_001","你看……你一直很在意的那個冒險者也是<hex:02100103>竟然帶來了一個那麼健康完美的身體！"
+2,"TEXT_DUNGEONTAMTARA_00000_EDDA_000_010","怎麼會……怎麼會這樣……<hex:02100103>啊……阿維爾……阿維爾！"
+3,"TEXT_DUNGEONTAMTARA_00000_GALVANTH_000_1","（未使用）"

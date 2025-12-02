@@ -1,5 +1,6 @@
 ﻿key,0,1,2,3,4,5
 #,Param,,TestAction,,,
+offset,8,4,0,6,7,5
 int32,bit&01,byte,ActionTimeline,sbyte,sbyte,byte
 0,False,0,0,0,0,0
 1,False,0,799,0,0,3

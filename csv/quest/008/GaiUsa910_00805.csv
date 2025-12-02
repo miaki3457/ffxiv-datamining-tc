@@ -1,10 +1,11 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_GAIUSA910_00805_SEQ_00","던스탠 감시초소의 마르세트는 모험가를 연구 조수로 삼으려 하는 듯하다."
-1,"TEXT_GAIUSA910_00805_SEQ_01","6번 조수가 되어 마르세트를 돕기로 했다. <Sheet(BNpcName,2190,0)/>의 체력을 떨어뜨린 다음 <Sheet(EventItem,2000632,0)/><13>FF15022811FF0A4576656E744974656DF61E86F80103FF04EBA5BCFF04EC9D84</13> 사용하여 <Sheet(EventItem,2000633,0)/><13>FF15022811FF0A4576656E744974656DF61E86F90103FF04EBA5BCFF04EC9D84</13> 손에 넣자."
-2,"TEXT_GAIUSA910_00805_SEQ_02","던스탠 감시초소에 있는 '마르세트'에게 <Sheet(EventItem,2000633,0)/><13>FF15022811FF0A4576656E744974656DF61E86F90103FF04EBA5BCFF04EC9D84</13> 가져다주자."
-3,"TEXT_GAIUSA910_00805_SEQ_03","마르세트는 이제 가설 검증에 들어갈 수 있겠다며 기뻐했다. ……연구를 도와준 모험가는 또 안중에도 없는 것 같다……."
+0,"TEXT_GAIUSA910_00805_SEQ_00","鄧斯坦哨塔的馬爾塞特想要冒險者協助自己的研究。"
+1,"TEXT_GAIUSA910_00805_SEQ_01","被馬爾塞特任命為她的第六助手，協助她的研究。削弱<hex:02280FFF09>BNpcName<hex:F2088E0103>的體力後，對其使用<hex:022811FF0A>EventItem<hex:F61E86F80103>，獲取<hex:022811FF0A>EventItem<hex:F61E86F90103>。"
+2,"TEXT_GAIUSA910_00805_SEQ_02","將<hex:022811FF0A>EventItem<hex:F61E86F90103>交給鄧斯坦哨塔的馬爾塞特。"
+3,"TEXT_GAIUSA910_00805_SEQ_03","馬爾塞特為可以著手驗證自己的假說而欣喜。而協助她進行研究的冒險者又被遺忘了。"
 4,"TEXT_GAIUSA910_00805_SEQ_04",""
 5,"TEXT_GAIUSA910_00805_SEQ_05",""
 6,"TEXT_GAIUSA910_00805_SEQ_06",""
@@ -25,8 +26,8 @@ int32,str,str
 21,"TEXT_GAIUSA910_00805_SEQ_21",""
 22,"TEXT_GAIUSA910_00805_SEQ_22",""
 23,"TEXT_GAIUSA910_00805_SEQ_23",""
-24,"TEXT_GAIUSA910_00805_TODO_00","약해진 <Sheet(BNpcName,2190,0)/>에게 <Sheet(EventItem,2000632,0)/> 사용"
-25,"TEXT_GAIUSA910_00805_TODO_01","마르세트에게 <Sheet(EventItem,2000633,0)/> 전달"
+24,"TEXT_GAIUSA910_00805_TODO_00","削弱<hex:02280FFF09>BNpcName<hex:F2088E0103>的體力 使用<hex:022811FF0A>EventItem<hex:F61E86F80103>"
+25,"TEXT_GAIUSA910_00805_TODO_01","將<hex:022811FF0A>EventItem<hex:F61E86F90103>交給馬爾塞特"
 26,"TEXT_GAIUSA910_00805_TODO_02",""
 27,"TEXT_GAIUSA910_00805_TODO_03",""
 28,"TEXT_GAIUSA910_00805_TODO_04",""
@@ -49,22 +50,10 @@ int32,str,str
 45,"TEXT_GAIUSA910_00805_TODO_21",""
 46,"TEXT_GAIUSA910_00805_TODO_22",""
 47,"TEXT_GAIUSA910_00805_TODO_23",""
-48,"TEXT_GAIUSA910_00805_MARCETTE_000_000","그래, 좋아. 넌 내가 학설 증명하는 걸 도와줬으니
-명예로운 내 '6번 조수'로 삼아줄게.
-그러니까 앞으로도 열심히 일해줘."
-49,"TEXT_GAIUSA910_00805_MARCETTE_000_001","자, 이번엔 <Sheet(EventItem,2000633,0)/><13>FF15022811FF0A4576656E744974656DF61E86F90103FF04EAB080FF04EC9DB4</13> 필요해.
-<Sheet(BNpcName,2190,0)/><13>FF1302280FFF09424E70634E616D65F2088E0103FF04EBA5BCFF04EC9D84</13> 두들겨 패서 저항하지 못하게 한 다음
-이 <Sheet(EventItem,2000632,0)/>에 채집해서 가지고 오라구!"
-50,"TEXT_GAIUSA910_00805_DUMMY_000_000","<Sheet(BNpcName,2190,0)/>を弱らせて、<Sheet(EventItem,2000632,0)/>に<Sheet(EventItem,2000633,0)/>をいれる×1"
-51,"TEXT_GAIUSA910_00805_MARCETTE_000_010","<Sheet(EventItem,2000633,0)/><13>FF15022811FF0A4576656E744974656DF61E86F90103FF04EB8A94FF04EC9D80</13> 가지고 왔어?
-'신 에오르제아 박물지' 구석탱이에 도와준 사람이라고
-네 이름을 올려줄 수도 있으니까 잘해. 알았어?"
-52,"TEXT_GAIUSA910_00805_MARCETTE_000_020","큭큭…… 아주 팔팔하게 잘 살아있네, 귀여운 정령 녀석.
-버섯갓에서 채취한 포자에
-이 녀석의 전류를 흘려넣으면 찌릿찌릿하고…… 아하하하핫!"
-53,"TEXT_GAIUSA910_00805_MARCETTE_000_021","내 학설이 옳다면……
-버섯의 포자는 전류 때문에 '생명의 위기'를 느끼고는
-평소보다 더 빠르고 크게 자라날 거야!"
-54,"TEXT_GAIUSA910_00805_MARCETTE_000_022","""번개가 많이 치는 해는 버섯이 풍년""이라는 속설이 있지…….
-재해 이후 두꺼비걸상버섯이 증식을 거듭하고 있는 것은
-번개 정령의 영향 때문이라는 걸 증명해내겠어!"
+48,"TEXT_GAIUSA910_00805_MARCETTE_000_000","對了，你幫助了我證明我的學說，<hex:02100103>我要把我的「第六助手」這個榮譽的稱號授予給你。<hex:02100103>要再接再厲，賣力工作哦。"
+49,"TEXT_GAIUSA910_00805_MARCETTE_000_001","接下來的工作是獲取<hex:022811FF0A>EventItem<hex:F61E86F90103>！<hex:02100103>將<hex:02280FFF09>BNpcName<hex:F2088E0103>弱化到一定程度後，<hex:02100103>把它們裝到這個<hex:022811FF0A>EventItem<hex:F61E86F80103>裡！"
+50,"TEXT_GAIUSA910_00805_DUMMY_000_000","將<hex:02280FFF09>BNpcName<hex:F2088E0103>弱化，裝進<hex:022811FF0A>EventItem<hex:F61E86F80103>裡"
+51,"TEXT_GAIUSA910_00805_MARCETTE_000_010","得到<hex:022811FF0A>EventItem<hex:F61E86F90103>了嗎？<hex:02100103>這可是作為協力者在我的«新艾奧傑亞博物誌»留下一筆的機會哦？<hex:02100103>給我好好賣力工作。"
+52,"TEXT_GAIUSA910_00805_MARCETTE_000_020","嘿嘿嘿……真的活得好好的呢，小元精。<hex:02100103>給這些從蘑菇傘帽上採取的孢子，<hex:02100103>通上這孩子產生的電流的話……啊哈哈哈！"
+53,"TEXT_GAIUSA910_00805_MARCETTE_000_021","我的學說沒有錯的話……<hex:02100103>受到電擊而感到了「生命危險」的小蘑菇，<hex:02100103>就會比通常狀態下長得更快更多！"
+54,"TEXT_GAIUSA910_00805_MARCETTE_000_022","有俗語說「雷多的年份蘑菇特別旺盛」……<hex:02100103>靈災後不斷增殖的毒蟾魔菇和雷元精之間的因果關係，<hex:02100103>就讓我來證明給你們看！"

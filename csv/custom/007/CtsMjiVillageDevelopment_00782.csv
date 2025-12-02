@@ -1,97 +1,50 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
 0,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_TALK_ACTOR","0"
-1,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_100_000","이곳을 개척하기에 적합한 개척용 도구를 갖고 있네!"
-2,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_100_005","시엘달레 화폐: 청선화 <Value>IntegerParameter(1)</Value>개면
-작업하는 마법인형을 불러 개척을 시작할 수 있는데, 어때?"
-3,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_SYSTEM_110_000","시엘달레 화폐: 청선화 <Value>IntegerParameter(1)</Value>개로
-개간을 의뢰하시겠습니까?"
-4,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_Q1_110_002","싹 다 갈아엎어줘!"
-5,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_Q1_110_003","평평하게 싹 밀어줘!"
-6,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_Q1_110_004","깔끔하게 싹 밀어줘!"
-7,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_Q1_110_005","과감하게 싹 밀어줘!"
-8,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_Q1_110_006","최선을 다해서 싹 밀어줘!"
-9,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_Q1_110_010","지금은 그만둘래"
-10,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_120_000","시엘달레 화폐: 청선화가 부족한 것 같네…….
-준비가 되면 그때 다시 말을 걸어줘!"
-11,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_120_005","알았어, 언제든 상관없으니까
-또 말을 걸어줘."
-12,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU2_120_002","이 숲을 밀어버리면 거점을 더 넓힐 수 있겠는데……?
-개척용 도구와 우리 친구들을 더 모을 수 있다면 말이야."
-13,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU3_120_003","이 흙더미를 제거하면 거점을 더 넓힐 수 있겠는데……?
-개척용 도구와 우리 친구들을 더 모을 수 있다면 말이야."
-14,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU4_120_004","이 가시나무를 제거하면 거점을 더 넓힐 수 있겠는데……?
-개척용 도구와 우리 친구들을 더 모을 수 있다면 말이야."
-15,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU5_120_005","이 커다란 바위를 부수면 거점을 더 넓힐 수 있겠는데……?
-개척용 도구와 우리 친구들을 더 모을 수 있다면 말이야."
-16,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU5_120_006","이 산맥을 크게 깎아내면 거점을 더 넓힐 수 있겠는데……?
-개척용 도구와 우리 친구들을 더 모을 수 있다면 말이야."
-17,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_200_000","안녕, 어서 와!
-이 섬에서 천천히 놀다 가!"
-18,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_021_000","야옹 선생에게 이야기는 들었어!
-새로운 토지 정비를 시작해도 될까?"
-19,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_SYSTEM_021_000","개척 거점의 새로운 토지를 개방하시겠습니까?"
-20,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_Q1_021_000","싹 갈아엎어줘!"
-21,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_Q1_021_005","지금은 그만둘래"
-22,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_021_005","앗싸! 토지 정비를 시작할게!"
-23,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_021_010","알았어, 언제든 상관없으니까
-다음에 또 말 걸어줘!"
-24,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_022_000","후유…… 상당히 힘들긴 했지만, 무사히 개척했어!
-토지를 좀 더 넓히려면 다른 마법인형들에게
-시엘달레 화폐: 청선화를 주고 도와달라고 하면 돼!"
-25,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_022_005","이제 개척공방을 짓기 위한 토지는 마련되었어!
-토지 두 곳 중, 마음에 드는 곳에 개척공방을 세워.
-먼저 건물을 한 채 지어볼까?"
-26,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_022_010","개척공방을 지으려면 '석회암'이 필요한데,
-지금 있는 도구로는 채집할 수 없을 거야.
-'개척용 돌망치'를 만들어 봐!"
-27,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_022_015","'개척용 돌망치'가 있으면
-개척공방에 필요한 건축 자재를 모두 모을 수 있을 거야!
-필요한 건축 자재를 확인하고 싶으면 건축 관리판을 확인해."
-28,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_022_020","아, 맞다!
-토지를 개척해서 개척 거점이 넓어졌으니
-꼬마 친구들을 꺼내놓고 놀게 할 수 있어!"
-29,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_SYSTEM_022_000","'개척용 돌망치'의
-개척 제작법이 개방되었습니다!
-돌망치를 사용하면 바위를 부숴서 석재를 입수할 수 있습니다."
-30,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_SYSTEM_022_005","'꼬마 친구 꺼내놓기'가 개방되었습니다!
-개척 관리판의 '꼬마 친구 관리'에서
-소지한 꼬마 친구를 개척 거점에 꺼내놓을 수 있습니다."
-31,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_SYSTEM_022_010","각 기능에 대한 상세한 설명은
-개척 관리판의 '설명 보기'에서 확인해 주세요."
-32,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_SYSTEM_022_015","새로운 토지가 개방되었습니다!
-토지를 더 개척하려면 이제부터는 마법인형들의 운임비로
-시엘달레 화폐: 청선화가 필요하다고 합니다."
-33,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_SYSTEM_022_020","'무인도 조경물 투영'이 개방되었습니다!
-개척 관리판의 '무인도 조경물 관리'에서
-소지한 조경물의 환영을 개척 거점에 투영할 수 있습니다."
-34,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_023_000","'개척용 돌망치'의
-제작법을 모를 때는 개척 제작법을 확인해!"
-35,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_024_000","개척공방에 필요한 건축자재는 관리판에서 확인할 수 있어!"
-36,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_025_000","드디어 개척공방이 완성됐구나!
-개척공방에서 마법인형 친구들이
-섬에서 모은 개척재료를 사용해 특산품을 만들어줄 거야!"
-37,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_025_005","완성된 특산품으로 제도 무역을 하면
-시엘달레 화폐: 청선화를 입수할 수 있어!
-다양한 특산품을 만들어 무역을 많이 하도록 해!"
-38,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_025_010","아, 맞다!
-이번에는 특별히 서둘러서 건축 작업을 진행했지만,
-다음부터는 한 채 짓는 데 시간이 꽤 걸릴 테니 주의해!"
-39,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_SYSTEM_025_000","'개척공방'이 개방되었습니다!
-무인도 회관 부근에 있는 '제작돌이'에게
-특산품의 생산을 의뢰할 수 있습니다."
-40,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_SYSTEM_025_005","앞으로 개척공방 등의 건축물을 지을 때에는
-현실 시간으로 일정 시간이 경과해야 합니다."
-41,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_SYSTEM_025_010","또한 무인도 회관 이외의 건축물은
-관리판을 통해 다른 토지로 '이동'시킬 수 있습니다."
-42,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_SYSTEM_025_015","개척 랭크 상한이 올라갔습니다!
-개척 랭크를 올리면 새로운 개척 제작법을 습득하거나
-새로운 건물을 지을 수 있게 됩니다."
-43,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_SYSTEM_025_020","개척공방에서는 설정한 일정에 따라 재료가 자동으로 소비됩니다.
-개척 관리판의 '설정'에서
-소비 예정 재료를 사용할 때의 경고 설정을 할 수 있습니다."
-44,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_SYSTEM_300_000","개척 거점에 특수 건물을 지을 수 있게 되었습니다!
-특수 건물을 건축하면 개척공방 등,
-다른 시설의 작업 효율을 높일 수 있습니다."
+1,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_100_000","看來你身上有正適合這裡的開拓用具呢！"
+2,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_100_005","只要花費<hex:022003E80203>枚謝爾達萊青船幣，<hex:02100103>就能讓魔法人偶開拓這裡，你看怎麼樣？"
+3,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_SYSTEM_110_000","是否要消耗<hex:022003E80203>枚謝爾達萊青船幣，<hex:02100103>開墾這片土地？"
+4,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_Q1_110_002","趕快把這些樹都砍倒！"
+5,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_Q1_110_003","趕快把這堆土都推平！"
+6,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_Q1_110_004","趕快把這片荊棘都除掉！"
+7,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_Q1_110_005","趕快把這塊石頭砸碎！"
+8,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_Q1_110_006","趕快把這堵牆推倒！"
+9,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_Q1_110_010","現在先算了"
+10,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_120_000","你身上的謝爾達萊青船幣好像不夠呢……<hex:02100103>等你收集到了再來找我吧！"
+11,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_120_005","明白，等你什麼時候想要開墾土地，<hex:02100103>再來找我吧！"
+12,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU2_120_002","拓開這片森林之後，就能擴大據點了。<hex:02100103>在此之前，你還需要收集一些開拓用具和我們的夥伴。"
+13,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU3_120_003","推平這些土石之後，就能擴大據點了。<hex:02100103>在此之前，你還需要收集一些開拓用具和我們的夥伴。"
+14,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU4_120_004","去除這些荊棘之後，就能擴大據點了。<hex:02100103>在此之前，你還需要收集一些開拓用具和我們的夥伴。"
+15,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU5_120_005","碎開這塊巨岩之後，就能擴大據點了。<hex:02100103>在此之前，你還需要收集一些開拓用具和我們的夥伴。"
+16,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU5_120_006","移除這片山體以後，或許就能擴大據點了。<hex:02100103>在此之前，你還需要收集一些開拓用具和我們的夥伴。"
+17,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_200_000","你好呀！歡迎你來玩！<hex:02100103>希望你在島上玩得開心！"
+18,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_021_000","我聽貓耳小員說了！<hex:02100103>要開始準備整理新的土地嗎？"
+19,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_SYSTEM_021_000","要開放新的土地嗎？"
+20,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_Q1_021_000","趕快開放吧！"
+21,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_Q1_021_005","現在先算了"
+22,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_021_005","好！我這就開始整理土地！"
+23,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_021_010","明白，我會一直在這裡等你的。<hex:02100103>你有需要時再來找我吧。"
+24,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_022_000","呼……雖然花了一些功夫，但是土地擴大完成啦！<hex:02100103>如果你希望進一步擴大據點，就需要使用謝爾達萊青船幣<hex:02100103>讓其他的魔法人偶來幫忙！"
+25,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_022_005","建造開拓工坊用的土地就準備好啦！<hex:02100103>這兩片土地，你可以挑喜歡的一邊建造開拓工坊。<hex:02100103>先來造一座建築物試試吧！"
+26,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_022_010","建造開拓工坊需要石灰岩，<hex:02100103>你用現有的道具是無法採集石灰岩的。<hex:02100103>我們來做一把開拓用石錘吧！"
+27,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_022_015","只要有了開拓用石錘，<hex:02100103>就能收集到開拓工坊所需的全部建材啦！<hex:02100103>你可以使用建築管理面板查看需要什麼建材。"
+28,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_022_020","對了對了！<hex:02100103>因為你開拓了土地，擴大了開拓據點，<hex:02100103>所以現在這裡可以容納寵物們在這裡玩耍啦！"
+29,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_SYSTEM_022_000","學會開拓用石錘的開拓製作配方了！<hex:02100103>使用開拓用石錘可用於擊碎岩石獲取石材。"
+30,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_SYSTEM_022_005","可以放養寵物了！<hex:02100103>在開拓管理面板切換至管理寵物，<hex:02100103>即可將你擁有的寵物放養至開拓據點內活動。"
+31,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_SYSTEM_022_010","各功能的詳細介紹，<hex:02100103>請參考開拓管理面板的「查看說明」項目。"
+32,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_SYSTEM_022_015","開拓了新的土地！<hex:02100103>今後，進一步地開拓新土地時，需要繳納謝爾達萊青船幣，<hex:02100103>作為魔法人偶的運轉費用。"
+33,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_SYSTEM_022_020","可以使用無人島庭具投影了！<hex:02100103>在開拓管理面板開啟無人島庭具投影，<hex:02100103>即可將背包中的庭具投影至開拓據點。"
+34,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_023_000","要是不知道怎麼做開拓用石錘的話，<hex:02100103>可以看看開拓製作中的配方哦！"
+35,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_024_000","你可以用管理板查看開拓工坊所需的素材！"
+36,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_025_000","終於！開拓工坊建成啦！<hex:02100103>有了開拓工坊，我的魔法人偶同伴們<hex:02100103>就可以在這裡用收集到的開拓素材製作海島產品啦！"
+37,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_025_005","我們做出來的海島產品，<hex:02100103>可以透過群島貿易賣出去賺取謝爾達萊青船幣！<hex:02100103>做更多的海島產品！賺大錢！"
+38,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_025_010","啊！對了！<hex:02100103>這一次是情況特殊，特地趕工造好了房子，<hex:02100103>下一次建造新建築的時候，每一棟都要花上一段時間才能完成的。"
+39,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_SYSTEM_025_000","可以使用開拓工坊了！<hex:02100103>與小島木屋附近的監工小員交談，<hex:02100103>即可指示魔法人偶們生產海島產品。"
+40,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_SYSTEM_025_005","今後，建造開拓工坊一類的建築物時，<hex:02100103>均需要等待一定的時間（地球時間）。"
+41,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_SYSTEM_025_010","還有，除了小島木屋以外的建築物，<hex:02100103>均可以透過管理板上的搬遷選項移動到別處。"
+42,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_SYSTEM_025_015","開拓等級的上限提升了！<hex:02100103>提升開拓等級即可學會新的開拓製作配方，<hex:02100103>或能夠建造新的建築物。"
+43,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_SYSTEM_025_020","開拓工坊將按照你安排的生產計劃消耗對應的材料。<hex:02100103>可以使用開拓管理面板的設定調整其中的設定，<hex:02100103>在你要使用生產計劃中計劃使用的材料時顯示警告。"
+44,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_SYSTEM_300_000","可以在開拓據點建造地標了！<hex:02100103>建造地標，可以提升開拓工坊等設施的工作效率。"
 45,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_SYSTEM_300_005","（★未使用／削除予定★）"

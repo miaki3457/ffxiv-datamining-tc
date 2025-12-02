@@ -1,8 +1,8 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_AKTKZI019_04334_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-아포리아 본부에 있는 마르빈은 모험가에게 의뢰할 일이 있는 듯하다."
+0,"TEXT_AKTKZI019_04334_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整<hex:0249020103><hex:0248020103><hex:02100103>無路總部的瑪芙尼有事想委託冒險者。"
 1,"TEXT_AKTKZI019_04334_SEQ_01",""
 2,"TEXT_AKTKZI019_04334_SEQ_02",""
 3,"TEXT_AKTKZI019_04334_SEQ_03",""
@@ -26,8 +26,8 @@ int32,str,str
 21,"TEXT_AKTKZI019_04334_SEQ_21",""
 22,"TEXT_AKTKZI019_04334_SEQ_22",""
 23,"TEXT_AKTKZI019_04334_SEQ_23",""
-24,"TEXT_AKTKZI019_04334_TODO_00","<Sheet(BNpcName,10696,0)/>에게서 <Sheet(EventItem,2003322,0)/> 입수"
-25,"TEXT_AKTKZI019_04334_TODO_01","마르빈에게 <Sheet(EventItem,2003322,0)/> 전달"
+24,"TEXT_AKTKZI019_04334_TODO_00","從<hex:02280FFF09>BNpcName<hex:F229C80103>身上獲取<hex:022811FF0A>EventItem<hex:F61E917A0103>"
+25,"TEXT_AKTKZI019_04334_TODO_01","將<hex:022811FF0A>EventItem<hex:F61E917A0103>交給瑪芙尼"
 26,"TEXT_AKTKZI019_04334_TODO_02",""
 27,"TEXT_AKTKZI019_04334_TODO_03",""
 28,"TEXT_AKTKZI019_04334_TODO_04",""
@@ -50,30 +50,13 @@ int32,str,str
 45,"TEXT_AKTKZI019_04334_TODO_21",""
 46,"TEXT_AKTKZI019_04334_TODO_22",""
 47,"TEXT_AKTKZI019_04334_TODO_23",""
-48,"TEXT_AKTKZI019_04334_MARVENE_000_000","오호라…… 네가 모험가라는 녀석이구나.
-마물을 처치하든지 해서 보상을 받는
-조달꾼 같은 존재지?"
-49,"TEXT_AKTKZI019_04334_MARVENE_000_001","그럼 나도 보상을 줄 테니까
-<Sheet(EventItem,2003322,0)/><13>FF15022811FF0A4576656E744974656DF61E917A0103FF04EBA5BCFF04EC9D84</13> 가져와주라."
-50,"TEXT_AKTKZI019_04334_MARVENE_000_002","'<Sheet(EventItem,2003322,0)/>'<13>FF15022811FF0A4576656E744974656DF61E917A0103FF04EB8A94FF04EC9D80</13> 남동쪽에 있는,
-얼음 거인처럼 보이는 '<Sheet(BNpcName,10696,0)/>'에게서 얻을 수 있지.
-필요한 건 2개야. 검토 부탁한다……."
-51,"TEXT_AKTKZI019_04334_MARVENE_000_003","남동쪽에 있는, 얼음 거인처럼 보이는 '<Sheet(BNpcName,10696,0)/>'<13>FF1302280FFF09424E70634E616D65F229C80103FF04EBA5BCFF04EC9D84</13> 쓰러뜨린 다음
-'<Sheet(EventItem,2003322,0)/>' 2개를 가져다줘.
-그 대신 보상을 줄게."
-52,"TEXT_AKTKZI019_04334_MARVENE_000_010","아, 너구나.
-'<Sheet(EventItem,2003322,0)/>'<13>FF15022811FF0A4576656E744974656DF61E917A0103FF04EB8A94FF04EC9D80</13> 가져왔어?"
-53,"TEXT_AKTKZI019_04334_MARVENE_000_011","그래. 이거야, 이거.
-고맙다. 잘했어."
-54,"TEXT_AKTKZI019_04334_MARVENE_000_012","이걸 어디에 쓸지 궁금해?
-쿠쿠로 쪽에서 속성 증식로를 사용해서
-불속성의 힘을 어마어마하게 증폭시켰잖아?"
-55,"TEXT_AKTKZI019_04334_MARVENE_000_013","이걸 어디에 쓸지 궁금해?
-아무래도 속성 증식로를 사용한,
-말도 안 되는 계획이 세워지고 있는 것 같아서……."
-56,"TEXT_AKTKZI019_04334_MARVENE_000_014","그 영향 때문에 땅속을 지나가는 에테르 전도관 일부에
-이상 발열이 확인됐어.
-하지만 이 빙정이 있으면 강제로 냉각시킬 수 있지."
-57,"TEXT_AKTKZI019_04334_MARVENE_000_015","그나저나 모험가라는 것도 참 든든한 존재군.
-이번 일을 훌륭하게 잘해 줬어.
-약속한 대로 보상을 줄게."
+48,"TEXT_AKTKZI019_04334_MARVENE_000_000","哦哦……你是冒險者吧。<hex:02100103>討伐魔物，獲取報酬，<hex:02100103>就像拾穗人一樣對吧？"
+49,"TEXT_AKTKZI019_04334_MARVENE_000_001","我會給你報酬的，<hex:02100103>能幫忙取得<hex:022811FF0A>EventItem<hex:F61E917A0103>嗎？"
+50,"TEXT_AKTKZI019_04334_MARVENE_000_002","<hex:022811FF0A>EventItem<hex:F61E917A0103>可以從東南方的<hex:02100103>冰之巨人一樣的<hex:02280FFF09>BNpcName<hex:F229C80103>身上獲取。<hex:02100103>一共需要2個，那就拜託了……"
+51,"TEXT_AKTKZI019_04334_MARVENE_000_003","打倒東南方的冰之巨人一樣的<hex:02280FFF09>BNpcName<hex:F229C80103>，<hex:02100103>獲取2個<hex:022811FF0A>EventItem<hex:F61E917A0103>。<hex:02100103>作為交換，我會給你報酬的。"
+52,"TEXT_AKTKZI019_04334_MARVENE_000_010","哦哦，是你啊。<hex:02100103>拿到<hex:022811FF0A>EventItem<hex:F61E917A0103>了嗎？"
+53,"TEXT_AKTKZI019_04334_MARVENE_000_011","沒錯，就是這個。<hex:02100103>謝謝你，幫大忙了。"
+54,"TEXT_AKTKZI019_04334_MARVENE_000_012","想知道我要拿這個做什麼嗎？<hex:02100103>可可羅他們不是使用屬性增殖爐<hex:02100103>像個傻子似的給火屬性力量增幅嗎？"
+55,"TEXT_AKTKZI019_04334_MARVENE_000_013","想知道我要拿這個做什麼嗎？<hex:02100103>好像是有個利用屬性增殖爐<hex:02100103>亂來的計劃……"
+56,"TEXT_AKTKZI019_04334_MARVENE_000_014","受此影響，地下的一部分乙太傳導管<hex:02100103>出現了異常發熱。<hex:02100103>不過只要有了這個冰晶，就可以強制冷卻。"
+57,"TEXT_AKTKZI019_04334_MARVENE_000_015","話說冒險者還真是可靠啊。<hex:02100103>這次的工作完成得可真漂亮。<hex:02100103>按照約定，請收下這些報酬吧。"

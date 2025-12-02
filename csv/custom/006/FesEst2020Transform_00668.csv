@@ -1,45 +1,26 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_FESEST2020TRANSFORM_00668_EGGHUNTSTAFF_000_000","특별한 장식용 달걀을 낳는 닭이 도망쳐 버렸어!
-어쩌면 좋아!"
-1,"TEXT_FESEST2020TRANSFORM_00668_SYSTEM_000_001","돌발 임무 ""알 사냥 축제 '끈끈이는 끈적끈적'""에 참가하려면
-퀘스트 '알 사냥은 토끼 손으로'를 진행해야 합니다."
-2,"TEXT_FESEST2020TRANSFORM_00668_EGGHUNTSTAFF_000_002","특별한 장식용 달걀을 낳는 닭이 도망쳐 버렸어!
-괜찮다면 붙잡는 걸 도와주지 않을래?
-붙잡는 방법은 가르쳐줄게!"
-3,"TEXT_FESEST2020TRANSFORM_00668_Q1_000_000","무엇을 하시겠습니까?"
-4,"TEXT_FESEST2020TRANSFORM_00668_A1_000_001","닭 포획 돕기"
-5,"TEXT_FESEST2020TRANSFORM_00668_A1_000_002","닭 포획 방법 듣기"
-6,"TEXT_FESEST2020TRANSFORM_00668_A1_000_003","취소"
-7,"TEXT_FESEST2020TRANSFORM_00668_SYSTEM_000_010","돌발 임무 ""알 사냥 축제: 끈끈이는 끈적끈적""에 참가하려면
-투사 또는 마법사 클래스여야 합니다."
-8,"TEXT_FESEST2020TRANSFORM_00668_Q2_000_000","닭 포획을 도우시겠습니까?"
-9,"TEXT_FESEST2020TRANSFORM_00668_EGGHUNTSTAFF_000_012","고마워!
-그럼 닭을 붙잡기 위한 그물하고 끈끈이……
-그리고 도와주는 사람에겐 토끼 인형탈을 빌려줄게!"
-10,"TEXT_FESEST2020TRANSFORM_00668_SYSTEM_000_013","'인형탈 착용' 상태를 해제하고 싶을 때는
-전용 액션 '인형탈 벗기'를 사용하면
-원래대로 돌아갈 수 있습니다."
-11,"TEXT_FESEST2020TRANSFORM_00668_SYSTEM_000_014","또한 실수로 '인형탈 착용' 상태가 해제되었을 경우에는
-다시 한번 '알 사냥 축제 실행위원'에게 말을 걸어주세요."
-12,"TEXT_FESEST2020TRANSFORM_00668_Q3_000_000","무엇을 물어보시겠습니까?"
-13,"TEXT_FESEST2020TRANSFORM_00668_A3_000_001","닭의 포획 방법을 물어본다"
-14,"TEXT_FESEST2020TRANSFORM_00668_A3_000_002","보상으로 받는 '<Sheet(Item,29983,0)/>'에 대해서 물어본다"
-15,"TEXT_FESEST2020TRANSFORM_00668_A3_000_003","뒤로"
-16,"TEXT_FESEST2020TRANSFORM_00668_EGGHUNTSTAFF_000_020","도망 다니는 닭을 그물로 잡아줘.
-닭이 너무 날렵해서 도저히 붙잡을 수 없을 때는
-닭에게 끈끈이를 던져서 움직임을 둔하게 만들 수 있어!"
-17,"TEXT_FESEST2020TRANSFORM_00668_SYSTEM_000_020","'알 사냥 축제 실행위원'에게 말을 걸어 인형탈 착용 상태가 되면
-임무용 기술 '끈끈이'와 '포획'을 실행할 수 있게 됩니다."
-18,"TEXT_FESEST2020TRANSFORM_00668_SYSTEM_000_021","돌발 임무 ""알 사냥 축제: 끈끈이는 끈적끈적""에서 활약하려면
-닭의 움직임을 둔하게 만들어 붙잡아야 합니다.
-임무용 기술을 사용하여 닭을 붙잡아 봅시다!"
-19,"TEXT_FESEST2020TRANSFORM_00668_EGGHUNTSTAFF_000_030","닭 포획을 도와주는 사람에게는
-답례로 '<Sheet(Item,29983,0)/>'<13>FF0F02280BFF054974656DF2751F0103FF04EBA5BCFF04EC9D84</13> 줄 거야."
-20,"TEXT_FESEST2020TRANSFORM_00668_EGGHUNTSTAFF_000_031","'<Sheet(Item,29983,0)/>'의 개수에 따라
-'꿈꾸는 달걀 소녀'한테 가서 멋진 물건과 교환할 수 있어.
-그러니까 닭 포획을 많이 많이 도와줘!"
-21,"TEXT_FESEST2020TRANSFORM_00668_SYSTEM_000_032","'<Sheet(Item,29983,0)/>'<13>FF0F02280BFF054974656DF2751F0103FF04EB8A94FF04EC9D80</13> 검은장막 숲 중부삼림에서 발생하는
-돌발 임무 ""알 사냥 축제: 끈끈이는 끈적끈적""에 참가해서
-활약하면 얻을 수 있습니다."
+0,"TEXT_FESEST2020TRANSFORM_00668_EGGHUNTSTAFF_000_000","產出特殊裝飾彩蛋的小雞逃走了！<hex:02100103>真是愁死了！"
+1,"TEXT_FESEST2020TRANSFORM_00668_SYSTEM_000_001","要參加F.A.T.E.事件「彩蛋狩獵『黏鳥膠大作戰』」，<hex:02100103>需要先接受並完成任務「彩蛋狩獵看兔子」。"
+2,"TEXT_FESEST2020TRANSFORM_00668_EGGHUNTSTAFF_000_002","產出特殊裝飾彩蛋的小雞逃走了！<hex:02100103>如果方便的話，可以請你幫忙抓回來嗎？<hex:02100103>我會教你具體如何捕獲的！"
+3,"TEXT_FESEST2020TRANSFORM_00668_Q1_000_000","要做什麼？"
+4,"TEXT_FESEST2020TRANSFORM_00668_A1_000_001","幫忙捕獲小雞"
+5,"TEXT_FESEST2020TRANSFORM_00668_A1_000_002","詢問如何捕獲小雞"
+6,"TEXT_FESEST2020TRANSFORM_00668_A1_000_003","取消"
+7,"TEXT_FESEST2020TRANSFORM_00668_SYSTEM_000_010","只有在戰鬥精英或魔法導師職業下，<hex:02100103>才能參加F.A.T.E.事件「彩蛋狩獵『黏鳥膠大作戰』」。"
+8,"TEXT_FESEST2020TRANSFORM_00668_Q2_000_000","要幫忙捕獲小雞嗎？"
+9,"TEXT_FESEST2020TRANSFORM_00668_EGGHUNTSTAFF_000_012","謝謝！<hex:02100103>那我就把捕獲小雞需要的網和黏鳥膠……<hex:02100103>還有兔子玩偶裝借給你吧！"
+10,"TEXT_FESEST2020TRANSFORM_00668_SYSTEM_000_013","想要解除「穿著玩偶裝」狀態時，<hex:02100103>只要使用專用技能「解除玩偶裝」，<hex:02100103>便可以復原。"
+11,"TEXT_FESEST2020TRANSFORM_00668_SYSTEM_000_014","另外如果誤將「穿著玩偶裝」狀態解除了的話，<hex:02100103>請再次跟彩蛋狩獵執行委員對話。"
+12,"TEXT_FESEST2020TRANSFORM_00668_Q3_000_000","想了解什麼？"
+13,"TEXT_FESEST2020TRANSFORM_00668_A3_000_001","關於小雞的捕獲方法"
+14,"TEXT_FESEST2020TRANSFORM_00668_A3_000_002","關於報酬<hex:02280BFF05>Item<hex:F2751F0103>"
+15,"TEXT_FESEST2020TRANSFORM_00668_A3_000_003","返回"
+16,"TEXT_FESEST2020TRANSFORM_00668_EGGHUNTSTAFF_000_020","你可以用網將四處逃竄的小雞抓回來。<hex:02100103>不過小雞速度很快，如果一直追不上的話，<hex:02100103>可以投擲黏鳥膠，使其行動變緩！"
+17,"TEXT_FESEST2020TRANSFORM_00668_SYSTEM_000_020","跟彩蛋狩獵執行委員對話，進入「穿著玩偶裝」狀態後，<hex:02100103>便可以執行任務指令「黏鳥膠」和「捕獲」。"
+18,"TEXT_FESEST2020TRANSFORM_00668_SYSTEM_000_021","若想在F.A.T.E.事件「彩蛋狩獵『黏鳥膠大作戰』」中有所貢獻，<hex:02100103>需要讓小雞的行動變緩並將其捕獲。<hex:02100103>使用任務指令，將小雞捕獲吧！"
+19,"TEXT_FESEST2020TRANSFORM_00668_EGGHUNTSTAFF_000_030","對於幫忙捕獲小雞的人，<hex:02100103>我會奉上謝禮<hex:02280BFF05>Item<hex:F2751F0103>。"
+20,"TEXT_FESEST2020TRANSFORM_00668_EGGHUNTSTAFF_000_031","根據獲得<hex:02280BFF05>Item<hex:F2751F0103>數量的不同，<hex:02100103>可以從彩蛋預言師那裡交換各類禮品。<hex:02100103>所以還請多多幫忙捕獲小雞！"
+21,"TEXT_FESEST2020TRANSFORM_00668_SYSTEM_000_032","<hex:02280BFF05>Item<hex:F2751F0103>可以透過參加在黑衣森林中央林區發生的<hex:02100103>F.A.T.E.事件「彩蛋狩獵『黏鳥膠大作戰』」並做出貢獻來獲得。"

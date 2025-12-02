@@ -1,5 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29
 #,TripleTriadCard{Fixed}[0],TripleTriadCard{Fixed}[1],TripleTriadCard{Fixed}[2],TripleTriadCard{Fixed}[3],TripleTriadCard{Fixed}[4],TripleTriadCard{Variable}[0],TripleTriadCard{Variable}[1],TripleTriadCard{Variable}[2],TripleTriadCard{Variable}[3],TripleTriadCard{Variable}[4],TripleTriadRule[0],TripleTriadRule[1],UsesRegionalRules,Fee,PreviousQuestJoin,PreviousQuest[0],PreviousQuest[1],PreviousQuest[2],StartTime,EndTime,DefaultTalk{Challenge},DefaultTalk{Unavailable},DefaultTalk{NPCWin},DefaultTalk{Draw},DefaultTalk{PCWin},,Item{PossibleReward}[0],Item{PossibleReward}[1],Item{PossibleReward}[2],Item{PossibleReward}[3]
+offset,48,50,52,54,56,58,60,62,64,66,74,75,77,68,76,16,20,24,70,72,28,32,36,40,44,77,0,4,8,12
 int32,TripleTriadCard,TripleTriadCard,TripleTriadCard,TripleTriadCard,TripleTriadCard,TripleTriadCard,TripleTriadCard,TripleTriadCard,TripleTriadCard,TripleTriadCard,TripleTriadRule,TripleTriadRule,bit&01,uint16,byte,Quest,Quest,Quest,uint16,uint16,DefaultTalk,DefaultTalk,DefaultTalk,DefaultTalk,DefaultTalk,bit&02,Item,Item,Item,Item
 2293760,0,0,0,0,0,0,0,0,0,0,0,0,False,0,1,0,0,0,0,0,0,0,0,0,0,False,0,0,0,0
 2293761,0,0,0,0,0,0,0,0,0,0,0,0,False,0,1,0,0,0,0,0,0,0,0,0,0,False,0,0,0,0
@@ -137,9 +138,7 @@ int32,TripleTriadCard,TripleTriadCard,TripleTriadCard,TripleTriadCard,TripleTria
 2293893,411,245,207,0,0,192,128,48,320,0,14,13,False,25,1,70464,0,0,0,0,599961,0,599962,599963,599964,True,43862,0,0,0
 2293894,412,149,225,0,0,319,114,278,0,0,6,2,False,25,1,70486,0,0,0,0,599965,0,599966,599967,599968,False,43863,0,0,0
 2293895,413,291,96,312,0,239,120,271,250,0,9,11,False,35,1,70456,0,0,0,0,599969,0,599970,599971,599972,True,43864,0,0,0
-2293896,428,429,197,66,0,193,318,236,0,0,4,14,False,35,1,70772,0,0,0,0,600531,0,600532,600533,600534,False,44475,44476,0,0
-2293897,430,431,269,65,0,93,146,190,0,0,6,11,False,35,1,70772,0,0,0,0,600535,0,600536,600537,600538,False,44477,44478,0,0
-2293898,437,49,53,62,0,46,45,38,0,0,6,9,False,35,1,0,0,0,0,0,600762,0,600763,600764,600765,False,47997,0,0,0
-2293899,442,443,98,119,0,217,318,394,0,0,12,4,False,35,1,70796,0,0,0,0,600766,0,600767,600768,600769,True,48002,48003,0,0
-2293900,446,193,245,447,0,346,120,0,0,0,4,9,False,35,1,70865,0,0,0,0,601053,0,601054,601055,601056,False,46813,0,0,0
-2293901,0,0,0,0,0,0,0,0,0,0,0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,False,0,0,0,0
+2293896,0,0,0,0,0,0,0,0,0,0,0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,False,0,0,0,0
+2293897,0,0,0,0,0,0,0,0,0,0,0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,False,0,0,0,0
+2293898,0,0,0,0,0,0,0,0,0,0,0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,False,0,0,0,0
+2293899,0,0,0,0,0,0,0,0,0,0,0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,False,0,0,0,0

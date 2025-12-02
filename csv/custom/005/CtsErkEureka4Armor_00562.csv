@@ -1,21 +1,14 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_CTSERKEUREKA4ARMOR_00562_CRAFSMAN00532_000_000","히다토스 지대에 들여온 설비를 점검 중입니다.
-죄송하지만 방어구에 관해서는
-잠시만 기다려 주십시오."
-1,"TEXT_CTSERKEUREKA4ARMOR_00562_CRAFSMAN00532_000_010","으음, 모험가님은 방어구를 원하십니까?
-죄송하지만 피로스 지대의 소재로 제작하는 방어구는
-피로스 지대에서 주문해 주십시오."
-2,"TEXT_CTSERKEUREKA4ARMOR_00562_Q1_000_000","무엇을 하시겠습니까?"
-3,"TEXT_CTSERKEUREKA4ARMOR_00562_A1_000_001","엘리멘탈 방어구의 강화"
-4,"TEXT_CTSERKEUREKA4ARMOR_00562_A1_000_002","엘리멘탈 방어구 +1의 강화"
-5,"TEXT_CTSERKEUREKA4ARMOR_00562_A1_000_003","대화"
-6,"TEXT_CTSERKEUREKA4ARMOR_00562_A1_000_004","취소"
-7,"TEXT_CTSERKEUREKA4ARMOR_00562_CRAFSMAN00532_000_020","섬세하면서도 대담하고 정교하네요…….
-역시 명장이란 이름이 무색하지 않습니다.
-게롤트 님의 솜씨를 직접 볼 수 있다니 영광입니다."
-8,"TEXT_CTSERKEUREKA4ARMOR_00562_CRAFSMAN00532_100_020","드레이크 님의 설계도에 따르면 특수 소재를 사용해
-방어구에 속성의 힘을 부여할 수 있다고 합니다.
-이런 기법을 고안해 내다니 정말 훌륭합니다!"
-9,"TEXT_CTSERKEUREKA4ARMOR_00562_TALK_ACTOR","（★未使用／削除予定★）"
+0,"TEXT_CTSERKEUREKA4ARMOR_00562_CRAFSMAN00532_000_000","帶到豐水地帶的裝置還在除錯中。<hex:02100103>非常抱歉，有關防具的事情還請你再稍等些時間。"
+1,"TEXT_CTSERKEUREKA4ARMOR_00562_CRAFSMAN00532_000_010","嗯？冒險者你想要防具嗎？<hex:02100103>十分抱歉，若想用湧火地帶的素材製作防具，<hex:02100103>請到湧火地帶進行下單。"
+2,"TEXT_CTSERKEUREKA4ARMOR_00562_Q1_000_000","要做什麼？"
+3,"TEXT_CTSERKEUREKA4ARMOR_00562_A1_000_001","強化元素防具"
+4,"TEXT_CTSERKEUREKA4ARMOR_00562_A1_000_002","強化元素防具+1"
+5,"TEXT_CTSERKEUREKA4ARMOR_00562_A1_000_003","對話"
+6,"TEXT_CTSERKEUREKA4ARMOR_00562_A1_000_004","取消"
+7,"TEXT_CTSERKEUREKA4ARMOR_00562_CRAFSMAN00532_000_020","細緻中兼具豪放，並且還很精巧……<hex:02100103>不愧是遠近聞名的名匠……<hex:02100103>能在這麼近距離欣賞到蓋羅爾特閣下的手藝，真是三生有幸。"
+8,"TEXT_CTSERKEUREKA4ARMOR_00562_CRAFSMAN00532_100_020","根據德雷克的設計圖，<hex:02100103>好像能透過特殊的素材給防具賦予屬性之力。<hex:02100103>能研究出這樣的技法，真是太厲害了！"
+9,"TEXT_CTSERKEUREKA4ARMOR_00562_TALK_ACTOR",""

@@ -1,62 +1,26 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_000","가히쟈, 와 나는 선생님이, 고용한 신대륙 안내자였는, 데,
-그 후로, 계속 조수, 라는 명목으로 함께, 하고 있습니다.
-뭐, 지긋지긋한 인연이, 죠……."
-1,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_010","인간은, 가히쟈와 나를 구분하지 못, 하는 모양, 입니다.
-무례, 합니다……. 내가, 훨씬, 더 잘생겼는, 데……. "
-2,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_020","선생님, 은 파란색에 어마어마, 하게 집착합니, 다.
-속옷, 마저, 집착합니, 다.
-덧붙여서, 우리가, 파란색인, 건…… 우연, 입니다. "
-3,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_030","선생님, 잠도, 밥도 거르고, 투기장에서 싸우고 있습니, 다.
-난, 너무, 너무 걱정돼서, 파랗게 질릴 것 같습,니다……."
-4,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_040","선생님, 은 아직, 입원 중, 입니다.
-붕대, 마저 파란색으로, 해 달라고, 한 듯한, 데,
-역, 시, 파란 붕대는 없었던 모양, 입니다……."
-5,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_050","<Highlight>ObjectParameter(1)</Highlight> 씨!
-선생님을 위해, 서도, 아포칼리옵스,
-바스트라흐 씨, 를 부디, 쓰러뜨려주세, 요!"
-6,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_060","설, 마, 정말로, 아포칼리옵스,
-바스트라흐 씨, 를 쓰러뜨리다, 니…….
-아니, 물론 믿고, 있었습, 니다……!"
-7,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_070","선생님은, 여전히, 매일매일 투기장에서 싸우고 있습, 니다.
-나는, 맛집 탐방, 중에 발견한, 고향의 맛,
-옥수수빵, 에 푹 빠져 있습, 니다……."
-8,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_080","청마도사 길드, 라고 해, 도,
-건물이, 있지는, 않, 습, 니다…….
-선생님이, 계신 곳, 이 바로, 길드의 거점, 입니다."
-9,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_090","이미 아실, 지도, 모르지, 만,
-선생님의, 집요함은, 타고난, 것.
-왈라키족의, 돌림병처, 럼, 낫지는, 않습니, 다. "
-10,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_100","선생님, 지크프리드와, 시합하기로 정해진, 후,
-침착하지, 않습니, 다.
-내심, 불안한, 모양입니, 다."
-11,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_110","지크프리드와, 청공 투기장의, 경영권, 을 걸고,
-싸우게, 되어서……
-선생님, 더욱 더, 침착하지, 못하게, 되었습니, 다."
-12,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_120","마물 사냥꾼, 들과 협력해, 서,
-동맹 휘장과 교환, 할 수 있는, 특별한 물건을, 준비했습니, 다.
-알짜배기로, 준비했, 으니, 구경해 주세, 요."
-13,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_130","지크프리드를, 쓰러뜨려 주셔, 서, 고맙습니, 다.
-앞으로도, 꾸준, 히 선생님과, 청마도사 임무를,
-잘, 부탁, 드립니, 다."
-14,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_140","선생님이, 의욕이, 넘, 치면,
-대개, 일이, 잘못됩, 니다."
-15,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_150","고고와의, 시합에, 대비해서,
-청마도사 임무로, 실력을 닦는 것은, 어떨, 까요?"
-16,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_160","훌륭하게, 고고를, 격파하셨, 군요.
-부디, 앞으로도, 선생님과, 청마도사 임무에,
-함께해, 주시면, 감사하겠습, 니다."
-17,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_170","지크프리드, 그러니까 지른베르크 씨, 에게
-당신이, 별의 위기를 구했다, 고 들었습, 니다."
-18,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_171","선생님, 은 자신이 활약할 기회, 가 없었던 것에
-내심, 불만을 품고, 있는 것, 같습니다."
-19,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_180","당신의, 훌륭한, 활약에 비하, 면
-선생님은, 여전하시지, 만……
-그래도, 잘 좀, 챙겨 주십, 시오."
-20,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_190","선생님이, 악역, 골도르가 되실, 줄이야……
-타고나신, 집요함이, 이렇게 도움이 되는군, 요."
-21,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_200","멋지게, 골도르 그러니까 선생님을, 격파하셨군, 요.
-바로 그런 자세, 로, 청마도사 임무에도,
-협력, 해주시면, 고맙겠, 습니다."
+0,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_000","嘎希加、和我被大師僱傭為、新大陸的導覽、<hex:02100103>之後就、一直以助手的、身份跟隨、著大師。<hex:02100103>我們之間、也就算是一段、孽緣吧……"
+1,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_010","人類好像、無法分清、嘎希加與我的、區別。<hex:02100103>真是失禮呢……我、比他要、帥多了……"
+2,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_020","大師對於、青色的執著、實在、不能小看。<hex:02100103>甚至大師的內褲、都是、青色的。<hex:02100103>順便一提、我們、的顏色也是青色這件事、只是……偶然而已。"
+3,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_030","大師正在、鬥技場、廢寢忘食地、戰鬥著。<hex:02100103>我、擔心得、不得了……"
+4,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_040","大師還在、住院中。<hex:02100103>聽說大師就、連繃帶都要求、換成青色的，<hex:02100103>不過、據說好像實在、是沒有青色的、繃帶……"
+5,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_050","<hex:022903EB0203>！<hex:02100103>為了大師、<hex:02100103>請打倒、扮演、啟示者的、瓦斯特拉哈！"
+6,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_060","沒想、到、你真的打倒了、<hex:02100103>扮演啟示者、的瓦斯特拉哈……<hex:02100103>我當、然一直、相信你是、可以做到的……"
+7,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_070","大師還是、像往常、一樣每日在、鬥技場戰鬥。<hex:02100103>說起我的話、我最近沉迷於、在閒逛時、<hex:02100103>發現的、有著故鄉味道、的玉米麵包。"
+8,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_080","雖說、是、青魔道士行會、<hex:02100103>但、其實、並沒有、什麼、建築……<hex:02100103>大師、在的地方、就是、行會的據點。"
+9,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_090","或許、你、已經、發現、了、<hex:02100103>大師、愛財、是與生、俱來的。<hex:02100103>不像、瓦拉其、族的、傳染病那樣、可以、治癒。"
+10,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_100","大師、自從跟、齊格弗里德、的比試、定下來、之後、<hex:02100103>一直、感覺、心神不、寧。<hex:02100103>似乎、是內心、起了、波瀾。"
+11,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_110","當跟、齊格弗里德、的比試、<hex:02100103>成為了、賭上、經營權、的戰鬥、之後……<hex:02100103>大師、更加的、不冷靜、了。"
+12,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_120","我與、怪物獵人、們合、作、<hex:02100103>準備、了可以、跟同盟徽章、進行交換、的特製、商品。<hex:02100103>請、一定要、去看看、啊。"
+13,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_130","感謝你、打倒、了、齊格弗里德。<hex:02100103>今後、大師和、青魔道士記錄、也、拜託、你了。"
+14,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_140","大師、充滿幹勁、的、時候、<hex:02100103>一般、都、沒什麼、好事。"
+15,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_150","與格格、的比試、目前、<hex:02100103>要不要、透過青魔道士記錄、磨練一下、技藝？"
+16,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_160","成功打敗、格格、真是、幹得漂亮。<hex:02100103>希、望、今後、也可以、繼續、<hex:02100103>陪伴、大師和、青魔道士記錄。"
+17,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_170","齊格弗里德、也就是、吉恩貝爾克、<hex:02100103>告訴我說、是你、從危機當中、拯救了星球。"
+18,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_171","大師、似乎、對於這次、<hex:02100103>沒有自己、表現的、機會、頗有微詞。"
+19,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_180","和你的、活躍表現、相比、<hex:02100103>大師還是、一如既往、啊……<hex:02100103>還要、勞煩你、多陪陪他。"
+20,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_190","真沒想到、大師居然、會成為、金德爾……<hex:02100103>看樣子、是天生的、守財奴本性、起作用了。"
+21,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_200","恭喜你成功、打敗了大師、也就是、金德爾。<hex:02100103>希望你今後、也可以藉著、這股氣勢、<hex:02100103>繼續幫忙、解決、青魔道士記錄。"

@@ -1,10 +1,8 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_BANKJN504_02994_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-※ 이 퀘스트는 수락 시점의 직업으로만 진행할 수 있습니다.
-
-푸른 물구슬에 있는 즈킨은 빛나는 의뢰를 하려는 듯하다."
+0,"TEXT_BANKJN504_02994_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整（限定職業）<hex:0249020103><hex:0248020103><hex:02100103>※本任務需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>碧玉水的頭巾有個閃亮的任務想要委託給冒險者。"
 1,"TEXT_BANKJN504_02994_SEQ_01",""
 2,"TEXT_BANKJN504_02994_SEQ_02",""
 3,"TEXT_BANKJN504_02994_SEQ_03",""
@@ -28,8 +26,8 @@ int32,str,str
 21,"TEXT_BANKJN504_02994_SEQ_21",""
 22,"TEXT_BANKJN504_02994_SEQ_22",""
 23,"TEXT_BANKJN504_02994_SEQ_23",""
-24,"TEXT_BANKJN504_02994_TODO_00","바닷속 소교쿠 해구에서 <Sheet(EventItem,2002413,0)/> 채집"
-25,"TEXT_BANKJN504_02994_TODO_01","즈킨에게 <Sheet(EventItem,2002413,0)/> 전달"
+24,"TEXT_BANKJN504_02994_TODO_00","在水下的蒼玉海溝中採集<hex:022811FF0A>EventItem<hex:F61E8DED0103>"
+25,"TEXT_BANKJN504_02994_TODO_01","將<hex:022811FF0A>EventItem<hex:F61E8DED0103>交給頭巾"
 26,"TEXT_BANKJN504_02994_TODO_02",""
 27,"TEXT_BANKJN504_02994_TODO_03",""
 28,"TEXT_BANKJN504_02994_TODO_04",""
@@ -52,18 +50,9 @@ int32,str,str
 45,"TEXT_BANKJN504_02994_TODO_21",""
 46,"TEXT_BANKJN504_02994_TODO_22",""
 47,"TEXT_BANKJN504_02994_TODO_23",""
-48,"TEXT_BANKJN504_02994_ZUKIN_000_000","<If(PlayerParameter(4))>누님<Else/>형님</If>, 기다리고 있었다아!
-케스티르족을 위해서 홍옥해의 특산품을 조달해줬으면 한다아."
-49,"TEXT_BANKJN504_02994_ZUKIN_000_001","평범한 해산물은 이미 이사리 마을의 어부가 거래하고 있으니
-우리는 푸른등답게 바닷속에서 구할 수 있는 것을 주고 싶다아.
-그래서 말인데, '<Sheet(EventItem,2002413,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8DED0103FF04EBA5BCFF04EC9D84</13> 채집해줬으면 한다아."
-50,"TEXT_BANKJN504_02994_ZUKIN_000_002","<Sheet(EventItem,2002413,0)/><13>FF15022811FF0A4576656E744974656DF61E8DED0103FF04EAB080FF04EC9DB4</13> 뭐냐면,
-소교쿠 해구에 있는 은은하게 빛나는 결정의 조각이다아.
-커다란 결정 근처에 떨어져 있는 것을 3개 정도만 주워와라아!"
-51,"TEXT_BANKJN504_02994_ZUKIN_000_020","<If(PlayerParameter(4))>누님<Else/>형님</If>, 잘 다녀왔나아!
-'<Sheet(EventItem,2002413,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8DED0103FF04EB8A94FF04EC9D80</13> 찾았는가아?"
-52,"TEXT_BANKJN504_02994_ZUKIN_000_021","역시 우리 <If(PlayerParameter(4))>누님<Else/>형님</If>이야! 이 정도면 충분하다아!
-큰 것은 물구슬을 밝힐 때 써야하니까 놔두고
-남은 것은 전부 케스티르족한테 넘기도록 하겠다아. "
-53,"TEXT_BANKJN504_02994_ZUKIN_000_022","케스티르족은 달의 여신을 믿는다고 들었다아.
-그러니 달 조각이라고 하면 틀림없이 비싼 값에 사줄 것이다아!"
+48,"TEXT_BANKJN504_02994_ZUKIN_000_000","<hex:020813E905FF07>大姐<hex:FF07>大哥<hex:03>，等你好久了——<hex:02100103>希望你能替我收集紅玉海的特產，用來和凱蘇提爾族做交易——"
+49,"TEXT_BANKJN504_02994_ZUKIN_000_001","普通的海產品會由漁村的漁師去那裡賣，<hex:02100103>我想把有我們碧甲族特色的，在水下採到的東西賣給他們——<hex:02100103>因此希望你能採來<hex:022811FF0A>EventItem<hex:F61E8DED0103>——"
+50,"TEXT_BANKJN504_02994_ZUKIN_000_002","所謂<hex:022811FF0A>EventItem<hex:F61E8DED0103>，<hex:02100103>就是蒼玉海溝水中會發出微弱光輝的結晶碎片——<hex:02100103>你去採來3塊吧，在大結晶旁邊就能找到——"
+51,"TEXT_BANKJN504_02994_ZUKIN_000_020","<hex:020813E905FF07>大姐<hex:FF07>大哥<hex:03>，歡迎回來——<hex:02100103>你找到<hex:022811FF0A>EventItem<hex:F61E8DED0103>了嗎？"
+52,"TEXT_BANKJN504_02994_ZUKIN_000_021","不愧是<hex:020813E905FF07>大姐<hex:FF07>大哥<hex:03>，有這麼多就足夠了——<hex:02100103>大塊的，就用作碧玉水的光源，<hex:02100103>剩下的全都留給凱蘇提爾族吧——"
+53,"TEXT_BANKJN504_02994_ZUKIN_000_022","聽說凱蘇提爾族信仰月之女神——<hex:02100103>告訴他們這是月之碎片肯定能賣個高價——"

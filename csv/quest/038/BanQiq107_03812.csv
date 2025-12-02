@@ -1,11 +1,9 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_BANQIQ107_03812_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
-
-호파루의 소반에 있는 코테루리 파소리는 향수 재료를 모아주기를 원하는 듯하다."
-1,"TEXT_BANQIQ107_03812_SEQ_01","코테루리 파소리에게 의뢰받은 물건을 납품"
+0,"TEXT_BANQIQ107_03812_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整（限定職業）<hex:0249020103><hex:0248020103><hex:02100103>※本任務需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>霍啪櫨古盤的柯呫盧利·帕嗦利，想要請冒險者幫忙收集香水的素材。"
+1,"TEXT_BANQIQ107_03812_SEQ_01","將柯呫盧利·帕嗦利委託的物品交給她"
 2,"TEXT_BANQIQ107_03812_SEQ_02",""
 3,"TEXT_BANQIQ107_03812_SEQ_03",""
 4,"TEXT_BANQIQ107_03812_SEQ_04",""
@@ -28,7 +26,7 @@ int32,str,str
 21,"TEXT_BANQIQ107_03812_SEQ_21",""
 22,"TEXT_BANQIQ107_03812_SEQ_22",""
 23,"TEXT_BANQIQ107_03812_SEQ_23",""
-24,"TEXT_BANQIQ107_03812_TODO_00","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>뮤릴의 향수의 광맥에서 <Sheet(Item,IntegerParameter(5),0)/> 채굴<Else/>코테루리 파소리에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>뮤릴의 향수의 약초밭에서 <Sheet(Item,IntegerParameter(5),0)/> 채집<Else/>코테루리 파소리에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>투시 메키타 호수의 물속에서 <Sheet(Item,IntegerParameter(5),0)/> 작살질<Else/>코테루리 파소리에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If>"
+24,"TEXT_BANQIQ107_03812_TODO_00","<hex:0208F20154E4E80511FF69><hex:020865E3E802E803FF2F>在繆櫟的鄉愁的礦脈採取<hex:02280AFF05>Item<hex:E8060103><hex:FF2E>將<hex:02280AFF05>Item<hex:E8060103>交給柯呫盧利·帕嗦利<hex:03><hex:FFF0E3><hex:0208F0DEE4E80512FF69><hex:020865E3E802E803FF2F>在繆櫟的鄉愁的草場採取<hex:02280AFF05>Item<hex:E8060103><hex:FF2E>將<hex:02280AFF05>Item<hex:E8060103>交給柯呫盧利·帕嗦利<hex:03><hex:FF6F><hex:02086BE4E80513FF63><hex:02085FE3E802E803FF29>在蛇水湖的水下刺取<hex:02280AFF05>Item<hex:E8060103><hex:FF2E>將<hex:02280AFF05>Item<hex:E8060103>交給柯呫盧利·帕嗦利<hex:03><hex:FF01><hex:03><hex:03><hex:03>"
 25,"TEXT_BANQIQ107_03812_TODO_01",""
 26,"TEXT_BANQIQ107_03812_TODO_02",""
 27,"TEXT_BANQIQ107_03812_TODO_03",""
@@ -52,41 +50,17 @@ int32,str,str
 45,"TEXT_BANQIQ107_03812_TODO_21",""
 46,"TEXT_BANQIQ107_03812_TODO_22",""
 47,"TEXT_BANQIQ107_03812_TODO_23",""
-48,"TEXT_BANQIQ107_03812_QHOTERLPASOL_000_000","저희 키타리족은 후각이 발달되어 있다는 걸 알고 계셨나요~?
-깜깜한 어둠 속에서도 냄새만으로 동료를 구분하고
-그 위치를 알 수 있을 정도랍니다~!"
-49,"TEXT_BANQIQ107_03812_QHOTERLPASOL_000_001","하지만 지하 동굴에서 탐색을 하다 보면
-가스 같은 성분 때문에 냄새를 분간 못할 가능성이 있어요~.
-그래서 표식이 되어줄 만한 향수를 조합하고 싶답니다~!"
-50,"TEXT_BANQIQ107_03812_QHOTERLPASOL_000_010","조합에 필요한 건 뮤릴의 향수에서 캘 수 있는
-'<Sheet(Item,29522,0)/>'<13>FF0F02280BFF054974656DF273520103FF0AEB9E8DEB8B88EB8BA4FF0DEC9DB4EB9E8DEB8B88EB8BA4</13>~.
-그게 3개 정도 있으면 일단 충분할 것 같사와요~."
-51,"TEXT_BANQIQ107_03812_QHOTERLPASOL_000_020","조합에 필요한 건 뮤릴의 향수에서 채집할 수 있는
-'<Sheet(Item,29548,0)/>'<13>FF0F02280BFF054974656DF2736C0103FF0AEB9E8DEB8B88EB8BA4FF0DEC9DB4EB9E8DEB8B88EB8BA4</13>~.
-그게 3개 정도 있으면 일단 충분할 것 같사와요~."
-52,"TEXT_BANQIQ107_03812_QHOTERLPASOL_000_030","조합에 필요한 건 투시 메키타 호수에 서식하는
-'<Sheet(Item,29574,0)/>'<13>FF0F02280BFF054974656DF273860103FF0AEB9E8DEB8B88EB8BA4FF0DEC9DB4EB9E8DEB8B88EB8BA4</13>~.
-작살질로 잡을 수 있다고 해요~."
-53,"TEXT_BANQIQ107_03812_QHOTERLPASOL_000_040","기껏해야 향수지만 그래도 저희에겐 아주 중요하답니다~.
-이건 탐색의 안전성을 높이기 위한 시책이오니,
-모쪼록 협력 부탁드려요~."
-54,"TEXT_BANQIQ107_03812_SYSTEM_100_040","이 퀘스트를 진행하기 위해서는
-퀘스트 '작살질을 해보자'를 완료하여
-'작살질'을 개방해야 합니다."
-55,"TEXT_BANQIQ107_03812_QHOTERLPASOL_100_010","향수 조합에 필요한 건 뮤릴의 향수에서 캘 수 있는
-'<Sheet(Item,29522,0)/>'<13>FF0F02280BFF054974656DF273520103FF0AEB9E8DEB8B88EB8BA4FF0DEC9DB4EB9E8DEB8B88EB8BA4</13>~.
-그것을 3개 정도 구해다 주시와요~."
-56,"TEXT_BANQIQ107_03812_QHOTERLPASOL_100_020","향수 조합에 필요한 건 뮤릴의 향수에서 채집할 수 있는
-'<Sheet(Item,29548,0)/>'<13>FF0F02280BFF054974656DF2736C0103FF0AEB9E8DEB8B88EB8BA4FF0DEC9DB4EB9E8DEB8B88EB8BA4</13>~.
-그것을 3개 정도 구해다 주시와요 ~."
-57,"TEXT_BANQIQ107_03812_QHOTERLPASOL_100_030","향수 조합에 필요한 건 투시 메키타 호수에 서식하는
-'<Sheet(Item,29574,0)/>'<13>FF0F02280BFF054974656DF273860103FF0AEB9E8DEB8B88EB8BA4FF0DEC9DB4EB9E8DEB8B88EB8BA4</13>~.
-작살질로 잡을 수 있다고 해요~."
-58,"TEXT_BANQIQ107_03812_QHOTERLPASOL_000_050","이 향기는…… 재료를 순조롭게 구했나 보군요~.
-자자, 재료를 주시어요~."
-59,"TEXT_BANQIQ107_03812_QHOTERLPASOL_000_060","오오, 야성적인 향기가 한층 더 강하군요~!
-이 정도 물건이면 탐색하러 가는 대원에게 뿌릴 향수를
-쉽게 조합할 수 있겠어요~."
-60,"TEXT_BANQIQ107_03812_QHOTERLPASOL_000_061","이걸 그냥 쓰면 헷갈릴 수 있으니 구분이 쉽도록 가공해야죠…….
-후훗, 조향사의 실력을 발휘할 때가 온 것 같네요~!"
+48,"TEXT_BANQIQ107_03812_QHOTERLPASOL_000_000","爾知道某等奇塔利族的嗅覺很好嗎？<hex:02100103>在伸手不見五指的地方僅憑氣味就能辨別同伴，<hex:02100103>而且連具體位置都能知道是也！"
+49,"TEXT_BANQIQ107_03812_QHOTERLPASOL_000_001","只是，在地下洞窟中，<hex:02100103>很可能有瓦斯等氣味混雜在其中是也。<hex:02100103>所以，某想調配些當作記號的香水。"
+50,"TEXT_BANQIQ107_03812_QHOTERLPASOL_000_010","調配香水所需要的<hex:02280BFF05>Item<hex:F273520103><hex:02100103>可以在繆櫟的鄉愁採取到，<hex:02100103>有3個應該就暫時夠用了是也。"
+51,"TEXT_BANQIQ107_03812_QHOTERLPASOL_000_020","調配香水所需要的<hex:02280BFF05>Item<hex:F2736C0103><hex:02100103>可以在繆櫟的鄉愁採取到，<hex:02100103>有3個應該就暫時夠用了是也。"
+52,"TEXT_BANQIQ107_03812_QHOTERLPASOL_000_030","調配香水所需要的<hex:02280BFF05>Item<hex:F273860103><hex:02100103>就棲息在蛇水湖是也，<hex:02100103>據說得用刺魚才能抓到。"
+53,"TEXT_BANQIQ107_03812_QHOTERLPASOL_000_040","雖然只是小香水，但作用卻非常大，<hex:02100103>這是為了讓探索更加安全的措施，<hex:02100103>還請爾幫忙是也。"
+54,"TEXT_BANQIQ107_03812_SYSTEM_100_040","若訣竅取或繼續推進本任務，<hex:02100103>需完成任務「刺魚的方法」開放刺魚。"
+55,"TEXT_BANQIQ107_03812_QHOTERLPASOL_100_010","調配香水所需要的<hex:02280BFF05>Item<hex:F273520103><hex:02100103>可以在繆櫟的鄉愁採取到，<hex:02100103>有3個應該就暫時夠用了是也。"
+56,"TEXT_BANQIQ107_03812_QHOTERLPASOL_100_020","調配香水所需要的<hex:02280BFF05>Item<hex:F2736C0103><hex:02100103>可以在繆櫟的鄉愁採取到，<hex:02100103>有3個應該就暫時夠用了是也。"
+57,"TEXT_BANQIQ107_03812_QHOTERLPASOL_100_030","調配香水所需要的<hex:02280BFF05>Item<hex:F273860103><hex:02100103>就棲息在蛇水湖是也，<hex:02100103>據說得用刺魚才能抓到。"
+58,"TEXT_BANQIQ107_03812_QHOTERLPASOL_000_050","這香味……看來很順利啊。<hex:02100103>好了，快把素材給某吧。"
+59,"TEXT_BANQIQ107_03812_QHOTERLPASOL_000_060","哦哦，野生的香味更上一層樓！<hex:02100103>有這麼好的素材，就能很輕鬆地調配出<hex:02100103>給探索者們用的香水了是也。"
+60,"TEXT_BANQIQ107_03812_QHOTERLPASOL_000_061","直接使用的話會讓人難以辨別，<hex:02100103>為了方便區分，某就大顯身手加工一下吧……<hex:02100103>哼哼，是某這個香水調配師展現實力的時候了是也！"
 61,"TEXT_BANQIQ107_03812_QHOTERLPASOL_000_002","（★未使用／削除予定★）"

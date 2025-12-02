@@ -1,101 +1,67 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_BANIXA403_01500_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-※ 이 퀘스트의 권장 레벨은 ""제작자 클래스 10, 전투 클래스 47 이상""입니다.
-
-에카틀 실험장의 학구열 넘치는 타젤 메예안은 모험가에게 야비한 의뢰를 하려는 것 같다."
-1,"TEXT_BANIXA403_01500_SEQ_01","※ 이 퀘스트에는 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정<13>FF2A024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA095FF04EAB080FF04EC9DB4</13>
- 적용됩니다.
-
-학구열 넘치는 타젤 메예안이 <Sheet(ItemHQ,　8107,0)/> 제작을 의뢰했다. 먼저 이크살군 벌채장으로 가서 <Sheet(EObj,2004472,0)/><14>FF1002280CFF05454F626AF61E95F80103FF04EBA19CFF07EC9CBCEBA19C</14>부터 재료를 3개 손에 넣자."
-2,"TEXT_BANIXA403_01500_SEQ_02","<Sheet(EventItem,2001393,0)/><13>FF15022811FF0A4576656E744974656DF61E89F10103FF04EBA5BCFF04EC9D84</13> 손에 넣었다. 가을박 마을 '둥둥 뜬 코르크 여관'에 있는 '힐데야드'에게 <Sheet(EventItem,2001393,0)/><13>FF15022811FF0A4576656E744974656DF61E89F10103FF04EBA5BCFF04EC9D84</13> 건네고 제작시설 사용 허가를 받자."
-3,"TEXT_BANIXA403_01500_SEQ_03","제작시설을 사용할 준비가 끝났다. <Sheet(Item,　8068,0)/><14>FF15022811FF054974656DFF08E38080383036380103FF04EBA19CFF07EC9CBCEBA19C</14> <Sheet(ItemHQ,　8107,0)/><13>FF17022813FF074974656D4851FF08E38080383130370103FF04EBA5BCFF04EC9D84</13> 제작하여 에카틀 실험장에 있는 '학구열 넘치는 타젤 메예안'에게 납품하자.
-
-※ 강화 효과 '제작시설: 고급제작'이 끝나거나 <Sheet(Item,　8068,0)/><13>FF15022811FF054974656DFF08E38080383036380103FF04EBA5BCFF04EC9D84</13> 잃어버렸을 때에는 힐데야드에게 말을 걸어주세요. 강화 효과와 재료를 다시 받아서 재도전할 수 있습니다."
-4,"TEXT_BANIXA403_01500_SEQ_04","학구열 넘치는 타젤 메예안에게 <Sheet(ItemHQ,　8107,0)/><13>FF17022813FF074974656D4851FF08E38080383130370103FF04EBA5BCFF04EC9D84</13> 납품했다. 적진에서 자재를 훔치는 등 매우 위험천만한 의뢰였지만 무사히 완수해냈다. 앞으로도 기술 발전의 희생양이 되지 않을 정도로만 타젤의 의뢰에 부응해주자."
-5,"TEXT_BANIXA403_01500_SEQ_05",""
-6,"TEXT_BANIXA403_01500_SEQ_06",""
-7,"TEXT_BANIXA403_01500_SEQ_07",""
-8,"TEXT_BANIXA403_01500_SEQ_08",""
-9,"TEXT_BANIXA403_01500_SEQ_09",""
-10,"TEXT_BANIXA403_01500_SEQ_10",""
-11,"TEXT_BANIXA403_01500_SEQ_11",""
-12,"TEXT_BANIXA403_01500_SEQ_12",""
-13,"TEXT_BANIXA403_01500_SEQ_13",""
-14,"TEXT_BANIXA403_01500_SEQ_14",""
-15,"TEXT_BANIXA403_01500_SEQ_15",""
-16,"TEXT_BANIXA403_01500_SEQ_16",""
-17,"TEXT_BANIXA403_01500_SEQ_17",""
-18,"TEXT_BANIXA403_01500_SEQ_18",""
-19,"TEXT_BANIXA403_01500_SEQ_19",""
-20,"TEXT_BANIXA403_01500_SEQ_20",""
-21,"TEXT_BANIXA403_01500_SEQ_21",""
-22,"TEXT_BANIXA403_01500_SEQ_22",""
-23,"TEXT_BANIXA403_01500_SEQ_23",""
-24,"TEXT_BANIXA403_01500_TODO_00","이크살군 벌채장에 있는 <Sheet(EObj,2004472,0)/>에서
- <Sheet(EventItem,2001393,0)/> 입수"
-25,"TEXT_BANIXA403_01500_TODO_01","가을박 마을에서 힐데야드에게 <Sheet(EventItem,2001393,0)/> 전달"
-26,"TEXT_BANIXA403_01500_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트 레벨 10：<Sheet(ItemHQ,　8107,0)/> 제작<Else/>학구열 넘치는 타젤 메예안에게 <Sheet(ItemHQ,　8107,0)/> 납품</If>"
-27,"TEXT_BANIXA403_01500_TODO_03",""
-28,"TEXT_BANIXA403_01500_TODO_04",""
-29,"TEXT_BANIXA403_01500_TODO_05",""
-30,"TEXT_BANIXA403_01500_TODO_06",""
-31,"TEXT_BANIXA403_01500_TODO_07",""
-32,"TEXT_BANIXA403_01500_TODO_08",""
-33,"TEXT_BANIXA403_01500_TODO_09",""
-34,"TEXT_BANIXA403_01500_TODO_10",""
-35,"TEXT_BANIXA403_01500_TODO_11",""
-36,"TEXT_BANIXA403_01500_TODO_12",""
-37,"TEXT_BANIXA403_01500_TODO_13",""
-38,"TEXT_BANIXA403_01500_TODO_14",""
-39,"TEXT_BANIXA403_01500_TODO_15",""
-40,"TEXT_BANIXA403_01500_TODO_16",""
-41,"TEXT_BANIXA403_01500_TODO_17",""
-42,"TEXT_BANIXA403_01500_TODO_18",""
-43,"TEXT_BANIXA403_01500_TODO_19",""
-44,"TEXT_BANIXA403_01500_TODO_20",""
-45,"TEXT_BANIXA403_01500_TODO_21",""
-46,"TEXT_BANIXA403_01500_TODO_22",""
-47,"TEXT_BANIXA403_01500_TODO_23",""
-48,"TEXT_BANIXA403_01500_TAZELMEYEAN_000_000","끼히히히히힛!
-이 몸의 두뇌가 또다시 획기적인 장치를 고안했노라 키잇!
-이제 고품질 <Sheet(ItemHQ,　8107,0)/>만 있으면 되는데……!"
-49,"TEXT_BANIXA403_01500_TAZELMEYEAN_000_010","그래, 고정밀 기어만 있으면 장치를 시험해볼 수 있어 키잇!
-그러니까 당장 가을박 마을에 있는 시설에서 만들어와 키잇!
-힐데 어쩌고 하는 여자가 운영하는 거기 알지 키잇!?"
-50,"TEXT_BANIXA403_01500_TAZELMEYEAN_000_020","그래, 고순도 윤활유만 있으면 장치를 시험해볼 수 있어 키잇!
-그러니까 당장 가을박 마을에 있는 시설에서 만들어와 키잇!
-힐데 어쩌고 하는 여자가 운영하는 거기 알지 키잇!?"
-51,"TEXT_BANIXA403_01500_TAZELMEYEAN_000_030","그래, 접합부 부품만 있으면 장치를 시험해볼 수 있어 키잇!
-그러니까 당장 가을박 마을에 있는 시설에서 만들어와 키잇!
-힐데 어쩌고 하는 여자가 운영하는 거기 알지 키잇!?"
-52,"TEXT_BANIXA403_01500_TAZELMEYEAN_000_040","뭐, 재료? 그야 '이크살군 벌채장' 놈들한테 많이 있잖아?
-<Sheet(EObj,2004472,0)/><13>FF1002280CFF05454F626AF61E95F80103FF04EBA5BCFF04EC9D84</13> 열어서 3개만 슬쩍해와라 키잇!"
-53,"TEXT_BANIXA403_01500_TAZELMEYEAN_000_041","방해한다 싶으면 적당히 밟아버려 키잇!
-단 네가 죽어도 난 책임 안 진다 키잇!
-기술 발전에는 항상 희생이 따르는 법이니까 키잇!"
-54,"TEXT_BANIXA403_01500_TAZELMEYEAN_000_050","고품질 <Sheet(ItemHQ,　8107,0)/><13>FF17022813FF074974656D4851FF08E38080383130370103FF04EBA5BCFF04EC9D84</13> 부탁한다 키잇!
-재료는 '이크살군 벌채장'에서 슬쩍해와라 키잇!
-방해한다 싶으면 적당히 밟아버려 키잇!"
-55,"TEXT_BANIXA403_01500_HILDEYERD_000_060","안~녕~하~세~요~!
-우리 <If(PlayerParameter(4))>아가씨<Else/>도련님</If> 친구, 또 만났네요~!
-여길 이용하고 싶으면~ 가져온 재료를 이 <If(PlayerParameter(4))>언니<Else/>누나</If>한테 맡겨주세요!"
-56,"TEXT_BANIXA403_01500_HILDEYERD_000_061","어머나, 많이도 가져왔네요?
-재료는 제작하는 데 필요한 만큼 내드릴 테니
-행여나 실패하면 언제든지 다시 재료를 받아가세요!"
-57,"TEXT_BANIXA403_01500_HILDEYERD_000_100","재료는 제작하는 데 필요한 만큼 내드릴 테니
-행여나 실패하면 언제든지 다시 재료를 받아가세요!"
-58,"TEXT_BANIXA403_01500_HILDEYERD_100_100","일을 다 했으면 이제 납품하러 가야 하지요~!
-혹시 납품하러 가는 길에 만든 걸 잃어버린 경우에는
-<If(PlayerParameter(4))>언니<Else/>누나</If>한테 와서 다시 만들면 돼요!"
-59,"TEXT_BANIXA403_01500_TAZELMEYEAN_000_130","어이쿠, 안 죽고 살아있었네 키잇!
-벌채장 보냈을 땐 이제 저승에서나 만나겠구나 싶었는데 키잇!
-그래서 <Sheet(ItemHQ,　8107,0)/><13>FF17022813FF074974656D4851FF08E38080383130370103FF04EB8A94FF04EC9D80</13> 제대로 만들어 온 거냐 키잇!?"
-60,"TEXT_BANIXA403_01500_TAZELMEYEAN_000_131","오 그래, 주문대로 잘 만들었군 키잇!
-드디어 이 몸이 고안한 획기적 장치를 시험할 때가 왔다 키잇!
-끼히히히히힛!"
-61,"TEXT_BANIXA403_01500_POPMESSAGE_000_200","제작할 준비가 되었습니다."
-62,"TEXT_BANIXA403_01500_SYSTEM_200_200","퀘스트 수행 중에 일반 품질 아이템이 제작되었습니다.
-HQ 아이템이 아니면 퀘스트를 완료할 수 없으며 판매 불가이므로
-소지품 공간이 부족하다면 버리셔도 됩니다."
+0,"TEXT_BANIXA403_01500_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整<hex:0249020103><hex:0248020103><hex:02100103>※本任務推薦等級為：<hex:02100103>　製作職業10級以上、戰鬥職業47級以上。<hex:02100103><hex:02100103>長風實驗場的學者塔澤爾·梅耶安有個離經叛道的委託要交給冒險者。"
+1,"TEXT_BANIXA403_01500_SEQ_01","※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整任務。<hex:02100103><hex:02100103>學者塔澤爾·梅耶安委託冒險者製作<hex:022813FF07>ItemHQ<hex:FF08>　8107<hex:0103>。首先去鳥人軍採伐所，從<hex:02280CFF05>EObj<hex:F61E95F80103>裡得到3份材料。"
+2,"TEXT_BANIXA403_01500_SEQ_02","獲得了<hex:022811FF0A>EventItem<hex:F61E89F10103>。將<hex:022811FF0A>EventItem<hex:F61E89F10103>交給秋瓜浮村浮栓亭的休德耶德，獲取製作設施的使用許可。"
+3,"TEXT_BANIXA403_01500_SEQ_03","可以使用製作設施了。用<hex:022811FF05>Item<hex:FF08>　8068<hex:0103>製作<hex:022813FF07>ItemHQ<hex:FF08>　8107<hex:0103>，並將其交給長風實驗場的學者塔澤爾·梅耶安。<hex:02100103><hex:02100103>※如果「製作設施：複雜工作」的狀態效果消失了，或者<hex:022811FF05>Item<hex:FF08>　8068<hex:0103>不足的話，就和休德耶德對話，即可重獲狀態效果和材料，並再次進行挑戰。"
+4,"TEXT_BANIXA403_01500_SEQ_04","將<hex:022813FF07>ItemHQ<hex:FF08>　8107<hex:0103>交給了學者塔澤爾·梅耶安。總算是順利完成了這個包含去敵陣搶奪材料等危險要素的任務。今後為他提供幫助的同時，也要小心不要變成技術發展過程中的犧牲品。"
+5,"TEXT_BANIXA403_01500_SEQ_05","空"
+6,"TEXT_BANIXA403_01500_SEQ_06","空"
+7,"TEXT_BANIXA403_01500_SEQ_07","空"
+8,"TEXT_BANIXA403_01500_SEQ_08","空"
+9,"TEXT_BANIXA403_01500_SEQ_09","空"
+10,"TEXT_BANIXA403_01500_SEQ_10","空"
+11,"TEXT_BANIXA403_01500_SEQ_11","空"
+12,"TEXT_BANIXA403_01500_SEQ_12","空"
+13,"TEXT_BANIXA403_01500_SEQ_13","空"
+14,"TEXT_BANIXA403_01500_SEQ_14","空"
+15,"TEXT_BANIXA403_01500_SEQ_15","空"
+16,"TEXT_BANIXA403_01500_SEQ_16","空"
+17,"TEXT_BANIXA403_01500_SEQ_17","空"
+18,"TEXT_BANIXA403_01500_SEQ_18","空"
+19,"TEXT_BANIXA403_01500_SEQ_19","空"
+20,"TEXT_BANIXA403_01500_SEQ_20","空"
+21,"TEXT_BANIXA403_01500_SEQ_21","空"
+22,"TEXT_BANIXA403_01500_SEQ_22","空"
+23,"TEXT_BANIXA403_01500_SEQ_23","空"
+24,"TEXT_BANIXA403_01500_TODO_00","從鳥人軍採伐所的<hex:02280CFF05>EObj<hex:F61E95F80103>中獲取<hex:022811FF0A>EventItem<hex:F61E89F10103>"
+25,"TEXT_BANIXA403_01500_TODO_01","將<hex:022811FF0A>EventItem<hex:F61E89F10103>交給秋瓜浮村的休德耶德"
+26,"TEXT_BANIXA403_01500_TODO_02","<hex:020886E3E802E803FF44>製作筆記 友好部族任務10級：製作<hex:022813FF07>ItemHQ<hex:FF08>　8107<hex:0103><hex:FF3A>將<hex:022813FF07>ItemHQ<hex:FF08>　8107<hex:0103>交給學者塔澤爾·梅耶安<hex:03>"
+27,"TEXT_BANIXA403_01500_TODO_03","空"
+28,"TEXT_BANIXA403_01500_TODO_04","空"
+29,"TEXT_BANIXA403_01500_TODO_05","空"
+30,"TEXT_BANIXA403_01500_TODO_06","空"
+31,"TEXT_BANIXA403_01500_TODO_07","空"
+32,"TEXT_BANIXA403_01500_TODO_08","空"
+33,"TEXT_BANIXA403_01500_TODO_09","空"
+34,"TEXT_BANIXA403_01500_TODO_10","空"
+35,"TEXT_BANIXA403_01500_TODO_11","空"
+36,"TEXT_BANIXA403_01500_TODO_12","空"
+37,"TEXT_BANIXA403_01500_TODO_13","空"
+38,"TEXT_BANIXA403_01500_TODO_14","空"
+39,"TEXT_BANIXA403_01500_TODO_15","空"
+40,"TEXT_BANIXA403_01500_TODO_16","空"
+41,"TEXT_BANIXA403_01500_TODO_17","空"
+42,"TEXT_BANIXA403_01500_TODO_18","空"
+43,"TEXT_BANIXA403_01500_TODO_19","空"
+44,"TEXT_BANIXA403_01500_TODO_20","空"
+45,"TEXT_BANIXA403_01500_TODO_21","空"
+46,"TEXT_BANIXA403_01500_TODO_22","空"
+47,"TEXT_BANIXA403_01500_TODO_23","空"
+48,"TEXT_BANIXA403_01500_TAZELMEYEAN_000_000","天才的老子又想出了劃時代的新式機關！<hex:02100103>接下來只差<hex:022813FF07>ItemHQ<hex:FF08>　8107<hex:0103>了！"
+49,"TEXT_BANIXA403_01500_TAZELMEYEAN_000_010","沒錯，只要再有高精度齒輪的話，就能試製新式機關了！<hex:02100103>你去秋瓜浮村的製作設施做點過來吧！<hex:02100103>就是那個叫休德什麼什麼的女人管理的地方！"
+50,"TEXT_BANIXA403_01500_TAZELMEYEAN_000_020","沒錯，只要再有高純度潤滑油的話，就能試製新式機關了！<hex:02100103>你去秋瓜浮村的製作設施做點過來吧！<hex:02100103>就是那個叫休德什麼什麼的女人管理的地方！"
+51,"TEXT_BANIXA403_01500_TAZELMEYEAN_000_030","沒錯，只要再有接合部位的組件，就能試製新式機關了！<hex:02100103>你去秋瓜浮村的製作設施做點過來吧！<hex:02100103>就是那個叫休德什麼什麼的女人管理的地方！"
+52,"TEXT_BANIXA403_01500_TAZELMEYEAN_000_040","材料的話鳥人軍採伐所的那群人貯備了很多！<hex:02100103>你去打開<hex:02280CFF05>EObj<hex:F61E95F80103>偷3個過來！"
+53,"TEXT_BANIXA403_01500_TAZELMEYEAN_000_041","誰敢礙事你就抽誰！<hex:02100103>但死了可別怪老子不給你收屍！<hex:02100103>技術的發展過程中犧牲是不可或缺的！"
+54,"TEXT_BANIXA403_01500_TAZELMEYEAN_000_050","<hex:022813FF07>ItemHQ<hex:FF08>　8107<hex:0103>就交給你了！<hex:02100103>材料去鳥人軍採伐所偷就行！<hex:02100103>誰敢礙事你就大耳刮子招呼他！"
+55,"TEXT_BANIXA403_01500_HILDEYERD_000_060","你好呀！<hex:02100103><hex:020819E905FF0A>小妹妹<hex:FF0A>小弟弟<hex:03>，你又來找姐姐玩了！<hex:02100103>想借用這裡的話，要把你拿來的材料都先交給姐姐哦！"
+56,"TEXT_BANIXA403_01500_HILDEYERD_000_061","嗯嗯，拿來了這麼多，真是厲害！<hex:02100103>給，這是你需要的份量。萬一失敗了的話，<hex:02100103>記得不要一個人哭鼻子，可以再來找姐姐要哦！"
+57,"TEXT_BANIXA403_01500_HILDEYERD_000_100","失敗了的話也不要哭，站著……不對，<hex:02100103>是再來找姐姐要就行了喲！"
+58,"TEXT_BANIXA403_01500_HILDEYERD_100_100","幹完活的好孩子要記得去交貨才行喲！<hex:02100103>如果不小心在路上把東西弄丟了，可以來姐姐這裡重新做哦！"
+59,"TEXT_BANIXA403_01500_TAZELMEYEAN_000_130","哦哦，你這傢伙還活著哪！<hex:02100103>老子還以為之前送你去採伐所會是見你的最後一面了！<hex:02100103>那麼，<hex:022813FF07>ItemHQ<hex:FF08>　8107<hex:0103>你做好了沒！"
+60,"TEXT_BANIXA403_01500_TAZELMEYEAN_000_131","哦哦，完全符合要求！<hex:02100103>終於能試製老子設計的劃時代新機關了！<hex:02100103>噶哈哈哈！"
+61,"TEXT_BANIXA403_01500_POPMESSAGE_000_200","製作設施已準備就緒。"
+62,"TEXT_BANIXA403_01500_SYSTEM_200_200","背包中留有在本次任務中製作出的普通品質道具。<hex:02100103>這種道具無法使用也無法出售給商店，盡早扔掉吧。"

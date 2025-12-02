@@ -1,7 +1,6 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_DUNGEONCRYSTALTOWER_00000_XANDE_000_000","하찮은 인간 주제에 여기까지 온 건 칭찬하마.
-하지만 늦었다…… 이미 어둠이 찾아오고 있다."
-1,"TEXT_DUNGEONCRYSTALTOWER_00000_XANDE_000_010","세계를 완전한 어둠으로 뒤덮어주마…….
-하하하…… 죽어라!!"
+0,"TEXT_DUNGEONCRYSTALTOWER_00000_XANDE_000_000","沒想到區區人類竟然能夠闖進這裡<hex:02100103>可惜已經太晚了……黑暗已經降臨到眼前了"
+1,"TEXT_DUNGEONCRYSTALTOWER_00000_XANDE_000_010","我要讓世界被完全的黑暗覆蓋……<hex:02100103>哈哈哈……去死吧！"

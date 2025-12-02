@@ -1,10 +1,8 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_BANKJN605_03001_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-※ 이 퀘스트는 수락 시점의 직업으로만 진행할 수 있습니다.
-
-푸른 물구슬에 있는 즈킨은 당황하고 있는 듯하다. "
+0,"TEXT_BANKJN605_03001_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整（限定職業）<hex:0249020103><hex:0248020103><hex:02100103>※本任務需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>碧玉水的頭巾看起來很慌張。"
 1,"TEXT_BANKJN605_03001_SEQ_01",""
 2,"TEXT_BANKJN605_03001_SEQ_02",""
 3,"TEXT_BANKJN605_03001_SEQ_03",""
@@ -28,8 +26,8 @@ int32,str,str
 21,"TEXT_BANKJN605_03001_SEQ_21",""
 22,"TEXT_BANKJN605_03001_SEQ_22",""
 23,"TEXT_BANKJN605_03001_SEQ_23",""
-24,"TEXT_BANKJN605_03001_TODO_00","살귀도에서 혈기 넘치는 푸른등 구조"
-25,"TEXT_BANKJN605_03001_TODO_01","즈킨에게 보고 "
+24,"TEXT_BANKJN605_03001_TODO_00","救助絕鬼島的熱血的碧甲族"
+25,"TEXT_BANKJN605_03001_TODO_01","向頭巾報告"
 26,"TEXT_BANKJN605_03001_TODO_02",""
 27,"TEXT_BANKJN605_03001_TODO_03",""
 28,"TEXT_BANKJN605_03001_TODO_04",""
@@ -52,21 +50,12 @@ int32,str,str
 45,"TEXT_BANKJN605_03001_TODO_21",""
 46,"TEXT_BANKJN605_03001_TODO_22",""
 47,"TEXT_BANKJN605_03001_TODO_23",""
-48,"TEXT_BANKJN605_03001_ZUKIN_000_000","<Highlight>ObjectParameter(1)</Highlight> <If(PlayerParameter(4))>누님<Else/>형님</If>, 힘 좀 빌려줘어!
-붉은등 녀석들이 우리 상품을 빼앗아갔다아!"
-49,"TEXT_BANKJN605_03001_ZUKIN_000_001","화난 동료가 상품을 되찾으려고
-살귀도에 혼자 쳐들어갔는데, 아직 돌아오지 않는다아.
-섬에 잠입해서 '혈기 넘치는 푸른등'을 구해줬으면 한다아!"
-50,"TEXT_BANKJN605_03001_BALLOON_000_010","수상한 놈이다아!"
-51,"TEXT_BANKJN605_03001_BALLOON_000_011","처치해주겠다아!"
-52,"TEXT_BANKJN605_03001_BALLOON_000_012","살아서는 못 돌아간다아!"
-53,"TEXT_BANKJN605_03001_HOTTURTLE03001_000_015","'푸른등 보물찾기단' 분이시군요오!?
-구해주셔서 감사합니다아!"
-54,"TEXT_BANKJN605_03001_HOTTURTLE03001_000_016","덕분에 빼앗긴 상품을 되찾을 수 있었습니다아!
-적들이 오기 전에 각자 고향으로 돌아갑시다아!"
-55,"TEXT_BANKJN605_03001_ZUKIN_000_020","<Highlight>ObjectParameter(1)</Highlight> <If(PlayerParameter(4))>누님<Else/>형님</If>, 무사해서 다행이다아!
-구해준 동료도 무사히 돌아왔다아!
-되찾은 물건은 예정대로 코카지야로 보낼 수 있을 것 같다아!"
-56,"TEXT_BANKJN605_03001_ZUKIN_000_021","<Highlight>ObjectParameter(1)</Highlight> <If(PlayerParameter(4))>누님<Else/>형님</If> 덕분에
-소중한 동료의 목숨뿐 아니라 인연도 지킬 수 있었다아!
-감사하기가 이를 데 없다아!"
+48,"TEXT_BANKJN605_03001_ZUKIN_000_000","<hex:022903EB0203><hex:020813E905FF07>大姐<hex:FF07>大哥<hex:03>，幫幫我吧——<hex:02100103>紅甲族的傢伙奪走了我們的商品！"
+49,"TEXT_BANKJN605_03001_ZUKIN_000_001","憤怒的同伴為了奪回商品，<hex:02100103>單身闖入了絕鬼島，現在還沒有回來——<hex:02100103>請你潛入絕鬼島，救出熱血的碧甲族——"
+50,"TEXT_BANKJN605_03001_BALLOON_000_010","有入侵者！"
+51,"TEXT_BANKJN605_03001_BALLOON_000_011","受死吧！"
+52,"TEXT_BANKJN605_03001_BALLOON_000_012","休想活著回去！"
+53,"TEXT_BANKJN605_03001_HOTTURTLE03001_000_015","你是碧玉尋寶眾的人嗎？！<hex:02100103>十分感謝你救了在下——"
+54,"TEXT_BANKJN605_03001_HOTTURTLE03001_000_016","托你的福，在下成功取回了被奪走的商品——<hex:02100103>趁追兵還沒出現，我們分頭行動回村子吧——"
+55,"TEXT_BANKJN605_03001_ZUKIN_000_020","<hex:020813E905FF07>大姐<hex:FF07>大哥<hex:03>，你沒事就好——<hex:02100103>被你救下的碧甲族也平安無事地回來了——<hex:02100103>取回的商品，也能夠按照預定送到小鍛冶屋了吧——"
+56,"TEXT_BANKJN605_03001_ZUKIN_000_021","多虧了<hex:020813E905FF07>大姐<hex:FF07>大哥<hex:03>，<hex:02100103>不但保護了我重要同伴的生命，還守住了緣分！<hex:02100103>太感謝了，太感謝了——"

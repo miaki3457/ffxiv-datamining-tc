@@ -1,439 +1,188 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_CTSSFSCHARACTER7_00710_GREETING_CHARLEMEND_000_000","<Highlight>ObjectParameter(1)</Highlight> 공, 와줘서 감사하네.
-침구와 식기 같은 기념 병원의 일용품이 필요한데
-준비해줄 수 있겠나?"
-1,"TEXT_CTSSFSCHARACTER7_00710_GREETING_CHARLEMEND_000_001","<Highlight>ObjectParameter(1)</Highlight> 공!
-이번에는 농반과 붕대 등, 기념 병원의 의료품이 필요하네.
-부탁할 수 있겠나?"
-2,"TEXT_CTSSFSCHARACTER7_00710_GREETING_CHARLEMEND_000_002","<Highlight>ObjectParameter(1)</Highlight> 공!
-지팡이나 이동식 의자 등, 기념 병원의 재활 훈련용품이 필요하네.
-도와줄 수 있겠나?"
-3,"TEXT_CTSSFSCHARACTER7_00710_GREETING_CHARLEMEND_000_003","잘 왔네, <Highlight>ObjectParameter(1)</Highlight> 공.
-환자들을 즐겁게 하기 위해 다과회를 준비 중인데 말이지.
-반드시 귀공이 준비해준 다과회 용품을 쓰고 싶다네."
-4,"TEXT_CTSSFSCHARACTER7_00710_GREETING_CHARLEMEND_000_004","<Highlight>ObjectParameter(1)</Highlight> 공.
-종종 이쪽에 얼굴을 비쳐줘서 고맙네."
-5,"TEXT_CTSSFSCHARACTER7_00710_TOPMENU_000_000","무엇을 하시겠습니까?"
-6,"TEXT_CTSSFSCHARACTER7_00710_TOPMENU_000_001","의뢰물 건네주기(<Sheet(ENpcResident,IntegerParameter(1),0)/>: 남은 횟수 <Value>IntegerParameter(2)</Value>회)"
-7,"TEXT_CTSSFSCHARACTER7_00710_TOPMENU_000_002","뒤랑데르 백작에게 장비 투영하기"
-8,"TEXT_CTSSFSCHARACTER7_00710_TOPMENU_000_003","'단골 거래'에 대해 물어보기"
-9,"TEXT_CTSSFSCHARACTER7_00710_TOPMENU_000_004","취소"
-10,"TEXT_CTSSFSCHARACTER7_00710_GUIDEMENU_000_000","무엇을 물어보시겠습니까?"
-11,"TEXT_CTSSFSCHARACTER7_00710_GUIDEMENU_001_000","뒤랑데르 백작의 신뢰도에 대하여"
-12,"TEXT_CTSSFSCHARACTER7_00710_GUIDEMENU_007_000","납품 조건과 보상에 대해서"
-13,"TEXT_CTSSFSCHARACTER7_00710_GUIDEMENU_002_000","의뢰물 입수 방법"
-14,"TEXT_CTSSFSCHARACTER7_00710_GUIDEMENU_003_000","제작 재료 입수 방법"
-15,"TEXT_CTSSFSCHARACTER7_00710_GUIDEMENU_004_000","제작 소장품의 가치를 올리는 방법"
-16,"TEXT_CTSSFSCHARACTER7_00710_GUIDEMENU_005_000","채집 소장품의 가치를 올리는 방법(광부 및 원예가)"
-17,"TEXT_CTSSFSCHARACTER7_00710_GUIDEMENU_006_000","채집 소장품의 가치를 올리는 방법(어부)"
-18,"TEXT_CTSSFSCHARACTER7_00710_GUIDEMENU_CANCEL","취소"
-19,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_001_000","의뢰물을 납품하면
-<Sheet(ENpcResident,IntegerParameter(1),0)/>의 당신에 대한 신뢰도가
-조금씩 상승합니다."
-20,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_001_001","현재 신뢰도는 의뢰물 목록 상단에 표시되며
-최대치까지 차면 '신뢰 단계'가 상승합니다.
-신뢰 단계는 하트 수로 표시됩니다."
-21,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_001_002","신뢰 단계가 상승할 때마다
-<Sheet(ENpcResident,IntegerParameter(1),0)/>에 대한
-새로운 이야기를 볼 수 있습니다."
-22,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_007_000","납품은 아이템의 종류에 맞는 클래스가 된 상태에서
-해당 클래스 레벨이 70 이상일 때 가능합니다."
-23,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_007_001","납품 시 클래스 레벨이 99 이하인 경우는
-레벨 100이 되면 받을 수 있는 화폐 보상 대신
-경험치 보상을 얻을 수 있습니다."
-24,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_002_000","의뢰물 목록에 있는 아이템 획득 방법을 알아보려면
-세부 메뉴 또는 아이템 툴팁을 활용하십시오."
-25,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_002_001","제작 소장품은 의뢰 목록의 세부 메뉴에서
-'제작법 검색'을 선택하면
-제작수첩에서 제작법이 표시됩니다."
-26,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_002_002","광부 및 원예가의 채집 소장품은 의뢰 목록에서
-세부 메뉴 '채집 방법 검색'을 선택하면
-채집수첩에서 채집 장소가 표시됩니다."
-27,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_002_003","'어부'의 채집 소장품은 목록에서 세부 메뉴를 열어
-'획득 장소 표시'를 선택하면
-해당 물고기를 잡을 수 있는 낚시터 또는 어장이 표시됩니다."
-28,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_102_003","또한, 낚시를 할 때는
-미끼로 '<Sheet(Item,28634,0)/>' 사용을 추천합니다."
-29,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_002_004","<Sheet(ENpcResident,IntegerParameter(1),0)/>에게 납품할 수 있는 아이템은
-'제작자'와 '광부 및 원예가', '어부' 세 종류로 나뉘며,
-모두 '소장품'이어야 합니다."
-30,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_003_000","의뢰물 제작에 필요한 재료는
-이곳 창천 거리의 '루슈망드 기념 병원' 앞에 있는
-'다이애나'에게서 구입할 수 있습니다."
-31,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_004_000","제작 물품의 '소장 가치'는
-제작 시에 '품질'을 높이면 상승합니다.
-최대한 품질을 높여서 완성시키는 것이 중요합니다."
-32,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_004_002","품질이 높아지는 기술에 성공하면
-자신에게 '정신 집중'이 부여됩니다."
-33,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_004_003","（★未使用／削除予定★）"
-34,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_004_004","최대한 수많은 정신 집중을 축적해 놓고
-마지막에 '비레고의 축복' 등으로
-단숨에 품질을 올려 완성해 보세요."
-35,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_004_005","그 외에도 품질을 높이는 기술이 여럿 존재합니다.
-익숙해지면 다양하게 시도하여 자기만의 제작법을 찾아봅시다."
-36,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_005_000","소장품 채집 아이템을 선택하면 특수 창이 표시됩니다.
-소장품 채집용 기술을 사용해
-'소장 가치'를 올린 다음 아이템을 채집합니다."
-37,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_005_001","'광부'와 '원예가'로 소장 가치를 올리려면
-기술 '집중 검사'를 사용한 다음 '순화'를 사용합니다.
-이를 반복하여 소장품을 채집해보세요."
-38,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_005_002","소장 가치를 더 높이고 싶은 경우에는
-장비를 갖추고 '획득력'과 '기술력'을 높여보세요.
-소장품 채집용 기술의 효과가 높아집니다."
-39,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_005_003","'GP'가 부족하다면 장비를 갖추고
-'최대 GP'를 높여보세요."
-40,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_006_000","수산물은 낚은 '물고기의 크기'가
-그대로 '소장 가치'가 됩니다."
-41,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_006_001","소장품 목록에 있는 물고기가 낚이는 낚시터로 가서
-기술 '소장품 채집'을 사용하고 낚시를 시작하세요."
-42,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_006_002","기술 '인내 2'를 사용한 뒤
-적절한 낚아채기 기술을 사용하면
-큰 물고기를 낚을 수 있습니다."
-43,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_006_003","크기가 생각만큼 크지 않을 때에는 '기술력'이 올라가는
-장비를 갖추어 봅시다."
-44,"TEXT_CTSSFSCHARACTER7_00710_TUTORIAL_000_000","<Sheet(ENpcResident,IntegerParameter(1),0)/>에게 납품할 수 있는 아이템은
-'제작자'와 '광부 및 원예가', '어부' 세 종류로 나뉘며,
-모두 '소장품'이어야 합니다."
-45,"TEXT_CTSSFSCHARACTER7_00710_TUTORIAL_000_008","납품은 아이템의 종류에 맞는 클래스가 된 상태에서
-해당 클래스 레벨이 70 이상일 때 가능합니다."
-46,"TEXT_CTSSFSCHARACTER7_00710_TUTORIAL_000_009","납품 시 클래스 레벨이 99 이하인 경우는
-레벨 100이 되면 받을 수 있는 화폐 보상 대신
-경험치 보상을 얻을 수 있습니다."
-47,"TEXT_CTSSFSCHARACTER7_00710_TUTORIAL_000_001","각 소장품의 입수 방법은
-다음과 같이 확인하실 수 있습니다."
-48,"TEXT_CTSSFSCHARACTER7_00710_TUTORIAL_000_002","제작 소장품은 의뢰 목록의 세부 메뉴에서
-'제작법 검색'을 선택하면
-제작수첩에서 제작법이 표시됩니다."
-49,"TEXT_CTSSFSCHARACTER7_00710_TUTORIAL_000_003","의뢰물 제작에 필요한 재료는
-이곳 창천 거리의 '루슈망드 기념 병원' 앞에 있는
-'다이애나'에게서 구입할 수 있습니다."
-50,"TEXT_CTSSFSCHARACTER7_00710_TUTORIAL_000_004","광부 및 원예가의 채집 소장품은 의뢰 목록에서
-세부 메뉴 '채집 방법 검색'을 선택하면
-채집수첩에서 채집 장소가 표시됩니다."
-51,"TEXT_CTSSFSCHARACTER7_00710_TUTORIAL_000_005","'어부'의 채집 소장품은 목록에서 세부 메뉴를 열어
-'획득 장소 표시'를 선택하면
-해당 물고기를 잡을 수 있는 낚시터 또는 어장이 표시됩니다."
-52,"TEXT_CTSSFSCHARACTER7_00710_TUTORIAL_100_005","또한, 낚시를 할 때는
-미끼로 '<Sheet(Item,28634,0)/>' 사용을 추천합니다."
-53,"TEXT_CTSSFSCHARACTER7_00710_TUTORIAL_000_006","'소장 가치'가 높을수록
-납품 시에 더 많은 보상을 받을 수 있습니다."
-54,"TEXT_CTSSFSCHARACTER7_00710_TUTORIAL_000_007","소장 가치를 올리는 방법이 궁금하면
-<Sheet(ENpcResident,IntegerParameter(1),0)/>에게 말을 걸어
-'단골 거래에 대해 물어보기'를 선택하세요."
-55,"TEXT_CTSSFSCHARACTER7_00710_TUTORIAL_001_000","의뢰물을 납품함으로써
-<Sheet(ENpcResident,IntegerParameter(1),0)/><13>FF16022812FF0D454E70635265736964656E74E8020103FF04EAB080FF04EC9DB4</13> 당신을 신뢰하게 되었습니다."
-56,"TEXT_CTSSFSCHARACTER7_00710_TUTORIAL_001_001","납품 시마다 쌓이는 '신뢰도'가 최대치에 도달하면
-'신뢰 단계'가 상승하며, <Sheet(ENpcResident,IntegerParameter(1),0)/>의
-새로운 이야기를 볼 수 있습니다."
-57,"TEXT_CTSSFSCHARACTER7_00710_TUTORIAL_001_002","납품은 일주일에 최대 6번까지 가능합니다.
-적극적으로 소장품을 납품하여 신뢰도를 올리세요!"
-58,"TEXT_CTSSFSCHARACTER7_00710_WEEKLYLIMIT_000_000","이번 주에는 더 납품할 수 없습니다.
-현실 시간으로 매주 <ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시부터
-다시 납품할 수 있습니다."
-59,"TEXT_CTSSFSCHARACTER7_00710_KNOWLEDGE_CHARLEMEND_001_000","감사하네, <Highlight>ObjectParameter(1)</Highlight> 공.
-입원환자의 일용품은 늘 청결을 유지해야 한다고 배웠네.
-귀공이 준비해준 것이라면 문제는 없겠지만……."
-60,"TEXT_CTSSFSCHARACTER7_00710_KNOWLEDGE_CHARLEMEND_001_001","금속제 농반은 물론 부드러운 붕대도 그렇고
-치료에 이용되는 의료품은 품질이 좋아야 한다고 들었네.
-하지만 귀공이 준비해준 것이니……"
-61,"TEXT_CTSSFSCHARACTER7_00710_KNOWLEDGE_CHARLEMEND_001_002","재활 훈련에 사용되는 물품들은 안전성을 요하지.
-귀공이 준비해준 물품도 만약을 위해 확인하게 해주게."
-62,"TEXT_CTSSFSCHARACTER7_00710_KNOWLEDGE_CHARLEMEND_001_003","한랭화가 진행 중인 이 지역에서는 귀족, 평민 가릴 것 없이
-뜨거운 차와 단 과자를 함께 즐기는 다과회를 좋아한다네.
-환자들을 즐겁게 해줄 물품들을 준비하고 싶군."
-63,"TEXT_CTSSFSCHARACTER7_00710_KNOWLEDGE_CHARLEMEND_001_004","환자들이 심신 모두 건강해져야 완치라고 할 수 있겠지.
-다양한 문화와 예술, 마음이 편해지는 물건 등을 접하면서
-몸도 마음도 치유가 되었으면 한다네."
-64,"TEXT_CTSSFSCHARACTER7_00710_KNOWLEDGE_CHARLEMEND_002_000","감사하네, <Highlight>ObjectParameter(1)</Highlight> 공.
-이게 입원 환자를 청결하게 해줄 비누의 원료라고 배웠네.
-귀공이 준비해준 것이니 분명 질 좋은 비누가 되겠지."
-65,"TEXT_CTSSFSCHARACTER7_00710_KNOWLEDGE_CHARLEMEND_002_001","금속제 농반은 물론 부드러운 붕대도 그렇고
-치료에 이용되는 의료품은 품질이 좋아야 한다고 들었네.
-하지만 귀공이 준비해준 것이니……"
-66,"TEXT_CTSSFSCHARACTER7_00710_KNOWLEDGE_CHARLEMEND_002_002","재활 훈련에 사용되는 물품들은 안정성을 요하지.
-단단함과 부드러움을 동시에 갖고 있는 소재여야
-환자들이 다치지 않아……"
-67,"TEXT_CTSSFSCHARACTER7_00710_KNOWLEDGE_CHARLEMEND_002_003","한랭화가 진행 중인 이 지역에서는 귀족, 평민 가릴 것 없이
-뜨거운 차와 단 과자를 함께 즐기는 다과회를 좋아한다네.
-귀공이 가져온 재료로 달콤한 시럽을 만들고 싶네만……"
-68,"TEXT_CTSSFSCHARACTER7_00710_KNOWLEDGE_CHARLEMEND_002_004","그림을 그리는 건 즐겁기도 하지만 손가락을 움직이는 훈련도 되고,
-마음의 치유에도 좋은 효과가 있다고 들었네.
-귀공의 재료로 물감을 만들 생각이네."
-69,"TEXT_CTSSFSCHARACTER7_00710_KNOWLEDGE_CHARLEMEND_003_000","감사하네, <Highlight>ObjectParameter(1)</Highlight> 공.
-이 조개 껍질을 부수면 비누의 원료가 된다고 들었네.
-귀공이 준비해준 것이니 분명 질 좋은 비누가 되겠지."
-70,"TEXT_CTSSFSCHARACTER7_00710_KNOWLEDGE_CHARLEMEND_003_001","이 해초는 살균효과가 있다고 하네.
-추출하려면 나름 품질이 좋은 것이 필요하다고 들었네만,
-귀공이 준비해준 것이니……"
-71,"TEXT_CTSSFSCHARACTER7_00710_KNOWLEDGE_CHARLEMEND_003_002","재활 훈련은 때로 고통이 따른다고 하더군.
-하지만 이 개구리가 갖고 있는 독을 가공한 진통제가 있다면……
-귀공이 가져온 것은 크게 도움이 될 것 같네."
-72,"TEXT_CTSSFSCHARACTER7_00710_KNOWLEDGE_CHARLEMEND_003_003","동방에서는 다과회에서 향을 피운다고 들었네.
-환자들을 위한 다과회에서도 이 조개를 향그릇으로 써서
-마음이 편안해지는 향을 연출할까 싶네."
-73,"TEXT_CTSSFSCHARACTER7_00710_KNOWLEDGE_CHARLEMEND_003_004","환자들이 심신 모두 건강해져야 완치라고 할 수 있겠지.
-한 끼를 먹더라도 좋은 향이 나는 요리를 통해
-마음의 위로를 받으며 치료에 임해주었으면 한다네."
-74,"TEXT_CTSSFSCHARACTER7_00710_JUDGEMENT_CHARLEMEND_000_000","……음!
-품질도 더할 나위 없군!
-역시 <Highlight>ObjectParameter(1)</Highlight> 공이네."
-75,"TEXT_CTSSFSCHARACTER7_00710_JUDGEMENT_CHARLEMEND_000_001","……음!
-장인의 기술을 잘 모르는 나도 질이 좋다는 걸 알겠군!
-마엘리 공도 기뻐할 테지!"
-76,"TEXT_CTSSFSCHARACTER7_00710_JUDGEMENT_CHARLEMEND_000_002","오오……!
-장인의 기술을 잘 모르는 나도 최고의 품질이란 걸 알겠군!
-마엘리 공에게도 어서 보여줘야겠네!"
-77,"TEXT_CTSSFSCHARACTER7_00710_JUDGEMENT_CHARLEMEND_000_003","이건 다과회를 열기에 딱 좋은 물품이군!
-<Highlight>ObjectParameter(1)</Highlight> 공이 준비해준 물품으로
-반드시 환자들이 기뻐할 만한 다과회를 열어보겠네!"
-78,"TEXT_CTSSFSCHARACTER7_00710_JUDGEMENT_CHARLEMEND_000_004","귀공이 준비해준 물품은
-그 생각을 충분히 이루게 해줄 물건이네!
-감사하네, <Highlight>ObjectParameter(1)</Highlight> 공."
-79,"TEXT_CTSSFSCHARACTER7_00710_FULLBAG_000_000","소지품에 공간이 부족하여
-신뢰도 상승 보상을 받을 수 없습니다."
-80,"TEXT_CTSSFSCHARACTER7_00710_FULLBAG_000_001","소지품을 정리한 뒤,
-<Sheet(ENpcResident,IntegerParameter(1),0)/>에게 다시 말을 거십시오."
-81,"TEXT_CTSSFSCHARACTER7_00710_BEFRANKUP_CHARLEMEND_000_000","응, 일용품은 이 정도만 있으면 충분하다네.
-충분히 준비해줘서 고맙네."
-82,"TEXT_CTSSFSCHARACTER7_00710_BEFRANKUP_CHARLEMEND_001_000","의료품을 구해줘서 고맙네.
-마침 잘됐어, 숫자도 다 채워졌으니
-마엘리 공을 부르도록 하지."
-83,"TEXT_CTSSFSCHARACTER7_00710_BEFRANKUP_CHARLEMEND_002_000","이 정도만 있으면 재활 훈련도 문제없이 할 수 있을 걸세.
-이제는 우리가 환자 돕는 법을 배워야겠군……!"
-84,"TEXT_CTSSFSCHARACTER7_00710_BEFRANKUP_CHARLEMEND_003_000","자자, 어서 다과회 준비를 하세나!
-<Highlight>ObjectParameter(1)</Highlight> 공도 와주게."
-85,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAELIE_001_000","입원 환자들의 일용품을 벌써 다 모았다는 게 사실인가요!?"
-86,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_001_001","그래,
-<Highlight>ObjectParameter(1)</Highlight> 공이 준비해줬단다."
-87,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAELIE_001_002","와, 대단해요!
-이게 있으면 늘 반짝반짝 깨끗한 생활을 할 수 있겠어요!
-역시 <If(PlayerParameter(4))>언니<Else/>오빠</If>는 멋져요!"
-88,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_001_003","흠, 그나저나…….
-치료와 상관없는 일용품이라도 사람 한 명이 생활하려면
-이렇게나 많은 물자가 필요하군그래……."
-89,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAELIE_001_004","이런 건 '소모품'이라서 앞으로도 계속 계속 필요해요!
-있으면 있는 대로 사용하니까 고아원에서도
-만들 수 있는 건 만들었어요."
-90,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_001_005","그, 그렇구나…….
-집에는 늘 가득 채워져 있어서 전혀 몰랐네……."
-91,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAELIE_001_006","그럼 누군가가 그렇게 채워둔 거예요.
-아저씨는 공부는 잘 하면서
-생활에 대해선 아무것도 모르는군요!"
-92,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAELIE_001_007","자, 그럼 이번에 마엘리가 빨래랑 청소하는 법을 알려줄게요.
-'소모품'이라도 알뜰하게 쓰면 오래 쓸 수 있어요!
-그럼 병원 사람들도 늘 깨끗하게 지낼 수 있고요!"
-93,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_001_008","그래, 고맙다, 마엘리 공.
-꼭 가르쳐다오."
-94,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_001_009","마엘리 공은 언제나 병원을 첫 번째로 생각하고 있군……."
-95,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_002_001","자, 마엘리 공.
-<Highlight>ObjectParameter(1)</Highlight> 공의 물품들이 추가됨으로써,
-재고가 며칠 유지될지 알 수 있겠나?"
-96,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAELIE_002_002","어디 보자…….
-지금 있는 재고랑 더해서 하루 사용량으로 나누면……
-3주 정도는 괜찮을 거예요!"
-97,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_002_003","그래, 정답이야!
-마엘리 공, 굉장히 복잡한 계산을 할 수 있게 됐구나."
-98,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAELIE_002_004","아저씨가 쉽게 알려줘서 그래요!
-언제나 고마워요!"
-99,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAELIE_002_005","<If(PlayerParameter(4))>언니<Else/>오빠</If>가 준비해준 물건으로
-우리도 모릴레트 님에게 소독하는 법을 배웠어요!
-고마워요!"
-100,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_002_006","그래, 마엘리 공은 나보다 훨씬 습득력이 빠르다네.
-타인의 마음을 배려하는 마음가짐의 차이가
-나와 마엘리 공의 실력 차이를 만들었겠지."
-101,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_002_007","배우는 것이 많아서 고맙긴 하네만
-뭐랄까, 좀 복잡한 기분이네."
-102,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAELIE_003_000","<If(PlayerParameter(4))>언니<Else/>오빠</If>!
-<If(PlayerParameter(4))>언니<Else/>오빠</If> 덕분에 품질 좋은 것이 모였으니
-모릴레트 님께서 훈련을 돕는 방법을 가르쳐 주신대요!"
-103,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAELIE_003_001","아저씨, 왜 그래요?
-배 아파요?"
-104,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_003_002","아니, 재활 훈련은 고통이 따른다고 하지 않았나?
-그런 환자들을 내가 제대로 돌볼 수 있을지
-좀 두려운 마음이 드는구나……."
-105,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAELIE_003_003","으음, 그럴 때는요.
-나도 같은 곳이 아프다고 생각하면서 도와주면 돼요!"
-106,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAELIE_003_004","게다가 아저씨 옆엔 마엘리랑 <If(PlayerParameter(4))>언니<Else/>오빠</If>가 있으니까
-괜찮아요!"
-107,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_003_005","그래, 그렇구나, 마엘리 공……!
-상대의 마음이 어떨지 늘 생각하도록 하마.
-어서 모릴레트 공에게 배우자꾸나……!"
-108,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_004_000","오빠, 좀 어때요?
-다과회는 즐거워요?"
-109,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_PATIENT00710_004_001","그래, 병원에서 이렇게 평화로운 시간을 보내니 좋아.
-고마워, 마엘리."
-110,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAURILETTE_004_002","샤를망 님의 제안과
-<Highlight>ObjectParameter(1)</Highlight> 님이 준비해준 물품 덕분이에요."
-111,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_004_003","다들 즐거워해주는 것 같아 다행이네.
-장기 요양이니 조금이라도 편안하게 지내는 것이 좋잖나.
-게다가……"
-112,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_STAFF00710_004_004","로난탱 군도 다과회 준비를 도와줬지?
-정말 고마워."
-113,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_RONANTAIN_004_005","아뇨, 전 딱히 특별한 일은……."
-114,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_004_006","마치 언젠가의 내 모습 같았던 조카 녀석도
-모두와 격 없이 잘 지내는 것 같아 안심이네."
-115,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAURILETTE_001_100","두 분, 그리고 <Highlight>ObjectParameter(1)</Highlight> 님.
-환자들의 일용품을 가져다 줘서 고마워요."
-116,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAURILETTE_001_101","샤를망 님이
-마엘리에게 공부를 가르치면서 일용품을 관리해줘서
-우리도 정말 도움이 많이 됐어요."
-117,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAURILETTE_001_102","여러분이 이렇게나 성실하게 일을 해주니
-이제 좀 더 어려운 의료품 관리도 부탁할까 해요.
-괜찮겠죠?"
-118,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAELIE_001_103","맡겨만 주세요!"
-119,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAELIE_001_104","해냈어요, 아저씨!
-우리가 봉사 직원 일을 잘했나 봐요!"
-120,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_001_105","그래, 귀공 덕분이야.
-계속해서 노력하자, 마엘리 공."
-121,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_001_106","그리고 <Highlight>ObjectParameter(1)</Highlight> 공.
-귀공이 준비하는 게 가장 믿음이 가네.
-계속해서 우릴 도와줄 수 있겠나?"
-122,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAURILETTE_002_100","샤를망 님, 마엘리.
-의료품 취급도 능숙해졌군요."
-123,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAELIE_002_101","계산을 가르쳐주는 아저씨랑
-쓰기 편한 걸 갖다주는<If(PlayerParameter(4))> 언니<Else/>오빠</If> 덕분이에요!"
-124,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAURILETTE_002_102","네, 최근 들어 샤를망 님이
-마엘리 곁에서 공부를 가르쳐 주고 있는 모습을 자주 봐요.
-굉장히 신경 써 주시더군요."
-125,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_002_103","음, 그게…….
-나에겐 마엘리 공과 비슷한 나이 대의 조카 녀석이 있다네.
-나도 모르게 자꾸 그 아이 생각이 나서 말이지."
-126,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_002_104","남동생은 전사하고, 아들은 행방불명…….
-그래서 조카에게 가주를 물려주기 위해, 직접 가르친 적이 많았네."
-127,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_002_105","별을 읽고, 최전선에서 용과 싸우며 시민을 지키는 일이
-우리의 본분이라고 가르쳤지."
-128,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_002_106","하지만 천년전쟁이 종결된 지금은
-성도의 발전과 시민의 풍족한 생활을 위해서 최선을 다해야 하네."
-129,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_002_107","하지만 급격한 시대 변화에 못 따라가면 안 되지 않겠나.
-그래서 아버지 역할도 하면서 스승이기도 한 내가
-솔선해서 모범을 보여야 한다고 생각하네."
-130,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_002_108","봉사 직원을 지원한 이유는 신분과는 상관없이
-모두가 하나 되어 새로운 시대의 성도를 살아가는 것……
-그 본보기가 되고 싶었기 때문이네."
-131,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_002_109","지금 생각해 보니 이것 역시 타산적인 생각이군그래.
-난 봉사 직원의 자격이 없을지도 모르네.
-미안하네, 모릴레트 공."
-132,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAURILETTE_002_110","아뇨, 샤를망 님.
-솔직히 말씀해주셔서 감사해요.
-당신은 봉사 직원으로서 아주 훌륭히 활약해주고 계세요."
-133,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAURILETTE_002_111","그래서 말이죠, 샤를망 님과 마엘리에게
-또다시 더 큰 일을 맡길까 해요."
-134,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAURILETTE_002_112","이제부터는 부상을 당한 환자분들이
-재활 훈련을 하는 걸 도와주셨으면 해요.
-환자분들과 접할 수 있는 중요한 일이랍니다."
-135,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAURILETTE_002_113","재활 훈련을 하려면 아주 품질 좋은 도구가 필요해요.
-일류 장인만이 만들 수 있는 도구인데,
-<Highlight>ObjectParameter(1)</Highlight> 님, 부탁할 수 있을까요?"
-136,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_004_100","<Highlight>ObjectParameter(1)</Highlight> 공.
-귀공 덕에 무사히 다과회를 열 수 있었네.
-조카 녀석의 마음가짐에 변화가 있는 것 같아 다행이야."
-137,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_004_101","앞으로는 다과회를 정기적으로 개최할 생각이네.
-일용품도 비품도 계속해서 필요하고, 또 가능하다면
-환자가 편히 지낼 수 있는 물품도 마련하고 싶네."
-138,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAELIE_004_102","아저씨도 병원 일 돕는 것이 좋은가 봐요~!"
-139,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_004_103","그래, 이게 다 마엘리 공과
-<Highlight>ObjectParameter(1)</Highlight> 공 덕분이란다."
-140,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_004_104","우리 집안의 걱정거리도 마음이 한결 가벼워졌네.
-난 계속해서 이 병원에서 봉사 직원으로 일하면서
-마엘리 공에게 많은 것을 배울 생각이네."
-141,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_004_105","앞으로도 동지로서, 스승으로서
-함께해 주지 않겠나, 마엘리 공?"
-142,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAELIE_004_106","물론이에요!
-나도 아저씨에게 더 배우고 싶고
-같이 일하는 것도 굉장히 즐거워요!"
-143,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_004_107","<Highlight>ObjectParameter(1)</Highlight> 공에게는
-정말로 자주 신세를 졌군."
-144,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_004_108","앞으로도 난 여기서 봉사 직원으로 일할 생각이네.
-귀공의 협력이 있다면 굉장히 도움이 될 거야."
-145,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_004_109","아, 그리고 말이네…….
-계속 말을 못했네만……."
-146,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_004_110","정체를 숨기기 위해 변장하고 있었네만,
-날 아는 자들은 한눈에 눈치챘겠지?"
-147,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_004_111","그래서 이제 시민과 환자들이 친근하게 느낄 수 있을 만한 복장을
-입고 싶은데, 믿고 맡길 수 있는 귀공이 골라주었으면 하네.
-시간이 있을 때라도 괜찮으니 부탁 좀 하겠네."
-148,"TEXT_CTSSFSCHARACTER7_00710_RANKUPINFO_000_000","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
-당신을 '봉사 직원의 협력자'로 여기게 되었습니다!"
-149,"TEXT_CTSSFSCHARACTER7_00710_RANKUPINFO_000_001","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
-당신을 '봉사 직원의 구원자'로 여기게 되었습니다!"
-150,"TEXT_CTSSFSCHARACTER7_00710_RANKUPINFO_000_002","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
-당신을 '봉사 직원의 친구'로 여기게 되었습니다!"
-151,"TEXT_CTSSFSCHARACTER7_00710_RANKUPINFO_000_003","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
-당신을 '봉사 직원의 맹우'로 여기게 되었습니다!"
-152,"TEXT_CTSSFSCHARACTER7_00710_RANKUPINFO_001_001","<Sheet(ENpcResident,IntegerParameter(1),0)/><13>FF16022812FF0D454E70635265736964656E74E8020103FF04EB8A94FF04EC9D80</13>
-계속해서 당신의 도움이 필요한 듯합니다."
-153,"TEXT_CTSSFSCHARACTER7_00710_RANKUPINFO_001_002","<Sheet(ENpcResident,IntegerParameter(1),0)/><13>FF16022812FF0D454E70635265736964656E74E8020103FF04EB8A94FF04EC9D80</13>
-당신에게 새로운 의뢰를 부탁하고 싶은 듯합니다. "
-154,"TEXT_CTSSFSCHARACTER7_00710_AFTRANKUP_000_001","새로운 의뢰를 받아 납품 목록이 갱신되었습니다.
-<Sheet(ENpcResident,IntegerParameter(1),0)/>에게 말을 건 후
-'의뢰물 건네주기'를 선택해 확인하세요."
-155,"TEXT_CTSSFSCHARACTER7_00710_AFTRANKUP_001_001","단골 거래 이야기 퀘스트를 진행할 수 있게 되었습니다.
-루슈망드 기념 병원의 '모릴레트'에게서 퀘스트를 받을 수 있습니다.
-퀘스트를 완료하면 납품 목록이 갱신됩니다."
-156,"TEXT_CTSSFSCHARACTER7_00710_AFTRANKUP_002_001","앞으로 받을 의뢰는 일주일에 한 번
-지금까지 납품한 의뢰물 중에서 무작위로 선택됩니다."
-157,"TEXT_CTSSFSCHARACTER7_00710_AFTRANKUP_002_002","<Sheet(ENpcResident,IntegerParameter(1),0)/>에게 말을 건 후
-'의뢰물 건네주기'를 선택해 확인하세요."
-158,"TEXT_CTSSFSCHARACTER7_00710_AFTRANKUP_002_003","또한 '기념 병원 그림도구', '그림도구 소재', '훈향어'는
-특히 많은 보상을 얻을 수 있습니다.
-목록에 포함되면 적극적으로 납품해 보세요."
-159,"TEXT_CTSSFSCHARACTER7_00710_AFTRANKUP_002_004","추가로, 이제 뒤랑데르 백작에게
-장비 투영을 할 수 있습니다."
-160,"TEXT_CTSSFSCHARACTER7_00710_RANKUP_MAELIE_001_000","<If(PlayerParameter(4))>언니<Else/>오빠</If>!
-많이 갖다줘서 고마워요!"
-161,"TEXT_CTSSFSCHARACTER7_00710_RANKUP_CHARLEMEND_001_001","그래, 우리가 봉사 직원으로 인정받고 있는 것은
-귀공이 좋은 품질의 물자를 가져다 준 덕분일세.
-고맙네, <Highlight>ObjectParameter(1)</Highlight> 공."
-162,"TEXT_CTSSFSCHARACTER7_00710_RANKUP_MAELIE_002_000","<If(PlayerParameter(4))>언니<Else/>오빠</If>!
-언제나 도와줘서 고마워요!"
-163,"TEXT_CTSSFSCHARACTER7_00710_RANKUP_CHARLEMEND_002_001","우리도 조금씩
-봉사 직원으로서 중요한 업무를 맡게 되었네.
-열심히 하고 있으니 계속해서 협력을 부탁하네."
-164,"TEXT_CTSSFSCHARACTER7_00710_RANKUP_CHARLEMEND_003_000","<Highlight>ObjectParameter(1)</Highlight> 공!
-귀공 덕분에 환자들도 순조롭게 회복되고 있고
-나도 이제 그들에게 말을 거는 것이 익숙해졌다네."
-165,"TEXT_CTSSFSCHARACTER7_00710_RANKUP_MAELIE_002_001","얼마 전에 모릴레트 님이 저희를 보고
-'이제 어엿한 봉사 직원이네요'라고 했지 뭐예요!
-앞으로도 환자 분들을 위해서 열심히 일할래요!"
-166,"TEXT_CTSSFSCHARACTER7_00710_RANKUP_CHARLEMEND_004_000","<Highlight>ObjectParameter(1)</Highlight> 공.
-계속해서 협력해주니 진심으로 감사하네.
-덕분에 나는 많은 것을 배우는 나날을 보내고 있네."
-167,"TEXT_CTSSFSCHARACTER7_00710_RANKUP_MAELIE_004_001","최근엔 로난탱도
-계속 우릴 도와주고 있어요!"
-168,"TEXT_CTSSFSCHARACTER7_00710_RANKUP_RONANTAIN_004_002","그냥 숙부님의 자세를 보고 배운 것뿐이야."
-169,"TEXT_CTSSFSCHARACTER7_00710_RANKUP_CHARLEMEND_004_003","젊은 세대에도 새로운 가치관이 뿌리내리고 있으니 다행일세.
-나도 아직까지 현역이니 질 수는 없지!
-인생은 매일매일 공부의 연속인 것 같네."
-170,"TEXT_CTSSFSCHARACTER7_00710_RANKUP_CHARLEMEND_005_000","<Highlight>ObjectParameter(1)</Highlight> 공.
-계속 협력해줘서 진심으로 감사하네.
-조카 녀석도 이곳 일이 많이 익숙해진 모양이네."
-171,"TEXT_CTSSFSCHARACTER7_00710_RANKUP_MAELIE_005_001","로난탱, 저쪽에서 환자 분 시트를 세탁해야 돼!
-빨리 가자!"
-172,"TEXT_CTSSFSCHARACTER7_00710_RANKUP_RONANTAIN_005_002","그래, 기다려!
-금방 갈게!"
-173,"TEXT_CTSSFSCHARACTER7_00710_RANKUP_CHARLEMEND_006_000","<Highlight>ObjectParameter(1)</Highlight> 공.
-설마 귀공이 이렇게까지 협력해 줄지는 몰랐네.
-귀공도 많이 바쁠 텐데…… 진심으로 고맙네."
-174,"TEXT_CTSSFSCHARACTER7_00710_RANKUP_CHARLEMEND_006_001","귀공 덕분에
-우리 가문도 상당히 안정된 것 같네."
-175,"TEXT_CTSSFSCHARACTER7_00710_RANKUP_CHARLEMEND_006_002","귀공이 온 뒤로 전쟁이 종결되고, 가치관이 변하고
-그 격류에 휩쓸리며 속이 탄 적도 있었네만……"
-176,"TEXT_CTSSFSCHARACTER7_00710_RANKUP_CHARLEMEND_006_003","지금은 모든 변화를 포함해 귀공이 와준 것이 참 고맙네.
-성도, 그리고 내 인생의 분기점에 귀공이 있었던 사실은
-정말로 행운이었다 생각한다네."
-177,"TEXT_CTSSFSCHARACTER7_00710_RANKUP_CHARLEMEND_006_004","감사하네, <Highlight>ObjectParameter(1)</Highlight> 공."
-178,"TEXT_CTSSFSCHARACTER7_00710_AFTWEEKLY_000_000","이번 주에는 더 납품할 수 없습니다.
-현실 시간으로 매주 <ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시부터
-다시 납품할 수 있습니다."
-179,"TEXT_CTSSFSCHARACTER7_00710_QUEST_CHARLEMEND_000_000","우리는 지금부터 '모릴레트' 공에게
-재활 훈련에 대해서 배울 건데……
-혹시 모르니 귀공도 그에 맞는 차림을 하는 게 좋지 않겠나?"
-180,"TEXT_CTSSFSCHARACTER7_00710_QUEST_SYSTEM_000_002","단골 거래 이야기 퀘스트를 진행하기 위해서는
-현재 클래스가 채집가 또는 제작자여야 합니다."
-181,"TEXT_CTSSFSCHARACTER7_00710_QUEST_CHARLEMEND_000_010","재활 훈련이라……."
-182,"TEXT_CTSSFSCHARACTER7_00710_QUEST_SYSTEM_000_011","퀘스트 진행 중에는 단골 거래를 할 수 없게 됩니다.
-다시 거래하려면 퀘스트 '성도의 미래를 짊어지기 위하여'를
-완료해야 합니다."
-183,"TEXT_CTSSFSCHARACTER7_00710_QUEST_CHARLEMEND_000_015","저, 번거롭게 해서 미안하네……."
+0,"TEXT_CTSSFSCHARACTER7_00710_GREETING_CHARLEMEND_000_000","<hex:022903EB0203>，感謝來訪。<hex:02100103>我們需要的是寢具和餐具等紀念醫院的日常用品。<hex:02100103>不知道你幫忙準備了嗎？"
+1,"TEXT_CTSSFSCHARACTER7_00710_GREETING_CHARLEMEND_000_001","<hex:022903EB0203>！<hex:02100103>此次需要的是膿盆和繃帶等紀念醫院的醫療用品。<hex:02100103>可以拜託你幫忙籌集嗎？"
+2,"TEXT_CTSSFSCHARACTER7_00710_GREETING_CHARLEMEND_000_002","<hex:022903EB0203>！<hex:02100103>此次需要的是枴杖和輪椅等紀念醫院的康復訓練用品。<hex:02100103>可以請你幫忙籌集嗎？"
+3,"TEXT_CTSSFSCHARACTER7_00710_GREETING_CHARLEMEND_000_003","<hex:022903EB0203>，你來得正好。<hex:02100103>為了讓患者們重拾笑容，我們正準備舉辦茶會。<hex:02100103>能請你幫我們準備茶會用品嗎？"
+4,"TEXT_CTSSFSCHARACTER7_00710_GREETING_CHARLEMEND_000_004","<hex:022903EB0203>，感謝你的時常造訪。"
+5,"TEXT_CTSSFSCHARACTER7_00710_TOPMENU_000_000","要做什麼？"
+6,"TEXT_CTSSFSCHARACTER7_00710_TOPMENU_000_001","交納委託品（<hex:022812FF0D>ENpcResident<hex:E8020103>：剩餘<hex:022003E80303>次）"
+7,"TEXT_CTSSFSCHARACTER7_00710_TOPMENU_000_002","對狄蘭達爾伯爵進行武具投影"
+8,"TEXT_CTSSFSCHARACTER7_00710_TOPMENU_000_003","詢問有關老顧客交易"
+9,"TEXT_CTSSFSCHARACTER7_00710_TOPMENU_000_004","取消"
+10,"TEXT_CTSSFSCHARACTER7_00710_GUIDEMENU_000_000","想了解什麼？"
+11,"TEXT_CTSSFSCHARACTER7_00710_GUIDEMENU_001_000","關於狄蘭達爾伯爵的信賴度"
+12,"TEXT_CTSSFSCHARACTER7_00710_GUIDEMENU_007_000","關於交納委託品的條件和報酬"
+13,"TEXT_CTSSFSCHARACTER7_00710_GUIDEMENU_002_000","委託品的獲得方法"
+14,"TEXT_CTSSFSCHARACTER7_00710_GUIDEMENU_003_000","製作材料的獲得方法"
+15,"TEXT_CTSSFSCHARACTER7_00710_GUIDEMENU_004_000","提高收藏價值的方法（製作篇）"
+16,"TEXT_CTSSFSCHARACTER7_00710_GUIDEMENU_005_000","提高收藏價值的方法（採掘/園藝篇）"
+17,"TEXT_CTSSFSCHARACTER7_00710_GUIDEMENU_006_000","提高收藏價值的方法（捕魚篇）"
+18,"TEXT_CTSSFSCHARACTER7_00710_GUIDEMENU_CANCEL","取消"
+19,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_001_000","透過交納委託品，<hex:02100103><hex:022812FF0D>ENpcResident<hex:E8020103>對你的信賴度會漸漸提高。"
+20,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_001_001","目前的信賴度會顯示在委託品列表上方的信賴槽中，<hex:02100103>如果信賴槽積滿，信賴等級就會提高。<hex:02100103>另外，信賴等級會用心形圖案來表示。"
+21,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_001_002","每當信賴等級提高，<hex:02100103>就可以看到與<hex:022812FF0D>ENpcResident<hex:E8020103>有關的新故事。"
+22,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_007_000","交納收藏品需要收藏品對應的職業在70級以上才能進行。"
+23,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_007_001","交納時，若收藏品所對應的職業等級為100級，<hex:02100103>將會得到工票作為報酬，<hex:02100103>若對應職業未滿100級，將會得到經驗作為報酬。"
+24,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_002_000","如果想要調查委託品列表中的道具的獲得方法，<hex:02100103>就請活用子選單與道具說明吧。"
+25,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_002_001","能工巧匠分類的委託品，只需要在打開列表的狀態下，<hex:02100103>執行子選單「搜索製作道具的配方」，<hex:02100103>就可以打開製作筆記，看到製作配方。"
+26,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_002_002","採掘師或園藝師分類的委託品，只需要在打開列表的狀態下，<hex:02100103>執行子選單「搜索採集方法」，<hex:02100103>就可以打開採集筆記，看到採集地點。"
+27,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_002_003","漁師分類的委託品，<hex:02100103>在打開列表的狀態下執行子選單「顯示入手場所」，<hex:02100103>就會顯示出可以獲得該種魚類的釣場或漁場。"
+28,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_102_003","另外釣魚時推薦使用<hex:02280BFF05>Item<hex:F26FDA0103>作為釣餌。"
+29,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_002_004","可以交給<hex:022812FF0D>ENpcResident<hex:E8020103>的道具<hex:02100103>分為能工巧匠、採掘師與園藝師、漁師三種，<hex:02100103>並且需要所有物品均為「收藏品」。"
+30,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_003_000","製作委託品的必要材料，<hex:02100103>可以在蒼天街的魯什芒德紀念醫院前的黛安娜處購買。"
+31,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_004_000","能工巧匠製作出來的產品的「收藏價值」<hex:02100103>會隨製作時物品品質的提高而上升。<hex:02100103>因此，儘量提高品質後做出成品是尤為重要的。"
+32,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_004_002","提高品質成功時，<hex:02100103>自身便會附加「內靜」。"
+33,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_004_003",""
+34,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_004_004","盡可能地多累積內靜，<hex:02100103>最後用「比爾格的祝福」等技能<hex:02100103>一口氣提高品質後，就可以完成製作了。"
+35,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_004_005","除了上述技能之外，還有很多技能可以有效提高品質，<hex:02100103>習慣製作之後，可以進行多種嘗試，<hex:02100103>摸索出適合自己的製作節奏。"
+36,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_005_000","採集收藏品時，會出現專用的介面。<hex:02100103>這時可以使用各種收藏品採集技能<hex:02100103>提高採集品的收藏價值。"
+37,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_005_001","採掘師和園藝師想要提高收藏價值的話，<hex:02100103>可以先使用技能「集中檢查」，然後再使用「純化」。<hex:02100103>以上技能循環幾次後，再進行採集。"
+38,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_005_002","如果想得到較高的收藏價值，<hex:02100103>可以透過調整裝備，提高「獲得力」和「鑑別力」，<hex:02100103>這樣收藏品採集技能帶來的效果也會事半功倍。"
+39,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_005_003","要是「GP」不足的話，<hex:02100103>也可以透過調整裝備提高GP上限。"
+40,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_006_000","水產品的「收藏價值」透過釣上來的魚的大小來體現。"
+41,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_006_001","如果想把魚作為收藏品儲存起來，就先前往魚所在的釣場，<hex:02100103>使用技能「收藏品採集」，開始釣魚。"
+42,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_006_002","在使用了技能「耐心II」之後，<hex:02100103>選擇合適的提鉤技能，<hex:02100103>就可以釣到大魚。"
+43,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_006_003","如果魚的大小無法順利提高的話，<hex:02100103>可以調整裝備提高「鑑別力」。"
+44,"TEXT_CTSSFSCHARACTER7_00710_TUTORIAL_000_000","可以交給<hex:022812FF0D>ENpcResident<hex:E8020103>的道具<hex:02100103>分為能工巧匠、採掘師與園藝師、漁師三種，<hex:02100103>並且需要所有物品均為「收藏品」。"
+45,"TEXT_CTSSFSCHARACTER7_00710_TUTORIAL_000_008","交納收藏品需要收藏品對應的職業在70級以上才能進行。"
+46,"TEXT_CTSSFSCHARACTER7_00710_TUTORIAL_000_009","交納時，若收藏品所對應的職業等級為100級，<hex:02100103>將會得到工票作為報酬，<hex:02100103>若對應職業未滿100級，將會得到經驗作為報酬。"
+47,"TEXT_CTSSFSCHARACTER7_00710_TUTORIAL_000_001","關於交納用的收藏品的獲取方法，<hex:02100103>可以分別透過以下方式調查。"
+48,"TEXT_CTSSFSCHARACTER7_00710_TUTORIAL_000_002","能工巧匠分類的委託品，只需要在打開列表的狀態下，<hex:02100103>執行子選單「搜索製作道具的配方」，<hex:02100103>就可以打開製作筆記，看到製作配方。"
+49,"TEXT_CTSSFSCHARACTER7_00710_TUTORIAL_000_003","製作委託品的必要材料，<hex:02100103>可以在蒼天街的魯什芒德紀念醫院前的黛安娜處購買。"
+50,"TEXT_CTSSFSCHARACTER7_00710_TUTORIAL_000_004","採掘師或園藝師分類的委託品，只需要在打開列表的狀態下，<hex:02100103>執行子選單「搜索採集方法」，<hex:02100103>就可以打開採集筆記，看到採集地點。"
+51,"TEXT_CTSSFSCHARACTER7_00710_TUTORIAL_000_005","漁師分類的委託品，<hex:02100103>在打開列表的狀態下執行子選單「顯示入手場所」，<hex:02100103>就會顯示出可以獲得該種魚類的釣場或漁場。"
+52,"TEXT_CTSSFSCHARACTER7_00710_TUTORIAL_100_005","另外釣魚時推薦使用<hex:02280BFF05>Item<hex:F26FDA0103>作為釣餌。"
+53,"TEXT_CTSSFSCHARACTER7_00710_TUTORIAL_000_006","所交道具的收藏價值越高，交納時獲得的報酬就越豐厚。"
+54,"TEXT_CTSSFSCHARACTER7_00710_TUTORIAL_000_007","如果想知道「提高收藏價值的方法」，<hex:02100103>可以去找<hex:022812FF0D>ENpcResident<hex:E8020103>對話，<hex:02100103>選擇「詢問有關老顧客交易」，就可以查看了！"
+55,"TEXT_CTSSFSCHARACTER7_00710_TUTORIAL_001_000","交納委託品後，<hex:02100103><hex:022812FF0D>ENpcResident<hex:E8020103>開始對你產生信賴。"
+56,"TEXT_CTSSFSCHARACTER7_00710_TUTORIAL_001_001","交貨時獲得的「信賴度」透過信賴槽來顯示，<hex:02100103>當信賴槽積滿，「信賴等級」就會提高，<hex:02100103>同時可以看到<hex:022812FF0D>ENpcResident<hex:E8020103>的新故事。"
+57,"TEXT_CTSSFSCHARACTER7_00710_TUTORIAL_001_002","另外，每週最多可以交貨6次。<hex:02100103>積極地交納收藏品，提高信賴等級吧！"
+58,"TEXT_CTSSFSCHARACTER7_00710_WEEKLYLIMIT_000_000","本週的交貨次數已經全部消耗。<hex:02100103>交貨次數會在每週<hex:020603120303><hex:02093ADDFF07>週日<hex:FF07>週一<hex:FF07>週二<hex:FF07>週三<hex:FF07>週四<hex:FF07>週五<hex:FF07>週六<hex:03>的<hex:020821DBFF1D><hex:020919DB02030405060708090A0B0C0D0E0F10111213141516171803><hex:0103>點（地球時間）被重置。"
+59,"TEXT_CTSSFSCHARACTER7_00710_KNOWLEDGE_CHARLEMEND_001_000","<hex:022903EB0203>，謝謝你。<hex:02100103>聽聞住院患者的日常用品需要時刻保持清潔。<hex:02100103>既然是你準備的東西，那應該沒問題吧……"
+60,"TEXT_CTSSFSCHARACTER7_00710_KNOWLEDGE_CHARLEMEND_001_001","聽說無論是金屬製的膿盆還是柔軟的繃帶，<hex:02100103>用於治療的醫療用品對於品質的要求都很高。<hex:02100103>不過既然是你準備的東西的話……"
+61,"TEXT_CTSSFSCHARACTER7_00710_KNOWLEDGE_CHARLEMEND_001_002","用於康復訓練的東西對於安全性的要求很高。<hex:02100103>雖然是你準備的東西，但為了確保安全還是要仔細確認。"
+62,"TEXT_CTSSFSCHARACTER7_00710_KNOWLEDGE_CHARLEMEND_001_003","在這片嚴寒之地，無論是貴族還是平民，<hex:02100103>大家都很喜歡茶會，喜歡圍坐在一起喝熱茶吃點心的感覺。<hex:02100103>我也很希望可以準備出讓患者們滿意的茶會。"
+63,"TEXT_CTSSFSCHARACTER7_00710_KNOWLEDGE_CHARLEMEND_001_004","患者們只有身心都健康，才可以稱得上痊癒。<hex:02100103>所以我想透過讓患者們接觸不同的文化和藝術，<hex:02100103>用那些讓人內心平靜的東西來對他們進行治療。"
+64,"TEXT_CTSSFSCHARACTER7_00710_KNOWLEDGE_CHARLEMEND_002_000","<hex:022903EB0203>，謝謝你。<hex:02100103>聽聞這是為住院患者保持清潔的肥皂的素材。<hex:02100103>既然是你準備的東西，相信一定能製作出上等的肥皂。"
+65,"TEXT_CTSSFSCHARACTER7_00710_KNOWLEDGE_CHARLEMEND_002_001","聽說無論是金屬製的膿盆還是柔軟的繃帶，<hex:02100103>用於治療的醫療用品對於素材品質的要求都很高。<hex:02100103>不過既然是你準備的東西的話……"
+66,"TEXT_CTSSFSCHARACTER7_00710_KNOWLEDGE_CHARLEMEND_002_002","用於康復訓練的東西對於安全性的要求很高。<hex:02100103>因此其素材如果不具備一定柔韌度的話，<hex:02100103>會很容易導致患者受傷的……"
+67,"TEXT_CTSSFSCHARACTER7_00710_KNOWLEDGE_CHARLEMEND_002_003","在這片嚴寒之地，無論是貴族還是平民，<hex:02100103>大家都很喜歡茶會，喜歡圍坐在一起喝熱茶吃點心的感覺。<hex:02100103>因此我想用你帶來的素材製作出甘甜的糖漿……"
+68,"TEXT_CTSSFSCHARACTER7_00710_KNOWLEDGE_CHARLEMEND_002_004","聽說繪畫不僅有趣，還能活動手指，<hex:02100103>對於治癒內心也有著很好的效果。<hex:02100103>所以我想用你帶來的素材製作顏料。"
+69,"TEXT_CTSSFSCHARACTER7_00710_KNOWLEDGE_CHARLEMEND_003_000","<hex:022903EB0203>，謝謝你。<hex:02100103>我聽說這種貝殼的粉末是肥皂的原料之一。<hex:02100103>既然是你準備的東西，相信一定能製作出上等的肥皂。"
+70,"TEXT_CTSSFSCHARACTER7_00710_KNOWLEDGE_CHARLEMEND_003_001","這個海藻似乎擁有殺菌效果。<hex:02100103>聽說在提取時對其品質的要求極高，<hex:02100103>不過既然是你準備的東西的話……"
+71,"TEXT_CTSSFSCHARACTER7_00710_KNOWLEDGE_CHARLEMEND_003_002","康復訓練時常會伴隨著疼痛，<hex:02100103>多虧了用這個青蛙的毒素加工而成的止痛藥，患者才能堅持訓練。<hex:02100103>你帶來的東西真是幫大忙了。"
+72,"TEXT_CTSSFSCHARACTER7_00710_KNOWLEDGE_CHARLEMEND_003_003","聽聞東方有在茶會之際焚香的習俗。<hex:02100103>所以我希望在為患者們舉辦茶會的時候，<hex:02100103>能透過在這個貝殼製成的香盒裡焚香，使大家內心感到平靜。"
+73,"TEXT_CTSSFSCHARACTER7_00710_KNOWLEDGE_CHARLEMEND_003_004","患者們只有身心都健康，才可以稱得上痊癒。<hex:02100103>這種薰香魚營養又美味，<hex:02100103>把它加入醫院內食譜的話肯定會對治療有幫助。"
+74,"TEXT_CTSSFSCHARACTER7_00710_JUDGEMENT_CHARLEMEND_000_000","嗯！<hex:02100103>品質真是沒得說！<hex:02100103>不愧是<hex:022903EB0203>。"
+75,"TEXT_CTSSFSCHARACTER7_00710_JUDGEMENT_CHARLEMEND_000_001","嗯！<hex:02100103>即便是工匠技藝生疏的我也能看出其品質之上乘！<hex:02100103>相信瑪艾莉也一定會很開心的吧！"
+76,"TEXT_CTSSFSCHARACTER7_00710_JUDGEMENT_CHARLEMEND_000_002","哦哦！<hex:02100103>即便是工匠技藝生疏的我也能看出這毫無疑問是個極品！<hex:02100103>得讓瑪艾莉也早點看到才行！"
+77,"TEXT_CTSSFSCHARACTER7_00710_JUDGEMENT_CHARLEMEND_000_003","這東西對於茶會來說真是再合適不過了！<hex:02100103>我一定會努力舉辦出讓患者們滿意的茶會，<hex:02100103>絕不辜負<hex:022903EB0203>的一片苦心！"
+78,"TEXT_CTSSFSCHARACTER7_00710_JUDGEMENT_CHARLEMEND_000_004","準備好的物品當中充分展現出了你的一片良苦用心！<hex:02100103><hex:022903EB0203>，謝謝你。"
+79,"TEXT_CTSSFSCHARACTER7_00710_FULLBAG_000_000","背包已滿，<hex:02100103>無法獲取信賴等級提高的報酬。"
+80,"TEXT_CTSSFSCHARACTER7_00710_FULLBAG_000_001","請整理背包後再找<hex:022812FF0D>ENpcResident<hex:E8020103>。"
+81,"TEXT_CTSSFSCHARACTER7_00710_BEFRANKUP_CHARLEMEND_000_000","嗯，有這些日常用品應該就足夠了。<hex:02100103>感謝你的幫助。"
+82,"TEXT_CTSSFSCHARACTER7_00710_BEFRANKUP_CHARLEMEND_001_000","感謝幫忙籌集醫療用品。<hex:02100103>正好現在數量也夠了，<hex:02100103>我去把瑪艾莉叫來吧。"
+83,"TEXT_CTSSFSCHARACTER7_00710_BEFRANKUP_CHARLEMEND_002_000","只要有了這些，康復訓練也可以順利進行了吧。<hex:02100103>接下來我們就要學習如何輔助患者們進行訓練了……"
+84,"TEXT_CTSSFSCHARACTER7_00710_BEFRANKUP_CHARLEMEND_003_000","趕快來為茶會做準備吧！<hex:02100103><hex:022903EB0203>也一起來幫忙吧。"
+85,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAELIE_001_000","聽說住院患者的日常用品已經集齊了，是真的嗎？！"
+86,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_001_001","是啊，<hex:02100103>都是<hex:022903EB0203>幫忙準備的。"
+87,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAELIE_001_002","哇！好厲害！<hex:02100103>這樣一來大家就能乾乾淨淨的了！<hex:02100103>不愧是<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>！"
+88,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_001_003","不過話說回來……<hex:02100103>沒想到與治療無關的日常用品<hex:02100103>居然也需要這麼多啊……"
+89,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAELIE_001_004","這種屬於日常消耗品，<hex:02100103>相信今後的需求量也會很大！<hex:02100103>因為有多少都不算多，所以孤兒院也在儘量製作這些東西。"
+90,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_001_005","是、是嗎……<hex:02100103>我家裡總是有這些，所以我從沒注意過……"
+91,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAELIE_001_006","那都是別人做的啦。<hex:02100103>大叔真是的，雖然學習能力很強，<hex:02100103>但生活方面的事真是什麼都不知道呢！"
+92,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAELIE_001_007","那下次就由瑪艾莉來教大叔如何洗衣服和打掃衛生吧。<hex:02100103>只要用得仔細一點，日常消耗品也是可以很耐用的！<hex:02100103>這樣醫院裡的人們就可以一直住在乾淨的環境裡了！"
+93,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_001_008","啊，那真是太感謝了，瑪艾莉。<hex:02100103>請一定要教教我。"
+94,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_001_009","瑪艾莉總是把醫院的事放在第一位……"
+95,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_002_001","瑪艾莉，<hex:02100103>加上<hex:022903EB0203>籌集的物資，<hex:02100103>知道現在大概有幾日的庫存嗎？"
+96,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAELIE_002_002","這個嘛……<hex:02100103>算上已有的部分，再除以一天的用量……<hex:02100103>應該是夠用三週的！"
+97,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_002_003","嗯，回答正確！<hex:02100103>瑪艾莉現在都已經會這麼複雜的算術了啊。"
+98,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAELIE_002_004","這都是多虧了大叔教得好！<hex:02100103>真的非常感謝！"
+99,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAELIE_002_005","多虧了<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>準備的東西，<hex:02100103>我們才得以從莫莉萊蒂護士長那裡學到了消毒的方法！<hex:02100103>謝謝你！"
+100,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_002_006","是啊，瑪艾莉的領悟能力比我強得多。<hex:02100103>大概是為他人著想的這份心意，<hex:02100103>造成了我們之間的差距。"
+101,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_002_007","雖然能學到很多東西是不錯，<hex:02100103>但是，心情有點複雜。"
+102,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAELIE_003_000","<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>！<hex:02100103>莫莉萊蒂護士長要開始教我們怎麼幫患者進行康復訓練了！<hex:02100103>這都是多虧了<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>籌集到了這麼好的東西！"
+103,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAELIE_003_001","大叔你怎麼了？<hex:02100103>難道肚子不舒服嗎？"
+104,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_003_002","哎呀，康復訓練應該會伴隨著痛苦吧？<hex:02100103>也不知道我能不能為患者們提供幫助，<hex:02100103>有點沒自信啊……"
+105,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAELIE_003_003","嗯……這種時候啊，<hex:02100103>只要想著自己身上也有同樣的痛楚就行了！"
+106,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAELIE_003_004","更何況還有瑪艾莉和<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>支援著大叔呢，<hex:02100103>沒問題的！"
+107,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_003_005","說的是啊，瑪艾莉……<hex:02100103>我們要時刻將對方記掛在心上，<hex:02100103>帶著這樣的覺悟趕快向莫莉萊蒂請教吧！"
+108,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_004_000","大哥哥，感覺怎麼樣啊？<hex:02100103>茶會玩得開心嗎？"
+109,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_PATIENT00710_004_001","很不錯，沒想到在醫院居然能度過如此祥和的時光。<hex:02100103>謝謝你，瑪艾莉。"
+110,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAURILETTE_004_002","這都多虧了夏爾芒的提議<hex:02100103>以及<hex:022903EB0203>的精心準備。"
+111,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_004_003","你們能樂在其中就好。<hex:02100103>畢竟要經歷長時間的療養，還是希望大家可以過得舒適一些。<hex:02100103>而且……"
+112,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_STAFF00710_004_004","羅南坦也幫忙為茶會做準備了吧。<hex:02100103>非常感謝。"
+113,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_RONANTAIN_004_005","不，我也沒做什麼……"
+114,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_004_006","侄子和曾經的我有幾分相似，<hex:02100103>看到他能夠和大家相處融洽，我也就放心了。"
+115,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAURILETTE_001_100","真的很感謝你們二位和<hex:022903EB0203><hex:02100103>一起幫忙籌集患者們的日常用品。"
+116,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAURILETTE_001_101","夏爾芒一邊要教瑪艾莉學習，<hex:02100103>一邊還要管理日常用品，<hex:02100103>真是幫了我們大忙了。"
+117,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAURILETTE_001_102","大家都如此認真地工作，<hex:02100103>所以我想把更多的醫療用品的管理工作交給大家，<hex:02100103>可以嗎？"
+118,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAELIE_001_103","交給我們吧！"
+119,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAELIE_001_104","大叔，太好了！<hex:02100103>看來我們身為服務人員也有所成長了呢！"
+120,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_001_105","是啊，這都是你的功勞。<hex:02100103>繼續努力吧，瑪艾莉。"
+121,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_001_106","還有<hex:022903EB0203>，<hex:02100103>你幫忙準備的東西是最信得過的。<hex:02100103>所以可以繼續請你幫忙籌集嗎？"
+122,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAURILETTE_002_100","夏爾芒，瑪艾莉，<hex:02100103>看來你們也已經習慣如何處理醫療用品了。"
+123,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAELIE_002_101","這都是教會我計算的大叔和<hex:02100103>準備了便利物資的<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>的功勞！"
+124,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAURILETTE_002_102","是啊，我最近經常能看到<hex:02100103>夏爾芒寸步不離地教瑪艾莉學習。<hex:02100103>看起來真的很上心啊。"
+125,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_002_103","嗯，那個……<hex:02100103>其實我有一個和瑪艾莉年紀相仿的侄子。<hex:02100103>或許我也是從瑪艾莉身上看到了他的影子。"
+126,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_002_104","弟弟戰死，兒子下落不明……<hex:02100103>繼承家業的重擔自然就落到了侄子的身上，<hex:02100103>因此我傳授了他很多東西。"
+127,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_002_105","我經常告誡他，觀察星象，<hex:02100103>並且勇敢地站在與龍族抗爭的前線守衛人民，<hex:02100103>才是我們的使命。"
+128,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_002_106","但如今，伴隨著千年戰爭的結束，<hex:02100103>我們應該為皇都的發展以及市民能過上富裕的生活而盡力。"
+129,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_002_107","不過，時代變化得如此之快，跟不上節奏也是很正常的。<hex:02100103>那麼我作為監護人，同時也作為老師，<hex:02100103>必須要做出表率才行。"
+130,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_002_108","而我之所以要成為一名服務人員，<hex:02100103>就是為了身先士卒，<hex:02100103>在這個不分身份貴賤的新時代皇都生存下去。"
+131,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_002_109","現在想想，我來應聘的初衷還挺自私的，<hex:02100103>這不是一個照顧患者的服務人員該有的想法。<hex:02100103>真是抱歉，莫莉萊蒂。"
+132,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAURILETTE_002_110","夏爾芒，你沒必要道歉。<hex:02100103>我很高興你能說出自己的心裡話。<hex:02100103>你無疑是一名優秀的服務人員，所有工作都完成得十分出色。"
+133,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAURILETTE_002_111","因此，我想要把更重要的工作委託給你和瑪艾莉。"
+134,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAURILETTE_002_112","接下來我想請你們幫助受傷的患者們<hex:02100103>進行康復訓練。<hex:02100103>這是與患者們親密接觸的重要工作。"
+135,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAURILETTE_002_113","進行康復訓練需要用到專業道具，<hex:02100103>所以這次只能委託一流工匠。<hex:02100103><hex:022903EB0203>，可以請你幫忙嗎？"
+136,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_004_100","<hex:022903EB0203>，<hex:02100103>多虧了你的幫助，茶會得以順利舉辦。<hex:02100103>侄子的心境也產生了一些變化，真是再好不過了。"
+137,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_004_101","我希望今後也可以定期舉辦茶會。<hex:02100103>為此日常用品和醫療用品的需求量也會增加，<hex:02100103>可以的話，希望你可以為患者們多準備一些。"
+138,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAELIE_004_102","大叔也很喜歡給醫院幫忙啊！"
+139,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_004_103","是啊，這都是瑪艾莉和<hex:022903EB0203>的功勞。"
+140,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_004_104","現在家裡的事情有侄子幫我分擔。<hex:02100103>我會繼續在這家醫院擔當服務人員，<hex:02100103>也想跟瑪艾莉多學習學習。"
+141,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_004_105","瑪艾莉，你可以繼續作為我的同志和老師，<hex:02100103>和我一起並肩戰鬥嗎？"
+142,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_MAELIE_004_106","當然！<hex:02100103>我也想繼續讓大叔多教教我，<hex:02100103>而且和大叔一起工作很開心！"
+143,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_004_107","真是每次都會受到<hex:022903EB0203>不少照顧。"
+144,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_004_108","今後我將會作為服務人員在這裡繼續努力。<hex:02100103>期待還可以得到你的幫助。"
+145,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_004_109","還有就是……<hex:02100103>我之前一直不敢說出口……"
+146,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_004_110","雖然我為了隱藏身份而進行了偽裝，<hex:02100103>不過認識我的人應該一眼就看出來了吧？"
+147,"TEXT_CTSSFSCHARACTER7_00710_LCUT_RANKUP_CHARLEMEND_004_111","所以今後我想請值得信賴的你幫忙準備出<hex:02100103>能讓市民和患者們感受到親和力的服裝。<hex:02100103>等你有空的時候再來幫忙也可以，拜託了。"
+148,"TEXT_CTSSFSCHARACTER7_00710_RANKUPINFO_000_000","<hex:022812FF0D>ENpcResident<hex:E8020103>的信賴等級提高了！<hex:02100103>你在<hex:022812FF0D>ENpcResident<hex:E8020103>心中的形象變為了服務人員的協助者！"
+149,"TEXT_CTSSFSCHARACTER7_00710_RANKUPINFO_000_001","<hex:022812FF0D>ENpcResident<hex:E8020103>的信賴等級提高了！<hex:02100103>你在<hex:022812FF0D>ENpcResident<hex:E8020103>心中的形象變為了服務人員的幫手！"
+150,"TEXT_CTSSFSCHARACTER7_00710_RANKUPINFO_000_002","<hex:022812FF0D>ENpcResident<hex:E8020103>的信賴等級提高了！<hex:02100103>你在<hex:022812FF0D>ENpcResident<hex:E8020103>心中的形象變為了服務人員的同事！"
+151,"TEXT_CTSSFSCHARACTER7_00710_RANKUPINFO_000_003","<hex:022812FF0D>ENpcResident<hex:E8020103>的信賴等級提高了！<hex:02100103>你在<hex:022812FF0D>ENpcResident<hex:E8020103>心中的形象變為了服務人員的盟友！"
+152,"TEXT_CTSSFSCHARACTER7_00710_RANKUPINFO_001_001","<hex:022812FF0D>ENpcResident<hex:E8020103>想要繼續請你幫忙。"
+153,"TEXT_CTSSFSCHARACTER7_00710_RANKUPINFO_001_002","<hex:022812FF0D>ENpcResident<hex:E8020103>有新的委託想要給你。"
+154,"TEXT_CTSSFSCHARACTER7_00710_AFTRANKUP_000_001","由於接到了新的委託，交貨列表已經更新。<hex:02100103>和<hex:022812FF0D>ENpcResident<hex:E8020103>對話，<hex:02100103>選擇交納委託品，查看交貨列表。"
+155,"TEXT_CTSSFSCHARACTER7_00710_AFTRANKUP_001_001","可以領取老顧客交易的劇情任務了。<hex:02100103>和魯什芒德紀念醫院的莫莉萊蒂對話即可接受任務。<hex:02100103>完成任務後，交貨列表將會更新。"
+156,"TEXT_CTSSFSCHARACTER7_00710_AFTRANKUP_002_001","今後的委託將每週從至今為止的委託品中隨機選擇一次。"
+157,"TEXT_CTSSFSCHARACTER7_00710_AFTRANKUP_002_002","和<hex:022812FF0D>ENpcResident<hex:E8020103>對話，<hex:02100103>選擇交納委託品，查看交貨列表。"
+158,"TEXT_CTSSFSCHARACTER7_00710_AFTRANKUP_002_003","另外，紀念醫院的繪畫道具、繪畫道具的素材、薰香魚<hex:02100103>可以得到較多報酬。<hex:02100103>如果列表中有上述物品，就積極交貨吧。"
+159,"TEXT_CTSSFSCHARACTER7_00710_AFTRANKUP_002_004","另外，今後可以對狄蘭達爾伯爵進行武具投影了。"
+160,"TEXT_CTSSFSCHARACTER7_00710_RANKUP_MAELIE_001_000","<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>！<hex:02100103>謝謝你準備了這麼多！"
+161,"TEXT_CTSSFSCHARACTER7_00710_RANKUP_CHARLEMEND_001_001","是啊，我們身為服務人員之所以能夠得到認可，<hex:02100103>都是多虧了你準備的這些優良物資。<hex:02100103>謝謝你，<hex:022903EB0203>。"
+162,"TEXT_CTSSFSCHARACTER7_00710_RANKUP_MAELIE_002_000","<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>！<hex:02100103>感謝你一如既往地為我們提供幫助！"
+163,"TEXT_CTSSFSCHARACTER7_00710_RANKUP_CHARLEMEND_002_001","我們身為服務人員，<hex:02100103>也逐漸開始被委以重任。<hex:02100103>希望我們今後的成長也能有你的陪伴。"
+164,"TEXT_CTSSFSCHARACTER7_00710_RANKUP_CHARLEMEND_003_000","<hex:022903EB0203>！<hex:02100103>托你的福，患者們恢復得很順利。<hex:02100103>我也逐漸適應了與他們之間的交流。"
+165,"TEXT_CTSSFSCHARACTER7_00710_RANKUP_MAELIE_002_001","就在前不久，莫莉萊蒂護士長還誇獎說<hex:02100103>我們已經是出色的服務人員了！<hex:02100103>今後為了患者，我們要加倍努力才行！"
+166,"TEXT_CTSSFSCHARACTER7_00710_RANKUP_CHARLEMEND_004_000","<hex:022903EB0203>，<hex:02100103>每次都受你關照，真的非常感謝。<hex:02100103>托你的福，我每天都能學到很多。"
+167,"TEXT_CTSSFSCHARACTER7_00710_RANKUP_MAELIE_004_001","最近羅南坦也一直在幫忙！"
+168,"TEXT_CTSSFSCHARACTER7_00710_RANKUP_RONANTAIN_004_002","我也只是在跟著伯父大人有樣學樣而已。"
+169,"TEXT_CTSSFSCHARACTER7_00710_RANKUP_CHARLEMEND_004_003","新的價值觀能夠根植於年輕人的心中真是再好不過了。<hex:02100103>而我的身子骨還算硬朗，所以絕對不能輸給年輕人！<hex:02100103>畢竟活到老學到老嘛。"
+170,"TEXT_CTSSFSCHARACTER7_00710_RANKUP_CHARLEMEND_005_000","<hex:022903EB0203>，<hex:02100103>總是承蒙你的照顧，真的十分感謝。<hex:02100103>侄子也已經習慣在這裡的工作了。"
+171,"TEXT_CTSSFSCHARACTER7_00710_RANKUP_MAELIE_005_001","羅南坦，該去給那邊的患者洗床單了！<hex:02100103>動作麻利點！"
+172,"TEXT_CTSSFSCHARACTER7_00710_RANKUP_RONANTAIN_005_002","啊，等等我！<hex:02100103>我這就過去！"
+173,"TEXT_CTSSFSCHARACTER7_00710_RANKUP_CHARLEMEND_006_000","<hex:022903EB0203>，<hex:02100103>沒想到你居然會幫我幫到這個地步，<hex:02100103>你自己明明就已經很忙了……真是由衷地感謝。"
+174,"TEXT_CTSSFSCHARACTER7_00710_RANKUP_CHARLEMEND_006_001","多虧了你的幫助，<hex:02100103>我家如今也獲得了安定。"
+175,"TEXT_CTSSFSCHARACTER7_00710_RANKUP_CHARLEMEND_006_002","在你終結了龍詩戰爭後，人們的價值觀發生了劇變，<hex:02100103>而我身處這變化的時代之中，起初感到無所適從……"
+176,"TEXT_CTSSFSCHARACTER7_00710_RANKUP_CHARLEMEND_006_003","不過現在，我要對你帶來的一切變化表示感謝。<hex:02100103>能夠有你為皇都和我指明方向，實在是一種幸運。"
+177,"TEXT_CTSSFSCHARACTER7_00710_RANKUP_CHARLEMEND_006_004","謝謝你，<hex:022903EB0203>。"
+178,"TEXT_CTSSFSCHARACTER7_00710_AFTWEEKLY_000_000","本週向<hex:022812FF0D>ENpcResident<hex:E8020103>交貨的次數已經全部消耗。<hex:02100103>交貨次數會在每週<hex:020603120303><hex:02093ADDFF07>週日<hex:FF07>週一<hex:FF07>週二<hex:FF07>週三<hex:FF07>週四<hex:FF07>週五<hex:FF07>週六<hex:03>的<hex:020821DBFF1D><hex:020919DB02030405060708090A0B0C0D0E0F10111213141516171803><hex:0103>點（地球時間）被重置。"
+179,"TEXT_CTSSFSCHARACTER7_00710_QUEST_CHARLEMEND_000_000","接下來莫莉萊蒂要傳授我們<hex:02100103>有關康復訓練的事……<hex:02100103>謹慎起見，你要不要也換上一身合適的服裝呢？"
+180,"TEXT_CTSSFSCHARACTER7_00710_QUEST_SYSTEM_000_002","若要繼續推進老顧客的劇情任務，<hex:02100103>需要目前職業為大地使者或能工巧匠。"
+181,"TEXT_CTSSFSCHARACTER7_00710_QUEST_CHARLEMEND_000_010","康復訓練啊……"
+182,"TEXT_CTSSFSCHARACTER7_00710_QUEST_SYSTEM_000_011","進行任務時無法進行老顧客交易。<hex:02100103>如需進行交易，需要完成任務「為了扛起皇都的未來」，<hex:02100103>敬請注意。"
+183,"TEXT_CTSSFSCHARACTER7_00710_QUEST_CHARLEMEND_000_015","那個，不好意思……<hex:02100103>麻煩了。"

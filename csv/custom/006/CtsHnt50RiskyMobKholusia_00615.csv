@@ -1,61 +1,30 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000","이 마을은 율모어의 비호에 의존하지도 않고 할 수도 없어.
-이 부근의 위험한 마물과 맞서려면
-우리 스스로 실력을 갈고닦아야 해."
-1,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_001","난 이 마을의 경호원 겸 마물 사냥꾼이야.
-……당신도 너츠 클랜의 동료지?
-이 부근의 위험한 마물 정보를 가르쳐 줄게."
-2,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_Q1_000_000","무엇을 물어보시겠습니까?"
-3,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_A1_000_001","B급: 맹조의 참왕 '콕시그뤼'"
-4,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_A1_000_002","B급: 불굴의 폭주인형 '깡다구'"
-5,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_A1_000_003","A급: 간책의 도깨비 '작은 살인자'"
-6,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_A1_000_004","A급: 염와의 사역마 '후라칸'"
-7,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_A1_000_005","S급: 현학의 마녀 '면죄된 현학'"
-8,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_A1_000_006","취소"
-9,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_010","마을 주변에도 서식하는 뜸부기들의
-보스로 군림하고 있는 것이 '콕시그뤼'야."
-10,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_011","자기 구역에 대한 애착이 매우 강해서 라이벌이던 들새를
-멸망에 가까운 상황이 될 때까지 공격해서 몰아냈다고 하더군.
-그런 녀석이 문전촌 주민을 습격했다는 소문을 들었어."
-11,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_012","만약 콕시그뤼가 '인간'에게 눈독을 들인다면
-다음에 멸망당할 차례는 우리가 될지도 몰라.
-그렇게 되기 전에 섬의 주권이 누구에게 있는지 가르쳐 줘야지."
-12,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_020","이 녀석을 정예 마물로 등록하도록 신청한 사람은
-고지대에 있는 '정다움 마을'이라는 곳의 주민이라던데."
-13,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_021","그 녀석의 증언에 따르면 '깡다구'는
-코그 일가의 드워프가 만든 채굴용 자동인형이래.
-문제는 망가진 건지 움직이는 건 전부 공격한다는 거야."
-14,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_022","드워프는 두 개의 파벌로 갈라져서
-무의미한 다툼을 계속하고 있다고 들었어…….
-아마 상대 진영의 채굴을 방해하려다가 실패한 거겠지."
-15,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_030","이 섬은 머나먼 옛날부터
-인간과 홉고블린 사이에서 충돌이 끊이지 않았어."
-16,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_031","놈들은 도구를 쓸 정도의 지성은 있지만
-밭을 경작할 정도의 인내심이나 계획성은 없어.
-결국 할 수 있는 일이라곤 도적질과 폭력뿐이지."
-17,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_032","그중에서도 '작은 살인자'라는 거짓말쟁이가 아주 흉악해.
-교묘한 말로 인간을 속이고 함정에 빠뜨려서 빈털터리로 만든대.
-그 지성을 멀쩡한 곳에 쓰면 얼마나 좋아."
-18,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_040","율모어의 란지트 장군이 부리는
-구쿠마츠라는 사역마를 본 적이 있어?
-장군의 일족이 계승한 이국의 요술이 만든 산물이래."
-19,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_041","술사의 마력으로 만든 마법 생물이라서
-기본적으로는 주인이 죽으면 먼지가 되어 사라진다고 해.
-하지만 무슨 일이든 예외가 있다잖아?"
-20,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_042","란지트 장군의 아버지는 죄식자와 전투 중에 사망했는데
-그때 그의 사역마 '후라칸'은 어디론가 날아갔다고 들었어.
-주인이 죄식자가 되어서 그런 건지, 그 이유는 확실하지 않지만."
-21,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_050","'면죄된 현학'은
-'떠돌이' 죄식자 중에서도 특히 흉악한 존재지."
-22,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_051","전해지는 얘기에 따르면 그 정체는 어느 괴짜 마도사라고 해.
-지식을 과시하며 남들을 바보 취급하던 인물이었는데
-'빛의 범람'을 막을 수 있다며 호언장담했다지, 아마?"
-23,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_052","결과는 예상했겠지만……
-언제부턴가 그 마도사의 고향인 이 섬에
-비슷하게 생긴 죄식자가 나타나기 시작했어."
-24,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_053","참고로 그 마도사의 특기는
-실을 자아내서 타인의 운명에 영향을 미치는 마법이었대.
-만약 그녀가 죄식자로 변했다면 어떤 실을 자아낼까?"
+0,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000","這個村子不會、也不能依靠遊末邦的庇護。<hex:02100103>想要對抗這附近的危險魔物，<hex:02100103>只有我們自己變得更強這一條路。"
+1,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_001","我是這個村子的護衛兼怪物獵人。<hex:02100103>你也是狂熱兵團的同伴吧？<hex:02100103>我可以將這附近危險怪物的情報講給你聽！"
+2,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_Q1_000_000","想了解什麼？"
+3,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_A1_000_001","關於B級怪物：猛鳥僭王——三合鳥兒"
+4,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_A1_000_002","關於B級怪物：失控人偶——不屈號"
+5,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_A1_000_003","關於A級怪物：奸詐大哥布林——妖精小殺手"
+6,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_A1_000_004","關於A級怪物：炎渦使魔——烏拉坎"
+7,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_A1_000_005","關於S級怪物：自大魔女——得到寬恕的炫學"
+8,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_A1_000_006","取消"
+9,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_010","三合鳥兒是棲息在村子周邊的秧雞們的首領。"
+10,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_011","它擁有非常強烈的領地意識，其他鳥類近乎全都被它驅趕不見，<hex:02100103>而現在傳來了它開始襲擊門前區居民的傳聞。"
+11,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_012","如果三合鳥兒真的開始打起了人類的主意，<hex:02100103>那恐怕下一個要被它驅逐出島的就輪到我們人類了。<hex:02100103>還是在此之前好好教一教它誰才是珂露西亞島的主人吧！"
+12,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_020","申請將這傢伙登記成危險標的怪物的，<hex:02100103>是建在高臺上的友好村的村民。"
+13,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_021","根據他們的說法，<hex:02100103>不屈號是古格家族的矮人製造的採礦用自走人偶。<hex:02100103>現在它不知道出了什麼故障，見到會動的東西就會發起攻擊。"
+14,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_022","矮人分成兩個派系，互相之間一直在進行毫無意義的爭鬥。<hex:02100103>我猜他們多半是想製造個人偶妨礙對立陣營採礦，結果沒能成功。"
+15,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_030","這座島自古以來就總是發生人類與大哥布林的衝突。"
+16,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_031","大哥布林雖然有一定的智慧懂得使用工具，<hex:02100103>但缺少耕地勞作的毅力，<hex:02100103>只會偷偷搶搶做一些強盜之舉。"
+17,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_032","擅於騙人的「妖精小殺手」是他們當中非常凶惡的一個。<hex:02100103>據說他會用花言巧語將人騙進陷阱，然後將對方身上的所有<hex:02100103>東西全都搶走。有這麼高的智慧，為什麼就不能用在好地方呢……"
+18,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_040","你見過遊末邦蘭吉特將軍操控的羽蛇嗎？<hex:02100103>據說那是他用族中代代相傳的異國妖術創造出來的。"
+19,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_041","由於是一種由術者魔力構成的魔法生物，<hex:02100103>所以基本上主人一死，它們自己也會化為塵土。<hex:02100103>但凡事都會有些例外是不是？"
+20,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_042","蘭吉特將軍的父親雖然在與食罪靈的戰鬥中犧牲了，<hex:02100103>但他的使魔烏拉坎卻沒有死，而是獨自消失在了天際。<hex:02100103>不知道是不是因為主人變成了食罪靈的關係。"
+21,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_050","「得到寬恕的炫學」是獨行食罪靈中非常強大的一個。"
+22,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_051","據說它本身是一個性格乖僻的女魔道士，<hex:02100103>喜歡炫耀學識，看不起其他人，<hex:02100103>甚至誇下海口說自己能阻止光之氾濫。"
+23,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_052","結果你懂的……<hex:02100103>不知從何時起，這位女魔道士的故鄉珂露西亞島上<hex:02100103>出現了一個和她長得很像的食罪靈。"
+24,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_053","據說這名魔道士最擅長的是一種透過織線來影響他人命運的魔法。<hex:02100103>如果這個食罪靈真的是她所變，不知道會織出什麼樣的線來。"
 25,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_TALK_ACTOR","（★未使用／削除予定★）"

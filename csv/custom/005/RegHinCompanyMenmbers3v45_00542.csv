@@ -1,114 +1,45 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_000","며칠 전 코가네 상점가의 무지코 극장에서 연극을 봤는데,
-이 동쪽 나라 특유의 양식미라고 해야 하나?
-아무튼 독특한 말투와 선율이 재미있었어."
-1,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_001","죽은 주군의 원수를 갚으려는 부하…… 떠돌이 무사라던가?
-그 13명의 떠돌이 무사가 유랑 생활을 하다가 마지막에  결국
-주군의 원수를 성공적으로 갚는…… 줄거리였거든."
-2,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_002","제국민이었던 내 입장에선 참 '불합리한 삶' 같아서
-뭐랄까, 조금 어이가 없었단 말이야.
-그런데 여기 사람들은 모두 흐느껴 울면서 박수를 치더라고."
-3,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_003","제노미스 씨는 국가나 민족이 달라도 문화가 징검다리 역할을
-해줄 거라고 했지만…… 솔직히 난 잘 이해가 안 돼. 
-반대로 그들이라고 우리 연극을 이해할 수 있겠어?"
-4,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_004","앗, 쓸데없는 얘길 했군.
-미안, 미안!"
-5,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_050","아, 비에라족 말이야?
-달마스카가 식민지가 되어 제국의 영토에 편입되었을 때,
-그 땅을 떠나려 하지 않았다고 들은 적이 있어."
-6,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_051","그래도 몇 명은 제국 수도로 끌려갔다던데,
-워낙에 소수민족……이라서 말이야.
-하지만 외모가 눈에 띄어서 자연스레 주목을 끌었지."
-7,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_052","게다가…… 비에라는 아름다운 사람이 많거든.
-그 이국적인 외모를 손에 넣으려고
-엄청나게 돈을 갖다 바친 사람도 많다고 들었어."
-8,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_053","프란 님은 이 극단에 안 들어오실려나.
-분명 간판 여배우가 될 수 있을 텐데.
-아, 맞다! 저항군 간부였던가?"
-9,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_054","그럼 절대로 안 되겠네.
-우리는 그들한테 적이나 마찬가지일 테니까.
-실례했어!"
-10,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_080","무, 무, 무슨 일이야!? 지금??
-알마는 어디로…… 어디로 가 버린 거지??
-아니…… 이런! 내가 뭐, 뭘…… 본 거야……?"
-11,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_081","뭐? 겁내지 말라고?
-……아, 무슨 말을…… 누가 겁을 냈다고…….
-너, 너무하네……."
-12,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_090","무사해서 다행이야…… 알마도 무사히 돌아온 것 같고…….
-뭐!? 이번에는 람자가??
-그……그건 큰일이군…… 큰일이야."
-13,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_100","지금이야말로 실력 있는 모험가 님이 나설 차례군!
-듣자 하니 자네는 백전연마의 용사…… 아주 용맹하다면서!
-람자를…… 잘 부탁해……!"
-14,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_110","역시 대단해! 역시 에오르제아의 구세주! 도마의 해방자!
-진정한 영웅은 바로 당신 같은 용맹한 자일 테지!
-감동했어! 맹렬하게 감동했다고!!"
-15,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_120","""뭐? 같은 인간? 훗, 불결하기가 이를 데 없군!
-  태어난 순간부터 너희들은
-  우리 귀족을 위해 일해야 한다고!"
-16,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_121","""태어난 순간부터 너희들은
-  우리 귀족들을 위해 일하는 가축이야!!
-　　　　　　　　　　　　　　　　　　……흐음.  "
-17,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_122","으음, 너무 심해. 연기하면서도 구역질이 날 정도야.
-하지만 이런 적나라한 대사가 확 와닿는 것 같아. 
-그런데 대체 왜 내가 아르가스를 연기해야 하지?"
-18,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GARLEANSMEMBER_000_000","제국에 남아 있는 부모님과 형제들은 지금쯤 어떤 마음일까……."
-19,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GARLEANSMEMBER_000_001","……아아, 미안.
-잠깐 생각에 잠겨 있었어…….
-미안하지만 잠시 혼자 있게 해주겠나……."
-20,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GARLEANSMEMBER_000_050","제국에 남아 있는 부모님과 형제들은 지금쯤 어떤 마음일까……."
-21,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GARLEANSMEMBER_000_051","뭐? 달마스카 저항군?
-게다가 그들에게 협력한다고?
-농담하지 마. 그건 조국을 배신하는 행위잖아……."
-22,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GARLEANSMEMBER_000_052","……지금 말한 건 잊어주겠나.
-그리고 미안하지만……
-잠시 혼자 있게 해줘……."
-23,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GARLEANSMEMBER_000_080","지…… 지금 그것도 '성석'의……
-'성석'에 숨겨진 힘이라고…… 할 수 있는 건가……?
-무섭군…… 정말 무서워……."
-24,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GARLEANSMEMBER_000_090","아니, 그런 일이……!
-성석 같은 불길한 유물은 관리를 꼭 해야겠군……!
-그 중책을 맡는 건…… 역시…………!"
-25,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GARLEANSMEMBER_000_100","……람자는 배우로도 작가로도 재능이 있는 젊은이야……
-용사인지 뭔지…… 외지의 야만스런 모험가에게……
-역시…… 각하에게 도움을…… 구해야…… 중얼중얼……."
-26,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PRETTYMEMBER_000_000","……알마, 걱정이네요.
-처음엔 감기에 걸렸나 싶었지만,
-다른 무엇인가가…… 아니에요, 제 착각인가 봐요……."
-27,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PRETTYMEMBER_000_050","……비에라족? 물론 알고 있죠!
- 과거에 제국 수도에서 본 적이 있어요.
-날씬한 모습이 참 아름답더군요."
-28,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PRETTYMEMBER_000_080","……보, 보, 보, 보셨나……요?
-사……사람이…… 알마가…… 빨려들어갔잖아요?
-어……어떻게 된…… 거죠? 네에?"
-29,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PRETTYMEMBER_000_090","알마, 무사해서 다행이에요.
-네에!? 람자가 적에게 붙잡혔다고요!?
-어떻게 이런 일이…… 람자, 괜찮……겠죠?"
-30,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PRETTYMEMBER_000_100","믿고 있을게요! 람자를 잘 부탁해요!
-나쁜 놈을 확 무찔러 주세요!
-모험가 님은 정의의 사도죠? 정의의 주먹을 날려줘요!"
-31,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PRETTYMEMBER_000_110","잘됐다! 다들 무사히 돌아와서 기뻐요!
-나쁜 놈을 쓰러뜨린 거죠? 역시 대단해요!
-모험가 님, 존경해요~!"
-32,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PRETTYMEMBER_000_111","람자도 무사해서 다행이에요…….
-람자는 아직 어리지만 배우로서도 실력이 있고,
-희곡 데뷔작도 제국 수도에서 높은 평가를 받았어요.
-"
-33,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PRETTYMEMBER_000_112","이제 이발리스 탐색 여행도 끝인가요?
-그가 더 이상 위험한 일을 안 했으면 좋겠어요.
-어머? 제 얼굴이 빨개졌나요??"
-34,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PRETTYMEMBER_000_120","""우리들과 당신들이 뭐가 다르다는 거야!?
-  태어난 환경이 다를 뿐이잖아!"
-35,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PRETTYMEMBER_000_121","""궁핍했던 경험이 있어?
-  몇 달 동안 콩만 들어 있는 수프만 먹어 봤어?"
-36,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PRETTYMEMBER_000_122","""어째서 우리가 굶어야 해?
-  이게 다 당신들 귀족이 빼앗아가기 때문이잖아!
-  당신들이 우리가 가진 모든 것을 빼앗아가잖아!"
-37,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PRETTYMEMBER_000_123","……어때요? 제 연기?
-조금 더 절실하게 해볼까요……?
-콩만 들어가는 수프를 만들어볼까…… 어디 요리법이……?"
+0,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_000","前幾天我在小金街的無地鼓座看了一場演出，<hex:02100103>見識到了遠東之國特有的戲劇形式。<hex:02100103>劇中獨特的唱腔和旋律非常有意思，令我印象深刻。"
+1,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_001","它的劇情大致講的是13名浪人武士為了給亡君報仇而四處流浪，<hex:02100103>最後成功報得大仇這樣一個故事。"
+2,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_002","從我這原帝國國民的角度來看，<hex:02100103>這13人四處流浪的生活方式極為不符合常理，看得我目瞪口呆。<hex:02100103>不過本地觀眾卻都感動得一塌糊塗，全含著淚鼓掌喝彩。"
+3,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_003","傑諾米先生說文化是不同國家與民族間相互理解的橋樑……<hex:02100103>但說實話，我覺得自己完全無法理解他們的文化。<hex:02100103>換個角度一想，我覺得我們的戲劇他們應該也無法理解才對……"
+4,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_004","哎呀，看我都說了些什麼多餘的話。<hex:02100103>我這可真是太失禮了！"
+5,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_050","維艾拉族啊……<hex:02100103>我聽說當年達瑪斯卡併入帝國版圖成為一個屬州時，<hex:02100103>維艾拉族也沒有選擇離開他們的故鄉。"
+6,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_051","當時也有一部分維艾拉族被抓到了帝都，<hex:02100103>給我們留下的感覺就是這個民族非常少見吧。<hex:02100103>維艾拉族雖然少見，但外貌卻十分的惹眼，想不被人注意都難。"
+7,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_052","而且維艾拉女郎都極為漂亮，<hex:02100103>很多有錢人不惜代價想將這些充滿異域風情的美貌佳人擁入懷中。"
+8,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_053","你說的那個芙蘭小姐不知道會不會加入我們劇團啊？<hex:02100103>如果加入的話，她肯定能成為我們最火的女演員！<hex:02100103>啊，她是反抗軍的幹部吧？"
+9,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_054","那肯定沒戲了，<hex:02100103>她只會把我們當成敵人看待。<hex:02100103>這可真是失禮了。"
+10,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_080","剛剛剛是怎麼回事？！<hex:02100103>阿魯瑪是跑到哪裡去了？？<hex:02100103>我我我究竟是看到了什麼？？"
+11,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_081","讓我別怕？<hex:02100103>你你你哪隻眼睛看到我怕啦，真、真是太失禮了……"
+12,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_090","你和阿魯瑪都平安回來真是太好了……<hex:02100103>啊？！這次拉姆札又丟了？？<hex:02100103>真、真是太危險了……"
+13,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_100","現在正是冒險者出場的時候！<hex:02100103>聽說你是一名身經百戰的勇者！<hex:02100103>拉姆札就拜託你了！"
+14,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_110","真厲害！不愧是艾奧傑亞的救世主、多瑪的解放者！<hex:02100103>真正的英雄指的就是像你這樣的強者吧！<hex:02100103>實在是太令人感動了！！"
+15,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_120","「我們都是平等的人？呵，別做夢了！<hex:02100103>你們這些賤民從出生就注定要為我們貴族服務！」"
+16,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_121","「所以說，其實你們從出生就注定了是我們貴族的牲畜啊！！」"
+17,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_122","呃，好惡劣的臺詞啊，念得我都想吐了。<hex:02100103>不過這也說明臺詞寫得確實到位，充分凸顯了角色的性格。<hex:02100103>可是話說回來，為什麼要讓我演阿加斯啊？"
+18,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GARLEANSMEMBER_000_000","留在帝國的家人現在怎麼樣了……"
+19,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GARLEANSMEMBER_000_001","……啊，對不起。<hex:02100103>我在想事情走神了……<hex:02100103>不好意思，請讓我一個人靜靜……"
+20,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GARLEANSMEMBER_000_050","留在帝國的家人現在怎麼樣了……"
+21,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GARLEANSMEMBER_000_051","嗯？協助達瑪斯卡的反抗軍？<hex:02100103>喂喂，你沒在開玩笑吧？<hex:02100103>這可是背叛我的祖國……"
+22,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GARLEANSMEMBER_000_052","請忘了我剛才說的話吧……<hex:02100103>還有不好意思，請讓我一個人靜靜……"
+23,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GARLEANSMEMBER_000_080","剛、剛剛那也是聖石的力量嗎？<hex:02100103>可怕……真是太可怕了……"
+24,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GARLEANSMEMBER_000_090","什麼，竟然發生了這種事！<hex:02100103>聖石這種不祥的東西果然應該控制起來才行！<hex:02100103>而能夠擔此重任的只有……"
+25,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GARLEANSMEMBER_000_100","拉姆札是個很有表演與寫作天賦的年輕人……<hex:02100103>我不知道什麼勇者不勇者的，只知道身為高貴的加雷馬人……<hex:02100103>不應該去向什麼蠻夷之地的野蠻冒險者求助……"
+26,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PRETTYMEMBER_000_000","好擔心阿魯瑪啊……原先我以為她只是太疲勞導致<hex:02100103>抵抗力下降染了風寒，但現在看好像事情沒有這麼簡單……<hex:02100103>不不不，一定是我想多了……"
+27,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PRETTYMEMBER_000_050","維艾拉族？我知道啊！<hex:02100103>從前我在有在帝都見到過！<hex:02100103>高挑苗條超級美！"
+28,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PRETTYMEMBER_000_080","你你你你也看到了，對吧？<hex:02100103>人人人，阿阿阿魯瑪被吸吸吸吸進去了？<hex:02100103>這、這到底是怎麼回事啊？？"
+29,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PRETTYMEMBER_000_090","阿魯瑪沒事真是太好了！<hex:02100103>唉？！拉姆札被敵人抓走了？！<hex:02100103>怎麼會這樣……拉姆札不會有事吧……"
+30,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PRETTYMEMBER_000_100","拜託了，請救出拉姆札！我相信你能辦到！<hex:02100103>還有還有，也請將壞蛋好好收拾一頓！<hex:02100103>冒險者你是正義的夥伴對吧？讓壞蛋好好嚐嚐正義的鐵拳吧！"
+31,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PRETTYMEMBER_000_110","大家都平安無事真是太好了！<hex:02100103>你一定已經將壞蛋好好收拾了一頓吧？真是太厲害了！<hex:02100103>我好尊敬你呢，冒險者！"
+32,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PRETTYMEMBER_000_111","拉姆札也是，能平安回來真是太好了……<hex:02100103>他年紀輕輕就有著出色的演技，<hex:02100103>出道作品在帝都曾經引起了熱潮呢！"
+33,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PRETTYMEMBER_000_112","探索伊瓦利斯的旅程是不是這下就算是結束了。<hex:02100103>真不想再讓他遇到危險了……<hex:02100103>咦？我臉紅了？？"
+34,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PRETTYMEMBER_000_120","「我們與你們有什麼不同？！<hex:02100103>不就是生在了不一樣的家庭裡嗎！」"
+35,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PRETTYMEMBER_000_121","「你捱過餓嗎？<hex:02100103>體會過連續幾個月都只能靠豆子煮的湯果腹的感覺嗎？」"
+36,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PRETTYMEMBER_000_122","「憑什麼我們就非得捱餓？<hex:02100103>憑什麼我們就非得遭受貴族的剝削！<hex:02100103>憑什麼我們連生存的權利都要被你們奪走！」"
+37,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PRETTYMEMBER_000_123","……我的表演如何？<hex:02100103>是不是應該更感同身受一點才好呢……<hex:02100103>我也用豆子煮湯來喝喝好了……不知道哪能找到這樣的食譜？"
 38,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_BEWITCHINGMEMBER_000_000","（★未使用／削除予定★）"
 39,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_BEWITCHINGMEMBER_000_050","（★未使用／削除予定★）"
 40,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_BEWITCHINGMEMBER_000_080","（★未使用／削除予定★）"
@@ -118,167 +49,60 @@ int32,str,str
 44,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_BEWITCHINGMEMBER_000_110","（★未使用／削除予定★）"
 45,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_BEWITCHINGMEMBER_000_120","（★未使用／削除予定★）"
 46,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_BEWITCHINGMEMBER_000_121","（★未使用／削除予定★）"
-47,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_MUSCULARMEMBER_000_000","오, 친구여! 여전히 멋진 근육이군!
-아, 갑자기 친구라 불러서 미안.
-하지만 자네는…… 아니 자네의 근육은 이해해주겠지!"
-48,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_MUSCULARMEMBER_000_001","자, 함께 이 아름다운 근육을 유지하기 위해
-단련을 해보자고!
-자, 함께 근육 체조를 하자!"
-49,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_MUSCULARMEMBER_000_050","비에라!? 어디야, 어디 있어?
-체지방이 적고 균형 잡힌 몸매가 완벽해……!
-정말로 멋진 종족이야! 그야말로 근육계의 전설 아니겠나!"
-50,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_MUSCULARMEMBER_000_051","아아! 보고 싶군! 내 눈으로 직접 확인하고 싶어!
-아름답고 부드러운 대퇴이두근…… 하퇴삼두근……!
-대둔근! 승모근! 상완삼두근!!"
-51,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_MUSCULARMEMBER_000_080","그, 근육을 넘어선…… 아니 인지를 넘어선 불가사의함……!
-이것이 마법……? 너, 너무 놀랐어!!
-시, 심각해! 근육의 떨림이 멈추지 않잖아!!"
-52,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_MUSCULARMEMBER_000_090","이럴 수가, 람자가 대신 붙잡혔을 줄이야!
-이게 대체 무슨 근육이 놀랄 만한 사건인가!
-내가 힘이 없다는 게 한심하군…… 근육은 이렇게나 훌륭한데!"
-53,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_MUSCULARMEMBER_000_100","이럴 때야말로 내가 나서야지! 각오는 되어 있어!
-힘 없는 근육질이지만, 내가 같이 가줄게……!
-응? 괜찮다고? ……그, 그렇구나. 그럼 너한테 맡길게!"
-54,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_MUSCULARMEMBER_000_110","어서 와! 체격이 우람한 나의 파트너여!
-승리에 취한 그 표정, 그 몸, 모든 것이 아름답군!
-역시 내 목표는 너야! 너가 나의 모든 것이야!"
-55,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_MUSCULARMEMBER_000_120","""무언가를 이루기 위해선 '희생'이 필요한 법!
- '희생'을 치르지 않는 한, 사람은 앞으로 나아갈 수 없다!
-  역사를 만들 수가 없다고!"
-56,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_MUSCULARMEMBER_000_121","""이 부패한 이발리스를 봐라!!
-  누군가 바꿔야 한다!
-   비록 그것이 '악행'이라 불리더라도!!"
-57,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_MUSCULARMEMBER_000_122","음, 역시 제노미스 님!
-하나 하나 다 멋지고 와닿는 대사야!
-연기하는 보람이 있다니까!"
-58,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_000","당신한테 감사 인사를 하고 싶어요!
-프리마비스타에만 있지 말고 밖으로 나가보라고 하셨죠?
-당신의 조언을 듣고 며칠 전 오노코로 섬까지 갔었습니다!"
-59,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_001","쿠가네와는 다른…… 그야말로 이국 정서가 넘치는 광경에
-마음이 정화되는 기분이었습니다!
-정말 좋았답니다!"
-60,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_002","해적 형제단과도 친해졌어요!
-술을 마시면서 즉흥적으로 연주를 했더니……
-그들도 그 자리에서 바로 춤을 추더라니까요!"
-61,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_003","제국에서  쫓겨난 몸, 이 극단에서 열심히 노력해야지,
-그렇게 생각하고 여기까지 왔건만,
-저도 모르게 조금씩 우울한 마음이 생겼었나 봅니다."
-62,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_004","덕분에 다시 열심히 해야겠단 생각이 듭니다.
-조언해 주셔서 감사해요!"
-63,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_050","비에라족 저항군 말인가요…….
-제국은 복종하는 자에게 균등한 기회를 준다고 하지만,
-갈레안족이 우수하다는 뿌리깊은 편견이 있는 것도 사실이죠."
-64,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_051","물론 제노미스 님처럼 그런 편견을 갖지 않고
-오히려 오만함을 없애려고 노력하는 갈레안족도 있습니다.
-하지만 식민지에선 잠재적인 차별이 강하게 존재했으니까요."
-65,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_052","구 달마스카 왕국엔 정말 다양한 인종이 있었는데,
-모든 국민에게 평등한 권리와 의무가 주어졌다더군요.
-비에라족은 자긍심 높은 숲의 수호자…… 제국과는 안 맞았겠죠."
-66,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_053","조국이 제국에게 지배당하고 짓밟혀지는 굴욕…….
-지금 그녀들은 어떤 마음으로 활동을 하고 있을까요.
-그 속마음이 궁금합니다."
-67,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_054","아, 죄송합니다…… 마치 전혀 상관없다는 듯이 말해서…….
-저도 과거 제국인이었으니 미움받는 입장인 건 잘 알아요.
-하지만 개인적으로는 그녀들 편에 서고 싶습니다."
-68,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_080","아…… 운만 좋으면 골모어 대밀림의 비에라족 부락에서
-새로운 음율을 들을 수 있지 않을까…… 기대했었는데……
-그…… 그럴 만한 상황이 아니군요……."
-69,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_090","……사실, 전 고아였습니다.
-제국 수도의 맨홀 밑 하수도에서 동료들과 살았죠.
-……후후, 빈부 격차가 없는 나라가 어디 있겠습니까."
-70,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_091","어느 날 치안유지를 명목으로 하수도 접근 금지령이 내려졌죠.
-주거지를 빼앗긴 우리들은 도망칠 수밖에 없었지만,
-당국의 정책을 반대하는 어른들도 있었습니다."
-71,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_092","갈 곳 잃은 어린이들을 돕자는 움직임이 시작되었어요.
-무슨 복지 정책이라나 뭐라나.
-그때 저를 거둬주신 분이 제노미스 씨 부부였습니다."
-72,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_093","처음엔 극단에서 잡일을 주로 했었는데,
-제국인은 학문을 익혀야 한다며 학교에 입학시켜 주시고,
-게다가 음악에 재능을 보이니 전문학교에도 보내주셨습니다."
-73,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_094","……람자는 남동생 같은 존재였습니다.
-어릴 때부터 형제처럼 자랐거든요…….
-부탁입니다, 람자를 무사히 구해주세요……."
-74,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_110","어서 오십시오!
-당신과 람자가 무사히 돌아오게 해주신 신께 감사드립니다!
-아, 정말로 걱정했었습니다!"
-75,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_120","프란 님의 배려로 골모어 대밀림에서 사는
-비에라족의 이야기꾼을 소개받았어요!
-예전부터 내려오는 음율을 알고 계신다고 합니다……."
-76,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_121","아아, 창작 의욕이 마구 끓어오르는 군요!
-이번 무대 '조디악 브레이브 스토리2'의 곡은
-달마스카 전통 음율을 중심으로 작곡할 생각입니다!"
-77,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_DANCINGMEMBER_000_000","하나, 둘, 셋♪ 하나, 둘, 셋♪
-……이번엔 무슨 옷을 입고 만나러 갈까나."
-78,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_DANCINGMEMBER_000_001","앗, 어떡하면 좋아!
-저도 모르게 그만 입 밖으로 나왔네요……!
-지, 지금 그 얘긴 못 들은 걸로 해주세요!!"
-79,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_DANCINGMEMBER_000_050","……이름으로 불러주지 않으려나.
-그럼 더 사이가 가까워질 것 같은데~~.
-하지만 그러려면 내가 먼저……."
-80,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_DANCINGMEMBER_000_051","어머? 드, 들으셨어요??
-그냥 혼잣말한 거예요!!
-못 들은 걸로 해주세요……네?"
-81,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_DANCINGMEMBER_000_080","알마가…… 알마가……!?
-마치 무언가에 빙의된 것 같았는데……
-그게 뭐였죠, 대체……?"
-82,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_DANCINGMEMBER_000_090","아, 다행이에요. 알마는 무사했군요!
-네?? 람자가 대신 잡혀갔어요??
-대체 이게 다 무슨 일이래요??"
-83,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_DANCINGMEMBER_000_100","람자…… 무사해야 할 텐데요…….
-아니, 람자니까…… 분명 괜찮을 거예요!
-그를…… 그를 구해주세요……."
-84,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_DANCINGMEMBER_000_110","아, 다행이에요!
-정말 다행이에요!
-저, 너무 걱정이 돼서……."
-85,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_DANCINGMEMBER_000_120","소…… 소개할게요.
-이 사람은 쿠가네 무지코 극장에서 일하고 있지만,
-이 프리마비스타에서 일해보고 싶다고 해서……."
-86,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_YOUNGMANOFLOVE_000_121","저…… 저는 무지코 극장에서 소품 담당으로 일했는데요,
-이국의 무대 장치와 연출을 배우고 싶어서
-그러니까 여기로 유학을 온 거라 할 수 있습니다!"
-87,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_DANCINGMEMBER_000_122","저, 정말이에요!
-그런 의심의 눈초리를 거둬주세요!!
-네? 얼굴이 빨갛다고요? 아이참! 왜 그러세요!"
-88,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_ASSISRANTDIRECTOR_000_000","안녕하세요?
-기록 장치가 편리해서 한 대 더 늘려 봤어요!
-스승님들의 말을 더 녹음해봤는데, 들어보실래요?"
-89,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_ASSISRANTDIRECTOR_000_050","어서 오세요, 피곤하시지 않나요?
-기록 장치가 편리해서 한 대 더 늘려 봤어요!
-스승님들의 말을 더 녹음해봤는데, 들어보실래요?"
-90,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_ASSISRANTDIRECTOR_000_080","큰일이야, 큰일! 
-알마가 사라졌어!!
-이게 대체 어떻게 된 일이지!?"
-91,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_ASSISRANTDIRECTOR_000_090","그렇군요, 람자가 대신…….
-쿠가네에 오면서 늘 화가 나 있거나 예민해서
-늘 상냥했던 애가 왜 저러지? 싶었어요……."
-92,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_ASSISRANTDIRECTOR_000_091","최근엔 다시 원래대로 돌아왔더라고요.
-몽블랑이랑 당신 덕분인 것 같긴 한데, 어쩌면
-낙향한 자신에 대한 분노가 사라진 걸 수도 있어요."
-93,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_ASSISRANTDIRECTOR_000_092","우리들은 스승님을 따라 쿠가네까지 오게 됐잖아요……
-몸에 배어 있던 '제국시민'이라는 자긍심을 버려야 하는데,
-머리로는 알고 있지만, 잘 되지가 않거든요."
-94,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_ASSISRANTDIRECTOR_000_093","하물며 람자는 아직 젊잖아요.
-이성과 감정을 분리해야 한다는 걸 알면서도 화가 났을 거예요.
-젊을 땐 다들 그렇잖아요."
-95,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_ASSISRANTDIRECTOR_000_094","부탁입니다…….
-람자를…… 람자를 구해주세요…….
-전 역시 이 극단을 가족처럼 생각하나 봅니다……."
-96,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_ASSISRANTDIRECTOR_000_110","저는 당신을 아주 뼛속깊이 믿고 있었어요!
-반드시 람자를 구해줄 거라 생각했습니다!
-잘하셨어요! 정말 멋져요!"
-97,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_ASSISRANTDIRECTOR_000_120","새로운 무대도 결정되고 드디어 극단도 다시 움직이네요!
-인력이 부족하니 쿠가네에서 젊은 애들을 더 모아야겠어요!
-당신도 도와주시지 않을래요? ……아니, 농담이에요!!"
-98,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_ASSISRANTDIRECTOR_000_130","새로운 무대도 결정되고 드디어 극단도 다시 움직이네요!
-인력이 부족하니 쿠가네에서 젊은 애들을 더 모아야겠어요!
-당신도 도와주시지 않을래요? ……아니, 농담이에요!!"
-99,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_ASSISRANTDIRECTOR_000_131","……그러고 보니 미코토 씨가 돌아오셨죠.
-샬레이안에 돌아가지 않고 잠시 각지를 여행하며
-현지 조사를 하겠다고 하셨어요!"
-100,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_ASSISRANTDIRECTOR_000_132","프란 님과 브와기 님도 달마스카로 돌아오셨군요.
-그분들은  제IV군단을 상대로 저항활동을 재개한다더군요.
-……힘들겠어요, ……목숨만은 잃지 않길 바라고 있어요.
-"
+47,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_MUSCULARMEMBER_000_000","噢噢，朋友！你的肌肉風采依舊！<hex:02100103>啊，不好意思，突然就對你朋友相稱了！<hex:02100103>不過你一定能……你的肌肉一定能理解我的！"
+48,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_MUSCULARMEMBER_000_001","美好的肌肉需要每日維持！<hex:02100103>讓我們來共同鍛鍊吧！<hex:02100103>來，一起做肌肉體操！"
+49,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_MUSCULARMEMBER_000_050","維艾拉族？！在哪？在哪呢？？<hex:02100103>維艾拉族可是肌肉界的傳奇！他們體脂肪雖然不多，<hex:02100103>卻都維持著美麗的黃金比例！非常棒、非常肌肉！"
+50,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_MUSCULARMEMBER_000_051","啊——好想親眼看看維艾拉族、親眼見證傳奇！<hex:02100103>他們美麗又富有彈性的股二頭肌！小腿三頭肌！<hex:02100103>臀大肌！斜方肌！肱三頭肌！！"
+51,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_MUSCULARMEMBER_000_080","超、超越肌肉……超越人類認知的奇異現象！<hex:02100103>那就是魔法嗎？真是太肌肉了太可怕了！！<hex:02100103>我的肌肉一直在瑟瑟發抖，現在也無法平息……"
+52,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_MUSCULARMEMBER_000_090","什麼，竟然換拉姆札被抓走了！<hex:02100103>這可真是肌肉的狀況！<hex:02100103>我為自己的無力感到羞愧……明明有一身這麼棒的肌肉！"
+53,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_MUSCULARMEMBER_000_100","在這種非常時刻，每個人都需要貢獻出自己的力量才行！<hex:02100103>雖然我的肌肉沒什麼戰鬥力，但這次我也跟你一起去！<hex:02100103>唉？不用了？這、這樣啊……那就靠你了！"
+54,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_MUSCULARMEMBER_000_110","我肌肉隆起的搭檔啊，歡迎回來！<hex:02100103>你洋溢著勝利喜悅的表情與身體是如此的美麗！<hex:02100103>果然你才是值得我追求的最高目標！你就是我的一切！"
+55,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_MUSCULARMEMBER_000_120","「想成大事哪能沒有犧牲！<hex:02100103>不付出犧牲，人類就無法前進、無法寫下新的歷史！」"
+56,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_MUSCULARMEMBER_000_121","「你看看這腐朽的伊瓦利斯！！<hex:02100103>必須有人站出來改變這一切才行！<hex:02100103>就算在世人眼中這所作所為皆是「惡行」也在所不惜！！」"
+57,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_MUSCULARMEMBER_000_122","嗯——不愧是傑諾米先生！<hex:02100103>這臺詞很棒很肌肉！<hex:02100103>我就喜歡演這樣的角色！"
+58,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_000","我要向你道謝！<hex:02100103>之前你不是建議我出去走走、不要宅在劇場艇上嘛。<hex:02100103>於是前幾天我聽從你的建議出了次門，去到了自凝島那邊！"
+59,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_001","自凝島的異國風情與黃金港又有許多不同，<hex:02100103>我的整個心靈都好像受到洗滌！<hex:02100103>哎呀，旅行真是太好了！"
+60,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_002","我還和那邊的海盜眾交上了朋友！<hex:02100103>酒席上我即興演奏了一曲，<hex:02100103>沒想到他們也跟著我的旋律邊唱邊跳了起來！"
+61,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_003","雖然被帝國驅逐出境後，<hex:02100103>我決定繼續在劇團發展而跟著一起來到了這異國他鄉，<hex:02100103>但心中終究是在不知不覺間累積了一些不滿的情緒。"
+62,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_004","不過多虧了這次遠行，我又恢復幹勁了！<hex:02100103>真的非常感謝你的建議！"
+63,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_050","維艾拉族的反抗軍成員嗎……<hex:02100103>帝國雖然表面上給予所有歸順者平等的機會，<hex:02100103>但實際上自命只有加雷馬族才是優秀人種的思想早已根深蒂固。"
+64,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_051","雖然也有很多像傑諾米先生一樣不抱有這樣的偏見，<hex:02100103>甚至努力在摒棄這種傲慢的加雷馬族人存在，<hex:02100103>但在各屬州，潛在的種族歧視還是很嚴重的。"
+65,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_052","舊達瑪斯卡王國曾經是一個多種族共同繁榮，國民們有著平等的<hex:02100103>權利與義務的國家。而維艾拉族自譽森林的守護者、心中有著<hex:02100103>自己的驕傲，與藐視其他種族的加雷馬人肯定是合不來的……"
+66,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_053","他們承受了祖國被帝國蹂躪、統治的屈辱……<hex:02100103>不知道現在是抱著怎樣的心情在進行抵抗活動……"
+67,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_054","啊，抱歉……我這話說得好像自己是個局外人一樣……<hex:02100103>儘管我不再是帝國人，但被仇視的現實仍未改變，這點我非常理解。<hex:02100103>不過我個人很希望和她們冰釋前嫌。"
+68,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_080","唉……我還想著這次是不是有機會能去葛爾摩大密林的<hex:02100103>維艾拉族部落親耳聽聽她們的音樂……<hex:02100103>現在看來是沒機會做這種不合時宜事情了……"
+69,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_090","其實……從前我是個流浪兒，<hex:02100103>每天睡在帝都的下水道裡。<hex:02100103>呵呵，無需驚訝，貧富差距這種東西不管在哪裡都是存在的。"
+70,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_091","有一天，下水道被政府以維持治安為名義封鎖了。<hex:02100103>我們這些失去了住處的流浪兒什麼也做不了，只能選擇離開。<hex:02100103>但也有很多人因為我們的遭遇而對這一政策提出了抗議……"
+71,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_092","然後政府就出臺了動員國民收養孤兒的政策……<hex:02100103>我就是這樣被傑諾米夫婦收養的。"
+72,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_093","一開始我只是在劇團幫忙幹點雜活，但傑諾米先生以身為<hex:02100103>帝國國民應該掌握最低限度的知識為理由將我送進了學校，<hex:02100103>後來還讓我升入了音樂方面的專門校進修。"
+73,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_094","拉姆札也是從小跟我一起長大的，<hex:02100103>他就像是我的親弟弟一樣……<hex:02100103>拜託了，求你一定要將他平安救出來……"
+74,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_110","歡迎回來！<hex:02100103>感謝神，你和拉姆札都平安無事！<hex:02100103>我總算可以放下心來了！"
+75,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_120","芙蘭小姐說能幫我引薦葛爾摩大密林裡負責文化傳承的維艾拉族！<hex:02100103>聽說那位女士懂得很多古時流傳下來的音樂……"
+76,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_121","這可真是太好了！現在我腦中突然湧現出了許多創作靈感！<hex:02100103>我決定了！這次要以達瑪斯卡的傳統旋律為核心<hex:02100103>創作新劇黃道勇士傳奇2的曲子！"
+77,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_DANCINGMEMBER_000_000","一二三，一二三。<hex:02100103>下次去見他時怎麼打扮好呢……"
+78,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_DANCINGMEMBER_000_001","啊！不好意思！<hex:02100103>我怎麼不小心給說出來了！<hex:02100103>請、請你當成什麼都沒聽到吧！！"
+79,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_DANCINGMEMBER_000_050","他就不能用更親昵的稱呼稱呼我嗎……<hex:02100103>這樣才更容易縮短兩人之間的距離……看來應該我先帶頭做個表率才行，但又不好意思開口……"
+80,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_DANCINGMEMBER_000_051","啊！你都聽到了？？<hex:02100103>我我我只是在自言自語而已！<hex:02100103>請你當做什麼都沒聽到吧，好嗎？"
+81,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_DANCINGMEMBER_000_080","阿魯瑪她……阿魯瑪她……剛剛是怎麼了？<hex:02100103>像是被什麼髒東西上了身一樣……<hex:02100103>那究竟是……"
+82,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_DANCINGMEMBER_000_090","太好了，阿魯瑪平安無事！<hex:02100103>唉？？換拉姆札被抓走了？？<hex:02100103>這究竟是怎麼回事？？"
+83,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_DANCINGMEMBER_000_100","拉姆札不會有事吧……<hex:02100103>不不不，不能悲觀，他一定沒事的！<hex:02100103>請你一定要將他救出來……"
+84,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_DANCINGMEMBER_000_110","啊——太好了！<hex:02100103>真是太好了！<hex:02100103>我之前一直擔心得擔心得……"
+85,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_DANCINGMEMBER_000_120","我、我來為你介紹一下。<hex:02100103>他是在黃金港無地鼓座工作的人，<hex:02100103>最近來到了劇場艇工作……"
+86,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_YOUNGMANOFLOVE_000_121","我我我是無地鼓座的舞臺工作人員，<hex:02100103>是、是為了學習異國的舞臺裝置、演出手法等知識<hex:02100103>特地前來劇場艇留學的！"
+87,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_DANCINGMEMBER_000_122","我、我們說的都是真的啦，<hex:02100103>請不要用那種懷疑的眼光看我們好不好！<hex:02100103>啊？我的臉很紅？討厭……羞死了……"
+88,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_ASSISRANTDIRECTOR_000_000","你好，近況如何？<hex:02100103>由於記錄裝置實在方便，我們就另增設了一臺！<hex:02100103>我用它錄下了更多師父他們說的話。"
+89,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_ASSISRANTDIRECTOR_000_050","歡迎回來，休息一會如何？<hex:02100103>由於記錄裝置實在方便，我們就另增設了一臺！<hex:02100103>我用它錄下了更多師父他們說的話。"
+90,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_ASSISRANTDIRECTOR_000_080","糟糕糟糕糟糕！這下真糟糕了！<hex:02100103>阿魯瑪小姐竟然消失了！！<hex:02100103>這究竟是怎麼回事？！"
+91,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_ASSISRANTDIRECTOR_000_090","原來發生了這樣的事，拉姆札代替阿魯瑪被抓走了……<hex:02100103>剛來黃金港那會，拉姆札一直很焦躁、說話也帶著刺，<hex:02100103>完全沒有他平時溫文爾雅的樣子……"
+92,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_ASSISRANTDIRECTOR_000_091","不過拉姆札最近像是附身被解除了一樣突然恢復了正常。<hex:02100103>這都是多虧了你和蒙布朗的幫助！畢竟是被迫離開了帝都，<hex:02100103>拉姆札之前應該是一直在生自己的氣所以才會變成那個樣子的。"
+93,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_ASSISRANTDIRECTOR_000_092","我們這些人跟著師父一起來到了這黃金港，雖然理智上明白<hex:02100103>自己已經不再是帝國人，必須捨棄從前那些身為帝國市民<hex:02100103>的優越感，但實際上多年以來的習慣卻不是那麼容易說變就變的。"
+94,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_ASSISRANTDIRECTOR_000_093","尤其是拉姆札還年輕，<hex:02100103>理智與感情的相左讓他隱藏不住心中的焦躁。<hex:02100103>畢竟不像大人們能喜怒不形於色。"
+95,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_ASSISRANTDIRECTOR_000_094","懇求你……<hex:02100103>懇求你將拉姆札救出來……<hex:02100103>劇團裡的每一個人都是我的家人，我愛他們……"
+96,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_ASSISRANTDIRECTOR_000_110","我就知道你能做到！<hex:02100103>你果然將拉姆札救出來了！<hex:02100103>真棒，你太帥了！"
+97,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_ASSISRANTDIRECTOR_000_120","新劇已經敲定，劇團終於重新運轉了起來！<hex:02100103>不過人手不夠，得從黃金港吸納一些新血才行……<hex:02100103>你要不要也來幫忙？哈哈，我開玩笑的啦。"
+98,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_ASSISRANTDIRECTOR_000_130","新劇已經敲定，劇團終於重新運轉了起來！<hex:02100103>不過人手不夠，得從黃金港吸納一些新血才行……<hex:02100103>你要不要也來幫忙？哈哈，我開玩笑的啦。"
+99,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_ASSISRANTDIRECTOR_000_131","說起來，水琴小姐已經離開了。<hex:02100103>她好像暫時不打算回薩雷安，<hex:02100103>而是想在各地走一走，進行實地調查研究。"
+100,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_ASSISRANTDIRECTOR_000_132","芙蘭小姐和布瓦吉先生他們也返回了達瑪斯卡。聽說他們要<hex:02100103>再次針對駐留在達瑪斯卡的帝國第四軍團展開抵抗活動。<hex:02100103>唉，這是一條充滿艱辛的道路，希望他們能平安無事……"
 101,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_YOUNGMANOFLOVE_000_000","（★未使用／削除予定★）"
 102,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_YOUNGMANOFLOVE_000_001","（★未使用／削除予定★）"
 103,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_YOUNGMANOFLOVE_000_050","（★未使用／削除予定★）"

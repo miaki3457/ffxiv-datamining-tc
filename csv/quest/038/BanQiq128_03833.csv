@@ -1,11 +1,9 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_BANQIQ128_03833_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
-
-호파루의 소반에 있는 코테루리 파소리는 만들고 싶은 것이 있는 듯하다."
-1,"TEXT_BANQIQ128_03833_SEQ_01","코테루리 파소리에게 의뢰받은 물건을 납품"
+0,"TEXT_BANQIQ128_03833_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整（限定職業）<hex:0249020103><hex:0248020103><hex:02100103>※本任務需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>霍啪櫨古盤的柯呫盧利·帕嗦利有想要製作的東西。"
+1,"TEXT_BANQIQ128_03833_SEQ_01","將柯呫盧利·帕嗦利委託的物品交給她"
 2,"TEXT_BANQIQ128_03833_SEQ_02",""
 3,"TEXT_BANQIQ128_03833_SEQ_03",""
 4,"TEXT_BANQIQ128_03833_SEQ_04",""
@@ -28,7 +26,7 @@ int32,str,str
 21,"TEXT_BANQIQ128_03833_SEQ_21",""
 22,"TEXT_BANQIQ128_03833_SEQ_22",""
 23,"TEXT_BANQIQ128_03833_SEQ_23",""
-24,"TEXT_BANQIQ128_03833_TODO_00","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>뮤릴의 향수 부근의 광맥에서 <Sheet(Item,IntegerParameter(5),0)/> 채굴<Else/>코테루리 파소리에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>뮤릴의 향수 부근의 약초밭에서 <Sheet(Item,IntegerParameter(5),0)/> 채집<Else/>코테루리 파소리에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>투시 메키타 호수의 물속에서 <Sheet(Item,IntegerParameter(5),0)/> 작살질<Else/>코테루리 파소리에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If>"
+24,"TEXT_BANQIQ128_03833_TODO_00","<hex:0208F20160E4E80511FF6F><hex:02086BE3E802E803FF35>在繆櫟的鄉愁附近的礦脈採取<hex:02280AFF05>Item<hex:E8060103><hex:FF2E>將<hex:02280AFF05>Item<hex:E8060103>交給柯呫盧利·帕嗦利<hex:03><hex:FFF0E9><hex:0208F0E4E4E80512FF6F><hex:02086BE3E802E803FF35>在繆櫟的鄉愁附近的草場採取<hex:02280AFF05>Item<hex:E8060103><hex:FF2E>將<hex:02280AFF05>Item<hex:E8060103>交給柯呫盧利·帕嗦利<hex:03><hex:FF6F><hex:02086BE4E80513FF63><hex:02085FE3E802E803FF29>在蛇水湖的水下刺取<hex:02280AFF05>Item<hex:E8060103><hex:FF2E>將<hex:02280AFF05>Item<hex:E8060103>交給柯呫盧利·帕嗦利<hex:03><hex:FF01><hex:03><hex:03><hex:03>"
 25,"TEXT_BANQIQ128_03833_TODO_01",""
 26,"TEXT_BANQIQ128_03833_TODO_02",""
 27,"TEXT_BANQIQ128_03833_TODO_03",""
@@ -52,39 +50,16 @@ int32,str,str
 45,"TEXT_BANQIQ128_03833_TODO_21",""
 46,"TEXT_BANQIQ128_03833_TODO_22",""
 47,"TEXT_BANQIQ128_03833_TODO_23",""
-48,"TEXT_BANQIQ128_03833_QHOTERLPASOL_000_000","덕분에 발굴 조사도 상당히 성과가 있어서요~,
-조사를 통해 판명된 사실을 많은 인간들에게 알리고 싶사와요~."
-49,"TEXT_BANQIQ128_03833_QHOTERLPASOL_000_001","그래서 롱카의 역사서를 만들기로 했답니다~.
-판재에 문자와 그림을 새기고 석묵과 염료를 묻혀 종이에 찍으면
-효율적으로 많은 책을 만들 수가 있을 거예요~!"
-50,"TEXT_BANQIQ128_03833_QHOTERLPASOL_000_002","정확한 역사를 남기기 위해 협력을 부탁드려요~.
-뮤릴의 향수 부근에서 캘 수 있는
-'<Sheet(Item,29537,0)/>'<13>FF0F02280BFF054974656DF273610103FF04EBA5BCFF04EC9D84</13> 3개, 가져와 주시어요~."
-51,"TEXT_BANQIQ128_03833_QHOTERLPASOL_000_003","정확한 역사를 남기기 위해 협력을 부탁드려요~.
-뮤릴의 향수 부근에서 채집할 수 있는
-'<Sheet(Item,29563,0)/>'<13>FF0F02280BFF054974656DF2737B0103FF04EBA5BCFF04EC9D84</13> 3개, 가져와 주시어요~."
-52,"TEXT_BANQIQ128_03833_QHOTERLPASOL_000_004","정확한 역사를 남기기 위해 협력을 부탁드려요~.
-투시 메키타 호수의 물속에서 작살질로 잡을 수 있는
-'<Sheet(Item,29589,0)/>'<13>FF0F02280BFF054974656DF273950103FF04EBA5BCFF04EC9D84</13> 가져와 주시어요~."
-53,"TEXT_BANQIQ128_03833_QHOTERLPASOL_000_005","정확한 역사를 남기기 위해 협력을 부탁드려요~.
-뮤릴의 향수 부근에서 캘 수 있는
-'<Sheet(Item,29537,0)/>'<13>FF0F02280BFF054974656DF273610103FF04EBA5BCFF04EC9D84</13> 3개, 가져와 주시어요~."
-54,"TEXT_BANQIQ128_03833_QHOTERLPASOL_000_006","정확한 역사를 남기기 위해 협력을 부탁드려요~.
-뮤릴의 향수 부근에서 채집할 수 있는
-'<Sheet(Item,29563,0)/>'<13>FF0F02280BFF054974656DF2737B0103FF04EBA5BCFF04EC9D84</13> 3개, 가져와 주시어요~."
-55,"TEXT_BANQIQ128_03833_QHOTERLPASOL_000_007","정확한 역사를 남기기 위해 협력을 부탁드려요~.
-투시 메키타 호수의 물속에서 작살질로 잡을 수 있는
-'<Sheet(Item,29589,0)/>'<13>FF0F02280BFF054974656DF273950103FF04EBA5BCFF04EC9D84</13> 가져와 주시어요~."
-56,"TEXT_BANQIQ128_03833_SYSTEM_000_008","이 퀘스트를 진행하기 위해서는
-퀘스트 '작살질을 해보자'를 완료하여
-'작살질'을 개방해야 합니다."
-57,"TEXT_BANQIQ128_03833_QHOTERLPASOL_000_010","수고하셨어요~.
-서적용 재료는 구해오셨어요~?"
-58,"TEXT_BANQIQ128_03833_QHOTERLPASOL_000_011","협력해 주셔서 감사드려요~!
-롱카의 훌륭한 역사를 노르브란트에 널리 알릴 수 있다면
-그것을 통해 배우는 지혜 또한 도움이 되겠지요~!"
-59,"TEXT_BANQIQ128_03833_QHOTERLPASOL_000_012","서기의 민족인 키타리로서
-이보다 더 자랑스러운 일은 없을 거예요~!"
-60,"TEXT_BANQIQ128_03833_SYSTEM_000_020","퀘스트 수행 중에 일반 품질 아이템이 채집되었습니다.
-HQ 아이템이 아니면 퀘스트를 완료할 수 없으며 판매 불가이므로
-소지품 공간이 부족하다면 버리셔도 됩니다."
+48,"TEXT_BANQIQ128_03833_QHOTERLPASOL_000_000","多虧了爾，挖掘調查有了很大的成果是也。<hex:02100103>某等會將調查結果分享給更多的人。"
+49,"TEXT_BANQIQ128_03833_QHOTERLPASOL_000_001","在此，某想製作隆卡的歷史書是也。<hex:02100103>將文字和圖片刻在板材上，再用石墨和染料將其印刷在紙上，<hex:02100103>這樣就能有效製作更多的歷史書了！"
+50,"TEXT_BANQIQ128_03833_QHOTERLPASOL_000_002","為了將正史流傳後世，請爾幫幫某！<hex:02100103>拜託爾去繆櫟的鄉愁附近採取3個<hex:02280BFF05>Item<hex:F273610103>是也。"
+51,"TEXT_BANQIQ128_03833_QHOTERLPASOL_000_003","為了將正史流傳後世，請爾幫幫某！<hex:02100103>拜託爾去繆櫟的鄉愁附近採取3個<hex:02280BFF05>Item<hex:F2737B0103>是也。"
+52,"TEXT_BANQIQ128_03833_QHOTERLPASOL_000_004","為了將正史流傳後世，請爾幫幫某！<hex:02100103>拜託爾去蛇水湖的水下抓取<hex:02280BFF05>Item<hex:F273950103>是也。<hex:02100103>據說得用刺魚才能抓到。"
+53,"TEXT_BANQIQ128_03833_QHOTERLPASOL_000_005","為了將正史流傳後世，請爾幫幫某！<hex:02100103>拜託爾去繆櫟的鄉愁附近採取3個<hex:02280BFF05>Item<hex:F273610103>是也。"
+54,"TEXT_BANQIQ128_03833_QHOTERLPASOL_000_006","為了將正史流傳後世，請爾幫幫某！<hex:02100103>拜託爾去繆櫟的鄉愁附近採取3個<hex:02280BFF05>Item<hex:F2737B0103>是也。"
+55,"TEXT_BANQIQ128_03833_QHOTERLPASOL_000_007","為了將正史流傳後世，請爾幫幫某！<hex:02100103>拜託爾去蛇水湖的水下抓取<hex:02280BFF05>Item<hex:F273950103>是也。<hex:02100103>據說得用刺魚才能抓到。"
+56,"TEXT_BANQIQ128_03833_SYSTEM_000_008","若訣竅取或繼續推進本任務，<hex:02100103>需完成任務「刺魚的方法」開放刺魚。"
+57,"TEXT_BANQIQ128_03833_QHOTERLPASOL_000_010","辛苦爾了，找到製作書用的素材了嗎？"
+58,"TEXT_BANQIQ128_03833_QHOTERLPASOL_000_011","感謝爾的幫忙！<hex:02100103>如果能將隆卡的偉大歷史傳遞到諾弗蘭特的每個角落，<hex:02100103>相信大家一定能學習並運用其中的知識是也!"
+59,"TEXT_BANQIQ128_03833_QHOTERLPASOL_000_012","作為負責記錄的奇塔利族，沒有比這更值得驕傲的了是也！"
+60,"TEXT_BANQIQ128_03833_SYSTEM_000_020","（★未使用／削除予定★）"

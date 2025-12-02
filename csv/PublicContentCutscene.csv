@@ -1,5 +1,6 @@
 ﻿key,0,1
 #,Cutscene,Cutscene2
+offset,0,4
 int32,Cutscene,Cutscene
 0,0,0
 50000,664,0

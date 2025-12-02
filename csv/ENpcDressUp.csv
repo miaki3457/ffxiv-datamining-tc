@@ -1,5 +1,6 @@
 ﻿key,0,1
 #,,ENpcDressUpDress
+offset,0,1
 int32,byte,ENpcDressUpDress
 0,0,0
 1,2,1

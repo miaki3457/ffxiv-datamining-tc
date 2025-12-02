@@ -1,5 +1,6 @@
 ﻿key,0,1
 #,Echo{Start},Echo{Death}
+offset,0,2
 int32,uint16,uint16
 0,0,0
 1,0,5

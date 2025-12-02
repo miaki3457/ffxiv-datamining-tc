@@ -1,124 +1,57 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_001","멍청한 학회 녀석들, 나의 숭고한 이론을 망상으로 치부하다니!
-두고봐라, 언젠가 반드시 증명하고 말 테다……
-이 광대한 우주는 생명으로 가득하다는 것을!"
-1,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_002","하늘 끝까지 도달했던 희대의 조달꾼, 잘 와줬다!
-자네라면 분명 나의 이론을 증명해 주겠지.
-자, 어서 나의 가설에 대해서 물어보게나!"
-2,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_003","후후후…… 몸소 달의 땅을 밟고 학설을 증명할 기회를 얻다니!
-인류가 우주로 진출한 지금이야말로 우주 생물학이 필요한 때!
-달을 직접 보고 온 자네라면 물론 동의하겠지?"
-3,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_Q1_000_000","무엇을 물어보시겠습니까?"
-4,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_A1_000_001","비탄의 바다에 있는 정예 마물"
-5,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_A1_000_002","울티마 툴레에 있는 정예 마물"
-6,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_A1_000_003","취소"
-7,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_Q2_000_000","무엇을 물어보시겠습니까?"
-8,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_A2_000_001","B급: 원시의 거대 바위 '태초암'"
-9,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_A2_000_002","B급: 달의 갑각류 '거대 물벼룩'"
-10,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_A2_000_003","A급: 은색의 요마 '무스 공주'"
-11,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_A2_000_004","A급: 만개한 여왕 '루나텐더 여왕'"
-12,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_A2_000_005","S급: 생각하는 균류 '되새기는 자'"
-13,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_A2_000_006","취소"
-14,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_010","자네는 포배드를 알고 있나?
-암석에 고농도 에테르가 깃들어서 자연 발생하는 골렘의 일종이지.
-그 근연종은 눈에도 깃든다고 하더군."
-15,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_011","만약 월면에 에테르가 존재한다면, 포배드와 닮은 존재가
-달의 바위를 매개 삼아 발생했을 가능성이 있어.
-아니, 가능성이 아니라 무조건 발생했을걸세!"
-16,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_012","그런 존재에 나는 '태초암'이라는 이름을 붙였다네.
-자, 이제 숙달된 조달꾼인 자네가 그걸 쓰러뜨린 후에
-전리품을 가지고 돌아오면, 분명 학회도 한바탕 시끄러워지겠군!"
-17,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_020","화산 분화는 때때로 성층권까지 도달하는 연기 기둥을 만들지.
-그 용암 조각에 고열과 충격을 견디는 용암 생물이 들러붙고
-게다가 별 밖으로 나가 달에 도달했다면……."
-18,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_021","만에 하나 , 아니 억에 하나, 아니지, 조에 하나의 가능성일지라도
-단 하나의 개체라도 달로 건너갔다면 조건은 충분해!
-만약 그렇다면 극소 갑각류도 독자적 진화를 이뤘을 걸세!"
-19,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_022","아아, 내게는 보인다네!
-달의 환경에 적응한 갑각류 '거대 물벼룩'의 모습이……!
-자, 내 학설을 증명하기 위해 생체 샘플을 꼭 가져와 주게!"
-20,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_030","이계 보이드에 서식하는 존재, 요마…….
-상위 존재를 우리가 원초세계에 소환하려면
-에테르를 투입해 차원의 경계에 구멍을 뚫어야만 하지."
-21,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_031","그런데 극히 드물게 차원의 틈새, 보이드의 틈이 자연적으로
-발생해서 임프 같은 하급 요마가 숨어드는 경우가 있다네.
-만약 그런 현상이 월면에서 일어난다면 어떨까?"
-22,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_032","만족스러운 매개체가 없는 월면에선
-모래와 흙에 요마의 혼이 깃들어 푸딩과 같은 형태를 이루겠지.
-그게 바로 내가 증명하고 싶은 '무스 공주'라네……!"
-23,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_040","자네는 밤하늘에 보이는 유성이
-먼 우주 저편에서 날아온 돌이란 걸 알고 있나?
-대부분 대기권에서 연소하지만 크기가 크면 그렇지만도 않지."
-24,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_041","특히 산처럼 거대한 암석이 떨어졌을 때
-모두 연소되지 않고 지표면에 추락해 대폭발을 일으킨 후
-식물 씨앗을 머금은 토양이 별 밖으로 튕겨나간다면?"
-25,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_042","그리고 월면에 도달해서 꽃을 피웠다면?
-오랜 시간이 지나면 사보텐더도 루나텐더로 진화하겠지!
-아아, 꽃이 피는 '루나텐더 여왕'의 존재를 빨리 증명하고 싶어!"
-26,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_050","우주는 가혹해…….
-두터운 대기층에 의해 감소해야 할 유해 광선이 내리쬐는 바람에
-우리 별의 생물 대부분이 생존하지 못하니까 말일세."
-27,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_051","하지만 균류는 놀라울 정도로 억센 생명력을 보이기도 한다네.
-월면의 가혹한 환경일지라도 균류는 끝까지 살아남아
-진화의 길을 걸어갈지도 모르지."
-28,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_052","그렇게 진화를 거듭하다 보면
-언젠가 사고 능력까지 갖추게 될지도 몰라.
-그게 바로 내가 고안한 생각하는 균류 '되새기는 자'일세!"
-29,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_053","후후후…… 사고 능력이 있다면
-독자적인 의사 전달 수단을 발달시켜 공생 관계를 구축할 수 있을 터!
-진화 균류끼리 서로 위험을 경고하며 생존률을 높일 테니까 말이지!"
-30,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_Q3_000_000","무엇을 물어보시겠습니까?"
-31,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_A3_000_001","B급: 개조된 슬픈 용 '오스크 레이'"
-32,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_A3_000_002","B급: 조작 기계 '레벨 교란기'"
-33,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_A3_000_003","A급: 개량형 병기 '아치 에타'"
-34,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_A3_000_004","A급: 순혈의 용족 '판 아일'"
-35,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_A3_000_005","S급: 지고의 정신 '내로 리프트'"
-36,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_A3_000_006","취소"
-37,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_060","고대 알라그 문명이 야만신 바하무트의 포획에 오메가를 활용한 사례.
-그리고 알라미고를 둘러싼 싸움에서 소환된 신룡의 사례. 이것들에서
-난 오메가와 드래곤 사이에서 어떤 연관이 있음을 느낀다네."
-38,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_061","다시 말해, 우주적 관점에서 보면
-드래곤의 고향인 용의 별과 오메가 문명의 고향 별은
-대립 관계…… 즉, 전쟁 상태였던 건 아니었을까?"
-39,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_062","그런 비극적 접촉이 있었다면, 오메가 문명이 취하는 행동은…….
-아마도 포획한 드래곤을 기계적으로 개조했을 테지.
-내 가설을 증명해 줄 전리품을 기대한다!"
-40,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_070","먼 우주 저편에 오메가를 만든 문명의 고향 별이 있다면
-틀림없이 과학 기술에선 우리를 능가했을 거다."
-41,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_071","그런 지성을 갖춘 존재라면
-자신들이 만든 기계의 데이터를 기록하지 않았을 리가 없어.
-그리고 기록된 데이터의 개조를 막을 방법도 검증했겠지!"
-42,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_072","자네가 그런 존재의 부품 하나라도
-전리품으로 가지고 돌아와 준다면, 내 저작권 수익의 일부를
-자네에게 보수로 주겠다고 약속하겠네!"
-43,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_080","자네는 생물의 정의가 뭐라고 생각하나?
-자기 증식? 아니면 진화 혹은 생존 본능……?
-그 모든 걸 겸비한 기계는 과연 생물이라고 불러도 될까?"
-44,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_081","내가 논하고 싶은 건 고대 알라그 시대에
-우주에서 날아와 떨어졌다는 '오메가'가 생물이냐 아니냐일세.
-만약 생물이라면 오메가는 우주 생물인 셈이 되지."
-45,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_082","논점은 두 가지, 오메가가 생물로서 조건을 갖췄느냐.
-그리고 오메가는 정말로 우주 저편에서 찾아온 존재이냐.
-이걸 증명하려면 오메가 고향 별에서 만들어진 기계가 필요하다네!"
-46,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_090","우주 생물 따윈 존재하지 않는다고 나를 욕하는 자는
-지금 당장 드라바니아에 가서 드래곤에게 잡아먹힘으로써
-몸소 자신의 어리석음을 참회해야 마땅할 터!"
-47,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_091","알다시피 드래곤의 시조인 미드가르드오름은
-태고에 우리 별에 찾아온 다른 별의 생물이니까……!
-아차차, 그걸 발표한 건 자네들 '새벽'이었지!"
-48,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_092","아무튼, 이것이 사실로 증명되면
-나를 학회에서 추방한 자들도 입에 거품을 물 게 틀림없어!
-즉, 용의 별에 사는 드래곤을 쓰러뜨리고 증거를 찾으면 되는 거야!"
-49,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_100","우주는 광대해…….
-다른 별에서 태어난 생명은 우리 별과는 다른 형태를 지녔고
-지성이 생기면 문화도 정신도 전혀 다르기 마련이지."
-50,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_101","그런데 이건 조금 다른 이야기네만
-내가 이 세상에서 제일 혐오하는 것이 뭔지 아나?"
-51,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_102","말할 것도 없이 요통이야.
-이 부자유한 통증으로 가득한 육체에서 벗어나서
-순수한 정신체로 승화할 수 있다면 얼마나 멋질까!"
-52,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_103","확신이 들어…… 이 우주엔 순수한 정신체가 존재한다는 확신이!
-그런 지성체가 악의를 품으면 나약한 개체가 모인 걸 감지해서
-공격해 오겠지…… 아아, 빨리 존재를 증명하고 싶어!"
+0,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_001","學會的那些蠢貨們居然將我崇高的理論斷定為妄想！<hex:02100103>你們給我等著！我一定會證明給你們看的……<hex:02100103>在這廣闊的宇宙中是充滿了生命的！"
+1,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_002","到達過天空盡頭的天才拾穗人啊，你來得正是時候！<hex:02100103>想必如果是你的話，一定能為我的理論提供依據吧。<hex:02100103>先來聽聽我的假設再說吧。"
+2,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_003",""
+3,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_Q1_000_000","想了解什麼？"
+4,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_A1_000_001","關於嘆息海的危險標的怪物"
+5,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_A1_000_002","關於天外天核的危險標的怪物"
+6,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_A1_000_003","取消"
+7,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_Q2_000_000","想了解什麼？"
+8,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_A2_000_001","關於B級怪物：原始巨岩——起源石"
+9,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_A2_000_002","關於B級怪物：月面甲王——巨月蚤"
+10,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_A2_000_003","關於A級怪物：銀色妖異——慕斯公主"
+11,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_A2_000_004","關於A級怪物：星外孤芳——月面仙人掌女王"
+12,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_A2_000_005","關於S級怪物：月上奇想——沉思之物"
+13,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_A2_000_006","取消"
+14,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_010","你聽過說過弗巴德嗎？<hex:02100103>那是一種高濃度乙太寄宿在岩石當中從而自然產生的巨像。<hex:02100103>據說其近親甚至是由雪構成的。"
+15,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_011","如果月面也存在乙太的話，<hex:02100103>那應該也會出現以月球岩石為媒介的類似弗巴德的生物。<hex:02100103>不對，不能說是應該，我相信在那裡絕對是有的！"
+16,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_012","我將其命名為起源石。之後要做的事情就很簡單了，<hex:02100103>只要你這位高超的拾穗人打倒它並拿回樣本的話，<hex:02100103>學會那幫人也一定會一臉驚訝吧！"
+17,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_020","火山噴發時的煙柱有時會到達平流層。<hex:02100103>假設有能夠耐高溫耐衝擊的熔岩生物附著在噴出的火山石上，<hex:02100103>並且順勢飛出星外抵達月球的話……"
+18,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_021","哪怕只有萬分之一，甚至是億分之一、兆分之一的可能性，<hex:02100103>只要有一個個體抵達月球就行！<hex:02100103>這樣的話就算是極小的甲殼類也能完成獨特的進化吧！"
+19,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_022","啊，我能預見到！<hex:02100103>我彷彿已經看到適應了月面環境的甲殼類——巨月蚤的模樣！<hex:02100103>好了，為了證明我的學說，幫我去尋找生物樣本吧！"
+20,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_030","棲息在虛無界的妖異……<hex:02100103>我們如果若想召喚上級的妖異來到原初世界，<hex:02100103>就需要投入大量的乙太在次元的分界線上開一個洞才行。"
+21,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_031","不過在極其偶然的情況下也會自然產生次元的狹縫——虛無裂痕。<hex:02100103>此時就會有像是小頑童那樣的低階妖異闖入我們的世界。<hex:02100103>但要是這種現象發生在月面的話呢？"
+22,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_032","在沒有合適媒介的月面，妖異的靈魂應該會寄宿在沙土之中，<hex:02100103>從而構成類似布丁一樣的形態。<hex:02100103>而這就是我想證明的理論上應該存在的慕斯公主！"
+23,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_040","你知道嗎？劃過夜空的流星其實是從遙遠宇宙盡頭飛來的岩石呢。<hex:02100103>雖然通常它們都會在大氣層燃燒殆盡，<hex:02100103>不過尺寸大的話可就不一定了。"
+24,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_041","特別是像山一樣巨大的岩石落下來的話，<hex:02100103>就會因為無法燃盡從而撞擊地表引發大爆炸。<hex:02100103>如果此時含有植物種子的土壤因為撞擊而飛向了星外的話呢？"
+25,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_042","要是它能到達月球表面並開出花朵呢？<hex:02100103>只要經歷了漫長的時間，仙人掌應該也能進化成月面仙人掌！<hex:02100103>啊，我好想證明月面上有能夠開花的月面仙人掌女王啊！"
+26,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_050","宇宙的環境是非常嚴酷的……<hex:02100103>沒有了厚厚的大氣層保護，大量的有害光線傾盆而下，<hex:02100103>想必我們星球上的生物大多數都是無法倖存的吧。"
+27,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_051","不過菌類有時則會向我們展現出驚異而又頑強的一面。<hex:02100103>不管月面的環境有多麼嚴酷，<hex:02100103>只要是菌類的話應該就可以在那裡生存下來並走上進化之路吧。"
+28,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_052","於是就這樣在不停地進化中，<hex:02100103>菌類或許會獲得思考的能力也說不定。<hex:02100103>這便是我推論出的月上奇想——沉思之物！"
+29,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_053","呵呵呵……如果真的有思考能力的話，<hex:02100103>那它們一定會發展出獨自的溝通手段，構建出共生關係才對！<hex:02100103>透過菌類夥伴之間互相發出危險的警告提高群體的生存率！"
+30,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_Q3_000_000","想了解什麼？"
+31,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_A3_000_001","關於B級怪物：被改造的悲龍——歐斯克·雷伊"
+32,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_A3_000_002","關於B級怪物：測試的工具——等級作弊儀"
+33,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_A3_000_003","關於A級怪物：改良型兵器——伊塔總領"
+34,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_A3_000_004","關於A級怪物：純血龍族——凡·艾爾"
+35,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_A3_000_005","關於S級怪物：至高精神——狹縫"
+36,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_A3_000_006","取消"
+37,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_060","古代亞拉戈文明曾利用歐米茄捕獲了蠻神巴哈姆特，<hex:02100103>在圍繞阿拉米格的鬥爭中，歐米茄又和召喚出的神龍戰鬥過。<hex:02100103>這些事例都不禁讓我感受到了歐米茄與龍族之間的因緣。"
+38,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_061","也就是說從宇宙層面上來講，<hex:02100103>龍族故鄉的龍星與歐米茄文明的母星應該是處於對立關係……<hex:02100103>也就是戰爭狀態的。"
+39,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_062","如果真的有著這樣悲劇性的接觸，那歐米茄文明會採取的行動……<hex:02100103>很可能是對捕獲到的龍族進行機械改造吧。<hex:02100103>希望你能夠找到足夠證明我假說的戰利品！"
+40,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_070","在遙遠的宇宙盡頭，如果真的有能製造歐米茄的星球，<hex:02100103>那他們的科學技術一定是遠遠凌駕於我們之上的。"
+41,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_071","既然是擁有如此高科技的文明，<hex:02100103>那他們肯定記錄著自己創造的機械的數據，<hex:02100103>並且應該還對如何防止改竄數據的方法進行過驗證才對！"
+42,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_072","如果你能找到這種機械的零件的話，請幫我帶回來，<hex:02100103>我將從我著作的銷售額中拿出一部分來給你作為報酬！"
+43,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_080","你是如何定義生物的呢？<hex:02100103>自我增殖嗎？還是進化？又或是生存本能嗎？<hex:02100103>那兼具這一切的機械又能稱之為生物嗎？"
+44,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_081","我想議論的是在古代亞拉戈時代，<hex:02100103>從宇宙飛來並在這顆星球著陸的歐米茄究竟能否被認定為生物。<hex:02100103>如果真能這樣認定的話，那歐米茄就會被歸類為宇宙生物了。"
+45,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_082","論點有兩個，一是歐米茄是否滿足生物的條件。<hex:02100103>二是歐米茄真的是從宇宙盡頭飛來的嗎。<hex:02100103>為了證明這些，我需要在歐米茄母星製作出來的機械！"
+46,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_090","責罵我說根本不存在什麼宇宙生物的那些傢伙，<hex:02100103>現在應該立刻給我跑到德拉瓦尼亞那裡以身餵龍，<hex:02100103>來懺悔自己到底有多麼的愚蠢！"
+47,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_091","就像你知道的那樣，<hex:02100103>龍族的始祖幻龍米德加爾特是在太古時代飛到我們星球的異星生物！<hex:02100103>啊，我都忘了，發表了這件事情的正是你們拂曉的說！"
+48,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_092","不管怎麼說，如果能夠證明這是事實的話，<hex:02100103>那就一定能讓那些將我逐出學會的傻貨們狠狠地摔個跟頭！<hex:02100103>也就是說你去替我打倒龍星上的龍族獲得證據就行了！"
+49,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_100","宇宙十分廣大……異星上誕生的生命不但與我們有著不同的形態，<hex:02100103>如果那裡還存在智慧生物的話，<hex:02100103>那想必文化以及價值觀也與我們完全不同吧。"
+50,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_101","到此先換個話題，<hex:02100103>你知道我最討厭這世上的什麼嗎？"
+51,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_102","那當然是腰痛了。<hex:02100103>要是能擺脫這不自由又充滿疼痛的肉體，<hex:02100103>昇華為純粹的精神體那該多好啊！"
+52,"TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_103","於是乎……我確信這宇宙之中有純精神體形態的生命！<hex:02100103>如果這種智慧生物懷有惡意，應該會探知弱小個體的聚集點，<hex:02100103>並發動襲擊……啊，我好想盡快證明它們的存在！"

@@ -1,75 +1,42 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_000","반갑군, <If(PlayerParameter(4))>아가씨<Else/>형씨</If>.
-'잊힌 기사 주점'은 어떤 손님이 와도 거부하지 않는다.
-이 주점의 방식에 잘 따라주기만 한다면 말이야……."
-1,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_001","정보를 얻기 위해 이곳에 눌러앉겠다니 참 배짱 좋은 아가씨야.
-뭐, 꽃다운 아가씨가 있어주면 오는 손님도 늘어날 테니
-이런 게 누이 좋고 매부 좋다는 건가?"
-2,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_002","다양한 만남이 사람을 만들고, 그 사람의 과거를 형성한다.
-사람과 사람을 이어주는 것 역시 주점의 매력이지."
-3,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_003","거참, 창천기사단이 여길 주시하고 있었다니……
-우리 주점도 많이 유명해졌어. 안 그래?"
-4,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_004","타타루 양이 떠나고 나서 참 적적하단 말씀이야…….
-그 아가씨 덕에 가게가 얼마나 밝아졌었는지 알겠더군……."
-5,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_005","타타루 양이 당분간 가게 일을 도와준다더군.
-나야 언제든지 환영이지."
-6,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_006","성도 분위기가 뒤숭숭해지고 있어.
-손님들의 화젯거리도 그쪽 얘기가 많아졌고."
-7,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_007","우리 가게는 구름안개 거리 사람들도 자주 드나들거든.
-그래서 방화 소동으로 집을 잃은 녀석들에게
-단골끼리 십시일반 돈을 모아서 전달했어."
-8,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_008","소문 들었어. 매의 보금자리에서 폭동이 일어났다며?
-나도 가게 일을 하면서 모든 걸 잃은 사람을 많이 봤지만,
-해줄 수 있는 건 술이나 한잔 사는 것밖에 없어."
-9,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_009","손님들이 간만에 한결같은 목소리를 낸다는 게
-결국 용을 죽이라는 성토라니!
-모든 게 처음으로 돌아간 건지, 아니면 이번이 마지막일지……."
-10,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_010","드디어 올 것이 왔군…….
-괜찮아. 내 앞가림은 할 수 있으니까.
-여차하면 무기를 들고 싸우겠어."
-11,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_011","사룡의 졸개들이 몰려들었을 때,
-가게를 긴급 대피소로 개방했었어.
-다들 불안에 짓눌려 쓰러질 듯한 표정이더군……."
-12,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_012","네가 사룡을 물리쳤다는 소식이 전해졌을 때의
-기쁨이란 이루 말로 표현할 수가 없었지…….
-그 순간을 너도 봤어야 하는데."
-13,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_013","전쟁이 끝나고 드디어 부흥에 착수하게 되어……
-가게에 죽치고 있던 녀석들도 의욕적으로 일을 하러 나갔어.
-나중에 간식이라도 가지고 가볼까."
-14,"TEXT_REGROC2FORGOTTENKNIGHT_00278_Q1_000_000","무엇을 물어보시겠습니까?"
-15,"TEXT_REGROC2FORGOTTENKNIGHT_00278_A1_000_001","당신의 이야기를 들려달라고 한다"
-16,"TEXT_REGROC2FORGOTTENKNIGHT_00278_A1_000_002","여기는 어떤 곳인지 물어본다"
-17,"TEXT_REGROC2FORGOTTENKNIGHT_00278_A1_000_003","취소"
-18,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_050","이 '잊힌 기사 주점'을 운영하고 있는
-지브리옹이라고 한다."
-19,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_051","이 가게에는 '부상병이 주인 자리를 이어받는다'는
-오랜 전통이 있지.
-……나도 전쟁에서 부상을 당해 지금 이 자리에 서 있는 거다."
-20,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_052","먼 옛날에 이 가게를 처음 시작한 초대 주인도
-전투에서 부상을 입어 검을 놓은 기사였다는군.
-가게 이름도 그 사연에서 따온 모양이야."
-21,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_100","이런 지저분한 주점에 대해 알고 싶다고?
-……별 희한한 녀석도 다 있군."
-22,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_101","이런 지저분한 주점에 대해 알고 싶다고?
-……너도 참 별난 녀석이군."
-23,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_110","이곳은 '잊힌 기사 주점'이다…….
-주정뱅이들의 술값을 뜯어먹는 지저분한 주점이지."
-24,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_111","위층은 임무를 마친 기사들이 주로 이용하고
-계단 아래는 '구름안개 거리' 사람들이 모이는 게 보통이다."
-25,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_112","다들 슬픔과 걱정을 술로 달래려고 가게를 찾지.
-그런 건 귀족이나 평민이나 마찬가지야."
-26,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_113","단골 중에는 외지인이 끼어드는 걸 싫어하는 녀석도 있다.
-분위기에 적응하기 어렵다면 일찌감치 나가는 게 현명할 거야."
-27,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000","（★未使用／削除予定★）"
-28,"TEXT_REGROC2FORGOTTENKNIGHT_00278_SCENE00000Q","（★未使用／削除予定★）"
-29,"TEXT_REGROC2FORGOTTENKNIGHT_00278_SCENE00000A1","（★未使用／削除予定★）"
-30,"TEXT_REGROC2FORGOTTENKNIGHT_00278_SCENE00000A2","（★未使用／削除予定★）"
-31,"TEXT_REGROC2FORGOTTENKNIGHT_00278_SCENE00000A3","（★未使用／削除予定★）"
-32,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_010","（★未使用／削除予定★）"
-33,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_011","（★未使用／削除予定★）"
-34,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_012","（★未使用／削除予定★）"
-35,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_020","（★未使用／削除予定★）"
-36,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_021","（★未使用／削除予定★）"
-37,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_022","（★未使用／削除予定★）"
+0,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_000","歡迎光臨，忘憂騎士亭歡迎來自五湖四海的顧客……<hex:02100103>當然前提是能夠習慣這家酒館做派的。"
+1,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_001","竟然把這裡當做情報源來利用，那小姑娘膽子還挺大。<hex:02100103>不過很多客人也是衝著那小姑娘來的，<hex:02100103>不妨就當是互幫互助吧。"
+2,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_002","各種各樣的邂逅讓人成長，也組成了那個人的過去。<hex:02100103>為人與人牽線搭橋也是酒館的魅力所在。"
+3,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_003","哎呀，沒想到會被蒼天騎士團盯上……<hex:02100103>我們酒館也變得有名了啊。"
+4,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_004","塔塔露小姑娘不在了啊……<hex:02100103>難得給我們這裡增添了一份光彩，她不在還真是有點寂寞啊。"
+5,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_005","塔塔露小姑娘會再在我這裡幫一段時間忙。<hex:02100103>有這麼可愛的小姑娘幫忙，我可是熱烈歡迎的。"
+6,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_006","皇都瀰漫著一股火藥味。<hex:02100103>客人們的話題也在逐漸轉變。"
+7,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_007","來我們這裡的客人也有很多都是雲霧街的居民。<hex:02100103>考慮能為那些在縱火事件中失去家園的人做些什麼……<hex:02100103>我們就把從常客那裡募集到的資金交給他們了。"
+8,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_008","我都聽說了，說是隼巢發生了暴動……<hex:02100103>我在這酒館也見到過失去了一切的傢伙，<hex:02100103>不過旁人所能做的，只不過是請那個人喝杯酒而已。"
+9,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_009","久違地聽到客人們在討論同一件事情，<hex:02100103>可沒想到竟然是在說要「殺龍」！<hex:02100103>這是走了一圈又回到原位了，還是說這就是結局呢……"
+10,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_010","這一刻終於要來臨了……<hex:02100103>放心，我們會顧好自己的。<hex:02100103>關鍵時刻會拿起劍戰鬥到最後的。"
+11,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_011","在大批邪龍眷屬襲擊過來的時候，<hex:02100103>我開放了酒館當做緊急避難所。<hex:02100103>那時大家都十分不安，感覺快要崩潰了……"
+12,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_012","當傳來你成功討伐了邪龍的訊息後，<hex:02100103>大家別提有多高興了……<hex:02100103>真想讓你看看當時的場景。"
+13,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_013","戰爭結束後終於可以開始著手重建工作……<hex:02100103>平日店裡閒坐著的傢伙們也鼓起了幹勁去幹活了。<hex:02100103>待會要不要帶點東西去犒勞犒勞他們呢。"
+14,"TEXT_REGROC2FORGOTTENKNIGHT_00278_Q1_000_000","想了解什麼？"
+15,"TEXT_REGROC2FORGOTTENKNIGHT_00278_A1_000_001","你是做什麼的？"
+16,"TEXT_REGROC2FORGOTTENKNIGHT_00278_A1_000_002","這裡是什麼地方？"
+17,"TEXT_REGROC2FORGOTTENKNIGHT_00278_A1_000_003","取消"
+18,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_050","我是這個酒館「忘憂騎士亭」的店主，吉布里隆。"
+19,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_051","這家店有一個悠久的傳統，<hex:02100103>那就是「由負傷的士兵繼承店主之位」。<hex:02100103>沒錯，我以前就是一個傷兵。"
+20,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_052","據說這家店的第一代店主也是一位在戰場上受了傷，<hex:02100103>之後便扔掉劍的騎士。<hex:02100103>店名也是由此而來的。"
+21,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_100","你想要了解一下這家小破酒館？<hex:02100103>……你還真是好奇心旺盛。"
+22,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_101","你想要了解一下這家小破酒館？<hex:02100103>……你還真是好奇心旺盛。"
+23,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_110","這裡是忘憂騎士亭……<hex:02100103>靠一些酒鬼常客們支撐的小破酒館。"
+24,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_111","上面一層專門是招待結束任務的騎兵們，<hex:02100103>樓梯下面是雲霧街的傢伙們的休息廳。"
+25,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_112","不管怎樣，<hex:02100103>這裡是那些想要借酒消愁的傢伙們聚集的酒館。"
+26,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000_113","常客裡也有人會討厭外來者踏入這裡。<hex:02100103>如果你覺得待在這家小破酒館不舒服的話，<hex:02100103>那為你的人身安全著想，最好就不要靠近這裡。"
+27,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_000","（未使用/預計刪除）"
+28,"TEXT_REGROC2FORGOTTENKNIGHT_00278_SCENE00000Q","（未使用/預計刪除）"
+29,"TEXT_REGROC2FORGOTTENKNIGHT_00278_SCENE00000A1","（未使用/預計刪除）"
+30,"TEXT_REGROC2FORGOTTENKNIGHT_00278_SCENE00000A2","（未使用/預計刪除）"
+31,"TEXT_REGROC2FORGOTTENKNIGHT_00278_SCENE00000A3","（未使用/預計刪除）"
+32,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_010","（未使用/預計刪除）"
+33,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_011","（未使用/預計刪除）"
+34,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_012","（未使用/預計刪除）"
+35,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_020","（未使用/預計刪除）"
+36,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_021","（未使用/預計刪除）"
+37,"TEXT_REGROC2FORGOTTENKNIGHT_00278_GIBRILLONT_022","（未使用/預計刪除）"

@@ -1,8 +1,8 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_AKTKZA003_04182_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-아고라에 있는 토프위브는 모험가에게 부탁할 일이 있는 듯하다."
+0,"TEXT_AKTKZA003_04182_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整<hex:0249020103><hex:0248020103><hex:02100103>露天市集的拖夫維布想委託給冒險者一份工作。"
 1,"TEXT_AKTKZA003_04182_SEQ_01",""
 2,"TEXT_AKTKZA003_04182_SEQ_02",""
 3,"TEXT_AKTKZA003_04182_SEQ_03",""
@@ -26,8 +26,8 @@ int32,str,str
 21,"TEXT_AKTKZA003_04182_SEQ_21",""
 22,"TEXT_AKTKZA003_04182_SEQ_22",""
 23,"TEXT_AKTKZA003_04182_SEQ_23",""
-24,"TEXT_AKTKZA003_04182_TODO_00","주문받은 책 전달"
-25,"TEXT_AKTKZA003_04182_TODO_01","토프위브와 대화"
+24,"TEXT_AKTKZA003_04182_TODO_00","送達訂購的書"
+25,"TEXT_AKTKZA003_04182_TODO_01","和拖夫維布對話"
 26,"TEXT_AKTKZA003_04182_TODO_02",""
 27,"TEXT_AKTKZA003_04182_TODO_03",""
 28,"TEXT_AKTKZA003_04182_TODO_04",""
@@ -50,70 +50,34 @@ int32,str,str
 45,"TEXT_AKTKZA003_04182_TODO_21",""
 46,"TEXT_AKTKZA003_04182_TODO_22",""
 47,"TEXT_AKTKZA003_04182_TODO_23",""
-48,"TEXT_AKTKZA003_04182_TOFFWYB_000_001","엇, 모험가가 어쩐 일로 여기에…… 하지만 마침 잘 와줬어!
-갑자기 미안하지만, 부탁 하나 해도 될까!?"
-49,"TEXT_AKTKZA003_04182_TOFFWYB_000_002","주문받은 책을 가게에 가져다 놨는데
-다들 갑자기 배송해 달라고 하지 뭐야.
-부탁이야, 보상은 반드시 줄게……!"
-50,"TEXT_AKTKZA003_04182_TOFFWYB_000_003","우와아, 고마워!
-그럼 간단히 설명할게.
-배송할 책은 전부 세 권이야!"
-51,"TEXT_AKTKZA003_04182_TOFFWYB_000_004","'<Sheet(EventItem,2003110,0)/>'<13>FF15022811FF0A4576656E744974656DF61E90A60103FF04EB8A94FF04EC9D80</13> '올브라이트 가 하인'에게!
-'<Sheet(EventItem,2003111,0)/>'<13>FF15022811FF0A4576656E744974656DF61E90A70103FF04EB8A94FF04EC9D80</13> '수다스러운 애서가'에게!
-그리고 '<Sheet(EventItem,2003112,0)/>'<13>FF15022811FF0A4576656E744974656DF61E90A80103FF04EB8A94FF04EC9D80</13> '늠름한 조달꾼'에게 전달해 줘!"
-52,"TEXT_AKTKZA003_04182_TOFFWYB_000_005","장소는…… 지도에 표시해 둘게.
-대금은 이미 받았으니까 전달만 하면 돼!
-배송이 다 끝나면 사례할 테니까 꼭 다시 돌아와 줘!"
-53,"TEXT_AKTKZA003_04182_TOFFWYB_000_006","대금은 이미 받았으니까 전달만 하면 돼!
-갑작스럽게 미안하지만 잘 부탁할게!"
-54,"TEXT_AKTKZA003_04182_MAIDINSEVESTRE_000_007","올브라이트 가에 오신 걸 환영합니다.
-죄송하지만 미리 약속은 하셨습니까?"
-55,"TEXT_AKTKZA003_04182_MAIDINSEVESTRE_000_008","도서 배송 때문에 오셨다고요.
-책 제목이 '<Sheet(EventItem,2003110,0)/>'……
-네, 잘 받아 놓으라는 분부가 있었습니다."
-56,"TEXT_AKTKZA003_04182_MAIDINSEVESTRE_000_009","그런데…… 고명한 점성술사인 주인님께서
-왜 뒤처진 이슈가르드 점성술에 관심을……?"
-57,"TEXT_AKTKZA003_04182_MAIDINSEVESTRE_000_010","어머나.
-주인님의 행동에 의문을 품다니, 제가 주제 넘은 짓을 했네요.
-어쨌든 배송해 주셔서 감사합니다."
-58,"TEXT_AKTKZA003_04182_CHATTYBIBLIOPHILIA_000_011","앗, 주문한 책을 배송하러 왔구나?
-안 그래도 기다렸어."
-59,"TEXT_AKTKZA003_04182_CHATTYBIBLIOPHILIA_000_012","맞아 맞아, '<Sheet(EventItem,2003111,0)/>'!
-저자가 14살이어서 완성도과 신빙성을 의심했었는데
-평소 편지를 주고받는 동방의 애서가 친구가 적극 추천하더라고. "
-60,"TEXT_AKTKZA003_04182_CHATTYBIBLIOPHILIA_000_013","아발라시아 구름바다의 풍물을 자세히 묘사해서
-제법 읽을 만한 책이라고 했어.
-파이싸 싸움이라는 별난 제전에 관한 내용이 특히 흥미롭대. "
-61,"TEXT_AKTKZA003_04182_CHATTYBIBLIOPHILIA_000_014","배송해 줘서 고마워!
-아아, 얼른 읽고 싶다……!"
-62,"TEXT_AKTKZA003_04182_FEARLESSGLEANER_000_015","응? 뭐야 넌?
-나한테 용무라도 있어?"
-63,"TEXT_AKTKZA003_04182_FEARLESSGLEANER_000_016","아, 책 배송이군.
-이렇게 일부러 와 주다니.
-'<Sheet(EventItem,2003112,0)/>', 가져다 줘서 고맙다!"
-64,"TEXT_AKTKZA003_04182_FEARLESSGLEANER_000_017","사실 난 조달 임무 때문에 오사드 소대륙에 가야 해.
-그래서 이 책을 읽고 동방 지역……
-특히 아짐 대초원의 문화를 알아 두고 싶어."
-65,"TEXT_AKTKZA003_04182_FEARLESSGLEANER_000_018","어디 보자……………………
-'초원에 사는 아우라 젤라 51개 부족의 생활 양식은 실로 다양한데,
-가령 남자만 있는 부두가족은 타부족 남자를 납치해 구성원을 늘린다'"
-66,"TEXT_AKTKZA003_04182_FEARLESSGLEANER_000_019","뭐뭐뭐뭐뭐!? 진짜야?
-왠지 좀 오싹해지는데…… 조금 더 읽어 봐야겠어.
-아무튼 배송해 줘서 고맙다."
-67,"TEXT_AKTKZA003_04182_TOFFWYB_000_020","어서 와~!
-무사히 배송을 끝냈구나!"
-68,"TEXT_AKTKZA003_04182_TOFFWYB_000_021","샬레이안의 서점은 이 나라에서 출판되는 책은 물론이고
-다른 나라의 서적도 많이 취급하고 있어.
-그래서 항구에 배가 들어올 때마다 정신없이 바쁘지."
-69,"TEXT_AKTKZA003_04182_TOFFWYB_000_022","도와줘서 정말 고마워.
-얼마 안 되지만, 이건 사례야!
-고마웠어!"
-70,"TEXT_AKTKZA003_04182_BOOKSHOPSTAFF_000_001","（★未使用／削除予定★）"
-71,"TEXT_AKTKZA003_04182_BOOKSHOPSTAFF_000_002","（★未使用／削除予定★）"
-72,"TEXT_AKTKZA003_04182_BOOKSHOPSTAFF_000_003","（★未使用／削除予定★）"
-73,"TEXT_AKTKZA003_04182_BOOKSHOPSTAFF_000_004","（★未使用／削除予定★）"
-74,"TEXT_AKTKZA003_04182_BOOKSHOPSTAFF_000_005","（★未使用／削除予定★）"
-75,"TEXT_AKTKZA003_04182_BOOKSHOPSTAFF_000_006","（★未使用／削除予定★）"
-76,"TEXT_AKTKZA003_04182_BOOKSHOPSTAFF_000_020","（★未使用／削除予定★）"
-77,"TEXT_AKTKZA003_04182_BOOKSHOPSTAFF_000_021","（★未使用／削除予定★）"
-78,"TEXT_AKTKZA003_04182_BOOKSHOPSTAFF_000_022","（★未使用／削除予定★）"
+48,"TEXT_AKTKZA003_04182_TOFFWYB_000_001","哦，難得會有冒險者過來……不過來得正好！<hex:02100103>抱歉事出突然，可以委託給你一份工作嗎？！"
+49,"TEXT_AKTKZA003_04182_TOFFWYB_000_002","這裡有一些訂購的書，<hex:02100103>可是大家突然說希望可以儘快配送。<hex:02100103>拜託了，我會給你報酬的……"
+50,"TEXT_AKTKZA003_04182_TOFFWYB_000_003","唔哦哦，謝謝你！<hex:02100103>那我簡單說明一下。<hex:02100103>需要配送的書一共有3本！"
+51,"TEXT_AKTKZA003_04182_TOFFWYB_000_004","<hex:022811FF0A>EventItem<hex:F61E90A60103>要送到阿爾布萊特家傭人那裡！<hex:02100103><hex:022811FF0A>EventItem<hex:F61E90A70103>要送到能言善道的書籍收藏家那裡！<hex:02100103><hex:022811FF0A>EventItem<hex:F61E90A80103>則是要送到剽悍的拾穗人那裡！"
+52,"TEXT_AKTKZA003_04182_TOFFWYB_000_005","具體位置……我會標在地圖上的。<hex:02100103>錢都已經付過了，你只需要把東西送達就行！<hex:02100103>配送完後我會給你謝禮的，記得回來哦！"
+53,"TEXT_AKTKZA003_04182_TOFFWYB_000_006","錢都已經付過了，你只需要把東西送達就行！<hex:02100103>突然麻煩你真是抱歉，總之拜託了！"
+54,"TEXT_AKTKZA003_04182_MAIDINSEVESTRE_000_007","歡迎來到阿爾布萊特家。<hex:02100103>不好意思，請問您有預約嗎？"
+55,"TEXT_AKTKZA003_04182_MAIDINSEVESTRE_000_008","是來送書的啊。<hex:02100103><hex:022811FF0A>EventItem<hex:F61E90A60103>……<hex:02100103>的確是主人要求領取的書籍名。"
+56,"TEXT_AKTKZA003_04182_MAIDINSEVESTRE_000_009","不過……身為一名著名的占星術師，<hex:02100103>主人為何會對落後的伊修加爾德的占星術感興趣呢？"
+57,"TEXT_AKTKZA003_04182_MAIDINSEVESTRE_000_010","哎呀不好。<hex:02100103>身為傭人，我不該對主人的行為產生疑問。<hex:02100103>總之，感謝您的配送。"
+58,"TEXT_AKTKZA003_04182_CHATTYBIBLIOPHILIA_000_011","哦，是來送我訂購的書的啊？<hex:02100103>等你好久了。"
+59,"TEXT_AKTKZA003_04182_CHATTYBIBLIOPHILIA_000_012","沒錯，就是<hex:022811FF0A>EventItem<hex:F61E90A70103>！<hex:02100103>由於作者只有14歲，因此我對此書的品質和可信度都存疑，<hex:02100103>不過看過此書的東方書友卻向我強烈推薦。"
+60,"TEXT_AKTKZA003_04182_CHATTYBIBLIOPHILIA_000_013","裡面詳細記述了阿巴拉提亞雲海的風俗，<hex:02100103>讀起來似乎很容易上癮。<hex:02100103>我對裡面有關猴面雀鬥技這一奇異祭禮的描述尤其感興趣。"
+61,"TEXT_AKTKZA003_04182_CHATTYBIBLIOPHILIA_000_014","謝謝你幫忙送來！<hex:02100103>哎呀，我都迫不及待地要開始讀了！"
+62,"TEXT_AKTKZA003_04182_FEARLESSGLEANER_000_015","嗯？你是誰啊？<hex:02100103>找我有事嗎？"
+63,"TEXT_AKTKZA003_04182_FEARLESSGLEANER_000_016","哦，是來送書的啊。<hex:02100103>真是失禮了。<hex:02100103><hex:022811FF0A>EventItem<hex:F61E90A80103>我收下了！"
+64,"TEXT_AKTKZA003_04182_FEARLESSGLEANER_000_017","其實我是因為有籌備任務需要前往奧薩德次大陸，<hex:02100103>所以想透過這本書了解東方地區……<hex:02100103>尤其是太陽神草原的文化。"
+65,"TEXT_AKTKZA003_04182_FEARLESSGLEANER_000_018","我來看看……<hex:02100103>「住在草原上的暮暉之民51部族的生活方式各式各樣，<hex:02100103>比如只有男性的布都嘎族會透過搶奪其他部族的男性來增加人數。」"
+66,"TEXT_AKTKZA003_04182_FEARLESSGLEANER_000_019","喂喂喂喂真的假的！<hex:02100103>感覺有點嚇人啊……再多讀一會兒吧。<hex:02100103>總之感謝你幫忙配送。"
+67,"TEXT_AKTKZA003_04182_TOFFWYB_000_020","歡迎回來！<hex:02100103>看來都已經順利送達了啊！"
+68,"TEXT_AKTKZA003_04182_TOFFWYB_000_021","薩雷安的書店不僅有本國出版的書，<hex:02100103>還收有很多異國的書籍。<hex:02100103>因此每次船到港口之時都會很忙碌。"
+69,"TEXT_AKTKZA003_04182_TOFFWYB_000_022","你這次真是幫大忙了。<hex:02100103>這是一點小小的心意！<hex:02100103>謝謝你！"
+70,"TEXT_AKTKZA003_04182_BOOKSHOPSTAFF_000_001",""
+71,"TEXT_AKTKZA003_04182_BOOKSHOPSTAFF_000_002",""
+72,"TEXT_AKTKZA003_04182_BOOKSHOPSTAFF_000_003",""
+73,"TEXT_AKTKZA003_04182_BOOKSHOPSTAFF_000_004",""
+74,"TEXT_AKTKZA003_04182_BOOKSHOPSTAFF_000_005",""
+75,"TEXT_AKTKZA003_04182_BOOKSHOPSTAFF_000_006",""
+76,"TEXT_AKTKZA003_04182_BOOKSHOPSTAFF_000_020",""
+77,"TEXT_AKTKZA003_04182_BOOKSHOPSTAFF_000_021",""
+78,"TEXT_AKTKZA003_04182_BOOKSHOPSTAFF_000_022",""

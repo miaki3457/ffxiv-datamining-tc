@@ -1,5 +1,6 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,int32
 0,"GL_SEQ_OFFER",0
 1,"GL_SEQ_ACCEPTED",1

@@ -1,31 +1,18 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_000","응? 처음 보는 얼굴이네.
-나한테 무슨 용건이냐……?"
-1,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_001","갑자기 대이동 명령을 받아서 바빠 죽겠어!
-용건이 있으면 빨리 말해라."
-2,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_002","얘기는 들었다. 네가 하늘 끝으로 간다면서…….
-내가 할 수 있는 일은 별로 없지만
-궁금한 게 있다면 최선을 다해서 대답해 주마!"
-3,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_003","별의 위기가 사라지고 여기도 정상 영업으로 돌아왔어.
-모든 게 네 덕분이야.
-자, 무슨 용건이냐?"
-4,"TEXT_REGNOT5UPPERACRINTHOS_00740_Q1_000_000","무엇을 물어보시겠습니까?"
-5,"TEXT_REGNOT5UPPERACRINTHOS_00740_A1_000_001","당신의 이야기를 들려달라고 한다"
-6,"TEXT_REGNOT5UPPERACRINTHOS_00740_A1_000_002","여기는 어떤 곳인지 물어본다"
-7,"TEXT_REGNOT5UPPERACRINTHOS_00740_A1_000_003","취소"
-8,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_010","난 여기 직원이다.
-조달꾼들이 가져온 물품을 기록하고 분류하지."
-9,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_011","라비린토스에는 전 세계에서 귀중한 서적과 유물,
-진귀한 생체 샘플까지 다양한 자료가 모여들어.
-수량이 엄청나다 보니 업무가 만만치 않아."
-10,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_012","그 와중에 대이동까지 결정됐잖아?
-달로 옮길 물품의 반출 계획을 세우느라 바빠 죽을 지경이야!"
-11,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_020","여긴 상부 아크린토스다.
-승강기에서 하역된 화물이 일차적으로 모이는 장소지."
-12,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_021","화물은 여기서 분류된 다음에 아르케이온 보관원이나
-그 밖의 다양한 시설로 운반돼.
-말하자면 라비린토스의 반입구인 셈이다."
-13,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_022","다만, 대이동이 결정된 지금은
-반출구로 역할이 바뀔 것 같지만 말이야……."
+0,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_000","哎呀，沒見過你啊。<hex:02100103>找我有事嗎？"
+1,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_001","突然下了什麼大撤退的命令，我現在正忙著呢！<hex:02100103>有事的話就快點說吧。"
+2,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_002","我都聽說了，你要去宇宙盡頭是吧……<hex:02100103>雖然我能為你做的不多，<hex:02100103>可如果你有什麼想問的，我一定儘量回答！"
+3,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_003","星球的危機解除，這裡也恢復了正常營業。<hex:02100103>這一切都是你的功勞啊。<hex:02100103>那麼找我有什麼事嗎？"
+4,"TEXT_REGNOT5UPPERACRINTHOS_00740_Q1_000_000","想了解什麼？"
+5,"TEXT_REGNOT5UPPERACRINTHOS_00740_A1_000_001","你是做什麼的？"
+6,"TEXT_REGNOT5UPPERACRINTHOS_00740_A1_000_002","這裡是什麼地方？"
+7,"TEXT_REGNOT5UPPERACRINTHOS_00740_A1_000_003","取消"
+8,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_010","我是這裡的職員。<hex:02100103>負責記錄並分類拾穗人們帶來的東西。"
+9,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_011","迷津收集有來自全世界的貴重書籍和遺物<hex:02100103>以及稀有的生物樣本等各類資料。<hex:02100103>由於數量龐大，所以這份工作並不輕鬆。"
+10,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_012","結果現在又做出了什麼大撤退的決定？<hex:02100103>我還得統計需要搬往月球的物品，忙得不得了！"
+11,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_020","這裡是衛輔城上層。<hex:02100103>從升降機上卸下來的物品都會臨時存放在這裡。"
+12,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_021","物品在這裡進行分類之後，就會被搬到<hex:02100103>公堂保管院和其他各類設施當中。<hex:02100103>也就是所謂的迷津的入口。"
+13,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_022","不過如今既然已經做出了大撤退的決定，<hex:02100103>那麼這裡應該就變成出口了吧……"

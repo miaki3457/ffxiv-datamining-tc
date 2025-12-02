@@ -1,33 +1,17 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGYOK6PANAQPELURETREAT_00869_YUPLU_000_000","파나크펠루 휴양지에 온 걸 환영해!
-이곳에 대해 설명해 줄게~"
-1,"TEXT_REGYOK6PANAQPELURETREAT_00869_YUPLU_000_001","아까 지진과는 다른 이상한 진동을 느꼈어.
-무슨 일이 일어난 건지 확인 중이지만
-만일의 사태라면 손님들을 대피시켜야 해."
-2,"TEXT_REGYOK6PANAQPELURETREAT_00869_YUPLU_000_002","손님에게 들었는데
-산 너머에서 발리가르만다가 날뛰고 있다지 뭐야!
-모두 아무것도 모르는 채 온천에 들어가 있었지만."
-3,"TEXT_REGYOK6PANAQPELURETREAT_00869_YUPLU_000_003","결정됐다면서, 새로운 연왕님이!
-상황이 진정되면 이곳에 머물기 위해 와 주시지 않을까……?
-그러면 온천의 효능에 대해 얼마든지 설명해 드릴 텐데!"
-4,"TEXT_REGYOK6PANAQPELURETREAT_00869_Q1_000_000","무엇을 물어보시겠습니까?"
-5,"TEXT_REGYOK6PANAQPELURETREAT_00869_A1_000_001","당신의 이야기를 들려달라고 한다"
-6,"TEXT_REGYOK6PANAQPELURETREAT_00869_A1_000_002","여기는 어떤 곳인지 물어본다"
-7,"TEXT_REGYOK6PANAQPELURETREAT_00869_A1_000_003","취소"
-8,"TEXT_REGYOK6PANAQPELURETREAT_00869_YUPLU_000_010","난 손님들을 안내하는 유펠루라고 해.
-저기 있는 카블리를 비롯한 가족들과 함께
-이곳을 운영하고 있지."
-9,"TEXT_REGYOK6PANAQPELURETREAT_00869_YUPLU_000_011","난 손님들의 말벗이 되어서
-효능과 역사에 대해 말씀드려.
-당신도 온천을 즐기고 이해해 주면 좋겠어!"
-10,"TEXT_REGYOK6PANAQPELURETREAT_00869_YUPLU_000_020","여기는 '파나크펠루 휴양지'야.
-펠루펠루족의 자랑거리인 비경 온천을
-행상인을 비롯해 이곳에 온 사람들에게 무료로 개방한 휴양지지."
-11,"TEXT_REGYOK6PANAQPELURETREAT_00869_YUPLU_000_021","온천 이용은 무료지만 기념품을 판매하거나
-식사를 제공해서 운영비를 충당하고 있어.
-그러면 서로 기분 좋게 거래할 수 있잖아?"
-12,"TEXT_REGYOK6PANAQPELURETREAT_00869_YUPLU_000_022","그런데 아까 그 이상한 진동 때문에
-다들 심란한 모양이야…….
-와춘 펠로에 일찌감치 확인하러 가는 게 좋을까?"
+0,"TEXT_REGYOK6PANAQPELURETREAT_00869_YUPLU_000_000","歡迎來到帕納克佩魯休養所！<hex:02100103>我會對這裡的湯泉進行說明。"
+1,"TEXT_REGYOK6PANAQPELURETREAT_00869_YUPLU_000_001","剛才感受到了區別於地震的神奇晃動。<hex:02100103>究竟發生了什麼目前正在確認，<hex:02100103>以防萬一，必須得對客人們進行疏散才行。"
+2,"TEXT_REGYOK6PANAQPELURETREAT_00869_YUPLU_000_002","我從客人那裡聽說了，<hex:02100103>是艷翼蛇鳥在山裡引發了暴動！<hex:02100103>不過大家當時沒有任何察覺，都在悠閒地泡溫泉。"
+3,"TEXT_REGYOK6PANAQPELURETREAT_00869_YUPLU_000_003","新任聯王大人已經定下來了啊！<hex:02100103>不知等一切塵埃落定之後會不會光顧這裡呢……<hex:02100103>到時候我一定會好好講解一下湯泉的功效的！"
+4,"TEXT_REGYOK6PANAQPELURETREAT_00869_Q1_000_000","想了解什麼？"
+5,"TEXT_REGYOK6PANAQPELURETREAT_00869_A1_000_001","你是做什麼的？"
+6,"TEXT_REGYOK6PANAQPELURETREAT_00869_A1_000_002","這裡是什麼地方？"
+7,"TEXT_REGYOK6PANAQPELURETREAT_00869_A1_000_003","取消"
+8,"TEXT_REGYOK6PANAQPELURETREAT_00869_YUPLU_000_010","我叫玉皮露，負責為客人們提供指引。<hex:02100103>那邊是我的哥哥卡弗利，我們這裡是家族生意。"
+9,"TEXT_REGYOK6PANAQPELURETREAT_00869_YUPLU_000_011","我會一邊陪客人們聊天，<hex:02100103>一邊向大家講解湯泉的功效和歷史。<hex:02100103>希望你也能多多了解和感受湯泉的樂趣！"
+10,"TEXT_REGYOK6PANAQPELURETREAT_00869_YUPLU_000_020","這裡是帕納克佩魯休養所。<hex:02100103>有著佩魯佩魯族引以為傲的秘境溫泉，<hex:02100103>是面向來到這裡的所有人免費開放的休養聖地。"
+11,"TEXT_REGYOK6PANAQPELURETREAT_00869_YUPLU_000_021","雖然泡溫泉免費，<hex:02100103>不過購買特產和飲食等方面還是要收取相關費用的。<hex:02100103>這樣的話相信大家都可以心情舒暢地進行交易吧？"
+12,"TEXT_REGYOK6PANAQPELURETREAT_00869_YUPLU_000_022","但是因為剛才的神奇晃動，<hex:02100103>大家似乎都有些慌了神……<hex:02100103>還是應當早點去瓦丘恩佩洛那邊確認一下才行啊。"

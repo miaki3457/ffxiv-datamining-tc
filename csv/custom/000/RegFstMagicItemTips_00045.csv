@@ -1,26 +1,16 @@
 ﻿key,0,1
 #,,
+offset,0,4
 int32,str,str
-0,"TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_1","큭큭큭……
-드디어 '에테르 장비'를 손에 넣었다!"
-1,"TEXT_REGFSTMAGICITEMTIPS_00045_Q1_1","뭐라고 할까요?"
-2,"TEXT_REGFSTMAGICITEMTIPS_00045_A1_1","에테르 장비가 뭐죠?"
-3,"TEXT_REGFSTMAGICITEMTIPS_00045_A1_2","에테르 장비는 어떻게 얻나요?"
-4,"TEXT_REGFSTMAGICITEMTIPS_00045_A1_3","그래요? 좋겠네요."
-5,"TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_10","좋은 질문이군.
-'에테르 장비'란 말 그대로……
-마력, 즉 '에테르'가 깃들어 있는 장비다."
-6,"TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_11","모험가 길드의 의뢰로 동굴에 들어가나?
-그럼 장비 확인만큼은 게을리 하지 마."
-7,"TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_12","기껏 고생해서 손에 넣은 명품인데
-가방 안에 처박아 두기만 하면 아깝잖아."
-8,"TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_20","뭐? 이걸 갖고 싶으니까, 내놓으라는 거냐?
-농담도 잘하셔. 내가 이 물건을 손에 넣으려고
-얼마나 고생했는데……."
-9,"TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_21","'에테르 장비'라는 건
-원래 주인이 죽을 때 흩어진 에테르가
-장비에 깃든 걸 말하지."
-10,"TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_22","그래서 유적이나 깊은 동굴 같이
-위험한 장소에 가야 손에 넣을 수 있어."
-11,"TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_23","그래, 여기 '사스타샤 침식 동굴'에서도
-에테르 장비를 손에 넣을 수 있을 거야."
+0,"TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_1","嘿嘿嘿……<hex:02100103>終於得到了夢寐以求的「乙太裝備」！"
+1,"TEXT_REGFSTMAGICITEMTIPS_00045_Q1_1","如何作答？"
+2,"TEXT_REGFSTMAGICITEMTIPS_00045_A1_1","乙太裝備是什麼？"
+3,"TEXT_REGFSTMAGICITEMTIPS_00045_A1_2","怎麼得到乙太裝備"
+4,"TEXT_REGFSTMAGICITEMTIPS_00045_A1_3","不關我事"
+5,"TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_10","問得好。<hex:02100103>所謂乙太裝備，就是帶有某種魔力的裝備……<hex:02100103>其實這種魔力就是乙太了。"
+6,"TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_11","說起來，你是受冒險者行會委託而來的嗎？<hex:02100103>那麼，進洞穴前一定要確認好裝備。"
+7,"TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_12","如果包裡有好裝備，一定要裝備在手中，<hex:02100103>否則再好的裝備也無法發揮其作用。"
+8,"TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_20","你想叫我轉讓給你？<hex:02100103>我得到這裝備也是費了九牛二虎之力啊……<hex:02100103>我倒是可以告訴你怎麼得到乙太裝備。"
+9,"TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_21","乙太裝備是原來的擁有者在逝去時釋放的乙太<hex:02100103>黏附到裝備裡而產生的。"
+10,"TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_22","因此呢，通常可以在遺跡、洞穴深處等危險的地點發現乙太裝備。"
+11,"TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_23","比如在這「沙斯塔夏溶洞」裡就很有可能找到乙太裝備。"
