@@ -19,7 +19,7 @@ int32,str,byte,byte,byte,FCActivityCategory,sbyte
 14,"公會轉到了“<hex:022812FF0D>GrandCompany<hex:E8020103>”屬下。",0,1,0,1,5
 15,"公會轉到了“<hex:022812FF0D>GrandCompany<hex:E8020103>”屬下。",0,1,0,1,6
 16,"公會轉到了“<hex:022812FF0D>GrandCompany<hex:E8020103>”屬下。",0,1,0,1,7
-17,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>修改了“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”階級的設置。",4,5,0,3,3
+17,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>修改了“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”階級的設定。",4,5,0,3,3
 18,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>添加了“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”階級。",4,5,0,3,3
 19,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>刪除了“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”階級。",4,5,0,3,3
 20,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>修改了階級的排序。",4,0,0,3,3
@@ -106,7 +106,7 @@ int32,str,byte,byte,byte,FCActivityCategory,sbyte
 101,"潛水艇“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”升為<hex:022003E80203>級。",16,15,1,9,14
 102,"通過潛水艇“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”的探索，工坊可以登記第<hex:022003E80203>艘潛水艇了。",16,15,1,9,14
 103,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>刪除了<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>的留言。",16,23,0,5,11
-104,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>修改了交流簿的設置。",16,0,0,5,11
+104,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>修改了交流簿的設定。",16,0,0,5,11
 105,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>設定了房屋宣傳標籤。",16,0,0,5,11
 106,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>改建了“<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>”的內部。",16,15,0,5,11
 107,"",0,0,0,0,0

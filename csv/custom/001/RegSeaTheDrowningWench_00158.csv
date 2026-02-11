@@ -3,7 +3,7 @@
 offset,0,4
 int32,str,str
 0,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_000","喲，你來得正好。<hex:02100103>歡迎來到巴德龍的酒館「沉溺海豚亭」！<hex:02100103>這裡是冒險者們的故鄉！"
-1,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_001","來者不拒，往者不追。<hex:02100103>這也正是這條街上的「自由風氣」的體現。<hex:02100103>你也儘可放輕鬆。"
+1,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_001","來者不拒，往者不追。<hex:02100103>這也正是這條街上的「自由風氣」的體現。<hex:02100103>你也儘管放輕鬆吧。"
 2,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_002","但是，靈災所造成的創傷還殘留在各處。<hex:02100103>需要你們冒險者幫忙的地方有很多。<hex:02100103>我很期待著看到你的活躍。"
 3,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_010","喲，你的傳聞連我們這裡都聽說了。<hex:02100103>看來你很努力啊！"
 4,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_011","沒想到那個初出茅廬的新人，<hex:02100103>已經成長得這麼優秀了……真是讓人感慨啊。"
@@ -20,7 +20,7 @@ int32,str,str
 15,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_052","哦，不該說這些不合適的話，<hex:02100103>畢竟店裡來來往往的人比較多。<hex:02100103>在風聲退去之前，你還是要多加小心啊。"
 16,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_060","傳聞我都聽說了，<hex:022903EB0203>！<hex:02100103>娜娜莫陛下的「病」已經康復，<hex:02100103>你總算能堂堂正正走在大街上，不用再擔驚受怕了。"
 17,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_061","真是可喜可賀可喜可賀！<hex:02100103>想不想把那邊的傢伙全找來一起喝個痛快？<hex:02100103>剛跨過生死關頭的你肯定看那幫摳腳大漢也特別順眼吧。"
-18,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_070","黑衣森林的國境線那邊好像發生了大事，<hex:02100103>就連這海之都都傳得沸沸揚揚……<hex:02100103>無論發生什麼，你可一定要活著回來啊。"
+18,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_070","黑衣森林的國境線那邊好像發生了大事，<hex:02100103>就連這海都都傳得沸沸揚揚……<hex:02100103>無論發生什麼，你可一定要活著回來啊。"
 19,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_080","喲，<hex:022903EB0203>！<hex:02100103>聽說現在和帝國那邊的戰況十分激烈，<hex:02100103>我一些傭兵時代的朋友也上了戰場，真是令人擔心……"
 20,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_090","<hex:022903EB0203>，你沒事吧。<hex:02100103>雖然帝都的情況很糟糕，<hex:02100103>不過好在末日塔已經消失了，總算鬆了一口氣。"
 21,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_100","關於拉札漢的慘狀我已經有所耳聞。<hex:02100103>拉諾西亞這裡似乎也出現了偽神獸。<hex:02100103>真是的，世界到底怎麼了？"

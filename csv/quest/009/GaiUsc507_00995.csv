@@ -64,7 +64,7 @@ int32,str,str
 59,"TEXT_GAIUSC507_00995_DUMMYTODO_000_040","在指定地點使用<hex:022811FF0A>EventItem<hex:F61E88330103><hex:02100103>→打倒隨後出現的1隻<hex:02280FFF09>BNpcName<hex:F202870103>。<hex:02100103>→獲取<hex:022811FF0A>EventItem<hex:F61E87D50103>"
 60,"TEXT_GAIUSC507_00995_DUMMY_000_040","（未使用/預計刪除）"
 61,"TEXT_GAIUSC507_00995_WANDERINGBREEZE_000_050","情況怎麼樣？<hex:02100103>你看到什麼有深意的行動了嗎？"
-62,"TEXT_GAIUSC507_00995_WANDERINGBREEZE_000_060","這不是……<hex:02100103>上次遇襲時丟失的<hex:022811FF0A>EventItem<hex:F61E87D50103>嗎？<hex:02100103>原來如此，有一個像是首領的基迦巨人族拿著它啊。"
+62,"TEXT_GAIUSC507_00995_WANDERINGBREEZE_000_060","這不是……<hex:02100103>上次遇襲時弄丟的<hex:022811FF0A>EventItem<hex:F61E87D50103>嗎？<hex:02100103>原來如此，有一個像是首領的基迦巨人族拿著它啊。"
 63,"TEXT_GAIUSC507_00995_WANDERINGBREEZE_000_061","他們撕下調查記錄中的水晶塔臨摹圖，另行保管……<hex:02100103>從這種行動來看，巨塔肯定就是他們的聖地。"
 64,"TEXT_GAIUSC507_00995_WANDERINGBREEZE_000_062","據說基迦巨人族智慧相對較高，<hex:02100103>在整個巨人族中也處於支配者階級。"
 65,"TEXT_GAIUSC507_00995_WANDERINGBREEZE_000_063","既然他們會動腦筋，自然要比一般的魔物更為棘手。<hex:02100103>在今後的調查活動中，我們也要多加小心才是。<hex:02100103>承蒙你出手相助。謝謝你，冒險者。"

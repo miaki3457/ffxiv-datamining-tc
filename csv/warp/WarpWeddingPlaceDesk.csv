@@ -14,7 +14,7 @@ int32,str,str
 9,"TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_100","所謂永結同心典禮，<hex:02100103>就是供希望結下良緣的二人在眾神面前許下諾言的儀式。<hex:02100103>就讓我來向您介紹一下典禮的具體情況吧。"
 10,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_101","永結同心典禮是「永結同心」的相關內容。<hex:02100103>詳情請參見官方網站。"
 11,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_102","欲舉辦典禮，需要事先進行預約。<hex:02100103>持有新人請帖的來賓無需事先預約，<hex:02100103>只要在請帖上指定的時間和艾圖瓦妮勒對話，便可入場。"
-12,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_103","在入場時，請攜帶從新人那裡收到的<hex:02280BFF05>Item<hex:F221FB0103>。<hex:02100103>如丟失則無法入場，需再從新人手中領取。"
+12,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_103","在入場時，請攜帶從新人那裡收到的<hex:02280BFF05>Item<hex:F221FB0103>。<hex:02100103>如遺失則無法入場，需再從新人手中領取。"
 13,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_104","會場每隔2小時（地球時間）可供包場一次，<hex:02100103>因此無法提前入場，<hex:02100103>敬請諒解。"
 14,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_105","入場時間記載在請帖的道具說明中，<hex:02100103>最遲可在請帖內指定時間後約1個半小時（地球時間）內入場。<hex:02100103>典禮結束後則無法入場。"
 15,"TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_120","參加永結同心典禮需注意以下事項。"

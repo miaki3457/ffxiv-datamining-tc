@@ -110,7 +110,7 @@ int32,str,str
 105,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_343","號令分為「號令：戰鬥開始」「號令：撤退」「號令：極限爆發」<hex:02100103>3種，可透過專屬快速鍵發動。"
 106,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_344","發動「號令：戰鬥開始」後，<hex:02100103>分隊員們會對玩家的目標發動攻擊。"
 107,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_345","發動「號令：撤退」後，<hex:02100103>分隊員們會暫時停止戰鬥，並前往玩家身邊集合。"
-108,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_346","另外，「號令：撤退」被髮動後，<hex:02100103>將會變為「號令：撤退解除」。"
+108,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_346","另外，「號令：撤退」被發動後，<hex:02100103>將會變為「號令：撤退解除」。"
 109,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_347","因此，想要解除撤退號令時，<hex:02100103>可以選擇發動「號令：撤退解除」或「號令：戰鬥開始」。"
 110,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_348","發動「號令：極限爆發」後，<hex:02100103>分隊員們會協力施放極限爆發。"
 111,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_349","此極限爆發固定為1級，<hex:02100103>就算極限槽攢滿了2格，發動時也只會消耗1格。"

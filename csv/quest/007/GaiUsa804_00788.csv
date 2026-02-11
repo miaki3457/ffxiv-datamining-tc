@@ -3,7 +3,7 @@
 offset,0,4
 int32,str,str
 0,"TEXT_GAIUSA804_00788_SEQ_00","秋瓜浮村的商人索梅希爾德想要冒險者幫忙尋找失物。"
-1,"TEXT_GAIUSA804_00788_SEQ_01","索梅希爾德的商人同伴丟失了<hex:022811FF0A>EventItem<hex:F61E86EA0103>。尋找<hex:022811FF0A>EventItem<hex:F61E86EA0103>。"
+1,"TEXT_GAIUSA804_00788_SEQ_01","索梅希爾德的商人同伴弄丟了<hex:022811FF0A>EventItem<hex:F61E86EA0103>。尋找<hex:022811FF0A>EventItem<hex:F61E86EA0103>。"
 2,"TEXT_GAIUSA804_00788_SEQ_02","找到了<hex:022811FF0A>EventItem<hex:F61E86EA0103>。交給浮栓亭的艾爾溫。"
 3,"TEXT_GAIUSA804_00788_SEQ_03","艾爾溫看到鑰匙被找回來而感到安心。他聽說有蒙面的男子在附近出沒……"
 4,"TEXT_GAIUSA804_00788_SEQ_04",""
