@@ -56,7 +56,7 @@ int32,str,str
 51,"TEXT_BANIXA605_01566_JEZULAHUATAN_000_030","要讓風屬性乙太高效傳導，<hex:02100103>就需要乙太傳導率高的元件！<hex:02100103>只是製作時需要用到很古怪的材料……"
 52,"TEXT_BANIXA605_01566_JEZULAHUATAN_000_040","材料名叫<hex:022811FF0A>EventItem<hex:F61E8A160103>，<hex:02100103>據說能從庫爾札斯中央高地魔胃洞<hex:02100103>出沒的<hex:02280FFF09>BNpcName<hex:F20BB00103>身上得到！"
 53,"TEXT_BANIXA605_01566_JEZULAHUATAN_000_041","只要在那附近狩獵<hex:022815FF09>BNpcName<hex:FF08>　2918<hex:0103>，它就會出現！<hex:02100103>把微火的頭目揍飛取得材料後，就可以去巨龍首營地進行製作了！"
-54,"TEXT_BANIXA605_01566_JEZULAHUATAN_000_042","只要<hex:022811FF0A>EventItem<hex:F61E8A160103>到手，<hex:02100103>剩下的材料製作設施應該都有庫存！<hex:02100103>向諾貝托借用製作設施加油干吧！"
+54,"TEXT_BANIXA605_01566_JEZULAHUATAN_000_042","只要<hex:022811FF0A>EventItem<hex:F61E8A160103>到手，<hex:02100103>剩下的材料製作設施應該都有庫存！<hex:02100103>向諾貝托借用製作設施努力做吧！"
 55,"TEXT_BANIXA605_01566_JEZULAHUATAN_000_050","拿<hex:022813FF07>ItemHQ<hex:FF08>　8125<hex:0103>回來給我！<hex:02100103>材料據說能從庫爾札斯中央高地魔胃洞的<hex:02100103><hex:02280FFF09>BNpcName<hex:F20BB00103>身上得到！"
 56,"TEXT_BANIXA605_01566_POP_MESSAGE","<hex:02280FFF09>BNpcName<hex:F20BB00103>出現了！"
 57,"TEXT_BANIXA605_01566_NORBETTAUX_000_090","歡迎來到巨龍首營地的製作設施！<hex:02100103>這邊請，先烘暖你凍僵的手指，再加油工作吧！"
